@@ -1,7 +1,7 @@
 
 # Ladies Should Read the Newspaper
 
-### 329 reprints from 1846-09-30 to 1896-11-26
+### 318 reprints from 1846-09-30 to 1896-11-26
 
 ## [Ladies Should Read the Newspaper](https://chroniclingamerica.loc.gov/lccn/sn84028820/1858-11-11/ed-1/seq-4/)
 
@@ -25,7 +25,6 @@ Let the whole family—men, woman, and children—read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 THE NEWSPAPER.  
 It is a great mistake in female education to  
 keep the young ledy&#x27;s time and attention de­  
@@ -58,7 +57,7 @@ to make a big sleepy book, but speak to the
 world through the newspapers. This is the  
 way to make an intelligent, republican, and  
 Virtuous population.--Lowell courier,  
-From ArT
+From ArTh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846093001:0822/pct:17.689148,8.156293,13.148713,17.063450/!600,600/0/default.jpg"/>
 </td>
@@ -72,7 +71,6 @@ From ArT
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 lake in female education to keep the vouug  
   
 lady&#x27;s time attention devoted to the fash­  
@@ -81,7 +79,7 @@ If you would qualify her for conversation,
 you must give her something to talk about  
 give her an acquaintance with this ac-  
   
-A
+AU
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878186:1846100701:0018/pct:67.422469,54.825826,28.364541,4.126914/!600,600/0/default.jpg"/>
 </td>
@@ -95,7 +93,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-I  
   
 The Newspaper.?Ii is a great mistake  
 in female education to keep the  
@@ -139,7 +136,7 @@ world through the newspapers. Tins
 is the way to make an intelligent, republican,  
 and virtuous population.  
 Lotctll Courier.  
-A Relic of th
+A Relic of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026944:00202194278:1846102101:0119/pct:2.774158,9.641582,23.738596,28.964423/!600,600/0/default.jpg"/>
 </td>
@@ -173,7 +170,7 @@ A Relic of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; Tue Newsparer.—lt is a great mistake  
+Tue Newsparer.—lt is a great mistake  
 lin female edueation to keep the youny lady’s  
 time and attention devoted to the fashionable  
 L and polite literature of the day. 1f you would  
@@ -204,7 +201,7 @@ fact or a thought worth communicating, let
 him not try to make a big, sleepy bouok, but  
 speak to the world through the newspapers.  
 This s the way to make an intelligent, repuo­  
-&#x27; lican, and virtuous population.=Lowel Cou
+&#x27; lican, and virtuous population.=Lowel Cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1846110401:0109/pct:17.799607,67.146556,13.136870,16.157431/!600,600/0/default.jpg"/>
 </td>
@@ -218,7 +215,6 @@ This s the way to make an intelligent, repuo­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 THE NEWSPAPER.—It is a great mis- ry the girl-Thy so ?&quot; &quot;Because—be­  
 take in female education to keep the young • cause—she&#x27;s had&#x27; a baby ?&quot; &quot;Well that is  
 lady&#x27;s time and&#x27;intention devoted to the &#x27; bad---but still itmight be worse !&quot; &quot;Well,  
@@ -232,7 +228,7 @@ AN 0 . I&#x27; IA \\ S-1)---5&#x27;.4&quot;/
 l&#x27;&quot;  
 &#x27; Urge her to read the newspapers, and be &quot;What more ?&quot; asked the bachelor, looking  
 familiar with the present character and aghast, &quot;what more can you say ?&quot; &quot;Why  
-movements of our race. historys of som
+movements of our race. historys of some
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002408%2F1846110601%2F0130.jp2/pct:4.093147,78.009660,41.490562,6.332901/!600,600/0/default.jpg"/>
 </td>
@@ -246,7 +242,7 @@ movements of our race. historys of som
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- if I&#x27;ll stand  
+if I&#x27;ll stand  
 and we have nothing to do with it. Our i that,&quot; and so the match was broken off.—  
 thoughts and our concern should be for the; (Great laughter.) ,This Tariff of 18.16  
 present world, to know what it is, and to was the nigger baby, which, if Pennsylva­  
@@ -255,7 +251,7 @@ intelligent opinion, and be able to sustain than the b ac h e l or . ; , /
 intelliga it coneirsation concerning the Mr. B. said there was one subject to  
 men tu , moral, political and religious move- which he wished particularly to -refer, and  
 ments of our times. &#x27; Let the gilded annu- . that was the election of Canal Commission­  
-; / als and poems on the centre-table be kept i or. He wished to se
+; / als and poems on the centre-table be kept i or. He wished to see
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002408%2F1846110601%2F0130.jp2/pct:14.490152,84.511967,31.334633,6.044550/!600,600/0/default.jpg"/>
 </td>
@@ -269,7 +265,7 @@ ments of our times. &#x27; Let the gilded annu- . that was the election of Canal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a and the table is well supplied with news- : prove to the world, that for her part, she  
+a and the table is well supplied with news- : prove to the world, that for her part, she  
 -II- large&#x27; supply of 11007&#x27;S ! papers, her mental and Moral character ; would not stand the nigg er-baby.  
 :-,  
 &#x27;and 8110.1; S, which he can &#x27; and commonsense will not sutler on ac-&#x27; The result has shown that Pennsylvania will&#x27;  
@@ -277,7 +273,7 @@ ments of our times. &#x27; Let the gilded annu- . that was the election of Canal
 sell at very.low prices. &#x27;(`!all and examine. • count of their absence. I.et the whole j am . not stand the &quot;nigger-baby.  
 AI COBEA N. ily—cncti s woinim,, &#x27; and childre - n--read •‘• -  
 -. ever gn.e up—lis wizer and better  
-t; •&#x27;tysltrg, o.:t. •3;t, 1816.-11it&#x27; I the newspapers. And if any body •has a : ..tlway, to hove tha
+t; •&#x27;tysltrg, o.:t. •3;t, 1816.-11it&#x27; I the newspapers. And if any body •has a : ..tlway, to hove that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002408%2F1846110601%2F0130.jp2/pct:0.630899,91.169262,45.019491,3.780998/!600,600/0/default.jpg"/>
 </td>
@@ -291,7 +287,7 @@ t; •&#x27;tysltrg, o.:t. •3;t, 1816.-11it&#x27; I the newspapers. And if any
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ndry,  
+dry,  
 and the extent of his business operations.- Cinaldv.  
 ThE NEWSPAPERs:-It is a great mistake in female edu­  
 cation to keep the young lady&#x27;s time and attention devoted  
@@ -318,7 +314,7 @@ thought or a fact to communicate, let him not try to make
 a big sleepy book, but speak to the world through the  
 newspapers. This is the way to make an intelligent,  
 lican and virtuous population.--LowELl CAur.  
-BaEAd STuFeS To GReAr BrItAl. Th
+BaEAd STuFeS To GReAr BrItAl. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846110701:0247/pct:6.989016,35.869022,14.602628,13.647725/!600,600/0/default.jpg"/>
 </td>
@@ -332,8 +328,6 @@ BaEAd STuFeS To GReAr BrItAl. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 THE NEWSPAPER.  
 It is a great mistake in female education to  
 keep the young lady’s time and attention devoted  
@@ -364,7 +358,7 @@ municating, let him not try to make a big sleepy
 hook, but speak to the world through the news­  
 papers. I his is the way to make an intelligent,  
 republican and virtuous population.—Lotcell Cou  
-rier
+rier.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846110701:0332/pct:52.969715,37.812940,14.863276,15.476319/!600,600/0/default.jpg"/>
 </td>
@@ -378,7 +372,7 @@ rier
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to  
+to  
 papers, and be familiar with the present character  
 and movements of our race. History is of somo  
 importance; but the past world is dead, and wo  
@@ -397,7 +391,7 @@ her common sonse will not suffer on account of
 men and children,-read the newspapers. And  
 if any body has a thought or a fact worth com  
 municating, let him not try to make a bigsl  
-book, but speak to the world through the now
+book, but speak to the world through the nows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1846112401:0592/pct:74.585538,31.242312,18.095238,16.345497/!600,600/0/default.jpg"/>
 </td>
@@ -411,7 +405,7 @@ book, but speak to the world through the now
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- door, and the next mo­  
+door, and the next mo­  
 ment was in the street.  
 (To be continued.)]  
 The Newspaper.—lt is a great mistake in fe­  
@@ -443,7 +437,7 @@ through the newspapers. This is the way to
 make an intelligent republican, and virtuous po­  
 pulation.—Lowell Courier.  
 Refinement.—‘I do not wish to say anything  
-against th
+against the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1846121301:0001/pct:15.267799,81.256194,10.875245,12.128345/!600,600/0/default.jpg"/>
 </td>
@@ -457,8 +451,6 @@ against th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The Newspaper.  
   
 [t 14 a great mistake in female educa­  
@@ -491,7 +483,7 @@ let him not try to make a big, sleepy
 book, but speak to the world through the  
 newspapers. Thisisthe way to make  
 wan mtelhigent, republican, and virtuous  
-population Lowell Courier,
+population Lowell Courier, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846122401:0172/pct:7.560237,61.488817,12.610013,18.159564/!600,600/0/default.jpg"/>
 </td>
@@ -505,7 +497,7 @@ population Lowell Courier,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t !  
+!  
   
 THE NEWSPAPER.  
   
@@ -532,7 +524,8 @@ t the gilded annuals and poems on the cen-
   
 tre table be kept covered with approved wnt  
   
-and daily journals.
+and daily journals.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1846-12-26_16_52%2Fsim_presbyterian_the-presbyterian_1846-12-26_16_52_jp2.zip%2Fsim_presbyterian_the-presbyterian_1846-12-26_16_52_jp2%2Fsim_presbyterian_the-presbyterian_1846-12-26_16_52_0003.jp2/pct:45.157344,84.250399,12.234079,12.377535/,600/0/default.jpg"/>
 </td>
@@ -556,7 +549,7 @@ and daily journals.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.oo  
+oo  
 ThE NEWSeAPEa..-It is a great mis­  
 take in female education to keep the  
 young lady&#x27;s time and attention devoted  
@@ -594,7 +587,7 @@ Ithe newapapers. This is the way to make
 an intelligent, republicanand virtuou  
 poplation.owall Cour  
 ai    
-If the young mind b
+If the young mind be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1847010701:0254/pct:68.777254,72.630140,13.156288,20.738601/!600,600/0/default.jpg"/>
 </td>
@@ -608,7 +601,7 @@ If the young mind b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; , &#x27; THE NEWSPAPER.  
+, &#x27; THE NEWSPAPER.  
 It is » great mistake in female education to  
 :\ r -  
   
@@ -630,7 +623,8 @@ sustain inteliigeht conversation, concerning the
 mental, moral, and political movements of our  
 times. Let thfe gilded annuals and poems on the  
 centre table be kept covered with approved week­  
-ly and daily journals.&#x27;&#x27;
+ly and daily journals.&#x27;&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847012201:0051/pct:49.262429,4.737481,28.774358,92.954515/!600,600/0/default.jpg"/>
 </td>
@@ -644,8 +638,6 @@ ly and daily journals.&#x27;&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 thou gJitTand our concern should be fanhjivrwur  
   
 worm, 10 miuw n uav u is, ana o improve us con­  
@@ -675,7 +667,7 @@ nicaurvg, let bim not try to make a big, sleepy
 1aok but speak to the world througp the newtpa  
 persr&quot; This i is :tbewy&quot;ii6&#x27;mtike an. intelligent, re­  
 publican and virtuous population. Jewell Cour­  
-ier.
+ier. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat15n_ver01%2Fdata%2F1847012301%2F0016.jp2/pct:18.762816,10.324484,15.481887,10.981496/!600,600/0/default.jpg"/>
 </td>
@@ -689,7 +681,7 @@ ier.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;f&#x27;lit NEWRPAPE6.--11 is a great mistake in  
+f&#x27;lit NEWRPAPE6.--11 is a great mistake in  
 female education to keep the young lady&#x27;s time  
 and attention devoted to the fashonablo andpoli to  
 literature of the day. If you would qualify her  
@@ -705,7 +697,7 @@ know what it is, and to improve its conditit-n.
 Let her have an intelligent opinion. and be able  
 to sustain intelligent conversation concerning  
 the mental, moral, political and religious move­  
-ments of ou
+ments of out
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001782%2F1847020301%2F0013.jp2/pct:78.638039,48.846714,14.167209,9.214147/!600,600/0/default.jpg"/>
 </td>
@@ -719,7 +711,7 @@ ments of ou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Ii is n great mistake in  
+Ii is n great mistake in  
 female education to keep the young ladv’s  
 time and attention devoted to the fashionable  
 and polite literature of the dnv. If you would  
@@ -749,7 +741,7 @@ has a thought or a fact wonh communicating,
 let him not try to make a big sleepy book, hut  
 speak to the world through the newspapers.  
 Tins is the way to make an intelligent republi­  
-can, and virtuous population
+can, and virtuous population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847020401:0023/pct:69.771333,16.223223,13.050753,14.886069/!600,600/0/default.jpg"/>
 </td>
@@ -773,7 +765,6 @@ can, and virtuous population
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 THE NEWSPAPEK.  
 It is a great mistake in female education  
 to keep the young lady&#x27;s time and atlention  
@@ -807,7 +798,7 @@ cating, let him not try to make a big slee­
 py book, but speak to the world through the  
 newspapers. This is the way to make an in  
 telligent, republican, and virtuous population  
-LowEll Courie
+LowEll Courier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847020901:0243/pct:56.669193,70.099957,13.111027,17.282341/!600,600/0/default.jpg"/>
 </td>
@@ -821,8 +812,7 @@ LowEll Courie
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it is, to improve its  
-Let the lady have an intelligent  
+intelligent  
 and be able to sustain intelligent  
 tion concerning the mental, moral,  
 and religous movements of our  
@@ -841,9 +831,9 @@ book, but speak to the
 newepapers. This is the w  
 intelligent, republican, and virtuon  
 lation.  
-Gol
+Gold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288300:1847042801:0239/pct:82.491876,81.256356,12.906221,13.060314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288300:1847042801:0239/pct:82.491876,81.796135,12.906221,12.520535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +845,7 @@ Gol
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- Ture Newsearer —lt is a great mistake in  
+Ture Newsearer —lt is a great mistake in  
 [femule education 1o keep the vonnge ladiee?  
 L time and attention devoted to the fashionabie  
 | and polite literature of the day. I you would  
@@ -879,7 +869,7 @@ tre tuble be kept covered with the weekly and
 bookstore, and the table 1s well supplied with  
 newspapess, her mental character and her com  
 “mon seose will not suffer on account of their  
-| absence. Let the whole family—men, w
+| absence. Let the whole family—men, wo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1847102301:0471/pct:30.688508,67.360550,12.375224,12.217057/!600,600/0/default.jpg"/>
 </td>
@@ -893,7 +883,7 @@ newspapess, her mental character and her com
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-is Hera/d.  
+s Hera/d.  
   
 Why Ladies Should Read News­  
 papers.  
@@ -930,7 +920,7 @@ inteiligent, republican and virtuous popu­
 lation.  
 - —­  
   
-Thou
+Thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1857022601:0084/pct:69.926813,60.150376,12.608117,19.561198/!600,600/0/default.jpg"/>
 </td>
@@ -944,7 +934,6 @@ Thou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 (—  
   
 A HINT TO THE LADIES,  
@@ -983,7 +972,7 @@ stand that journals are the records and mirrors
 of the times—a living history—and as such, much  
 more valuable than the dead history of the past.  
   
-Fanxy Kempre.—A letter in
+Fanxy Kempre.—A letter in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1857-05-23_12_21%2Fsim_flag-of-our-union_1857-05-23_12_21_jp2.zip%2Fsim_flag-of-our-union_1857-05-23_12_21_jp2%2Fsim_flag-of-our-union_1857-05-23_12_21_0004.jp2/pct:49.518861,38.843912,12.490377,22.409326/,600/0/default.jpg"/>
 </td>
@@ -997,8 +986,6 @@ Fanxy Kempre.—A letter in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 97  
   
 A IIL&#x27;VT TO THE LADIES.  
@@ -1037,7 +1024,7 @@ stand that journals are the records and mirrors
 of the times—a living history—and as such, much  
 more valuable than the dead history of the past.  
   
-Town and Country. —In October, wo
+Town and Country. —In October, wo 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ballous-monthly-magazine_1857-07_6_1%2Fsim_ballous-monthly-magazine_1857-07_6_1_jp2.zip%2Fsim_ballous-monthly-magazine_1857-07_6_1_jp2%2Fsim_ballous-monthly-magazine_1857-07_6_1_0092.jp2/pct:11.042693,12.138264,69.909688,50.830654/,600/0/default.jpg"/>
 </td>
@@ -1051,7 +1038,7 @@ Town and Country. —In October, wo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-erience of little Stewart  
+rience of little Stewart  
 and his deplorable fate, be a solemn warning  
 to parents and guardians to not let their  
 children and wards roam about unrestrained  
@@ -1082,7 +1069,7 @@ weekly and daily journal. Let the whole
 family—men, women, and children read the  
 newspapers.  
   
-
+S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001944%2F1857111801%2F0182.jp2/pct:3.816283,69.383775,14.573290,21.404765/!600,600/0/default.jpg"/>
 </td>
@@ -1096,7 +1083,6 @@ newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why Ladiks should Read Newspa­  
 pers. It is a great mistake in female ed­  
 ucation to keep a young lady&#x27;s time and  
@@ -1122,48 +1108,9 @@ poems on the centre table bo kept a part
 of the time covered with the weekly and  
 daily journal. Let the whole family.  
 nieu, women and children read the news­  
-papers.Hon. Daniel S. Dickinson, in a recent  
-speech, said: &quot;The American party cannot  
-he thought other than a temporary organiza­  
-tion, somewhat like Betty Wiggle&#x27;s pig:  
-&#x27; When it lived, it lived in clover;  
-And when it died, it died all over.&quot;
+papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857120101:0197/pct:6.567915,50.088048,12.520961,19.359454/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Fayetteville observer._](https://www.loc.gov/resource/sn85033395/1857-12-03/ed-1/?sp=4)
-
-#### 1857-12-03 &middot; [Fayetteville, Tenn.](http://dbpedia.org/resource/Fayetteville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ula­  
-tion!&#x27;s pigs ts   
-THE WAY OF THE WORLd.-&quot;What&#x27;s  
-the price of this article?&quot; inquired a  
-deaf old lady.  
-&quot;Seven shillings,&quot; replied the mer­  
-chant. ie  
-Seventeen shillings!&quot; she ex­  
-claimed; &quot;I&#x27;ll give you thirteen.&quot;  
-&quot;Seven shillings,&quot; retorted the  
-honest tradesman, &quot;is the price of the  
-article. ee  
-Ol sevenshillings,&quot; the lady  
-sharply rejoined, &quot;I&#x27;ll give you five.&quot;  
-Hon. Daniel S. Dickinson, in a  
-recent speech, said: &quot;The American  
-party cannot be thought else than a  
-temporary organization somewhat  
-like Betty Wiggle&#x27;s pig:  
- &quot;When it lived, it lived in clover,  
-And when it died, it died all over.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1857120301:0608/pct:20.281649,80.912487,11.875726,14.740179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857120101:0197/pct:6.567915,50.088048,12.520961,15.397315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1122,6 @@ And when it died, it died all over.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 plete.  
   
 WHY LADIVS 911011L0 Rash Niewseiresa. --  
@@ -1204,7 +1150,7 @@ centre table be kept a pert of the timeilkover-
 whole family--men women and children--  
 road the newspapers.  
   
-7S
+7Sr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001915%2F1857123101%2F0184.jp2/pct:68.520033,68.578384,11.442150,15.289751/!600,600/0/default.jpg"/>
 </td>
@@ -1218,7 +1164,6 @@ road the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why Ladies&quot;S nouuD Read Newspapers.  
 Tt is a great mistake in female education to  
 keep a young lady&#x27;s time and attention de­  
@@ -1242,7 +1187,8 @@ times. Ijci the gilded annuais and poems ou
 the centre table lie kept a part of tho time  
 covered with weekly ami daily journals.-—  
 Let the whole family—men, women and  
-children—read the newspapers.
+children—read the newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064150:00295878630:1858020301:0080/pct:51.973684,18.743668,15.350877,14.222391/!600,600/0/default.jpg"/>
 </td>
@@ -1256,7 +1202,6 @@ children—read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why Ladies should Read Hew­  
 papers.  
 It is a great mistake in female  
@@ -1291,7 +1236,7 @@ journals. Let the whole family
   
 men, women and childres--fes  
 the newspapers.  
-y &quot;I say, Jim, wae not las
+y &quot;I say, Jim, wae not last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1858021001:0225/pct:79.175532,57.454302,15.265957,24.534630/!600,600/0/default.jpg"/>
 </td>
@@ -1305,7 +1250,7 @@ y &quot;I say, Jim, wae not las
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- devoted to  
+devoted to  
 j only to the fashionable literature of tlje day,  
 ; Ifyou would qualify hor for conversation, you  
 ! mn-t give lier something to talk about give  
@@ -1325,21 +1270,11 @@ I the mental, moral, political and religious itn­
 ! nu ils and poems on the centre table be kept a  
 j part qf titpe covered with weekly and daily  
 1 journ ils. Let the whole family—men, women  
-and children—read the newspapers
+and children—read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1858030401:0129/pct:22.521008,60.088645,14.820474,10.415787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## MISCELLANEOUS.
-
-#### From _Bristol Mercury_
-
-#### 1858-03-13 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -1349,7 +1284,6 @@ and children—read the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 Why Ladles Should Read S-wspnprrs.  
 It is a great mistake in female education  
 to keep a young Iadyfs time and attention  
@@ -1374,41 +1308,11 @@ Let the gilded annuals and poems on the
 centar table be kept a part of the time cov-&quot;  
 ered with weekly and daily journals. Lefi  
 J &#x27; &#x27;  
-read the 
+read the r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667309:1858031301:0036/pct:80.187886,45.585523,15.213124,14.073306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## HUMOROUS GATHERINGS.
-
-#### From _Reynolds's  Newspaper_
-
-#### 1858-03-21 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## SCRAPS.
-
-#### From _Manchester Times_
-
-#### 1858-03-27 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## OUR CARPET BAG.
-
-#### From _The Era_
-
-#### 1858-03-28 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -1418,7 +1322,7 @@ read the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- friends, even if he succeeds  
+friends, even if he succeeds  
 in clearing himself from the charge of be­  
 ing bribed. We are pleased to see the  
 stand generally taken by the Republican  
@@ -1452,7 +1356,8 @@ of the time covered with weekly and dai-
 Iv journals. Let the whole family—men,  
 women and children, read the newspa­  
 per.  
--
+-  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1858033101:0154/pct:32.929091,71.792107,11.956056,19.678672/!600,600/0/default.jpg"/>
 </td>
@@ -1466,7 +1371,7 @@ per.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a ii  
+a ii  
 &#x27; Wht Ladies Should ReadNewspapers.-  
 It is a great mistake in female ed­  
 ucation to keep a young lady&#x27;s time and  
@@ -1492,7 +1397,7 @@ annuals and poems on : &#x27;he center ta
   
 ble be kept covered with weekly and  
 daily journals. &#x27; Let the Whole &#x27; family  
-men, women and children read the. new
+men, women and children read the. news
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858040601:0209/pct:56.400260,43.442405,11.760884,13.833466/!600,600/0/default.jpg"/>
 </td>
@@ -1506,7 +1411,7 @@ men, women and children read the. new
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n the  
+the  
 United States for that or any other pur­  
 pose, and if Congress consults the inter­  
 ests of the nation, the National Foundry  
@@ -1539,7 +1444,7 @@ weekly and daily journals. Let the fami­
 ly--men, women and children--read the  
 newspapers.  
 LiVINGSTON COUNTY. The hitherto  
-impregnable D
+impregnable De
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1858042001:0233/pct:69.961822,43.398442,12.367058,22.328957/!600,600/0/default.jpg"/>
 </td>
@@ -1553,7 +1458,7 @@ impregnable D
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the complaints making to us daily  
+he complaints making to us daily  
 that there is not at this time a good stand en one  
 third of the cotton landplanted in our county.  
 At this writing (Tuesday) the weather is cloudy  
@@ -1579,7 +1484,8 @@ times. Let the gilded annuals and poems on the
 centre table be kept a part of the time covered with  
 weekly and daily jousnals. Let the whole family  
 men, women and children--read the newspaper.  
-Erchange
+Erchange  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858051601:0464/pct:5.341530,58.211144,10.737705,10.242983/!600,600/0/default.jpg"/>
 </td>
@@ -1603,7 +1509,6 @@ Erchange
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Ir is one great mistake in female rduea&#x27;  
 tion to keep a young lady&#x27;s t me and attenj  
 tion devoted to only the fashionable literature  
@@ -1626,7 +1531,7 @@ i of our times. Let tho glided annuals and
 j poems on tbe centre table be kept a part of  
 ! the time coveied with weekly and daily  
 1 journals. Let the wh ile family, men. women  
-and children?read tbe newspape
+and children?read tbe newspaper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858051901:0474/pct:58.821023,70.067609,16.207386,11.780373/!600,600/0/default.jpg"/>
 </td>
@@ -1640,7 +1545,7 @@ and children?read tbe newspape
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, MAY 20TH.  
+MAY 20TH.  
 Why Lftdies Should Read Newspa­  
 pers. It is a great mistake in female  
 education to keep a young lady&#x27;s time  
@@ -1668,7 +1573,8 @@ poems on the centre table be kppt a
 part of the time covered with weekly  
 and daily .journals. Let the whole  
 family men, women and children  
-read the newpaper. Ex.
+read the newpaper. Ex.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065088:00212470478:1858052001:0486/pct:6.260000,35.918533,15.080000,22.970057/!600,600/0/default.jpg"/>
 </td>
@@ -1682,7 +1588,6 @@ read the newpaper. Ex.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Home sensible individual, whether man or wo­  
 man we know not, has written the very sensible  
 paragraph, which v.e append below. Ladies who  
@@ -1729,7 +1634,7 @@ le kept a part of the time covered with weekly and
 daily journals. Let tin- whole family, men, wo­  
 men and children -read the newspaper.  
 Mr Skinflint&#x27;s fJooDNESs. When Mr Skin­  
-flint, id&#x27; BeanTllle, die
+flint, id&#x27; BeanTllle, died
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1858052501:0302/pct:5.013699,32.706522,15.041096,26.630435/!600,600/0/default.jpg"/>
 </td>
@@ -1743,7 +1648,7 @@ flint, id&#x27; BeanTllle, die
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-) sel  
+sel  
 Wity LAdies Sitotin itwan Naws.  
 paPeas. It is a great mistake it  
 female education to keep a yoing  
@@ -1771,7 +1676,7 @@ centre table be kept a part of th
 time covered with weckly and daily  
 jodraale. Lot the whole fomily--  
 men, somen and children--rens the  
-hewipapers
+hewipapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1858060201:0290/pct:74.827769,65.127521,14.838368,20.070012/!600,600/0/default.jpg"/>
 </td>
@@ -1785,8 +1690,6 @@ hewipapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 WHY LADIES SHOULD READ NEWS­  
 PAPERS.—It is a great mistake in fe­  
 male education to keep a young lady&#x27;s  
@@ -1813,7 +1716,7 @@ Let the gilded annuals and poems on
 the center table be kept a part of the  
 time covered with weekly and daily  
 journals. Let the whole family—men,  
-women and children—re
+women and children—rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1858061201:0182/pct:72.282840,71.581798,11.322092,14.442037/!600,600/0/default.jpg"/>
 </td>
@@ -1827,8 +1730,6 @@ women and children—re
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 WHY LADIES SHOULD READ NEWS­  
 PAPERS.—It is a great mistake in fe­  
 male education to keep a young lady&#x27;s  
@@ -1863,7 +1764,7 @@ tute discerner of men and things has
 left the following waif:  
   
 Going to dinner the other day, we  
-saw 
+saw a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1858061201:0183/pct:72.103248,71.325664,11.501915,18.084077/!600,600/0/default.jpg"/>
 </td>
@@ -1877,7 +1778,6 @@ saw
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Ladies Should Head Newspapers,  
 It is one great mistake in female educa  
 tion to keep a young lady&#x27;s time and at­  
@@ -1899,7 +1799,8 @@ the gilded annuals and poems on the cen­
 ter table be kept a part of the time covered  
 with weekly and daily journals. Let the  
 family men, women,; and children read  
-the newspapers. -
+the newspapers. -  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1858061201:0196/pct:47.586634,77.418643,15.037129,12.300055/!600,600/0/default.jpg"/>
 </td>
@@ -1913,8 +1814,6 @@ the newspapers. -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 literature of the day. If you would qual­  
 ify her for conversation, you must give  
 her something to talk about,-give her ed­  
@@ -1936,7 +1835,8 @@ the centre table be kept a part of the time
 covered with weekly and daily journals.  
 Let the whole family,-men women and  
   
-children--read the newspapers.
+children--read the newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858062201:0252/pct:82.542399,64.048658,12.291894,11.675261/!600,600/0/default.jpg"/>
 </td>
@@ -1950,7 +1850,6 @@ children--read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Wot ladtes Should Read Newspa  
 er.?It is a great mistake in female cdu  
 ition, to keep a young lady&#x27;s timo and at  
@@ -1971,7 +1870,7 @@ j/iocuii nunu, 10 Know waac. H is, nn&lt;
 nprove the condition of it. Let ber bavi  
 n intelligent opinion and be able to sua  
 tin an intelligent conversation concerning  
-le mental, moral
+le mental, moral,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1858062501:0772/pct:43.328911,53.672643,13.106295,13.048005/!600,600/0/default.jpg"/>
 </td>
@@ -1985,7 +1884,6 @@ le mental, moral
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 Some sensible individual,whether man  
 woman we know not has written the  
 very sensible paragraph, which we ap-  
@@ -2034,7 +1932,8 @@ times. Let the gilded annual poems on
 the centretadle be kept a part of the  
 time covered with weekly and daily jour­  
 nals. Let the whole family, men wom­  
-en and children read the newspapers.
+en and children read the newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858070101:0346/pct:21.218354,18.283181,11.550633,29.634605/!600,600/0/default.jpg"/>
 </td>
@@ -2048,7 +1947,7 @@ en and children read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o it ? N. F.  
+it ? N. F.  
 Stowe, June 1858.  
 Ladies Should Read Newspapers, It is  
 one great mistake in femalo education to  
@@ -2075,7 +1974,7 @@ with weedy and daily journals. Let the
 tamuy men, women and children read the  
 newspaper.  
   
-Writte
+Written
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858070801:0921/pct:9.672304,5.828338,14.957717,86.443056/!600,600/0/default.jpg"/>
 </td>
@@ -2089,7 +1988,7 @@ Writte
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- have commenced cutting their wheat­  
+have commenced cutting their wheat­  
 crop. Although there was much Slid about  
 the weevil destroying the wheat, yet, there is  
 at least aa average crop in the county.  
@@ -2121,52 +2020,11 @@ be kept a part of the timo covered with the
 weekly and daily journals. Let the whole j  
 laniily bjcd, women and children-read the  
 newspapers.  
-The Society of Frie
+The Society of Frien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858071401:0225/pct:3.489583,69.328446,15.225694,21.874591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [CURIOSITIES OF STEAM-POWER.](http://trove.nla.gov.au/ndp/del/article/49782293)
-
-#### From _South Australian Register (Adelaide, SA : 1839 - 1900)_
-
-#### 1858-07-22 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- of the vessel. This Am op  
-Shopping.— &#x27; &#x27;What&#x27;s the price of this  
-article?&#x27; enquired &amp; deaf old lady.  
-&#x27;Seven shillings,&#x27; said the drape.-. &#x27;  
-Sewntoen shillings 1&#x27; she &#x27; exclaimed ;  
-&#x27; I&#x27;ll give yea tbirtewi.&#x27; &#x27; Seven  
-shillings,&#x27; replied the honest  
-tradesman, &#x27;is tho price ol tho artioU.&#x27;  
-&#x27;Ohl seven sbiittcgC. tho lady Tetoitedj  
-&#x27;I&#x27;ll give you five.&#x27;
-</td></tr></table>
-
----
-
-## [Miscellaneous.](http://trove.nla.gov.au/ndp/del/article/158120365)
-
-#### From _Adelaide Observer (SA : 1843 - 1904)_
-
-#### 1858-07-24 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-the draper. &quot;  
-Seventeen shillings!&quot; sh* exclaimed;  
-*^IH give you thirteen.&quot; &quot;Seven  
-shillinas.** Seven sfiUUnga,1 revueu is  
-uie price -of the article.&quot; Oh! seven  
-shillings,&quot; the lady retorted; &quot;I&#x27;ll  
-give 30a five.&quot; DISADVANTAGE o
-</td></tr></table>
 
 ---
 
@@ -2176,7 +2034,7 @@ give 30a five.&quot; DISADVANTAGE o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-wife,  
+ife,  
 and then killed himself.  
   
 WHY LADIES SHOULD READ NEWSPAPERS.—  
@@ -2209,7 +2067,7 @@ man informs us that on Sunday last, a child
 of Mr. Jonas Cornman, living in Swatara&#x27;  
 township, came to.her death by .attempting  
 to swallow a grain of, coffee. - The mother  
-had handed her some hal
+had handed her some half
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001945%2F1858072801%2F0115.jp2/pct:5.099707,5.634966,30.552506,91.707370/!600,600/0/default.jpg"/>
 </td>
@@ -2223,7 +2081,7 @@ had handed her some hal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a glorious immortality.  
+a glorious immortality.  
 Ladies Should read Newspapers  
 It is one great mistake in female educa­  
 tion to keep a young lady’s time and at­  
@@ -2250,7 +2108,7 @@ kept a part of the time covered with week­
 ly and daily journals. Let the whole  
 family—men, women, and children—read  
 I the newspapers.  
-M
+Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1858080401:0651/pct:80.957272,71.561025,12.674610,15.846258/!600,600/0/default.jpg"/>
 </td>
@@ -2264,7 +2122,7 @@ M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; m  
+m  
 Why L.brEg Should Read Newspa  
 pers. It is a great mistake in female ed­  
 ucation to keep a young, lady&#x27;s time and  
@@ -2291,7 +2149,7 @@ ter table be kept part of the tie covered
 with weekly and daily Jonrnals. Let the  
 whole family men, women and children  
 read the newspapers.  
-ESP&quot;
+ESP&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027480:1858080401:0101/pct:43.169563,38.034340,12.597364,16.222617/!600,600/0/default.jpg"/>
 </td>
@@ -2305,7 +2163,7 @@ ESP&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pired  
+ired  
 in the sixty-sixth year of his age.  
   
 Why Ladies should Head News­  
@@ -2334,6 +2192,7 @@ time covered with weekly and daily jour­
 nals. Let the whole family—men, women  
 and children—read the newspapers.  
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001713%2F1858080501%2F0101.jp2/pct:51.300889,58.343188,12.327982,16.118732/!600,600/0/default.jpg"/>
@@ -2348,7 +2207,6 @@ and children—read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Why Ladies Snorxo Read Newspapers. It is a  
 great mistake in female education to keep a young  
 lady&#x27;s time and attention de-voted only to the fashion­  
@@ -2372,7 +2230,7 @@ newspaper. And if anybody has a thought or fact
 worth communication, &quot;let .him not try to make a  
 sleepy book, but speak to the world through the  
 newspapers. This is the way to make an intelligent,  
-republican, and virtuous population
+republican, and virtuous population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1858081101:0549/pct:36.616306,53.220697,14.823261,11.467793/!600,600/0/default.jpg"/>
 </td>
@@ -2386,7 +2244,7 @@ republican, and virtuous population
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-her  
+er  
 for conversation, you must give her something to  
 talk about. Give her an education with this actual  
 world and in transpiring events. Urge her to read  
@@ -2402,7 +2260,7 @@ provements of our times. Let the guilded annuals
 and poems on the centre table be kept a part of the  
 time covered with weekly and daily journals. Let  
 the whole family, man, woman and children read the  
-newspape
+newspaper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858081101:0258/pct:37.362460,55.442859,14.870550,8.102371/!600,600/0/default.jpg"/>
 </td>
@@ -2416,7 +2274,6 @@ newspape
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Why Ladies Should itead News.  
 W ers  
 It is a great mistake in female education to  
@@ -2439,7 +2296,7 @@ provement of our time. Let the gilded annuals
 and poems on our center table be kept part of  
 the time covered with weekly and daily jour­  
 nals. Let the whole family,-men, women and  
-children-read the newspapers
+children-read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1858081101:0659/pct:81.119389,67.145493,12.702162,10.925145/!600,600/0/default.jpg"/>
 </td>
@@ -2453,7 +2310,7 @@ children-read the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and be able to sus-  
+and be able to sus-  
 tain an intelligent conversation concerning  
 WHY LADIES SHOULd ReAd NEWseAPErs  
 It is a great mistake in female education  
@@ -2477,6 +2334,7 @@ and daily journals. Let the whole family
 men, women, and children,-read the  
 newspapers.  
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1858081301:0773/pct:18.359012,29.422666,12.474476,13.300071/!600,600/0/default.jpg"/>
@@ -2491,8 +2349,6 @@ newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 and improve the condition of it. Let her  
   
 have and engage in intelligent conversation  
@@ -2508,7 +2364,7 @@ or fact worth communication, let him not
 try to make a sleepy book, but speak to the  
 world through the newspapers. This is the  
 way to make an intelligent, republican, and  
-virtuous population
+virtuous population.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1858081801:0751/pct:48.190591,14.092219,14.354644,7.723343/!600,600/0/default.jpg"/>
 </td>
@@ -2522,7 +2378,6 @@ virtuous population
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 I’ll du it shore! gode-bi— I’m gon.  
 i  
 Ladies Should read Newspapers.—It  
@@ -2549,7 +2404,8 @@ ed annuals and poems on the centre table
 be kept a part of the time covered with  
 weekly and daily journals. Let the whole  
 family—men, women, and children—read  
-the newspapers._
+the newspapers._  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_ilmenite_ver01:data:sn82015027:0051699003A:1858081901:0032/pct:27.864583,68.836169,12.972005,19.798783/!600,600/0/default.jpg"/>
 </td>
@@ -2563,7 +2419,7 @@ the newspapers._
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Union. &quot;  
+Union. &quot;  
 Why Ladies Should Bead Newspapers.—  
 It is a great mistake in female education to  
 keep a young lady’s time and attention devo­  
@@ -2586,55 +2442,12 @@ Let the gilded annuals and poems on the cen­
 tre-table be kept part of. the lime covered  
 with weekly and daily journals. Let the  
 whole family—men, women and children—  
-read the newspapers.
+read the newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1858090401:0319/pct:56.156210,76.396930,12.927138,12.454558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [No title](http://trove.nla.gov.au/ndp/del/article/783037)
-
-#### From _The South Australian Advertiser (Adelaide, SA : 1858 - 1889)_
-
-#### 1858-09-06 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-unquestionably the be3t comedian in this  
-hemisphere. &quot; What&#x27;s the price of this  
-article P&quot; inquired a deaf old lady.  
-&quot;Seven? shillings,&quot; said the draper.  
-&quot;Seven-teen shillinprs ?&#x27;&#x27; she  
-exclaimed; I&#x27;ll give you thirteen.&quot; &quot;  
-Seven shillings,&quot; replied the honest  
-tradesman, &quot; in the price of the  
-article.&quot; &quot;Oh! seven shillings,&quot; the.  
-Judy re ^ forted; &quot;I&#x27;ll give you five.
-</td></tr></table>
-
----
-
-## [GOVERNMENT GAZETTE. APPOINTMENT](http://trove.nla.gov.au/ndp/del/article/88820939)
-
-#### From _South Australian Weekly Chronicle (Adelaide, SA : 1858 - 1867)_
-
-#### 1858-09-11 &middot; [Adelaide, South Australia](http://dbpedia.org/resource/Adelaide)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- hopes where he  
-despaira, and triumphs where 112&#x27; falls.  
-&#x27; &#x27; What&#x27;s the price of this article tt&#x27;  
-innvih&#x27;! « deaf old lady. &#x27; Seven  
-shillings,&#x27; sail the dran r &#x27; &#x27;  
-Sev^iteen shillings?&#x27; she exclaimed;  
-I&#x27;ll give v&#x27;u tlv^- ? &#x27; &#x27;Seven  
-shillings,&#x27; replied the honest  
-tradesman,
-</td></tr></table>
 
 ---
 
@@ -2644,8 +2457,6 @@ tradesman,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 WUR LADIES SHOULD READ NEWSPA­  
 PERS.—It is a great mistake in female ed­  
 ucation to keep a young lady&#x27;s time and  
@@ -2653,7 +2464,8 @@ attention devoted ouly to the fashionable
   
 r,  
   
-htera&#x27;ur&#x27;
+htera&#x27;ur&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1858091601:0040/pct:82.721777,73.516031,12.666948,3.596187/!600,600/0/default.jpg"/>
 </td>
@@ -2667,7 +2479,6 @@ htera&#x27;ur&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ify her for conversation, you must giv«  
 her something to talk about—give hep  
 education with the actual world aud its  
@@ -2687,7 +2498,7 @@ ment of our time. Let the gilded an­
 nuals and poems on our centre-tables b*  
 kept part of the time covered with week*  
 ly and daily journals. L*t tho whole  
-family—men, wotn^fi and Qhild
+family—men, wotn^fi and Qhildr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1858091601:0040/pct:82.778012,77.003899,12.863771,13.648180/!600,600/0/default.jpg"/>
 </td>
@@ -2701,7 +2512,7 @@ family—men, wotn^fi and Qhild
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dries,  
+ries,  
 in E684 11s.  
   
 Why Ladies should Read Newspa  
@@ -2732,6 +2543,7 @@ on our eentre-tables be kept part of the
 time covered with weekly and daily jour­  
 nals. Let the whole family--men, wo­  
 men and chtidren--read the newspapers.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1858091601:0328/pct:5.709850,71.929825,12.696222,16.026909/!600,600/0/default.jpg"/>
@@ -2746,14 +2558,14 @@ men and chtidren--read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ion, and be able to sustain an intelligent con  
+on, and be able to sustain an intelligent con  
 versation concerning me mental, oiorai, political  
 and religiouo improvements of our limes. Let tho  
 gilded annuals and poems on tho center-tablo be  
 kept a part of the time covered with weekly aud  
 daily journals. Let the family men, women and  
 chi&#x27;dren read the nevrsiapni.  
-ropnla
+ropnlai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1858091801%2F0732.jp2/pct:63.233945,79.678214,14.105505,4.131033/!600,600/0/default.jpg"/>
 </td>
@@ -2769,7 +2581,7 @@ ropnla
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-w. Ladies  
+. Ladies  
 Suôïld Read Newspapers.-It is wne great  
 mistake in female education to keop a  
 young lady&#x27;g time and attention devoted  
@@ -2795,7 +2607,7 @@ Let the gilded annuals and poems on the
 centre table bu_ kept apart of tho time  
 covered with Weekly and daily journals.  
 Let the family-men, women, and children-  
-read tho newspapers.-¿Te« York Tablet
+read tho newspapers.-¿Te« York Tablet.
 </td></tr></table>
 
 ---
@@ -2806,7 +2618,7 @@ read tho newspapers.-¿Te« York Tablet
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tford Timet.  
+ford Timet.  
 Ladies Should Read Newspapers.  
 —It is one great mistake in female edu­  
 cation to keep a young lady’s time and  
@@ -2834,7 +2646,7 @@ part of the time covered with weekly
 and daily journals. Let the family—  
 men, women and children—read the  
 newspapers.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557177:1858101201:0208/pct:14.401124,36.869587,12.521953,17.664289/!600,600/0/default.jpg"/>
 </td>
@@ -2850,7 +2662,7 @@ newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. LADIES SHOULD BEAD  
+LADIES SHOULD BEAD  
 NEWSPAPERS.-It is one great mistake in  
 female education to keep a young lady&#x27;s  
 time and attention devoted to only the  
@@ -2876,7 +2688,7 @@ gilded annuals and poems on the centre
 table be kept a part 01 the time covered  
 with weekly and daily journals. Let the  
 family-men, women, and children-read the  
-newspapers
+newspapers.
 </td></tr></table>
 
 ---
@@ -2889,7 +2701,7 @@ newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- too. Ladies should Read  
+too. Ladies should Read  
 Newspapers:— It is one great mistako in  
 female education to keep a young lady&#x27;s  
 time and attention devoted to only the  
@@ -2915,7 +2727,7 @@ gilded annuals and poems on the centre
 table bo kept a part of the time covered  
 with weekly and daily journals. Let the  
 family — men, women, and children — read  
-tho newspaper. — New York Tablet
+tho newspaper. — New York Tablet.
 </td></tr></table>
 
 ---
@@ -2936,7 +2748,7 @@ tho newspaper. — New York Tablet
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ours  
+ours  
 with this flourishing city, the dispari-­  
 ty is even greater. St. Lowis Repude­  
 Lican.  
@@ -2959,7 +2771,8 @@ able to sustain an intelligent conver-­
 sation concerning the mental, moral,  
 political, and religious improvement  
 of our times. Let the gilded annuals  
-and poems on the centre-table be kept
+and poems on the centre-table be kept  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858102101:0429/pct:44.863205,49.934609,20.123767,12.265684/!600,600/0/default.jpg"/>
 </td>
@@ -2973,8 +2786,6 @@ and poems on the centre-table be kept
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Read Newsra-  
   
 pers. It is a great mistake in female  
@@ -2984,7 +2795,8 @@ ble literature of the day. If you would
 qualify her for conversation, you must  
 give her something to talk about, give  
 her education with the actual world  
-and its transpiring events. Urge her
+and its transpiring events. Urge her  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858102101:0429/pct:55.057696,50.394325,9.929276,4.339555/!600,600/0/default.jpg"/>
 </td>
@@ -3008,7 +2820,7 @@ and its transpiring events. Urge her
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, by  
+by  
 Deto Do  
 I ator Doithe of Hisinore.  
   
@@ -3037,7 +2849,8 @@ annuals and poems on the contre-table be
 kept a part of the time covered with week­  
 ly and daily journals. Let the whole fami­  
 ly--men, women and children--read the  
-newspapers.
+newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1858102901:0814/pct:42.949907,32.544210,12.319109,15.045636/!600,600/0/default.jpg"/>
 </td>
@@ -3051,7 +2864,6 @@ newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 LADIES SHOULD READ .YEHS­  
 PAPERS.  
   
@@ -3076,7 +2888,7 @@ our times. Let the gilded annals arid poems on
 the centre-table, be kept a part ot the time cov­  
 ered with weekly and daily journals. Let the  
 whole family—men, women and children—  
-read the newspapers
+read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1858102901:0728/pct:79.222626,33.093439,14.552062,13.985846/!600,600/0/default.jpg"/>
 </td>
@@ -3090,7 +2902,7 @@ read the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- printer. Then  
+printer. Then  
 take the papers.  
   
 Why Ladies should Read Newspapers.—It is a great  
@@ -3111,6 +2923,7 @@ improvement of our times. Let the gilded annuals and
 poems on the centre-table be kept part of the time covered  
 with weekly and daily journals. Let the whole family—  
 men, women, and children—read the newspapers.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1858-11_57_5%2Fsim_godeys-magazine_1858-11_57_5_jp2.zip%2Fsim_godeys-magazine_1858-11_57_5_jp2%2Fsim_godeys-magazine_1858-11_57_5_0081.jp2/pct:16.365777,63.433610,35.007849,22.484440/600,/0/default.jpg"/>
@@ -3125,7 +2938,6 @@ men, women, and children—read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ladies Should Riad Nstwspapxm. It it  
 a great mistake in female education to keep a  
 young lady&#x27;s time and attention devoted to only  
@@ -3147,7 +2959,7 @@ Let the gilded annals and poems on the cen­
 tre table be kept a part of the time covered with  
 weekly and daily journals. Let the whole family  
 men, women and children read the newspa­  
-pers. Ax Ixtillioik
+pers. Ax Ixtillioikt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA7n_ver01%2Fdata%2F1858110301%2F0586.jp2/pct:44.733796,30.477481,13.208912,11.129924/!600,600/0/default.jpg"/>
 </td>
@@ -3161,7 +2973,6 @@ pers. Ax Ixtillioik
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 It is one great mistake in female education to keep n  
 young lady time and attention devoted only to III&quot;  
 fashionable literature (d the daw K tou would Qualify  
@@ -3180,7 +2991,7 @@ religious improvements of our times. Let tlio gilded ?&quot; &quot;
 nulls and pocra? on the centre-table lie kept part of th&#x27;  
 time covered with weekly and daily journals I/&#x27;t the  
 family?men, women, and children ill read the news*  
-pipers
+pipers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661095:1858110901:0457/pct:84.118869,65.194969,15.034351,8.817610/!600,600/0/default.jpg"/>
 </td>
@@ -3194,7 +3005,7 @@ pipers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-$.  
+.  
   
 Lapiks Should Read N-wepApEns. It  
 is a great mistake in female education to  
@@ -3220,7 +3031,7 @@ gilded annals and poems on the centre ta­
 ble be kept a part of the time covered with  
 weekly and daily journals. Let the&#x27; whole  
 family men, women and children read  
-thonewspapers
+thonewspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1858111001:0681/pct:76.967297,75.299575,18.178334,20.052184/!600,600/0/default.jpg"/>
 </td>
@@ -3234,23 +3045,6 @@ thonewspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-illy, bus­  
-ter?&quot;   
-&quot;Margaret, come and put this child to  
-bed.&quot;  
-E Bayard Taylor is animated--too  
-animated for a married man--in describ­  
-ing the beautiful women of Poland. He  
-talks thus: &quot;These maids of Warsaw are  
-not only radiant blonder, whose eyes and  
-hair remind you of corn flowers among ripe  
-grain, but also dark-eyed beauties, with  
-faces of a full Southern oval, lips round  
-and delicate as those of an Amorette, and  
-a pure golden transparency of complexion.  
-The connoisseur of woman&#x27;s beauty can no­  
-where better these two rival styles, nor  
-have se great a difficulty in deciding be­  
 tween them.  
 LADIEs ShOULd ReAd the NeWsPa­  
 pER.-It is a great mistake in female edu­  
@@ -3274,9 +3068,10 @@ Let the gilded annuals and poems on the
 centre-table be kept a part of the time cov­  
 ered with weekly and daily journals.  
 Let the whole family---men, woman and  
-children,-read the newspapers.
+children,-read the newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1858111101:0487/pct:4.282536,75.077546,12.921765,22.238705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1858111101:0487/pct:4.912866,84.396494,12.291435,12.919757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3288,7 +3083,7 @@ children,-read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Read Rewspapers  
+Read Rewspapers  
   
 It is a great mistake in fen  
 inle  
@@ -3320,7 +3115,7 @@ kept a part of the time covered with
 eekly and daily journals. Let th  
 hole family--men, women and  
 children--read the newspapers.  
-How ir Frir
+How ir Frir.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1858112401:0393/pct:24.920635,34.189167,14.735450,25.095246/!600,600/0/default.jpg"/>
 </td>
@@ -3334,7 +3129,6 @@ How ir Frir
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why Ladies Should Read News­  
 papers.—lt is a great mistake in fe­  
 male education to keep a young lady’s  
@@ -3362,6 +3156,7 @@ be kept a part of the time covered with
 good weekly and daily journals. Let  
 the whole family—men, women, and  
 children, read newspapers.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1858121101:0072/pct:22.922923,48.596241,14.431098,17.083036/!600,600/0/default.jpg"/>
@@ -3376,7 +3171,7 @@ children, read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the present oh araoter  
+the present oh araoter  
 and improvement of our race. History  
 is of some importance, but the paat is  
 dead, and we have nothing to do with it.  
@@ -3394,7 +3189,7 @@ ble&#x27; be kept &#x27;part of the &#x27;tithe covered
 a it h weekly and daily journals. Let  
   
 the family men, womao, and &#x27;children  
-all read tbe newspapers. &#x27;
+all read tbe newspapers. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858122201:0531/pct:62.972561,84.778148,10.914634,8.553475/!600,600/0/default.jpg"/>
 </td>
@@ -3408,7 +3203,7 @@ all read tbe newspapers. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Ladies should Read Nbwspapbus.— An ex­  
+Ladies should Read Nbwspapbus.— An ex­  
 changesays, It is a great mistake in female ed­  
 uotuion to keep a young Indy&#x27;s time find atten­  
 tion devoted to only, the fashionable literature  
@@ -3430,7 +3225,8 @@ improvement of our times.’ Lot the glided an’
 nunls and poems on the centre table.be kept a  
 part of the time covered with weekly, and daily  
 journals Let the whole family—men, women  
-and &#x27;children, read the newspapers.&#x27; ,
+and &#x27;children, read the newspapers.&#x27; ,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001738%2F1858122301%2F0196.jp2/pct:68.698642,40.041553,11.772061,12.949563/!600,600/0/default.jpg"/>
 </td>
@@ -3446,7 +3242,6 @@ and &#x27;children, read the newspapers.&#x27; ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 the was dashed to the bottom tuto a  
 small shrubbery on the Uotwell Road. Two  
 or three young men immediately lushed to  
@@ -3482,7 +3277,7 @@ gilded annu«!» and p-ienis --« the
 ceutre table be kept » part of the lime  
 covered with weekly and daily joumak  
 l-et the family- | men, women, and  
-children — irnii the .lew»|i»pers.
+children — irnii the .lew»|i»pers. 
 </td></tr></table>
 
 ---
@@ -3493,8 +3288,6 @@ children — irnii the .lew»|i»pers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 LADIES AND NEWSPAPERS.  
   
 An exchange talks sensibly about the  
@@ -3537,7 +3330,7 @@ children--read the newspapers.
   
 THIS EARTH A COMEr.  
   
-The America
+The American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1859020901:0342/pct:73.167293,57.455028,10.682957,24.640831/!600,600/0/default.jpg"/>
 </td>
@@ -3551,8 +3344,6 @@ The America
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Ladies and Newapapers.  
   
 An exchange talks sensibly about the  
@@ -3593,6 +3384,7 @@ women and children--read the newspapers.
   
   
 Interesting Facts About Rain.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859022501:0036/pct:81.611175,14.283641,13.107539,17.811003/!600,600/0/default.jpg"/>
@@ -3607,8 +3399,6 @@ Interesting Facts About Rain.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 LADIES SHOULD READ NEWSPAPERS.  
 It is a great mistake in female education  
 to keep a young lady&#x27;s time and attention  
@@ -3636,7 +3426,7 @@ weekly and daily journals. Let the
 whole family--men, women and childrene  
 read the newspapers.  
 it,  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1859033001:0370/pct:60.994354,79.326518,11.762861,15.249549/!600,600/0/default.jpg"/>
 </td>
@@ -3650,8 +3440,6 @@ it,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pply all  
-  
 It is one great mistake in female education to  
 keep a young lady’s time and attention devoted to  
 only the fashionable literature of the day. If  
@@ -3659,9 +3447,9 @@ you would qualify her conversation, you must
 give her something to talk about, give her edu-  
 cation with this actual world and its transpiring  
 events. Urge her to read newspapers and become  
-familiar with the present character and improv
+familiar with the present character and improve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1859-04-14_27_17%2Fsim_maine-farmer_1859-04-14_27_17_jp2.zip%2Fsim_maine-farmer_1859-04-14_27_17_jp2%2Fsim_maine-farmer_1859-04-14_27_17_0003.jp2/pct:44.921371,84.107199,24.323279,4.414667/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1859-04-14_27_17%2Fsim_maine-farmer_1859-04-14_27_17_jp2.zip%2Fsim_maine-farmer_1859-04-14_27_17_jp2%2Fsim_maine-farmer_1859-04-14_27_17_0003.jp2/pct:44.921371,84.107199,12.000516,4.414667/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3673,12 +3461,12 @@ familiar with the present character and improv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ments of our times. Let the gilded annuals and  
 poems on the centre-table be kept a part of the  
 time covered with weekly and daily journals.—  
 Let the family—men, women, and children—read  
-the newspaper.— Exchange.
+the newspaper.— Exchange.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1859-04-14_27_17%2Fsim_maine-farmer_1859-04-14_27_17_jp2.zip%2Fsim_maine-farmer_1859-04-14_27_17_jp2%2Fsim_maine-farmer_1859-04-14_27_17_0003.jp2/pct:45.037381,93.030020,12.013406,2.887712/600,/0/default.jpg"/>
 </td>
@@ -3692,7 +3480,6 @@ the newspaper.— Exchange.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ladies should Read Newspapers.  
   
 “Tt is one great mistake in female educa-  
@@ -3717,7 +3504,8 @@ times. Let the gilded annuals and poems on
 the centre-table be kept a part of the time  
 covered with weekly and daily journals. Lat  
 ithe family—men women sf children—read  
-the newspaper.”
+the newspaper.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_michigan-farmer_1859-05-21_1_21%2Fsim_michigan-farmer_1859-05-21_1_21_jp2.zip%2Fsim_michigan-farmer_1859-05-21_1_21_jp2%2Fsim_michigan-farmer_1859-05-21_1_21_0005.jp2/pct:9.270893,64.094828,16.428707,15.732759/,600/0/default.jpg"/>
 </td>
@@ -3770,7 +3558,7 @@ the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t in the corner.  
+in the corner.  
 . ily tins arc all bright on the shelf,  
 And the white supper cloth on my table  
 li clean, for 1 ytasiikd rr  
@@ -3802,7 +3590,7 @@ annuals and poems on the centre-table
 be ko pt part of the time covered with  
 weekly aud daily journals. Let the  
 family men. women, and children—  
-read ib a newspaper
+read ib a newspaper 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn92068455:00279556707:1859081801:0041/pct:19.615757,25.973880,14.320310,19.545147/!600,600/0/default.jpg"/>
 </td>
@@ -3816,7 +3604,6 @@ read ib a newspaper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 On the 1st inot., of disease of the  
 lungs, Mr. EZEKIEL ENLOE.  
 On the 3d, of the same disease, Mr.  
@@ -3847,7 +3634,8 @@ ded annuals and poems on the center ta- :
 Lie be kept a part of the time covered &#x27;  
 u iih weekly journals. Let the family—  
 men, women and children—read tii*•  
-newspaper.
+newspaper.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1859120801:0384/pct:3.045455,57.728598,13.000000,18.768228/!600,600/0/default.jpg"/>
 </td>
@@ -3899,12 +3687,13 @@ s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- insista io  oo e e a ion to W Faber, E editor of the  
+insista io  oo e e a ion to W Faber, E editor of the  
   
 annuals and poems on the centre table be  
 kept a part of the time covered with weekly  
 journals. Let the family--men, women and  
-children--read the newspaper.
+children--read the newspaper.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859121001:0547/pct:39.822350,93.578517,44.332748,3.346955/!600,600/0/default.jpg"/>
 </td>
@@ -3918,7 +3707,7 @@ children--read the newspaper.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ever attend thee,  
+ver attend thee,  
 In all the varied changes of time.  
 A spirit from heaven forever defend thee,  
 Protect and save thee, for that bliss sub­  
@@ -3950,7 +3739,8 @@ Let the gilded annuals and poems on
 the center-table be kept a part of the  
 time covered with weekly journals.  
 Let the family--men, women and  
-children- read the newspaper.
+children- read the newspaper.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1859121501:0809/pct:67.273796,50.074214,12.553858,21.589529/!600,600/0/default.jpg"/>
 </td>
@@ -3964,7 +3754,6 @@ children- read the newspaper.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ladies should Mead Newspapers.  
 It is one great mistake in female  
 education to keep a young lady&#x27;s time  
@@ -3974,7 +3763,7 @@ you would qualify her for conversation,
 you must give her something to talk  
 about, give her education with the  
 actual world and its aspiring events.  
-Urge her to read newspapers and b
+Urge her to read newspapers and be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859122901:0432/pct:73.652629,71.417722,10.724416,5.274262/!600,600/0/default.jpg"/>
 </td>
@@ -3988,7 +3777,6 @@ Urge her to read newspapers and b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 heter and imnrovement of our race.  
   
 History is of some importance, but  
@@ -4009,7 +3797,7 @@ journals. Let the family--men, wo
   
 men and children,-read the news-  
   
-Parson
+Parson 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859122901:0432/pct:73.674449,77.417722,21.939777,7.780591/!600,600/0/default.jpg"/>
 </td>
@@ -4023,7 +3811,7 @@ Parson
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lenty of them.  
+em.  
 Ladies Should Read Newspapers. It  
 is one great mistake in female education to  
 keep a young lady&#x27;s time and attention de­  
@@ -4047,9 +3835,9 @@ annuals and poems on the center-table be
 kept a part of the time covered with weekly  
 journals. Let the family men, women  
 and cnuarea rrau me newspaper.  
-A Texas eauo
+A Texas eauor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1859123101:0081/pct:52.467105,79.048561,14.697967,14.678093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1859123101:0081/pct:52.467105,79.059547,14.697967,14.667106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4061,7 +3849,6 @@ A Texas eauo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 LAdies should read News-  
  mheur e papers  
 Ir is one great mistake in female  
@@ -4088,7 +3875,7 @@ Let the gilded annuals and poems on
 the center table be kept a part of the  
 time covered with weekly journals,  
 Let the family,-men, women and  
-children-read the newspape
+children-read the newspaper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1859123101:0074/pct:60.003954,68.154216,14.491894,17.751730/!600,600/0/default.jpg"/>
 </td>
@@ -4102,23 +3889,6 @@ children-read the newspape
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-icans. Their Imffuaa&#x27;e is as fAmcmmin th;r  
-public speeches U3 their conduct iu social life is  
-  
-fraternal &quot; :  
-  
--Joseph A. Murray&quot;. Nkvt York. W Will  
-  
-publish your card 3 months for ten dollars, to be  
-paid in advance , Having more business of onr  
-own to attend Wthan we can well manage we  
-cannot undertake to collect the information rela­  
-tive to our merchants; factors and farmers which  
-you require. We have agents to attend to our  
-own business in New York with whom we are  
-satisfied, and hence wish to create no new ones.  
-WTELCoMF.. We welcome &quot;Oswell&quot; to our  
-columns and hope lie will write often. &#x27;  
 Ladies Should read Newspapers It is  
 one grwit mistake in female education to keep a  
 yrning lady&#x27;s time and Attention devoted to only  
@@ -4149,9 +3919,10 @@ pearance at-the next term .of the Court for .that
 county, and &#x27;departed on foot. Papers found in  
 his possession, convicted him of several false­  
 hoods, and strengthened the snypiciolis as &#x27;to his  
-character.&#x27; He was passing as a book pedler.
+character.&#x27; He was passing as a book pedler.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg5n_ver01%2Fdata%2F1860010601%2F0018.jp2/pct:25.545785,7.247298,34.733172,87.931765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg5n_ver01%2Fdata%2F1860010601%2F0018.jp2/pct:42.859309,15.352829,17.419648,16.846790/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4163,7 +3934,6 @@ character.&#x27; He was passing as a book pedler.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Ladies Should read Newspapers. It is  
 j UIIC I IIU3lrmc 111 ictlJcut- lJ tiV-,ll 11J1J to TV C V JJ ;i  
 i young lady&#x27;s time and attention devoted to only  
@@ -4199,7 +3969,7 @@ pearance at the next term of the CRurt for that j Hall on the second floor Reese
 county, and departed on foot. Papers found in ; finished in time for this season&#x27;s stock, and occu­  
 his possession, convicted him of several false- ied b Wallace &amp; Elias, is another excellent  
 hoods, and strengthened the suspicions as to his .  
-character. He was passing as a book pedler.
+character. He was passing as a book pedler. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860011001:0028/pct:63.911495,40.769835,29.425229,14.709348/!600,600/0/default.jpg"/>
 </td>
@@ -4213,7 +3983,6 @@ character. He was passing as a book pedler.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ladim Siioclo Rkad KKwarAFsae.?It in one  
 great mUtake in female education to keep a  
 young lady&#x27;? time and attention devoted to only  
@@ -4239,7 +4008,7 @@ IA?t the family?men, women and children?read
 the newspapers.  
 Doctor Franklin.  
 The lending property of Dr. Franklin&#x27;s mind?  
-great a
+great as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1860011201:0863/pct:19.519372,18.253683,32.532287,79.302911/!600,600/0/default.jpg"/>
 </td>
@@ -4253,7 +4022,6 @@ great a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Ladies Should Head Newspapers.—It  
 is one great mistake in’female education to  
 keep a young lady’s time and attention  
@@ -4276,7 +4044,7 @@ ments of our times. Let the gilded annu­
 als and poems on the center table be kept  
 a part of the time covered with weekly  
 journals. Let the family—men, women  
-and children—read the newspaper
+and children—read the newspaper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1860012501:0664/pct:71.489241,17.126026,10.815402,10.551231/!600,600/0/default.jpg"/>
 </td>
@@ -4290,28 +4058,6 @@ and children—read the newspaper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-otars fora whole col  
-umn, Twenty Doiiar tot en  
-for oneequarter. No devid-  
-tion from theseterms under any circnmistunce.  
-t The privilege of yearly advertisers is  
-vertising firm is not considered as including  
-that of its individual members  
-9c, Announeing candidates &#x27;s hree bollar  
-to Advertisements not maraee  
-number of insertions  
-be crn  
-eeF No advertisement insertel pratuitous&#x27;e  
-o5Advertisements of an al  
-zu Tob Printing, of all wos  
-done on New Ty pe, and on as senst  
-terms as aly oie   ot  
-r No Paper will be discontinued until  
-all arrearages are pald up c   
-option of the Publisher.  
-enle a ll .  
-  
- tar  
 Ladies Should Read Newspapers.  
 It is one great mistake in female  
 education to keep a young lady&#x27;s  
@@ -4346,9 +4092,10 @@ pocts tit the tima covered with ing from North of Mason&#x27;s and
 a pa f  
 papers. Let thetanse  
 men, and children, read the news­  
-papers. 
+papers.   
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1860012601:0223/pct:6.717401,32.130505,24.615835,37.053263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1860012601:0223/pct:6.717401,49.907770,24.615835,19.275997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4370,7 +4117,7 @@ papers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-st. v  
+t. v  
 Ladies Should Bead Newspapers.—It is one  
 great mistake in female education, to keep a  
 young lady’s time and attention devoted to only  
@@ -4391,7 +4138,7 @@ cal, and religious improvements of our times.
 Let the gilded annuals and poems on the center  
 table, be kept a part of the time covered with  
 weekly journals. Let the family—men, women,  
-and children—read the newspapers
+and children—read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860022301:0035/pct:31.086853,28.679563,12.672046,10.861468/!600,600/0/default.jpg"/>
 </td>
@@ -4405,7 +4152,6 @@ and children—read the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Lames Should Rkad Newspaper. It  
 is one great mistake, in female education  
 to keep a young lady&#x27;s time and attcution  
@@ -4417,7 +4163,7 @@ actual world and its transpiring events.
 Urge her to read newspapers and become  
 familiar with the presont character and ini­  
 nrovment of our race. Histories are some  
-the improvements i
+the improvements in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1860030901:0662/pct:68.596921,74.329121,12.666200,9.044441/!600,600/0/default.jpg"/>
 </td>
@@ -4431,7 +4177,7 @@ the improvements i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Fays it is a great mistake  
+Fays it is a great mistake  
 in female education to keep a young Jady&#x27;n time  
 and attention devoted to only fashionable litcra  
 tore of the day. If you would qualify her for  
@@ -4451,7 +4197,7 @@ annual and poems on the centre table , be kept
 part of the time covered with weekly and daily  
 journals. I Let the whole family, men, women,  
 and children, read the newspaper.  
-No one thing i
+No one thing in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WCoFay1n_ver01%2Fdata%2F1860031001%2F0031.jp2/pct:33.134921,1.956681,15.595238,12.033065/!600,600/0/default.jpg"/>
 </td>
@@ -4465,8 +4211,6 @@ No one thing i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s of Syrian  
-i gardone.&#x27;?Christian Times.  
 Ladies Should Read Newspapers.*?  
 It is a great mistake in female education  
 to keep a young lady&#x27;s time and attention  
@@ -4492,9 +4236,9 @@ and poems on the centre table be kept a
 part of the time covered with journals. Let  
 _ the family?men, women andehildren, read  
 &#x27; the newspapers.  
-B9
+B9&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1860032201:0385/pct:85.965137,79.328407,15.188413,15.620615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1860032201:0385/pct:85.965137,80.993359,15.188413,13.955664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4506,7 +4250,7 @@ B9
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-1.  
+.  
   
 LaDIEs SHOULD READ Newsparers.—lIt is  
 one great mistake in female education, to  
@@ -4534,7 +4278,7 @@ and children—read the newspaper —£z-
   
 change.  
   
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1860-03-22_9_12%2Fper_the-pacific_the-pacific_1860-03-22_9_12_jp2.zip%2Fper_the-pacific_the-pacific_1860-03-22_9_12_jp2%2Fper_the-pacific_the-pacific_1860-03-22_9_12_0000.jp2/pct:45.669502,72.207939,11.862817,13.579803/,600/0/default.jpg"/>
 </td>
@@ -4548,7 +4292,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, educate her with  
+educate her with  
 the actual world and its transpiring events.  
 To do so she must read newspapers, and be­  
 come acquainted with the present charac  
@@ -4559,7 +4303,8 @@ ment of our times. Let the gilded annuals
 and poems on the centre table be kept part  
 of the time covered with weekly and daily  
 journals. Let the whole family, men, wo­  
-men and children, read the papers.
+men and children, read the papers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023814:00517015337:1860032301:0270/pct:40.372389,64.685245,17.408417,7.197273/!600,600/0/default.jpg"/>
 </td>
@@ -4573,7 +4318,6 @@ men and children, read the papers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ljivdiea should read Newspapers.  
 It is oiie great mistake, in female education,  
 to keep a young lady&#x27;s time and attention de­  
@@ -4596,7 +4340,7 @@ Let the gilded, annuals acd poems on the
 center table be: kept, a part of the time, cor  
 ered, with weekly journals. Let the family­  
 men, women and children read the newspa­  
-per.;
+per.; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen2n_ver01%2Fdata%2F1860032401%2F0092.jp2/pct:80.411715,44.540497,18.017827,15.666977/!600,600/0/default.jpg"/>
 </td>
@@ -4610,7 +4354,7 @@ per.;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; it is the frequent cause of i  
+it is the frequent cause of i  
 nightmare, and sometimes the cause of sud- j  
 den death j  
 Ladies Should Bead Newspapers  
@@ -4635,7 +4379,7 @@ Let the gilded annuals and poems on the
 centre table be kept a part of the time cov- ;  
 ered with journals. Let the family men,  
 women and children, read the newspapers.  
-Bf
+Bfe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat24n_ver01%2Fdata%2F1860033001%2F0457.jp2/pct:82.872112,67.249184,13.379903,14.548900/!600,600/0/default.jpg"/>
 </td>
@@ -4649,7 +4393,6 @@ Bf
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 Ladies Should Head Newspapers.  
 —lt is one great mistake in female ed­  
 ucation to keep a young lady’s time  
@@ -4662,7 +4405,7 @@ ual world and its transpiring events.—
 Urge her to read newspapers and be­  
 come familiar with the present charac­  
 ter and improvements of our race.  
-Why i
+Why is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1860040701:0230/pct:7.066093,41.671776,13.742611,8.307787/!600,600/0/default.jpg"/>
 </td>
@@ -4676,7 +4419,7 @@ Why i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-•gs it ,s one  
+gs it ,s one  
 great mistake in !;einale education to keep a  
 young lady&#x27;s tune and Attention devote I to  
 only to the fashionable literature of the day  
@@ -4698,7 +4441,7 @@ times. -Let the gilded annuals and poems
 on the eenkre table be kept a part of the  
 time covered with Wtekly journals Lot the  
 family—men, women and children—read the  
-newspapers
+newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001918%2F1860041201%2F0029.jp2/pct:4.368294,56.579813,12.957083,13.706230/!600,600/0/default.jpg"/>
 </td>
@@ -4712,7 +4455,7 @@ newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;It is one groat mi-take in female  
+It is one groat mi-take in female  
 education to keep a yotttig lady&#x27;s lime aud  
 attenion devote] to only the fashionable  
 literature of the day. If you would qualify  
@@ -4722,7 +4465,7 @@ with the actual world and its transpiring
 events. Urge her to read newspapers and  
 become familiar wilh the present character  
 and improvement of our race.  
-A
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058101:00279557426:1860050501:0319/pct:13.488949,54.324365,12.889899,7.098343/!600,600/0/default.jpg"/>
 </td>
@@ -4736,7 +4479,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- power.  
+power.  
 Ladies Should Read Newspapers. It  
 is one great mistake in female education to  
 keep a young lady’s time and attention de­  
@@ -4748,7 +4491,7 @@ ual world and its transpiring events. Urge
 her to read newspapers and become familiar  
 with the present character and improvement  
 of our race.  
-Ki
+Kit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860050501:0288/pct:64.104003,58.155550,14.908343,8.452606/!600,600/0/default.jpg"/>
 </td>
@@ -4762,7 +4505,6 @@ Ki
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ladies Shoij.d Read Newspapers.— It is one  
 great mistake iu female education to keep a  
 young lady’s time and attention devoted to only  
@@ -4772,7 +4514,8 @@ give her something to lalk about, give her edu­
 cation with the actual world and its transpiring  
 events. Crgc her to read newspapers and be­  
 come familiar with the present character and  
-improvement of our race.
+improvement of our race.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1860051201:0084/pct:7.468880,73.360387,14.485100,4.542479/!600,600/0/default.jpg"/>
 </td>
@@ -4786,7 +4529,6 @@ improvement of our race.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 It is one great mistake in female education  
 to keep a young lady&#x27;s time and attention de  
 voted to only the fashionable literature oi the  
@@ -4796,7 +4538,7 @@ bout, give her education with the actual world
 and its transpiring events. Urge her to read  
 newspapers and become familiar with the  
 present character and improvement of our race.  
-How t
+How to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1860051601:0067/pct:48.367809,86.236429,14.819005,5.440290/!600,600/0/default.jpg"/>
 </td>
@@ -4810,7 +4552,6 @@ How t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ith the actual world and its transpiring events.  
 ge her to read newspapers and become familiar  
 ith the present character and improvement of our  
@@ -4824,7 +4565,7 @@ rhing the mental, moral and religious improvement
 of our times. Let the gilded annuals and poems on  
 the center table be kept part of the time covered with  
 eekly and daily journals. Let the whole family  
-n, women and children--read the newspapers
+n, women and children--read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1860052401:0086/pct:2.189095,90.370035,12.731668,6.110671/!600,600/0/default.jpg"/>
 </td>
@@ -4838,7 +4579,7 @@ n, women and children--read the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- very consistent-  
+very consistent-  
 when one of their party receives a challenge and  
 refuses to fight, they extol his firmness and praise  
 him for repudiating the &quot;barbarous code,&quot; and when  
@@ -4854,7 +4595,7 @@ to talk about, give her education with the actual
 world and its transpiring events. Urge her to read  
 newspapers and become familiar with the present  
 character and improvement of our race.  
-O
+OS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1860070701:0710/pct:18.766852,66.804910,12.803344,6.585932/!600,600/0/default.jpg"/>
 </td>
@@ -4868,7 +4609,7 @@ O
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. It  
+It  
   
 is one great mistake in female education, to  
   
@@ -4906,7 +4647,8 @@ time covered with weekly journals. &#x27; La
   
 the family men, woman, and children  
   
-read the newspaper.
+read the newspaper.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1860081601:0513/pct:68.524650,81.195730,12.987491,16.355872/!600,600/0/default.jpg"/>
 </td>
@@ -4920,8 +4662,6 @@ read the newspaper.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Why Ladles should itend Newspne  
 pers.  
 It is a great mistake in female education  
@@ -4945,7 +4685,8 @@ times. Let the gilded annuals and poems on
 the centre-table be kept part of the time cov-­  
 ered with weekly and daily journals. Let  
 the whole family--men, women and children  
---read the newspapers.
+--read the newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860101101:1189/pct:52.637311,60.069515,14.990530,12.698252/!600,600/0/default.jpg"/>
 </td>
@@ -4959,7 +4700,7 @@ the whole family--men, women and children
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-..  
+.  
   
 LADIES SHOULD READ NEWSI&#x27;AITRS.-:  
 It is one great, mistake in female educifieisi,  
@@ -4988,7 +4729,7 @@ time covered with weekly journals. Let
 the family—men, women, and children—  
 read the newspaper.—Ereharge.  
   
-BANKS I
+BANKS IN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_carmentes_ver01%2Fdata%2Fsn88086163%2F000002039%2F1860102001%2F0132.jp2/pct:32.425703,73.312500,11.497992,12.473214/!600,600/0/default.jpg"/>
 </td>
@@ -5002,7 +4743,7 @@ BANKS I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. . i ;  
+. i ;  
 Ladies Bholld HkautNkwspapkrs. It is a  
 great mistake in female education to keep a  
 young lady&#x27;s time aud attention devoted to only  
@@ -5023,7 +4764,7 @@ ions improvement of our timet. Let tne gilded
 snnuala and poems on the centre table be septal  
 part of the time covered with journals. Let the  
 family men, wome and childrenread , the  
-newspapers. &#x27;
+newspapers. &#x27;f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg8n_ver01%2Fdata%2F1860122001%2F0577.jp2/pct:3.306988,72.181947,14.683860,10.618337/!600,600/0/default.jpg"/>
 </td>
@@ -5037,7 +4778,6 @@ newspapers. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 tion of the resolution.  
 The resolution was referred. The other pro­  
 ceedings of the Convention arc of but little in  
@@ -5063,7 +4803,7 @@ annuals and poems on the centre table be kept a
 art of the time covered with journals, let tne  
 family men, women and children read the  
 newspapers.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860122501:0222/pct:70.328542,84.295128,12.692505,12.300319/!600,600/0/default.jpg"/>
 </td>
@@ -5077,7 +4817,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Lapirs Snoren Read Nawsraruns.It is a great  
 mistake in female education to keep a young lady s time  
 and attention devoted to only the fashionable literature  
@@ -5094,7 +4833,7 @@ condition. Let her have an intelligent conversation
 concerning the mental, political, and renglousimprove  
 ents of our time. Let the gilded annuals and poems  
 the centre table be kept a part of the  
-o  ea  
+o  ea  o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn83016483:00212475166:1861010901:0165/pct:56.258149,87.561335,13.021512,7.961237/!600,600/0/default.jpg"/>
 </td>
@@ -5108,7 +4847,7 @@ o  ea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t have suffered great  
+have suffered great  
 pain. The foot upon which the&#x27; hain was fastened  
 was resting on the floor.  
   
@@ -5133,7 +4872,7 @@ kept apart of the time covered with journals. Let
 the family—men, women and children—read the  
 newspapers.  
   
-AN &#x27;ENGINE OF WAR.—
+AN &#x27;ENGINE OF WAR.—T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aesculapius_ver01%2Fdata%2Fsn84035983%2F000001902%2F1861030201%2F0211.jp2/pct:18.945274,58.989796,14.950249,14.125850/!600,600/0/default.jpg"/>
 </td>
@@ -5147,7 +4886,7 @@ AN &#x27;ENGINE OF WAR.—
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, the nedus operendt is very  
+the nedus operendt is very  
 ainly to be seen. The houd canter  
 e e   ea­  
 ler the nall, accomplishing fioe­  
@@ -5178,7 +4917,7 @@ i ioe o o i ee
  the gilded annuals and poems on the  
 centre table be kept a part of the time  
 oere it ora e the aie  
-men woman an
+men woman and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nightcrawler_ver01:data:sn86053832:00280761977:1861032301:0337/pct:32.746479,28.496696,17.351330,20.704846/!600,600/0/default.jpg"/>
 </td>
@@ -5192,7 +4931,6 @@ men woman an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 great mistake in  
 Read Newspapehs. It is  
 female education to keen  
@@ -5215,7 +4953,7 @@ gilded annuals and poems on the centre table be
 kept a part of the time covered with journals.  
 Let the family men, women and children read  
 the newspapers. ,  
-&quot;S
+&quot;Ss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW7n_ver01%2Fdata%2F1861040501%2F0322.jp2/pct:30.564388,68.654207,13.208797,9.898151/!600,600/0/default.jpg"/>
 </td>
@@ -5229,7 +4967,6 @@ the newspapers. ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-)  
 Ladies Should Read Newspapers.  
 It is a great mistake in female edu­  
 cation to keep a young lady&#x27;s time  
@@ -5257,7 +4994,7 @@ the center table be kept a part of
 the time covered with papers. Let  
 the samily-men, women and chile  
 Iren--read the newspapers.  
-FALLInG oFF i
+FALLInG oFF in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1861041101:0472/pct:80.744506,55.020266,12.468231,18.899826/!600,600/0/default.jpg"/>
 </td>
@@ -5271,7 +5008,7 @@ FALLInG oFF i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- mistake in female eon  
+mistake in female eon  
 to keep a young lady&#x27;s time and atten­  
 tion deveted only to the fashionable lit­  
 crature of the day. If you would quall  
@@ -5291,7 +5028,8 @@ Let the gilded annuals and poems on the
 centre table be kept a part of the time  
 covered with journals. Let the family,  
 men, women, and childrengread the  
-newspapers.
+newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1861042001:1156/pct:27.566244,47.723983,12.719884,10.797008/!600,600/0/default.jpg"/>
 </td>
@@ -5305,7 +5043,7 @@ newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, T. II.  
+T. II.  
 Ladies Should Read Swpnpers. ...  
 It is a great mistake in female educa­  
 tion to keep a young lady&#x27;s time and at­  
@@ -5329,7 +5067,7 @@ the gilded annuals and poems on the
 center table be kept a part of the time  
 covered with journals. Let the family  
 in? ii, women and children read the  
-newspapers
+newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861060701:0407/pct:38.717068,47.718129,11.111111,13.093459/!600,600/0/default.jpg"/>
 </td>
@@ -5343,7 +5081,7 @@ newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- by them.&quot;  
+by them.&quot;  
 Dims to Laoif.s It is a great mistake in fe  
 male education to keep a young lady&#x27;s time and  
 attention devoted to only the fashionable hlera  
@@ -5364,7 +5102,7 @@ Let the gilded annuals and poems on the centre
 table be kept a part ot the time covered wilh  
 journals. Let the family men, women and  
 children read the newspapers.  
-Noble I1o
+Noble I1oi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861061901:0520/pct:28.592205,77.787189,12.870855,10.481736/!600,600/0/default.jpg"/>
 </td>
@@ -5378,7 +5116,6 @@ Noble I1o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 take in female education to keep a young  
 lady&#x27;s time and attention devoted to only  
 tho fashionable literature of the day. If  
@@ -5401,7 +5138,7 @@ gilded annuals and poems on the centre­
 table be kept a part of the time covered  
 with journals. Let the family men wo  
   
-men and children read tho newspapers
+men and children read tho newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861062701:0472/pct:29.305396,41.395701,12.614811,12.023334/!600,600/0/default.jpg"/>
 </td>
@@ -5415,7 +5152,6 @@ men and children read tho newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Western North Carolinian.  
   
 Ladies Should Reail Newspapers.—It is a  
@@ -5439,7 +5175,7 @@ e e ept a part of the time covered with the
 journal. Let the family—men, women and chil-  
 uren—read the newspapers,  
 i„ n.  
-
+i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FyOsw10_ver01%2Fdata%2FFyOsw_1861-08-22_1%2F0002.jp2/pct:18.207974,77.854123,14.686943,13.128964/!600,600/0/default.jpg"/>
 </td>
@@ -5453,7 +5189,6 @@ i„ n.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 Ladies SroUlD Read Newspapers. It is  
 a great mistake in female education to keep  
 a young lady&#x27;s time and attention, deve  
@@ -5480,7 +5215,7 @@ the gilded annuals and poems on the cenire­
 table be kept a part of the time covered with  
 the journal. Let the family--men, women  
 and children,-read the newspapers.  
-s ss
+s sss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1861091101:0151/pct:21.699267,4.955344,28.300733,87.885336/!600,600/0/default.jpg"/>
 </td>
@@ -5494,7 +5229,41 @@ s ss
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gives these reasons why  
+American.  
+  
+&#x27;LADIES&#x27; HEALTH.—In an article in preserving  
+health •in G-ocky&#x27;s Lady&#x27;s Bbok, says there are  
+two faults characteristic of :American women,  
+one to negleet to exercise and the other a too  
+thin style of dress in winter. &#x27; Every female,  
+who can possiblyr do it,&#x27; ought &#x27;to walk in the  
+°ilk air mom one to&#x27;two hours every day. If  
+suitable clothing was worn, and especially if the  
+feet were propeily protected, a daily walk, even  
+in winter, would be more conducive to health  
+and loveliness than all the panaceas ever con­  
+cocted, or all the drugs prescribed&#x27; y the facul­  
+ty. It would give elasticity to the step, bloom  
+to the cheidt-, brilliancy to the eyei&#x27;gay spirits,  
+brightne&#x27;ss , of intellect, sound alturmers i every  
+blessing, in short, that vigorous physical health  
+bestows, and of which, alas, so many- American  
+women practically know nothing. Vitality  
+would be strong and high, the definition of  
+which in most cases is the beginning of con­  
+sumption. &#x27;rhe lungs, too, would haVe needful  
+play, for no one can go out, on a bracing winter  
+morning, without imitating the lungs fully; and  
+the air at such times is always this purest. If  
+you would escape pulmonary complaints, ladies,  
+if you would live to a good old age, if you would  
+enjoy life while living, if you would add to your  
+personal charms, dress:warm and dry, and take  
+daily exercise in the open Mr. Let nothing  
+keep you:in doors but inclement weather ; but  
+be always clothed to defy cold and wet, especi­  
+ally tb your feet.  
+The same writer also gives these reasons why  
 ladies should read newspapers: It is a great  
 mistake in female education to keep a young  
 lady&#x27;s time and attention devoted to only the•  
@@ -5518,9 +5287,9 @@ kept apart of the time covered &#x27; with weekly
 and daily journals. Let the whole family—men  
 women and children—read the newspapers.  
   
-VRT.ANCIEIOLIE Arpera.—Tw
+VRT.ANCIEIOLIE Arpera.—Two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_bonaDea_ver03%2Fdata%2Fsn84035968%2F000002003%2F1861121601%2F1292.jp2/pct:34.951613,78.647059,14.349462,13.101961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_bonaDea_ver03%2Fdata%2Fsn84035968%2F000002003%2F1861121601%2F1292.jp2/pct:34.876344,61.082353,14.424731,30.666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5532,7 +5301,43 @@ VRT.ANCIEIOLIE Arpera.—Tw
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ladies should read newspapers:  
+mace asmanged!  
+  
+LADIEs&#x27; HEALAH-In an article on preser­  
+ving health in Godey&#x27;s Lady&#x27;s Book, the wri­  
+ter says there are two faults characteristic of  
+American women,-one to neglect to exercise  
+and the other a too thin style of dress in win­  
+ter. Every female who can possibly do it,  
+ought to walk in the open air from one to two  
+hours every day. If suitable clothing was  
+worn, and especially if the feet were properly  
+protected, a daily walk, even in winter, would  
+be more conducive to health and loveliness  
+than all the panaceas ever concocted, or all  
+the drugs prescribed by the faculty. It would  
+give elasticity to the step, bloom to the cheek,  
+brilliancy to the eye, gay spirits, brightness of  
+intellect, sound slumbers, every blessing, in  
+short, that vigorous physical health bestows,  
+and of which, alas, so muny A merican women  
+practically know nothing. Vitality would be  
+strong and high, the definition of which in  
+most cases is the beginning of consumption.  
+The lungs, too, would have needful play, for  
+no one can go out, on a bracing winter mor­  
+ning, without inflating the lungs fully; and  
+the air at such times is always the purest  
+If you would escape pulmonary complaints,  
+ladies,---if you would live to a good age, if you  
+would enloy life while living, if you would add  
+to your personal charms, dress warm and dry,  
+and take daily exercise in the open air. Let  
+nothing keep you in doors but inclement wea­  
+weather; but be always clothed to defy cold  
+and wet, especially to your feet.  
+The same writer also gives the following  
+reasons why ladies should read newspapers:  
 It is a great mistake in female educution to  
 keep a young lady&#x27;s time and attention devo­  
 ted to only the fashionable literature of the  
@@ -5555,9 +5360,10 @@ gilded annuals and poems on the centre-table
 he kept a part of the time covered with week­  
 ly and daily journals. Let the whole family  
 men, women and children--read the news­  
-p
+pa ou is aep  e s  
+ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861122801:1000/pct:57.111756,31.191754,12.753991,12.496470/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861122801:1000/pct:44.666183,14.558034,25.235849,82.730867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5569,6 +5375,53 @@ p
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+There are, therefore, two faults characteristic of Ame-  
+rican women, one a neglect to exercise and the othera  
+wo thin style of dress in winter. Every female, who  
+cam. possibly do it, ought to walk, in the open air, from  
+one to two hours every day. If suitable clothing was  
+worn, and especially if the feet were properly protected,  
+a daily walk, even in winter, would be more conducive  
+to health and lovelimess than all the panaceas ever  
+concocted, or all the drugs prescribed by the faculty. It  
+would give elasticity to the step, bloom to the cheek,  
+brilliancy to the eye, gay spirits, brightness of intellect,  
+sound slumbers, every hlessing, in short, that vigorous  
+physical health bestows, and of which, alas! so many  
+American women practically know nothing. Vitality  
+would be strong and high, the deficiency of which ir  
+most cases isthe beginning uf consumption. The lungs,  
+too, would have needful play, for no one can go out, on  
+a bracing winter morning, without inflating the lungs  
+fully ; and the air, at such times, is always the purest.  
+If you would escape pulmonary complaints, ladies, if  
+you would live toa good old age, if you would enjoy  
+  
+  
+  
+  
+  
+life while living, if you would add to your personal  
+charms, dress warm and dry, aud take daily exercise in  
+the open air. Let nothing keep you in doors but in  
+clement weather ; but be always clothed to defy cold and  
+wet, especially to vour feet.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1862-01_64%2Fsim_godeys-magazine_1862-01_64_jp2.zip%2Fsim_godeys-magazine_1862-01_64_jp2%2Fsim_godeys-magazine_1862-01_64_0074.jp2/pct:11.806656,13.588057,74.643423,76.138664/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Godey's Lady's Book and Magazine (1854-1882)_](https://archive.org/details/sim_godeys-magazine_1862-01_64/page/n74/mode/1up?view=theater)
+
+#### 1862-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+d the old ones  
+are valueless.  
   
 Lapies SHovutp Reap Newspapers.—It is a great  
 mistake in female education to keep a young lady&#x27;s  
@@ -5589,9 +5442,12 @@ ious improvement of our times. Let the gilded annuals
 and poems on the centre-table be kept a part of the  
 time covered with weekly and daily journals. Let the  
 whole family—men, women and children—read the  
-newspapers.
+newspapers.  
+  
+CANADA TO THE REscve.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1862-01_64%2Fsim_godeys-magazine_1862-01_64_jp2.zip%2Fsim_godeys-magazine_1862-01_64_jp2%2Fsim_godeys-magazine_1862-01_64_0074.jp2/pct:50.990491,43.446356,35.499208,22.115385/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1862-01_64%2Fsim_godeys-magazine_1862-01_64_jp2.zip%2Fsim_godeys-magazine_1862-01_64_jp2%2Fsim_godeys-magazine_1862-01_64_0074.jp2/pct:50.990491,40.131579,35.499208,27.505061/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5628,7 +5484,7 @@ gilded annuals and poems on the center­
 table be kept a part of the time oovered  
 with weekly and daily journals. Let the  
 whole family men, women and children­  
-read the newspaper
+read the newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862021101:0587/pct:69.486122,79.705841,12.303076,11.992646/!600,600/0/default.jpg"/>
 </td>
@@ -5642,7 +5498,7 @@ read the newspaper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and, Newspapers, It isl  
+and, Newspapers, It isl  
   
 great mistake in female education to kfeep  
   
@@ -5676,7 +5532,7 @@ annuals and I Vns on the centre-table be
 kepi a part or me time covered with the  
 journal. LetYthe4 family men, women  
 and children read the newspapers.  
--
+- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SalBan1n_ver01%2Fdata%2F1862021801%2F0379.jp2/pct:42.787206,34.750639,17.379243,15.856777/!600,600/0/default.jpg"/>
 </td>
@@ -5690,16 +5546,27 @@ and children read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on­  
+give her ed  
+ncation with the actual world and its trans­  
+piring events. Urge her to read newspa­  
+pers, and become familiar with the present  
+character and improvement of our race.  
+History is of some importance; but the  
+past world is dead, and we have nothing to  
+de with it. Our thoughts and our con­  
+cerns should be for the present world to  
+know what it is, and improve the condition  
+of it. Let her have an intelligent opinion,  
+and be able to sustain an intelligent con­  
 versation concerning the mental, moral,  
 political and religious improvement of our  
 times. Let the gilded annale and poems  
 on the centre table be kept part of the time  
 covered with weekly and daily journals.  
 Let the whole family--men, women and  
-children,-read the new spaper
+children,-read the new spapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1862022501:0237/pct:83.290155,56.388752,11.220855,3.564381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1862022501:0237/pct:83.225389,51.554021,11.301813,8.399112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5711,7 +5578,7 @@ children,-read the new spaper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+a  
 Lapies sHouLD reap Newsvavers.—It is a  
 great mistake in female education to keep a  
 young lady’s time and attention devoted to  
@@ -5733,9 +5600,9 @@ Our thoughts and our concerns should be for
   
 | the present world, to kuow what it is, and im  
   
-to receive littl
+to receive little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_national-principia_1862-06-05_3_127%2Fsim_national-principia_1862-06-05_3_127_jp2.zip%2Fsim_national-principia_1862-06-05_3_127_jp2%2Fsim_national-principia_1862-06-05_3_127_0003.jp2/pct:56.262781,21.336538,24.987219,10.105769/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_national-principia_1862-06-05_3_127%2Fsim_national-principia_1862-06-05_3_127_jp2.zip%2Fsim_national-principia_1862-06-05_3_127_jp2%2Fsim_national-principia_1862-06-05_3_127_0003.jp2/pct:56.262781,20.980769,24.987219,10.461538/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5747,16 +5614,21 @@ to receive littl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- opinion, and be able to sustain an in-  
+she breathed, “grant that  
+this child may never lose the faith that ena-  
+  
+prove the condition of it. Let her have an in-  
+telligent opinion, and be able to sustain an in-  
 telligent conversation concerning the mental,  
 moral, political, and religions improvements of  
 our times. Let the gilded annuals and poems  
 ou the centre-table be kept a part of  
 covered with weekly and daily journals. Let  
 the whole family—men, women, and children  
-—read the heWspapers
+—read the heWspapers.- Lady&#x27;s Book,  
+see 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_national-principia_1862-06-05_3_127%2Fsim_national-principia_1862-06-05_3_127_jp2.zip%2Fsim_national-principia_1862-06-05_3_127_jp2%2Fsim_national-principia_1862-06-05_3_127_0003.jp2/pct:68.877812,28.615385,12.078221,3.875000/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_national-principia_1862-06-05_3_127%2Fsim_national-principia_1862-06-05_3_127_jp2.zip%2Fsim_national-principia_1862-06-05_3_127_jp2%2Fsim_national-principia_1862-06-05_3_127_0003.jp2/pct:56.748466,28.115385,24.207566,68.769231/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5768,7 +5640,6 @@ the whole family—men, women, and children
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 LADIES SHOULD READ NEWSPAPERS.—It is  
 a great mistake in female education to keep  
 a your.g lady&#x27;s time and attention devoted  
@@ -5792,9 +5663,11 @@ the gilded annuals aud poems on the center­
 table be kept a part of the time covered with  
 weekly and daily journals. Let the whole  
 family—men, women, and children—feud  
-tho newspapers
+tho newspapers.— Lady&#x27;s liook.  
+  
+MEMPHIS is by far
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1862062701:0462/pct:71.942238,60.054795,12.808664,11.967123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1862062701:0462/pct:71.942238,60.054795,12.808664,13.019178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5806,8 +5679,6 @@ tho newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 iiADIZS OHOUU) KKAD NlWSPAPIHS. It is  
 a great mistake in female education to keep a  
 young lady&#x27;s time and attention devoted to  
@@ -5832,7 +5703,7 @@ our time. Let the gilded anauals and poems
 on the center table be kept a part of the  
 time covered with journals. Let the family  
 men, women and children read the news­  
-paper
+papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kathy_ver01:data:sn86053503:00415622247:1862070301:0008/pct:7.503458,63.749839,14.228907,10.770815/!600,600/0/default.jpg"/>
 </td>
@@ -5846,7 +5717,6 @@ paper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ladies stiofLti r.Eo Newspapers. It is a  
 great mistake in female education to keep a  
 young lady&#x27;s lime and attention devoted to  
@@ -5872,7 +5742,7 @@ ly jou
 Iv journals, i.et the whole fn)iv men, wo  
 : . , , -  
 men, avid rhi  
-Irua read the newspapers
+Irua read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775897:1862070901:0068/pct:56.556503,80.355721,12.331201,13.206796/!600,600/0/default.jpg"/>
 </td>
@@ -5886,7 +5756,7 @@ Irua read the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- should Readpfewspaper.  
+should Readpfewspaper.  
 It is a great mistake, in female edu­  
 cation, to kaep a young lady&#x27;s time and  
 attention devoted to ou!y the fashiona­  
@@ -5912,9 +5782,10 @@ poems on the centra-table be kept a
 part of the time covered with weekly  
 and daily journals. Let the whole  
 family men, women and children i  
-read the newspapers
+read the newspapers. Godey. j  
+JAn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862082201:0168/pct:14.315553,50.308246,11.327121,13.691241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862082201:0168/pct:14.315553,50.308246,11.327121,14.564603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5926,6 +5797,7 @@ read the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+dact their equals were nevor known.  
   
 Ladies shouid ftend Newapa-  
   
@@ -5954,9 +5826,9 @@ tion concerning the mental, moral, polit­
 ical and religious improvements of our  
 time. Let the gilded annuals and poem  
 on the centertable be kept a part of the  
-time covered with weekl
+time covered with weekly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1862103101:0198/pct:84.790076,53.623404,12.061069,12.414612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1862103101:0198/pct:84.790076,52.658153,12.061069,13.379863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5968,7 +5840,7 @@ time covered with weekl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:ad Nkwsi&#x27;aithp.  
+ad Nkwsi&#x27;aithp.  
 Tt is a great mistake in femalp education to  
 keep a young lady&#x27;s time and attention de­  
 voted to only the fashionable literature of  
@@ -5993,7 +5865,7 @@ table bo kept a part of the time covered
 . . . . ..... . I  
 witli weeklv nnd daily ournals. J?t the ,  
 whole family men, women and children  
-rend the newspapers
+rend the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_bravo_ver01%2Fdata%2Fsn84022657%2F00033872223%2F1863101701%2F0819.jp2/pct:3.359232,35.387190,18.075868,20.264719/!600,600/0/default.jpg"/>
 </td>
@@ -6007,7 +5879,7 @@ rend the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. , ,.-  
+, ,.-  
   
 Ladies Should Read Newspapers.  
   
@@ -6035,7 +5907,7 @@ poems on the centre table be kept a part of
 the&#x27; time covered with weekly and daily  
 journals. Let .the whole family, taeo wo  
 men and children yead the newspctpfej-s.-  
-Godey. ,
+Godey. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038244:00280775939:1865012701:0258/pct:66.350068,46.514330,11.550204,14.794733/!600,600/0/default.jpg"/>
 </td>
@@ -6049,7 +5921,7 @@ Godey. ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eo to  
+o to  
 LADIEs SHOULd ReAd NeWspApers,  
 It is a great mistake, in female ed  
 ucation, to keep a young lady&#x27;s time  
@@ -6079,6 +5951,7 @@ Let the whole family--men, women
 and children--read the newspapers.  
   
 eoeoo  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1865021401:0523/pct:32.572732,80.518395,12.564176,15.802676/!600,600/0/default.jpg"/>
@@ -6093,7 +5966,7 @@ eoeoo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r for conversation you  
+for conversation you  
 must give her something to talk about give  
 ber education with this actual world aud its  
 transpiring events. Urge ber to read the news­  
@@ -6111,7 +5984,7 @@ our times. Let the gilded annals and poems of
 the centre-table be kept part of the time cover­  
 lWi r weeklv and daily journals. Let the  
 whole familymen WOU)eu aiiri children read  
-the newspapers.
+the newspapers. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1865021701:0456/pct:3.163445,84.830584,11.174575,7.478823/!600,600/0/default.jpg"/>
 </td>
@@ -6125,8 +5998,7 @@ the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
- Ce e i  
+Ce e i  
   
 Ladies Should Read Newspapers.  
   
@@ -6176,7 +6048,8 @@ annuals and poems on the center-table
 be kept a part of the time covered with  
 weekly and daily journals. Let  
 whole family, men, women and children  
-read the newspapers. Godey,
+read the newspapers. Godey,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1865022301:0697/pct:18.210809,45.164690,23.833501,18.959157/!600,600/0/default.jpg"/>
 </td>
@@ -6190,7 +6063,6 @@ read the newspapers. Godey,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 3  
   
 Lamxs Should Read NtwspaPERl  
@@ -6222,7 +6094,7 @@ poems on the centre table be kept a
 pact of Mie time coxcred with wewkly  
 and daily journals. Let the whole  
 family, men, women and childen  
-read the newspaper
+read the newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775538:1865022301:0191/pct:68.410276,32.534536,11.969471,17.324500/!600,600/0/default.jpg"/>
 </td>
@@ -6236,8 +6108,6 @@ read the newspaper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 Ladies Should Read Newspapers. — It is a  
 great mistake, in female education, to keep  
 a young lady&#x27;s time and attention devoted to  
@@ -6263,7 +6133,7 @@ and daily journals. Let the whole family —
 men, women and children — read the news-  
 papers. — Godtry.  
   
-A
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7xd21rgk70%2Fxt7xd21rgk70_jp2.zip%2Fxt7xd21rgk70_jp2%2Fxt7xd21rgk70_0000.jp2/pct:36.209016,35.577508,14.098361,13.890578/,600/0/default.jpg"/>
 </td>
@@ -6277,7 +6147,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t the medal for civil courage.  
+the medal for civil courage.  
 Lapies ShoL REad NewsratEs.  
 is a great mistake, in female education  
 to keep a young lady&#x27;s time and atten­  
@@ -6305,7 +6175,8 @@ and poems on the centre table be kept
 a part of the time covered with the  
 weekly and daily journals. Let the  
 whole family, men, women and children  
-read the newspapers.--GodeY.
+read the newspapers.--GodeY.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1865030301:0193/pct:79.730713,20.500134,13.173217,19.871623/!600,600/0/default.jpg"/>
 </td>
@@ -6319,8 +6190,6 @@ read the newspapers.--GodeY.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Ladies Should Read Newspa  
   
 Pers.  
@@ -6349,7 +6218,7 @@ weekly and daily journals. Let the whole
 family--men, women and children--read  
 the newspapers.-Godey.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1865030901:0246/pct:44.534632,48.246118,12.283550,13.197240/!600,600/0/default.jpg"/>
 </td>
@@ -6363,7 +6232,7 @@ the newspapers.-Godey.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f packer of  
+packer of  
 the lips.  
   
 LADIES SHOULD READ NEWBPAPHRS.  
@@ -6395,7 +6264,7 @@ ly journals. Let the whole family—
 men, women and children—read the  
 newspapers.—L. A. Godey.  
   
-A
+AN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_averruncus_ver01%2Fdata%2Fsn88080881%2F000001995%2F1865032501%2F0041.jp2/pct:78.900000,36.113636,13.805556,20.166667/!600,600/0/default.jpg"/>
 </td>
@@ -6409,7 +6278,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The Newspaper.  
 The successful publisher of the most popular  
 ladies&#x27; magazine in America, Louis A. Godey,  
@@ -6441,7 +6309,8 @@ center-table be kept part of the time covered with
 weekly and daily journa&#x27;s. Let the whole family  
 ae  eeee  
 men, women and children,-read the newsda-  
-pers
+pers  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294579:1865033001:0164/pct:44.807198,34.879589,12.802057,17.074615/!600,600/0/default.jpg"/>
 </td>
@@ -6455,8 +6324,6 @@ pers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Ladies Should Read Newspapers.  
   
 It is a gruat mistake, in female educa  
@@ -6483,7 +6350,7 @@ ed annals and poems of the centre-table
 be kept part of the time covered with  
 weekly and daily journals. Let the whole  
 family--inen women and children,-ead  
-the newspapers
+the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1865040601:0686/pct:73.987126,28.103248,11.302537,12.543503/!600,600/0/default.jpg"/>
 </td>
@@ -6497,7 +6364,7 @@ the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sensible re­  
+sensible re­  
 marks on newspaper reading. It says :  
 “ It is a great mistake, in foma;e edu­  
 eation, to keep a young lady’s time and  
@@ -6518,7 +6385,7 @@ nuals and poems on the centre table be
 kept a part of the time covered with the  
 daily journals. Let the whole family,  
 men, women and children, road the uews*  
-paper*
+paper*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1865042101:0065/pct:3.133903,58.963686,13.003663,11.942012/!600,600/0/default.jpg"/>
 </td>
@@ -6532,7 +6399,7 @@ paper*
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—It  
+It  
 is a groat mistake in fairs education to  
 keep a young lady&#x27;s time and attention de­  
 voted to the fashionable literature of the  
@@ -6555,7 +6422,7 @@ of our times. -
   
 SHERMAN  
   
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001923%2F1865050501%2F0060.jp2/pct:42.536979,17.122266,21.122815,78.367296/!600,600/0/default.jpg"/>
 </td>
@@ -6569,7 +6436,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—lt is  
+lt is  
 a great mistake, in female education, to keep  
 a young lady’s time aud attention devoted to  
 only fashionable literature of the day. If you  
@@ -6589,7 +6456,7 @@ t- 0 9“!&lt;taln an intelligent conversa­
 turn concerning the mental, moral, political,  
 , 1^&quot;i, improvement of our times.  
 e&#x27;We&lt;l anna&#x27;s and poems on the cen­  
-ter table be a part 0f the tim
+ter table be a part 0f the time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1865052701:0090/pct:11.861584,81.462562,13.119911,9.947574/!600,600/0/default.jpg"/>
 </td>
@@ -6603,8 +6470,6 @@ ter table be a part 0f the tim
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The NEWsPapER.  
   
 The successful publisher of the most pop  
@@ -6640,7 +6505,8 @@ annuals and poems of the centretable
 kept part of the time covered with weekly  
 and daily journals. Let the whole family  
 men, women and children--read the news-  
-paper.&quot;
+paper.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1865060101:1145/pct:82.188295,3.692741,12.468193,16.800564/!600,600/0/default.jpg"/>
 </td>
@@ -6654,7 +6520,6 @@ paper.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 Manchester (N. H.) Union.  
   
 LADIES SHOULD REM) NEWSPAPERS.  
@@ -6687,7 +6552,7 @@ the centre table. be kept part of the
 time covered with weekly and daily  
 journals. Let the whole family, men  
 women and children, road the news­  
-papers
+papers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001974%2F1865061401%2F0088.jp2/pct:6.490991,56.861702,12.346847,17.656028/!600,600/0/default.jpg"/>
 </td>
@@ -6701,7 +6566,7 @@ papers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to them.  
+to them.  
 Ladies Siioddd Read Newspapers.  
 —It is a great mistake, in female educa­  
 tion, to keep a young lady’s time and at­  
@@ -6728,7 +6593,7 @@ the time covered with weekly and daily
 journals. Let the whole family, men,  
 women and children, read the newspapers.  
 — Godey.  
-
+W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340627:1865061701:0099/pct:81.959422,77.045210,12.392616,15.191066/!600,600/0/default.jpg"/>
 </td>
@@ -6742,8 +6607,6 @@ women and children, read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Ladies Should- Bead Newspapers. I  
 It ia a great mistake in&#x27; female cduea-j  
 tion, to keep a youn~ lady&#x27;s time and  
@@ -6767,7 +6630,7 @@ tiOB, concerning the mental, moral, pjl-j
 itical and religious improvement of our  
 times.  
 - *leflhe gilded a&amp;sab and p-&gt;crjs cf  
-liable b
+liable be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865062101:0146/pct:0.966406,79.910811,14.465409,14.890146/!600,600/0/default.jpg"/>
 </td>
@@ -6781,7 +6644,7 @@ liable b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, that is,  
+that is,  
 either for God or man. — Hare.  
   
 Ladies .Should Read Newsuapeus. — It is a  
@@ -6807,7 +6670,8 @@ times. Let the gilded annuals and poems
 on the centre be kept a part of tlic timocov  
 ered with weekly and daily journals. Let  
 the whole family, men, women and children  
-read the newspapers. — Godey.
+read the newspapers. — Godey.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7zpc2t5d8p%2Fxt7zpc2t5d8p_jp2.zip%2Fxt7zpc2t5d8p_jp2%2Fxt7zpc2t5d8p_0001.jp2/pct:7.951007,69.989183,14.386548,17.802503/,600/0/default.jpg"/>
 </td>
@@ -6821,7 +6685,7 @@ read the newspapers. — Godey.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.Laimks Suori.D Read Nkm-spapkus.  
+Laimks Suori.D Read Nkm-spapkus.  
 It is a great mistake in female education to  
 keep a young lady&#x27;s time and attention de­  
 voted to only the fashionable literature) ot  
@@ -6844,7 +6708,8 @@ timcs. Jet the gilded annuals and poems
 on the centre table be kept a part of the  
 time covered with weekly and daily journals,  
 let the whole family, men, women and chil­  
-dren, read tho newspapers. CJohev. .
+dren, read tho newspapers. CJohev. .  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1865120601:0320/pct:70.643382,43.897899,12.077206,10.795001/!600,600/0/default.jpg"/>
 </td>
@@ -6858,8 +6723,6 @@ dren, read tho newspapers. CJohev. .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 tes LAdies Should Rean NewsPaper  
 Is a great mistake in female education  
 keep a young lady&#x27;s time and attention  
@@ -6884,6 +6747,7 @@ and poems on the centre table be kept
 part of the thas covored with weckly  
 Dally journale. Lst the whole family  
 Wo9en and childreh,-read the newspapers.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1866011301:0615/pct:4.559585,83.077737,13.367876,12.810682/!600,600/0/default.jpg"/>
@@ -6898,8 +6762,6 @@ Wo9en and childreh,-read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ReADIno NEWsPApers.It is a great  
 histake  
 female education to keep  
@@ -6928,7 +6790,7 @@ covered with daily and weekly journals.
 Let the whole family- men, women and  
 children--read the newspapers.  
   
-A schoolm istress in V
+A schoolm istress in Ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1866031001:0369/pct:57.022708,72.725888,13.057191,17.293920/!600,600/0/default.jpg"/>
 </td>
@@ -6942,10 +6804,6 @@ A schoolm istress in V
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-er dat had got &#x27;ligion lies all ’long de  
-shore, and dat- dey lie till ’noder ’vival. Be­  
-lubbed bredren, God bless your souls; keep  
-m de current.”  
 Heading Newspapers.—It is a great mis­  
 take in female education to keep a young la­  
 dy’s tunc and attention devoted to only tho  
@@ -6971,9 +6829,9 @@ covered up by weekly and daily journals. Let
 the whole family, men, women and children  
 read the newspapers.  
 Wife —There is no combination of letters  
-in th
+in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866063001:0075/pct:75.530274,66.395486,14.346317,14.709356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866063001:0075/pct:75.530274,68.836111,14.346317,12.268731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6985,7 +6843,7 @@ in th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and often a real crime.  
+and often a real crime.  
   
 LADIES SHOULD KEAD NEWSPAPERS.—  
 Il|is a great mistake in female education  
@@ -7013,7 +6871,7 @@ weekly and daily journals. Let the whole
 family, men, women and children, read the  
 newspapers.  
   
-A PRETTY FAIR
+A PRETTY FAIR 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn86081912:00296028629:1866071801:0133/pct:79.459711,54.088258,14.236920,17.013316/!600,600/0/default.jpg"/>
 </td>
@@ -7027,7 +6885,7 @@ A PRETTY FAIR
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-wing on the nib.&quot;  
+ing on the nib.&quot;  
   
 W It is a great mistake, in female edu­  
 cation, to keep a young lady&#x27;s time and  
@@ -7053,7 +6911,7 @@ tre-table be kept apart of the time covered
 with the weekly and daily journals. Let  
 the whole family, men, women and child-  
 ren, read the newspapers. Godey.  
-ANECDOTE OF DANIEL
+ANECDOTE OF DANIEL 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1866080301:0130/pct:61.340069,47.490931,11.211557,16.025124/!600,600/0/default.jpg"/>
 </td>
@@ -7067,7 +6925,7 @@ ANECDOTE OF DANIEL
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- bankrupted gd  
+bankrupted gd  
 with the Radicals. .  
 Ladies Should Read NewspapfjU.  
 It is a great mistake in female education td  
@@ -7092,7 +6950,8 @@ Let the gilded annuals and poems on the
 centre-table be kept a part of the time cov  
 ered with the woekly and daily journals. Let  
 the whole family, bf men, women and chil-.  
-dren, read the newspapers.
+dren, read the newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866080801:0432/pct:82.099109,72.708309,12.959354,13.640051/!600,600/0/default.jpg"/>
 </td>
@@ -7106,9 +6965,7 @@ dren, read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-anley says : &quot;Uur Homo is on tbo  
-ocean, wherever it rolls round tho globe or  
-even penetrates into the coutincnt !&#x27;  
+o the coutincnt !&#x27;  
 Ladies Suotjld Read Newspapers. It is  
 a great mistake in fuuiale education to keep  
 a young lady&#x27;s timo aud attention devoted  
@@ -7132,9 +6989,10 @@ Let tho gilded annuals and poems on the
 centre-table bo kept a part of the time cov­  
 ered with tho weekly and daily journals.  
 Let tho whole family of men, women and  
-children, read the newspapers.
+children, read the newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1866081801:0268/pct:67.354794,49.070120,12.403779,13.541810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1866081801:0268/pct:67.389783,49.951784,12.368789,12.660146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7156,7 +7014,7 @@ children, read the newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tives on the First­  
+tives on the First­  
 Nations  
   
 le is a great mistake in female education  
@@ -7182,7 +7040,8 @@ gilded annals and poems on the con-­
 terstable be kept a past of the time cov  
 ered with the weakly and daily loarnels  
 Let the whole family, men, women and chil.­  
-dren, read the newapapers.Godey.
+dren, read the newapapers.Godey.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528608:1866090701:0068/pct:15.477512,64.801710,11.405701,11.278195/!600,600/0/default.jpg"/>
 </td>
@@ -7196,7 +7055,7 @@ dren, read the newapapers.Godey.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&gt;piruns.- It  
+piruns.- It  
 is a great mistake in female education, to  
 seep a young lady&#x27;s tone and attention de­  
 vot&#x27;d to only the fashionable literal ure of  
@@ -7220,7 +7079,7 @@ nual and poems on the center table be kept
 a part of the time covered with the weekly  
 and daily journals. Let the « hole family  
 men, women and ehilhren, read the news  
-papers
+papers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:0051717435A:1866110101:0212/pct:66.724830,54.899895,12.406212,11.946786/!600,600/0/default.jpg"/>
 </td>
@@ -7234,7 +7093,7 @@ papers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- H.  
+H.  
   
 LADIES SHOULD READ NEWSPAPERS.  
 It is a great mistake in female educa­  
@@ -7254,7 +7113,8 @@ improvements of our race.
 e o eo e e e a  ao o o o e  
 eoe eeee eeee o e e ee e ee e oe oee e e e e e e e o  o o e  
   
- to e al we have nothing toa.
+ to e al we have nothing toa.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1866110901:0540/pct:6.868687,34.007989,33.223140,16.458056/!600,600/0/default.jpg"/>
 </td>
@@ -7268,7 +7128,7 @@ eoe eeee eeee o e e ee e ee e oe oee e e e e e e e o  o o e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s, and fully enjoy both.  
+, and fully enjoy both.  
 LADIES SHOULD READ NEWSPAPErS.  
 It is a great mistake in female educa­  
 tion to keep a young lady&#x27;s time and at  
@@ -7289,7 +7149,7 @@ condition of it. Let her have an intelli­
 gent opinion and be able to sustain a con­  
 versation concerning the mental, moral  
 political and religious improvement of our  
-The
+The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1866110901:0202/pct:5.448980,80.408707,13.530612,15.296905/!600,600/0/default.jpg"/>
 </td>
@@ -7303,7 +7163,7 @@ The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the  
+the  
 literature of the day If yon  
 would qualify her for conversation you must  
 give her something to talk shout— ira her  
@@ -7319,7 +7179,7 @@ improve the condition of it Let her have an
 intelligent opinion and bs able to sustain a  
 conversation concerning the mental morel  
 political and religious improvement of our  
-time
+times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1866111001:0164/pct:4.279279,67.533325,11.132561,7.879108/!600,600/0/default.jpg"/>
 </td>
@@ -7333,7 +7193,7 @@ time
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s their  
+their  
   
 with the  
   
@@ -7358,7 +7218,7 @@ gent opinion and be able to sastain a con
 concerning the mental, moral,  
 political and religions improvement of our  
 times  
-More Bread AN
+More Bread ANd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293599:1866111401:0200/pct:19.133818,51.392405,36.812722,47.112719/!600,600/0/default.jpg"/>
 </td>
@@ -7372,7 +7232,7 @@ More Bread AN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ae  
+ae  
 Isauses Dasvund atcad Nowsirapcise  
 It is a great mistake in female educa-  
 tion to keep a young lady&#x27;s time and at-  
@@ -7383,7 +7243,7 @@ somcthing to talk about- give education
 tual world and its teanselsta  
 e e wssss ottusa w w $4 tis tiit  
 events. Urge her to read the newspaper,  
-atio
+ation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1866111601:0203/pct:48.389247,35.404436,14.818929,11.757991/!600,600/0/default.jpg"/>
 </td>
@@ -7397,7 +7257,6 @@ atio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 of  
 the  
 at  
@@ -7425,7 +7284,7 @@ cerns should bo for the present world,
 to know what it is, and improve  
 condition of it. Let her havo an in­  
 telligent opinion and bo ablo to sustain  
-a conversation concernin
+a conversation concerning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1866111601:0081/pct:63.602362,57.870576,16.240157,11.920628/!600,600/0/default.jpg"/>
 </td>
@@ -7439,8 +7298,6 @@ a conversation concernin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 LAbies Shor o REAd NewsPApers--It is a  
 great mistake in female education to keep  
 young lady&#x27;s time and attention devoted to  
@@ -7455,7 +7312,7 @@ race. History is of some importance; but
   
 the past world is dead, and we have nothing  
   
-to do with it. Our thoughts and our co
+to do with it. Our thoughts and our con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1866111701:0582/pct:5.698490,82.595512,12.906655,7.292298/!600,600/0/default.jpg"/>
 </td>
@@ -7469,7 +7326,6 @@ to do with it. Our thoughts and our co
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 others.  
 Ladies should Head Newspapers.  
 It is a great mistake in female educa­  
@@ -7493,7 +7349,7 @@ gent opinion and be able to sustain a
 conversation concerning the mental,  
 moral, political and religious improve­  
 ments of our times.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1866111701:0174/pct:3.614693,58.756031,12.739351,13.156865/!600,600/0/default.jpg"/>
 </td>
@@ -7507,8 +7363,6 @@ ments of our times.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Should Read the Newspapers.—An  
 exchange says, that it is a great mistake in  
 female education to keep u young lady’s  
@@ -7528,7 +7382,8 @@ to know what it is, and improve the condi
 tion of it. Let her have an intelligent opin­  
 ion and be able to sustain a conversation  
 concerning the mental, moral, political and  
-religions improvements of our times.
+religions improvements of our times.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002711%2F1866112101%2F0183.jp2/pct:28.416792,76.007959,10.805723,8.474687/!600,600/0/default.jpg"/>
 </td>
@@ -7542,7 +7397,6 @@ religions improvements of our times.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ladies am! Newspapers.  
   
 it is a great mistake in female educa­  
@@ -7565,17 +7419,9 @@ improve the condition of it. Let her
 have an intelligent opinion and be able to  
 sustain a conversation concerning the  
 mental, moral, political and religious im­  
-pi °cement of outfilintes.  
-  
-—A sea wall for the protection of a  
-portion of the harbor of San Fraucisco,is  
-to be constructed at a cost of $2,500,000  
-  
-—Slander is more accumulative than  
-a snow-ball. It is like a salad, which  
-every one will season to his own taste, or
+pi °cement of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001884%2F1866112401%2F0173.jp2/pct:81.578947,78.900376,12.962619,18.240312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001884%2F1866112401%2F0173.jp2/pct:81.602195,78.900376,12.939371,13.967611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7587,7 +7433,7 @@ every one will season to his own taste, or
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- on, and men will drink it in like  
+on, and men will drink it in like  
 water.&quot;  
 Ladies Should Read Newspapers.  
 It is a great mistake in female education  
@@ -7611,7 +7457,8 @@ concerning the menial, moral, political and
 religious improvements of our times.  
 A Good Rule Works Roth &quot;Ways.  
 Men should practice some little of what  
-they preach. For instance the merchant
+they preach. For instance the merchant  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1866113001:0191/pct:20.329358,34.734513,13.373083,16.626106/!600,600/0/default.jpg"/>
 </td>
@@ -7625,7 +7472,7 @@ they preach. For instance the merchant
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and think a  
+and think a  
 good deal worse of it than we do  
 now. &#x27;  
 Ladies Suould Read Newspa­  
@@ -7655,81 +7502,11 @@ with it. Oar thoughts and ouriUis ax. returned to his home, and
 have an intelligent opinion and be I Duaue &amp; Threfall sowed and  
 able to sust ain a conversation con- harvested this year in Murray,  
 cerning the mental, political and Alameda Count-, Cab, 2,200 acres  
-religious improvement of our tim
+religious improvement of our time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1866120601:0266/pct:8.015495,46.958241,24.359356,18.715831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [NEW NOTICES. THURSDAY, DECEMBER 13.](http://trove.nla.gov.au/ndp/del/article/13140558)
-
-#### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
-
-#### 1866-12-13 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- reference to the tenders  
-now invited for laying and ballasting  
-the permanent way on the railway  
-extension from Singleton to  
-Muswellbrook, whether the rails and  
-other materials - not procurable in the  
-colony - necessary for the com-pletion  
-of that work hive been provided and are  
-now available? 2. If not, have such  
-materials been ordered, and will they be  
-pro-vided in time to prevent any delay m  
-the works? 3. Have plans been prepared  
-for tho necessary railway station  
-buildings at Muswellbrook, and when will  
-tenders foi these works be called for?  
-4. What is the cause of the delay in  
-calling for tenders for the railway  
-extension from Muswellbrook to  
-Murrurundi, the money for constructing  
-which was voted last session? 5. When  
-&amp;nbsp; &amp;nbsp; is it likely such tenders  
-will bo called for? &amp;nbsp; &amp;nbsp;  
-Slander is more accumulative than a  
-snowball It is like a salad, which every  
-one will season to his own taste or
-</td></tr></table>
-
----
-
-## [LEGISLATIVE ASSEMBLY.](http://trove.nla.gov.au/ndp/del/article/60603615)
-
-#### From _Empire (Sydney, NSW : 1850 - 1875)_
-
-#### 1866-12-15 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- rcforonco to tho&#x27; teodora  
-invited for laying and balla-Jting tho  
-pormanent way on tho railway -extension  
-from Singloton to Muswellbrook, whether  
-tho rails und other, materials-oot  
-prociirablo in the colony -noceasary for  
-tho completion nf that work, have been .  
-provided, and aro now available ? 2. If  
-not, have such matorials.been ordered,  
-and will they bo provided in timo to  
-provent any delay io tho works f . 3.  
-JInvo. plans boon prepared for tho  
--necessary railway station1 buildings at  
-Muswellbrook, rind when will tenders for  
-theeo works be called for? d. What I&#x27;B  
-tho cause&#x27;of the delay in calling for  
-tenders for-the railway/exten* .. sion  
-from Muswellbrook to Murrurundi, tho  
-money for ?constructing which was voted  
-loet session ? 5. WhW . J is it likely  
-such tenders will bo called for?
-</td></tr></table>
 
 ---
 
@@ -7739,7 +7516,7 @@ such tenders will bo called for?
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, buat day soon comes when  
+buat day soon comes when  
 it is known who they are.”’  
   
 Ladies should read Newspapers.  
@@ -7763,7 +7540,8 @@ ligious improvements of our times.
 See that each hour’s feelings and thoughts and  
 actions are pure and true; then will your life be such.  
 The-wide pasture is but separate spires of grass; the  
-sheeted bloom of the prairies but isolated flowers.
+sheeted bloom of the prairies but isolated flowers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1866-12-20_35_2%2Fsim_maine-farmer_1866-12-20_35_2_jp2.zip%2Fsim_maine-farmer_1866-12-20_35_2_jp2%2Fsim_maine-farmer_1866-12-20_35_2_0003.jp2/pct:44.826681,26.449132,12.263655,10.025631/,600/0/default.jpg"/>
 </td>
@@ -7797,7 +7575,7 @@ sheeted bloom of the prairies but isolated flowers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- own­  
+own­  
 ers are not unwilling&quot; to do them justice.  
 Ladies Should Head 2fcirnjcrs. It is  
 a great mistake in female cduca-hm to keep  
@@ -7820,40 +7598,11 @@ Let. her have an ir:tt-higeitt opinion, and be
 able to sustain a conversation concerning  
 tiie mental, moral, political and religious  
 improvements of our times.  
-Amduer Outrage White 
+Amduer Outrage White M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1866122201:0450/pct:19.048928,77.701430,12.506872,11.503934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [RAILWAYS.](http://trove.nla.gov.au/ndp/del/article/13146977)
-
-#### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
-
-#### 1866-12-22 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- référence to tho tenders now  
-invited for laying and ballasting tho  
-permanent way on tho railway vxltntiin  
-from Singleton to Muswellbrook whether  
-the rail-s aid ( tbe-r nialeriola-not  
-procurablo in tho colony -necessary f r  
-iho completion of that work have boen  
-provided and aro now nvailablo f 2 If  
-not, have such in aten als been ordered,  
-snd will tbey be provided in lime to  
-provont any delay in the wotk ? 3 Havo  
-plans been prepared for tbo necessary  
-railway station buildings at  
-Muswellbrook, and when will te ndcrs for  
-these works be called for &#x27; 4. What is  
-the ciuso of tbo delny in calling for  
-tenders for the railwsy
-</td></tr></table>
 
 ---
 
@@ -7873,7 +7622,6 @@ tenders for the railwsy
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Ladies Should Bead Newspapers.  
 It is a great mistake in female education to  
 keep a young lady&#x27;s time and attention de­  
@@ -7893,7 +7641,7 @@ condition of it Let her have an intelligent
 opinion and be able to sustain a conversation  
 concerning the mental, moral, political and  
 religious improvements of our times.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85054828:00212477898:1866122601:0512/pct:56.492248,79.084130,12.472315,13.155442/!600,600/0/default.jpg"/>
 </td>
@@ -7927,7 +7675,7 @@ religious improvements of our times.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ai! their  
+ai! their  
 *ig and mo t of tbc.r house lurui- j  
 1 ft is paid that thy lire originated  
 te stove-pipe. j  
@@ -7952,7 +7700,7 @@ Our thoughts and our concerns should !
 it is, and improve the condition of it.  
 Let her have an intelligent opinion and  
 be able to sustain a conversation con-  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028472:1867010401:0019/pct:4.727794,5.211553,24.455587,91.186188/!600,600/0/default.jpg"/>
 </td>
@@ -7966,8 +7714,6 @@ be able to sustain a conversation con-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 day. If you would qualify her for conversa­  
 tion, you must give her something to talk  
 about give her education with this actual  
@@ -7989,7 +7735,8 @@ have an intelligf mt opinion and be able to
 sustain a conversation concerning the men­  
 tal, moral, politi cal and religious improve  
   
-ments of our tim es.
+ments of our tim es.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm16n_ver01%2Fdata%2F1867010501%2F0179.jp2/pct:17.090311,77.175926,13.157895,7.962963/!600,600/0/default.jpg"/>
 </td>
@@ -8003,7 +7750,7 @@ ments of our tim es.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- If you would  
+If you would  
 qualify her for conversation, yon must give her  
 something to talk&quot; about give her education  
 with this actual world and Its traj-Bpiring events.  
@@ -8018,7 +7765,7 @@ know what it is, and improve the condition of it.
 Let her have an intelligent opinion and. fee able  
 to sustain a conversation concerning the mental, .  
 moral; political and , religious improvements of  
-the times.&quot;
+the times.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewJC5n_ver01%2Fdata%2F1867010501%2F0061.jp2/pct:55.500566,16.728422,13.277715,6.582389/!600,600/0/default.jpg"/>
 </td>
@@ -8032,8 +7779,6 @@ the times.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 LADIES SIIOOLD READ NEWSPAPERS.   
 It is a groat mistake in female educa­  
 tion to keep a yoling lady&#x27;s time and at­  
@@ -8054,7 +7799,7 @@ her have an intelligent opinion and be
 11&#x27; do to sustain a conversation concerning  
 t lie mental, moral, political and religious  
 improvements of our time.  
-A
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn84026707:00296029944:1867011001:0221/pct:6.146059,79.549639,12.617498,14.218949/!600,600/0/default.jpg"/>
 </td>
@@ -8068,8 +7813,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 LADIES SHOULD BEAD NEWSPAPERS.  
   
 The Albany Mars says it is a great  
@@ -8096,6 +7839,7 @@ poems on the centre table be kept part of
 the time covered with weekly and daily  
 journals. Let the whole family, men,  
 ‘vomen.and cadre&#x27;&#x27;, read the newspapers.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_annona_ver01%2Fdata%2Fsn83032044%2F000001941%2F1867011401%2F0005.jp2/pct:67.606037,52.072776,11.893389,11.036036/!600,600/0/default.jpg"/>
@@ -8110,7 +7854,6 @@ journals. Let the whole family, men,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Xiadies Should Read Newspapers.  
 Somebody says, it is a great mistake in fomale  
 education to keep a young lady&#x27;s time and atten?  
@@ -8125,7 +7868,7 @@ portance, but the past world is dead, and we have
 nothing to do with it. Our thoughts and our con?  
 cerns should be for the present world, to know  
 what it is, and improve tho condition of it. Let j  
-he
+her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1867011701:0451/pct:2.586348,86.579797,16.271075,9.421985/!600,600/0/default.jpg"/>
 </td>
@@ -8139,7 +7882,7 @@ he
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- parents  
+parents  
 or her Goldthwaite parents.  
 Ladies Should Read Newspapers.—  
 It is a great mistake in female education to  
@@ -8158,7 +7901,8 @@ present, world, to know what it is, and improve
 the condition of it. Let her have an intelligent  
 opinion, and be able to sustain a conversation  
 concerning the mental, moral, political, and  
-religious improvements of our times.
+religious improvements of our times.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110156:1867012001:0002/pct:43.422733,81.806468,12.041598,8.065971/!600,600/0/default.jpg"/>
 </td>
@@ -8172,7 +7916,6 @@ religious improvements of our times.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ladles Should Read News­  
 Dapers.  
 The Albany Tones says it is a great  
@@ -8200,7 +7943,7 @@ ems on the centre table be kept part of
 the time covered with weekly and dally  
 journals. Let the whole family, men,  
 women and children, reat the nows.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623689:1867012401:0024/pct:69.857201,72.198855,12.990616,15.953967/!600,600/0/default.jpg"/>
 </td>
@@ -8234,7 +7977,7 @@ women and children, reat the nows.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to the base of the Rock Moun­  
+o the base of the Rock Moun­  
 tains.  
   
 LADIES SHOULD REAd NeWsPa­  
@@ -8257,7 +8000,7 @@ our concerns should be for the pres­
 ent world, to know what it is and  
 improve the condition of it. Let   
 have an intelligent spinion, and be  
-and
+and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291050:1867041301:0636/pct:34.354272,69.624144,14.445962,16.291742/!600,600/0/default.jpg"/>
 </td>
@@ -8291,7 +8034,7 @@ and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- our dwelling as the ornamental garden  
+our dwelling as the ornamental garden  
 pond.”  
   
 Wry Lapres SHOULD READ NEWSPAPERS.—The  
@@ -8315,7 +8058,7 @@ tre-table be kept part of the time covered with
 weekly and daily journals. Let the whole family,  
 men, women, and children, read the newspapers.  
   
-InstTRvUcT your son well yo
+InstTRvUcT your son well you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1868-03_76_453%2Fsim_godeys-magazine_1868-03_76_453_jp2.zip%2Fsim_godeys-magazine_1868-03_76_453_jp2%2Fsim_godeys-magazine_1868-03_76_453_0060.jp2/pct:11.471037,62.424699,34.870427,22.038153/600,/0/default.jpg"/>
 </td>
@@ -8329,9 +8072,6 @@ InstTRvUcT your son well yo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hout stonei.&quot; The same  
-experiment rnty be tried with white  
-plumbs, cherries and currrants.  
 Ladies Should Read Newspapers.  
 It is a great mistake in female edu  
 cation to keep a young lady&#x27;s time and  
@@ -8358,9 +8098,10 @@ ings, and thoughts, and actions are pure
 and true; then will our life be such.  
 The wide pasture is but separate spires  
 of grass; the sheeted bloom of the  
-prairies but isolated fiwers,
+prairies but isolated fiwers,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000005%2F1868040901%2F0611.jp2/pct:56.341241,49.910190,12.317518,20.356843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000005%2F1868040901%2F0611.jp2/pct:56.341241,52.221291,12.317518,18.045743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8372,7 +8113,7 @@ prairies but isolated fiwers,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; &quot;  
+&quot;  
 Why Ladies Should Read Newsfapexs —  
 Ths Albany Times ssys it is a great mistake in  
 educating a young lady to keep her time and  
@@ -8391,7 +8132,7 @@ prove the condition of it Let her have an in­
 telligent opinion and be able to sustain intelli­  
 gent conversation concerning tlie mental moral  
 and religious improvement of our limes Let  
-tbe wbol
+tbe wbolu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1868041801:0773/pct:15.305118,86.773496,11.220472,8.749841/!600,600/0/default.jpg"/>
 </td>
@@ -8405,53 +8146,6 @@ tbe wbol
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-The statay  
-  
-RN.a  
-  
-to be of  
-  
-eth  
-  
-fore pur  
-  
-  
-  
-ktf Tall ag  
-  
-1As just received a fine stock of Clotkgae  
-  
-make  
-  
-$ MAPLit SuGaAa,  
-  
-aDeata  
-  
-and Sarmmmer  
-  
-  
-  
-The telegraphic dispatches in our last  
-sne were largely taken up with a discraceful  
-wrangle between Messrs. Donnelly and Wash-  
-  
-largely taken up with a discracefup  
-  
-congresstoran convenon.bore i thoe gantlemen wis to mae  
-The Republican convention for the Pirat Congressionala o e ee e o e  
-Distriet will be heid in Ms. Pleasant, Friday. June oth,  
-  
-of Congress.  
-  
-An exchange says that Mr. Johnson gave  
-  
-No he didn&#x27;t; he never had any defense.  
-  
-he  
-ie  
-  
-  
-  
 LaDIEs ShOuLD READ NEWSPApErs.  It is  
 a great mistake in female education to keep  
 a touny lady&#x27;s time and attention devoted to  
@@ -8474,9 +8168,10 @@ limes. See that each others feelings and
 thoughts, and actions are pure and true; then  
 will our life be such. The wide pastures are  
 but separate spires of grass, the sheeted  
-bloom of the prairies but isolated flowers.
+bloom of the prairies but isolated flowers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868050501:0428/pct:8.045264,7.193716,32.852788,88.549648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868050501:0428/pct:19.645533,24.282176,10.597840,9.012460/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8488,7 +8183,7 @@ bloom of the prairies but isolated flowers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ETIN.  
+TIN.  
 LADIES SHOULD REAd NeWSPAPERs. It is  
 a great mistake in female education to keep a  
 young lady&#x27;s time and attention devoted to  
@@ -8512,7 +8207,7 @@ thoughts, and actions are pure and true; then
 will our life be such. The wide pastures are  
 but separate spires of grass--the sheeted  
 bloom of the prairies but isolated flowers.  
--The stamp duty on the will of an E
+-The stamp duty on the will of an En
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868070801:0552/pct:26.161890,78.935219,11.444617,12.898572/!600,600/0/default.jpg"/>
 </td>
@@ -8526,7 +8221,7 @@ bloom of the prairies but isolated flowers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Eeid Nrwarart -I  
+Eeid Nrwarart -I  
 is a reht mitake in female education  
 to keep a young lady&#x27;s tims and atten-  
 tion Javoted to the fashionable litera-  
@@ -8552,7 +8247,7 @@ and actions are pure and true; then
 will our his be soch The idea  
 are but separate spires of graes  
 the sheeted bloom of the prairies but  
-isolated 
+isolated o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1868071401:0102/pct:5.352558,82.657131,12.759234,14.413423/!600,600/0/default.jpg"/>
 </td>
@@ -8566,7 +8261,6 @@ isolated
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 NO.  
   
 LADIES SHOULD READ NEWSPAPERS.  
@@ -8583,7 +8277,7 @@ with this actual world with its transpir­
 ing events,-Urge her to read the news­  
 papers and become familiar with the  
 present character and improvements of  
-trade. History is of some importanc
+trade. History is of some importance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1868071401:0847/pct:77.662446,2.916931,17.915715,7.799620/!600,600/0/default.jpg"/>
 </td>
@@ -8597,7 +8291,7 @@ trade. History is of some importanc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- him.  
+him.  
   
 provements of our times,-see that each  
   
@@ -8607,7 +8301,8 @@ are pure and true; then will our life be
   
 such. The wide pastures are but sepas  
 rate spires of grass- the sheeted bloom of  
-prairies but isolated flowers.
+prairies but isolated flowers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1868071401:0847/pct:57.587710,14.283450,38.073490,60.716550/!600,600/0/default.jpg"/>
 </td>
@@ -8631,7 +8326,6 @@ prairies but isolated flowers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 LADlES SHOUld ReAd NeWsiAeers. It  
 is a great mistake in female education to  
 keep a young lady&#x27;s time and attention de-  
@@ -8653,7 +8347,8 @@ versation concerning the mental, mora&#x27;, po­
 litical and religious improvements of our  
 times,--see that each other&#x27;s feelings, and  
 thoughts, and actions are pure and true;  
-then will our life be such.
+then will our life be such.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524019:1868073101:0133/pct:79.424600,52.143029,14.665158,14.222650/!600,600/0/default.jpg"/>
 </td>
@@ -8667,7 +8362,7 @@ then will our life be such.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i  
+i  
 Ladiks Siiot t.u Beau NiiwsrAriiits. It  
 is a great mistake in female education to  
 keep a young lady&#x27;s time and attention do­  
@@ -8693,7 +8388,7 @@ and thoughts and actions are pure and true :&#x27;
 men Mm our uie ue sucn. me wide pas­  
 ture is but sonarattf miri if ,,r.u . ,1...  
 --4- - 1 &#x27; &#x27; 1. , fcUU  
-sheeted bloom of the prairie but isolate
+sheeted bloom of the prairie but isolated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1868080101:0683/pct:81.536293,80.172294,12.508809,11.921634/!600,600/0/default.jpg"/>
 </td>
@@ -8709,13 +8404,13 @@ sheeted bloom of the prairie but isolate
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- presence  
+presence  
 of the ser;ous. See iliat ea&lt;h hour&#x27;s  
 feelings, ana thoughts, and actions, are  
 pure and true will\ your life be such.  
 The wide pasture is but separate^ .  
 spears of grass; the sheeted bloom of  
-thaprairiea, s. but isolated flowers.
+thaprairiea, s. but isolated flowers. 
 </td></tr></table>
 
 ---
@@ -8726,7 +8421,7 @@ thaprairiea, s. but isolated flowers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- standard.  
+standard.  
 Ladies Should Read Newspapers.—It is a  
 great mistake in female education to keep a  
 young lady&#x27;s time and attention devoted to  
@@ -8753,7 +8448,7 @@ sheeted bloom of the prairies but isolated
 i flowers._a_  
 When a lady indulges in a yawn or two,  
 gentlemen are justified in guessing their hat  
-is
+is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1868080601:0440/pct:68.255334,79.038125,12.216105,14.199111/!600,600/0/default.jpg"/>
 </td>
@@ -8767,7 +8462,7 @@ is
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e familiar with  
+familiar with  
 the present character and Improvements  
 of our trade. Ilistory is of some im­  
 portance, but the past world is dead  
@@ -8785,7 +8480,7 @@ nnil actions are pure and true ; then
 will our life be such. The wide pasture  
 Is but separate spires of grass ; the  
 sheeted bloom of tho prairies but iso­  
-lated flowers
+lated flowers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554164:1868080801:0136/pct:44.537020,61.620932,11.702329,8.194001/!600,600/0/default.jpg"/>
 </td>
@@ -8799,8 +8494,6 @@ lated flowers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 When a lady indulges in a yawn  
   
 or  
@@ -8809,6 +8502,7 @@ two, gentlemen are instified in
 guessing their hat is needed on their  
 heads, and that the best side of the  
 door is the ontside.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529339:1868081401:0301/pct:7.135751,25.637172,9.802571,2.075897/!600,600/0/default.jpg"/>
@@ -8823,14 +8517,12 @@ door is the ontside.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
-  
 When a lady indulges in a yawn or two,  
 gentlemen ate itistifted in gnashing their hate  
 are needed on their heads, and that the best  
 side of the door is the outside:  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002425%2F1868090401%2F0133.jp2/pct:81.493176,66.258818,15.059075,3.262787/!600,600/0/default.jpg"/>
 </td>
@@ -8844,7 +8536,7 @@ side of the door is the outside:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-per quart.  
+er quart.  
 This scum iz  
 Ladies Should Read Newspa­  
 pers.— It is a great mistake in fe­  
@@ -8877,7 +8569,7 @@ journals. Let tho whole family, men,
 women and children, read newspa­  
 pers. __  
 an  
-It Is not enough to aim, yo
+It Is not enough to aim, you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eyelet_ver02:data:sn85034375:0019991716A:1868110701:0306/pct:28.214856,71.332763,11.202077,23.059361/!600,600/0/default.jpg"/>
 </td>
@@ -8891,8 +8583,6 @@ It Is not enough to aim, yo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 LADIES SHOULD READ NEWSPA­  
 PZRS. |  
 It is a great mistake in female edu­  
@@ -8919,7 +8609,8 @@ other&#x27;s feelings, thoughts and actions
 are pure and true ; then will our life be  
 such. = The wide pastures are but separ­  
 ate apires of grass; the sheeted bloow  
-of the prairics but isolated flowers.
+of the prairics but isolated flowers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1868111301:0017/pct:56.910090,71.516833,15.901060,16.883117/!600,600/0/default.jpg"/>
 </td>
@@ -8933,7 +8624,7 @@ of the prairics but isolated flowers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r 21.  
+21.  
 Labics Should Rkad N&#x27;ïwspapkrs.—  
 It is a ereat mistake in female education  
   
@@ -8962,7 +8653,7 @@ part of the time covered with weekly
 and daily journals. Let the the whole  
 family, men, women and children, read  
 newspapers. ·  
-Git Our that W
+Git Our that Wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554164:1868111401:0472/pct:35.539941,65.331318,11.556953,13.668430/!600,600/0/default.jpg"/>
 </td>
@@ -8976,8 +8667,6 @@ Git Our that W
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 It is a great mistake in female edu-  
 cation to keep a young lady&#x27;s time  
 and attention devoted to only fashion-­  
@@ -9003,7 +8692,8 @@ ments of our times. Let the gilded man­
 nuals and poems on the centretable  
 be kept a part of the thne covered  
 with weekly and daily journals. I.  
- e.
+ e.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058351:00279529388:1868112001:0292/pct:75.662989,82.813843,9.848045,11.952191/!600,600/0/default.jpg"/>
 </td>
@@ -9017,7 +8707,7 @@ with weekly and daily journals. I.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tes and of  
+es and of  
 the earth&#x27;s surface are the work of  
 remote periods only and have ceased ?  
 Has our planet got its growth ?  
@@ -9050,7 +8740,8 @@ poems ou the center table bo kept
 part of the time covered with weekly  
 and daily journals,, Let the whole  
 family, men, women and children,  
-read newspapers.
+read newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn85042452%2F00000002053%2F1868121201%2F0436.jp2/pct:49.736565,60.203453,11.024763,18.588163/!600,600/0/default.jpg"/>
 </td>
@@ -9064,7 +8755,6 @@ read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Ladies Should Read Newspapers.  
 It is a great mistake in female ed­  
 ucation to keep a young lady&#x27;s time  
@@ -9093,7 +8783,7 @@ thoughts and actions are pure and
 true; then will our life be such. The  
 wido pastures are but separate spires  
 of grass; the sheeted bloom of the  
-prairies but isolated flowers
+prairies but isolated flowers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038553:00212470442:1868121801:0621/pct:67.879650,66.353867,12.787152,17.284698/!600,600/0/default.jpg"/>
 </td>
@@ -9117,8 +8807,6 @@ prairies but isolated flowers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 LADIES Snot&#x27;LD KKAD NKWAPAPKITS.  
 —lt is a great mistake ill female educa­  
 tion to keep a young lady&#x27;s tinio and at­  
@@ -9143,7 +8831,8 @@ of oar times. Let the gilded annuals and
 poems on the center table bo kept part of  
 the time covered with weekly and daily  
 journals. Let the family, men, wo­  
-*fen and children, read newspaper*.
+*fen and children, read newspaper*.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291050:1868122601:0996/pct:3.532348,64.871617,15.914763,17.598890/!600,600/0/default.jpg"/>
 </td>
@@ -9157,8 +8846,6 @@ journals. Let the family, men, wo­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Ladies Should Read Newspapers.  
 ? It is a great mistake in female educa­  
 tion to keep a young lady&#x27;s time and at­  
@@ -9184,7 +8871,7 @@ tre table be kept part of the time cov­
 ered with weekly and daily journals.  
 Let tho whole family? men, women a:id  
 children? read newspapers.  
-ANew
+ANew 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665076:1868123001:0625/pct:49.133032,30.994635,11.962699,15.022699/!600,600/0/default.jpg"/>
 </td>
@@ -9198,7 +8885,7 @@ ANew
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 Ladies Should Read Newspapers.  
 Ir is a great mistake in female education  
 to keep a young lady&#x27;s time and attention  
@@ -9228,7 +8915,7 @@ Let the whole family
 men, women and children,-read news  
 papers.--EchaNgE.  
 Care of Calves in Winter.  
-A sew days since we calle
+A sew days since we called
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1868123101:0532/pct:19.168218,75.732853,12.029795,14.192202/!600,600/0/default.jpg"/>
 </td>
@@ -9242,7 +8929,7 @@ A sew days since we calle
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h Herald.  
+ Herald.  
   
 Ladies Should Read Newspapers  
   
@@ -9270,7 +8957,7 @@ of the time covered with weekly and daily
 journals. Let Ore - whole family—men,  
 women and children—read newspapers.&#x27; -  
   
-RCSiIA AND BRITXSIT INDIA.—Th
+RCSiIA AND BRITXSIT INDIA.—The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver01%2Fdata%2Fsn84026384%2F000002017%2F1869010501%2F0017.jp2/pct:73.626078,37.848328,12.073455,12.131768/!600,600/0/default.jpg"/>
 </td>
@@ -9284,7 +8971,7 @@ RCSiIA AND BRITXSIT INDIA.—Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- es­  
+es­  
 cape of his teacher. Bfith reached a seaport,  
 where they engaged an&#x27; Knglish vessel  
 as coal-heavers, and finally reached Eng­  
@@ -9315,6 +9002,7 @@ and poems on the centre table be kept part
 of the time covered with weekly and daily  
 journals. Let tire whole family—min,  
 women and children—read newspapers/ &quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver02%2Fdata%2Fsn84026384%2F000002017%2F1869010501%2F0017.jp2/pct:73.796695,36.236067,11.902838,12.957803/!600,600/0/default.jpg"/>
@@ -9329,7 +9017,6 @@ women and children—read newspapers/ &quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 wear what they have paid for.  
 Ladies Should Read Newspapers.—  
 It is a great mistake in female education to  
@@ -9354,7 +9041,8 @@ annuals and poems oti the centre table be
 kept part of the time covered with weekly  
 and daily journals. Let the whole family  
 men, women and children—read news­  
-papers.
+papers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688349:1869010501:0012/pct:11.536126,57.452034,11.698037,13.154259/!600,600/0/default.jpg"/>
 </td>
@@ -9368,8 +9056,6 @@ papers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
-  
 Ladies Should Read Newspapers.—  
 A great mistake in female education is to  
 keep a young lady’s time and attention  
@@ -9396,7 +9082,7 @@ the time covered with weekly and daily
 journals. Let the whole family—men,  
 women and children—read newspapers.   
   
-The Presidentia
+The Presidential
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151209:1869010701:0301/pct:36.607828,24.759346,14.673830,15.569734/!600,600/0/default.jpg"/>
 </td>
@@ -9410,7 +9096,7 @@ The Presidentia
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-yer sloped.  
+er sloped.  
   
 oo  
   
@@ -9446,6 +9132,7 @@ and daily journals. Let the whole family, men,
   
 women and children, read newspapers.  
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_colmans-rural-world_1869-01-09_22_2%2Fsim_colmans-rural-world_1869-01-09_22_2_jp2.zip%2Fsim_colmans-rural-world_1869-01-09_22_2_jp2%2Fsim_colmans-rural-world_1869-01-09_22_2_0010.jp2/pct:58.073818,67.675941,26.412918,21.153846/,600/0/default.jpg"/>
@@ -9460,8 +9147,6 @@ women and children, read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Ladies Should Read Newspa-  
   
 pers.  
@@ -9494,7 +9179,7 @@ ered with daily and weekly journals.
 Let the whole family--men, women  
 and children,-read the newspapers.  
   
-Ripley and HilIsbor
+Ripley and HilIsboro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283648:1869011401:0459/pct:38.460340,11.269276,10.565685,17.366548/!600,600/0/default.jpg"/>
 </td>
@@ -9508,7 +9193,7 @@ Ripley and HilIsbor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hroat.  
+roat.  
 LADIES SHOULD BEAD NEWSPAPERS.-rt is a  
 greit mistake in f-.milo education to keep a young  
 lady&#x27;s time and attention devoted to only fashiona?  
@@ -9531,7 +9216,7 @@ famfly-men, women and children-read newspa?
 pers.  
 JUDGES CARPENTER AND ORR.-The Orange­  
 burg News, speaking of the Court of General Sessions  
-which close
+which closed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551712:1869011801:0059/pct:1.098027,45.013897,13.956079,12.784880/!600,600/0/default.jpg"/>
 </td>
@@ -9545,7 +9230,7 @@ which close
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; to keep a young lady’s tunc sad stMlaa  
+to keep a young lady’s tunc sad stMlaa  
 devoted to only fashionable litorntnra at  
 i the day. If you would qualify her far  
 conversation, you must give her eoan-  
@@ -9568,7 +9253,7 @@ gilded annuals and poems on tbe eenter
 table be kept part of the time covered  
 with weekly and daily Journals. Let the  
 whole family—men, women and children  
-—read ncwapajicrß
+—read ncwapajicrß.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688064:1869011901:0607/pct:81.451763,13.703608,13.304721,12.834155/!600,600/0/default.jpg"/>
 </td>
@@ -9592,7 +9277,6 @@ whole family—men, women and children
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 PLadies Should Bead Newspaps.  
 It is a great mistake Jri female education-to  
 Wp a young-lady&#x27;s lime arid attention devoted  
@@ -9614,7 +9298,8 @@ ligions &#x27; improvements of our time. Let Uie&#x27;
 gilded annuals and poems on thecenter table be  
 kept part of the time&quot; covered with weekly and  
 daily journals. vLet the whole family men wo  
-men and cnudren read newspapers.
+men and cnudren read newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TimeDem11n_ver01%2Fdata%2F1869012601%2F0014.jp2/pct:18.107833,82.617508,15.017803,12.180291/!600,600/0/default.jpg"/>
 </td>
@@ -9628,7 +9313,6 @@ men and cnudren read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 ty.  
 LADIES SHOULD READ NEWStAPERS.  
 It is a great mistake in female education  
@@ -9655,7 +9339,7 @@ centre-table be kept a part of the time
 covered with weekly and daily journals,  
 Let the whole family--men, women and  
 children--read ne wapapers.  
-DoErAHLE GASLiurs:-This woh
+DoErAHLE GASLiurs:-This wohs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1869012701:0528/pct:29.843458,58.612034,13.413758,16.566999/!600,600/0/default.jpg"/>
 </td>
@@ -9669,8 +9353,6 @@ DoErAHLE GASLiurs:-This woh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
-  
 &quot;It is a great mistake in ieinale educa  
   
 tion to keep a young lady&#x27;s lime and at  
@@ -9710,7 +9392,8 @@ and daily journals. Let the whole family
   
 men, women and children read news  
   
-papers.&quot;
+papers.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869012901:0096/pct:37.434249,33.191727,9.745763,9.167132/!600,600/0/default.jpg"/>
 </td>
@@ -9724,7 +9407,7 @@ papers.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in horse trade.&quot;  
+in horse trade.&quot;  
 Ladies Should Read Newspapers.  
 It is a great mistake in female educa­  
 tion to keep a young lady&#x27;s time and at­  
@@ -9747,7 +9430,7 @@ gilded annuals and poems on the centre
 table be part of the time covered with  
 weekly and daily journals. Let the  
 whole family, men, women and children,  
-read newspapers
+read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869020501:0681/pct:66.160000,71.086666,13.040000,16.054705/!600,600/0/default.jpg"/>
 </td>
@@ -9761,9 +9444,6 @@ read newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 LADIES SHOULD READ NEWSPAPERS.  
   
 It Is a great mistake in female educa  
@@ -9804,7 +9484,7 @@ part of the time covered with weekly and
 daily journals. Let the whole family  
   
 m-mi. women and children read newspa  
-per
+per.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal2_ver01%2Fdata%2F1869021901%2F0584.jp2/pct:56.615060,30.181245,12.667136,15.668505/!600,600/0/default.jpg"/>
 </td>
@@ -9818,7 +9498,6 @@ per
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ladies Should Read Newppapers. It  
 U a great mistake i female education to  
 keep young-lady&#x27;s time and attention devo­  
@@ -9844,7 +9523,7 @@ uals and jioems on the center table be kept
 part of the time covered with weekly and  
 daily journals,- Let the whole family  
 men women and children read -newspapers&quot;.  
-1 .
+1 . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RStarRuth1n_ver01%2Fdata%2F1869022701%2F0356.jp2/pct:33.959864,61.343554,12.507066,14.723730/!600,600/0/default.jpg"/>
 </td>
@@ -9858,7 +9537,7 @@ men women and children read -newspapers&quot;.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 1  
+1  
 Ladies Should Read Newspapers. It  
 is a great&#x27; mistake in female education to  
 keep a young lady&#x27;s time and attention  
@@ -9883,7 +9562,7 @@ Let tho gilded poems oa the eenteta.
 ble be kept part of the time covered with  
 tha ; weekly and daily journals Let tha -,-whole  
 family menf women and children  
-read newspapers
+read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000006%2F1869030401%2F0098.jp2/pct:81.037105,62.467097,13.032238,15.422350/!600,600/0/default.jpg"/>
 </td>
@@ -9897,7 +9576,6 @@ read newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Ladies Should Read Newspapers.?  
 It is a great mistako in fdraale educa?  
 tion to keep a^oung lady&#x27;s time and at?  
@@ -9924,7 +9602,7 @@ neals and poems on the center-table be
 kept part of the time covered with week?  
 ly and daily journals. Let the whole  
 family, men, women and children, road  
-ne wspapers
+ne wspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869031801:0046/pct:2.520338,2.052014,32.142287,96.982333/!600,600/0/default.jpg"/>
 </td>
@@ -9938,14 +9616,13 @@ ne wspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 opinion, and be able to sustain irifelligent  
 conversticn concerning the mental, tnoraVaTiu  
 religious improvements cf bur tiuK-s. Let tho  
 gilded annuals and poems on the center-table  
 be kept part of the time covered with weekly  
 and daily journals. Let the whole family,  
-men, women r.r.d children, read i.e
+men, women r.r.d children, read i.ew
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CVHen1n_ver01%2Fdata%2F1869032601%2F0001.jp2/pct:72.795255,30.297030,15.691078,4.790193/!600,600/0/default.jpg"/>
 </td>
@@ -9959,7 +9636,7 @@ men, women r.r.d children, read i.e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- crops.  
+crops.  
 LADIEs SHOULD REAd NeweraEs.  
   
 It is a great mistake in lemale oducation to  
@@ -9982,7 +9659,7 @@ able to castwin intelligunt oonversation
 concarnins the mentab motal and religious  
 improvemsbts of aur time. Let the gilded  
 altauals and poems on the cantra table be  
-sume covared wit
+sume covared with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1869040201:0730/pct:62.441315,70.993798,14.958866,15.411799/!600,600/0/default.jpg"/>
 </td>
@@ -9996,7 +9673,7 @@ sume covared wit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-emes for the heart.  
+mes for the heart.  
   
 Ladies Should Read Newspapers.—It is  
 a great mistake, in female education to keep  
@@ -10020,7 +9697,7 @@ provement of our time. Let the guilded
 annuals and poems on the centre table be  
 kept part of the tim e covered with weekly  
 and daily journals. Let the whole family—  
-men, women and children, read newspapers
+men, women and children, read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1869041601:0136/pct:61.656492,45.557970,11.301765,12.322638/!600,600/0/default.jpg"/>
 </td>
@@ -10034,7 +9711,7 @@ men, women and children, read newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;His wiia paisj.  
+His wiia paisj.  
 Ladies Should Read Newspapers.  
 It is a great mistake in female educa­  
 tion to keep a vouasr ladv&#x27;s time and re  
@@ -10065,7 +9742,7 @@ bo kept part of the timo covered with
 weekly and daily journals. Let tho whole  
 1  
 lamuy men, women ana onitaren react  
-newspapers
+newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1869042401:0652/pct:69.525000,61.343903,12.275000,14.580974/!600,600/0/default.jpg"/>
 </td>
@@ -10079,7 +9756,7 @@ newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y. If you  
+. If you  
 would qualify her for conversation,  
 you must give her something to talk  
 aboui; give her education with the  
@@ -10102,10 +9779,9 @@ centre table be kept part of the time
 covered with weekly and daily jour­  
 nals. Let the whole family, men, wo­  
 men and children, read newspapers.  
-  
-Nothing 
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1870010601:0066/pct:60.352423,63.389270,10.667086,11.982983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1870010601:0066/pct:60.352423,63.389270,10.667086,10.943039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10117,7 +9793,7 @@ Nothing
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- &quot; &#x27;  
+&quot; &#x27;  
 Ladies Should Bead Newspapers.  
 It is a great mistake in female edu  
 cation, to keep a: young lady&#x27;s time  
@@ -10147,10 +9823,9 @@ the gilded annuals and poems on the
 center-table bo kept part of the time  
 covered with daily and weekly jour­  
 nals.; Let the whole family, men, wo­  
-- men and children, read newspapers.  
-A young lad
+- men and children, read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1870030301:0387/pct:7.864290,76.386471,20.950594,15.680179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1870030301:0387/pct:7.864290,76.386471,20.950594,14.934096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10162,7 +9837,7 @@ A young lad
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hamed, as well they  
+amed, as well they  
 might be.  
 Ladies Should Read Newspa­  
 pers. It is a great mistake in female  
@@ -10189,7 +9864,8 @@ gilded annuals and poems on the cen
 ter-table be kept apart of the time  
 covered with daily and weekly jour  
 nals. Let the whole family, men, wo  
-men and children, read newspapers.
+men and children, read newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1870030901:0517/pct:54.571071,60.658645,9.643081,14.452185/!600,600/0/default.jpg"/>
 </td>
@@ -10203,7 +9879,7 @@ men and children, read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e.&quot;  
+.&quot;  
   
 Ladies Should Read Newspapers. It  
 is a great mistake in female education  
@@ -10231,7 +9907,8 @@ nuals and poems on the centre table
 be kept part of the time covered with  
 weekly and daily journals. Let th  
 whole family, men, women, and child­  
-ren, read newspapers.
+ren, read newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556503:1870091001:0145/pct:83.062371,26.154940,10.597103,13.586828/!600,600/0/default.jpg"/>
 </td>
@@ -10245,9 +9922,6 @@ ren, read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 Ladies Should Nead NeWspupErs.  
 &quot;It is a great mistake in female edu­  
 eation to keep a young lady&#x27;s time  
@@ -10275,7 +9949,8 @@ poems on the contre table be kept a
 part of the time covered with week­  
 ly and daily journals. Let the whole  
 family, men, women and children,  
-read the newspaper.
+read the newspaper.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061077:00212470302:1870111901:0926/pct:3.885074,5.929078,11.131189,12.851064/!600,600/0/default.jpg"/>
 </td>
@@ -10289,8 +9964,6 @@ read the newspaper.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 events. Urge her to read the newspapers and  
 become familiar with the present character  
 and improvements of our race. Our thoughts  
@@ -10302,7 +9975,8 @@ improvements of our times. Let the gilded
 annuals and poems on the center table be kept  
 part of the time covered with weekly and daily  
 journals. Let the whole family, men, women,  
-and children, read newspapers.
+and children, read newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-and-horticultural-register_1870-11-19_49_47%2Fsim_new-england-farmer-and-horticultural-register_1870-11-19_49_47_jp2.zip%2Fsim_new-england-farmer-and-horticultural-register_1870-11-19_49_47_jp2%2Fsim_new-england-farmer-and-horticultural-register_1870-11-19_49_47_0000.jp2/pct:28.807314,36.763519,10.030022,4.933414/600,/0/default.jpg"/>
 </td>
@@ -10316,7 +9990,7 @@ and children, read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• •  
+•  
 l.a&lt;!ic« Sh uld Read ftewspaperi  
 It is a great mistake in female ed­  
 ucation to keep a young lady’s time  
@@ -10346,6 +10020,7 @@ time covered with weekly and daily
 journals. Let the whole family, men,  
 women, and children, read newspa­  
 pers.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1870112201:0183/pct:72.467255,79.910076,10.678963,14.561619/!600,600/0/default.jpg"/>
@@ -10360,7 +10035,6 @@ pers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Lapres SHouLp Reap NewspaPers.—It is  
 a mistake in female education to keep a young  
 lady’s time and attention devoted to the fash-  
@@ -10396,6 +10070,7 @@ Dec.
   
 journals. Let the whole family, men, women,  
 and children, read newspapers.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-a-monthly-journal_1870-12_4_12%2Fsim_new-england-farmer-a-monthly-journal_1870-12_4_12_jp2.zip%2Fsim_new-england-farmer-a-monthly-journal_1870-12_4_12_jp2%2Fsim_new-england-farmer-a-monthly-journal_1870-12_4_12_0002.jp2/pct:49.003322,69.064551,34.966777,21.088621/600,/0/default.jpg"/>
@@ -10410,7 +10085,6 @@ and children, read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Ladies Should Read Newspapers,?It is  
 a great mistake in female education to keep a  
 young lady&#x27;s time and attention devoted only  
@@ -10432,7 +10106,8 @@ ligious improvement of our times. Let the
 gilded annuals and poems on the centre table  
 bo kept a part of the time covered with weekly  
 and daily journals. Let the whole family­  
-men, women and children?read the newspaper.
+men, women and children?read the newspaper.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1870121501:0421/pct:66.193090,69.412024,15.999354,11.748514/!600,600/0/default.jpg"/>
 </td>
@@ -10446,7 +10121,7 @@ men, women and children?read the newspaper.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Ladies should read newspapers. It is  
+Ladies should read newspapers. It is  
 a great mistake in female education to  
 keep a young lady&#x27;s attention devoted to  
 only the fashionable literature of the  
@@ -10471,7 +10146,7 @@ table be kept part of the time covered
 with weekly and daily journals. Let the  
 family men, women and children, read  
 newspapers.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000006%2F1871011201%2F0487.jp2/pct:37.706725,75.192919,10.942668,12.244666/!600,600/0/default.jpg"/>
 </td>
@@ -10485,7 +10160,6 @@ newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 It is a great mistake in female education to  
 keep a young lady&#x27;s time and attention devot­  
 ed only to the fashionable literature of the day.  
@@ -10505,7 +10179,7 @@ according to the mental, moral and religious
 improvement of our times.  
 A sad instance of how mueh many people  
 suffer, who are supposed by the world at large  
-to b
+to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894948:1871020101:0064/pct:65.522876,82.548059,14.905592,9.950999/!600,600/0/default.jpg"/>
 </td>
@@ -10519,7 +10193,6 @@ to b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 .1 . -  
 Women Should Read NEwsrATEits.  
 It is a great mistake in female education to  
@@ -10540,7 +10213,7 @@ improve its condition. - Let her have an
 intelligent opinion, and be able to sustain  
 conversation according to the mental,  
 moral find rf:ll?kns Improvement of onr  
-tinv-.
+tinv-. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293708:1871020101:0127/pct:34.035967,85.147892,14.696344,9.848962/!600,600/0/default.jpg"/>
 </td>
@@ -10554,7 +10227,7 @@ tinv-.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- elastic.  
+elastic.  
 It Isa preat mistake in female edu­  
 I eation to keep a young lady&#x27;s time and  
 attention devoted only to the fash­  
@@ -10577,7 +10250,7 @@ able to sustuin con vernation according
 to the mental, moral and religious im­  
 provement of our limes.  
 A recent lecturer upon that anti­  
-quated
+quated 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871020801:0133/pct:55.158207,67.475208,9.574819,10.774591/!600,600/0/default.jpg"/>
 </td>
@@ -10591,7 +10264,7 @@ quated
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r?  
+?  
   
 Women Should Read Newspapers.  
   
@@ -10616,7 +10289,7 @@ and be able to sustain conversation ac­
 cording to the mental, moral and re  
 ligious improvement of our times.  
   
-How to get a L
+How to get a Li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1871020901:0178/pct:16.336295,51.926924,9.825701,11.908254/!600,600/0/default.jpg"/>
 </td>
@@ -10630,8 +10303,6 @@ How to get a L
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Ladies Should Read.  
 It is a great mistake in female education,  
 to keep a young lady&#x27;s time and attention de­  
@@ -10654,7 +10325,7 @@ tal, moral and religious improvement of our
   
 o ee e e o e e o o ee  
   
-sofacushion andha bee
+sofacushion andha been
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1871021501:0026/pct:32.293648,58.463687,27.348802,34.706704/!600,600/0/default.jpg"/>
 </td>
@@ -10668,13 +10339,11 @@ sofacushion andha bee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 times. Let the gilded annuals and poems  
   
 on the centre table be kept part of the time oo to the orane en an the sumac  
   
-covered with weekly and daily journals. Let perhaps tho
+covered with weekly and daily journals. Let perhaps thoy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1871021501:0026/pct:37.181438,93.142458,22.917459,1.298883/!600,600/0/default.jpg"/>
 </td>
@@ -10688,7 +10357,6 @@ covered with weekly and daily journals. Let perhaps tho
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 and needy.  
 It is a great mistake in female edu  
 cation to keep a young lady&#x27;s time  
@@ -10710,7 +10378,7 @@ improve its condition. Let her have
 an intelligent opinion, and be able to  
 sustain conversation according to the  
 mentel, moral and religious improve­  
-ment of ou
+ment of our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871021601:0028/pct:67.359111,82.194758,13.163307,14.382724/!600,600/0/default.jpg"/>
 </td>
@@ -10724,7 +10392,6 @@ ment of ou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 It is a great mistake in female  
 education to&#x27; keep a 3-oung lady&#x27;s  
 tha-3 aud attention&#x27; do vote.1 only to  
@@ -10747,7 +10414,7 @@ have an intelligent opinion, and be
 able to sustain conversation ac­  
 cording to the mental, moral and re­  
 ligious improvement of our times.  
-1mv
+1mv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1871022301:0338/pct:47.809710,48.770808,10.560826,13.471503/!600,600/0/default.jpg"/>
 </td>
@@ -10771,7 +10438,6 @@ ligious improvement of our times.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Women Should Read Newspapers  
 It is a great mistake in female educa  
 tion to keep a young lady&#x27;s lime and at.  
@@ -10792,7 +10458,7 @@ and improve its cocdition. Let her hsve
 an intelligent opinion, and be . able to  
 sustain conversation according to tne  
 mental, moral and religious improvement  
-of our times
+of our times.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1871030401:0233/pct:70.152534,79.914949,10.599793,9.998910/!600,600/0/default.jpg"/>
 </td>
@@ -10806,7 +10472,6 @@ of our times
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 It is a great mistake in female educa­  
 tion to keep a young lady&#x27;s time and .at­  
 tention devoted only to the fashiona­  
@@ -10828,7 +10493,7 @@ ing to the mental, moral and religious iui-
 provement of our times.  
 -  
 Dealh.und the CJrave.  
-l
+l 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871030901:0123/pct:72.528517,33.913043,11.393265,10.960816/!600,600/0/default.jpg"/>
 </td>
@@ -10852,7 +10517,7 @@ l
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  eee  
+eee  
 WoMEN SHOtLd REAd NewspApErs.  
 It is a great mistake in female education  
 to keep a young lady&#x27;s time and attention  
@@ -10873,7 +10538,7 @@ her have an intelligent opinion, and be
 able to sustain conversation according to  
 the mental, moral and religious improve­  
 ment of our times.   
-e
+ee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_bombarda_ver01:data:sn84026820:00271765277:1871031801:0050/pct:55.900000,77.219626,12.760000,12.399866/!600,600/0/default.jpg"/>
 </td>
@@ -10887,7 +10552,6 @@ e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Women Slivuld Grud ic wspapcrs  
 It is a great mistake in female education  
 to keep a young lady&#x27;s time and attention  
@@ -10908,7 +10572,7 @@ intelligent opinioa, and be able to sustain
 conversation according to the mental, mo­  
 ral aud religious improvement of our  
 times.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871032301:0131/pct:72.418478,48.650399,11.236413,10.947959/!600,600/0/default.jpg"/>
 </td>
@@ -10922,8 +10586,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 WOMEN SHOULD READ NEWS  
 PAPERS.  
 It is a great mistake in female ed­  
@@ -10948,7 +10610,7 @@ an intelligent opinion, and be able
 to sustain conversation according to  
 the mental, moral and religious im­  
 provement of our times.  
-e
+e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1871032401:0455/pct:80.719069,77.145427,11.843497,14.182939/!600,600/0/default.jpg"/>
 </td>
@@ -10962,7 +10624,6 @@ e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 Ladle Should Read Newspaper  
 It is a great mistake in female educa­  
 tion to keep a young lady’s time and at­  
@@ -10974,7 +10635,7 @@ Let the gilded annuals and poems on the
 tame be kept part of the time cov­  
 ered with weekly and daily journal  
 Let the whole family men women and  
-children read newspaper
+children read newspapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1871032501:0527/pct:36.263409,85.956845,9.773540,11.236882/!600,600/0/default.jpg"/>
 </td>
@@ -10988,7 +10649,6 @@ children read newspaper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 m in the actual world and its  
 anspiring events. Uige her to  
 the newspapers, and become  
@@ -11009,7 +10669,7 @@ al» and poems on the centreatable
 be kept part of «he time covered  
 with weekly and daily journals,  
 Let the whole family, men, women  
-and children, read newspapers
+and children, read newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lapras_ver01:data:sn85034325:00295873826:1871042001:0454/pct:3.018868,57.597118,17.382075,16.353383/!600,600/0/default.jpg"/>
 </td>
@@ -11023,8 +10683,6 @@ and children, read newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
-  
 WomeEN SHOULD Reap Newsrarers.—It is a great  
 mistake in female cducation to keep a young lady&#x27;s  
 time and attention devoted to the fashionable liter  
@@ -11041,7 +10699,7 @@ ent world; to know what it is and improve its
 condition. Let her have an intelligent opinion. and  
   
 be able to sustain conversation according to the men-  
-tal, moral and religious improvement of ou
+tal, moral and religious improvement of our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_woodhull-and-claflins-weekly_1871-04-22_2_23%2Fsim_woodhull-and-claflins-weekly_1871-04-22_2_23_jp2.zip%2Fsim_woodhull-and-claflins-weekly_1871-04-22_2_23_jp2%2Fsim_woodhull-and-claflins-weekly_1871-04-22_2_23_0015.jp2/pct:73.532892,6.696468,18.125887,7.467789/600,/0/default.jpg"/>
 </td>
@@ -11055,8 +10713,6 @@ tal, moral and religious improvement of ou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Eadies Mhould Head.  
 It is a creat mistake in female educa  
 tion, to keep a young lady&#x27;s time and at  
@@ -11083,7 +10739,7 @@ of the time covered with weekly and
 daily journals. Let the whole family,  
 meu women and children, read newspa  
 pers.  
-Two Senator
+Two Senators
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000006%2F1871042701%2F0545.jp2/pct:61.700108,10.132260,10.778200,12.892467/!600,600/0/default.jpg"/>
 </td>
@@ -11097,7 +10753,7 @@ Two Senator
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the hands of an Adams. We only men­  
+the hands of an Adams. We only men­  
 tion this gossip, not to express an opinion, but  
 merely that our readers may know what is said.  
 JVifie York Independent.  
@@ -11119,7 +10775,7 @@ improve its condition. Let her have an intelli­
 gent opinion, and be able to sustain conversa­  
 tion according to the mental, moral and relig­  
 ious improvement of our time.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:0027955730A:1871050601:0314/pct:49.070977,38.908169,14.864363,14.388681/!600,600/0/default.jpg"/>
 </td>
@@ -11133,7 +10789,7 @@ ious improvement of our time.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the hand, saying, “Mr.  
+the hand, saying, “Mr.  
 President, I cannot tell a lie; I cannot  
 tell a lie; Wendell Phillips did it I”  
 Women Should Read Newspapers.  
@@ -11156,7 +10812,7 @@ Let her have an intelligent opinion, aud be
 able to sustain conversation according to  
 the mental, moral and religious improve­  
 ment of our times.  
-The San Jose Patriot says
+The San Jose Patriot says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556690:1871050601:0073/pct:59.285714,66.129253,12.673993,14.059298/!600,600/0/default.jpg"/>
 </td>
@@ -11180,7 +10836,7 @@ The San Jose Patriot says
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- land under the sun.  
+land under the sun.  
 It is a great mistake in female educa  
 tion to keep a young lady&#x27;s time and at  
 tention gevoteu only to the fashionabl  
@@ -11199,7 +10855,7 @@ world; to know what is is and improve
 ite cundition. tet es mave an intelit­  
 gent opinion, andd be able to sustain con  
 sersation according to the mental, moral  
-und seligions improvemeat of our time
+und seligions improvemeat of our times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1871072001:0323/pct:51.189682,81.662745,14.498555,11.717647/!600,600/0/default.jpg"/>
 </td>
@@ -11223,7 +10879,7 @@ und seligions improvemeat of our time
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it.  
+it.  
 Women ShOUld Read Newspapers.-It  
 is a great mistake in female education to keep  
 a young lady&#x27;s time and attention devoted  
@@ -11242,7 +10898,8 @@ and improve its condition. Let her have an
 intelligent opinion, and be able to sustaln  
 conversation according to the mental, moral,  
 and religlous improvements of our times.  
--Union Park BanNer.
+-Union Park BanNer.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212475087:1871102102:0541/pct:83.034571,81.972543,12.868118,9.320809/!600,600/0/default.jpg"/>
 </td>
@@ -11256,7 +10913,7 @@ and religlous improvements of our times.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a  
+a  
   
 Women «should Head Newspapers.  
 It ia a great mistuke in female education  
@@ -11290,7 +10947,7 @@ sustain conversation according to the mental,
 moral and religious improvement of the  
   
 times. mm 1 tha Ave  
-&lt;s il
+&lt;s ili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_atlanta-constitution_1871-11-03_4_123%2Fper_atlanta-constitution_1871-11-03_4_123_jp2.zip%2Fper_atlanta-constitution_1871-11-03_4_123_jp2%2Fper_atlanta-constitution_1871-11-03_4_123_0000.jp2/pct:11.699315,11.971447,11.929777,26.356800/,600/0/default.jpg"/>
 </td>
@@ -11304,7 +10961,6 @@ times. mm 1 tha Ave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 keep a young lady&#x27;s time and attention  
 devoted only to the fashionable literature  
 of the day. If you would qualify her for  
@@ -11321,7 +10977,8 @@ present world; to know what it is and im
 prove its condition. 1ct her have an in­  
 lelfigent opinion, and be abl to suslain  
 conversation according to the mental, mor  
-I, and religious improvements of our tien
+I, and religious improvements of our tien  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1871110401:1016/pct:69.014599,86.693718,12.828467,8.241220/!600,600/0/default.jpg"/>
 </td>
@@ -11335,7 +10992,7 @@ I, and religious improvements of our tien
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ?  
+?  
   
 WOMEN SHOULD READ NEWSPAPERS.  
 -It is a great mistake in female educa­  
@@ -11355,7 +11012,8 @@ the present world; to know what it is and
 impove its condition. Let her have an in­  
 telligent opinion, and be able to sustain  
 conversation according to the mental, mor­  
-al and religious improvement of our times.
+al and religious improvement of our times.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002296%2F1872011701%2F0010.jp2/pct:61.408748,80.590218,11.148194,10.468935/!600,600/0/default.jpg"/>
 </td>
@@ -11369,7 +11027,6 @@ al and religious improvement of our times.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Women should Head Newspapers.  
 It is a creat mistake in female educa­  
 tion to keep a young lady&#x27;s time &quot;and  
@@ -11389,7 +11046,8 @@ improve its condition. Let her have an
 intelligent opinion and be able to sustain  
 conversation according to the mental.  
 niorl. and reliiuu improvemcuU of  
-our tiuica.
+our tiuica.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872020301:0423/pct:6.193872,82.091852,10.750132,8.969485/!600,600/0/default.jpg"/>
 </td>
@@ -11403,7 +11061,6 @@ our tiuica.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 convtrsition ure her to read the  
 newspapers and become familiar with  
 j 1 1 &quot; i l. i -m  
@@ -11414,7 +11071,7 @@ we have nothing to do with it. Our
 thoughts and our concerns should be  
 with the present world. Let a woman  
 have an intelligent opinion, and be  
-able to sustain conversatio
+able to sustain conversation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR1n_ver01%2Fdata%2F1872082101%2F0554.jp2/pct:4.966796,88.920071,11.220255,4.750026/!600,600/0/default.jpg"/>
 </td>
@@ -11428,7 +11085,7 @@ able to sustain conversatio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ay. If you would qualify her  
+y. If you would qualify her  
 for conversation, you must giye her  
 something to talk about) give her educa­  
 tion with the actual world a nd its trans­  
@@ -11451,7 +11108,7 @@ gilded annuals and poems on the cen
 tre-tables be &#x27;kept part f the time cov­  
 ered with weekly and daily journals,  
 Let the whole family, men, women and  
-c hildren, read the newspapers
+c hildren, read the newspapers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873120601:0407/pct:3.843897,25.350690,10.357981,11.581192/!600,600/0/default.jpg"/>
 </td>
@@ -11465,7 +11122,7 @@ c hildren, read the newspapers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r.  
+.  
 ? :  
 Laiies Should Read Newspapers.  
 It is a great mistake in female education  
@@ -11497,7 +11154,7 @@ whole family, men, women and children,
 read the newspapers.  
 Burmese Elephants. Mr. ..-Vincent  
 gives an interesting account of the elo-  
-phants employed in the immense
+phants employed in the immense 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCGazFay1n_ver01%2Fdata%2F1874082001%2F0209.jp2/pct:69.521152,13.663297,26.527615,82.874405/!600,600/0/default.jpg"/>
 </td>
@@ -11511,7 +11168,7 @@ phants employed in the immense
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, dreain  
+dreain  
 FEMALE EDUCATION. -It is a great  
 mistake in female education to keep a  
 young lady&#x27;s time and attention de­  
@@ -11539,7 +11196,7 @@ hchenter-table be kept a part of the
 time ewored with the weekly and  
  daily jouals. Let the whole family,  
 en and cleldren, read the  
-er
+ers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299541:1874101701:0273/pct:30.980769,53.940217,15.211538,27.479620/!600,600/0/default.jpg"/>
 </td>
@@ -11553,7 +11210,7 @@ er
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it. &#x27;  
+it. &#x27;  
 &quot;&#x27; Ladles Should Bead.  
 ui (- ...  
 &quot; It Is a great mistake in female education,  
@@ -11584,7 +11241,7 @@ Harried Without Knowing II.
 lA Mr. Thoma Cooper, an Englishman,  
   
 has publiahcd an account of his travels in  
-Thibet, whloli ho visited disguised a
+Thibet, whloli ho visited disguised as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026050:00280776816:1874111701:0383/pct:40.906709,7.519302,35.010482,87.932192/!600,600/0/default.jpg"/>
 </td>
@@ -11598,7 +11255,7 @@ Thibet, whloli ho visited disguised a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ReAd. It is a great  
+ReAd. It is a great  
 mistake in female education to keep a  
 young lady&#x27;s time and attention devo­  
 ted only to the fashionable literature  
@@ -11620,7 +11277,8 @@ gilded annals and poems on the centre
 tabe be kept a part of the time cover  
 ed with weekly and daily journals.  
 Liet the whole family, men, women  
-and children read newspapers.
+and children read newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1874121601:0707/pct:84.872488,78.201830,10.336167,10.148656/!600,600/0/default.jpg"/>
 </td>
@@ -11634,7 +11292,6 @@ and children read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 It is a great mistake in female educa­  
 tion to keep a young lady&#x27;s tims and at­  
 tention devoted on!v to the fashionable  
@@ -11655,7 +11312,8 @@ times. Let the gilded annals ana poems
 on the centre-table be kept a part of the  
 time covered with weekly and daily jour­  
 nal*. Let the whole family, men, women  
-and children read newspapers.
+and children read newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879030601:0071/pct:78.090999,50.575480,16.740851,13.794829/!600,600/0/default.jpg"/>
 </td>
@@ -11669,7 +11327,6 @@ and children read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 It is a great mistake in female educa­  
 tion to keep a young lady&#x27;s time and at­  
 tention devoted only to the fashionable  
@@ -11690,7 +11347,8 @@ times. Let the gilded annals and poems
 on the centre-table be kept a part ot the  
 time covered with weekly and daily jour­  
 nals. Let the whole family, men, women  
-and children read newspapers.
+and children read newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879041001:0111/pct:77.268068,50.719362,17.401333,14.421910/!600,600/0/default.jpg"/>
 </td>
@@ -11704,7 +11362,6 @@ and children read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 It is a great mistake in female educa­  
 tion to keep a young lady&#x27;s time and at­  
 tention devoted only to the fashionable  
@@ -11725,7 +11382,8 @@ times. Let the gilded annals ana poems
 on the centre table be kept a part ot the  
 time covered with weekly and daily jour­  
 nal*. Let the whole family, men, women  
-and children read newspapers.
+and children read newspapers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879041701:0123/pct:76.063557,51.239383,17.350077,14.369908/!600,600/0/default.jpg"/>
 </td>
@@ -11739,7 +11397,7 @@ and children read newspapers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Women Should Read Newspa  
+Women Should Read Newspa  
 pers. It is a great mistake in female ed­  
 ucation to keep a young lady&#x27;s time and  
 attention devoted to only the fashionable  
@@ -11764,7 +11422,7 @@ poems on the centre table lie kept a part
 of the time oovered with good weekly and  
 daily lournats. let tbe whole family  
 men, women, and ohildren, read newspa  
-pers
+pers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1881011901:0639/pct:72.589218,43.044438,11.199696,11.095777/!600,600/0/default.jpg"/>
 </td>
@@ -11778,7 +11436,7 @@ pers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it is not sufficiently practical.  
+it is not sufficiently practical.  
 It is a great mistake to keep a young  
 lady&#x27;* time and attention devoted  
 only to the fashionable literature of  
@@ -11805,7 +11463,7 @@ fable be kept a part of the time cov­
   
 erea with weekly and dally journals.,  
 Let the whole family, man, womaiP^  
-and children, read the newspape
+and children, read the newspaper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349219:1884062101:0611/pct:79.069318,23.287858,15.524232,18.731241/!600,600/0/default.jpg"/>
 </td>
@@ -11819,7 +11477,6 @@ and children, read the newspape
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 LAdies should eead  
 NeWSpAPees.  
 It is a great mistake in female  
@@ -11848,7 +11505,7 @@ our time. Let the gilded an
 nuals and poems on the center­  
 table be kept a part of the time  
 covered with journals. Let the  
-famil
+family
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1896112601:1561/pct:16.126513,41.602140,10.918586,17.953682/!600,600/0/default.jpg"/>
 </td>

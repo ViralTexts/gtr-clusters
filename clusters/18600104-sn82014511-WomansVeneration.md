@@ -1,7 +1,7 @@
 
 # Woman's Veneration
 
-### 83 reprints from 1859-05-01 to 1893-09-20
+### 84 reprints from 1859-05-01 to 1893-09-20
 
 ## [Woman's Veneration](https://chroniclingamerica.loc.gov/lccn/sn82014511/1860-01-04/ed-1/seq-3/)
 
@@ -43,7 +43,7 @@ If women have one weakness more marked than another, it is towards veneration. T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- at t man, a man really  
+at t man, a man really  
   
 grand and nol 1 heart and intellect,  
 has this advantage with women, that he  
@@ -59,7 +59,7 @@ can be ready to worship him on shorter
 notice.  
   
 In particular is this the case where a  
-sacred profession and a moral supremac
+sacred profession and a moral supremacy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_atlantic_1859-05_3_19%2Fsim_atlantic_1859-05_3_19_jp2.zip%2Fsim_atlantic_1859-05_3_19_jp2%2Fsim_atlantic_1859-05_3_19_0092.jp2/pct:12.014134,11.745940,62.190813,74.361949/,600/0/default.jpg"/>
 </td>
@@ -73,7 +73,6 @@ sacred profession and a moral supremac
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 preachers  
   
 are added to the intellectual.  
@@ -125,7 +124,8 @@ an emblem and sign of woman’s ¢ nal
 power ol self-sacrifice to wl t si aeems  
   
 ]  
-noblest in man? Does not
+noblest in man? Does not  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_atlantic_1859-05_3_19%2Fsim_atlantic_1859-05_3_19_jp2.zip%2Fsim_atlantic_1859-05_3_19_jp2%2Fsim_atlantic_1859-05_3_19_0092.jp2/pct:44.037102,21.200696,30.300353,21.577726/,600/0/default.jpg"/>
 </td>
@@ -141,7 +141,7 @@ noblest in man? Does not
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n love  
+ love  
 with. If women have one weakness more  
 marked than another, it is towards  
 veneration. They are boru worshippers, —  
@@ -201,7 +201,7 @@ from t!ie fUt&#x27;.ery &#x27;f adtiiirers to
 prestrate Ihein^clvfs at tbu feet i f ?  
 genuine hero who never wooed 1&#x27;ism  
 except \rj heroic deeds and tho rhetoric  
-of n noble HI
+of n noble HIV
 </td></tr></table>
 
 ---
@@ -222,8 +222,6 @@ of n noble HI
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The fact is women are burdened with fealty, faith,  
 reverence, more than they know what to do with:  
 they stana like a hedge of sweet peas, throwing out  
@@ -233,7 +231,8 @@ rough in the balk, they catch upon it. And instances
 are vot wanting of those who nave turned away from  
 the flattery of admirers to prostrate themselves at the  
 feet of a genuine hero who never wooed them, except  
-by heroic deeds and the rhetoric of a noble life.
+by heroic deeds and the rhetoric of a noble life.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver02:data:sn83030213:00206530637:1859101501:0317/pct:1.846922,65.485232,15.507488,4.653406/!600,600/0/default.jpg"/>
 </td>
@@ -247,7 +246,7 @@ by heroic deeds and the rhetoric of a noble life.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;r Si T  
+r Si T  
 The Paith of Woman.  
 The fact is women are burdened with feal  
 ty, faitbT and reverence, more than tbey know  
@@ -261,7 +260,8 @@ have turned away from the flattery of admir
 ers to prostrate themselves at the feet of a  
 genuine hero who never wooed them, except  
 by heroic deeds and the rhetoric of a noble  
-life.1
+life.1  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027133:1859102601:0605/pct:15.155440,78.489881,11.220855,7.797094/!600,600/0/default.jpg"/>
 </td>
@@ -275,7 +275,6 @@ life.1
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The fact is women are burdened with fealty,  
 faith, reverence, more than they know what to  
 do with; they stand like a hedge of sweet peas  
@@ -287,7 +286,7 @@ not wanting of those who have turned away
 from the flattery of admirers to prostrate them­  
 selves at the feet of a genuine hero who never  
 wooed them except by heroic deeds and the  
-rhetoric of a noble life
+rhetoric of a noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859102701:0003/pct:23.816370,70.658242,9.598428,4.194449/!600,600/0/default.jpg"/>
 </td>
@@ -321,18 +320,7 @@ rhetoric of a noble life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-stitutes. The house was very simple in regard to its internal divi-  
-sions. It possessed its kitchen, bedroom, drawing and dining rooms,  
-scullery, &amp;c., all in one ; consequently we all slept in this universal room,  
-which oceu the whole of the interior of this simple and curious New  
-Zealand . There was no chair ; the vertebrw of a whale, however,  
-made a ble substitute. The thing that bore the nearest a’ ximation  
-to the civilisation of the white community was a cradle, in which swung her  
-little infant, she being married to an Americau.—Dr. John Shaw&#x27;s Gallop to  
-  
-he Antipodes.  
-  
-Woman&#x27;s Venrration.—If women have one weakness more  
+If women have one weakness more  
   
 marked than men, it is towards veneration. They are born worshippers—  
 makers of silver shrines for some divinity or other, which of course, they  
@@ -364,9 +352,10 @@ and so forth? Is not the faithful Paula, with her beautiful face, trate
 in reverence before poor, old, lean, beggerd, dying St. Jerome, in the most  
 of the,world, an emblem asign of woman&#x27;s eternal power  
   
-ce to what she deems noblest in man? Does not old Richard
+ce to what she deems noblest in man? Does not old Richard  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_illustrated-london-news_1859-11-05_35_1001%2Fsim_illustrated-london-news_1859-11-05_35_1001_jp2.zip%2Fsim_illustrated-london-news_1859-11-05_35_1001_jp2%2Fsim_illustrated-london-news_1859-11-05_35_1001_0002.jp2/pct:4.850386,71.321526,26.592664,14.799046/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_illustrated-london-news_1859-11-05_35_1001%2Fsim_illustrated-london-news_1859-11-05_35_1001_jp2.zip%2Fsim_illustrated-london-news_1859-11-05_35_1001_jp2%2Fsim_illustrated-london-news_1859-11-05_35_1001_0002.jp2/pct:4.850386,76.055858,26.568533,10.064714/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,10 +367,10 @@ ce to what she deems noblest in man? Does not old Richard
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- upon  
+upon  
 those who have turned away from the pr  
 themeelves at the feet of a genuine hero who never wooed them except by  
-heroic deeds and the rhetoric of a noble lif
+heroic deeds and the rhetoric of a noble life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_illustrated-london-news_1859-11-05_35_1001%2Fsim_illustrated-london-news_1859-11-05_35_1001_jp2.zip%2Fsim_illustrated-london-news_1859-11-05_35_1001_jp2%2Fsim_illustrated-london-news_1859-11-05_35_1001_0002.jp2/pct:4.802124,89.747956,26.472008,2.060627/600,/0/default.jpg"/>
 </td>
@@ -395,8 +384,6 @@ heroic deeds and the rhetoric of a noble lif
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The fact is, women are burdened with  
 fealty, faith, reverence, more than they  
 snow what to uo with; tney stand like a  
@@ -409,7 +396,7 @@ those who have turned away from the flat­
 tery of admirers,, to prostrate themselves at  
 the. feet of a genuine hero, who never wooed  
 them, except by heroic deeds aud the rhetor  
-icof a noble lif
+icof a noble life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859112401:0081/pct:32.098540,64.789697,12.335766,6.836553/!600,600/0/default.jpg"/>
 </td>
@@ -423,7 +410,7 @@ icof a noble lif
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s of indulgence.&quot;  
+of indulgence.&quot;  
 Woman’s Reverence—The fact is, woman  
 is burdened with fealty, faith, reverence, more  
 than she knows what to do with; they stand like  
@@ -435,7 +422,7 @@ it. And instances are not wanting of those who
 have turned away from the flattery of admiration,  
 to prostrate themselves at the feet of a genuin*  
 hero who never wooed them, except by heroic  
-deeds and the rhetoric of a noble life
+deeds and the rhetoric of a noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83020847:00517171475:1859121701:1234/pct:82.062299,68.880169,14.264232,6.082101/!600,600/0/default.jpg"/>
 </td>
@@ -449,7 +436,7 @@ deeds and the rhetoric of a noble life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t own?  
+own?  
   
 WolHRu?s Venerations  
 IFromn the MinisT r&#x27;s Wooing.I  
@@ -506,7 +493,7 @@ at the feet of a genuine hero who never wooed
 them except by heroic deeds and the rhetoric  
 of a noble life.  
   
-Wine 
+Wine A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860010401:0003/pct:24.157095,26.093094,10.022230,21.257420/!600,600/0/default.jpg"/>
 </td>
@@ -520,7 +507,7 @@ Wine
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&gt;f the mateiia; comes in with  
+f the mateiia; comes in with  
 I its hard counsels and consultations, and  
 the beautiful trance fades forever.  
 The Faith of Woman—The fact is,  
@@ -536,7 +523,7 @@ of those w ho have, turned away from the
 flattery of admirers, to prostrate themsel­  
 ves at the feet of a genuine hero, who nev­  
 er wooed them, except by heroic deeds  
-and the rhetoric of a noolc life
+and the rhetoric of a noolc life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860010401:0094/pct:43.496225,53.751966,12.223964,10.155021/!600,600/0/default.jpg"/>
 </td>
@@ -550,8 +537,6 @@ and the rhetoric of a noolc life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 agts  
   
 womaN’s VeneRAtios.  
@@ -586,7 +571,7 @@ this the case where a sacred profession and
   
 a moral supremacy are added to the  
   
- 
+ i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1860011401:0006/pct:82.845125,39.391604,12.828601,10.127697/!600,600/0/default.jpg"/>
 </td>
@@ -600,8 +585,6 @@ a moral supremacy are added to the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The minister bent over the cushion, and  
   
 e i e e a e o ee  
@@ -634,7 +617,7 @@ than she had expected? The faot is, women
 are burdened with fealty, faith, reverence,  
 hat to do with; they  
   
-they kn
+they kno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1860011401:0006/pct:68.789745,49.482607,26.513444,9.393806/!600,600/0/default.jpg"/>
 </td>
@@ -648,8 +631,6 @@ they kn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 sweet pess, throwing  
   
 fluttering tendrile every where for  
@@ -659,7 +640,8 @@ the bark, they catch upon it. And in-­
 stances ars not wanting of those who have  
 turned away from the flattery of admivers to  
 prostrate themselves at the feet of a genu-­  
-ine hero whe never wooed them except by
+ine hero whe never wooed them except by  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1860011401:0006/pct:83.921686,58.964480,11.281358,3.706150/!600,600/0/default.jpg"/>
 </td>
@@ -683,7 +665,7 @@ ine hero whe never wooed them except by
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Baltimore Sun.  
+Baltimore Sun.  
   
 From the Minster&#x27;s Wooing.  
   
@@ -739,7 +721,8 @@ are not wanting of those who have turned
 away from the flattery of admirers to pros­  
 trate themselves at the feet of a genuine  
 nero^who never wooed them except by  
-iieroic deeds and tho rhetoric of a noble
+iieroic deeds and tho rhetoric of a noble  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1860011801:0699/pct:4.572439,65.534175,11.191108,25.435959/!600,600/0/default.jpg"/>
 </td>
@@ -753,7 +736,7 @@ iieroic deeds and tho rhetoric of a noble
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Ai.  
+Ai.  
 If woman Lave ono weakness mor *  
 marked than man, it is toward veueralioii.  
 They arc born worshippers—maker* of  
@@ -808,7 +791,8 @@ away from the flattery of admirers to
 prostrate thems* Ives at the feet of a gen­  
 uine hero who never wooed them except  
 by heroic deeds and the rhetoric us a no­  
-ble life.
+ble life.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860011801:0101/pct:82.312139,21.693122,12.398844,38.679453/!600,600/0/default.jpg"/>
 </td>
@@ -822,7 +806,7 @@ ble life.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h of Heaven.&quot;  
+of Heaven.&quot;  
 speaking of Woman&#x27;s reverence,  
 Mrs. Stowe says:  
 &quot;The fact is, weman is burdened with  
@@ -838,7 +822,7 @@ away from the flattery of admiration to
 prostrate themselves at the feet of a gen­  
 uine hero, who never wooed them except  
 by heroic deeds and the rhetoric of a noble  
-lif
+life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028034:1860012601:0018/pct:57.165262,61.215730,12.644579,9.664913/!600,600/0/default.jpg"/>
 </td>
@@ -854,7 +838,7 @@ lif
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- enthusiasm is  
+enthusiasm is  
 not ordained of God, though whole synods  
 of bishops laid hands on him, IHE FAITH  
 OF TC0HUT. The fact is women are  
@@ -871,7 +855,7 @@ flittery of admirers to prostrate
 themselves at the feet of a genuine hero  
 who never wooed them, except by heroio  
 deeds and the rhetoric of a noble life.  
-w
+we
 </td></tr></table>
 
 ---
@@ -882,7 +866,7 @@ w
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y the Danes.&quot;  
+the Danes.&quot;  
 WitAT WoMen thInk oF ThEMSelves.  
 But let us have a look through the oth  
 er end of the glass! See what a woman  
@@ -930,7 +914,7 @@ genuine hero who never wooed them ex-­
 cept by heroic deeds and the rhetoric of a  
 noble life.&quot;  
 A cvnicAl FreeCiman once said there  
-are 
+are t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190650:1860012801:0095/pct:41.973363,72.019922,14.269012,25.987916/!600,600/0/default.jpg"/>
 </td>
@@ -944,7 +928,7 @@ are
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ever­  
+ever­  
 greens in the world.  
 Does not old Richard Baxter tell us, with de­  
 lightful single-heartedness-, limy his wife fell in  
@@ -964,7 +948,7 @@ who have turned away from the flattery of ud­
 genuine hero, who never wooed them except by  
 lierrrio deeds and the rhetoric of a noble life*. -7Vie  
 Minister&#x27;s Wooing.  
-Passo.v Bbowklow, in the las
+Passo.v Bbowklow, in the last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1860020401:0023/pct:17.658027,78.295778,14.693269,10.360010/!600,600/0/default.jpg"/>
 </td>
@@ -978,7 +962,7 @@ Passo.v Bbowklow, in the las
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Vomaiils ■Veneration.  
+omaiils ■Veneration.  
 If women have one weakness more marked  
 than men, itis toward veneration. Thoy are born  
 worshippers—makers of silver shrines for some  
@@ -1026,7 +1010,7 @@ prostrate themselves at the feet of a genuine hero
 who never wooed them except by heroic deeds  
 .and the rhetoric of a noble life.  
 The Sacred Bandkerchief.  
-Near the Convent of
+Near the Convent of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860020401:0002/pct:42.036874,25.000000,12.151010,18.314099/!600,600/0/default.jpg"/>
 </td>
@@ -1040,8 +1024,6 @@ Near the Convent of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 What Women think of Themsetves.  
 But let us have a look through the other  
 end of the glass! See what a woman says  
@@ -1092,7 +1074,7 @@ never wooed them except by heroic deeds
 and the rhet oric ef anoble life.  
 e  
 Anticipating Eoils. Enjoy the present  
-whatever i
+whatever it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202193997:1860021601:0061/pct:84.316618,10.913985,15.452311,32.203647/!600,600/0/default.jpg"/>
 </td>
@@ -1106,7 +1088,7 @@ whatever i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-uth.”  
+th.”  
   
 Woman’s Veneration.  
   
@@ -1158,7 +1140,7 @@ not wanting of those who have tamed away
 from the flattery of admirers to prostrate them­  
 selves at the feet of a genuine hero who never  
 would woo them except by heroic deeds and the  
-rhetoric of a ncble life.— Jfrutier&#x27;
+rhetoric of a ncble life.— Jfrutier&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001706%2F1860022301%2F0029.jp2/pct:19.798961,66.543149,15.072284,29.916008/!600,600/0/default.jpg"/>
 </td>
@@ -1172,7 +1154,6 @@ rhetoric of a ncble life.— Jfrutier&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Woman&#x27;s Veneration.?If woman have  
 one weakness more marked than man, it is  
 toward veneration. They are born worshippers?makers  
@@ -1227,7 +1208,7 @@ urncd away from the flattery of admirers
 n prostrate themselves at the feet of a genline  
 hero who never woo them except by  
 leroic deeds and the rhetoric of a noble  
-ife.? T/?
+ife.? T/? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1860030101:0373/pct:84.843830,58.279712,16.013825,29.627176/!600,600/0/default.jpg"/>
 </td>
@@ -1251,7 +1232,6 @@ ife.? T/?
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-*  
 Nttee Letter.  
 What Women Think of Themselves.  
 But let ua have a look through the other end  
@@ -1294,7 +1274,7 @@ who hnv? turned away from the flattery of admirers
 to proslrnte themselves at the feet of a  
 genuine hero who never wooed them except by  
 heroic deeds and the rhetoric of a noble life.&quot;  
-&#x27;
+&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1860032201:0903/pct:64.699093,49.404038,18.202803,25.699343/!600,600/0/default.jpg"/>
 </td>
@@ -1308,7 +1288,7 @@ heroic deeds and the rhetoric of a noble life.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ht in  
+t in  
 the prospective.  
   
 WOMAN&#x27;S VENERATION.  
@@ -1362,7 +1342,7 @@ away from the flattery of admirers to prostrate
 themselves at the feet of a genuine hero who  
 never wooed them except by heroic deeds and  
 the rhetoric of a noble life. a  
-How To WATE
+How To WATER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1860041401:0663/pct:81.644460,44.498018,12.697230,25.713342/!600,600/0/default.jpg"/>
 </td>
@@ -1376,7 +1356,7 @@ How To WATE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-anity.&quot;  
+nity.&quot;  
   
 WODEAN , IS - VENERATION.  
   
@@ -1433,7 +1413,7 @@ lkevpr so rough inthehaiWthey catch
 , , fircTifrate - thiiTtfeTiiii7atjlie ,  
 fcetaf a gelinine hero who never &#x27;would woo,  
 :them ekoept bt. oroic deeda - and the rhetoric  
-Of ti-nolledife:
+Of ti-nolledife: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001836%2F1860042501%2F0055.jp2/pct:68.223042,69.287388,11.819813,23.963674/!600,600/0/default.jpg"/>
 </td>
@@ -1447,7 +1427,7 @@ Of ti-nolledife:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- The fact is,  
+The fact is,  
 women are burdened with fealty, faith,  
 reverence, more than they know what  
 to do with; they stand like a hedge of  
@@ -1461,7 +1441,7 @@ away from the flattery of admirers, to
 prostrate themselves at the feet of a  
 genuine hero who never wooed them,  
 except by herole deeds and the thetorte  
-of a noble life
+of a noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860051701:0696/pct:17.761090,71.158488,12.155082,8.138911/!600,600/0/default.jpg"/>
 </td>
@@ -1475,7 +1455,7 @@ of a noble life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?If women Lave one  
+If women Lave one  
 weakness more marked than man, it is toward?  
 veneration. They are born, worshippers?  
 makers of silver sliriues in some divinity or­  
@@ -1529,7 +1509,8 @@ a genuine hero who never woo tbetn except hy
 .heroic deeds and the &#x27;rhetoric of noble life. / ?  
 The Minister&#x27;s Wooing.  
 J  
-Louis: as a ax d the Southern- Movement afm
+Louis: as a ax d the Southern- Movement afm  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862300:1860052201:0071/pct:83.105554,18.276545,17.854027,26.747942/!600,600/0/default.jpg"/>
 </td>
@@ -1543,7 +1524,7 @@ Louis: as a ax d the Southern- Movement afm
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- We do not relish the noise of  
+We do not relish the noise of  
 scolding. We never did. Scolding seems to be a,  
 poor use to make of a woman ; but then scolding may-/  
 have its advantages. We do not like the noise of a*  
@@ -1559,7 +1540,7 @@ they catch upon it. And. instances are not wanting of
 those who have turned away from the flattery of ad­  
 mirers to prostrate themselves at the feet of a.geuuiue  
 hero who never wooed them except by heroic- deeds  
-aud the rhetoric of a noble life
+aud the rhetoric of a noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860063001:0006/pct:80.924046,80.505279,12.110606,5.731523/!600,600/0/default.jpg"/>
 </td>
@@ -1573,7 +1554,7 @@ aud the rhetoric of a noble life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s VeneratIOn. If women  
+s VeneratIOn. If women  
 have one weakness more marked than  
 an, it is towaid veneration. They  
 are born worshippers- makers of sil­  
@@ -1638,7 +1619,7 @@ admirers to prostrate themselves at
  the feet of a genuine hero who never  
 wo o te ece  ei  
 deeds and the rhetoric of a noble  
-life.--Th
+life.--The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_karma_ver01:data:sn88083120:00211100813:1860070401:0009/pct:80.725275,16.388720,15.670330,45.345664/!600,600/0/default.jpg"/>
 </td>
@@ -1652,7 +1633,7 @@ life.--Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- trying to do as he was told.  
+trying to do as he was told.  
  o  
 Woman&#x27;s Veneration.  
 If women have one weakness more  
@@ -1713,7 +1694,7 @@ away from the flattery of admirers to
 prostrate themselves at the feet of a  
 renuine hero who never woo them exe  
 cept by heroic deeds and the rhetoric of  
-oble life
+oble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1860080201:0985/pct:56.842883,33.519442,14.978369,35.954700/!600,600/0/default.jpg"/>
 </td>
@@ -1727,12 +1708,12 @@ oble life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, that she had found him fear sour  
+that she had found him fear sour  
 i e e e e e e  e  
 faith, reverence, mnor than they  
 what to do with; they stand like ah  
   e e o e e  
-drils everywhere for something h
+drils everywhere for something hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_karma_ver01:data:sn85038570:00280761795:1860122201:0085/pct:85.415662,55.617846,12.847725,19.598225/!600,600/0/default.jpg"/>
 </td>
@@ -1766,7 +1747,6 @@ drils everywhere for something h
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WOMAN&#x27;S VENERATION.  
 If women have one weakness more  
 marked than men, it is toward* ven­  
@@ -1827,7 +1807,7 @@ tery of admirers to prostrate them­
 selves at tho feet «f a geuuine hero,  
 who never wooed them, except by he­  
 roic deeds and the rhetoric Aoble  
-life.— The Minister&#x27;
+life.— The Minister&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1861112801:0059/pct:74.028769,44.199925,10.080417,29.522566/!600,600/0/default.jpg"/>
 </td>
@@ -1861,7 +1841,6 @@ life.— The Minister&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Women’s Veneration.  
   
 If women have one weakness more marked  
@@ -1913,7 +1892,7 @@ not wanting of those who have tamed away
 from the flattery of admirers to prostrate  
 themselves at tho feet of a genuine hero, who  
 never wooed them, except by heroic deeds  
-and tho rhetoric of noble life.— The Minister’
+and tho rhetoric of noble life.— The Minister’s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001741%2F1861120501%2F0177.jp2/pct:56.169421,15.888186,11.925731,24.004743/!600,600/0/default.jpg"/>
 </td>
@@ -1927,13 +1906,6 @@ and tho rhetoric of noble life.— The Minister’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- kicked to death  
-bv a Jackass, and Pd hke to do ill&#x27; Mr.  
-  
-Slow is very 6evero ßornotimeg.  
-  
-Q&#x27;iJ,JkJllWWV:Ul&#x27;IM&#x27; LHrtJWaW&#x27;3CJiLM&#x27;WWilM. J CWWJ  
-  
 Woman&#x27;s Veneration.  
 If women have one weakness more mar­  
 ked than men, it is towards veneration.  
@@ -1987,9 +1959,9 @@ who have turned away from the flattery of
 admirers to prostrate themselves at the  
 feet of a genuine hero, who never wooed  
 them, except by noble deeds and the rhet­  
-oiic of noble life
+oiic of noble life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1861122601:0591/pct:30.546239,12.194656,25.754672,84.255725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1861122601:0591/pct:43.231912,12.824427,12.781505,36.793893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2001,7 +1973,7 @@ oiic of noble life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t.  
+.  
 &quot;If women have one weakness more  
 marked than another,&quot; says Mrs.Beecher  
 Stowe, in a very eloquent passage of the  
@@ -2009,7 +1981,7 @@ Stowe, in a very eloquent passage of the
 eration. They are born worshipers­  
 makers of silver shrines for some divinity  
 or other, which, of course, they always  
-think fell straight down from heaven
+think fell straight down from heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:56.660377,32.510511,12.452830,5.140377/!600,600/0/default.jpg"/>
 </td>
@@ -2023,7 +1995,7 @@ think fell straight down from heaven
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- just re­  
+just re­  
 mark, she refers to instances where cele­  
 brated preachers and divines have stood  
 like the image that Nebuchadnezzar the  
@@ -2032,7 +2004,7 @@ quettes and flirts not excepted, have
 been ready to fall down and worship  
 even before the sound of cornet, flute,  
 harp, sackbut, and so forth,&quot; where the  
-mos
+most
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:56.660377,37.664451,12.471698,5.560830/!600,600/0/default.jpg"/>
 </td>
@@ -2046,12 +2018,12 @@ mos
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the sex  
+of the sex  
 &quot;have turned away from the flattery of  
 admirers, to prostrate themselves at the  
 feet of a genuine hero, who never  
 moved them except by heroic deeds and  
-the rhetoric of a noble life&quot; 
+the rhetoric of a noble life&quot; a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:56.679245,42.791265,12.490566,3.295809/!600,600/0/default.jpg"/>
 </td>
@@ -2065,14 +2037,14 @@ the rhetoric of a noble life&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it that women are burdened  
+it that women are burdened  
 with this load of &quot;fealty, faith, and rev­  
 erence more than they know what to do  
 with;&quot; not always for him is it that  
 &quot;they staud like a hedge of sweet peas,  
 throwing oat fluttering tendrils every­  
 where for somethiug high and strong to  
-climh b
+climh by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1867051601:0082/pct:56.716981,50.183101,12.433962,4.557168/!600,600/0/default.jpg"/>
 </td>
@@ -2086,7 +2058,7 @@ climh b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.v.  
+v.  
 If women have one weakness more  
 marked than men, it is towards veneration  
 They are Iwrn worshippers makers of  
@@ -2139,7 +2111,7 @@ tliose who have turned nwar from the
 flattery of admirers to prostrate themselves  
 at the feet of a irenuine hero, who never  
 wooed theni;ureenthy heroin deeds and the  
-rhetoric ot noble lire. 2
+rhetoric ot noble lire. 2U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868012601:0091/pct:16.888760,72.257569,10.732908,22.663449/!600,600/0/default.jpg"/>
 </td>
@@ -2153,7 +2125,6 @@ rhetoric ot noble lire. 2
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 e eeeo  
 Wonen&#x27;s Venerationsi oen a o e  
 weakness more remarkable than men, it is toi  
@@ -2201,7 +2172,8 @@ tances are not wanting of those who have turnede
 away from the flattery of admirers to prostrate  
 themselves at the feet of a genuine hero, who o  
 never wooed them, except by heroic deeds and the  
-rhetoric of noble life.--I The Minister&#x27;s Wooing.
+rhetoric of noble life.--I The Minister&#x27;s Wooing.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868012901:0195/pct:33.709801,61.092631,16.979326,19.997441/!600,600/0/default.jpg"/>
 </td>
@@ -2215,7 +2187,7 @@ rhetoric of noble life.--I The Minister&#x27;s Wooing.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.&#x27;.  
+&#x27;.  
   
 Women&#x27;s Veneration.  
   
@@ -2276,7 +2248,7 @@ selves at &quot; tb feet of a genuine hero,
 who neyerjvooed them, except by heroic  
 deeds and the rhetoric of noble life.-  
   
-&quot;pie Mtnistir&#x27;i Wooing.1 y .
+&quot;pie Mtnistir&#x27;i Wooing.1 y . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868020501:0399/pct:20.112123,47.301908,12.316048,30.102363/!600,600/0/default.jpg"/>
 </td>
@@ -2290,7 +2262,7 @@ deeds and the rhetoric of noble life.-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ddle to look  
+dle to look  
 at it, just let him go for her and get  
 united in the strings of Hymen, and he&#x27;ll  
 be glad that he did so to tho end of for?  
@@ -2352,7 +2324,8 @@ flattery of admirers to prostrate them?
 selves at the feet of a genuine hero, who  
 never wooed them, except by heroic deeds  
 and the rhetoric of noble life.? The Min?  
-ister&#x27;s Wooing.
+ister&#x27;s Wooing.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551256:1868021201:0209/pct:18.130901,2.261445,31.941111,96.194153/!600,600/0/default.jpg"/>
 </td>
@@ -2366,7 +2339,6 @@ ister&#x27;s Wooing.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Women’s Venerations.  
 The following is an extract from the  
 “Minister’s Wooing:” If women have one  
@@ -2420,6 +2392,7 @@ away from the flattery of admirers to pros­
 trate themselves at the feet of a genuine hero,  
 who never wooed them, except by heroic  
 deeds and the rhetoric of noble life.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_dianaNemorensis_ver01%2Fdata%2Fsn84026016%2F000002136%2F1868021301%2F0054.jp2/pct:27.198457,24.959283,6.854992,24.653909/!600,600/0/default.jpg"/>
@@ -2434,7 +2407,7 @@ deeds and the rhetoric of noble life.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- added to the  
+added to the  
 : occasion and made it a very solemn  
 j one. We congratulate this eongregaO  
 CT ^  
@@ -2509,7 +2482,7 @@ them, except hy heroic deeds and the
 rhetoric of nohle life.  
 * The Minister 8 Wooing.  
 y  
-e
+e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862348:1868022001:0009/pct:17.720014,41.736789,19.979613,47.851453/!600,600/0/default.jpg"/>
 </td>
@@ -2523,21 +2496,7 @@ e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- head was handled roughly as though  
-was a billiard ball being sand-papered. Not  
-flic faintest touch of couimisseration in that  
-barber s touch ; he was true to the instincts of  
-bis tribe, who seem to imagine mankind to be  
-&quot;&#x27; ad o tor their legitimate prey, as thoroughly  
-as fish arc the pelican&#x27;s.  
-Now Jones wishes to know whether this can­  
-not be reformed. Is the consideration due to  
-those exiled French and expatriated Poles  
-who always turn out barbers, so great that wè  
-are to allow thorn to wreak upon our innocent  
-heads the pent-up vengeance of their noble  
-souls? ° meirnowe  
-n omens Venerations.—I f women have  
+omens Venerations.—I f women have  
 one weakness more marked than men, it is to­  
 wards veneration. They are born worshippers  
 —makers of silver shrines for some divinity or  
@@ -2590,9 +2549,10 @@ not wantmg of those who have turned away
 from the flattery of admirers to prostrate them­  
 sc ves at the feet of a genuine hero, who never  
 wooed them, except by heroic deeds, and fhe  
-rhetoric of noble life.— T&#x27;A« Minister&#x27;s Wooing.
+rhetoric of noble life.— T&#x27;A« Minister&#x27;s Wooing.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894936:1868030401:0081/pct:61.380816,53.000355,14.748866,30.015386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894936:1868030401:0081/pct:61.380816,59.947923,14.496892,23.067819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2604,7 +2564,7 @@ rhetoric of noble life.— T&#x27;A« Minister&#x27;s Wooing.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the United  
+the United  
 States” will hear what outrages aro pro­  
 posed in their name. They will hear;  
 they will make themselves heard In re­  
@@ -2667,7 +2627,8 @@ flattery of admirers to prostrate them­
 selves at tho feet of n genuine hero,&#x27; who  
 never wooed them, except by heroic deeds  
 and the rhetoric of noble life. —The Min­  
-isfrr&#x27;n Wooiny,
+isfrr&#x27;n Wooiny,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001748%2F1868032601%2F0049.jp2/pct:82.196763,14.141077,10.460993,24.985165/!600,600/0/default.jpg"/>
 </td>
@@ -2681,7 +2642,7 @@ isfrr&#x27;n Wooiny,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- E&#x27;s.  
+E&#x27;s.  
   
 Women&#x27;s Venerations.  
   
@@ -2741,7 +2702,8 @@ who have turned away from the flattery
 of admirers to prostrate themselves at  
 the lcetot.a genuine hero, who never  
 wooed them, except by heroic deeils and  
-the rhetoric ot noble lite.
+the rhetoric ot noble lite.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868032801:0167/pct:40.460751,10.517864,15.392491,85.815603/!600,600/0/default.jpg"/>
 </td>
@@ -2755,8 +2717,6 @@ the rhetoric ot noble lite.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Woman&#x27;s Veneration.  
   
 If women have one weakness more  
@@ -2818,7 +2778,8 @@ turned away from the flattery of ad
 mirers to prostrate themselves at the  
 of a genuine hero, who never wooed  
 them except by heroic deeds and the  
-rhetoric of noble life.
+rhetoric of noble life.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1868042401:0149/pct:37.814286,42.882702,9.757143,28.335011/!600,600/0/default.jpg"/>
 </td>
@@ -2842,23 +2803,6 @@ rhetoric of noble life.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nt  
-port will millions seek their im  
-ported merchandise  
-world an emblem  
-and a sign of woman external j ow i  
-of nclf Nncrihce to wlmt she «l» eiijH  
-noblest in man I oca old Un hard  
-Baxter toll ns with delightful  
-siugle heartodneNH how bis wife  
-fclljiu love with lnm first in spite  
-iy to aw     “ j of his long Dale face and how h  
-Wo w tho above beautiful Kni     •»»  
-which have had id ding sentiment beautifully written  
-disbursement of the in a letter which abounded iu noble  
-‘l win avratotunl to l lirvv all to Ik right  
-until I know that thev ar« wroug in l I find  
-it th mot.....mitortalilc way to lit  
 the king set up” and all woman-  
 kind corpiettes and tlirt not e  
 copted have boeu ready to fall down  
@@ -2869,7 +2813,7 @@ bcautifuld face prostrate befor
 poor old leau haggard dying  
 St Jerome in the most splendid  
 paiuting iu tho  
-tu r
+tu ru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth846311/m1/1/pct:3.733333,34.011185,82.133333,16.980173/!600,600/0/default.jpg"/>
 </td>
@@ -2883,7 +2827,7 @@ tu r
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- educated  
+educated  
 years of married life that she ha I  
 found him less bitter and sour  
 than she expected Tho fact is  
@@ -2892,7 +2836,7 @@ faith roveranco more than they
 knew what to do with they t Land  
 likega hedge of sweetapea thiow  
 ing out tendrils everywhere foi  
-God could have originated iu th
+God could have originated iu tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth846311/m1/1/pct:59.200000,44.382308,26.533333,6.761566/!600,600/0/default.jpg"/>
 </td>
@@ -2906,13 +2850,13 @@ God could have originated iu th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- only something high and strong to  
+only something high and strong to  
 climb up by and w’hen th v find  
 it be it ever so rough in tli dark  
 they catch upon it An kinstances  
 Are not wanting of those who have  
 good and bad which such a stand turned away from the flattery of  
-ur
+urd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth846311/m1/1/pct:61.266667,49.008643,24.400000,4.422979/!600,600/0/default.jpg"/>
 </td>
@@ -2926,11 +2870,11 @@ ur
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- have  
+have  
 the feet of a genuine hero who  
 never wooed them except by heroic  
 deeds aud the rhetoric of noble  
-life ■ »
+life ■ » 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth846311/m1/1/pct:71.600000,52.974072,13.866667,19.318760/!600,600/0/default.jpg"/>
 </td>
@@ -2944,7 +2888,6 @@ life ■ »
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Woman&#x27;s Veneration.  
 If women ha e one weakness omit  
 mafked than men, it is tow r.rd vent ration.  
@@ -2998,7 +2941,7 @@ those who have turned away from the
 flattery of admin re to proairu e them- ?  
 sches at the feet ?&gt;f a cenuio? bfto, ?ho  
 never word them. ( xcept by l.eruic detdo  
-and the rhetoric of ii 
+and the rhetoric of ii i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1868061301:0307/pct:69.108911,32.001202,13.691655,29.847756/!600,600/0/default.jpg"/>
 </td>
@@ -3012,7 +2955,7 @@ and the rhetoric of ii
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- herbage of upland pastures.  
+herbage of upland pastures.  
   
 Women&#x27;s VenerAtiON. If women have  
 one weakness more marked than men, it is  
@@ -3061,7 +3004,8 @@ are not wanting of those who have turned
 away from the flattery of admirers to pross  
 trate themselves at the feet of a genuine  
 hero, who never wooed them, except by he­  
-roic deeds and the rhetoric of a noble life.
+roic deeds and the rhetoric of a noble life.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1868071701:0553/pct:32.905784,67.407773,14.140236,27.409969/!600,600/0/default.jpg"/>
 </td>
@@ -3075,7 +3019,7 @@ roic deeds and the rhetoric of a noble life.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- &#x27;.ll •  
+&#x27;.ll •  
 Woman&#x27;s Veneration.— If wo­  
 man have one weakness more marked  
 ttian men, it Towards venetsttion.—  
@@ -3148,7 +3092,8 @@ of admirers to prostrate themselves
 at the feet of a genuine hero, whs -  
 never wooed them, except by heroio  
 deeds and rhetoric of noble life.-— 7*A«  
-Minister&#x27;s Wooing.
+Minister&#x27;s Wooing.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eyelet_ver02:data:sn85034375:0019991716A:1868071801:0239/pct:79.499113,10.705742,14.871454,80.906100/!600,600/0/default.jpg"/>
 </td>
@@ -3162,7 +3107,6 @@ Minister&#x27;s Wooing.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 If women have one weakness more  
 marked than man, it is toward veneration.  
 They are born worshippers—makers of  
@@ -3216,7 +3160,8 @@ wanting of thc30 who have turned away
 from the flattery of admirers to prostrato  
 themselves at tho feet of a genuine hero  
 who never wooed them except by heroio  
-deeds and the rhetoric of a noble life.
+deeds and the rhetoric of a noble life.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869092201:0799/pct:84.027068,4.034205,11.618999,30.653924/!600,600/0/default.jpg"/>
 </td>
@@ -3230,7 +3175,6 @@ deeds and the rhetoric of a noble life.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 From the Wooing.  
   
 Woman&#x27;s Yeneration.  
@@ -3290,7 +3234,8 @@ wanting of those who have turned away
 from the flattery of admirers to prostrat®  
 themselves at the feet of a genuine hero&#x27;  
 who never wooed them except by heroic  
-deeds aud the rhetoric of a noble life.
+deeds aud the rhetoric of a noble life.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869092201:0801/pct:83.819595,3.057427,11.581093,31.771095/!600,600/0/default.jpg"/>
 </td>
@@ -3304,7 +3249,6 @@ deeds aud the rhetoric of a noble life.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 “It women havo odo weakness more  
 than another,&quot;says Mrs. Stowe, iu an­  
 elcqutut passage of iho “Minister’s  
@@ -3312,7 +3256,7 @@ Wooing,” ‘ it is towanl veneration.—
 They are born worshippers, makers  
 of silver shrines for some divinity or  
 other, which c.f course they think  
-fell down straight from Heaven
+fell down straight from Heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1872060401:0494/pct:14.953397,19.276984,10.819938,4.775223/!600,600/0/default.jpg"/>
 </td>
@@ -3326,14 +3270,14 @@ fell down straight from Heaven
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- quite just  
+quite just  
 remark, Hho r-fers to instances where  
 celebrated preachers and divines  
 have stood like iho imago king Neb­  
 uchadnezzar set up, “and all woman­  
 kind, coquettes and flirts not except­  
 ed, have been ready to fall down and  
-worship ” She adds, “the mos
+worship ” She adds, “the most
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1872060401:0494/pct:14.953397,24.238658,10.819938,4.723431/!600,600/0/default.jpg"/>
 </td>
@@ -3347,7 +3291,7 @@ worship ” She adds, “the mos
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it that women  
+it that women  
 are burthuned with this load of feal­  
 ty, faith and reverence, in ire than  
 they know what to do with ! “Not  
@@ -3364,7 +3308,7 @@ these sketches on peculiarities of
 character has observed scenes of  
 continuations in Europe, where the  
 ladies appear with objects of devo­  
-tion even belo
+tion even below
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1872060401:0494/pct:14.885857,38.740418,10.887478,9.260410/!600,600/0/default.jpg"/>
 </td>
@@ -3378,7 +3322,6 @@ tion even belo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Women are burdened with fealty, faith,  
 re erotica more than thoy ki.ow what to do  
 with; they htiwd like a hedge of sweet peas,  
@@ -3391,7 +3334,7 @@ turned away from tho llattory of admirers to
 prostrate themselves at tho itet of a genuino  
 Hero, who never wooed them oxcept by he­  
 roin deeds and the rholorio if a noble life.  
-N
+Ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872199%2F1875061801%2F0397.jp2/pct:7.682683,23.298294,17.067067,6.892986/!600,600/0/default.jpg"/>
 </td>
@@ -3405,13 +3348,23 @@ N
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 reverence more than they know what to do Partncr P.r dealings justify me in com  
   
-with. They stand like a hedge of sweet mcndin him to the public.  
-  
-,peas, throwing out fluttering tendrils  
+with. They stand like a hedge of sweet
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilMir1n_ver01%2Fdata%2F1888020801%2F0175.jp2/pct:54.410807,71.504982,34.765625,1.499738/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Wilson mirror._](https://newspapers.digitalnc.org/lccn/sn92073941/1888-02-08/ed-1/seq-5/)
+
+#### 1888-02-08 &middot; [Wilson, N.C.](http://dbpedia.org/resource/Wilson%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+peas, throwing out fluttering tendrils  
   
 everywhere for something high and strong.  
   
@@ -3419,9 +3372,9 @@ to climb up by, and when they find it, be it
   
 ever so rough in the bark, they catch upon  
   
-it, and clin
+it, and cling
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilMir1n_ver01%2Fdata%2F1888020801%2F0175.jp2/pct:54.248047,71.504982,34.928385,4.918721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilMir1n_ver01%2Fdata%2F1888020801%2F0175.jp2/pct:54.248047,73.120084,17.382812,3.303618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3433,7 +3386,7 @@ it, and clin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- are faulty  
+are faulty  
 and therefore it would be best for our far­  
 mer friends to secure other seed seed from  
 other sections where the crops were better  
@@ -3454,7 +3407,7 @@ bemarle Presbytery in the Presbyterian
 church in this place on Tuesday night, the  
 nth of February. The Rev. Mr. Summer­  
 ell will preach that night and those who  
-have had the pleasure of hearin
+have had the pleasure of hearing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilMir3n_ver01%2Fdata%2F1890020501%2F0037.jp2/pct:72.506562,32.565300,17.552493,18.284137/!600,600/0/default.jpg"/>
 </td>
@@ -3468,7 +3421,7 @@ have had the pleasure of hearin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, they&#x27;ll spurn the mirror that ! flatter­  
+they&#x27;ll spurn the mirror that ! flatter­  
 ed them in their youth.  
 Woman&#x27;s Ways.  
 Women are burdened with fealty, faith,  
@@ -3478,7 +3431,7 @@ peas, throwing out fluttering tendrils every
 where for something high and strong to  
 climb up by, and when th?y find it, be it !  
 ever so rough in the bark, they catch upon j  
-it, and clin
+it, and cling
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilMir4n_ver01%2Fdata%2F1891031101%2F0074.jp2/pct:56.341853,85.911976,17.348243,9.666008/!600,600/0/default.jpg"/>
 </td>
@@ -3494,7 +3447,7 @@ it, and clin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--W&#x27;omen ore iburdened  
+W&#x27;omen ore iburdened  
 with fealty, faith, reverir..e, moir  
 than they know what to do with. They  
 stand like a hedge of sweet pens,  
@@ -3508,7 +3461,7 @@ away from the flattery of admirers to
 prostrate lthemsecivs at the feet .f a  
 genuine hero, who never wooed themn  
 except by her:aic deeds and the rhetoric  
-of a noble life
+of a noble life.
 </td></tr></table>
 
 ---
@@ -3519,11 +3472,10 @@ of a noble life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 If women one more  
 | marked than another, it is towards  
 veneration. They are born wor-  
-shiper
+shipers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1893-09-20_42_38%2Fper_the-pacific_the-pacific_1893-09-20_42_38_jp2.zip%2Fper_the-pacific_the-pacific_1893-09-20_42_38_jp2%2Fper_the-pacific_the-pacific_1893-09-20_42_38_0006.jp2/pct:33.518555,66.290046,14.050407,2.369375/600,/0/default.jpg"/>
 </td>
@@ -3537,7 +3489,7 @@ shiper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- that, being thinner,  
+that, being thinner,  
 they will require rather less time. |.  
   
 actions are pondered and turned |  
@@ -3551,7 +3503,8 @@ something high and strong to climb
 so rough in the bark, they catch up-  
   
 trate themselves at ‘the feet of a gen-  
-| uine hero who never wooed them,
+| uine hero who never wooed them,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1893-09-20_42_38%2Fper_the-pacific_the-pacific_1893-09-20_42_38_jp2.zip%2Fper_the-pacific_the-pacific_1893-09-20_42_38_jp2%2Fper_the-pacific_the-pacific_1893-09-20_42_38_0006.jp2/pct:33.584706,49.065599,30.019184,27.140542/,600/0/default.jpg"/>
 </td>
@@ -3565,7 +3518,7 @@ trate themselves at ‘the feet of a gen-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. what to do with;: they stand like a  
+what to do with;: they stand like a  
   
 by,,and when they find it, be it ever  
   
@@ -3577,7 +3530,8 @@ elected a meniber of the Board of | ;
   
 better than when cooked by the or-  
 dinary method. .The above are but  
-a few of the dozens of dainty dishes
+a few of the dozens of dainty dishes  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1893-09-20_42_38%2Fper_the-pacific_the-pacific_1893-09-20_42_38_jp2.zip%2Fper_the-pacific_the-pacific_1893-09-20_42_38_jp2%2Fper_the-pacific_the-pacific_1893-09-20_42_38_0006.jp2/pct:33.558246,36.370137,28.200040,42.977689/,600/0/default.jpg"/>
 </td>

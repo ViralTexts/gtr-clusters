@@ -1,7 +1,7 @@
 
 # How to Treat Insect Stings
 
-### 91 reprints from 1874-10-09 to 1898-04-23
+### 89 reprints from 1874-10-09 to 1898-04-23
 
 ## [How to Treat Insect Stings](https://chroniclingamerica.loc.gov/lccn/sn82014805/1877-02-12/ed-1/seq-4/)
 
@@ -27,7 +27,6 @@ If the sting be severe, rest the coolness (sic) should be added to the other rem
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ed, to get cooled as soon as possible.  
 and to avoid becoming heated again for  
 at least two days. Nothing is so npt to  
@@ -38,7 +37,7 @@ rest, and the activity of the poison will
 be reduced to a minimum. Any active  
 exertion, whereby the circulation is  
 qnickened, will increase both pain and  
-aweuin
+aweuing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874100901:0386/pct:4.803087,68.049973,9.885577,4.497556/!600,600/0/default.jpg"/>
 </td>
@@ -52,8 +51,6 @@ aweuin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 HOW TO TREAT INSECT-STINGS.  
   
 A writer In the London Oarden give* the fol­  
@@ -91,7 +88,8 @@ oil, or a drop or two of laudanum. Stings In
 the eye, ear, mouth, or throat sometimes lead  
 to serious consequences; In such cases medical  
 advice should always be sought as suou as possi­  
-ble.”
+ble.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877010601:0011/pct:43.159566,37.040735,13.125165,15.834665/!600,600/0/default.jpg"/>
 </td>
@@ -105,7 +103,7 @@ ble.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the fight ended.— Atlanta Herald.  
+the fight ended.— Atlanta Herald.  
 How to Treat Insect-Stings.  
 A writer in the London Garden gives  
 the following hints on this subject: The  
@@ -150,7 +148,7 @@ ear, mouth or throat sometimes lead to
 serious consequences; in such cases  
 medical advice should always be sought  
 as soon as possible.  
-New 
+New R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1877011801:0005/pct:82.438832,50.764706,12.450671,24.764706/!600,600/0/default.jpg"/>
 </td>
@@ -174,8 +172,6 @@ New
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 How to Treat InsEet Stings.  
 A writer in the London Garden gives  
 the following hints on this subject:  
@@ -219,7 +215,8 @@ of laudanum. Stings in the eye, ear,
 mouth of throat sometimes lead to  
 serious consequences; in such cases  
 medical advice should always be sought  
-as soon as possible.
+as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877020201:0275/pct:21.057429,4.893087,16.459030,25.377148/!600,600/0/default.jpg"/>
 </td>
@@ -233,7 +230,7 @@ as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* hanner.  
+hanner.  
   
 How to Treat Insect Stings.  
   
@@ -279,7 +276,8 @@ of laudanum. Stings in tho eye, car,
 mouth or throat sometimes lead to  
 serious consequences; in such cases  
 medical advice should always bo sought  
-as soon as possible.
+as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877020201:0034/pct:16.479543,4.651459,22.112274,89.002166/!600,600/0/default.jpg"/>
 </td>
@@ -293,7 +291,6 @@ as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 HOVf TO TREAT INSECT STINGS.  
 The pain causad by the stinif of a  
 plant or insect is the result of a certain  
@@ -332,7 +329,7 @@ the eye, ear, mouth or throat, sometimes
 lead to serious consequences ; in such  
 cases medical advice should always be  
 sought us soon as possidle — London Oar­  
-den 
+den .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_accio_ver01:data:sn82014805:00271740384:1877021201:0161/pct:38.559322,7.216142,15.439619,19.699042/!600,600/0/default.jpg"/>
 </td>
@@ -346,18 +343,7 @@ den
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- what excuse will you render to  
-the great God who has said, “Remember the  
-‘Sabbath day to keep it holy.” And where were  
-your ohildren ? Did you encourage them to attend  
-the Sabbath School? Did you take them to the  
-house of God? Or were they left to themselves,  
-to roam about the fields, or range the woods for  
-game, or loiter by the stream with their fishing­  
-rods, or seek the company of the profane and un­  
-godly? If thus negleoted what will you answer  
-when called to an account by that God who has  
-commanded you to train up your ohildren in the  
+to train up your ohildren in the  
 nurture and admonition of the Lord?  
 •  
   
@@ -401,9 +387,9 @@ such cases medical advice should always be
 sought as soon as possible.—London Garden.  
   
 California’s Products.  
-The Sa
+The San
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanhart_ver01:data:sn89053987:print:1877021401:0072/pct:56.668846,5.503686,26.904217,92.395577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanhart_ver01:data:sn89053987:print:1877021401:0072/pct:56.897679,5.503686,26.675384,92.395577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,30 +401,6 @@ The Sa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ch as to deveiope and preserve the  
-excellencies of the meat. The hams  
-are large and rich, aud juicy with dif­  
-fused fat. Berkshires are not quite  
-sj easily fattened when penned and  
-systematically fed as the Essex grade,  
-but they will take much better care  
-of themselves in the woods, aud when  
-penned for fattening may be finished  
-off with half the feed the original  
-“laud pikes” would require.  
-With many Northern aud Western  
-breeders the Essex is a more profitable  
-pig thau the Berkshire, because his  
-nature leads him to take little exer­  
-cise, so that all he eats goes to fiesh  
-arid fat. Respiration, which, if rapid,  
-reduces fat greatly, is with him never  
-accelerated by moving about, and,  
-with plenty of feed, the sole burden of  
-life is to digest it. This breed is pre­  
-eminent among the black breeds, and  
-excelled by none as fat producers.—  
-American Agriculturalist.  
 HOW TO TREAT INSECT STINGS.  
 The pain caused by the sting of a  
 plant or iusect is the result of a cer­  
@@ -484,9 +446,9 @@ or throat, sometimes lead to serious
 consequences; in such cases medical  
 advice should always he sought as  
 soon as possible.—London Garden.  
-Give the P
+Give the Pi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1877021601%2F1055.jp2/pct:17.506322,30.811835,12.546197,45.343244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1877021601%2F1055.jp2/pct:17.506322,46.669582,12.546197,29.485498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +460,7 @@ Give the P
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.i.  
+i.  
   
 Tbe pain caused by the sting of a  
 plant or insect is the result of acer-j  
@@ -547,7 +509,8 @@ me.
   
 Constituted with especial care, by the tide of Morton aud Garfield.  
   
-com nosed of live members of each In the Florida case Justice Bradley the
+com nosed of live members of each In the Florida case Justice Bradley the  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess64n_ver01%2Fdata%2F1877022201%2F0058.jp2/pct:42.821285,47.827298,51.480924,20.742804/!600,600/0/default.jpg"/>
 </td>
@@ -561,7 +524,6 @@ com nosed of live members of each In the Florida case Justice Bradley the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ing is so apt to make the poison ac­  
 tive as beat, and nothing favors its  
 activity less than cold. Let the body  
@@ -571,7 +533,8 @@ minimum. Any active exertion
 whereby the circulation isquickened  
 will increase both pain and swelling.  
 If the swelling be severre, the part  
-may be rubbed with sweet oil, or a
+may be rubbed with sweet oil, or a  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess64n_ver01%2Fdata%2F1877022201%2F0058.jp2/pct:81.639056,66.564531,12.562751,6.499536/!600,600/0/default.jpg"/>
 </td>
@@ -585,13 +548,12 @@ may be rubbed with sweet oil, or a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 the eye, ear, mouth, or throat, some  
   
 times lead to serious consequences;  
 in such cases. medical advice should  
-always be sought as soon as possible.
+always be sought as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess64n_ver01%2Fdata%2F1877022201%2F0058.jp2/pct:81.714357,73.844011,12.550201,3.110492/!600,600/0/default.jpg"/>
 </td>
@@ -605,7 +567,7 @@ always be sought as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i i v ineri a-c Ike locr.l irritation. 1 ■  
+i i v ineri a-c Ike locr.l irritation. 1 ■  
 I - o &quot;i -!iivs b iug a id. • nii.­  
 -I use points t » tin- a kalies as the tin n -  
 of euro. Among the m -t ca-ilv | i.­  
@@ -637,7 +599,7 @@ such rases, medical advice should a&gt;­
 vvays be -ought a- de.ot k« pr-*ible.—  
 Ismilon (Jarilrn.  
   
-“:*:e Tcp Ii
+“:*:e Tcp Iii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1877022201:0449/pct:15.615772,12.208928,11.325343,17.985334/!600,600/0/default.jpg"/>
 </td>
@@ -651,8 +613,6 @@ Ismilon (Jarilrn.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 to ‘Treat Insect Stings.  
   
 The pain caused by the sting of a  
@@ -700,55 +660,9 @@ serious Consequences ; in such cases med-
 ical advice should always be sought as  
 soon as possible.  
   
-Drying up Cows
+Drying up Cows.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1877-02-22_26_8%2Fper_the-pacific_the-pacific_1877-02-22_26_8_jp2.zip%2Fper_the-pacific_the-pacific_1877-02-22_26_8_jp2%2Fper_the-pacific_the-pacific_1877-02-22_26_8_0006.jp2/pct:9.429477,11.521655,13.345219,30.306856/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The weekly Union times._](https://www.loc.gov/resource/sn84026918/1877-02-23/ed-1/?sp=1)
-
-#### 1877-02-23 &middot; [Union C.H., South Carolina](http://dbpedia.org/resource/Union%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- like the Bei kshircs. Those (the (  
-Berks) are much more enterprising, more  
-vide awake, less easily controlled, but good  
-bragrrs. Their grades are a wonderful  
-improvement upon the origiuul stack, may  
-JO Ulada VCI&#x27;V fit mid v.&gt; 1. lli? tiiiiivirtinn  
-  
-- ?J - -&#x27; J ? I&quot;&quot;I&quot;&quot;  
-jctwcen fat ami lean in the hams,shoulders  
-mil side pork or bacon is such as to dovel&gt;pe  
-and preserve the excellencies of the ,  
-neat. The hams are large and rich, and  
-uicy with diffused fat. llerkshircs aie not  
-juite so easily fattened when penned and  
-iystomatically fed as the Ksscx grade, but  
-hey will take much better care of them- ;  
-lelvcsiu the woods, and when penned for  
-attening may be finished off with half the  
-eed the original laud pikes&quot; would re  
-juirc.  
-With many Northern and Western breeders  
-the Ivssex is a more profitable pig than  
-be llerkshire. because his nature leads him  
-o take little exercise, so that all he eats  
-toes to flish ami fit. Respiration, which,  
-f rapid, reduces fat greatly, is with him  
-lever accelerated by moving about, aud&gt;  
-villi plenty of feed, the sole burden of life  
-s to digest it. This breed is pre-eminent  
-nnutig the black breeds, and excelled by  
-lone as fat producers.?.1 mrrt&#x27;ran Agriculurist.  
-? . - a  
-Raising C&#x27;-ntx an
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn84026918:00295861411:1877022301:0040/pct:49.416524,25.934315,16.524039,22.276331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,24 +674,6 @@ Raising C&#x27;-ntx an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-it grown in one  
-crop.  
-I hate paid as high as $4 50 per bushel,  
-but it can be had at about $2 now. v I1  
-would, willingly pay 110, if it could, not  
-be had for less. It is the best crop to  
-raise for profit or for use I have ever  
-: o y  
-it except tbat it takes labor to save it.  
-In cutting from good, ground it will re­  
-squire from ten to twelve hands to bind  
-&quot;after a machine, and. they. will have, hard  
-&#x27;work to keep up if the machine runs con­  
-stantly. When once ripe it is easily  
-saved, and does not spoil easily that is,  
-is not hard lo core.  
-Respectfully, Wm. Johhston.  
-Lebanon, Ky, February 8, 1877.  
 How to Treat Insect Stings-  
 The pain caused by the sting of plant  
 or insect is the result of certain amount  
@@ -818,9 +714,9 @@ drop or two of laudanum. Stings in the
 eye, ear, mouth, or thrdat,&#x27; sometimes lead  
 to serious consequences, in Such cases  
 medical advice should always be sought as  
-soon as possible. London Garden
+soon as possible. London Garden.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar3n_ver01%2Fdata%2F1877022601%2F0200.jp2/pct:7.266082,34.145860,13.157895,27.020626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar3n_ver01%2Fdata%2F1877022601%2F0200.jp2/pct:7.558480,37.560446,12.865497,23.606040/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,8 +728,6 @@ soon as possible. London Garden
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 How to Treat Insect Stin4s.  
   
 ,  
@@ -879,7 +773,7 @@ lau4anum. Stings in the eye, ear&#x27;, mouth
 or throat, sometimes lead to seriOns con­  
 sequences; in such cases medical advice  
 should always be sought as soon; as pos­  
-sible.—London Garden. I
+sible.—London Garden. I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_febris_ver01%2Fdata%2Fsn86053745%2F000002418%2F1877030701%2F0079.jp2/pct:23.855521,28.803768,16.851309,26.131651/!600,600/0/default.jpg"/>
 </td>
@@ -893,7 +787,6 @@ sible.—London Garden. I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 How to Treat Insect Stings.?A writer  
 in the London Garden gives the following  
 hints on this subject: &quot;The pain caused by  
@@ -919,7 +812,7 @@ the juice of an onion, tobacco juice,
 chewed tobacco, bruised dock leaves, tomato  
 juice, wood ashes, tobacco ashes, and carbonate  
 of soda.  
-Old Fashioned Gingerbrea
+Old Fashioned Gingerbread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862762:1877032201:0251/pct:15.979992,83.048573,15.519284,12.380356/!600,600/0/default.jpg"/>
 </td>
@@ -933,7 +826,7 @@ Old Fashioned Gingerbrea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as the first  
+as the first  
 Siikgs. The pain caused by the  
 sting of a plant or insect is the result  
 of a certain amount of acid poison in­  
@@ -977,7 +870,7 @@ sometimes lead to I serious conse­
 quences ; m such cases medical ad­  
 vice should always be sought as soon  
 as possible. London Garden. -  
-Ma
+Maj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaiCharO14n_ver01%2Fdata%2F1877032301%2F0274.jp2/pct:35.301063,73.424870,12.559032,23.197874/!600,600/0/default.jpg"/>
 </td>
@@ -1001,25 +894,6 @@ Ma
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ing  
-the outside unchanged. The outer por­  
-tion should therefore, after a while, be  
-cut off with a hay knife, and thrown  
-&#x27; Into the centre on top, where it will be  
-subjected to rottiug with the rest.  
-. Country -Gentleman. I  
-A most valuable remedy .for heaves,  
-and said to be a sure cure : Forty shu­  
-mac buds, one pound of resin, one pint  
-of ginger, half a pound of mustard, one  
-pint of unslacked lime, , one pound of  
-; epsom salts, four ounces of gum gulra­  
-j cum, six ounces of cream tartar Mix  
-thoroughly and divide into thirty pow­  
-v ders and frv Ann avpfv mA.ntn. i.  
-&#x27; J auvumamK A Li  
-  
-D0311ST1C.  
 How to Treat Insect Stings. The  
 pain caused by the sting of a plant or  
 insect is the result of a certain amount  
@@ -1063,9 +937,9 @@ times lead to serious consequences; in
 such cases medical advice should al­  
 ways be sought as soon as possible.  
 London Garden.  
-Uses
+Uses 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AEMurf2n_ver01%2Fdata%2F1877041201%2F0060.jp2/pct:2.420701,2.452431,31.051753,95.856237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AEMurf2n_ver01%2Fdata%2F1877041201%2F0060.jp2/pct:18.405676,3.530655,15.066778,24.587738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +951,6 @@ Uses
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 HOT tO TrEat INSECT StINgS. A writer  
 in the London Garden gives the follow­  
 ing hints on this subject: The pain  
@@ -1127,7 +1000,7 @@ th advantage, the quantity of flour
 being lessened. The milk and egg must  
 be added gradually, the batter being  
 rubbed until uniformly smooth after  
-each addition
+each addition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1877041301:0120/pct:19.497632,38.512894,16.944616,29.048305/!600,600/0/default.jpg"/>
 </td>
@@ -1141,7 +1014,7 @@ each addition
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d and Iron Work.  
+and Iron Work.  
   
 Bahing Meats.  
 Baking is a more economical mode of cook  
@@ -1178,7 +1051,7 @@ vantage, the quantity of flour being lessened
 The milk and egg must be added gradually,  
 the batter being rubbed until uniformly  
   
-smooth after each addition
+smooth after each addition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1877042101:0586/pct:17.029549,36.262409,28.790824,25.932385/!600,600/0/default.jpg"/>
 </td>
@@ -1192,7 +1065,6 @@ smooth after each addition
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 How to Tbxat Insxct Sraas, The  
 !aln caused by the sting of a plant or  
 nsect li the result -of a certain amount  
@@ -1235,7 +1107,7 @@ in the eye, ear, mouth or throat, some­
 times lead to serious consequences ; in  
 such cases medical advice should al­  
 ways be sought as soon as possible.  
-London Garde
+London Garden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LenTop11n_ver01%2Fdata%2F1877042601%2F0324.jp2/pct:21.063479,4.566521,14.427040,22.314613/!600,600/0/default.jpg"/>
 </td>
@@ -1259,31 +1131,6 @@ London Garde
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o him  
-as fresh air; they keep him alive and  
-active. A celebrated character, who  
-was surrounded with enemies, used to  
-remark: ‘They are sparks which, if  
-you do not blow, will go out of them-  
-selves.” Let this be your feeling while  
-endeavoring to live down the scandal  
-of those who are bitter against you. If  
-you stop to dispute, you do but as they  
-desire, and open the way for more  
-  
-  
-  
-  
-  
-  
-  
-abuse. Let the poor fellows talk ; there  
-will be a reaction if you perform but  
-your duty, and hundreds who were  
-once alienated from you will flock to  
-you and acknowledge their error.—  
-Alexander’s Messenger.  
-  
 &gt;  
   
   
@@ -1336,9 +1183,9 @@ London Garden.
 Darwinism. — Carlyle is now very  
 feeble through age, but his memory is  
 still marvelous, and the flow of his  
-talk—doubtless the 
+talk—doubtless the m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_manifesto_1877-05_7_5%2Fsim_manifesto_1877-05_7_5_jp2.zip%2Fsim_manifesto_1877-05_7_5_jp2%2Fsim_manifesto_1877-05_7_5_0006.jp2/pct:50.000000,9.985041,42.146465,82.741212/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_manifesto_1877-05_7_5%2Fsim_manifesto_1877-05_7_5_jp2.zip%2Fsim_manifesto_1877-05_7_5_jp2%2Fsim_manifesto_1877-05_7_5_0006.jp2/pct:71.237374,16.697831,20.909091,51.084518/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1197,6 @@ talk—doubtless the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n  
 A Chapter on Stings.  
 The pain caused by the sting of a  
 plant or insect is the result of a cer­  
@@ -1393,7 +1239,8 @@ Stings in tho mouth, ear, eye or throat
 sometimes load to serious conse­  
 quences; in such cases medical advice  
 should always be sought as soon as  
-possible.
+possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016093:1877050301:0067/pct:56.705835,22.943785,12.743112,29.709627/!600,600/0/default.jpg"/>
 </td>
@@ -1407,26 +1254,6 @@ possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nt&#x27;s geodwe said;  
-But new they say, &quot;Writ, that aid plum  
-Has got a level bead!&quot;  
-It&#x27;s rather sad the children sow  
-Are learning such talk;  
-They&#x27;re learned to &quot;shin&quot; instead ef chat,  
-Aud &quot;wait!&quot; instead af walk.  
-To little Harry, yesterday?  
-My grandchild, aged two?  
-I.said, &quot;You love grandpa f&quot; laid he,  
-&quot;Teu bet your boots I do !&quot;  
-The children bewed to strangers onee;  
-It ia no longer so?  
-Tbe littlo girls, as well as beys,  
-Kow greet you with &quot;Hallo!&quot;  
-Ob. give mo back the good eld days.  
-When both the old and young  
-CsOTersed iu plain, old-fashioned werds.  
-And slane was never slung.  
-FIELD AND FIRESIDE.  
 How to Treat Insect Stings.  
   
 The pain caused by the sting of ? plant or  
@@ -1469,9 +1296,9 @@ How to ease a Mirror.?Place a sheet
 of tin foil, the size of the glass, upon a per­  
 fectly smooth solid marble top table, and  
 carefully rub down all the wrinkles in the  
-meta
+metal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:0020219235A:1877060501:0094/pct:1.816563,22.717718,14.105076,35.900901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:0020219235A:1877060501:0094/pct:1.816563,34.864865,14.105076,23.753754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1483,7 +1310,6 @@ meta
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 A Chapter on Stings.  
 The pain caused by the sting of  
 a plant or insect is the result of a  
@@ -1529,7 +1355,7 @@ eye, ear, mouth or throat sometimes
 lead to serious consequences; in  
 such cases medical advice should ul  
 ways be sought as soon as possible.  
-Down with Mobs
+Down with Mobs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1877062101:0102/pct:75.506757,40.084581,9.769144,22.173963/!600,600/0/default.jpg"/>
 </td>
@@ -1543,7 +1369,7 @@ Down with Mobs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the thing  
+the thing  
 needed, grew luxuriantly until long after  
 frosts.  
 flow 10 Treat Insect Mtings.  
@@ -1585,7 +1411,8 @@ sweet oil, or a drop or two of laudanum.
 Stings in the eye, ear, mouth, or throat some­  
 times lead to serious consequences; in such  
 cases medical advice should always be sought  
-as soon as possible.
+as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525425:1877062901:0594/pct:5.704100,24.528986,10.954464,16.823671/!600,600/0/default.jpg"/>
 </td>
@@ -1599,7 +1426,7 @@ as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ow to Irrat In. tea Stlug-s.  
+ow to Irrat In. tea Stlug-s.  
 The pain caused by tho sting ofa plant  
 or Insect is tho result ofa certain amount  
 of acid poison Injected into tbe blood. The  
@@ -1639,7 +1466,7 @@ to serious consequences ; lu such cases
 medical advice should always be sought as  
 soon as possible. London Qardcn.  
 Irish Farmers in New Enoxasd.  
-The Bosto
+The Boston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777389:1877062901:0813/pct:5.284858,33.129292,11.113193,20.752463/!600,600/0/default.jpg"/>
 </td>
@@ -1653,7 +1480,7 @@ The Bosto
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- on Stings.  
+on Stings.  
 The pain caused by the sting of a plant or  
 nscct is the result of a certain amount of acid  
 ir poison injected into the blood. &#x27;1 he first  
@@ -1688,74 +1515,9 @@ sweet oil or a drop or two of laudanum.—
 Stings in the eye, ear, mouth or throat some­  
 :imcs lead to serious consequences. In such  
 cases medical advice should always be sought  
-is sooo as possible
+is sooo as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:00414186702A:1877081101:0128/pct:69.650494,54.562063,12.579266,21.300376/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Greensboro patriot._](https://newspapers.digitalnc.org/lccn/sn84026473/1878-01-23/ed-1/seq-1/)
-
-#### 1878-01-23 &middot; [Greensboro, N.C.](http://dbpedia.org/resource/Greensboro%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- like .the.­  
-shires. Theso (the Rerks)  
-Jerk­  
-are wide  
-but  
--much mo i e e Meirprising, more  
-awake, losi e isly? controlled  
-gooti fo. agr S. Tjiei r &quot;grades  
-wonderful; I improvement oh  
-original stock, play bo &#x27; made  
-fat, and yet ,thi proportion be  
-are a  
-tha.  
-very  
-ween  
-l.,i fit- Mini I.J 1 n -inVt l.o li n rnn itinilf-  
-L 1117 1 V. tll,U 11.1. 1.1.U . (. U.. , NIMVV..  
-ders,-and shlet iork: op baenjn, is  
-such as to oeveiop ana prube.rvf  
-the excellencleaj of &#x27;&quot;the meat  
-hams are large, rich 1 and  
-uicy,-  
-with diffused fat. llerks ar0  
-not,-&quot;  
-ouite so easily fattened when  
-rw-d ami sy sceujaiicany leu as-iui?  
-Essex grade  
-but they will  
-tako  
-ri i u c h be 1 1 e rl re of themselves&quot;, f l  
-the woods, and wlicu penn  
-d or  
-fin-  
-fastened -for fattening, may In  
-ishedoff with half the feci  
-the  
-rc-  
-original  
-&#x27;lai  
-pikes&#x27;  
-quire.  
-W it h manv.  
-northern aud  
-tern breeders.  
-the. Essex lis a  
-profitable pig  
-than the Berkshire,&#x27;  
-because -his  
-hatuie leads huh to:  
-take little exercise, so that aU lie  
-is t goes to nesn ami iau i.espi--.  
-ration, .-wh.ie.hi it rapidrexluciifat
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat31n_ver01%2Fdata%2F1878012301%2F0005.jp2/pct:82.681493,61.396534,11.362474,15.096840/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1529,7 @@ ration, .-wh.ie.hi it rapidrexluciifat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and then to choose a  
+and then to choose a  
 sunny day.  
 Baking.—BakiDg is a more economical  
 mode of cooking than roasting, especially in  
@@ -1775,7 +1537,7 @@ small families where economical stoves, or
 ranges with side ovens, are used. In baking  
 there is less loss of weight than in roasting.  
   
-as tue nrst is mucn less tine
+as tue nrst is mucn less tinea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525449:1878012801:0026/pct:17.796885,66.989234,10.885788,3.302286/!600,600/0/default.jpg"/>
 </td>
@@ -1789,13 +1551,13 @@ as tue nrst is mucn less tine
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Baking is a more economi­  
+Baking is a more economi­  
 cal mode of cooking than roasting, es­  
 pecially iu small families where econ­  
 omical stoves, or ranges with side ovens  
 are used. In baking there is less loss of  
 weight than in roasting, as the first is  
-much less drie
+much less dried
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1878021401:0290/pct:43.531977,74.411765,11.991279,3.403361/!600,600/0/default.jpg"/>
 </td>
@@ -1809,8 +1571,6 @@ much less drie
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A ChAPtEr on STins. The pain  
 caused by the sting of a plant or insect  
 is the result of a certain amount of acid  
@@ -1850,7 +1610,7 @@ or two of laudanum. Stings in the eye,
 ear, mouth or throat sometimes lead to  
 serious consequences; in such cases medi­  
 cal advice should always be sought as  
-soon as possible
+soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1878051701:0866/pct:77.360067,47.184638,15.037594,21.946343/!600,600/0/default.jpg"/>
 </td>
@@ -1864,7 +1624,7 @@ soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ox tsTixos. — The pain  
+ox tsTixos. — The pain  
 caused by the sting of a plant or insect  
 is the result of a certain amount of acid  
 poison injected into the blood. The tirst  
@@ -1903,7 +1663,7 @@ or two of laudanum. Stings in the eye,
 ear, mouth or throat sometimes lead to  
 serious consequences; in such cases medi­  
 cal advice should always be sought ns  
-soon as possibl
+soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290987:1878060601:0190/pct:76.528056,48.163196,16.382766,24.056205/!600,600/0/default.jpg"/>
 </td>
@@ -1917,7 +1677,7 @@ soon as possibl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| STINGS.  
+STINGS.  
 | The pain caused by the sting of a plant or in-  
 | sect is due to the acid poison injected into the  
 blood. An exchange gives the following direc-  
@@ -1933,7 +1693,8 @@ The poison of stings being acid, common-sense
   
   
   
-sissippi meridian for dramas of “Indian” life | points to the alkalies as the proper means of
+sissippi meridian for dramas of “Indian” life | points to the alkalies as the proper means of  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1878-06-20_51_25%2Fsim_youths-companion_1878-06-20_51_25_jp2.zip%2Fsim_youths-companion_1878-06-20_51_25_jp2%2Fsim_youths-companion_1878-06-20_51_25_0005.jp2/pct:50.724638,35.364465,42.614270,9.908884/600,/0/default.jpg"/>
 </td>
@@ -1947,7 +1708,6 @@ sissippi meridian for dramas of “Indian” life | points to the alkalies as th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 mong the most easily-procured remedies  
 may be mentioned soft soap, liquor of ammonia  
   
@@ -1955,7 +1715,7 @@ In one of the frontier counties of Texas, re- (spirits of hartshorn), smelling s
 cently, a boy, while out in search of some sad- ; Soda, quicklime made into a paste with water,  
   
 dle-horses, which ordinarily were to be found  
-close to the ranch, failed t
+close to the ranch, failed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1878-06-20_51_25%2Fsim_youths-companion_1878-06-20_51_25_jp2.zip%2Fsim_youths-companion_1878-06-20_51_25_jp2%2Fsim_youths-companion_1878-06-20_51_25_0005.jp2/pct:50.836120,45.690964,42.586399,3.872437/600,/0/default.jpg"/>
 </td>
@@ -1969,7 +1729,7 @@ close to the ranch, failed t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- seemed to indi-  
+seemed to indi-  
 cate decisively its subjective nature, for when a  
   
 limewater, the juice of an onion, tebacco juice,  
@@ -1995,7 +1755,8 @@ rubbed with sweet oil or a drop or two of lauda-
 num. Stings in the eye, ear, mouth or throat,  
 sometimes lead to serious consequences; in such  
 cases, medical advice should always be sought  
-as soon as possible.
+as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1878-06-20_51_25%2Fsim_youths-companion_1878-06-20_51_25_jp2.zip%2Fsim_youths-companion_1878-06-20_51_25_jp2%2Fsim_youths-companion_1878-06-20_51_25_0005.jp2/pct:51.923077,48.215642,41.833891,42.520881/,600/0/default.jpg"/>
 </td>
@@ -2009,8 +1770,6 @@ as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Slings,  
 The pain caused by a sting of a plaut  
 or insect is due to the acid poison in­  
@@ -2053,7 +1812,8 @@ of laudanum. Stings in the eye, ear,
 mouth or throat, sometimes lead&quot; to seri­  
 ous consequences; in such cases, medi­  
 cal advice should always be sought as  
-soon as possible.
+soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867656:1878080301:0138/pct:56.852248,56.030455,17.371520,25.315799/!600,600/0/default.jpg"/>
 </td>
@@ -2097,7 +1857,6 @@ soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Boston Commercial Bulletin.  
 About Stings.  
 j The pain caused by the sting of a j  
@@ -2141,7 +1900,7 @@ or two of laudanum. Stings in the
 eye, ear, mouth or throat sometimes  
 lead to serious consequences; in such  
 cases, medical advice should always be  
-sought for as soon as possible
+sought for as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn85033474:00514151143:1878111501:0508/pct:50.500000,4.320432,30.000000,89.558956/!600,600/0/default.jpg"/>
 </td>
@@ -2165,7 +1924,6 @@ sought for as soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Chapter on Htlngs.  
 The pain ctnsed by the sting of a  
 piuut or inpect is tne result oi a certain  
@@ -2205,7 +1963,7 @@ sweet oil, or a drop or two of laudanum.
 Stings in the eye, enr, mouth or throat,  
 sometimes lead to serious consequences;  
 in such cases medical advice should  
-always be sought as soon as possible
+always be sought as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1878112101:0433/pct:7.726624,40.535990,11.955746,19.671671/!600,600/0/default.jpg"/>
 </td>
@@ -2219,7 +1977,6 @@ always be sought as soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&gt;  
 The |wun caused by the nting of a  
 plaut or insect in the rennlt of a certain  
 amount of acid poinuu injected into the  
@@ -2258,7 +2015,7 @@ sweet oil, or a drop or two of landauam.
 Stings in the eye, ear, mouth or throat,  
 sometimes leaJ to serious consequences;  
 in such cases medical advice shonld  
-always be sought as soon as possibl
+always be sought as soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1878120501:0280/pct:35.826720,46.929198,9.782750,16.159967/!600,600/0/default.jpg"/>
 </td>
@@ -2272,7 +2029,7 @@ always be sought as soon as possibl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?Stlngs. t.it..  
+Stlngs. t.it..  
 Tho paiii&#x27; caused by. the sting &#x27;of a  
 plant or insect is the result of a certain  
 umount.of acid poison injected into the  
@@ -2312,7 +2069,7 @@ or two of laudanum. Stings in the eye,
 ear, mouth or throat sometimes lead to  
 serious Consequences. In such cases  
 medical advice should always be sought  
-for as soon as poasible
+for as soon as poasible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1878121401:0493/pct:56.778266,42.859523,17.700329,30.761540/!600,600/0/default.jpg"/>
 </td>
@@ -2326,7 +2083,7 @@ for as soon as poasible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. — The pair,  
+— The pair,  
 caused by tbe sting of a plant or iatect  
 is tbe result of a certain amount of acid  
 poison injected into tbe blood. The tirst  
@@ -2365,7 +2122,7 @@ or tWO of laudanum. Stings iv the eye,
 ear, month or throat sometimes lead to  
 serious consequsnoss; in such rtsot medi­  
 cal advice should always l&gt;e sought as  
-soon as possibl
+soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290987:1878122601:0408/pct:74.371734,47.292297,16.496641,24.100235/!600,600/0/default.jpg"/>
 </td>
@@ -2379,7 +2136,7 @@ soon as possibl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- on STIXOS. — Tho paio  
+on STIXOS. — Tho paio  
 caused by the sting of a plant or iusect  
 is tho result of a certain amount of acid  
 poison injected into the blood. The first  
@@ -2418,7 +2175,7 @@ or two of laudanum. Stings in the eye,
 ear, mouth or throat sometimes lead to  
 serious conscqueuc.es; in such cases nietli-  
 I cal advice should always be sought as  
-j soon as possibl
+j soon as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879010201:0016/pct:75.984752,49.092812,16.899619,24.860433/!600,600/0/default.jpg"/>
 </td>
@@ -2432,11 +2189,12 @@ j soon as possibl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Of no prac-! The pain caused by the sting of a  
+Of no prac-! The pain caused by the sting of a  
 tical value but that makes no difference1 plant or insect is the result of a certain  
 to the non- reading farmer, whose cupid- amount of acid poison injected in the  
 ity tempts him to put faith in oily gam- blood. The first thing to be done is to  
-mon sharks.- Prairie Farmer. press the tube of a small key firmly on
+mon sharks.- Prairie Farmer. press the tube of a small key firmly on  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.188509,36.470475,21.686598,2.350448/!600,600/0/default.jpg"/>
 </td>
@@ -2450,7 +2208,7 @@ mon sharks.- Prairie Farmer. press the tube of a small key firmly on
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; said a young man to his friend.  
+said a young man to his friend.  
   
 to facilitate the expulsion of the  
   
@@ -2507,7 +2265,7 @@ rop or two of laudanum. Stings in
 the eye, ear, mouth or throat, sometimes  
 lead to serious consequences in such  
 cases medical advice should always be  
-sought for as soon as possible
+sought for as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0156/pct:61.225496,28.821886,32.684009,25.729698/!600,600/0/default.jpg"/>
 </td>
@@ -2521,7 +2279,7 @@ sought for as soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- amount of acid poison injected in the 7  
+amount of acid poison injected in the 7  
   
 poison 01 sungs Deiug aciu, com  
   
@@ -2557,7 +2315,7 @@ Let the
 whlch  
   
 lowing, clipped from a local paper, and quickened will increase both pain and charge of the hydraulic pipe turned  
-I&#x27;ed&#x27;mitil asks, &quot;Who can beat it:&quot; Mr. Ma- swelling. If the swelling be severe, the o
+I&#x27;ed&#x27;mitil asks, &quot;Who can beat it:&quot; Mr. Ma- swelling. If the swelling be severe, the on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0157/pct:50.263513,37.351248,43.497978,14.337812/!600,600/0/default.jpg"/>
 </td>
@@ -2571,9 +2329,8 @@ I&#x27;ed&#x27;mitil asks, &quot;Who can beat it:&quot; Mr. Ma- swelling. If the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 mon sense points to the alkalies as the A MAX in this town froze the bottom  
-proper means of cure. Among the most
+proper means of cure. Among the most 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0157/pct:72.263758,41.775432,21.436451,0.950096/!600,600/0/default.jpg"/>
 </td>
@@ -2587,7 +2344,7 @@ proper means of cure. Among the most
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,er, lime-water, the juice ing dav that a great many wicked young  
+er, lime-water, the juice ing dav that a great many wicked young  
   
 )ui^ chrd-t0-  
   
@@ -2617,7 +2374,7 @@ exertion
 to a minimum. Any active  
 whereby the circulation i-  
   
-but I&#x27;v
+but I&#x27;ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1879011601:0157/pct:72.288271,33.723608,21.485476,17.111324/!600,600/0/default.jpg"/>
 </td>
@@ -2631,10 +2388,9 @@ but I&#x27;v
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-k  
 salt dissolved instead of boiled rice, and  
 dispense with carbolic acid. No other  
-preparation of whitewash equals this fo
+preparation of whitewash equals this for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1879011801:0617/pct:31.138962,45.313451,12.367443,1.460743/!600,600/0/default.jpg"/>
 </td>
@@ -2648,10 +2404,10 @@ preparation of whitewash equals this fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- so much mischief as  
+so much mischief as  
 in the handling of milk. Wooden pails  
 are unfit for use in the dairy, because it  
-is next
+is next 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1879011801:0617/pct:31.207823,47.920471,12.312354,1.866504/!600,600/0/default.jpg"/>
 </td>
@@ -2665,7 +2421,7 @@ is next
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- on the fruit.  
+on the fruit.  
 A Chapter on Stings.!  
 The pain  
 caused by tbe sting of a pliant or  
@@ -2709,7 +2465,7 @@ drop or two of laudanum. Stings in
 the eye, ear, mouth or throat sometimes  
 lead to bad consequences; in suclk cases  
 medical advice should always be sought  
-for as soon as possible
+for as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AEMurf3n_ver01%2Fdata%2F1879012301%2F0465.jp2/pct:7.400722,27.263904,14.195462,21.624769/!600,600/0/default.jpg"/>
 </td>
@@ -2723,7 +2479,6 @@ for as soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Chapter on Stings.  
 New York Graphie  
 The pain caused by the sting of a  
@@ -2766,7 +2521,8 @@ of laudanum. Stings in the eye, ear,
 mouth or throat semetimes lead to  
 serious consequences; in such cases  
 medical advice should always be sought  
-for as soon as possible.
+for as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285013:1879012301:0095/pct:79.148428,58.728640,14.126542,21.982228/!600,600/0/default.jpg"/>
 </td>
@@ -2782,7 +2538,7 @@ for as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t fire at Pera in  
+fire at Pera in  
 1870, and he never re-wrote his  
 reminiscences. A large sperm whale, over  
 60 feet in length, has been found on the  
@@ -2827,7 +2583,7 @@ dr»p or two of laudanum. Stings in the
 eye, ear, mouth or throat sometimes lead  
 to serious consequences ; in such cases  
 medical advice should always be sought  
-for as soon as possible.
+for as soon as possible. 
 </td></tr></table>
 
 ---
@@ -2840,7 +2596,6 @@ for as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 Stings.— The pain caused by the sting of  
 a plant or insect is the result of a  
 certain amount of acid poison injected  
@@ -2880,7 +2635,7 @@ drop or two of ladanum. Stings in the
 eye, ear, mouth, or throat sometimes  
 lead to serious consequences ; in such  
 cases medical advice should always be  
-sought for as soon as possible.
+sought for as soon as possible. 
 </td></tr></table>
 
 ---
@@ -2893,7 +2648,7 @@ sought for as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; THE pain oauscd by the sting  
+THE pain oauscd by the sting  
 of a plant or insect is the result of  
 aoertain amount of aoid poison injeoted  
 into the .blood. The first thing to be  
@@ -2934,7 +2689,7 @@ laudqnuiq. Stings in the &gt; eye, ear,
 mouth, or throat sometimes leads to  
 serious consequences \ in buch cases  
 medical advioe should always be&#x27; sought  
-for as&#x27; soon as possible
+for as&#x27; soon as possible.
 </td></tr></table>
 
 ---
@@ -2947,7 +2702,7 @@ for as&#x27; soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- out the lbiestway shecan ,e Sciucos  
+out the lbiestway shecan ,e Sciucos  
 The paia` caiiiised by ,tlielting of;, a  
 plantoroinsect is tho&#x27;rcsult &quot;of &#x27;a  
 &#x27;ceritain&#x27; amount of acid poiion  
@@ -2991,7 +2746,7 @@ w of lhudaiee. Stings ic ftle cyc, c l,
 leueli, or tihroat soluefien&#x27;s leaid to  
 secricoui; consequeniccesi . In suchi  
 ca;c. dical advicelic slhoetl clrways ie  
-soughte for ac:c aseoi l possible
+soughte for ac:c aseoi l possiblel
 </td></tr></table>
 
 ---
@@ -3002,7 +2757,7 @@ soughte for ac:c aseoi l possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the glands of  
+the glands of  
 the neck are swollen.  
 A Chapter on Stings.  
 The pain cansed by the sting of a  
@@ -3044,7 +2799,7 @@ Stings in the eye, ear, mouth or throat
 sometimes lead to serious consequences;  
 in such cases medical advice should al  
 ways be sought for as soon as possible.  
-
+o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559942:1879053001:0099/pct:71.109993,32.627866,10.798122,18.442933/!600,600/0/default.jpg"/>
 </td>
@@ -3058,7 +2813,7 @@ ways be sought for as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tho basis of abstinence and so­  
+tho basis of abstinence and so­  
 briety. fN. T. Ad.  
   
 A Chapter on Stings.  
@@ -3100,7 +2855,8 @@ sweet oil or a drop or two of laudanum
 Stinsrs in the eve, ear, mouth or throat  
 sometimes lead to serious consequences  
 in such cases medical advice should al  
-ways be sought for as soon as possible,
+ways be sought for as soon as possible,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0028077585A:1879100901:0074/pct:14.719341,15.451159,9.746797,17.289439/!600,600/0/default.jpg"/>
 </td>
@@ -3114,7 +2870,7 @@ ways be sought for as soon as possible,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n and nickel.  
+and nickel.  
   
 A Chapter on Stings.  
   
@@ -3155,7 +2911,8 @@ sweet oil or a drop or two of laudanum.
 Stings in the eye, ear, mouth or throat  
 sometimes lead to serious consequences;  
 in such cases medical advice should al­  
-ways be sought for as soon as possible.
+ways be sought for as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1879101701:0257/pct:80.652031,58.929660,10.714286,16.518347/!600,600/0/default.jpg"/>
 </td>
@@ -3169,7 +2926,7 @@ ways be sought for as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ch time, it is  
+h time, it is  
 best to do so. When we know beforehand that  
 company is coming, we can have everything  
 ready to set upon the table, and so spend not  
@@ -3215,7 +2972,7 @@ tbe part may be rubbed with sweet oil or a drop
 or two of laudanum. Stings in the eye, ear,  
 month, or throat sometimes lead to serious con­  
 sequences; in such cases medical advice should  
-always be sought as soon as possible
+always be sought as soon as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171347:1879102401:0759/pct:33.423729,5.101869,29.988701,91.446371/!600,600/0/default.jpg"/>
 </td>
@@ -3229,7 +2986,7 @@ always be sought as soon as possible
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of aw reader  
+of aw reader  
   
 Inhut Stihob. The pain caused by the sting  
 of a plant or inaect is the result of a oertain  
@@ -3265,7 +3022,8 @@ of laudanum. Stings in the eye, ear, mouth or
 throat sometimes lead to carious oonerqusnoee.  
 In such cases medical advice should always be  
   
-sought as soon as possible.
+sought as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_elk_ver01%2Fdata%2F2012260361%2F00000000012%2F1879110101%2F1081.jp2/pct:6.126126,7.969697,83.648649,67.272727/!600,600/0/default.jpg"/>
 </td>
@@ -3279,7 +3037,7 @@ sought as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the wife of  
+the wife of  
  ee en e ee e  
 their old friend. When we know be-  
 forehand that company is coming, we  
@@ -3312,7 +3070,7 @@ inch long. This worm show
 ows up bean  
 of a miero  
 tifully beneath the lens  
-scope. When a stor
+scope. When a storm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1879122401:0633/pct:7.850467,43.808909,21.971113,13.428018/!600,600/0/default.jpg"/>
 </td>
@@ -3346,7 +3104,7 @@ scope. When a stor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- during tho  
+during tho  
 day.  
   
 THE pain caused by the sting of a  
@@ -3388,7 +3146,8 @@ or two of laudanum. Stings in the
 eye, ear, mouth or throat sometimes  
 lead to serious consequences in such  
 cases medical advice should always bo  
-sought as soon as possible.
+sought as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1880021301:0341/pct:86.129781,38.834476,9.556397,17.894221/!600,600/0/default.jpg"/>
 </td>
@@ -3402,14 +3161,14 @@ sought as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, for I did not know be severe, rest and coolness should  
+for I did not know be severe, rest and coolness should  
 be added to the other remedies, more  
 especially in the case of nervous sub­  
 jects. Nothing is so apt to make the  
 poison active as heat, and nothing  
 favors its activity less than cold. Let  
 the body be kept cool and at rest, and  
-the activity of the poison will be r
+the activity of the poison will be re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065151:00279523350:1880021401:0188/pct:45.898512,72.098027,26.001526,4.769874/!600,600/0/default.jpg"/>
 </td>
@@ -3423,7 +3182,7 @@ the activity of the poison will be r
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; during the  
+during the  
 day.  
   
 THE pain caused by the sting of a  
@@ -3473,7 +3232,8 @@ or two of laudanum. Snugs in the
 eye, ear, mouth or throat sometimes  
 lead to serious consequences in such  
 cases medical advice should always be  
-sought as soon as possible.
+sought as soon as possible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065151:00279523350:1880021401:0188/pct:37.104159,57.884041,34.986646,35.528990/!600,600/0/default.jpg"/>
 </td>
@@ -3487,7 +3247,7 @@ sought as soon as possible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-te of pure compressed carbon  
+e of pure compressed carbon  
 raised to a red heat is placed, and it  
 continues to burn there, without giving  
 forth any disagreeable odor, for about  
@@ -3505,7 +3265,7 @@ paste with water, the juice of an onion,
 tobacco juice, chewed tobacco, bruised  
 dock leaves and carbon of soda.  
 In order to perform an amount of  
-mechanical work equal t
+mechanical work equal to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665829:1880021901:0150/pct:66.023256,58.689249,14.488372,10.427099/!600,600/0/default.jpg"/>
 </td>
@@ -3519,7 +3279,6 @@ mechanical work equal t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The pain caused by the sting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -3531,7 +3290,8 @@ liquor of ammonia, smelling salts, wash
 ing soda, quicklime made into a paste  
 with water, the juice of an onion, tobac­  
 co juice, bruised dock leaves and carbon  
-of soda.
+of soda.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:0021247003A:1880021901:0066/pct:56.737589,58.157861,12.287234,5.800284/!600,600/0/default.jpg"/>
 </td>
@@ -3545,14 +3305,13 @@ of soda.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The pain caused by the sting of a plant  
 or an insect is the result of a oertain amount  
 of acid poison injected into the system.  
 To prevent glue from eracking when  
 dry, add about one tableepoonful of glyoer­  
 ins to a pint of the solunron while it is hot.  
-A German scientist ha
+A German scientist has
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_flyingsquirrel_ver02:data:sn84038125:00212477047:1880022001:0033/pct:29.536173,66.940928,11.026838,3.575949/!600,600/0/default.jpg"/>
 </td>
@@ -3566,7 +3325,7 @@ A German scientist ha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ars.  
+rs.  
 The pain caused by the sting of a  
 plant or insect is the result of &quot;a cer­  
 tain amount of acid poison injected  
@@ -3581,7 +3340,7 @@ with water, the juice ot an onion, to­
 bacco juice, chewed tobacco, bruised  
 dock leaves and carbou of soda.  
 “1 wonder what makes it look so  
-dark an
+dark and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271761491:1880022501:0058/pct:76.141352,70.658771,15.583845,10.747594/!600,600/0/default.jpg"/>
 </td>
@@ -3595,7 +3354,7 @@ dark an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to so state in  
+to so state in  
 your testimonials.&quot; 31mos3  
 j  
 The pain caused by the stiug of a  
@@ -3612,7 +3371,7 @@ ter, the juice of an onion, tobacco
 juice, chewed tobacco, bruised dock  
 leaves and carbon of soda.  
 Mr. Churoh Howe, like all the rest  
-of &#x27;e
+of &#x27;em
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285189:1880022601:0138/pct:28.247261,75.805489,10.693792,9.844869/!600,600/0/default.jpg"/>
 </td>
@@ -3626,7 +3385,6 @@ of &#x27;e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 —The pain caused by the sting of a  
 plant or insect is the result of a certain  
 amount of acid poison injected into the  
@@ -3638,7 +3396,7 @@ soap, liquor of ammonia, smelling salts,
 washing soda, quick-lime made into a  
 paste with water, the juice of an onion,  
 tobacco juice, chewed tobacco, bruised  
-dock leave
+dock leaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1880022801:0069/pct:63.111398,60.495988,13.876320,6.141503/!600,600/0/default.jpg"/>
 </td>
@@ -3652,11 +3410,11 @@ dock leave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, Pic  
+Pic  
 &quot;The pain caused by the sting of an  
 insect is the. result of a certain amount of  
 acid poison injected into the blood,&quot; says a  
-physician. We 
+physician. We a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:00295873152:1880033001:0614/pct:59.613059,15.990174,12.651149,2.526611/!600,600/0/default.jpg"/>
 </td>
@@ -3670,11 +3428,10 @@ physician. We
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The pain caused by the sting of an  
 insect, is the result of a certain amount  
 of acid polson injected into the blood.  
-a physician. If 
+a physician. If a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1880033101:0439/pct:8.270951,13.086771,11.977360,2.806155/!600,600/0/default.jpg"/>
 </td>
@@ -3688,7 +3445,6 @@ a physician. If
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Tbe psia caused by the Utag of a  
 plant or insect is the rasalt of a emtaim.  
 amount of add poison injected into the  
@@ -3699,7 +3455,7 @@ Srocured may be mentioned soft soap,
 qaor of ammonia, smelling salts, wash­  
 ing soda, quicklime made into a paste  
 with water, the juice of an onion, tobac­  
-co juke, bruised doc
+co juke, bruised dock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285013:1880040101:0338/pct:40.888947,88.918073,10.649114,4.869179/!600,600/0/default.jpg"/>
 </td>
@@ -3713,7 +3469,6 @@ co juke, bruised doc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The pain caused by the sting of a plant  
 or insect is the result of a certain  
 amount of acld poison injected into the  
@@ -3725,7 +3480,7 @@ seap, liquor of ammonia, smelling salts.
 washing soda, quick-lime made into  
 paste with water, the juice of an onion.  
 tobacco juice, chewed tobacco, brulsed  
-dock leave
+dock leaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1880042401:0973/pct:16.162593,81.044256,12.797496,6.184144/!600,600/0/default.jpg"/>
 </td>
@@ -3739,7 +3494,7 @@ dock leave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--Hurness dournal.  
+Hurness dournal.  
 The pain caused by the sting of a  
 plant or insect is the result of a cer­  
 tain amount of acid poison injected  
@@ -3758,7 +3513,7 @@ d dock leaves and carbon of goda.
  GALiKD. 1Eit and  
 Ae11.it of their own manns  
 ass  
-aeual t
+aeual to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776579:1880042901:0072/pct:6.199086,7.000443,25.650705,89.632255/!600,600/0/default.jpg"/>
 </td>
@@ -3772,7 +3527,6 @@ aeual t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The paiu caused by (he stiug of 9 plant  
 or insect is the result of a certain amount ^  
 of acid poison injected into the blood. Tho  
@@ -3784,7 +3538,7 @@ smelling salts, washing soda, quicklime
 made into a paste with water, the juice of  
 an onion, tobacco juice, chewed tobaeoo,  
 bruised dock leaves and carbon of soda.  
-Tho
+Tho 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1880052701:0092/pct:84.163987,26.385999,13.295820,5.189083/!600,600/0/default.jpg"/>
 </td>
@@ -3798,7 +3552,7 @@ Tho
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- life of tho dead woman. Her  
+life of tho dead woman. Her  
 faith, he said, was a simple Kith ; she  
 loved (!od and knew that God loved  
 her. That was the highest thing that  
@@ -3818,7 +3572,7 @@ into a paste with water, the juice of an
 onion, tobacco juice, chewed tobacco,  
 bruised dock leaves and carbon of  
 soda.  
-In Titus villo. P
+In Titus villo. Pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1880070901:1105/pct:17.605634,81.538063,10.814889,9.813568/!600,600/0/default.jpg"/>
 </td>
@@ -3832,8 +3586,6 @@ In Titus villo. P
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 INSECT STINGS.  
   
 [is pain caused by the sting of a plant or  
@@ -3881,7 +3633,8 @@ in the eye, ear, mouth or throat sometimes lead
 to serious consequences; in such cases medical  
 advice should always be sought as soon as pos-  
   
-sible.
+sible.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_arthurs-home-magazine_1881-09_49_9%2Fsim_arthurs-home-magazine_1881-09_49_9_jp2.zip%2Fsim_arthurs-home-magazine_1881-09_49_9_jp2%2Fsim_arthurs-home-magazine_1881-09_49_9_0021.jp2/pct:57.621951,46.865443,35.175305,42.533129/,600/0/default.jpg"/>
 </td>
@@ -3897,7 +3650,7 @@ sible.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, raw  
+raw  
 onion, tobacco juice, or tho oxpressed  
 juioo of any green leaf. As animal  
 poisons deoxidize the blood, their  
@@ -3916,7 +3669,7 @@ the activity of tho poison will bo
 reduced to a minimum. Any active  
 exertion whereby the circulation is  
 (jiiickenrd will incroaseboth pain and  
-swelling.
+swelling. 
 </td></tr></table>
 
 ---

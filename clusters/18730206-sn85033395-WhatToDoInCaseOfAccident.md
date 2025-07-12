@@ -1,7 +1,7 @@
 
 # What to Do in Case of Accident
 
-### 383 reprints from 1872-07-11 to 1896-01-29
+### 378 reprints from 1872-07-11 to 1896-01-29
 
 ## [What to Do in Case of Accident](https://chroniclingamerica.loc.gov/lccn/sn85033395/1873-02-06/ed-1/seq-4/)
 
@@ -11,7 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-**What to Do in Case of Accident.**  
+What to Do in Case of Accident.**  
   
 Prof. Wilder, of Cornell University, gives these short rules for action in case of accident. It would not be a bad thing to cut them out and carry them in one&#x27;s pocketbook, or, better yet, commit them to memory:  
   
@@ -45,7 +45,7 @@ For apoplexy, raise the head and body; for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-les, for there is  
+es, for there is  
 almost no increase in the percentage of  
 females dying from heart-disease ont 4  
 the 25 years of life from 21 to  
@@ -111,6 +111,7 @@ with the nose and mouth projecting.
   
 For apenety raise the head and  
 body ; for fainting, lay flat.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1872-07-11_21_28%2Fper_the-pacific_the-pacific_1872-07-11_21_28_jp2.zip%2Fper_the-pacific_the-pacific_1872-07-11_21_28_jp2%2Fper_the-pacific_the-pacific_1872-07-11_21_28_0006.jp2/pct:7.847580,41.179096,13.772743,30.920270/,600/0/default.jpg"/>
@@ -125,7 +126,7 @@ body ; for fainting, lay flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- acti  
+acti  
 would not be a bad thing to cut tiie  
 «•rry them iu one&#x27;s pocket-book or. better yet,  
 commit to memory.  
@@ -154,7 +155,7 @@ llefoie passing through smoke, take a full brea­
 th ami then stoop low, but if carbonic is huh]  
 ted, walk erect.  
 Suck poisoned wounds, unless  
-sore
+sore 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_jinx_ver01:data:sn84020594:00271742538:1872091101:0990/pct:32.410038,38.924501,12.310606,8.725071/!600,600/0/default.jpg"/>
 </td>
@@ -168,7 +169,7 @@ sore
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-urN,  
+rN,  
   
 Good Rules for Emergencies.  
 Professor Wilder of Cornell Uni­  
@@ -228,7 +229,7 @@ or slight burns, dip the part in
 cold water, if the skin is destroyed,  
 cover with varnish.  
   
-sho
+shoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295878484:1872102601:0797/pct:18.028940,23.894534,39.636293,52.430651/!600,600/0/default.jpg"/>
 </td>
@@ -242,7 +243,6 @@ sho
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 What to do in Case of Accidents.  
 s e  
 Professor Wilder, of Cornell Univer­  
@@ -265,7 +265,7 @@ cil
 below.  
 the ear.  
 If any artery is cut, compress  
-the wound; if a vein is cut comp
+the wound; if a vein is cut compr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_bombarda_ver01:data:sn84026820:00271765277:1872110901:0405/pct:56.101426,14.430759,12.856577,40.562583/!600,600/0/default.jpg"/>
 </td>
@@ -279,7 +279,6 @@ the wound; if a vein is cut comp
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 mouth is sore; enlarge the  
 better, cut out the part without delay;  
 hold the wounded part as long as can b  
@@ -295,7 +294,7 @@ moving.
   
 nose and mouth projesting  
 For apoplexy, raise the head and body;  
-for fainting, lay flat
+for fainting, lay flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_bombarda_ver01:data:sn84026820:00271765277:1872110901:0405/pct:55.863708,61.401465,12.321712,9.121172/!600,600/0/default.jpg"/>
 </td>
@@ -309,7 +308,6 @@ for fainting, lay flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 What to do In Cose of Aoeldento.  
 Professor Wilder, of Cornell University .gives  
 llieae short rules for action in cases of accident.  
@@ -337,7 +335,7 @@ part without delay; hold the wounded part as
 long as can be borne to a hot coal or end of a  
 cigar.  
 In case c fpuisoning,excite vomiting by ticklirg  
-the throat with warm wate
+the throat with warm water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_crucio_ver01:data:sn84026837:0027174254A:1872111601:0836/pct:60.768072,34.547244,17.143574,14.895013/!600,600/0/default.jpg"/>
 </td>
@@ -351,7 +349,7 @@ the throat with warm wate
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- born to  
+born to  
 Good Ruia* sou Emukokncies — Prof.  
 Wilder, of Cornell Cniversity, gives lliese  
 short rule* of action in case of accident.  
@@ -392,7 +390,7 @@ the nose and mouth projecting
 For slight burns, dip th* part in cold  
 water, if tho skin is destroyed, cover  
 with varnish.  
-XW Th
+XW The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1872111901:0692/pct:69.659091,49.776514,13.162879,24.285521/!600,600/0/default.jpg"/>
 </td>
@@ -406,7 +404,7 @@ XW Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- te  
+te  
 ators see to it that every cent is restored  
 t the State Treasury. Gov. Jacob by his  
 bold and fearles, course has shown that  
@@ -459,7 +457,7 @@ For apoplexy, ralse the hiead and body,
 for fainting, laf the person flit.  
 A wrranun of the West vigils lage  
 named Butcher alluding to the  
-ba
+bar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:0020219087A:1872121401:1192/pct:1.812130,68.300160,14.700444,27.350275/!600,600/0/default.jpg"/>
 </td>
@@ -473,13 +471,7 @@ ba
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rminnd it whether the present  
-begislature orn be induced to stifle thit  
-and adopt enother which wil  
-hite wush the whole aslal. Let the  
-prtaeut Leghiature move catiliusly  
-Let them see that the Stzte is not robbed,  
-an? I I has barn tobad es the  
+es the  
 atows see to it that every cent is restored  
 to the State reusury. Gor Jacob by hir  
 bold and fearlens course has shown that  
@@ -526,9 +518,9 @@ and mustard.
 For acid peisons give algalis for all  
 poisona, give acids--white of egg is  
 good in most caser, in a case of opium,  
-meston
+mestong
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:0020219087A:1872121401:1193/pct:2.461140,64.925965,13.045892,27.423762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:0020219087A:1872121401:1193/pct:2.461140,67.715494,13.045892,24.634232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,21 +532,6 @@ meston
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ter it has been compressed inta  
-bales ; and the expense of packing the cot­  
-ton, bagging, ties and handling would be  
-saved, as well as the expense of running it  
-through the picker. The wastage cotton  
-undergoes in different ways has been esti­  
-mated from one-tenth to one-eighth of the  
-bale. &quot; &#x27;  
-The Langley mills, ten miles from Aiken,  
-were exempted by an act of the Legislature  
-from taxation for a term of years, and, as  
-there is a disposition to encourage manu­  
-factures, a like immunity would be granted  
-to other companies. Aiken (S. C.) Letter  
-to the New York Journal of Commerce.  
 i j i t . I &#x27; j  
 What to Do in Case of Accident.  
 Prof. Wilder, of Cornell University,  
@@ -595,32 +572,9 @@ poisoning, give strong coffee, and keep
 moving.  
 For appoplexy, raise the head and body ;  
 for fainting lay the person flat.  
-DAILY METEO
+DAILY METEOR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293733:1872121801:0568/pct:49.172474,17.052235,14.445412,28.284309/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The weekly Caucasian._](https://www.loc.gov/resource/sn85033995/1872-12-21/ed-1/?sp=1)
-
-#### 1872-12-21 &middot; [Lexington, Lafayette County, Mo.](http://dbpedia.org/resource/Lexington%2C_Missouri)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Legislature from taxation for a term of  
-  
-years, and as there Is a disposition to  
-encourage manufactures, a like Immunity  
-  
-would be granted to ottier companies.  
-  
-day under her father&#x27;s roof. , Tbe
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872122101:0207/pct:54.644970,20.399905,20.295858,1.499643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293733:1872121801:0568/pct:49.172474,24.411180,14.387340,20.925364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,22 +586,7 @@ day under her father&#x27;s roof. , Tbe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-der. Had use is made of  
-liro on a farm. Don&#x27;t burn a grub, fodder,  
-straw, weeds, nor any other vegetable mat­  
-ter. Haul it all to someplaco on your farm.  
-Let it rot there, and in a few years it will  
-be as good land as you have got. My farm  
-has been farmed for forty or fifty years,  
-and it is as good to-day as it was when first  
-settled. If I was to live a thousand years  
-my farm would improve, and I never need  
-to buy ono pound of manure.  
-I nm spinning my nrticlc out too loug,  
-but may tell you in another how I mako  
-my land rich with brush and Aveeds.  
-Gkokok W. Kiss.  
-White Oak, Ritchie Co., W. Va.  
+Ritchie Co., W. Va.  
 &quot;What to Do in Case of Accident.  
 Prof. Wilder, of Cornell University,  
 gives these short rules for action in case of  
@@ -687,43 +626,10 @@ good in most cases; in a ease oi opium
 poisoning, give strong coffee, and keep  
 moving.  
 For appoplexy, raise the head and body ;  
-for fainting lay tho person llat.
+for fainting lay tho person llat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1872122501:1029/pct:24.720670,22.231076,17.108939,30.087649/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Knoxville weekly chronicle._](https://www.loc.gov/resource/sn85033438/1872-12-25/ed-1/?sp=6)
-
-#### 1872-12-25 &middot; [Knoxville, Tenn.](http://dbpedia.org/resource/Knoxville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ssed into  
-hales; and tho expense of packing the cot­  
-ton, baiminc. ties and handling would bo  
-  
-saved, as well as tho expense of running It  
-  
-through tho picker. Tho wastago cotton  
-underdoes in diilcrent ways has been esti  
-  
-mated from one-tenth to one-eighth of tho  
-bale.  
-  
-The LatiKloy mills, ten miles from Alkcn.  
-  
-were exempted by an act of tho Legislature  
-from taxation for a term of years, und, as  
-there is a disposition to encourage manu­  
-factures, a liko immunity would bo granted  
-to other companies. Aiken (S. C.) Letter  
-  
-to the Xcw York Journal of Commerce.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1872122501:1035/pct:24.768519,12.965320,16.921296,7.938276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1872122501:1029/pct:24.720670,30.183267,17.108939,22.135458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,27 +641,7 @@ to the Xcw York Journal of Commerce.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ing the ensuing summer. On the other  
-hand thoEe well fed, carefully tended,  
-  
-and skiillully managed will yield a  
-handsome profit. The same facts hold  
-  
-good in raising young cattle. Those  
-raised by some men are a? large at two  
-years old as those raised by others are  
-at three. Much, or nearly ail, rests with  
-the farmer. If small results, and a large  
-per cent of losses overtake him in the  
-management of his cattle, it is his own  
-  
-fault. But if good returns, and gener  
-  
-ally satisfactory results, are his lot, it is  
-  
-because he used proper and judicious  
-  
-management in the wintering of his  
+intering of his  
   
 cattle. W.  
 What to Do in Case of Accident.  
@@ -807,9 +693,9 @@ For apoplexy, raise the head and body;
 for fainting, lay the person flat.  
   
 may look if properly clad. Try this and  
-be happier and heal
+be happier and healt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1873010201:0505/pct:6.177829,5.110460,28.656659,63.627895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1873010201:0505/pct:6.197075,5.110460,28.637413,63.627895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,23 +707,6 @@ be happier and heal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- dur­  
-ing the ensuing summer. On the other  
-hand thoe well fed, carefully tended,  
-and skillfully managed will yield a  
-handsome profit. The same facts hold  
-good in raising young cattle. Those  
-raised by some men are ai large at two  
-years old as those raised by others are  
-at three. Much, or nearly all, ro-rts with  
-the farmer. If small results, and a largo  
-per cent of losses overtake him in the  
-management of his cittle, it is his own  
-fault. Iut if good returns, and gener­  
-ally satisfactory results, are his lot, it is  
-because he used proper and judicious  
-management in the wintering of his  
-cattle. W.  
 What to Do in Case of Accident.  
 Prof. Wilder, of Cornell University,  
 gives these short rules for action in case  
@@ -880,9 +749,10 @@ egg is good m most caeB : in a case ot
 opium poisoning, give strong coitee, ana  
 keep moving.  
 For apoplexy, raise the head and body;  
-for fainting, lay the person tlat.
+for fainting, lay the person tlat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1873010301:1119/pct:6.842528,37.389588,13.711837,31.215937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1873010301:1119/pct:6.882700,46.532607,13.671666,22.072919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,27 +764,7 @@ for fainting, lay the person tlat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-red, Ray!&quot;  
-&quot;ily poor little bird? It was cruel!  
-But it was all Uncle Hugh&#x27;s doings! &quot;  
-He wa3 full of whims, and this is the  
-mort cruel one that eer possessed  
-him. But can you marry such aa  
-old manrMay ? I am ten years older  
-than what yon are, little one.&quot;  
-I don t inow what May answered.  
-but I know that a few week. nftAr  
-that site stole to Ray&#x27;s side ia the  
-gathering twilight and whispered to  
-mm a long, long time. . x caught,  
-these words,  
-&#x27;&quot;Why didn&#x27;t  
-you wait the six  
-months, Ray, husband?&quot;  
-I saw him wind his arms around  
-her, while he whispered very low­  
-but I heard  
-&quot;How could I, little wife?&quot;  
+little wife?&quot;  
   
 What to Do in Case of Accident.  
   
@@ -962,9 +812,9 @@ coffee and keep moving. .
 If in water, float on the back with  
 nose and mouth projecting.  
 For apoplexy, raise tha head and  
-body; for fainting, lay th9 per
+body; for fainting, lay th9 pers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775800:1873010301:0430/pct:85.488329,63.866445,10.196560,32.794677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775800:1873010301:0430/pct:85.488329,72.896863,9.689803,23.764259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,8 +826,6 @@ body; for fainting, lay th9 per
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 What to Do in Cask of Accident.—  
 Prof. Wilder, of Cornell University, gives  
 these short rules for action in cases of acci­  
@@ -1018,7 +866,7 @@ If in water, float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat.  
-Cele
+Celer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025132:00279556690:1873010401:0434/pct:82.355119,17.712228,12.071839,19.817200/!600,600/0/default.jpg"/>
 </td>
@@ -1032,8 +880,6 @@ Cele
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 What to do in C&#x27;ase of AccidEnss.  
 Prof Wilder, Cornell University, gives these  
 short rules for action in case of accident. It  
@@ -1075,7 +921,7 @@ most cases; in a case of opium porsoning,
 give strong coliee, and keep moving.  
 For apoplexy, raise the head and body: for  
 fainting, lay the person flat.  
-E
+EA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1873010401:1303/pct:4.485382,32.653851,17.280737,22.061669/!600,600/0/default.jpg"/>
 </td>
@@ -1089,7 +935,7 @@ E
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* :  
+:  
 For dunt in the eye*, avoid rubbing; d*?h  
 ?Water into them ; remove citidera with the  
 rooml point of a lead pencil.  
@@ -1117,7 +963,7 @@ tard.
 For acid poisons give alkalies ; for alkatinn  
 poisons give acids ; white of egg is good in  
 most cases.  
-In the water, float o
+In the water, float on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1873010701:0425/pct:83.993056,80.142755,13.350694,15.160600/!600,600/0/default.jpg"/>
 </td>
@@ -1131,7 +977,7 @@ In the water, float o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ief. Tribune.  
+ef. Tribune.  
   
 What to Do in Case of Accident.  
   
@@ -1178,7 +1024,7 @@ of opium, give strong coffee, ami keep
 moving. . &#x27; . r . ... . , .- e  
 : For .apoplexy, raise 4he head and  
 body ; for fainting, lay Jibe person flat.  
-: 
+: I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1873010901:0436/pct:8.713504,5.392585,21.213504,91.024841/!600,600/0/default.jpg"/>
 </td>
@@ -1192,7 +1038,7 @@ body ; for fainting, lay Jibe person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hour.  
+hour.  
 JAMES RODGERS. P.M.  
 What to do in Case or &#x27;Accident.  
 I&#x27;rof. Wilder, of Cornell University,  
@@ -1234,7 +1080,7 @@ moving.
 Jf in water, float on the back, with the  
 nose and mouth projecting.  
 For apoplexy, raise the head and body ;  
-for fainting, lay the person Hat
+for fainting, lay the person Hat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293745:1873012401:0081/pct:48.336331,31.691246,14.643285,21.870097/!600,600/0/default.jpg"/>
 </td>
@@ -1248,13 +1094,7 @@ for fainting, lay the person Hat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-What to da In Case af an Accident,  
-  
-Professor Wilder, of Cornell Univer  
-  
-sity, gives these short rules in case of  
+these short rules in case of  
   
 accident. It would not be a bad thing  
 to cut them oat and carry them in one&#x27;s  
@@ -1325,9 +1165,10 @@ moving.
 for apoplexy, raise the head and  
   
 body; for fainting, lay tha perwon flat.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873012401:0080/pct:53.539644,71.078291,12.621359,19.902495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873012401:0080/pct:53.539644,72.082019,12.621359,18.898767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1180,6 @@ body; for fainting, lay tha perwon flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 What to Do la Case of Accident.  
 Prof. Wilder, of Cornell University, gives  
 these short rules for action In caso of acci­  
@@ -1379,7 +1219,7 @@ moving.
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat.  
 The strike of tho London gas-etoker3 has  
-.ended thns: Tho rank and hie o
+.ended thns: Tho rank and hie ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873012501:0090/pct:38.240575,67.841410,10.906643,17.500000/!600,600/0/default.jpg"/>
 </td>
@@ -1393,7 +1233,7 @@ The strike of tho London gas-etoker3 has
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-day Night.  
+ay Night.  
   
 NO. 4.  
   
@@ -1437,7 +1277,7 @@ poisoning, give strong coffee, aud keep
 moving.  
 For apoplexy, ratso the head &#x27;and  
 body ; for fainting, lay the person flat.  
-With
+With 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1873012901:0641/pct:52.466667,10.160511,25.777778,87.548699/!600,600/0/default.jpg"/>
 </td>
@@ -1451,7 +1291,7 @@ With
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tiifles a day.&quot;  
+tiifles a day.&quot;  
   
 What to do in lose of Accident.  
 Prof. &#x27;Wilder, of Cornell University,  
@@ -1496,7 +1336,8 @@ moving.
 If in water, lloat on the back, with the  
 nose and mouth projecting.  
 For apoplexy, raise the head and body ;  
-for fainting, lay the persou Hat.
+for fainting, lay the persou Hat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873012901:0040/pct:20.972998,7.192760,22.579143,88.059701/!600,600/0/default.jpg"/>
 </td>
@@ -1510,8 +1351,6 @@ for fainting, lay the persou Hat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Prof. Wilder of Cornell University,  
 gives the following short rules for ace­  
 tion in cases of accident, which it will  
@@ -1523,7 +1362,8 @@ dash wafer into them; remove-cinders,
 etc with the round point ofa lead  
 pencil.  
   
-Remove water from the ear by sepid
+Remove water from the ear by sepid  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472566:1873013001:0019/pct:14.066249,5.244266,10.506153,5.566709/!600,600/0/default.jpg"/>
 </td>
@@ -1537,8 +1377,6 @@ Remove water from the ear by sepid
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Gouth is sore plarge the wound, or,  
 better cut out the part without delay  
 hold the wounded part as long as can  
@@ -1555,7 +1393,8 @@ pium poisoning give strong coffee and
   
 tha noseand gthprojasina,  
 For apoplexy, raise the head and  
-body; for fainting, lay the person flat.
+body; for fainting, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472566:1873013001:0019/pct:14.441607,20.657663,9.987617,9.326519/!600,600/0/default.jpg"/>
 </td>
@@ -1579,25 +1418,6 @@ body; for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ular boulders  
-found in meadows and the terraces of rivers  
-not reached by water can be accounted for  
-only in this way.  
-General O. O. Howard has endorsed Sena  
-tor Pomeroy as &quot;pure and simple in private  
-life strietly terererete in evarthie tt a  
-pleasant little family around him, a regular  
-attendant at church, a man of prayer, al  
-ways leaning on the mighty arm of strength  
-ago Tribune says this proves, of course, that  
-tomeroy has never swindled the Govern-  
-ment or the Pattawatomie Indians. Senator  
-Pomeroy now owes it to General Howard to  
-give him a good backing. Then everythined  
-will be lovelene  
-  
-  
-  
 What to do in case of Accident.  
   
  Prof. Wilder, of the Cornell University,  
@@ -1640,9 +1460,9 @@ nose and mouth projecting
 For apoplexy, raise the head and body;  
 fainting, lay the person flat.  
 for  
-Lees, th
+Lees, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105495:1873020101:0452/pct:19.881744,7.024351,29.083518,84.867541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105495:1873020101:0452/pct:33.961567,7.024351,15.003695,21.354027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,23 +1474,7 @@ Lees, th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-om every sin and stain.  
-Keep from the ways that bring thee pain.  
-Keep free thy tongue from words of iiL  
-Keep right thy aim and good thy will.  
-Keep all thy acts from passion free.  
-Keep strong in hope no envy see.  
-Keep watchful care o&#x27;er tongue and hand.  
-Keep firm thy feet, by justice stand.  
-Keep true thy word, a sacred thing.  
-Keep from the snare the tempters bring.  
-Keep faith with each yon call a friend.  
-Keep full tn view the final end.  
-Keen Arm thy courage bold and strong.  
-Keep up tbe right an.i down tbe wrong.  
-Keep well the words or wisdom s school.  
-Keep warm by night, and by day keep  
-coo i.  
+i.  
   
 WHAT TO DO IN CASE OF ACCIDENT.  
   
@@ -1719,9 +1523,9 @@ the nose and mouth projecting.
 For apoplexy .raise the head and  
 pody; for fainting, lay the person flat.  
 it  
-
+L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1873020501:0342/pct:74.016240,69.401025,10.118676,24.796799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1873020501:0342/pct:74.016240,75.203201,10.118676,18.994623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,8 +1537,6 @@ it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 What to Do in Case of Ac4  
 -.;.. -.cident;.-;.:&#x27;.v,-j  
 Prof. Wilder, of Cornell Uni-i  
@@ -1786,7 +1588,7 @@ aml keep moving.
 j For apoplexy, raise the head  
 and body; for fainting, lay the  
 I person fiat.  
-
+r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1873020601:0023/pct:16.723068,5.007790,11.252115,32.862230/!600,600/0/default.jpg"/>
 </td>
@@ -1800,7 +1602,6 @@ I person fiat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-M  
   
 What to do ik cask of Accident  
   
@@ -1887,7 +1688,7 @@ with the nose and mouth project­
 ing. For apoplexy, raise the head  
 and body; ior fainting lay the per  
   
-son nat.
+son nat. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472967:1873020701:0591/pct:4.541822,26.714286,8.870538,20.978022/!600,600/0/default.jpg"/>
 </td>
@@ -1901,7 +1702,6 @@ son nat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 gives those short rules in cases of accident,  
 it Would not be a bad thing Uncut this out  
 aud cany them in one&#x27;s pock&#x27;ll  
@@ -1938,7 +1738,7 @@ water ; if tho skin is destroyed, cover with
 vurnisli.  
 he  
 of  
-b
+be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn85034447:00199917262:1873020701:0034/pct:65.091463,67.055085,16.463415,22.228107/!600,600/0/default.jpg"/>
 </td>
@@ -1952,7 +1752,6 @@ b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 What to do in Gase of hesia  
 Prof. Wilder, of Cornell University, gives  
 the following short rules for action in cases  
@@ -1993,7 +1792,7 @@ and mouth projecting.
 Foir apoplexy raise the head and body;  
 for fainting, lay the person flat.  
  ea  we  
-About
+About 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_flyingsquirrel_ver02:data:sn84038125:0029455483A:1873020801:0231/pct:28.355803,41.677461,11.137163,21.427029/!600,600/0/default.jpg"/>
 </td>
@@ -2007,7 +1806,7 @@ About
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s that has ever offi«  
+ that has ever offi«  
 ciated In Lexington. We know his heart is more  
 deeply pained than any other by this untoward oo»-  
 currence. Butnoneotus cm live without pay for  
@@ -2040,7 +1839,8 @@ cases; in case of opium poisoning, give strong coffe©
 and keep moving. If in water, float on tue back,with  
 the nose and mouth projecting.  
 For apoplexy, raise the heal and body; for faint­  
-ing, lay the person flat.
+ing, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1873021601:0006/pct:82.759252,13.274907,12.165628,11.354556/!600,600/0/default.jpg"/>
 </td>
@@ -2054,7 +1854,7 @@ ing, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s a pound.  
+a pound.  
 What ro Bo in Cask or Accident.  
 Prof. Wilder of C&#x27;oiuoll Uulvorslty, gives  
 the following short rules for action in cases  
@@ -2095,7 +1895,7 @@ If in water, float on the back, with the
 month and nose projecting.  
 For apoplexy, raise tho head and body  
 for fainting lay tho person fiat.  
-I
+It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777377:1873022101:0227/pct:16.227145,30.312412,10.970464,22.136223/!600,600/0/default.jpg"/>
 </td>
@@ -2109,24 +1909,6 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- clerk, and he reached for the  
-beautiful little box with the beautiful  
-little key. &quot;Oh, it&#x27;s all right, of  
-course,&quot; he hoped in spite of his suspi  
-cions. &quot;Something has detained the  
-gentleman, but I may as well make  
-sure.&quot; He is sure now. The beautiful  
-little box with the beautiful little key  
-contained old worthless iron padlocks  
-No news of the thief. Every reader  
-will see at once how the swindle was  
-accomplished. The man had two  
-beautiful little boxes with two beauti  
-ful little keys in the innecent little  
-bag, and, of course, gave the right one  
-(that is, for him) to the clerk when  
-he left.  
-eD  
 WHAT TO DO IN CASE OF ACCIDENT.  
 Prof. Wilder, of Cornell University  
 gives the following short rules for ac  
@@ -2174,9 +1956,9 @@ head and body; for fainting, lay the
 person flat.  
 One of the most remarkable in­  
 stances of presence of mind and the  
-virtue of 
+virtue of s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1873022601:0529/pct:34.902671,49.448196,14.803078,41.640586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1873022601:0529/pct:34.993210,60.500741,14.712540,30.588042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2188,8 +1970,6 @@ virtue of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 What To Do In Oase of Accident.  
   
 Prof. Wilder, of Cornell University,  
@@ -2243,7 +2023,7 @@ nose and mouth projecting.
 For apoplexy, raise the head and body  
 for fainting, lay the person flat.  
   
-WHAT THEN
+WHAT THEN 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001753%2F1873022701%2F0033.jp2/pct:39.370655,13.301491,17.503659,81.216529/!600,600/0/default.jpg"/>
 </td>
@@ -2257,8 +2037,6 @@ WHAT THEN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 What to do in Case of Accident.  
   
 Prof. Wilder, of .Cornell University,  
@@ -2303,7 +2081,7 @@ keep moving.
 If in a water, float on the back, with  
 the nose and mouth projecting.  
 For anoDlexv. raise the head and body.  
-For fainting, lay the person flat
+For fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775496:1873022701:0043/pct:15.153097,61.655027,9.812109,17.683489/!600,600/0/default.jpg"/>
 </td>
@@ -2317,7 +2095,7 @@ For fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- oe  
+oe  
   
 I toesor wlider, of Cornell Univer­  
 sity, gives these short rules of action  
@@ -2328,7 +2106,8 @@ mit them to memory:
 For dust in the eyes, avoid rubbing,  
 dash water into them; remove cinders,  
 etc., with the round point of a pencil.  
-Remove insects from the ear by tepid
+Remove insects from the ear by tepid  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1873022801:0443/pct:44.578548,33.035465,12.322367,4.831053/!600,600/0/default.jpg"/>
 </td>
@@ -2342,7 +2121,7 @@ Remove insects from the ear by tepid
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- any pat of th wol  
+any pat of th wol  
 Fol  
 FAMILY USE.  
   
@@ -2367,7 +2146,8 @@ If in the water, float on the back, with
 the nose and mouth projecting.  
 For slight burns, dip the part in cold  
 water; if the skin is destroyed cover  
-with varnish.
+with varnish.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1873022801:0443/pct:44.208682,39.067300,51.430796,12.147445/!600,600/0/default.jpg"/>
 </td>
@@ -2381,7 +2161,6 @@ with varnish.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 What to ixj in t ask ok Ac* inxvr.  
 —l*rof. Wilder, of Cornell I&#x27;nivers.ty  
 gives these sli »rt rules for action iu c.is«­  
@@ -2423,7 +2202,7 @@ If in water, float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise the head and body :  
 for fainting, lay the person flat.  
-An
+An 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895394:1873030601:0043/pct:16.874679,39.122113,10.907847,21.334694/!600,600/0/default.jpg"/>
 </td>
@@ -2437,7 +2216,7 @@ An
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nces.  
+ces.  
 Good Utiles for Emergencies.  
 Professor Wilder, of Cornell Univer  
 sity, gives these short rules of action  
@@ -2472,7 +2251,7 @@ alkaline poisons, give acids ; white of
 an egg is good in most cases,  
 or apoplexy, raise the head and  
 body ; for fainting, lie flat.  
-If 
+If m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763803:1873030701:0392/pct:28.922138,58.709302,11.011040,16.941860/!600,600/0/default.jpg"/>
 </td>
@@ -2486,8 +2265,7 @@ If
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
- the following short rules for action  
+the following short rules for action  
   
  of accident, which will be found  
  preserve or remember:  
@@ -2530,7 +2308,7 @@ If in water, float on the lack, ni
 nose and mouth projc  
   
 For apoplexy, raise the head andb  
-fo
+for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1873030701:0442/pct:88.250939,33.426863,10.951189,18.262779/!600,600/0/default.jpg"/>
 </td>
@@ -2544,22 +2322,7 @@ fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-real values and not dearer  
-in respect of money, which ouly rep­  
-resents value. Patient Griselda, do not  
-let your patience which in right meas­  
-ure and for right purpose is a divine  
-virtue degenerate iuto meanness of  
-spirit, insipidity of mind, poverty of re­  
-sources, acquiescence in what is not in­  
-evitab&#x27;e. Life is short and its issues  
-mighty ,and there are things which ought  
-to be done slightly, and things that  
-ought not to be done at all. She is the  
-wiae woman and thrifty housekeeper who  
-accurately discriminates aod intelligent­  
-ly chooses the good part which shall not  
-be taken from her.  
+her.  
 . &quot;What to do in Ca.se of Accident  
 , Prof. Wilder of Cornell University,  
 gives the following short rules for action  
@@ -2603,9 +2366,9 @@ If in water, float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise the head and  
 body; for faiotinj lay the person flat.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1873030701:0259/pct:7.950040,38.127623,12.906423,39.154970/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1873030701:0259/pct:7.950040,47.793373,12.767645,29.489220/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2617,7 +2380,7 @@ body; for faiotinj lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nditions.  
+ditions.  
 What  
 Prof .&quot;Wilder of the Cornai University  
 gives these short rules for action in cases  
@@ -2660,7 +2423,7 @@ It in water float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise the head and  
 bo4y ; for tawtin« lay the person flat.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:0029587613A:1873030801:0258/pct:5.212483,53.571429,12.483400,20.380952/!600,600/0/default.jpg"/>
 </td>
@@ -2674,7 +2437,6 @@ bo4y ; for tawtin« lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Vo Da Id (»« af ArcGlenl.  
 I* r , of l -, Wilder, of Cornell University cives  
 t lie following short rules for action In cases of  
@@ -2690,7 +2452,7 @@ wound; if a vein is cut, compress below.
 Remove water from the ear by tepid water  
 never put a hard instrument into the ear.  
 .. £ or 8 &#x27; l * h , t b , urns - dl P th e part in cold water;  
-ir in© skin is destroyed, cover with varnhl
+ir in© skin is destroyed, cover with varnhli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_accio_ver01:data:sn84026837:0027174030A:1873031101:0266/pct:5.558206,19.946474,16.555344,7.792821/!600,600/0/default.jpg"/>
 </td>
@@ -2704,8 +2466,6 @@ ir in© skin is destroyed, cover with varnhl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 (isod Kales for Knieryenrle*.  
 Professor Wilder, of Cornell Univer­  
 sity, gives these short rules of action  
@@ -2739,7 +2499,7 @@ For acid poisons give sikslies ; for
 alkaline poisons, give acids; white of  
 an egg is good in most cases.  
 For apoplexy, raise the head and  
-body; for fainting, lie fla
+body; for fainting, lie flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028721:1873031301:0454/pct:24.335245,55.395907,9.671533,14.399421/!600,600/0/default.jpg"/>
 </td>
@@ -2753,7 +2513,7 @@ body; for fainting, lie fla
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 WHAT TO DO In CASE OF An accI­  
 DENT.  
 Professor Wilder, of Cornell Univer­  
@@ -2800,7 +2560,7 @@ body; for fainting, lay the person flat.
 Ox YOKES AND ONEN.  
 It is only now and then you meet  
 with a man capable of making a good  
-axe handle, and the same rule hold
+axe handle, and the same rule holds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101027:1873031501:0726/pct:8.046683,7.890639,14.864865,30.437792/!600,600/0/default.jpg"/>
 </td>
@@ -2814,8 +2574,6 @@ axe handle, and the same rule hold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 What to do in Case of Acoident.  
 Prof. Wilder, of Cornell Universi­  
 ty. g»v es the following short rubs  
@@ -2861,7 +2619,8 @@ If in the water, float on the back
 with the nose and mouth pr jecting  
 For apoplexy, raise the head and  
 body; for fainting lay the p&lt; rsun  
-flat.
+flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1873031801:0657/pct:17.116267,5.569436,10.830861,23.516552/!600,600/0/default.jpg"/>
 </td>
@@ -2875,25 +2634,6 @@ flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, ! . j hi &#x27;l - ,3-L -i i J M - &#x27;  
-Or where muffled pageants march,  
-Through the spirea and chiming pile,  
-To the chancel-rail of its oriel arch,  
-Up the organ-flooded aisle  
-i.Nt-trtM-ol i &#x27; f.i  
-Fnr. vr&amp;nd as the ministers be.  
-xnev couia never noiu. tui iu aiiftu&quot;,y i  
-&#x27; m m i 1 I - 1 I -  
-nuoui  
-ff 1 a rriAtf anil Af T .w t  
-I .. 54 ; i &#x27; v  
-Where khall their dust be laid?  
-Iu the urn of the Human Heart,  
-Where its purest dreams are first displayed  
--And its passionate longings start :  
-Yes yes yes I  
-By Memory&#x27;s pictured wave,  
-Is a living shrine for the dead we love,  
 In the land they died to save !  
 .&#x27; - &#x27;  
 What to Do in Case of Accident.  
@@ -2925,9 +2665,9 @@ water will often enread burniner oil. and
 j increase the ganger. Before .passing  
   
 tnroosn smoKe. take a iuu Dreata ana  
-then fttoon low hnt if 
+then fttoon low hnt if r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs62n_ver01%2Fdata%2F1873031901%2F0278.jp2/pct:7.033426,21.907692,13.802228,21.333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs62n_ver01%2Fdata%2F1873031901%2F0278.jp2/pct:7.033426,28.369231,13.802228,14.871795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2939,7 +2679,6 @@ then fttoon low hnt if
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e  
 What to Do in Case of ateldent.  
 Prof. Wilder of the Cornal Univer.  
 sity gives these short rules fot action in  
@@ -2982,7 +2721,7 @@ and keep moving.
 If in water, float on the back, with  
 the nose and month preeethuc  
 For appoplexy, raise the head and  
-body; for fainting, lay the por
+body; for fainting, lay the pors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:0023728835A:1873031901:0318/pct:3.177794,64.867929,12.950467,25.862525/!600,600/0/default.jpg"/>
 </td>
@@ -2996,7 +2735,7 @@ body; for fainting, lay the por
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- cage.  
+cage.  
 Goon Iti i.Es for Emergencies.—Pro­  
 fessor Wilder, of Cornell University,  
 gives these short rules of action in case  
@@ -3036,7 +2775,7 @@ the nose aud mouth projecting.
 For slight burns, dip the part in cold  
 water; if the skin is destroyed cover  
 with varnish.  
-Bank Motion.—John Ran
+Bank Motion.—John Rand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895394:1873032701:0052/pct:85.672160,51.450124,11.101474,19.014176/!600,600/0/default.jpg"/>
 </td>
@@ -3050,7 +2789,7 @@ Bank Motion.—John Ran
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Times.  
+Times.  
   
 What to do is Case of Accident.—  
 I’rof. Wildor, of Cornell University,  
@@ -3095,7 +2834,7 @@ If in water, float on the back, with
 the nose and mouth projecting.  
 For apoplexy, raise the head and  
 body; for fainting, lay the person flat.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:0051701607A:1873032901:0054/pct:14.888674,32.204745,12.971926,24.673420/!600,600/0/default.jpg"/>
 </td>
@@ -3109,7 +2848,7 @@ body; for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--payment.  
+payment.  
 Good Rules for Emergencies  
 Professor Wilder, of Cornell Univer.  
 sity, gives these short rules of action  
@@ -3149,7 +2888,7 @@ with the nose and mouth projecting.
 For slight burns, dip the part in  
 cold water; if the skin is destroyed  
 cover with vanisl.  
-DeviCE FOR MEASURING LAN
+DeviCE FOR MEASURING LAND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1873040201:0360/pct:3.269036,58.807510,11.736041,21.742869/!600,600/0/default.jpg"/>
 </td>
@@ -3163,8 +2902,6 @@ DeviCE FOR MEASURING LAN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Good Rules for Emergencies.—Prof.  
 Wilder, of Corail University, gives these  
 sho rt rules of action ia cases of accident.  
@@ -3199,7 +2936,7 @@ If in the water, float on the back, with
 the nose and mouth projecting.  
 For slight hums, dip the part in cold wa­  
 ter ; if the skm is destroyed cover with var­  
-uish.
+uish. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1873040401:0058/pct:85.744611,12.876535,11.626388,18.267615/!600,600/0/default.jpg"/>
 </td>
@@ -3213,7 +2950,6 @@ uish.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 WinaT To no IN CAsE Or ACCIiENT.-­  
 Prof. Wilder, of the (&#x27;ornal University,  
 gives these short rules for action in cases  
@@ -3240,7 +2976,7 @@ is sre; enlarge thie wined, or better, cut G
 unt thie part without delay; hold the Bn  
 wounil-d part as long ascanu be borne to a  
 bhmr cm-a; or end of a cigar.  
-Fom ..&#x27;dI poisons, giv
+Fom ..&#x27;dI poisons, give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762015:1873040601:0596/pct:50.586365,74.002616,16.716359,15.483976/!600,600/0/default.jpg"/>
 </td>
@@ -3254,8 +2990,6 @@ Fom ..&#x27;dI poisons, giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 ■\Vliiit to Do in Case of Accident*  
   
 Fro/. Wilder, of Oornoll Unlvorntty. says  
@@ -3292,7 +3026,8 @@ coffee, and keep moving.
 If in water; tfdal oh the back, with the nose  
 and mouth projecting. - •  
 For apoplexy, raiso tho head and body; for  
-fainting, lay the person flat.
+fainting, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873040901:0003/pct:69.400187,12.404232,13.027179,14.775629/!600,600/0/default.jpg"/>
 </td>
@@ -3306,7 +3041,6 @@ fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 arian conquerors.  
 What to Do In Case of Accident.  
 Professor Wilper, of Cornell Uni-  
@@ -3343,7 +3077,8 @@ fee and keep moving.
 Jr in the water, iioat on mo duck, wun  
 the nose and mouth projecting.  
 For anonlexv. raise the r cad anu body ;  
-for fainting, lay tho person flat.
+for fainting, lay tho person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873041001:0052/pct:80.366300,71.314412,12.545788,17.580601/!600,600/0/default.jpg"/>
 </td>
@@ -3357,7 +3092,7 @@ for fainting, lay tho person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the harp.- ExchaNgE.  
+of the harp.- ExchaNgE.  
 What to Do in Case of Accident.  
 Proressor Wilder, of Cornell Uni­  
 versity, gives these short rules for action  
@@ -3394,7 +3129,7 @@ If in the water, hoat on the buen, witit
 the nose and mouth projecting.  
 For apoplexy, raise the read and bodyi  
 for fainting, lay the person flat.  
-A nook
+A nook 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1873041101:0481/pct:81.568900,53.677959,10.916348,16.722905/!600,600/0/default.jpg"/>
 </td>
@@ -3408,7 +3143,7 @@ A nook
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-in the eyes, Vftvoid mbhiA,  
+n the eyes, Vftvoid mbhiA,  
 I dash water into them. remove cinders, etc., • „  
 with the round point of a Wail |«encfl  
 Keinove inserts from the ear hr tepid ^  
@@ -3439,7 +3174,8 @@ keep mo \ mg
 If m the water, tWt on the back, #with  
 , the iiose and month projecting.  
 h r apoplex v. raise the head and bml^,  
-I for famting, lay the person Hat.
+I for famting, lay the person Hat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873041201:0333/pct:84.277138,62.724286,12.396560,14.265858/!600,600/0/default.jpg"/>
 </td>
@@ -3453,7 +3189,7 @@ I for famting, lay the person Hat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a* might  
+a* might  
 be desired.  
 Mr.  
   
@@ -3505,7 +3241,7 @@ If in water, float on the hack, with
 the none and mouth projectiug.  
 —For apoplex y-raise the head ami  
 body ; for fainting, lay the person, flat.  
--
+- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jadeite_ver01:data:sn82014368:00542869884:1873041701:0013/pct:14.742835,74.433377,11.739301,21.221308/!600,600/0/default.jpg"/>
 </td>
@@ -3519,23 +3255,6 @@ body ; for fainting, lay the person, flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-made any effort to turn him from his  
-purpose; she seems to have had as  
-stron, beliet in the sincerity of his­  
-convictions of duty as she had it her  
-own. A cordingly the reverned gene­  
-tleman went up to London and remaine­  
-ed a vear leaving several children and  
-the care of the pa ish and parsonage  
-the care a dy the end of that time  
-William of Orange died, and the lady  
-could respond with hearty &quot;Amen to  
-prvers for Caeen Anne, the husband  
-wite were reunited. Among the  
-nineteen chil iren of the beautiful,  
-rong minded loyalst and the ie­  
-ble, senolarly revolutionist, were John  
-and Charles Wesley.  
 e  
 what to do in Case of Accident.  
 Prof Wilder, of Cornell University,  
@@ -3554,9 +3273,9 @@ beiota ched saton sutoamasd coure.
 For slight burns, dip the part  
  For shght barns. hp iteetered  
 cover with varnish.  
-Smother a fire with carpet
+Smother a fire with carpets
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873041701:0365/pct:14.239147,65.044134,12.712995,21.748526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873041701:0365/pct:14.239147,74.240926,12.708056,12.551734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3568,9 +3287,6 @@ Smother a fire with carpet
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and  
-throngh srlows bat iferrbonenedres  
-mouth is sore cularge the wonnd   
 be borne to a hot coal or end of a  
 cigar ase of molsoning escite romifing  
 by tickling the throat, or by  
@@ -3583,11 +3299,21 @@ keep moving. o with
 I in water, float on the back,  
 the nose and mouth projecting.  
   
-Reviaion of the nibl
+Reviaion of the nible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873041701:0365/pct:14.160122,2.182910,23.791179,95.575578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873041701:0365/pct:14.817010,2.182910,23.134291,95.575578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [What to do in Case of Accident](http://search.proquest.com/docview/137274217/fulltext/)
+
+#### From _Ohio Farmer (1856-1906)_
+
+#### 1873-04-19 &middot; [Cleveland](http://dbpedia.org/resource/Cleveland)
+
+[This text is not available under an open license.]
 
 ---
 
@@ -3607,7 +3333,7 @@ Reviaion of the nibl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e herd.  
+herd.  
   
 What to do.lin Case of Accident-  
   
@@ -3664,7 +3390,8 @@ If in water, float on the back,
 with the nose and mouth projecting.  
 For apoplexy, raise the hand and  
 bodv for fainting, lay the person  
-flat.&#x27;
+flat.&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1873042501:0065/pct:32.198415,44.785974,10.140886,23.565574/!600,600/0/default.jpg"/>
 </td>
@@ -3678,8 +3405,6 @@ flat.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 What to Do in Cask of Accident, j  
 Prof. Wilder, of Cornell University, says i  
 Moore&#x27;s Rural Xcw Yorker, gives tho ;  
@@ -3722,7 +3447,7 @@ If in water, float on the back, with tho
 pose and mouth projecting.  
 For apoplexy, mise the head and body;  
 for fainting, lay the person flat.  
-Wash fob th
+Wash fob the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:0027955730A:1873042601:0773/pct:6.216367,10.595412,12.432733,24.439729/!600,600/0/default.jpg"/>
 </td>
@@ -3736,7 +3461,6 @@ Wash fob th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-*  
 What to Do in Case of Accident.—Prof.  
 W ildor, ot Cornell L’niveriity, says Minin&#x27; s  
 Rural Nnr- Yorlcrr,gives the following short  
@@ -3775,7 +3499,7 @@ If in water, float on the hack, with the
 nose and mouth projecting.  
 For Apoplexy, raise the head and body;  
 for fainting, lay ibe person flat.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557840:1873042601:0071/pct:7.096154,32.012935,14.846154,21.678793/!600,600/0/default.jpg"/>
 </td>
@@ -3789,7 +3513,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- victims.  
+victims.  
 iaai  
 Waal to da la Case af Accident.  
 Prof. Wilder, i-f Cornell University, sajsAfoore&#x27;s  
@@ -3825,7 +3549,7 @@ If in water, float on tbe back, with the nose
 and month projecting.  
 For apoplexy, raise the head and body; for  
 fainting, lay the person flat.  
-Cister
+Cistern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:0029455564A:1873050101:0649/pct:43.944888,28.073654,12.418419,15.439093/!600,600/0/default.jpg"/>
 </td>
@@ -3839,7 +3563,7 @@ Cister
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- or what  
+or what  
 can be learned from the study of the expression of the face,  
 aad its general movements, are interesting and important  
 tupics tothe careful and conscientious mother, who desires  
@@ -3887,7 +3611,8 @@ ing, give strong coffee, and keep moving. If in water, float
 on the back, with the nose and meuth projecting.  
   
 For apoplexy, raise the head and body; for fainting, lay  
-the person flat,
+the person flat,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_peterson-magazine_1873-05_63_5%2Fsim_peterson-magazine_1873-05_63_5_jp2.zip%2Fsim_peterson-magazine_1873-05_63_5_jp2%2Fsim_peterson-magazine_1873-05_63_5_0070.jp2/pct:6.530214,25.377468,38.401559,40.737515/,600/0/default.jpg"/>
 </td>
@@ -3901,7 +3626,6 @@ the person flat,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;What to do in Case of Accident.  
 Prof. Wilder, of Cornell unirer-ity. &#x27;  
 savs Moon&#x27;s llnral Scic Yorker. gives  
@@ -3941,7 +3665,7 @@ the nose and mouth projecting.
 For apoplexy, raie tlie head and  
 body: for tainting, lay tlie pcr-on lhit.  
 For acid jioison-. gie alkalie-; for  
-alkaline poison-, give arid
+alkaline poison-, give arids
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1873050801:0226/pct:48.935213,72.775882,10.737852,17.201365/!600,600/0/default.jpg"/>
 </td>
@@ -3955,7 +3679,6 @@ alkaline poison-, give arid
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i  
 What to Do in Can of Accident.  
 The following brief rules for action in  
 cases of accident should be impressed upon  
@@ -3997,7 +3720,7 @@ For apoplexy, raise the head and body ; for
 fainting lay the person flat  
   
 From the Daily Herald of May 3.  
-Poets and
+Poets and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_harrier_ver01:data:sn84036143:00295861277:1873050801:0162/pct:26.729061,7.631048,29.378173,88.790323/!600,600/0/default.jpg"/>
 </td>
@@ -4011,7 +3734,6 @@ Poets and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 What to Do in Ca9e of Accident.  
 Prof. Wilder, of Cornell University, gives  
 the following short rules (or action in case  
@@ -4044,6 +3766,7 @@ it iu water, float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise the head aud hod) ;  
 for fainting, lay the person flat.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1873051501:0291/pct:14.026541,27.448343,11.254829,13.033378/!600,600/0/default.jpg"/>
@@ -4058,7 +3781,6 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 lYIutt to ! in 4&#x27;iie of Arrident.  
   
 Prof. Wilder, of Cornell University,  
@@ -4103,7 +3825,8 @@ keep moving. &#x27; -
 If in water, float on the back, with the  
 nose and mouth projecting.  
 For apoplexy, raise the head and body ;  
-for fainting lay the person flat. j
+for fainting lay the person flat. j  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1873051501:0178/pct:4.862637,75.949775,11.785714,20.004293/!600,600/0/default.jpg"/>
 </td>
@@ -4117,7 +3840,6 @@ for fainting lay the person flat. j
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 What to do in Cask op Accident.  
 Prof Wilder of Cornell University,  
 gives the following short rules for action  
@@ -4161,7 +3883,7 @@ If in water, float on the back, with
 the nosj and ruouib projecting.  
 For apoplexy, isjse tbe bead and body ;  
 for fainting, lay tbe person flat.  
-
+O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1873051601:0299/pct:8.717236,45.474421,12.470214,24.121848/!600,600/0/default.jpg"/>
 </td>
@@ -4185,20 +3907,7 @@ for fainting, lay tbe person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e of 990 years  
-leases. TThe theory does not precisely accord  
-with the idea that we are to be destroyed by  
-heat, unless that be interpreted in the negative  
-sense of destroying us by leaving us, and the  
-present condition of the Atlantic Ocean, or even  
-nearer home, of Connecticut river, does not  
-seem to imply imminent danger of a lack of  
-water. Still with such a prospect, even in the  
-remote future, men can laugh at the raging  
-waters-especially since many of them forstal­  
-ling the disappearance, have already adopted  
-a substitute for it is an article of consumption  
-and daily,need.-Hartford Cowrant.  
+ant.  
 What to Do in Case of Accident.  
 Prof. Wilder, of Cornell University, gives the  
 following short rules for action in cases of accl­  
@@ -4233,9 +3942,9 @@ If in water, float on the back, with the nose
 and mouth projecting.  
 For apoplexy, raise the head and body; for  
 fainting, lay the person flat.  
-HA
+HA 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654395:1873051701:0582/pct:42.991329,52.054250,14.150441,20.054477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654395:1873051701:0582/pct:42.991329,57.076382,13.926072,15.032346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4247,7 +3956,6 @@ HA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Wiat to Jo in Case of Accident.  
 The following brief rules for ac­  
 tion in eases of accident should  
@@ -4297,7 +4005,7 @@ ing.
 lor apoplexy, raise the head  
 and body ; for faint ng iay the per­  
 son flat.  
-
+w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn84022044:00279554838:1873051701:0502/pct:11.267916,7.290597,15.192944,27.871498/!600,600/0/default.jpg"/>
 </td>
@@ -4311,13 +4019,13 @@ son flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, have year break,  
+have year break,  
 , (sat first.”  
 r  
 &#x27; For acid poisons give alkalies; for al­  
 kaline poison, give acids; white of an e£g  
 is good in most eases.  
-
+1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1873052201:0615/pct:76.460153,86.315458,11.885917,3.830412/!600,600/0/default.jpg"/>
 </td>
@@ -4331,8 +4039,6 @@ is good in most eases.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 iu case of accident : For dust in the  
   
 ves, avoid rubbing ; dash water in  
@@ -4364,7 +4070,7 @@ Suck poisoned wounds, unless your
   
 mouth is sore ; enlarge tne wound, or,  
   
-better, cut out the part without dela
+better, cut out the part without delay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873052201:0076/pct:68.990385,62.300588,12.444527,9.823678/!600,600/0/default.jpg"/>
 </td>
@@ -4378,7 +4084,7 @@ better, cut out the part without dela
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ing there she fell in love wun a son oi  
+ing there she fell in love wun a son oi  
   
 warm water and mustard. For acid her landlady, a handsome youth, t  
 n,li . f,. ll.-nl,-,. I twontv venva nf nre. The -VOUllg  
@@ -4394,7 +4100,8 @@ with the nose and mouth projecting.
   
 For apoplexy raise the head and body ;  
   
-for fainting lay the person flat.
+for fainting lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873052201:0076/pct:69.212278,73.579625,25.240385,4.953820/!600,600/0/default.jpg"/>
 </td>
@@ -4408,8 +4115,6 @@ for fainting lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 the following short rules for action in cases  
 of accident, which will be found useful to re-­  
 member:  
@@ -4446,7 +4151,7 @@ If in water, float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise the head and body,  
 for fainting, lay the person flat.  
-DraEcIaroRy PANEovRi
+DraEcIaroRy PANEovRic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742046:1873052401:0512/pct:2.448262,46.014063,13.923080,17.681795/!600,600/0/default.jpg"/>
 </td>
@@ -4460,15 +4165,7 @@ DraEcIaroRy PANEovRi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- -i .  
-ffirS  
-watr;if the BiiTiHt&#x27;oyed; cover with vaf  
-&#x27;111 , nillf A U mj UA ti mmm m-mmm-r . Vflh W mmm mW T  
-nish. -  
-cm m r ? 1 &quot;l &#x27; . -ni-m, tii 1 1  
-often spread burning oil and increase the dan­  
-ger. Before passingj through smoke take a  
-emoiner a nre wiiii&#x27;irpcu, ciu. , yiow &quot;  
+, yiow &quot;  
 long breath, and the stoop low; dui ii car  
 bolic acid gs is suspected, walk erect.  
 Suck poisoned wounds unless your moutn  
@@ -4486,9 +4183,9 @@ give strong coffee, and keep moving, .
 If in water, float on the back, with the nose  
 and mouth projecting,  
 For apoplexy, raise tne neaa ana Doay;ior  
-tainting, lay the person flat
+tainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FayEag1n_ver01%2Fdata%2F1873052701%2F0219.jp2/pct:42.289582,48.484219,16.774573,13.060631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FayEag1n_ver01%2Fdata%2F1873052701%2F0219.jp2/pct:42.333726,50.685216,16.509712,10.859635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4500,22 +4197,6 @@ tainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d forming into dense banks of cloud,  
-which hang like a funeral pall over  
-the dying earth. But soon the sun  
-scorches up these vapor banks anc,  
-dissipates them into space as fast as  
-they can be formed by evaporation.—  
-Then the fiery orb shines out in unut­  
-■ terable splendor without the lightest  
-cloud-wreath to interpose between  
-himself and his victims. Then, truly,  
-the heavens become as iron and the  
-earth as brass. Then the last denizens  
-of the world are stricken down and  
-consumed, the last traces of organic  
-life are blotted from its surface.—“ The  
-Romance of Astronomy,” by R. Rdlley  
 Miller. ■   
 What to Do in Case of Accident  
 Prof. Wilder, of Cornell University,  
@@ -4560,9 +4241,9 @@ the noose and mouth projecting..
 For apoplexy, raise the head and  
 body; for fainting, lay the person flat.  
 m   
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1873052901:0256/pct:67.310811,30.158566,12.283784,33.734066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1873052901:0256/pct:67.459459,38.874495,12.121622,25.018137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4574,7 +4255,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 Good Rules foe Emergencies. Pro  
 feasor Wilder, of Cornell University  
 gives these short rules of action in case  
@@ -4612,7 +4292,7 @@ the nose and mouth projecting.
 For slight burns, dip the part in cold  
 water ; if the skin is destroyed cover with  
 varnish.  
-Bee
+Bees
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SHomeChar2n_ver01%2Fdata%2F1873060201%2F0088.jp2/pct:23.126801,55.498035,14.654179,19.585850/!600,600/0/default.jpg"/>
 </td>
@@ -4626,7 +4306,7 @@ Bee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ntre, wherein the tail  
+tre, wherein the tail  
 was to be put and tied in a knot so that  
 the animal could not withdraw it  
 What to do ur ; Cask of Accident.  
@@ -4669,7 +4349,7 @@ y It in water, noat on tne back, with the
 nose and mouth Droiectine. A &#x27;.&#x27;  
 For apoplexyj Taiee the bead and body ;  
 tor fainting, lay the person flat  
-Ci.&#x27; ---
+Ci.&#x27; ---.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekSenR3n_ver01%2Fdata%2F1873060301%2F0139.jp2/pct:69.957746,52.192346,10.619718,20.216445/!600,600/0/default.jpg"/>
 </td>
@@ -4683,7 +4363,6 @@ Ci.&#x27; ---
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 What to Do in Case of Acci­  
 i. &#x27; dent. ,  
 Professor Wilder, of Cornell Uni-  
@@ -4732,7 +4411,7 @@ i If in water, float on the back, with
 the nose and mouth projecting.  
 For apoplexy, raise the head and  
 bodj j for -.fainting, lay the person  
-flat ; .
+flat ; . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1873060401%2F0302.jp2/pct:4.512448,68.800823,11.657158,25.136387/!600,600/0/default.jpg"/>
 </td>
@@ -4746,7 +4425,7 @@ flat ; .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-earnest.  
+arnest.  
 Useful Hints Prof. Wilder of Cornell  
 University gives the following shore rules for  
 action in cases of accident, which will be  
@@ -4782,7 +4461,7 @@ strong conee, and keep moving.
 IF in water llat on the back, with the  
 nose and mouth projecting.  
 For apoplexy, raise the hea l and body ;  
-for fainting, lay the person flit
+for fainting, lay the person flit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1873060401:0093/pct:28.520525,48.120301,11.060433,16.718266/!600,600/0/default.jpg"/>
 </td>
@@ -4796,8 +4475,6 @@ for fainting, lay the person flit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 What to bo in Case of Accident.  
   
   
@@ -4857,6 +4534,7 @@ If in water, float on the bach, with
 the nose and mouth projecting.  
 For apoplexy raise the head and  
 body; for fainting lay the person flat.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1873060501:0009/pct:59.095463,64.254144,9.331616,16.883978/!600,600/0/default.jpg"/>
@@ -4871,7 +4549,7 @@ body; for fainting lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-en heated to 212 degrees  
+n heated to 212 degrees  
 aud hydraul.c pressure applied to compress  
 the top down upon the other, thus by beat  
 and pressure consolidate the material to  
@@ -4913,7 +4591,7 @@ If in water, float on the back, with the nose
 and mouth projecting  
 For apoplexy, -aise the head and body; for  
 fainting, lay the person flat.  
-Coinage Map
+Coinage Map.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525358:1873061001:0115/pct:85.229904,27.394129,11.131326,17.312320/!600,600/0/default.jpg"/>
 </td>
@@ -4927,8 +4605,6 @@ Coinage Map
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 in cases of accident, which will be found  
 usefal to remember :  
 For dust in the eyes, avoid rubbing;  
@@ -4942,7 +4618,8 @@ wound ; if a vein is cut, compreas below.
 If choked,;get op. all fours and cough.  
 For slight burns, dip the par; in cold  
 water; if the skiu rs destroyed, cover with  
-varnish.
+varnish.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:68.183031,46.488089,12.526681,7.402106/!600,600/0/default.jpg"/>
 </td>
@@ -4956,7 +4633,7 @@ varnish.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the danger. -Hefore passing through tne time ox sUrUng.  
+the danger. -Hefore passing through tne time ox sUrUng.  
   
 smoke take a long breath, and then stoop  
 low ; but if carbolic acid is suspected,  
@@ -4965,7 +4642,8 @@ Suck poisoned wounds unless your
 mouth is sore. Enlarge the wound ; or,  
 better, cut out the part without delay;  
 hold the wounded part as long as can be  
-borne to a hot coal or end of a cigar.
+borne to a hot coal or end of a cigar.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:68.356457,55.178407,18.916756,4.702996/!600,600/0/default.jpg"/>
 </td>
@@ -4979,8 +4657,6 @@ borne to a hot coal or end of a cigar.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I case of poisoning, excite vomitting  
 by tickling the throat, or by warm water  
   
@@ -4994,7 +4670,7 @@ in most cases. In a case ot opium poison
 ing, give strong coffee, and keep moving.  
 If in water, float on the back, with the  
   
-THE WOMA
+THE WOMAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1873061201%2F0093.jp2/pct:56.803629,59.963194,24.159552,7.688375/!600,600/0/default.jpg"/>
 </td>
@@ -5008,7 +4684,7 @@ THE WOMA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- U uyers­  
+U uyers­  
 ty, gives the loi&#x27;ow&#x27;pg s&#x27;rort rules fr  
 action in cases of accidnf, which will  
 be found useful to renv.mber :  
@@ -5041,7 +4717,7 @@ better., cut the part . without delay;
 hold the wounded! part as long as can  
 be borne to a Lot coal or end of a  
   
-your face and it will make smils o
+your face and it will make smils on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou1n_ver01%2Fdata%2F1873061301%2F0120.jp2/pct:30.008418,43.563946,38.973064,29.768696/!600,600/0/default.jpg"/>
 </td>
@@ -5055,8 +4731,6 @@ your face and it will make smils o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 cigar.  
   
 1  
@@ -5078,7 +4752,7 @@ the noge and mouth pr jectirg.
 For apoplexv, raise the head .md  
 body for iaieting, lay the ptrson flit.  
   
-o
+or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou1n_ver01%2Fdata%2F1873061301%2F0120.jp2/pct:30.836139,72.793279,14.127385,8.826885/!600,600/0/default.jpg"/>
 </td>
@@ -5092,7 +4766,7 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of  
+of  
 Cornell university gives the following  
 short rules for action in &quot; cases of acci  
 dent, which will be found nsefnl f  
@@ -5135,7 +4809,7 @@ the nose and mouth projecting.
 l or apoplexy, raise the head and  
 body ; for fainting, lay the person flat  
 The Co-Operative Movement.  
-But it i
+But it is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873061301:0738/pct:15.732759,8.652045,11.314655,24.545354/!600,600/0/default.jpg"/>
 </td>
@@ -5149,7 +4823,7 @@ But it i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gives  
+gives  
 tne following short rules lor action in cases  
 of accident, which will be found useful to  
 remember :  
@@ -5186,7 +4860,7 @@ kaline poisons give acids white of egg is
 good in most cases ; in a case of opium  
 poisoning give strong coffee, and keep  
 moving.  
-DxroRru i
+DxroRru in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873061301:0519/pct:63.951841,43.038631,9.879603,14.285714/!600,600/0/default.jpg"/>
 </td>
@@ -5220,7 +4894,7 @@ DxroRru i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, gives the following short rules  
+gives the following short rules  
 for aotion in caseB of accident, which  
 will be found useful to remember  
   
@@ -5270,7 +4944,7 @@ the nose and mouth projecting.
 For apoplexy raise the head and  
 body for faluting, lay the person flat.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1873061901:0335/pct:66.792853,45.124800,10.054512,18.935202/!600,600/0/default.jpg"/>
 </td>
@@ -5284,7 +4958,6 @@ body for faluting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 below.  
 If choked, get on all fours and cougb.  
 For slight burns, dip in cold water;  
@@ -5312,7 +4985,7 @@ keep moving.
 If in water, float on tho Buck, with  
 the noso and mouth projecting.  
 For apoplexy, raise tho head and  
-body; for fainting, lay the persAi flat
+body; for fainting, lay the persAi flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873061901:0561/pct:21.578100,12.802276,12.318841,16.586060/!600,600/0/default.jpg"/>
 </td>
@@ -5326,7 +4999,6 @@ body; for fainting, lay the persAi flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 If choked, get on all fours and cough.  
 For slight burns, dip in cold water ;  
 if the skin is destroyed, cover with  
@@ -5353,7 +5025,7 @@ keep moving.
 If in water, float on the bock, with  
 tho nose and mouth projecting.  
 For apoplexy, raise the head and  
-l)ody ; for fainting, lay the person flat
+l)ody ; for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873061901:0106/pct:15.435502,8.465851,10.143330,13.511040/!600,600/0/default.jpg"/>
 </td>
@@ -5367,8 +5039,6 @@ l)ody ; for fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 What to Do ia Case of Accidents.  
 Prof. Wilder of Cornell nniversitv,  
   
@@ -5400,7 +5070,7 @@ moving. 3pif in water, float on the back,
 with the nose and mouth projecting.  
 For apoplexy, raise the head and body ;  
 for fainting, lay the person flat.  
-Chicke
+Chicken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873062001:0742/pct:50.701187,5.695364,11.151564,17.494481/!600,600/0/default.jpg"/>
 </td>
@@ -5414,7 +5084,6 @@ Chicke
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 What to Do in Case of Accidents.  
 Prof. Wilder of Cornell university.  
 gives the following short rules iu case  
@@ -5445,7 +5114,7 @@ moving. If iu water, tlout ou thu buck,
 with thu nose and mouth projecting.  
 For apoplexy, raise the head aud body ;  
 for fainting, lay tho person flat.  
-Tli
+Tlia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873062601:0562/pct:79.099678,73.758568,12.942122,18.478109/!600,600/0/default.jpg"/>
 </td>
@@ -5459,8 +5128,6 @@ Tli
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &quot;What to Do in Case oi&quot; Accidents.  
 Prof. Wilder of Cornell university,  
 gives the following short rules in case  
@@ -5494,7 +5161,7 @@ For apoplexy, raise the head aud body ;
   
 for fainting, lay the person flat.  
   
-- Thzbe is 
+- Thzbe is -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873062601:0110/pct:57.055131,4.852924,13.591703,15.348518/!600,600/0/default.jpg"/>
 </td>
@@ -5508,24 +5175,6 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lesticks; uses the frying pan from.  
-day to day without washing; sube  
-stitutes her apron, or dress for at  
-holder, or dish-towel; mixed upion  
-pancakes with her fingers artertant  
-combing her hair; and pounds   
-beefsteaks on a table where she has a  
-hoon cooumin nutuolof Jndi f uitt boog  
-been seoulins khlves.Lash aa sotaiqoto  
-The only guard against starva  
-tion, if you must submit to such a  
-state of things, is never to go near ons  
-the kitchen. Even then there is&quot;&quot;  
-danger of being poisoned, or of dy-  
-ing from eating your &quot;peck of dirt&quot; to  
-in too much of a hurry.Eim  
-Orlou, arluititoms le niatun od! of  
-  
 What to do in Case of Accident.  
   
 Prof Wilder, of Cornell Unis  
@@ -5582,9 +5231,9 @@ and body; for fainting lay th
 person flat, r 1a, teibls  
   
 A round lady at school engaged ell,  
-in the study o
+in the study of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873070201:0965/pct:84.934652,40.401843,12.380784,48.988994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873070201:0965/pct:84.934652,51.676478,12.380784,37.714359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5596,7 +5245,6 @@ in the study o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 Fordustin the eyes, avoid rubbing,  
 dash water into them; remove cinders;  
 etc., with the round point of a led  
@@ -5637,7 +5285,7 @@ If in water^float on the back, with
 nose and mouth projecting.  
 For apoplexy, ruioy the head and  
 body fainting, lay the person flat.  
-no
+non
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1873070301:0717/pct:7.356727,8.394237,10.987671,20.933389/!600,600/0/default.jpg"/>
 </td>
@@ -5651,8 +5299,6 @@ no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 RULES TO REMEMBER,  
   
 If one only knows what to do in emergencies, he  
@@ -5691,7 +5337,8 @@ For apoplexy, raise the head and body; for faint-
 ing, lie flat.  
   
 If in the water, float on the back, with the nose and  
-mouth projecting.
+mouth projecting.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1873-07-03_46_27%2Fsim_youths-companion_1873-07-03_46_27_jp2.zip%2Fsim_youths-companion_1873-07-03_46_27_jp2%2Fsim_youths-companion_1873-07-03_46_27_0004.jp2/pct:28.456858,68.825529,21.017699,16.049849/,600/0/default.jpg"/>
 </td>
@@ -5705,7 +5352,6 @@ mouth projecting.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 among swine.  
 Useful Hints. Prof. Wilder of  
 Cornell University gives the following  
@@ -5751,7 +5397,7 @@ If in water, float on the back, with
 the nose and mouth projecting. .  
 For apoplexy, raise the head and  
 body; for fainting, lay the person flat  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873070501:0319/pct:15.337602,66.760247,9.837020,21.482313/!600,600/0/default.jpg"/>
 </td>
@@ -5765,8 +5411,6 @@ body; for fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 WhAr to Do is Case or AccInent  
 Prof Wilder, of Cornell University,  
 gives the following short rules for acs  
@@ -5791,7 +5435,7 @@ previously.
   
 old water;If  
   
-th
+the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1873071701:0645/pct:66.343739,60.379389,24.542519,10.561012/!600,600/0/default.jpg"/>
 </td>
@@ -5805,8 +5449,6 @@ th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ting by tickling the throat, or by  
 warm water and mustard.  
 For acid poisons, give alkalies; for  
@@ -5817,7 +5459,7 @@ of opium poisoning, give strong coffee
 and keep moving.  
 If in the water float on the back,  
 with the nose and mouth projecting.  
-or apoplexy, raise the hea
+or apoplexy, raise the head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1873071701:0645/pct:78.668820,74.209606,12.486545,5.690838/!600,600/0/default.jpg"/>
 </td>
@@ -5831,8 +5473,6 @@ or apoplexy, raise the hea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 What to Do in Case of Aooidmt.  
   
 Professor Wilder, of Cornell JJui­  
@@ -5888,7 +5528,7 @@ the nose aud mouth projecting.
 For apoplexy, raise the head and  
 body for fainting, lay the person flat  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1873073101:0329/pct:38.180404,53.766148,11.290824,22.969126/!600,600/0/default.jpg"/>
 </td>
@@ -5902,7 +5542,7 @@ body for fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of Cornell  
+of Cornell  
 University, gives tho following  
 bhort rules for action in cases  
 of accidents, which will be found  
@@ -5941,7 +5581,7 @@ vomiting by tickling the throat
 or by warm water and mustard.  
 For apoplexy, raise the head  
 and body; for fainting, lay the  
-ncrso
+ncrson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1873073101:0111/pct:6.222885,64.144987,10.791757,24.469359/!600,600/0/default.jpg"/>
 </td>
@@ -5955,13 +5595,13 @@ ncrso
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-en heated to ui; degrees and  
+n heated to ui; degrees and  
 hydra a lie pressure applied to compress tue  
 top down up8li th- other, thus bv heat an i  
 pressure consolidating ti c material ta the  
 requisite density and hardness.  
 Flirtation at tape .May.  
-The D
+The Dc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_growlithe_ver01:data:sn83016555:00295875549:1873081001:0429/pct:45.208628,85.004869,12.712164,3.298442/!600,600/0/default.jpg"/>
 </td>
@@ -5975,7 +5615,7 @@ The D
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. For acid  
+For acid  
 poisons, give alkalis; for alkaline poi­  
 sons, give acida white of fgg is good  
 in most cases; in a case of opium poi  
@@ -5992,7 +5632,7 @@ tho pulpit; the other, wholly to the
 school room.  
 To preach the gospel is to explain  
 the meaning of the doctrines of the  
-Bible i
+Bible in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA24n_ver01%2Fdata%2F1873082001%2F0513.jp2/pct:37.492483,16.158114,22.730006,80.016181/!600,600/0/default.jpg"/>
 </td>
@@ -6008,23 +5648,7 @@ Bible i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ntegrity, then all outward  
-successes amount to nothing. The man  
-himself, that is the true end, and so  
-far as we fall short of that ideal, we  
-fail. Outward plans depend upon a  
-thousand contingencies, but this inner  
-triumph the world can never deprive you  
-of, because the world never gave it you.  
-Let us hear ho more 6neers then at any  
-want of temporal success, no  
-depreciation of patient painstaking, or*  
-laborious effort. No man fails who does  
-his duty. If you are conscious of a  
-righteous purpose and the use of honest  
-methods, you have succeeded already,  
-whatever may be the result. — C. W.  
-Wendle. What to do in Case of Accident.  
+What to do in Case of Accident.  
 — Professar Wilder, of Cornell  
 Universitv (says Moore&#x27;s Rural  
 NewYorker) gives the following short  
@@ -6062,8 +5686,18 @@ keep moving. If in water, float on the
 back, with the nose and mouth  
 projecting. For apoplexy, raise the head  
 and body ; for fainting lay the person  
-flat.
+flat. 
 </td></tr></table>
+
+---
+
+## [GOOD RULES FOR EMERGENCIES.](http://search.proquest.com/docview/135920328/fulltext/)
+
+#### From _Shaker and Shakeress Monthly (1873-1875)_
+
+#### 1873-10-01 &middot; [Shakers](http://dbpedia.org/resource/New_Lebanon%2C_New_York)
+
+[This text is not available under an open license.]
 
 ---
 
@@ -6083,7 +5717,7 @@ flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- or, cut out the part  
+or, cut out the part  
 without delay ; hold the wounded part as long  
 as can be borne to a hot coal or the end of a cigar.  
   
@@ -6092,7 +5726,8 @@ tickling the throat, or by warm mustard.
   
 For acid poisons, give alkalies ; for alkaline  
 poisons, give acids ; white of an egg is good  
-in most cases.
+in most cases.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_manifesto_1873-10_3_10%2Fsim_manifesto_1873-10_3_10_jp2.zip%2Fsim_manifesto_1873-10_3_10_jp2%2Fsim_manifesto_1873-10_3_10_0003.jp2/pct:66.647662,27.338270,23.033067,5.806703/600,/0/default.jpg"/>
 </td>
@@ -6106,7 +5741,7 @@ in most cases.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- years.  
+years.  
 What to do in Case of Accident.—Prof.  
 Wilder, of Cornwell ITnversi y, gives the  
 following short rules for action in case nfTie­  
@@ -6141,7 +5776,7 @@ If in water, float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise the bead and body;  
 for fainting, lay the person flat.  
-Hail 
+Hail C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557840:1873100401:0167/pct:7.320842,27.732332,15.028008,20.799249/!600,600/0/default.jpg"/>
 </td>
@@ -6155,12 +5790,6 @@ Hail
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h  
-  
-2  
-  
-UsEfJL IfrffORfAJION.  
-  
 What to Do in Case of Accident.  
 Piiof. Wildkii, of Cornoll University,  
 gives tho following ahort rules for action  
@@ -6186,7 +5815,7 @@ if carbonic acid gas is suspected, walk
 croct.  
 Suck poisoned wounds, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872207%2F1873101101%2F0720.jp2/pct:7.098765,2.449520,22.317189,21.317445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872207%2F1873101101%2F0720.jp2/pct:12.962963,9.533267,16.452991,14.233697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6198,7 +5827,6 @@ Suck poisoned wounds,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WHAr TO DO IN CASE oF ACCIDENTs.  
 Professor Wilder, of Cornell University,  
 gives the following short rules for action  
@@ -6241,7 +5869,7 @@ If in water, float on the back, with the
 hose and mouth projecting.  
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat.  
-MrssourI. Th
+MrssourI. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022048:00415627397:1873101401:1351/pct:2.504394,37.029965,12.038664,18.463572/!600,600/0/default.jpg"/>
 </td>
@@ -6257,7 +5885,7 @@ MrssourI. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-? What to do in  
+What to do in  
 Case or! Accident. — Professor Wilder,  
 of Cornell University (says Moore&#x27;s  
 Rural New j Yorker) gives the following  
@@ -6295,7 +5923,7 @@ poisoning givo strong coffee; and ittSep
 moving. If in water, lloat on the buck,  
 with the noso und mouth projecting. For  
 apoplexy, ;raiso the head and body, for  
-fainting hiy tho porann flat.
+fainting hiy tho porann flat. 
 </td></tr></table>
 
 ---
@@ -6306,8 +5934,6 @@ fainting hiy tho porann flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 by tickling In the throat, or by warm  
 water and rntsUrcL For acid po:sonj  
 gire acid. ; white of egg is good in most  
@@ -6316,7 +5942,8 @@ strong coffee and keep moving. If oa
 water float on the back, with aoae and  
 mouth projecting.  
   
-For apoplexy, raise the head and
+For apoplexy, raise the head and  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess60n_ver01%2Fdata%2F1873121501%2F0571.jp2/pct:82.376416,73.438385,12.860453,4.821664/!600,600/0/default.jpg"/>
 </td>
@@ -6330,7 +5957,6 @@ For apoplexy, raise the head and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 What to do rs Case or Accidents.  
 Professor Wilder, of Cornell Dni  
 versity, gives the following short rules  
@@ -6374,7 +6000,8 @@ and keep moving.
 If in water .neat on the back, with  
 the nose and mouth projecting.  
 For apoplexy, raise tne head ana  
-body ; for tainting, lay the person flat.
+body ; for tainting, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1873122701:0771/pct:56.971429,50.862641,16.428571,25.995355/!600,600/0/default.jpg"/>
 </td>
@@ -6388,7 +6015,7 @@ body ; for tainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of it.  
+of it.  
   
 Good Roles kou Emeiiqkncies.—Profes­  
 sor Wilder, of Cornell University, gives some  
@@ -6420,7 +6047,8 @@ for fainting, lie Hat.
 If in the water, float on the back, with the  
 nose and mouth projecting.  
 I1 or slight burns, dip the part in cold water;  
-if tho skirt is destroyed, cover with varnish.
+if tho skirt is destroyed, cover with varnish.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1874012101:0282/pct:81.584327,39.601528,12.810903,18.627183/!600,600/0/default.jpg"/>
 </td>
@@ -6434,7 +6062,7 @@ if tho skirt is destroyed, cover with varnish.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ourant.  
+urant.  
 Usefal Hints.  
 Prof. Wilder, of Cornell University,  
 gives the following short rules for action  
@@ -6479,7 +6107,7 @@ For apoplexy, raise the head and
 body ; for fainting, lay the peraou flat.  
 The Rattles of Rattlesnakes.  
 The fomation of rattles upon the tail  
-o
+of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295602:1874012201:0189/pct:64.341206,11.224597,14.325668,25.123723/!600,600/0/default.jpg"/>
 </td>
@@ -6493,7 +6121,6 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 Wilder, of Cor-  
   
 gives &#x27; these short  
@@ -6510,7 +6137,7 @@ one&#x27;a pocket-book, . r commit
 them to memory :  
 For duat in the eyes, avoid rub­  
 bing; dash cold water in them;  
-remov
+remove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1874012301:0106/pct:4.343220,88.558429,8.911547,4.760848/!600,600/0/default.jpg"/>
 </td>
@@ -6524,14 +6151,14 @@ remov
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- aoid poisons  
+aoid poisons  
 give acids; white of egg is cmid in  
 most eases; in cases of opiftm poison­  
 ing, give strong coffee nnd keep liiov-  
 mg. If on water float. on the back,  
 with nose and mouth projecting.  
 For apoplexy, raise tho head and  
-body; for fainting, lay the person fla
+body; for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm24n_ver01%2Fdata%2F1874012801%2F0220.jp2/pct:33.549124,57.403009,11.957350,4.869359/!600,600/0/default.jpg"/>
 </td>
@@ -6545,11 +6172,11 @@ body; for fainting, lay the person fla
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 FOB dust in the eyes, avoid rubbing  
 dash water in them remove cinders,  
 &amp;c., with the round point of a lead  
-pencil.
+pencil.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:0021247972A:1874012901:0026/pct:45.372735,33.699528,9.655843,1.773152/!600,600/0/default.jpg"/>
 </td>
@@ -6563,7 +6190,7 @@ pencil.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ch &quot;ol  
+h &quot;ol  
   
 I Hcflll IIlUllS.  
 l&#x27;rof. Wilder, of Cornell University, gives  
@@ -6603,7 +6230,7 @@ If 111 water, float on the b;ick. ni:h&#x27;!ie
 nose and mouth projecting.  
 For :.po;lcxy. raise the bead and body:  
   
-b r tainting, lav toe person m
+b r tainting, lav toe person mu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1874013101:0396/pct:47.433904,70.870197,18.137636,21.510630/!600,600/0/default.jpg"/>
 </td>
@@ -6617,7 +6244,7 @@ b r tainting, lav toe person m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hi you with the kettle!  
+hi you with the kettle!  
 Useful Hints.  
 l’rof. Wilder, of Cornell University,  
 gives the following short rules for action  
@@ -6659,7 +6286,7 @@ keep moving.
 If in water, tloat on the back, with  
 the nose and mouth projecting.  
 For apoplexy, raise tho head and  
-body ; for fainting, lay tho persou flat
+body ; for fainting, lay tho persou flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1874013101:0525/pct:81.323735,69.043321,12.617477,21.765945/!600,600/0/default.jpg"/>
 </td>
@@ -6673,7 +6300,6 @@ body ; for fainting, lay tho persou flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Prof. Wilder, of Cornell University,  
 gives the following short rules for action  
 in case of accident, which it will bo found  
@@ -6704,7 +6330,8 @@ tickling the throat, or by warm water
 and mustard, if in water float on the  
 bock, with the nose and mouth project­  
 ing. I\ - appoplexy, raise the head and  
-body ; for fainting, lay the person flat.
+body ; for fainting, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1874020301:0646/pct:37.274342,73.436493,13.924238,20.148291/!600,600/0/default.jpg"/>
 </td>
@@ -6718,7 +6345,6 @@ body ; for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 TVbtxt to do in Case of Ao­  
 oidontsi. Professor Wilder, of Cornell Uni­  
 versity, gives these short rules for ac  
@@ -6753,7 +6379,7 @@ I in moat cases; in cases of opium poison
 I ing. If on water float on the back,  
 I with nose and month pmjre-iag.  
 For apopKxy, ralfe tbe head end  
-body; for fainting, lay the person fia
+body; for fainting, lay the person fiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou1n_ver01%2Fdata%2F1874020601%2F0248.jp2/pct:53.429505,60.884146,13.200871,26.280488/!600,600/0/default.jpg"/>
 </td>
@@ -6767,7 +6393,7 @@ body; for fainting, lay the person fia
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- anything but sin&#x27;.  
+anything but sin&#x27;.  
   
 Professor Wilder, of Cornell Universi­  
 ty, gives the following short rules for  
@@ -6811,7 +6437,7 @@ the nose and mouth projecting.
 F or apoplexy, raise the head and body,  
 for fainting, lay the person fiat.  
 Consumntion. the scourge of  
-the human family, may in it
+the human family, may in its
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1874033001:0495/pct:36.936416,3.649796,15.057803,91.156688/!600,600/0/default.jpg"/>
 </td>
@@ -6827,7 +6453,7 @@ the human family, may in it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. WnAT TO  
+WnAT TO  
 Do XN CAsE ov AOOmENTS.-IThe tllowing-  
 short~rules for action in case of  
 accident will be found useful to  
@@ -6864,7 +6490,7 @@ strong coffee and keep moving.. If in
 water, flo?at on the back, with the nose  
 and mouth projecting. For apoplexy,  
 raise the headand body; for fainting,  
-lay the person fiat. A
+lay the person fiat. At
 </td></tr></table>
 
 ---
@@ -6875,7 +6501,7 @@ lay the person fiat. A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, What a da la Ce or Aceldeat.  
+What a da la Ce or Aceldeat.  
 &#x27; Prof. Wilder of Cornell University,  
 says Moore&#x27;s Rural New Yorker, gives  
 the following short rules for action in  
@@ -6918,7 +6544,7 @@ If in water, float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise the head and  
 body; for fainting, lay the person flat.  
-If 
+If a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779428:1874050601:0425/pct:7.332072,52.212527,15.042573,23.434092/!600,600/0/default.jpg"/>
 </td>
@@ -6932,7 +6558,7 @@ If
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-man is one of the largest bus­  
+an is one of the largest bus­  
 ides operators in Bay street  
   
 What to Do in Case of Accident.  
@@ -6975,7 +6601,8 @@ mg give strong coffee and keep mov
 ing. If in water, float on the back.  
 with nose and mouth projecting. For  
 apoplexy, raise the head and body  
-for fainting lay the person flat
+for fainting lay the person flat  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775794:1874061901:0213/pct:14.526412,15.904427,29.986339,75.065963/!600,600/0/default.jpg"/>
 </td>
@@ -6989,7 +6616,6 @@ for fainting lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Are the wonders of the nation.  
 Ba! is the Djmvjratlo Situition.  
 Njroljou pipers ple.ise copy.  
@@ -7028,7 +6654,7 @@ strong coffee and keep moving. If in
 water float on the back, with nose and  
 mouth projecting. For apoplexy. raUe  
 the head and body ; for falniing, Uj the  
-person fli
+person flit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775745:1874062601:0916/pct:27.517640,39.260881,10.631815,20.010301/!600,600/0/default.jpg"/>
 </td>
@@ -7042,7 +6668,7 @@ person fli
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-$ j  
+j  
 the following short rule for. action io  
 cases of accident, hieh.will bo found  
 useful to remember  
@@ -7082,7 +6708,7 @@ If in water, float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise, the head and body ;  
 for fainting, lay the person flat.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1874090301:0450/pct:15.972610,6.157821,11.794298,19.528475/!600,600/0/default.jpg"/>
 </td>
@@ -7096,7 +6722,6 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 What to Do in Case of Accipent.­  
 J’rot. Wilder, of Cornell University, say  
 Moore s Rural Sno Yorker, gives the follow  
@@ -7133,7 +6758,8 @@ soiling, give strong entice and keep moving.
 If in water, float on the back, with tin  
 nose and mouth projecting.  
 For apoplexy, raise the head and body  
-for fainting, lay the person flat.
+for fainting, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:0051701607A:1874110501:0362/pct:52.548518,41.435516,13.947537,19.230769/!600,600/0/default.jpg"/>
 </td>
@@ -7147,12 +6773,13 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ng,  
+g,  
 give strong coffee and keep moving. If  
 in water, float on the back, with the nose  
 and mouth projectiag. For apoplexy, raise  
 the head and body; for fainting, lay the  
-person flat.
+person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn86053067:00415620184:1874110501:0255/pct:69.890271,19.140171,13.255304,4.256892/!600,600/0/default.jpg"/>
 </td>
@@ -7166,7 +6793,7 @@ person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of Mind. Professer Wilder,  
+of Mind. Professer Wilder,  
 of Cornell University, gives these short  
 ruh-s for action in case of accident: &quot;Foi  
 dust in the eves, avoid rubbing, clash wa  
@@ -7176,7 +6803,7 @@ inserts from the &#x27;ar hr tenifl water: mvir
 put a hard instrument into the ear. If aii  
 artery is rut, compress above the wound;  
 if a Vein ia cut, compress below. I&#x27;  
-choked, get. upon all lours and cough
+choked, get. upon all lours and cough.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1874110601:0197/pct:72.707360,32.164083,10.952103,5.617061/!600,600/0/default.jpg"/>
 </td>
@@ -7190,7 +6817,7 @@ choked, get. upon all lours and cough
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--Professor Wil­  
+Professor Wil­  
 der, of Cornell University, gives these  
 short rules for action in case of acci­  
 dent: For dust in the eyes, avoid  
@@ -7226,7 +6853,7 @@ projecting. For apoplexy, raise the
 head and body; for fainting, lay the  
 person flat,   
 On MoRAls. The New York Sun  
-says: The
+says: The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1874111101:0687/pct:55.864849,74.676631,9.848339,17.145732/!600,600/0/default.jpg"/>
 </td>
@@ -7240,7 +6867,7 @@ says: The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gives these short rules for  
+gives these short rules for  
 action in case of accident: For dust in  
 the eyes, avoid rubbing, dash water into  
 them; remove cinders, etc, with the  
@@ -7270,7 +6897,8 @@ give strong coflee and keep moving. II
 in water, float on the back, with the nose  
 and mouth projecting. For apoplexy,  
 raise the head and body; lor fainting, lay  
-the person 11 it.
+the person 11 it.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190893:1874111601:1101/pct:13.855422,51.196255,14.072289,15.308599/!600,600/0/default.jpg"/>
 </td>
@@ -7284,7 +6912,6 @@ the person 11 it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_  
 Pbesence of Mind. —Professor Wilder gives  
 short rules for action in case of accident: For  
 dust in the eyes, avoid rubbing, dash wa&#x27;er  
@@ -7313,7 +6940,8 @@ ing, give strong coffee and keep moving. If
 in water, float on the back, with mouth and  
 nose projecting. For apoplexy, raise the head  
 and body ; for fainting, lay the person flat.  
-An experimental plantation of olive trees in
+An experimental plantation of olive trees in  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_jigglypuff_ver01:data:sn86079018:00295874892:1874111801:0268/pct:33.136966,79.331426,14.469809,14.646202/!600,600/0/default.jpg"/>
 </td>
@@ -7327,7 +6955,7 @@ An experimental plantation of olive trees in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The sword-fish,  
+The sword-fish,  
 however, is the more delicate and the more  
 highly flavored.  
 PRESEECE OF MIND. Prof. Wilder gives  
@@ -7357,7 +6985,7 @@ ng, give strong coffee and keep moving. If in
 water, float on the back, with the nose and  
 mouth prejecting. For apoplexy, raise the  
 head and body; for fainting, lay the person flat.  
-A 
+A W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654012:1874112401:0321/pct:58.035581,77.781532,13.529105,12.421171/!600,600/0/default.jpg"/>
 </td>
@@ -7371,7 +6999,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the adjournment of  
+the adjournment of  
 the house, on the ground that the  
 memlicrs were too much excited to  
 reuder judgment on the case.&quot;  
@@ -7410,7 +7038,7 @@ back, with the nose and month pro
 jecting. For apoplexy, raise the head  
 and body : for fainting, lay the person  
 flat  
-The Wisdom of th
+The Wisdom of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874112501:0237/pct:18.904533,59.660382,10.920330,19.454473/!600,600/0/default.jpg"/>
 </td>
@@ -7424,7 +7052,6 @@ The Wisdom of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
   
 Presence of Mind.  
   
@@ -7459,7 +7086,7 @@ keep moving. If in water, Boat on the
 back, wiih the nose and mouth project­  
 ing. For apoplexy, raise the head and  
 body; for fainting, ley the person flat.  
-A Few 
+A Few F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768758:1874112501:0378/pct:64.498681,55.908017,14.116095,17.542265/!600,600/0/default.jpg"/>
 </td>
@@ -7473,7 +7100,7 @@ A Few
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;rof.  
+rof.  
   
 Wilder »ivcs these short rules for ac­  
 tion iu case of accident: For dust in  
@@ -7513,7 +7140,8 @@ with the nose aud mouth projecting.
   
 For apoplexy, raise the head and  
   
-(or fainting, lay the person flit.
+(or fainting, lay the person flit.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:0019991991A:1874112601:0294/pct:79.959070,56.849000,10.656337,17.352333/!600,600/0/default.jpg"/>
 </td>
@@ -7527,7 +7155,6 @@ For apoplexy, raise the head and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 Presence of Mind.  
 Prof. Wilder gives these short rules  
 for action in case of accident: For dust  
@@ -7560,7 +7187,8 @@ coffee and keep moving. If in water,
 lloat on the back, with the nose and  
 mouth projectirg. For apoplexy, raise  
 the head and body; for fainting, lay  
-the person flat,
+the person flat,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1874112601:0865/pct:8.187729,80.234670,12.698090,16.077664/!600,600/0/default.jpg"/>
 </td>
@@ -7574,7 +7202,7 @@ the person flat,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- overjoved,  
+overjoved,  
 Presence of Mind.  
 Professor Wilder gives these short  
 rules for action in case of accident:  
@@ -7617,7 +7245,7 @@ float on the back, with the nose and
 mouth projectingFor appoplexy  
 raise the head and body; for fainting  
 lay the person flat.  
-A Gra
+A Grac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1874112601:0754/pct:68.999816,43.691950,20.372076,22.239422/!600,600/0/default.jpg"/>
 </td>
@@ -7631,7 +7259,6 @@ A Gra
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &#x27; rreseJice of Bind.  
 Prof. Wilder gives these short rules for  
 action in c:te of accident : roruustiu  
@@ -7649,7 +7276,7 @@ Smother a fire with carpets, etc.; wa&#x27;er
 will often spread burning oih and increase  
 the danger. Before - pa-siug through  
 smoke, taka a full breath, and then stoop  
-low, but if carbon is suspected, then
+low, but if carbon is suspected, then 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1874112601:0158/pct:82.812500,83.085741,10.890625,7.731898/!600,600/0/default.jpg"/>
 </td>
@@ -7663,8 +7290,7 @@ low, but if carbon is suspected, then
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hen sub­  
-mitted to the fumes of ammonia.  
+ted to the fumes of ammonia.  
 —Prof. Wilder gives these short rules  
 for action, in case of accident: For dust  
 in the eyes, avoid rubbing, dash wafCi  
@@ -7696,9 +7322,9 @@ moving. It in water, float on the hack,
 w itli the nose and mouth projecting. For  
 apoplexy, raise the head and body; for  
 fainting, lay the person flat.  
-Pn spelts fo
+Pn spelts for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1874112601:1564/pct:59.968319,42.654566,17.515275,19.951787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1874112601:1564/pct:59.968319,43.207601,17.515275,19.398752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7710,7 +7336,7 @@ Pn spelts fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Professor Wilder  
+Professor Wilder  
 1 given these short rules for action in case  
 of accident : For dust in tho eyes, avoid  
 nibbing, dash water into them ; remove  
@@ -7740,7 +7366,8 @@ oning excite vomiting by tickling the
 moving. If in witter float on tho back,  
 with the nose and mouth projecting. Em*  
 apoplexy raise the head and body ; for  
-| fainting lay the person flat
+| fainting lay the person flat  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1874112701:0806/pct:79.001135,51.376010,11.823685,16.706551/!600,600/0/default.jpg"/>
 </td>
@@ -7754,7 +7381,7 @@ apoplexy raise the head and body ; for
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-een.  
+en.  
 PRESENCE OF MIND.  
 Prof. Wilder, of Cornell University,  
 gives these short rules for action in  
@@ -7789,7 +7416,8 @@ poisoning, give strong coffee and keep
 moving. If in water, float on the back,  
 with the nose and mouth projecting.  
 For apoplexy, raise the head and body ;  
-for fainting, lay the person flat.&quot;
+for fainting, lay the person flat.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1874112701:1103/pct:31.694079,6.204331,24.769737,88.601036/!600,600/0/default.jpg"/>
 </td>
@@ -7803,7 +7431,6 @@ for fainting, lay the person flat.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Presence or Mind.  
 Prof. Wilder gives these short rules  
 for action in case of accident : For dnst  
@@ -7840,7 +7467,7 @@ mouth projecticg. For apoplexy, raise
 the head and body; for fainting, lay  
 the person flat.  
 Business Still Improving.  
-The present condition of busi
+The present condition of busin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1874112701:0193/pct:60.651596,13.901099,22.114362,81.263736/!600,600/0/default.jpg"/>
 </td>
@@ -7864,8 +7491,6 @@ The present condition of busi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Presence of Mind.  
   
 Prof. Wilder, of Cornell Univer­  
@@ -7904,7 +7529,7 @@ the nose and mouth projecting. For
 apoplexy raise the head and body  
 for fainting, lay the person flat.&#x27;*  
   
-This from th
+This from the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1874120301:0445/pct:75.967378,14.994720,14.749263,20.708671/!600,600/0/default.jpg"/>
 </td>
@@ -7918,8 +7543,6 @@ This from th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRESENCE OF MIND.  
 Professor Wilder gives these short rules  
 for action in case of accident: For dust in  
@@ -7949,7 +7572,7 @@ ing give strong coffee and keep moving. If
 in water, float on the baEgk. wit.lll the nose  
 and mouth projecting. For apo - raise  
 the laead and body ; for fainting, Yuy“&amp;o per«  
-son fiat.
+son fiat. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016032:1874120301:0401/pct:84.526980,84.273151,11.240364,12.653906/!600,600/0/default.jpg"/>
 </td>
@@ -7963,7 +7586,7 @@ son fiat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- them ont on that compromise.&quot;  
+them ont on that compromise.&quot;  
 Presence of Jliud.  
 Prof. Wilder gives these short rules  
 for action in caw? of accident : For dust  
@@ -7996,7 +7619,7 @@ coffee and keep moving. If in water,
 float on the back, with the nose and  
 mouth projecticg. For apoplexy, raise  
 tho head acd body ; for faintiu, lay  
-the person flat
+the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1874120301:0414/pct:46.730874,79.703993,9.753120,14.651216/!600,600/0/default.jpg"/>
 </td>
@@ -8010,8 +7633,6 @@ the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-]  
-  
 Presence of Mind.—I rot Wilder  
 gives these short rules for action in  
 case of accident: For dust in the eyes,  
@@ -8044,7 +7665,7 @@ moving. If in water, float on the back,
 with the uese and mouth projecting. Eor  
 apoplexy, raise the head and body; for  
 fainting, lay the person flat.  
-Reducing
+Reducing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84026810:00393349190:1874120501:0379/pct:3.351627,65.899902,14.719718,20.507459/!600,600/0/default.jpg"/>
 </td>
@@ -8058,7 +7679,6 @@ Reducing
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Pbfsence or Mind.—Professor Wil­  
 der gives these short rules fur action in  
 case ot accidents :  
@@ -8086,7 +7706,7 @@ or end of a cigar. In ease cf poisoning
 excite vomiting by tickling the throat.  
 ior by water or m-.stard. For a**id poi­  
 j sous give acids; in cstse of opium poi­  
-i soilin
+i soiling
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623525:1874121001:0204/pct:66.046447,58.888769,11.961388,14.504146/!600,600/0/default.jpg"/>
 </td>
@@ -8100,7 +7720,6 @@ i soilin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Presence atf Hind.  
 Profossor Wilder gives these short  
 rules for action in case of accident: For  
@@ -8133,7 +7752,7 @@ coffee and kepp moving. If in water,
 float ou the back, with the nose and  
 mouth projecting. For apoplexy, raise  
 the head and body; for fainting, lay tbe  
-person nat
+person nat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779428:1874121001:1156/pct:42.928040,28.717875,12.799835,16.026567/!600,600/0/default.jpg"/>
 </td>
@@ -8147,7 +7766,7 @@ person nat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;CE OF 1£IKD.  
+CE OF 1£IKD.  
 Professor Wilder gives these short  
 rules for action in cane of accident:  
 For dust in the eye#, avoid rubbing,  
@@ -8184,7 +7803,7 @@ flat.
   
 because a bt. bouts paper said some  
 thing shout “the hoot of public indig  
-nation,&quot; the lesion
+nation,&quot; the lesions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1874121001:0599/pct:55.905914,61.427477,11.487984,22.931563/!600,600/0/default.jpg"/>
 </td>
@@ -8198,7 +7817,7 @@ nation,&quot; the lesion
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- married. -  
+married. -  
   
 Presexce oF Mixp.—Prof. Wilder,  
 of Cernell University, gave these short  
@@ -8233,7 +7852,8 @@ poisoning, give strong coffee and keep
 moving. If in water, float on the back,  
 with the nose and mouth projecting.  
 For apoplexy, raise the head smf body:  
-for fanting, l’uy the person flat.
+for fanting, l’uy the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_cavebear_ver04:data:sn83021113:00513689354:1874121101:0258/pct:3.205813,73.819597,10.034195,15.984092/!600,600/0/default.jpg"/>
 </td>
@@ -8247,7 +7867,7 @@ for fanting, l’uy the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n Democrat.  
+ Democrat.  
 Pkksexck ok Mini&gt;. ? Prof. Wilder  
 gives these short rule* for action in case  
 of accident : For dust in the eyes,  
@@ -8280,7 +7900,7 @@ keep moving. If in water, float on the
 back, with the nose and mouth project  
 ing. For apoplexy, raise the head and  
 body; for fainting, lay the person flat.  
-Mier is a
+Mier is a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1874121201:0407/pct:69.614193,72.505192,13.404675,19.424389/!600,600/0/default.jpg"/>
 </td>
@@ -8294,7 +7914,6 @@ Mier is a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 avoid rubbat  
 et   s  
    t  oss a I  
@@ -8342,7 +7961,8 @@ e e
 at on the back, with the nose and  
 mouth projecting. For apoplexy.  
 raise the head and body; for faint  
-ing, lay the person flat.
+ing, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1874121701:0394/pct:18.440104,47.419531,11.146018,21.658483/!600,600/0/default.jpg"/>
 </td>
@@ -8356,7 +7976,6 @@ ing, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ter cives these short rules for action in  
 case of accident: For dust in the eyes,  
 avoid rubbing, dash water into them  
@@ -8387,7 +8006,8 @@ give strong c.ffee andkeep moving. If
 ia water, float on theiback, with the nose  
 and mouth projectiig. For apoplexy  
 raise the head and bidy, for fainting lay  
-the person flat.
+the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1874121801:0632/pct:40.868506,73.114264,13.027597,20.194175/!600,600/0/default.jpg"/>
 </td>
@@ -8401,7 +8021,7 @@ the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- s Temp­  
+s Temp­  
 tation.  
 Pbbsencb or Mind.—Pref. Wilier  
 gives these short rule* for action in case  
@@ -8434,7 +8054,7 @@ strong coffee, and keep moving. If in
 water float on the back, with the nose  
 projecting For appoplexy, raise the  
 head and body ; for fainting lay the per­  
-son flat
+son flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1874122201:1108/pct:69.103423,39.177751,12.760417,18.540911/!600,600/0/default.jpg"/>
 </td>
@@ -8458,7 +8078,7 @@ son flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gives these short rules lor  
+gives these short rules lor  
 action In case of accident: For dust in  
   
 the eyes, avoid tubbing, dash water into  
@@ -8489,7 +8109,7 @@ and keep moving. It in water, that
 on the back, with nose and mouth pro  
 jecting. For apoplexy, raise the bead  
 and body; for tainting, lay the person  
-Ha
+Hat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190893:1874122301:1238/pct:86.903003,41.368078,13.466273,16.141875/!600,600/0/default.jpg"/>
 </td>
@@ -8503,7 +8123,7 @@ Ha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rs in all.  
+s in all.  
 PresencE of Mind.  
 Professor Wilder gives these short  
 rules for action in case of accident:  
@@ -8540,7 +8160,7 @@ finat on the hack, with the nose and
 month prolecting. For apoplexyeraise  
 the head and body, for lainting, lay the  
 person flat.  
-Meam GngC
+Meam GngCh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297544:1874122401:0403/pct:7.536956,4.290106,25.046846,92.076579/!600,600/0/default.jpg"/>
 </td>
@@ -8554,7 +8174,7 @@ Meam GngC
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- pride.&quot;  
+pride.&quot;  
 Presence of Mind.  
 Professor Wilder gives these short  
 rules for action in case of accident: For  
@@ -8587,7 +8207,7 @@ moving. If in water, float on the back.
 with the nose and mouth projecting  
 For apoplexy, raise the head and body  
 for fainting, lay the person flat,  
-and F. 
+and F. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1874122501:0263/pct:74.269184,49.392554,9.698538,18.223383/!600,600/0/default.jpg"/>
 </td>
@@ -8601,7 +8221,6 @@ and F.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 PreSENCE OF MINd!  
 Professo Wilder gives these short  
 rules for action in case ofaccident:  
@@ -8621,7 +8240,21 @@ water will often spread burning oll,
 and increase the danger. Before pass­  
 ing through smoke, take a full breath,  
 and then stoop low, but if carbon is  
-suspected, then walk erect. Suck  
+suspected, then 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1874122601:0642/pct:28.617886,56.614626,10.731707,8.367571/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Dallas weekly herald._](https://www.loc.gov/resource/sn84022279/1874-12-26/ed-1/?sp=2)
+
+#### 1874-12-26 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+walk erect. Suck  
 poison wounds, unless your mouth is  
 sore. Enlarge the wound, or, better,  
 cut out the part without delay. Hold  
@@ -8637,9 +8270,9 @@ mouth projecting. For apoplexy, raise
 the head and body, for fainting, fay the  
 person flataee  
 The Technologist thinks that that  
-will be ait expensive gage designed b
+will be ait expensive gage designed by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1874122601:0642/pct:28.563686,56.614626,10.785908,15.913448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1874122601:0642/pct:28.563686,64.571350,10.641373,7.956724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8651,8 +8284,6 @@ will be ait expensive gage designed b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRESENCE OF MIND.  
   
 Proressorn WILDER gives these short rulgs for action in case of  
@@ -8677,7 +8308,8 @@ throat, or by water or mustard. For acid poisons give acids; in
 case of opium poisoning, give strong coffee and keep moving. If in  
 water float on the back, with the nose and mouth projecting. For  
 apoplexy raise the head and body; for fainting lay the person  
-flat.
+flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_silent-world_1875-01-01_5_1%2Fsim_silent-world_1875-01-01_5_1_jp2.zip%2Fsim_silent-world_1875-01-01_5_1_jp2%2Fsim_silent-world_1875-01-01_5_1_0002.jp2/pct:48.951468,61.389265,35.650090,24.334687/600,/0/default.jpg"/>
 </td>
@@ -8691,11 +8323,6 @@ flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- country.  
-  
-JANUARY 9, 1875.  
-  
-Preseaee of Mill.  
 Prof. Wilder gives these short rules  
 for action in case of accident : For dnst  
 in the eye, avoid rubbing, dash water  
@@ -8727,9 +8354,9 @@ moving. If in water, float on the back,
 with the nose and mouth projecting.  
 For appoplexy, raise the head and body;  
 for fainting, lay the person flat.  
-The New
+The New 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875010901:0007/pct:50.475494,10.833216,17.081200,83.644794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875010901:0007/pct:55.998537,13.755796,11.558157,19.558803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8751,7 +8378,7 @@ The New
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The light is to be  
+The light is to be  
 a revolving one of the first order, and  
 97 feet above high-water mark; there  
 are to be seven stories in the house,  
@@ -8792,7 +8419,7 @@ fall into the water, float on the back,
 with the nose and mouth projecting.  
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat.  
-Removing
+Removing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768758:1875011301:0431/pct:35.039912,67.135073,14.698596,24.596119/!600,600/0/default.jpg"/>
 </td>
@@ -8806,7 +8433,6 @@ Removing
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Presence of Mind.  
 Professor Wilder gives these short rules  
 for action in case of accident. For dust  
@@ -8842,7 +8468,7 @@ and keep moving. If in water, float on the
 back, with the nose and mouth projecting.  
 For apoplexy, raise the head and body; for  
   
-fainting, lay the pers
+fainting, lay the perse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875012901:0245/pct:73.800350,80.641711,23.152364,15.026738/!600,600/0/default.jpg"/>
 </td>
@@ -8856,7 +8482,7 @@ fainting, lay the pers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. He says: “For dust in the  
+He says: “For dust in the  
 eyes, avoid rubbing—dash water into them. Remove cin-  
 ders, etc., with the round point of a lead-pencil. Remove  
 insects from the ear by tepid water; never put a hard in-  
@@ -8876,7 +8502,8 @@ tickling the throat, or by water and mustard. For acid
 poisons, give acids. In case of opium{poisoning, give strong  
 coffee, and keep moving. If in water, float on the back,  
 with the nose and mouth projecting. For apoplexy, raise  
-the head and body, For fainting, lay the person flat.”
+the head and body, For fainting, lay the person flat.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_peterson-magazine_1875-02_67_2%2Fsim_peterson-magazine_1875-02_67_2_jp2.zip%2Fsim_peterson-magazine_1875-02_67_2_jp2%2Fsim_peterson-magazine_1875-02_67_2_0055.jp2/pct:55.856643,64.783105,35.402098,22.203196/600,/0/default.jpg"/>
 </td>
@@ -8890,8 +8517,6 @@ the head and body, For fainting, lay the person flat.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRESENCE OF 9XIBTD.  
 Professor Wilder gives these short  
 lules for action in case of accident :  
@@ -8926,7 +8551,7 @@ ing. If iu water, float on the back,
 with thp nose and mouth, projecting.  
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat.  
-THE CI11SC
+THE CI11SCH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875020401:0360/pct:31.216861,3.830397,11.055143,20.227366/!600,600/0/default.jpg"/>
 </td>
@@ -8940,8 +8565,6 @@ THE CI11SC
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 Presence of Mind In Accidents/  
 Professor Wilder gives these short roles  
 for action in case of accident: For dost io  
@@ -8974,7 +8597,8 @@ keep moving. If you fall into water, float
 on the back, with the cose and mouth  
 projecting. For apoplexy, raise the bead  
 and body; for fainting, Uy the person  
-flat. m
+flat. m  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016081:1875021101:0023/pct:19.888513,71.912833,12.522397,16.678536/!600,600/0/default.jpg"/>
 </td>
@@ -8988,7 +8612,7 @@ flat. m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gives these short rules for action  
+gives these short rules for action  
 in case of accident: For dust ia the  
 eyes, avoid rubbing, dash watei in  
 to them; remove cinders, etc, with  
@@ -9015,7 +8639,7 @@ part as long as can be Dome to u&quot;
 coal or end of t)ign I&quot; of  
 poisoning, excite vomiting by tick­  
 ling the throat, or by water and  
-mustard.
+mustard. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775198:1875030501:0271/pct:81.157318,76.146228,10.880077,13.497983/!600,600/0/default.jpg"/>
 </td>
@@ -9029,7 +8653,7 @@ mustard.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- For acid poisons, give  
+For acid poisons, give  
 acids; in case of opium poisoning,  
 give strong coffee and keep moving.  
 If in water, float on the back, with  
@@ -9037,7 +8661,7 @@ i aoa am) mftntH vtr-AiAtnv IT,
 aiKplexy, raise the head and body;  
 fir fainting, lay the person flat  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775198:1875030501:0271/pct:81.108962,89.081795,10.138620,4.046950/!600,600/0/default.jpg"/>
 </td>
@@ -9051,7 +8675,6 @@ fir fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 gives these short rules for action in cases of  
 accident:  
 For dust in the eyes, avoid rubbing, flash  
@@ -9086,7 +8709,7 @@ keep moving.
 If in the water, float on the back, with  
 the nose and mouth projecting.  
 For apoplexy, raise the head and body;  
-for fainting, lay the person flat
+for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875031801:0047/pct:73.203449,50.771700,10.843181,17.533029/!600,600/0/default.jpg"/>
 </td>
@@ -9100,7 +8723,7 @@ for fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tted.  
+ted.  
 I&#x27;RESENTK OF MIND.  
 | Professor Wilder gives these short  
 i rules for action in case of accident;  
@@ -9133,7 +8756,7 @@ give acid ; in case of opium poison,
 I! give strong coliee and keep moving.  
 ’ For apoplexy, raise the h adml body.  
 &#x27; For fainting, lay tU person dat.  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:0041562346A:1875040201:0160/pct:73.748255,70.203408,14.143228,25.673447/!600,600/0/default.jpg"/>
 </td>
@@ -9147,7 +8770,7 @@ I! give strong coliee and keep moving.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- Pmesemcb or Mikd. Professor  
+Pmesemcb or Mikd. Professor  
 Wilder. glvea these short- rules for  
 action in case of accident: &#x27; &#x27;  
 -For dust in the eyes &quot;avoid jrub-  
@@ -9155,7 +8778,7 @@ bing dash water into them;&#x27;reaaove
 cinder dec. with the round of a  
 lead pencil. Reiriove inaeote from  
 tba.ar by tepid watert&#x27;lheirer piita  
-I 
+I 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth78409/m1/1/pct:54.800000,70.075949,14.266667,4.962025/!600,600/0/default.jpg"/>
 </td>
@@ -9169,7 +8792,6 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 tbe wound; if a vein U&#x27; eutobmpre  
 below. If choked get &#x27;upon all  
 fours and cough. For liiot burnt  
@@ -9193,7 +8815,7 @@ by water jawaard.&#x27; Fe&#x27;raeid yoia
 one give acids; ia&#x27;oaee of aahim  
 poiioniaggfv&#x27;e atreag eodbe aad  
 keep1 meviag. If ib water  
-eatblbaek with the se
+eatblbaek with the sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth78409/m1/1/pct:57.000000,76.101266,12.266667,14.936709/!600,600/0/default.jpg"/>
 </td>
@@ -9217,7 +8839,7 @@ eatblbaek with the se
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gives these short  
+gives these short  
 rules for action in case of accident: For  
 i -..L :j l l ; , .  
 uusi in ine eyes, avoid ruDDing; aasn  
@@ -9252,7 +8874,8 @@ raise the head and body; for fainting lay &quot;
 the person flat. ; ;  
 ,  
 Of recent climatic vagaries a willy  
-Washington roan says: &quot;Guess the
+Washington roan says: &quot;Guess the  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875051201:0446/pct:77.042254,52.622378,14.882629,18.225524/!600,600/0/default.jpg"/>
 </td>
@@ -9266,7 +8889,7 @@ Washington roan says: &quot;Guess the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n-  
+-  
   
 crackers hence the term &quot; cracker,  
   
@@ -9336,7 +8959,7 @@ For apoplexy, raise the head and body;
 fainting, lay the person flat  
   
 . ..  
-Bayin
+Baying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC2n_ver01%2Fdata%2F1875051901%2F0479.jp2/pct:66.958985,58.563768,20.412844,32.982862/!600,600/0/default.jpg"/>
 </td>
@@ -9350,7 +8973,6 @@ Bayin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Presence of Mind.  
 Professor Wilder gives these short  
 rules for aotion in case of accident :  
@@ -9390,7 +9012,8 @@ If in water float on the back, with the
 nose and mouth projecting.  
 For apoplexy, raise the head and body;  
 fainting, lay the person flat.  
-Mother and Babe.
+Mother and Babe.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn85042623:00295862154:1875051901:0094/pct:18.178676,43.972878,17.539312,22.639377/!600,600/0/default.jpg"/>
 </td>
@@ -9404,7 +9027,7 @@ Mother and Babe.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- their*.  
+their*.  
   
 Presence of Xiad*  
 Professor Wilder gives these short  
@@ -9422,7 +9045,21 @@ below.
   
 If choked, get on all fours, and  
 cough.  
-For light burns, dip the part in cold  
+For 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875052001:0227/pct:76.504448,58.427777,9.746206,7.758088/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Centre reporter._](https://www.loc.gov/resource/sn83032058/1875-05-20/ed-1/?sp=1)
+
+#### 1875-05-20 &middot; [Centre Hall, Pa.](http://dbpedia.org/resource/Centre_Hall%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+light burns, dip the part in cold  
 water; if the skin is destroyed, cow  
 with varnish.  
 Smother s fire with carpets, etc.; water  
@@ -9443,9 +9080,9 @@ For acid poisons, give strong coffee
 and keep moviug.  
 If in water float on the back, with the  
 nnee and month projecting.  
-For apoplexy,
+For apoplexy, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875052001:0227/pct:76.504448,58.427777,9.746206,16.567072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875052001:0227/pct:76.504448,65.804657,9.733124,9.190192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9457,7 +9094,6 @@ For apoplexy,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 dent.  
 Presence of .Mind.—Prof. Wilder gives  
 these short rules for action in case of acci­  
@@ -9490,7 +9126,7 @@ moving. If in water, float on the hack
 with the nose and mouth projecting. For  
 apoplexy, raise the head and body; for  
 fainting lay tlie person flat.  
-Metal
+Metals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875052801:0295/pct:74.271523,44.738227,10.894040,16.232570/!600,600/0/default.jpg"/>
 </td>
@@ -9504,7 +9140,6 @@ Metal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Professor Wilder gives these  
 short rules for action iu case of ac­  
 cident :  
@@ -9544,7 +9179,7 @@ If in water float on the back,
 with the nose and month projecting.  
 For apoplexy, raise the head and  
 body fainting, lay the ersoii flat.  
-Mrs. C. U
+Mrs. C. U.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1875060501:0238/pct:16.880342,70.259481,12.101787,21.998859/!600,600/0/default.jpg"/>
 </td>
@@ -9558,8 +9193,6 @@ Mrs. C. U
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Presences of Mind In Accidents.  
 Prof. Wilder gives these short rules  
 for action in case of accident: For  
@@ -9596,7 +9229,7 @@ nose and month projecting. For apo­
 plexy, raise the he,a I and body: for  
 fainting, lay the person flat.  
 • •  
-Si ng If
+Si ng If.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1875062401:0300/pct:70.772947,51.427372,10.735373,19.175063/!600,600/0/default.jpg"/>
 </td>
@@ -9610,7 +9243,7 @@ Si ng If
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-uted.  
+ted.  
    
 PRESENCE OF MINd.- Prof. Wilder, of  
 Cornell University, gives these short rules  
@@ -9643,7 +9276,7 @@ coffee and kep moving. If in water, float
 on the back, with the nose and month pros  
 jecting. For apoplexy, raise the head and  
 body; for fainting, lay the person flat.  
-e  e
+e  e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1875071001:0149/pct:41.260370,70.145707,13.132174,15.038180/!600,600/0/default.jpg"/>
 </td>
@@ -9657,7 +9290,7 @@ e  e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-FORMATION.  
+ORMATION.  
   
 Prof Wilder of Cornell University,  
 gives these short rules for action m  
@@ -9680,6 +9313,7 @@ cover with vamislu
 For epoplexy, raise the head and  
 body ; for fainting, lay the person  
 flat  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SouthIAR2n_ver01%2Fdata%2F1875082101%2F0051.jp2/pct:74.604539,75.853455,16.626547,15.415725/!600,600/0/default.jpg"/>
@@ -9694,7 +9328,7 @@ flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-k.  
+.  
   
 WHAT TQ DO IN CASE OP ACCIDENT.  
   
@@ -9727,6 +9361,7 @@ cover with varnish.
 For apoplexy, raise the head and  
 body for fainting, lay the person  
 flat  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472566:1875090201:0557/pct:87.376331,50.609049,9.981215,15.390565/!600,600/0/default.jpg"/>
@@ -9741,21 +9376,7 @@ flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-od place to stay away from,  
-rnd Europeans are finding it out.  
-The very latest project is a pneumatic  
-tube to be laid between Newfoundland  
-and Ireland, through which letters nd  
-parcels are to be transmitted from ona  
-country to the esr, under tho Atlantic,  
-at a velocity estimated at from one hun  
-dred and fifty to two hundred miles per  
-hour.  
-A good brother in a Baptist church of  
-Miama county, Indiana, while giving his  
-experience, not long ago, said:-&#x27;Brcth-erin,  
-I&#x27;ve been a tryin&#x27; this nigh onto to  
-forty years, to serve the Lord and get  
+ the Lord and get  
 rich both at once, and I tell yer, its  
 mighty hard Bleddinl&quot;  
 What to do in case of Accident.  
@@ -9781,9 +9402,9 @@ water; if the ekia is destroyed, cover
 with varnish.  
 For apoplexy, raise the head and body:  
 for fainting, lay the person flat.  
-An Old Fashioned
+An Old Fashioned 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875090301:0343/pct:75.477260,18.229288,11.355980,24.425621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875090301:0343/pct:75.477260,27.953121,11.257720,14.701787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9795,22 +9416,7 @@ An Old Fashioned
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, in Democratic  
-Conventions of roaring vulgarity, drunk­  
-enness, blasphemy, cheating, lighting and  
-factious recklessness, and they have pre­  
-ceded tho most exemplary defeats of the  
-party.&quot;  
-a  
-Tin-: Clarksvillo Tobacco Lf-nf is  
-guilty of this cold-blooded cruelty :  
-All that tho Kev. Sir. Copcland, Esq.,  
-alias Warren, et altcri Colyer, Doctor,  
-Preacher, etc., etc., had done was to be a  
-fraud.  
-If every newspaper correfpondent in this  
-couutry who is a fraud, a cold-blooded, de­  
-liberate fraud, is to be tarred and feath­  
+is to be tarred and feath­  
 ered, what will become of Dr. II. V. Ited­  
 tleld, of the Cincinnati Commercial.  
 What to do In Case of Accident.  
@@ -9830,9 +9436,10 @@ For slight burns, dip the part in cold
 water : if the skin is destroyed, cover with  
 varnish.  
 For apoplexy, raise the head and body ;  
-for fainting, lay the person flat.
+for fainting, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875090801:1116/pct:50.182315,75.426247,14.243391,20.819646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875090801:1116/pct:50.182315,85.046144,14.243391,11.199750/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9844,7 +9451,6 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 PreSeNCE oF MINd In ACCIDENTS.  
 Professor Wilder gives these short rules  
 for action in case of accident: For dust  
@@ -9877,7 +9483,8 @@ th the nose and mouth projecting.
 For  
 apoplexy, raise the head and body;  
 fainting, lay the person flat.  
-for
+for  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875092201:0859/pct:33.505359,82.683920,10.063517,13.957546/!600,600/0/default.jpg"/>
 </td>
@@ -9891,7 +9498,6 @@ for
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 What to do In Cose. of Accident.  
 Prof. Wilder, of Cornell University,  
 gives these short rules for action in  
@@ -9916,7 +9522,8 @@ water; if the skin is destroyed, unver
 -.1 u &#x27;  
 wii ii varniMi.  
 Fur up ipUxy, raise the head and  
-body; for faintiug, lay the person flat.
+body; for faintiug, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1875100201:0781/pct:65.899884,58.857653,9.794560,11.256136/!600,600/0/default.jpg"/>
 </td>
@@ -9930,30 +9537,6 @@ body; for faintiug, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-th-  
-ers in the North are not wholly to blame,  
-  
-the feet shall be covered, and it is well,  
-nigh impossible, even in New York, to.  
-find shoes properly made for children :  
-  
-foot. Asa new last would be required  
-every month or two, very few parents  
-are able.to give the watchfulness and  
-money required. If shoes ot proper  
-  
-dealers would speedily furnish them.  
-  
-Nothing is more prompt than the reply  
-of trade to any hint of a new want or  
-fashion. A shoemaker in~one of the  
-inland cities made a: fortune by adver-  
-tising shoes of the shape of a child’s  
-  
-foot.  
-and the good sense of the mothers, and  
-was not  
-  
 What ¢ to Do in Case of Accident,  
   
 Prof. Wilder, of Cornell University,  
@@ -9987,9 +9570,10 @@ with
 For apoplexy, raise the head and body; ;  
 for fainting, lay the person flat.  
   
-~
+~  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1875-10-21_24_42%2Fper_the-pacific_the-pacific_1875-10-21_24_42_jp2.zip%2Fper_the-pacific_the-pacific_1875-10-21_24_42_jp2%2Fper_the-pacific_the-pacific_1875-10-21_24_42_0007.jp2/pct:19.920027,32.501373,14.281906,33.854141/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1875-10-21_24_42%2Fper_the-pacific_the-pacific_1875-10-21_24_42_jp2.zip%2Fper_the-pacific_the-pacific_1875-10-21_24_42_jp2%2Fper_the-pacific_the-pacific_1875-10-21_24_42_0007.jp2/pct:19.920027,47.586482,14.068644,18.769031/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10011,7 +9595,7 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.&quot;  
+&quot;  
 Vhat to do i.v Case of Accident. Prof.  
 Wilder, of Cornell University, gives these short  
 rales for action in case of accident:  
@@ -10026,7 +9610,7 @@ If choked, go npon all fours and congh.
 lor slight burns, dip tbe part in cold water; if  
 the skiu is destroyed, cover with varnish.  
 For apoplexy, raise tbe head and body; for  
-fainting, lay tbe person flat
+fainting, lay tbe person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875112501:0513/pct:30.347985,81.512134,12.545788,6.915416/!600,600/0/default.jpg"/>
 </td>
@@ -10040,7 +9624,6 @@ fainting, lay tbe person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 For dustin the eyes,avoid rubbing; dash cold water  
 in them; remove cinders, ete., with the round point of  
 a lead pencil.  
@@ -10053,7 +9636,8 @@ If an artery is cut, compress it above the wound ; if
 skin is destroyed, cover with varntsh.  
 For apoplexy,raise the head and body; for fainting,  
 &#x27; lay the person flat,  
-e L
+e L  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016044:1875112501:0184/pct:38.706048,86.727949,11.322082,5.071266/!600,600/0/default.jpg"/>
 </td>
@@ -10067,7 +9651,7 @@ e L
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--tf.  
+tf.  
 HI  
 What to do in Case of an Acci­  
 dent.Prof. Wilder, of Cornell Univer­  
@@ -10087,7 +9671,7 @@ cough.
 For slight burn-, dip the part in  
 cold water; if the kin is destroyed,  
 cover with varuih.  
-For aioplexy, raise the hea
+For aioplexy, raise the head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1875112501:0617/pct:74.223010,82.429353,9.637405,12.135369/!600,600/0/default.jpg"/>
 </td>
@@ -10101,7 +9685,7 @@ For aioplexy, raise the hea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the mind  
+the mind  
 has lost its balance, or become too intense  
 in certain of its faculties. Nature is a grand  
 balm for those souls who feel hurt by so0-  
@@ -10149,7 +9733,7 @@ flat.
   
   
   
-Tue losses
+Tue losses 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48%2Fsim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48_jp2.zip%2Fsim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48_jp2%2Fsim_albion-a-journal-of-news-politics-and-literature_1875-11-27_53_48_0006.jp2/pct:49.644420,23.867013,19.256018,35.271174/,600/0/default.jpg"/>
 </td>
@@ -10163,7 +9747,6 @@ Tue losses
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 What to do ia Casi of an Accident  
 Prof. Wilder, of Cornell University,  
 gives these short rules for action iu  
@@ -10184,7 +9767,7 @@ For slight burns, dip the part in
 cold water; if the skin Is destroyed,  
 cover with varnish.  
 For apoplexy, raise the head and  
-body ; fur fainting, lay the person fla
+body ; fur fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875120101:1216/pct:35.048587,13.393552,13.847173,10.839433/!600,600/0/default.jpg"/>
 </td>
@@ -10198,46 +9781,7 @@ body ; fur fainting, lay the person fla
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l do  
-its work effectually.   
-TESTING WOOD.   
-To test the quality of wool, take a  
-lock from the sheep’s back, and place it  
-on a measured inch. If the spirals count  
-from thirty to thirty-three in the space  
-of an inch, it equals the finest Electoral  
-or Saxony wool grown. The diminution  
-of the number folds to the inch shows  
-the inferiority.   
-GLUE TO RESIST FIRE.   
-The London Furniture Gazette gives  
-this recipe : Mix a handful of quick­  
-lime in four ounces of linseed oil; boil  
-to a good thickness, then spread on  
-plates in the shade and it will become  
-exceedingly hard, but may be easily dis­  
-solved over the fire, and used as ordin­  
-ary glue. It resists tire after being used  
-for glueing substances together.   
-TO CLEAN LOOKING-GLASSES.   
-Take a newspaper, fold it small, dip it  
-in a basin of cold water. When thor­  
-oughly wet, squeeze it out as you would  
-a sponge; then rub it over the surface of  
-the glass, taking care that it is not so  
-wet as to run down in streams; in fact,  
-the paper must only be completely moist­  
-ened, or dampened, all through. Let it  
-rest a few minutes, then go over the  
-glass with a fresh newspaper, ti 1 it looks  
-clear and bright. The insides of win­  
-dows may be cleaned in the same way;  
-also spectacle glasses, lamp glasses, etc.  
-White paper that has not been printed  
-on is better; but in the absence of that a  
-very old newspaper, on which the ink  
-has become thoroughly dried, should be  
-used. Writing paper will net answer.   
+.   
 WHAT TO DO IN CASE OF ACCIDENT.   
 Prof. Wilder, of Cornell University,  
 gives these short rules for action in case  
@@ -10258,106 +9802,9 @@ water; if the skin is destroyed, cover
 with varnish.   
 For apoplexy, raise the head and  
 body; for fainting, lay the person flat.  
-WEIGHTS AND MEASURES RECOGNIZED BY   
-THE UNITED STATES.   
-  
-Bushel. Pounds.   
-Wheat 60   
-Shelled corn 56   
-Corn in the ear ; 70   
-Rye 56   
-Oats 32   
-Barley .48   
-White beans 60   
-Irish potatoes 60   
-Sweet potatoes
+WEIGHTS AND MEASURES RECOGNIZED BY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1875120201:0234/pct:5.498423,9.441634,14.493350,38.559952/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The true northerner._](https://www.loc.gov/resource/sn85033781/1875-12-03/ed-1/?sp=7)
-
-#### 1875-12-03 &middot; [Paw Paw, Mich.](http://dbpedia.org/resource/Paw_Paw%2C_Michigan)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- MB It  
-its work . tb&#x27;ftually.  
-TKST1N0 WOOL.  
-To tent tho qualitv of wool, take, a  
-lock from the aheep&#x27;s back, and MM it  
-, .11 a iiH&#x27;HHnred inch. If the spirttln count  
-from thirty to thirty-three in the apace  
-of an inch, it equals the finest BUmoMI  
-r Saxony wool grown. The diminution  
-of the number of folds to the inch shown  
-the inferiority.  
-olitk to MR piuk.  
-The London Furnitm Qmm Ml Jkt I  
-this recipe : Mix a handful of quick  
-lime in four ounces f linseed oil ; boil  
-to a good thickness, then spread on  
-plates in the shade MM it WUl bMMf  
-exceedingly hard, but nmy 1m easily dis­  
-solved over the tire, ami used as ordin  
-ary glue. It resists tiro after being used  
-for glueing substances tOfMiMC.  
-TO CL.EAN LOOKING IfltMl  
-Tuke :l newspaper, fold it MMJL dip it  
-in it basin of cold water. When thor­  
-oughly Wet, squeeze it out as voil would  
-sponge; then nib it over the surface of  
-the glase, taking mn that it is not so  
-wet as to run don in streams; m fsct,  
-the pnp r must only I&#x27; roinplrtilv moiM  
-ened, oc cbmpeaea, all through. L t it  
-i.st a few minutes, then go over the  
-glass with a fresh tu wspaper, ti 1 it looks  
-clear and bright. The insides of win­  
-dows may be el Miied In the MM WSJ :  
-also spectacle glasses, lanq glasses, etc.  
-White papei ttiat has not been printed  
-on is better; but in the absence Of that a  
-very old newspaper, on w hich the ink  
-has becoirj&#x27; th roughly dried, should be  
-DSSd. Writing paper will not answer.  
-WHAT TO !( IN CASK Of ACCIDENT.  
-Ptof. Wilder, of OOTWtf University,  
-givei these Miott rulee for mUob in ease  
-of accident :  
-For dust in the eyes, avoid rubbing;  
-dash cold water m them; restore cinders,  
-etc., with the round point Of a lead pen­  
-cil.Kemove insects from the cur by tepid  
-water. Never put i hard instrument  
-into the ear.  
-If an artery is cut, compress it abov.  
-the wound ; if a vein is cut eoinpr. I it  
-i lelow.  
-If choked, go upon all foursaud cough.  
-For slight burns, dip the part in cold  
-water; if th&quot; skin is destroyed, cover  
-with varnish.  
-For api&quot;) lexy, raise tin head and  
-body; for fainting, lay the person Hit.  
-WattGHTS ni MFAsrnr.s ttOOOXIUD M  
-THK INITKD STATES.  
-  
-llunhrl. 1&#x27;iiuti&#x27;U.; Mafctt.  
-Wheat (VO&#x27; Hint- rass sei &#x27;1  
-Shelled corn HMBnckwhOt  
-crn in the ear 7n Dried jam lies. . .  
-Rye Dried apples  
-Mi MlOalOM  
-Batiey 4h;SH  
-White beans fin&#x27;stnue .al  
-Irish potatoes fio.MUt  
-sweet potatoes
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875120301:1116/pct:7.738095,11.821646,13.988095,35.856245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1875120201:0234/pct:5.525847,31.339879,14.369944,12.000397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10369,7 +9816,6 @@ sweet potatoes
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Preaeare of Mind In Aerfdenta  
 Profe-sor Wilder gives these short  
 rules for action in case of accident: For  
@@ -10401,7 +9847,7 @@ fee and keep moving. It you fall into
 and mouth projecting. For apoplexy  
 j raise the head and lody ; for fainting,  
 | lay the person flat.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875122301:0350/pct:23.837964,67.943819,9.815632,13.663121/!600,600/0/default.jpg"/>
 </td>
@@ -10415,7 +9861,6 @@ j raise the head and lody ; for fainting,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 1&#x27;HKsknck OF IDD EM ftOUUXBSTS.  
 Prof. Wilder gives these short roles  
 for action in case of accident: Fordusl  
@@ -10448,7 +9893,7 @@ give Strong COhVe, and keep moving.
 If you fall into the water, float on the  
 bask, with the nose nnd mouth project  
 ing. For apoplexy, raise the head and  
-body. For fainting, lay the pen SJ fln
+body. For fainting, lay the pen SJ flni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875122401:1134/pct:79.726148,64.199443,13.766196,17.033137/!600,600/0/default.jpg"/>
 </td>
@@ -10462,7 +9907,6 @@ body. For fainting, lay the pen SJ fln
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 PreseBteaTfUad la Aeeldenta.  
 Professor Wilder gives these short  
 rules for action iu case of accident : For  
@@ -10494,33 +9938,9 @@ water, float on the back, with the nose
 and mouth projecting. For apoplexy  
 raise the head and body ; for fainting,  
 lay the person flat.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LenTop16n_ver01%2Fdata%2F1876012001%2F0061.jp2/pct:63.737624,65.073077,14.150165,17.374676/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _London Reader of Literature, Science, Art and General Information 1863-1903_](https://archive.org/details/sim_london-reader-of-literature-science-art-and-general_1876-01-22_26_664/page/n22/mode/1up?view=theater)
-
-#### 1876-01-22 &middot; [London, England](http://dbpedia.org/resource/London)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-To&quot; OL#aN Lookine Giassts.—Take 4 news-  
-paper;or part.of one, according to the size of the  
-glass. Fold it small and dip it into a basin of clean  
-o6ld Water; whén thoronghly wet squeeze it out in  
-your hand as you would a sponge, and then rub it  
-bard all over the face of the glass, taking care that  
-itis hot so wet as to rith down in streams. In fact,  
-the papet must only, be completely moistened or  
-damped all through. After the glass has bee
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_london-reader-of-literature-science-art-and-general_1876-01-22_26_664%2Fsim_london-reader-of-literature-science-art-and-general_1876-01-22_26_664_jp2.zip%2Fsim_london-reader-of-literature-science-art-and-general_1876-01-22_26_664_jp2%2Fsim_london-reader-of-literature-science-art-and-general_1876-01-22_26_664_0022.jp2/pct:60.850801,26.401246,25.832306,7.273132/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10532,8 +9952,6 @@ damped all through. After the glass has bee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Presence of Mind.—Professor Wilder,  
 of Cornell University, gives the following  
 short rules for action in case of accident:  
@@ -10564,45 +9982,9 @@ and keep moving. If in water, float on the
 back with the mouth and nose projecting.  
 For apoplexy, raise the head and body;  
 for fainting, lay the person flat.  
-The “Court Jour
+The “Court Journ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876012801:0198/pct:73.781676,77.526395,11.192333,16.390146/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Journal of Education 1875-1876_](https://archive.org/details/sim_journal-of-education-1875_1876-02_1_12/page/n46/mode/1up?view=theater)
-
-#### 1876-02-01 &middot; [Brooklyn, New York](http://dbpedia.org/resource/Brooklyn)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-sponge; then rub it over the surface  
-of the glass, taking care that it is not  
-so wet as to run down in streams; in  
-fact, the paper must only be complete-  
-ly moistened, or dampened all through.  
-Let it rest a few minutes, then go over  
-the glass with a fresh newspaper, till  
-_it looks clear and bright. The insides  
-of windows may be cleaned in the  
-same way, also spectacle glasses, lamp  
-glasses, etc. White paper that has  
-not been printed on is better; but in  
-the absence of that, a very old news-  
-paper, on which the ink has become  
-thoroughly dried, should be used.  
-Writing paper will not answer.  
-  
-  
-  
-Wuat ‘Is CALLED petrifaction of a  
-soli
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_journal-of-education-1875_1876-02_1_12%2Fsim_journal-of-education-1875_1876-02_1_12_jp2.zip%2Fsim_journal-of-education-1875_1876-02_1_12_jp2%2Fsim_journal-of-education-1875_1876-02_1_12_0046.jp2/pct:7.109479,16.826923,37.049399,29.159699/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10614,7 +9996,6 @@ soli
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 1. ss.  
 What to io ix Cash ok an A ipknt.  
 Prof. Wilder of Cornell University gives  
@@ -10634,7 +10015,7 @@ For slight burns, dip the
   
 -s it below.  
   
-tl
+tli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876020201:0010/pct:82.383420,21.688724,11.082326,7.207700/!600,600/0/default.jpg"/>
 </td>
@@ -10648,14 +10029,14 @@ tl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, sir. faitlif lllv yours.  
+sir. faitlif lllv yours.  
   
 water: if the skin is destroyed, cover with  
 varnish.  
 For apoplexy, rai-e tlie hoitd and body;  
 for fainting lay the person flat.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876020201:0010/pct:75.618883,28.929235,17.746114,44.668052/!600,600/0/default.jpg"/>
 </td>
@@ -10669,7 +10050,7 @@ for fainting lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: of Mind.—Professor Wilder,  
+of Mind.—Professor Wilder,  
 of Cornell I’liiver.-uty, gives the following  
 short rules for action in ease of accident :  
 t er ihi.-t, in the eyes, avoi 1 rubbing,  
@@ -10700,7 +10081,7 @@ ter. float on the back with the mouth and
 nose projecting. For apoplexy, lal.-e the  
 head and body : for fainting, lay the per­  
 son fiat.  
-On Seconi# Titotm
+On Seconi# Titotmn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1876021001:0649/pct:49.402316,55.224868,14.717968,22.288360/!600,600/0/default.jpg"/>
 </td>
@@ -10714,7 +10095,7 @@ On Seconi# Titotm
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f which are in use.  
+which are in use.  
 Pporssor Wilder, of Cornell Uni  
 versity, gives these short rules for ac  
 tion in case of accident:­  
@@ -10735,7 +10116,7 @@ water; if the skin is destroyed, cover
 with varnish.  
 For apoplexy, raise the head and  
 body; for fainting, lay the person flat.  
-The s
+The st
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1876021101:0850/pct:62.398208,19.916479,10.667752,14.519756/!600,600/0/default.jpg"/>
 </td>
@@ -10749,26 +10130,6 @@ The s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ine recently  
-attempted to chastise a boy, when he  
-turned upon her and stabbed her with  
-a gimlet. She has quit teaching 6ince  
-it has become such a bore to her.  
-They have a strange cattle disease  
-in Champaign county. 111. There are  
-no signs of illness, but after eating  
-heartily all day, the animals lie qui­  
-etly down and die the next morning.  
-i  
-A man in Berks county, Pennsyl­  
-vania, was dangerously burned a few  
-nights ago. His bed caught Are from  
-a lamp. Sever take alighted lamp to  
-bed with you.  
-&quot; We confess that we don&#x27;t like the  
-devil.&quot; Louisville Courier-Journal.  
-Familiarity breeds contempt.  
-  
 What to do in Case of Accident.  
   
 Prof. Wilder, of Cornell Universi­  
@@ -10791,9 +10152,10 @@ cold water; if the skin is destroyed,
 cover with varnish.  
 For apoplexy, raise the head and  
 body ; for fainting, lay the person  
-flat.
+flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1876022401:0581/pct:17.531949,7.100651,22.949947,89.624437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1876022401:0581/pct:29.392971,7.100651,11.088924,12.378568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10815,7 +10177,7 @@ flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- for action in  
+for action in  
 caso of accident  
 For dust in the eyes, avoid rubbing;  
 dash could water in them; remove cinders,  
@@ -10833,7 +10195,7 @@ varnish.
 For apoplexy, ralae the head and body;  
 for fainting, lay the person flat.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876022601:0201/pct:12.694642,2.099408,16.521510,96.985466/!600,600/0/default.jpg"/>
 </td>
@@ -10847,7 +10209,6 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Prof. Wilder, of Cornell University, gives  
 these short rules for action lu ease of accident:  
 For dust in tho eyes, avoid rubbing; dash cold  
@@ -10861,7 +10222,8 @@ If choked, go npou all fours and cough.
 For sßgbt burns, dm tho part iu cold water ;  
 if tbe akin is destroyed, cover with varnish.  
 For apoplexy, raise the bead and body; for  
-fainting, lay tbo person Oat.
+fainting, lay tbo person Oat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876022801:0003/pct:56.909938,69.497992,12.862319,6.004016/!600,600/0/default.jpg"/>
 </td>
@@ -10875,7 +10237,7 @@ fainting, lay tbo person Oat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y  
+  
 QuICK PRESCRIeTIONS. Prof. Wilder, of  
 Cornell University, gives these short rales  
 for action in case of accident:  
@@ -10894,45 +10256,9 @@ For apoplexy, raise the head and boly;
 fr fainting, lay the person flat. Srucuse  
 Stanntard.  
 The sourhern men and woman are very  
-stately, and show a type of hum
+stately, and show a type of huma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654437:1876030201:0528/pct:56.993434,35.006295,13.853260,8.389607/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Ottawa free trader._](https://www.loc.gov/resource/sn84038582/1876-03-04/ed-1/?sp=8)
-
-#### 1876-03-04 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-   
-and stabbed her with a gimlet. She has quit   
-aching since it has become such a bore to  
-her.  
-e  
-The extreme height of misery is a small  
-  
-o i e e a  ee o a e e ea  ee  
-mud or slush in reach. e a    
-  
-Two Irishmen traveling, were robbed and  
-in a wood. One, in despair, cried  
-ich. I&#x27;m undone!&quot; Said the other: &quot;Faix,  
-then I wish you would come and undo me.&quot;  
-  
-Sneech of an accused man in a court at  
-  
-Boston last week: &quot;Gentlemen of the jury,  
-I never stole any junk in my life. That  
-isn&#x27;t my line. The dry goods business is my  
-line.&quot;  
-&quot;We confess that we don&#x27;t like the devil.  
-four
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876030401:0103/pct:21.578345,5.363576,30.118185,85.110073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10944,7 +10270,6 @@ four
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Quick Prescriptions.—Prof. Wilder,  
 of Cornell University, gives the short rules fol  
 action in case of accident :  
@@ -10961,7 +10286,7 @@ the skin is distroyed, cover with varnish.
 For apoplexy, raise the head and body ; for faint­  
 ing lay the person flat.  
 \ A Calf Story.—The Waco (Texas&#x27;,  
-Examiner says: The other day, near 
+Examiner says: The other day, near t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110235:1876030501:0006/pct:81.899380,81.071337,12.541013,6.103528/!600,600/0/default.jpg"/>
 </td>
@@ -10975,7 +10300,7 @@ Examiner says: The other day, near
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-! For dost  
+For dost  
 in the eye avoid rubbing daah cold water  
 in them ; remove cinders, etc., itfa the  
 ronnd point of a lead pencil. &#x27; Remove in­  
@@ -10987,7 +10312,7 @@ choked, go upon all (ours and cough. For
 slight burns dip the part in cold water; if  
 the akin is destroyed cover with varnUb.  
 For apoplexy raise the head and body ; fur  
-lainting lay the pr-rson Hat
+lainting lay the pr-rson Hat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1876030801:0500/pct:12.038328,10.474696,11.324042,6.800052/!600,600/0/default.jpg"/>
 </td>
@@ -11001,7 +10326,7 @@ lainting lay the pr-rson Hat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ust in the eyes, avoid rubbing;  
+st in the eyes, avoid rubbing;  
 dash cold water in them ; remove cinders,  
 etc., with the round point of a lead peucii.  
 Remove insects from the ear with tepid  
@@ -11014,7 +10339,8 @@ water; if the skin is destroyed, cover with
 varnish.  
   
 For apoplexy, raise the head and body;  
-for fainting, lay the person flat.
+for fainting, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528888:1876030901:0177/pct:75.827882,63.874473,9.219133,5.295167/!600,600/0/default.jpg"/>
 </td>
@@ -11028,7 +10354,7 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and  
+and  
 tho result will be a plaster that will &quot;draw&quot; per­  
 fectly; but will not produce a blister, no matter  
 how long it is allowed to remain upon the part.  
@@ -11046,7 +10372,7 @@ If choked, go upon all fours aud cough.
 For slight burns dip the part in cold w ater ; if  
 tho skill is destrojed, cover with varnish.  
 For apoplexj- raise the head and bodj-; for  
-fainting lay the person flat
+fainting lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876030901:0575/pct:31.546355,24.042053,12.278839,8.147738/!600,600/0/default.jpg"/>
 </td>
@@ -11060,8 +10386,6 @@ fainting lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Quick Prescriptions.  
   
 Prof. Wilder, of Cornell University,  
@@ -11083,7 +10407,8 @@ For slight burns oip the part in coiu
 water; if the skin is destroyed cover  
 with varnish.  
 For apoplexy raise the head and  
-body ; for fainting lay the person flat.
+body ; for fainting lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775447:1876030901:0170/pct:84.335757,77.485832,10.938533,9.840289/!600,600/0/default.jpg"/>
 </td>
@@ -11097,7 +10422,7 @@ body ; for fainting lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- u  
+u  
 Quick Prescriptions.  
 Prcf. &quot;Wilder, of Cornell University,  
 rives these short rules for action in case  
@@ -11123,7 +10448,7 @@ Syracuse Standard.
   
 FUXGEST PARAGRAPHS.  
 Ptck out the next bank to be cracked.  
-It&#x27;s much safer to rob a bank of half 
+It&#x27;s much safer to rob a bank of half a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1876030901:0418/pct:71.291718,5.632663,21.894314,89.278279/!600,600/0/default.jpg"/>
 </td>
@@ -11137,14 +10462,7 @@ It&#x27;s much safer to rob a bank of half
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eek Some authorities question whether  
-Belknap can legally be impeached now that he is n¢  
-onger in office; and Gen. Grant is much blamed for  
-allowing him to resign so promptly, instead of sus-  
-pending him for trial. Grant declares he was unawure  
-of the extent of the crime, and has since ordered the  
-Attorney General to criminally prosecute General  
-Belknap, and ail others concerned in the affair. One  
+and ail others concerned in the affair. One  
 Captain Robinson declares that he laid all the facts  
 about the Fort Sill contract before the President three  
 years ago, with ample proofs, but Grant refused to do  
@@ -11186,9 +10504,9 @@ ing lay the person flat.—.Syracuse Standard.
   
 WALKING AS A FINE ART.  
 Sesey NOTES; or Walking as a Fine Art  
-sy Al
+sy Alf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_oneida-circular_1876-03-09_13_10%2Fsim_oneida-circular_1876-03-09_13_10_jp2.zip%2Fsim_oneida-circular_1876-03-09_13_10_jp2%2Fsim_oneida-circular_1876-03-09_13_10_0006.jp2/pct:59.061135,66.520701,26.282751,23.566879/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_oneida-circular_1876-03-09_13_10%2Fsim_oneida-circular_1876-03-09_13_10_jp2.zip%2Fsim_oneida-circular_1876-03-09_13_10_jp2%2Fsim_oneida-circular_1876-03-09_13_10_0006.jp2/pct:59.061135,73.089172,26.282751,16.998408/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11200,8 +10518,6 @@ sy Al
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 OuIcE PRESCRIpTIONs. Professor Wilder,  
   
 of Cornell University, gives these short rules  
@@ -11223,7 +10539,7 @@ capniagk FacTor.
 fhose in want or  
 Gooa barriages, Top and Open Buogies, Sude  
   
-Sulkies e6. can find them at this Factory, all o
+Sulkies e6. can find them at this Factory, all of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876031101:0106/pct:19.483748,32.813738,29.330784,33.949802/!600,600/0/default.jpg"/>
 </td>
@@ -11237,7 +10553,7 @@ Sulkies e6. can find them at this Factory, all o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of  
+of  
 actions, intended chiefly to gratify domestic  
 hatred.  
   
@@ -11270,7 +10586,7 @@ varnish.
 For raise the head and body,  
 for fainting lay the person flat.  
   
-A vein o
+A vein of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_school-journal_1876-03-11_8_247%2Fsim_school-journal_1876-03-11_8_247_jp2.zip%2Fsim_school-journal_1876-03-11_8_247_jp2%2Fsim_school-journal_1876-03-11_8_247_0011.jp2/pct:8.298429,54.765507,19.581152,21.369138/,600/0/default.jpg"/>
 </td>
@@ -11284,7 +10600,6 @@ A vein o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 For dost in the eyes avoid rubbing;  
 daali cold water in them; remove cin­  
 ders, etc., with tho round point of a  
@@ -11293,7 +10608,7 @@ ear hy tepid water; never put a hard
 iDitrumetitTnto the ear. If any artery  
 la cut compress it above the wound; if  
 a voih k cut compress it below. If  
-s
+si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn84022135:00295869483:1876031401:0381/pct:26.285047,85.037252,18.124166,7.471026/!600,600/0/default.jpg"/>
 </td>
@@ -11307,25 +10622,7 @@ s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he upper left hand, that your call  
-is congratulatory ; when the lower left  
-hand, consolatory.  
-City Court.  
-The only cases ca.led before the Mayor  
-this morning, was the case of Cornelia  
-Harris, charged with larceny, and the case I  
-of eight colored school boys charged with  
-disorderly conduct. The boys were dis­  
-missed by the Mayor with the injunction  
-that they would tell their mothers to whip  
-them.  
-While Cornelia Llarris was being exam  
-ined, a man came forward and stated  
-that she was crazy J She was given in  
-charge of the Sheriff to be examined in re-  
-- i  
-gard to the matter.  
-Put this in Your Hat. j  
+j  
 Professor Wilder, of Cornell University j  
 notes these handy prescriptions ; Forj  
 dust in the eyes avoid rubbing ; dash cold j  
@@ -11341,9 +10638,9 @@ xugh. For slight burns dip the part iu
 0 f .  
 cold water ; it the skin is destroved cover  
 with v9rni.!, F.Vr ..irwmlUv ri th  
-head and bodv ; for fainting1 lav the pe
+head and bodv ; for fainting1 lav the per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm28n_ver01%2Fdata%2F1876032301%2F0189.jp2/pct:47.949619,61.141118,15.202109,21.702838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm28n_ver01%2Fdata%2F1876032301%2F0189.jp2/pct:48.213240,73.278994,14.938489,9.564961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11355,13 +10652,12 @@ head and bodv ; for fainting1 lav the pe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 QUICK PRESCRIPTIONS.  
 Professor Wilder, of Cornell Universi­  
 ty, gives these short rules of action in  
 case ol accident:  
-For dust in the eyes, avoid rubbing;
+For dust in the eyes, avoid rubbing;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876032301:0116/pct:33.452827,49.815225,13.117158,2.734664/!600,600/0/default.jpg"/>
 </td>
@@ -11375,7 +10671,6 @@ For dust in the eyes, avoid rubbing;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 dash cold water in them; remove cin­  
 ders, etc., with the round point of a lead  
 pencil.  
@@ -11390,7 +10685,8 @@ For slight burns dip the part in cold
 water; if the skin is destroyed, cover  
 with varnish.  
 For apoplexy raise the head and body :  
-for tainting lay the person fiat.
+for tainting lay the person fiat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876032301:0116/pct:33.485416,52.488298,13.231220,8.105445/!600,600/0/default.jpg"/>
 </td>
@@ -11404,7 +10700,6 @@ for tainting lay the person fiat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eld and Farm.  
 What to Do in Case of Acci­  
 dents.—Professor Wilder, ot Cornell  
 University, gives these short rules for  
@@ -11428,9 +10723,9 @@ For apoplexy, raise the head and
 body ; for fainting lay the person  
 flat.  
 Grange, Maine, at  
-their ins
+their inst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1876032301:0459/pct:39.299405,66.096866,10.535360,12.830688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1876032301:0459/pct:39.299405,67.002442,10.535360,11.925112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11442,8 +10737,6 @@ their ins
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Professor Wilder gives these short  
 rules for action in case of accident:  
 For dust in the eve, avoid rubbinr:  
@@ -11503,7 +10796,8 @@ the nose and mouth proje-rting.
   
 For apoplexy, raise the head and  
   
-body; fainting, lay tbe person flat.
+body; fainting, lay tbe person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou2n_ver01%2Fdata%2F1876032401%2F0231.jp2/pct:40.716253,57.947348,12.892562,24.841647/!600,600/0/default.jpg"/>
 </td>
@@ -11517,7 +10811,7 @@ body; fainting, lay tbe person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mafty throagh the jetties.  
+afty throagh the jetties.  
 Worth Knowing.—Prof. Wilder, of  
 Cornell university, gives these short rules  
 for action in ease ot accident: For dust  
@@ -11535,7 +10829,7 @@ stroyed, cover with varnish. For apo­
 plexy raise the head and body ; for faint­  
 ing lay the person flat.  
   
-A DeraolT lady was tr
+A DeraolT lady was tra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1876032501:0239/pct:69.072388,78.751810,12.136974,10.760817/!600,600/0/default.jpg"/>
 </td>
@@ -11549,7 +10843,7 @@ A DeraolT lady was tr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Wilder, of Cornell Univer­  
+Wilder, of Cornell Univer­  
 sity, gives these short rules for ac­  
 tion in the case of accident:  
 For dust in the eyes, avoid rub­  
@@ -11569,7 +10863,7 @@ cold water ; if the skin is destroy­
 ed cover with varnish.  
 For apoplexy,raise the head and  
 body ; for fainting, lay the person  
-flat
+flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876032501:0922/pct:22.512364,65.749406,14.520277,12.892862/!600,600/0/default.jpg"/>
 </td>
@@ -11583,9 +10877,7 @@ flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ugh for thoto already ia, let alone  
-room for more.  
-Free Prescriptions.&quot;  
+Prescriptions.&quot;  
 Professor Wilder, of Cornell University,  
 gives these short rules for action In caso of  
 accidents;  
@@ -11603,9 +10895,9 @@ For slight burns, dip the pait in cold
 water; if thu skin is destroyed, cover with  
 varnish.  
 For apoplexy, raise the head and body;  
-tor tainting lay the person lint
+tor tainting lay the person lint.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876032901:0298/pct:83.986686,77.236239,10.909763,10.278096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876032901:0298/pct:83.986686,78.870413,10.909763,8.643922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11617,7 +10909,7 @@ tor tainting lay the person lint
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- half way  
+half way  
 I through an ash harre!.&quot;  
   
 Worth Knowing. Prof. Wilder, of!  
@@ -11637,7 +10929,7 @@ the part in cold water; if thettkin is de- j
 st roved, cover with vanii.h. For apo- J  
 I j.lexy raise the head and body ; for faint- j  
 j inp lay the person fiat. j  
-Ax Ohio exchanpe says tha
+Ax Ohio exchanpe says that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1876033001:0466/pct:28.612565,87.700066,22.185864,9.690857/!600,600/0/default.jpg"/>
 </td>
@@ -11651,7 +10943,6 @@ Ax Ohio exchanpe says tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 WoaTr KNowGo.--Prof. Wilder, of  
 Cornell university, gives these short rules  
 for action in ase of accident: For dust  
@@ -11667,7 +10958,8 @@ rs and cough. For slight burns dip
 the pt in cold water; if the skin isde­  
 stroyed, cover with varnish. For apo­  
 plexy raise the head and body; forfaint­  
-inlay the person flat.
+inlay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212474903:1876040101:0265/pct:31.852103,88.983254,12.703528,7.882775/!600,600/0/default.jpg"/>
 </td>
@@ -11681,7 +10973,7 @@ inlay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,- 2 00  
+- 2 00  
 Contract advertisements taken at  
 proportionately low rates.  
   
@@ -11725,7 +11017,7 @@ If in water, lloat on the back,
 with the nose and mout projecting.  
 Eor apoplexy, raise the head and  
 body ; fainting, lay the person flat.  
-A Young Lad
+A Young Lady
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EraRal1n_ver01%2Fdata%2F1876040601%2F0467.jp2/pct:82.214061,14.697789,12.788562,28.456210/!600,600/0/default.jpg"/>
 </td>
@@ -11739,7 +11031,7 @@ A Young Lad
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; lhof. Wilder, of Cornell I&#x27;uiecrsity,  
+lhof. Wilder, of Cornell I&#x27;uiecrsity,  
 gives these short tul -f&quot;!-m ?ion in case ~f  
 accident:  
 For dust in the eyes, avoid rubbing; clash  
@@ -11754,7 +11046,8 @@ For slight burns, dip the part in cold wa­
 ter; if the skin is (b stroyeu, cover with var  
 uiali.  
 For apoplexy, raise the head and body;  
-or fainting, lay the person fiat.
+or fainting, lay the person fiat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1876040801:0260/pct:4.454533,85.173372,12.484040,7.171520/!600,600/0/default.jpg"/>
 </td>
@@ -11768,7 +11061,6 @@ or fainting, lay the person fiat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Professor Wilder, of Cornell University.  
 gives these short rueles for action in case of ci  
 :e. accident: 0Ix  
@@ -11787,7 +11079,7 @@ For slight burns, dip the part in cold wa­
 on ter; if the skin is destroyed, oover with  
 ng varnish.  
 For apoplexy, raise the head and body;  
-for fainting, lay the person 1lat
+for fainting, lay the person 1lat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_lynx_ver01:data:sn84038125:00294554841:1876041401:0500/pct:26.398704,52.567450,12.529446,9.725849/!600,600/0/default.jpg"/>
 </td>
@@ -11801,7 +11093,6 @@ for fainting, lay the person 1lat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Presence of Mind.  
 Professor Wilder eives these short rules  
 for action in case of accident :  
@@ -11834,7 +11125,7 @@ keep moving. . 1 -s :; ,-r ? v.i
 At in water, noaion me&#x27;oc, mm m  
 nose and mouth projecting. s  
 : For apoplexy, raise the head and body y  
-fainting, lay the person flat.
+fainting, lay the person flat. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876041701:0276/pct:80.447681,75.093439,14.603560,18.563123/!600,600/0/default.jpg"/>
 </td>
@@ -11848,8 +11139,6 @@ fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Qnick rescriptions.  
   
 Professor Wilder, of Cornell Uni.  
@@ -11873,7 +11162,7 @@ cover with varnish.
 For apoplexy, raise the head and  
 body; for fainting, lay the person  
 flat.  
-Whe
+WheN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1876041901:0602/pct:18.202721,5.344418,12.416172,16.217999/!600,600/0/default.jpg"/>
 </td>
@@ -11887,55 +11176,6 @@ Whe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-be said, with  
-a tender smile,  
-&quot;To find the chance you Late lost, and keep  
-it a hide while.&quot;  
-  
-She rose u be spoke the words : the petted  
-heifer thrust  
-  
-Her muzzie between the twain, with an ani­  
-mal&#x27;s strange mistrust:  
-Bat ovc-r the creature&#x27;s nerk be drew her to  
-his breast:  
-&quot; A horse is never so old bat it palls with an­  
-other beast!&quot;  
-  
-&quot; It&#x27;s eticugb to know,&quot; ehs said, &quot; to remem­  
-ber, not forget!&quot;  
-&quot;Nt, nay : for the reet of life well pay each  
-other&#x27;s debt!&quot;  
-She bad no will to resist so kindly was she  
-drawn,  
-And she sadiy said, at last ; &quot; But what will  
-become of Juhn 7&quot;  
-—Bayard Taylor.  
-Leather at the Centennial.  
-The applications for space in the shoo  
-and leather building have reached the  
-number of 547, and then- are more in  
-anticipation. The spaces are divided as  
-follows: Seventy-five to boots and shoos,  
-118 to sole and rough leather, sixty to  
-harness, thirty-six to morocoo and sheep­  
-skins, sixteen to rubber goods, twenty­  
-three to saddlery hardware, fifty-one to  
-machinery.  
-Afvor* F*st  
-Boots and shoes 3.887  
-Hole leather 3,900  
-lioagh leather 7S  
-Harness, kip and calf 1,200  
-Morocco and sheep 1,168  
-Harness and saddlery 1,508  
-liubber goods 630  
-Trunks 814  
-Blacking 142  
-Haddlery hardware 668  
-Machinery 1,726  
-Foreign 5,000  
-Total &#x27;. 30,698  
 Prescriptions.  
   
 Professor Wilder, of Cornell Uni­  
@@ -11956,16 +11196,9 @@ with varnish.
 For apoplexy, raise the head and  
 body ; for fainting, lay the person flat.  
   
-FRED, KXTUTZ, Kditor uiitl Proprietor.  
-  
-VOLUME IX.  
-  
-A PAIR OF APRIL FOOLS.  
-  
-Mr. Softheart had always been a ro­  
-mantic
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876042001:0413/pct:5.227480,11.363870,31.742928,84.920226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876042001:0413/pct:5.227480,88.492023,9.803155,7.792074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11977,8 +11210,6 @@ mantic
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Quick Proscriptions.  
 Professor Wilder, of Cornell Uni­  
 versity, gives these short rules for  
@@ -12001,7 +11232,7 @@ cover with varnish.
 For apoplexy, raise the head and  
 body ; for fainting, lay a person flat.  
 —Syracuse Standard.  
-Maxims for Farmer
+Maxims for Farmers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1876042001:0475/pct:51.960523,40.637046,10.789544,11.959830/!600,600/0/default.jpg"/>
 </td>
@@ -12015,8 +11246,6 @@ Maxims for Farmer
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 dash cold  
   
 For dust in the eyes, avoid rubbing; 4as  
@@ -12039,7 +11268,7 @@ If an artery is cut, compress it above the
   
 ‘Well, they look worse’n flies’ heads!’ pro- | wound; if a vein is cut, compress it below.  
   
-*
+* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1876-04-20_49_16%2Fsim_youths-companion_1876-04-20_49_16_jp2.zip%2Fsim_youths-companion_1876-04-20_49_16_jp2%2Fsim_youths-companion_1876-04-20_49_16_0005.jp2/pct:36.283937,83.809166,58.738688,5.184072/600,/0/default.jpg"/>
 </td>
@@ -12053,8 +11282,6 @@ If an artery is cut, compress it above the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Prof, Wilder, of Cornell Universi­  
 ty, gives these short rules for action  
 in case of accident:  
@@ -12080,92 +11307,10 @@ cover with varnish.
   
 For apoplexy, raise the head and  
 body for l&#x27;uintiug, lay tho person  
-flat.
+flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876042101:0067/pct:54.932073,84.862069,9.908447,9.931034/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Abbeville press and banner._](https://www.loc.gov/resource/sn84026853/1876-04-26/ed-1/?sp=1)
-
-#### 1876-04-26 &middot; [Abbeville, S.C.](http://dbpedia.org/resource/Abbeville%2C_South_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-he said, wit]  
-a tender smile,  
-&quot; To find the chance yon have lost, and kee  
-it a little while.&quot;  
-She rose as he spoke tho words : the petto  
-heifer thrust  
-Her mnzzle between the twain, with an ani  
-trial&#x27;s strange mistrust:  
-But over the creature&#x27;s neck he drew her t  
-his breast:  
-&quot; A horse ia never so old but it pulls with an  
-other beast 1&quot;  
-  
-Xb D UUUUgU IAJ im^n, DUO DftAU, IrV ICUIOUJ  
-ber, not forget I&quot;  
-&quot;Nay, nay: for the rest of life we&#x27;ll pay eaol  
-other&#x27;s debt!&quot;  
-She had no will to resist, so kindly waa shi  
-drawn,  
-And she sadly said, at last: &#x27; Bat what wil  
-become of John?&quot;  
-?Bayard Taylor.  
-Leather at the Centennial.  
-The applications for space io^lie sho  
-and leather building have reached th&lt;  
-number of 547, and there are more ii  
-anticipation. The spaces are divided a  
-follows: Seventy-five to boots and shoes  
-116 to sole and rongh leather, sixty t&lt;  
-harness, thirty-six to morocco and shepp  
-skins, sixteen to rubber goods, twenty  
-  
-tares co saaaiexy naraware, mty-one u  
-machinery.  
-&quot; Square Ft,  
-Boots and shoes 3,8$  
-Hole leather 8,90  
-Rough leather 7  
-Harness, kip and oalf 1,20  
-Morocco and sheep 1,15  
-| Harness and saddlery 1,50  
-Rubber goods 63  
-Trunks 81  
-Blacking 14  
-Saddlery hardware 65  
-Machitery 1,72  
-Foreign 5,00  
-. Total... . ?20,69  
-(Juiek Prescriptions.  
-Professor Wilder, of Cornell Uni  
-versity, gives these short rules for actio]  
-in case of accident:  
-For dust in the eyes, avoid rubbing  
-dish cold water in them ; remove cin  
-ders, etc., with the round point of a lea&lt;  
-penoil.  
-If an artery is cut, compress it abov  
-the wound ; if a vein is cut, compress i  
-below.  
-If choked, go upon all fours, an&lt;  
-cough.  
-For slight burns, dip the part in coli  
-water; if the skin is destroyed, cove:  
-&#x27; with varnish.  
-For apoplexy, raise the head an&lt;  
-body ; for fainting, lay the person flat  
-  
-A PAIR OF APRIL FOOLS.  
-Mr. Softheart had always been a ro­  
-inantio
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202194023:1876042601:0345/pct:11.593843,13.689311,21.809831,85.462678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12177,7 +11322,7 @@ inantio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to the  
+o the  
 Grand Lodge of the United Stated. :  
 Quick Prescbiptioks. Professor  
 &quot;Wilder, of Carroll University, gives  
@@ -12199,7 +11344,8 @@ For slight burns, dip the part in cold
 water; If the skin in destroyed, cover  
 with varnish.  
 For apoplexy, raise the head and  
-body ; for fainting lay the person flat.
+body ; for fainting lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaiCharO12n_ver01%2Fdata%2F1876051201%2F0455.jp2/pct:3.822816,82.158639,12.560680,11.820592/!600,600/0/default.jpg"/>
 </td>
@@ -12213,7 +11359,7 @@ body ; for fainting lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ort rules for action in case of accident:  
+rt rules for action in case of accident:  
 For dust in the eyes, avoid rubbing;  
 dash cold water in them; removing  
 clnders.etc, with tho round point of a  
@@ -12231,7 +11377,7 @@ with varnish.
   
 For apoplexy ralso tho head nnd  
 body; for fainting lay tho person Hat.  
-Tho
+Tho 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872199%2F1876051201%2F0954.jp2/pct:45.621331,7.117736,16.609589,10.500754/!600,600/0/default.jpg"/>
 </td>
@@ -12247,7 +11393,7 @@ Tho
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. QUICK  
+QUICK  
 PRESCRIPTIONS.-Professor Wilder, of  
 Cornell University, gives these short  
 rules for action in case of  
@@ -12263,7 +11409,8 @@ choked, go on all fours and cough. For
 slight burns dip the part in cold water;  
 if the skin is destroyed, cover with  
 varnish. For apoplexy raise the head and  
-body; for fainting, lay the person flat.
+body; for fainting, lay the person flat.  
+
 </td></tr></table>
 
 ---
@@ -12274,7 +11421,7 @@ body; for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-you are going no the avenue.&quot;  
+ou are going no the avenue.&quot;  
 JJetroit Free Press. . &#x27;  
 i J.  
 Quick liVwcnpftoa. -Professor  
@@ -12291,7 +11438,7 @@ strument into tbe ear.) y &#x27;-&quot; . &quot;
 If any artery is cut. compress it  
 above the wound ; if a vein is cat  
 compress t bekw.  
-I
+If
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat30n_ver01%2Fdata%2F1876052401%2F0285.jp2/pct:84.198966,19.883345,10.801034,9.519842/!600,600/0/default.jpg"/>
 </td>
@@ -12305,7 +11452,7 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, but own  
+but own  
 in one s  
 Quick Prescriptions.  Professor Wilder  
 of Carrol University, gives these short  
@@ -12323,28 +11470,10 @@ For slight burns, dip the part in cold
 water; if the skin is destroyed, cover with  
 varnish.  
 For apoplexy, raise the head and body;  
-for fainting lay the person flat.
+for fainting lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1876053101:0888/pct:65.144790,70.103950,14.986261,12.390852/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Democratic press._](https://www.loc.gov/resource/sn83035083/1876-06-01/ed-1/?sp=4)
-
-#### 1876-06-01 &middot; [Ravenna, O. [Ohio]](http://dbpedia.org/resource/Ravenna%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-- - -- - - -  
-Two Irishmen, traveling, were  
-robbed and lied iu a wood. One in  
-despair, er e 1 : &quot;Och, I&#x27;m undone !&quot;  
-Said the other : &quot;Faix, then I wUh  
-you would come and undo inc.&quot;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1876060101:0314/pct:28.802114,43.666470,10.731063,3.098758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12356,7 +11485,7 @@ you would come and undo inc.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s: For dust in the eyes avoid  
+: For dust in the eyes avoid  
 rubbing; dash cold water in them; remove cinders,  
 ete., with the round point of a lead-pencil. Remove  
 insects from the ear by tepid water; never put &amp;  
@@ -12366,7 +11495,8 @@ press it below. If choked, go upon all fours and
 cough. For slight burns dip the part in cold water;  
 if the skin is destroyed, cover with varnish. For  
 apoplexy raise the head and body; for fainting lay  
-the person flat.
+the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1876-06_92_552%2Fsim_godeys-magazine_1876-06_92_552_jp2.zip%2Fsim_godeys-magazine_1876-06_92_552_jp2%2Fsim_godeys-magazine_1876-06_92_552_0083.jp2/pct:56.942337,76.488658,34.559939,10.940454/600,/0/default.jpg"/>
 </td>
@@ -12380,8 +11510,6 @@ the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 The following bri f rules for prompt  
 action in case of accident are given by  
 Professor Wilder, of Cornell university:  
@@ -12400,7 +11528,7 @@ with varnish. For apoplexy, raise the
 head and body. For fainting, lay the  
 person flat.  
   
-The Last of his Rac
+The Last of his Race
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ifill_ver01:data:sn84025894:00211664745:1876060301:0025/pct:50.248116,16.566970,26.428965,79.518856/!600,600/0/default.jpg"/>
 </td>
@@ -12416,7 +11544,7 @@ The Last of his Rac
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- PiiESopTioNS.—  
+PiiESopTioNS.—  
 PrbfossorWildor, of Cornell University,,  
 givestlibso&#x27; short rules for action in  
 caao of .accident ; — For dnat in the  
@@ -12433,7 +11561,7 @@ alight burns dip the part in cold wator
 ; -if .the skin is dostroyod, covor with  
 varnish. _ For apoploxy, ruiso tho&#x27; head  
 and body; for fainting, luy the poraon  
-flat. &#x27;
+flat. &#x27; 
 </td></tr></table>
 
 ---
@@ -12444,9 +11572,6 @@ flat. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 The following brief rules for prompt action in case  
 of accident are given by Professor Wilder, of Cornell  
 University :  
@@ -12464,7 +11589,7 @@ lay the person flat.”
   
   
   
-The free use of celery is mor
+The free use of celery is more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-weekly_1876-06-10_20_1015%2Fsim_harpers-weekly_1876-06-10_20_1015_jp2.zip%2Fsim_harpers-weekly_1876-06-10_20_1015_jp2%2Fsim_harpers-weekly_1876-06-10_20_1015_0006.jp2/pct:52.149758,83.036326,18.816425,8.104866/600,/0/default.jpg"/>
 </td>
@@ -12478,8 +11603,6 @@ The free use of celery is mor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 The following brief rules for prompt action in case  
 of accident are given by Professor Wilder, of Cornell  
 University :  
@@ -12495,7 +11618,7 @@ cold water ; if the skin is destroyed, cover with varnish.
 For apoplexy, raise the head and body. For fainting,  
 lay the person flat.”  
   
-The free use of celery is mor
+The free use of celery is more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-weekly_harpers-weekly_1876-06-10_20_1015%2Fsim_harpers-weekly_harpers-weekly_1876-06-10_20_1015_jp2.zip%2Fsim_harpers-weekly_harpers-weekly_1876-06-10_20_1015_jp2%2Fsim_harpers-weekly_harpers-weekly_1876-06-10_20_1015_0006.jp2/pct:49.571482,80.940156,19.103217,8.109065/600,/0/default.jpg"/>
 </td>
@@ -12511,7 +11634,7 @@ The free use of celery is mor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- —  
+—  
 Professor Willder, of Cornell  
 University, gives these short rules for  
 ncl ion in case of accident :— For dust  
@@ -12527,7 +11650,7 @@ all tonrs nnd cough. Vnr slight hums,
 dip tlw part in cold water ; if the skin  
 is destroyed, cover with varnish. For  
 apoplexy, raise tiie bend aud b.nly ;  
-for fainting. Iny the person Hnt
+for fainting. Iny the person Hnt.
 </td></tr></table>
 
 ---
@@ -12570,7 +11693,7 @@ Standard.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; Quick  
+Quick  
 Pubbchiptionb.—Professor Wilder, of  
 Cornell University, give® these short  
 rules for action io case of accident:  
@@ -12587,7 +11710,7 @@ burns, dip the part in cold watqr; if
 the skin is destroyed^ cover with  
 varnish. For apoplcxv* raise the bead  
 and body; for feinting, lay the person  
-flat—Syracuse Stanford, A S
+flat—Syracuse Stanford, A Si
 </td></tr></table>
 
 ---
@@ -12600,7 +11723,7 @@ flat—Syracuse Stanford, A S
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tom Boat.&#x27; &#x27; Quick  
+Quick  
 Prescriptions. — Professer Wilder, of  
 Cornell University, gives these short  
 rules for action in case of accident : —  
@@ -12618,7 +11741,7 @@ water ; if the j skin is destroyed,
 cover with varnisli. ! For apoplexy,  
 raise the head and body; forfaiting&#x27;,  
 lay the person flat. — Syracuse  
-Standard
+Standard.
 </td></tr></table>
 
 ---
@@ -12629,7 +11752,6 @@ Standard
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Profi:ssoe Wilder, of Cornell University,  
 gives these short roles fur action in case of acci­  
 dent: For dust in the eyes avoid rubbing; dash  
@@ -12642,7 +11764,8 @@ compress it below. If choked, go npon all fonrs
 anil tough. For slight burns, dip the part iu  
 cold water; if the skin is destroyed, cover with  
 varnish. For apoplexy raise the bead and body ;  
-for fainting, lay the person flat.
+for fainting, lay the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876072701:0658/pct:31.312411,43.623879,12.250357,5.339126/!600,600/0/default.jpg"/>
 </td>
@@ -12658,7 +11781,7 @@ for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Profesra d ider,  
+Profesra d ider,  
 of Cornell University, gives theeo short  
 rules for action in case of accident:For  
 dopt.,i, the eyes, avoid rubbing; dash  
@@ -12674,42 +11797,8 @@ brns, dip the part in cold water ; if
 the akin is d?stroefl, eorer with  
 varnish. For apopley; reise the head and  
 body.; for faointing, lay the peson st.  
---B raouwe ,
+--B raouwe ,r
 </td></tr></table>
-
----
-
-## [From _Maryville Republican._](https://www.loc.gov/resource/sn96091618/1876-08-05/ed-1/?sp=1)
-
-#### 1876-08-05 &middot; [Maryville, Tenn.](http://dbpedia.org/resource/Maryville%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- teeth.  
-To Clean Looking Glasses.  
-Take a newspaper, fold it small,  
-dip it in a basin of cold water. When  
-thoroughly wet squeeze it out as you  
-would a sponge; then rub it over  
-the surface of the glass, taking care  
-that it is not so wet as to run down  
-in streams; in fact the paper must  
-only be completely moistened, or  
-dampened all through. Let it rest a  
-few minutes, then go over the glass  
-with a fresh newspaper, till it looks  
-clear and bright. The insides of  
-windows may be cleaned in the same  
-way, also spectacle glassess, lamp  
-glasses, etc. White paper that has  
-not been printed on is better; but in  
-the absence of that a very old news­  
-paper, on which the ink has bocome  
-thoroughly dried should be used.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn96091618:00280779271:1876080501:0158/pct:61.770675,61.452607,14.713343,13.559887/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -12719,7 +11808,7 @@ thoroughly dried should be used.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--For dust in the eye:  
+For dust in the eye:  
 &#x27;■ avoid rubbing: dash cold water into them  
 e remove cinders &amp;c., with the round point  
 of a lead pencil. Remove insects from the  
@@ -12731,7 +11820,8 @@ Q all fours anel cough. For slight burns, di]
 ’■ the part in cold water, if the skin is destroy  
 a ed, cover with varnish. For apoplexy, raisi  
 ^ the head and body; for fainting, lay the  
-0 person flat.
+0 person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876081001:0335/pct:72.808274,68.718013,11.328560,6.640869/!600,600/0/default.jpg"/>
 </td>
@@ -12745,7 +11835,7 @@ a ed, cover with varnish. For apoplexy, raisi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- for action in case or  
+for action in case or  
 accident *  
 For dust in the eyes avoid rubbing ;  
 dash cold water in them ; remove cin­  
@@ -12762,7 +11852,7 @@ For slight burns dip the part in cold
 water; if the skin is destroyed cover  
 with varnish.  
 For apoplexy, raise the bead and bo­  
-dy ; for fainting, lay the person fla
+dy ; for fainting, lay the person flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876090101:0304/pct:81.995039,15.104057,12.730121,10.006306/!600,600/0/default.jpg"/>
 </td>
@@ -12776,7 +11866,6 @@ dy ; for fainting, lay the person fla
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 thus tells what to do in cases of accident:  
 For dust in the eyes, avoid rubbing,. and  
 dash water into-them; remove cinders,­  
@@ -12808,7 +11897,7 @@ water, float on the back with the nose
 and mouth projecting. For apoplexy,  
 raise the head and body; for .fainting lay  
 the person flat.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1876090701:0184/pct:85.975786,67.411370,12.121649,15.649255/!600,600/0/default.jpg"/>
 </td>
@@ -12822,7 +11911,6 @@ the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 thus tells what to do in cases of accident:  
 For dust in the eyes, avoid rubbing, and  
 dash water into &quot;them; remove cinders,  
@@ -12854,7 +11942,7 @@ water, float on the back with the nose
 and mouth projecting. For apoplexy,  
 raise the head and body ; for fainting lay  
 the person flat.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1876090701:0185/pct:86.162146,67.426913,12.131817,15.560854/!600,600/0/default.jpg"/>
 </td>
@@ -12868,7 +11956,7 @@ the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i wu nuj i  
+i wu nuj i  
 Preseoee of Mlad.  
 Fruf. Wilder rrivea these ibori rules if  
 for action in case of accident: For dust  
@@ -12905,7 +11993,7 @@ and mouth pWferJjDcr For apoplexy.
 rjiiiaa too neau ana vouy; lor &#x27;iiUiung  
 m a &quot; a T a  
 lay mo person sac  
-
+.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSGreen15n_ver01%2Fdata%2F1876092901%2F0333.jp2/pct:55.380435,28.309333,13.274457,21.280000/!600,600/0/default.jpg"/>
 </td>
@@ -12919,7 +12007,6 @@ lay mo person sac
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 What to no in Case of Accidents.—Professor Wilder,  
 of Cornell University, gives these short rules for action  
 in case of accidents :  
@@ -12935,7 +12022,7 @@ For slight burns, dip the part in cold water; if the
 skin is destroyed, cover with varnish.  
 For apoplexy, raise the head and body; for fainting,  
 lay the person flat.  
-The Journal of Chemistry asserts that tea is no
+The Journal of Chemistry asserts that tea is not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876093001:0473/pct:3.868699,39.728923,11.036677,6.341706/!600,600/0/default.jpg"/>
 </td>
@@ -12959,7 +12046,7 @@ The Journal of Chemistry asserts that tea is no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Wilder,  
+Wilder,  
 of Cornell University, gives these short  
 rules for action in case of accident: for  
 dust in the eyes avoid rubbing, dash cold  
@@ -12974,7 +12061,7 @@ cough. For slight burns, dip the part in
 cold water; if the skin be destroyed, cover  
 with varnish. For apop&#x27;.cxy, raise the  
 head and body; for faiutness, lay the  
-person flat
+person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_hillsboropubliclibrary_cascadia_ver01%2Fdata%2Fsn84022654%2F77777777771%2F1876102601%2F0328.jp2/pct:43.129973,74.253491,11.657825,7.669173/!600,600/0/default.jpg"/>
 </td>
@@ -12988,11 +12075,9 @@ person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 skin be destroyed, cover with varnish.  
 For apoplexy, raise the head and body;  
-fur faint r.ess lay the person flat
+fur faint r.ess lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876102701:0198/pct:25.390035,90.126137,9.687972,1.468156/!600,600/0/default.jpg"/>
 </td>
@@ -13016,7 +12101,6 @@ fur faint r.ess lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 For dust in the eyes, avoid rup­  
 hing; dash cold water in them,  
 ! remove cinders etc., with the  
@@ -13035,7 +12119,7 @@ stroyed, cover it with varnish.
 For apoplexy raise the head  
 and body; for fainting, lay the  
 person flat.  
-Wliat a Plant 
+Wliat a Plant I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876111601:0362/pct:13.834814,10.825611,11.793612,13.198540/!600,600/0/default.jpg"/>
 </td>
@@ -13049,7 +12133,7 @@ Wliat a Plant
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- lines:  
+lines:  
 For dust in the eyes, avoid rubbing,  
 dash cold water in them, remove cine  
 ders, etc. with the round point of a lead  
@@ -13066,7 +12150,7 @@ For slight burns, dip the part in cold
 water, if the skin is destroyed, cover it  
 with varnish.  
 For apoplexy, raise the head and body;  
-for fainting, lay the person flat
+for fainting, lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296564:1876111801:0029/pct:56.111581,15.131492,10.278952,7.466631/!600,600/0/default.jpg"/>
 </td>
@@ -13080,7 +12164,6 @@ for fainting, lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Prksknok os&#x27; Mtso.—I’rof. Wilder gives  
 liese short rules lor action in case of ac­  
 :ident: For dust in the eyes avoid rub­  
@@ -13111,6 +12194,7 @@ ing. If in water, float on the back with
 the nose and the mouth projecting. For  
 apoplexy, raise the head and body; tor  
 fainting lay the person flat.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1876112301:0396/pct:84.375000,84.776391,11.069915,12.129485/!600,600/0/default.jpg"/>
@@ -13127,7 +12211,6 @@ fainting lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 brief rules for prompt action in  
 oasos!of accident: —For dust in the  
 eyes, avoid rubbing ; dash cold water  
@@ -13144,7 +12227,7 @@ For slight burns, dip ? tho part in cold
 water ; if the skin 1b destroyed, cover  
 with whiting. For apoplexy raise tho  
 hoad and body. For fainting, lay tho  
-person flat
+person flat.
 </td></tr></table>
 
 ---
@@ -13155,7 +12238,6 @@ person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Prof. Wilder gives these short rules for action in  
 ease of accident:  
   
@@ -13184,7 +12266,8 @@ give acids; in case of opium poisoning give strong
 Coffee and kee p moving. If in water, float on the  
 back with the nose and mouth projecting. For  
 apoplexy, raise the head and body; for fainting, lay  
-the person flat.
+the person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1876-12-21_49_51%2Fsim_youths-companion_1876-12-21_49_51_jp2.zip%2Fsim_youths-companion_1876-12-21_49_51_jp2%2Fsim_youths-companion_1876-12-21_49_51_0007.jp2/pct:7.975113,72.614576,21.464932,14.387678/,600/0/default.jpg"/>
 </td>
@@ -13198,7 +12281,6 @@ the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Prof. Wilder, of Cornell University  
 gives these short rules for action in  
 case of accident:  
@@ -13229,7 +12311,7 @@ body; for fainting, lay the person
 a Hat.  
 ebeen turned toose but one--Jot ce-  
 and he will be turned icose in a tew  
-days, and all th
+days, and all the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1877020101:0247/pct:54.854005,69.783946,23.284253,19.350260/!600,600/0/default.jpg"/>
 </td>
@@ -13243,7 +12325,7 @@ days, and all th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Turn it out of the dish and send  
+Turn it out of the dish and send  
 it to the table immediately.  
 Pjtor, Burt G. of Cornell  
   
@@ -13260,7 +12342,7 @@ and cough. For slight burns, dip the part
 in cold water; if the skin is destroyed, ;  
 cover it with varnish. For apoplexy, raise  
 the head and body; for fainting, lay the ‘  
-person flat
+person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1877030801:0657/pct:48.889190,15.333939,21.742075,82.212631/!600,600/0/default.jpg"/>
 </td>
@@ -13284,7 +12366,7 @@ person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-old way.  
+ld way.  
 Professor Btjrt G. Wilder of  
 Cornell Univer.-ity gives these short  
 rules : For dust in the eves, avoid rub­  
@@ -13300,7 +12382,7 @@ skin is destroyed, cover it with varnish.
 For apoplexy raise the head and body ;  
 for fainting, lay ti e person flat.  
 Dandruff generally comes from an  
-over-heated or feverish state of the 
+over-heated or feverish state of the s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1877050301:0025/pct:35.851393,91.180495,9.860681,7.712402/!600,600/0/default.jpg"/>
 </td>
@@ -13314,7 +12396,6 @@ over-heated or feverish state of the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 buried in the Valley of Ham  
 loes not turn out so, then waltt  
 ReLES H CASE OF ACCHENTS. Irofessor  
@@ -13330,7 +12411,7 @@ the wound; if a vein is cutecompress
 low. If you are choked, go on all fours and  
 cough. For slight hurns, dip the part in cold  
 ter; if the skin is destroyed, cover it with  
-varnish. For apoplexy raise the head an
+varnish. For apoplexy raise the head and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1877052601:0630/pct:5.058665,88.296873,14.945182,8.508925/!600,600/0/default.jpg"/>
 </td>
@@ -13344,7 +12425,7 @@ varnish. For apoplexy raise the head an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of  
+of  
 fessor Wilder, of Cornell University, gives  
 these short rules for action in case of  
 dents ;  
@@ -13363,7 +12444,7 @@ water ; if the skin is destroyed, cover with
 varnish.  
 For apoplexy, raise the head and body ;  
 for fainting lay the person flat.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894961:1877071101:0241/pct:79.872713,15.265931,12.187749,12.067235/!600,600/0/default.jpg"/>
 </td>
@@ -13377,7 +12458,6 @@ for fainting lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 If any artery is cut, compress it abovo  
 the wound ; if a vein is cut, compress it  
 below.  
@@ -13390,7 +12470,7 @@ For apoplexy,
 body ; for fainting lay the po  
 flat.  
 ak.  
-Woman, wh
+Woman, who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_imperio_ver01:data:sn88053082:00271765162:1877071201:0319/pct:72.098214,80.631277,10.446429,5.344333/!600,600/0/default.jpg"/>
 </td>
@@ -13404,7 +12484,7 @@ Woman, wh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- up.  
+up.  
 What to do in Case of Accidents.  
 —Professor Wilder, of Cornell University,  
 gives these short rules for action in case of  
@@ -13423,7 +12503,7 @@ For slight burns, dip the part in cold
 water; if the skin is destroyed, cover with  
 varnish.  
 For appoplexy, raise the head and body;  
-for fainting lay the person flat
+for fainting lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623781:1877072801:0143/pct:17.219656,28.633373,11.297774,9.554426/!600,600/0/default.jpg"/>
 </td>
@@ -13437,7 +12517,6 @@ for fainting lay the person flat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 For dust in the eyes, avoid rubbing;  
 dash cold water in them; remove cin  
 ders, etc, with the round point of a lead  
@@ -13452,7 +12531,7 @@ water; if thanskin is destroyed, cover
 with varnisllaulgs os sus sohirtof hipa agt  
 For apopleay, ralds the head and  
 body; for fainting, lay the person flat.  
-M
+MH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027418:1877100201:0239/pct:71.123452,76.304515,10.280507,8.282984/!600,600/0/default.jpg"/>
 </td>
@@ -13466,7 +12545,6 @@ M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 WHIT TO DO IX CASK OF AW At&#x27;CIDKT.  
 Prof. Wilder, of Cornell University,  
 gives these Bhort rules for action in case  
@@ -13490,7 +12568,7 @@ For apoplexy, raise the head and
 body: for fainting, lay the person flat.  
 To cure freckles, grate horse-radish  
 fine, let it stand a few horn&#x27;s in butter­  
-milk, then strain and use the was
+milk, then strain and use the wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867553:1878032201:0557/pct:49.829584,75.804836,10.940695,13.836028/!600,600/0/default.jpg"/>
 </td>
@@ -13504,7 +12582,7 @@ milk, then strain and use the was
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Prof. Wil­  
+Prof. Wil­  
 der of Cornell University, gives these  
 short rules for action in case of acci­  
 dent :—For dust in the eyes avoid  
@@ -13521,7 +12599,8 @@ burns, dip the part in cold water&#x27;; if
 the skin be destroyed, cover with  
 varnish. For apoplexy, raise the  
 head and body; for fainting, lay the  
-person flat.
+person flat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1878052901:0018/pct:76.896773,76.729653,15.216927,12.483261/!600,600/0/default.jpg"/>
 </td>
@@ -13535,7 +12614,7 @@ person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the person flat.  
+the person flat.  
 If any artery be cut, compress it above the  
 wound ; if a vein is cut, compress it below.  
 Remove insects from the ear by tepid  
@@ -13544,7 +12623,7 @@ ear.
 For &#x27; slight burns, dip the part in cold  
 water; if the skin be destroyed, cover with  
 varnish.  
-Common glu
+Common glue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879021201:0069/pct:5.656646,10.377899,14.299842,5.496708/!600,600/0/default.jpg"/>
 </td>
@@ -13558,12 +12637,13 @@ Common glu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ient of them immediately.  
+ent of them immediately.  
 For dust In the eyes, avoid rubbing dash  
 cold water in them; remove cinders, etc.,  
 with the round point of a lead pencil.  
 Vomiting can frequently be prevented, so  
-it is said, by holding the hands in water as
+it is said, by holding the hands in water as  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879021201:0069/pct:5.696203,17.935872,14.339399,3.220727/!600,600/0/default.jpg"/>
 </td>
@@ -13587,7 +12667,7 @@ it is said, by holding the hands in water as
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and set the pail  
+and set the pail  
 into a kettle of boiling water; cover  
 closely and let it boil half or three  
 quarters of an hour. Stir this into boil­  
@@ -13599,7 +12679,7 @@ give alkali; lor alkaline poisons, give
 acids white of eeg is good in most  
 cases ; in a case of opium poisoning, give  
 strong coffee, and keep moving.  
-To clea
+To clear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen27n_ver01%2Fdata%2F1879052701%2F0074.jp2/pct:38.706079,28.538148,10.052984,5.497962/!600,600/0/default.jpg"/>
 </td>
@@ -13613,8 +12693,6 @@ To clea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Professor Wilder gives these short  
 prules for action in case of accident:  
 For dust in the eyes, avoid rubbing,  
@@ -13653,6 +12731,7 @@ If in water float on the back, with the
 nose and mouth projecting. For apop-  
 lexy raise the head and body ; for faint-  
 ing, lay the person flat.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1879-07-02_28_27%2Fper_the-pacific_the-pacific_1879-07-02_28_27_jp2.zip%2Fper_the-pacific_the-pacific_1879-07-02_28_27_jp2%2Fper_the-pacific_the-pacific_1879-07-02_28_27_0006.jp2/pct:36.079344,10.288647,13.839891,17.945096/,600/0/default.jpg"/>
@@ -13667,16 +12746,6 @@ ing, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utdoor  
-operations, and, at the same time, to im­  
-prove immensely the conditions anti charac­  
-ter of country life. The drift of young men  
-of spirit and education has long been toward  
-the cities. It lies in the (tower of the lead­  
-ers of the new fashion to set the current in  
-the opposite direction, vastly to the benefit  
-of both city and country.  
-Presence of Mini.  
 Professor Wilder gives these short rules  
 for action in case of jiccident: For dust in  
 the eyes, avoid rubbing, dash water into  
@@ -13706,9 +12775,9 @@ For acid jioisous, give acids; iu ease of opium
 and mouth projecting. For apoplexy, raise  
 1 the head and body: for faintixg, lay the per­  
 * | son Hat.  
-, 
+, 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624566:1879070501:0076/pct:76.486191,77.734893,10.298018,19.478953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624566:1879070501:0076/pct:76.486191,83.367507,10.298018,13.846339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13720,7 +12789,8 @@ and mouth projecting. For apoplexy, raise
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+the bunds witb cold water to put it in;  
+set it to rise one hour.  
 In case of poisoning, excite vomiting  
 by tickling the throat, or by warm water  
 and mustard. For acid poisons, give  
@@ -13729,9 +12799,9 @@ white of egg is good in most cases; in a
 case of opium poisoning, give strong  
 coffee and keep moving.  
 FiFn Frittebs. Take the remains of  
-an
+any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1879080701:0593/pct:21.212660,39.631998,11.646515,5.245987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1879080701:0593/pct:21.194879,38.444473,11.664296,6.433512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13743,7 +12813,6 @@ an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 light barns, dip the part in cold water; if the skin  
 is destroyed, cover with varnish. Smother a tire  
 with carpeta, ete.; water will often spread burning  
@@ -13762,7 +12831,7 @@ ong as can be borne to a hot coal, or end of a cigar.
   
 In case of poisoning, excite vomiting by tickling |  
 the throat by water or mustard. For acid poisons,  
-give alkalies; in case of opium poison, giv
+give alkalies; in case of opium poison, give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1879-08-21_52_34%2Fsim_youths-companion_1879-08-21_52_34_jp2.zip%2Fsim_youths-companion_1879-08-21_52_34_jp2%2Fsim_youths-companion_1879-08-21_52_34_0007.jp2/pct:10.356347,11.056604,42.455457,82.075472/,600/0/default.jpg"/>
 </td>
@@ -13776,14 +12845,14 @@ give alkalies; in case of opium poison, giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Suck  
+Suck  
 potson wounds, unless your mouth is sore  
 pany the wound, or, better, cut the wou  
 out without delay. Hold the wound as long as  
 can be borne, to a hot coal, or the end of a  
 cigar. In case of poisoning ¢xcite yomi&#x27;ing  
 by tickling the throat or by hot water or mus  
-tard, In case of opium ison giv
+tard, In case of opium ison give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1879-08-30_59_6%2Fsim_saturday-evening-post_1879-08-30_59_6_jp2.zip%2Fsim_saturday-evening-post_1879-08-30_59_6_jp2%2Fsim_saturday-evening-post_1879-08-30_59_6_0006.jp2/pct:68.809663,50.312500,18.624586,3.991477/600,/0/default.jpg"/>
 </td>
@@ -13797,7 +12866,7 @@ tard, In case of opium ison giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, below. If  
+below. If  
 choked, get on, all fours and cough.  
 For light burns&quot;. dip the part in cold  
 water; if the skin is de4royed, cover  
@@ -13817,7 +12886,7 @@ horcoal or end of a cigar. - &#x27;ln ease
 of poisoning., &#x27;excite .vomiting . by  
 tickling the throat by Water or mus­  
 tard. For acid poisons, &#x27;give .alka­  
-lies; &#x27;in case, of opium poison, giv
+lies; &#x27;in case, of opium poison, give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001814%2F1879092501%2F0152.jp2/pct:75.919460,73.742741,9.858007,9.573088/!600,600/0/default.jpg"/>
 </td>
@@ -13831,7 +12900,6 @@ lies; &#x27;in case, of opium poison, giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 varnish. Before passing through  
 smoke, take a long breath, and then  
 stoop low; but if carbon is suspected,  
@@ -13843,7 +12911,7 @@ part as long as can be borne to a hot
 coal, or end of a cigar. In case of  
 oisoning, excite vomiting by tickling  
 the throat, or by water or mustard.  
-In the case of opium poisoning, giv
+In the case of opium poisoning, give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn84038328:00280763779:1879092601:0172/pct:16.201805,24.035143,10.787531,7.216818/!600,600/0/default.jpg"/>
 </td>
@@ -13857,18 +12925,7 @@ In the case of opium poisoning, giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nts on uii extensive scale.  
-  
-Il«\v to &lt;D% Hick.— Kxpo o yourself  
-day and night, cat too much without  
-exercise; work too hard without rest;  
-doctor all the time; take all the vihi  
-nostrums advertised; and then you  
-will want to know  
-HOW TO GKT WKI.L.  
-•v&#x27;ldeh is answered in three words—  
-fake Hop Hitters! Hee other column.  
-Cut out koh Rf.fkukxck.—Professor  
+Professor  
 Wilder gives these short rules for ac­  
 tion in case of accidents: For dust in  
 the eyes, avoid rubbing; dash water  
@@ -13900,9 +12957,9 @@ caseof opium poison, give strong coffee,
 and keep moving. If in water, float on  
 the hack, with the nose and mouth pro­  
 jecting. For apoplexy, raise tlie head  
-and body; lor fainting, lay th
+and body; lor fainting, lay the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1879092701:0398/pct:30.142511,24.482287,12.086582,21.150005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1879092701:0398/pct:30.169400,30.358457,12.059693,15.273836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13914,7 +12971,7 @@ and body; lor fainting, lay th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- round point of a led pencil.  
+round point of a led pencil.  
 Remove insects from the ear by&#x27;tepid  
 water; never put a hard instrument into the  
 ear. If an artery is cut, compress below. If  
@@ -13933,7 +12990,7 @@ borne to a hot coal or end of a cigar. In
 case of poisoning, excite vomiting by tickling  
 the throat by water Or mustard. For  
 acid poisons, give alkalies; in the case of  
-opium poison, giv
+opium poison, give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861903:1879102301:0349/pct:83.728770,28.210222,14.611695,10.113780/!600,600/0/default.jpg"/>
 </td>
@@ -13949,7 +13006,6 @@ opium poison, giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 varnish. Before passing through smoke,  
 take a full breadth, and then stoop low  
 ; but if carbon is suspected, walk  
@@ -13961,7 +13017,7 @@ can be borne to a hot coal, or end of a
 cigar. In case of poisoning, excite  
 vomiting by tickling the throat, or by  
 water or mustard. In case of opium  
-poisining giv
+poisining give
 </td></tr></table>
 
 ---
@@ -13974,7 +13030,6 @@ poisining giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 varnish. Before passing through smoke,  
 take a full breath, and then stoop low ;  
 but if carbon is suspected, walk erect.  
@@ -13990,7 +13045,7 @@ coffee and keep moving. If in the water,
 float on the back, with the nose and  
 mouth projecting. For apoplexy, raise  
 the head and body ; for fainting, !ay  
-the person flat.
+the person flat. 
 </td></tr></table>
 
 ---
@@ -14003,7 +13058,7 @@ the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- varnish. Before passing  
+varnish. Before passing  
 through smoke, take a full breath, and  
 then jtojop low; but if carbon is  
 suspected, walk erect. Suck poisoned  
@@ -14015,7 +13070,7 @@ hot coal, or end- of a cigar. . In case
 of poisoning, excite Youiit-i ing by  
 tickling tlie throat, or by -water and  
 mustard. In caso.of_opium,_ poisoning,  
-giv
+give
 </td></tr></table>
 
 ---
@@ -14026,7 +13081,7 @@ giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- when often they can be  
+when often they can be  
 steamed lor next day.  
 For dust in the eyes, avoid rubbing;  
 dash cold water in them; remove cinders,  
@@ -14036,7 +13091,7 @@ never put a hard instrument into the ear.
 If an arterv is cut compress it above the  
 wound; if a vein is cut, compress it below  
 If choked slo on all fours and cough. For  
-slight bums dip the part in cold water; i
+slight bums dip the part in cold water; if
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1879121001:0234/pct:30.365660,35.899109,10.585586,5.164166/!600,600/0/default.jpg"/>
 </td>
@@ -14050,7 +13105,7 @@ slight bums dip the part in cold water; i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: For dust in the eyes,  
+For dust in the eyes,  
 avoid rubbing; dash water into them.  
 Remove cinders, etc., with the round  
 point of a lead pencil. Remove insects  
@@ -14075,7 +13130,7 @@ coal, or end of a cigar. In case of
 poisoning, excite vomiting by tickling  
 the throat by water or mustard. For  
 acid poisons, give alkalies; in case of  
-opium poison, giv
+opium poison, give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0010049386A:1880010401:0016/pct:71.132936,43.581716,13.065591,13.850971/!600,600/0/default.jpg"/>
 </td>
@@ -14089,7 +13144,6 @@ opium poison, giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 smoke take a full breath and stoop  
 low. Suck poison wounds, unless  
 your mouth is sore; cnlargo the  
@@ -14100,7 +13154,7 @@ a hot coal, or the end of a cigar.
 In caso of poisoning, excite vomi­  
 ting by tickling the throat or by­  
 hot water or mustard. In case of  
-opium poison giv
+opium poison give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1880111101:0198/pct:84.806397,16.708543,9.750281,5.196437/!600,600/0/default.jpg"/>
 </td>
@@ -14114,7 +13168,7 @@ opium poison giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Suck p~teoned wounds, unless  
+Suck p~teoned wounds, unless  
 our mo*th is sore. Ealarge the woun’, or  
 ter cut ont the parc without delay. Hid  
 the wounded part as long as can be borne toa  
@@ -14125,7 +13179,7 @@ give acide; in case of Opium poisoning, giva
 strong coffee and keep movsnal if in the wa-  
 ter, float on the beck, with the nose and  
 moata proj onee For ap x0lex7, raiss tae  
-bea
+bead
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1881-07-16_60_52%2Fsim_saturday-evening-post_1881-07-16_60_52_jp2.zip%2Fsim_saturday-evening-post_1881-07-16_60_52_jp2%2Fsim_saturday-evening-post_1881-07-16_60_52_0006.jp2/pct:68.700632,42.759324,18.819115,6.046037/600,/0/default.jpg"/>
 </td>
@@ -14149,7 +13203,7 @@ bea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: For dust in the eyes, avoid  
+For dust in the eyes, avoid  
 rubbing; dash water in them: remove  
 cinders, etc, with the round point of a  
 lead pencil. Remove water from the  
@@ -14180,7 +13234,7 @@ ing give strong coffee and keep moving.
 If in water, float on the back, with the  
 nose and mouth projecting. For appo­  
 plexy, raise the head and body; for  
-fainting, lay 
+fainting, lay t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1882080501:1087/pct:19.899666,4.819945,12.281680,17.908587/!600,600/0/default.jpg"/>
 </td>
@@ -14194,7 +13248,6 @@ fainting, lay
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 What to do in Caso of Accident.  
 Prof. Wilder, ot Cornell Univer­  
 sity, gives these rules for action in  
@@ -14242,7 +13295,7 @@ strong coffee, and keep moving.
 If in the water, float on the back,  
 with the nose and mouth project­  
 iug.For apoplexy, raise the head and  
-body; for fainting lay fla
+body; for fainting lay flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020540:1882081001:0573/pct:16.147915,8.034597,10.194175,22.840560/!600,600/0/default.jpg"/>
 </td>
@@ -14256,7 +13309,6 @@ body; for fainting lay fla
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 Fox dust in the eyes, avoid rubbing;  
 dash witter into them. Remove cin­  
 ders, etc.^with tberOnnd point of a  
@@ -14283,7 +13335,7 @@ delay, r Held the wounded, part, as
 long as can be borne, to a hot coal, or  
 end, of * Cigar.y , f !  
 In case of poisoning, excite vomit­  
-ing by tiuklipg
+ing by tiuklipg 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:0051699146A:1883051901:0061/pct:22.958057,21.975638,16.703458,18.254630/!600,600/0/default.jpg"/>
 </td>
@@ -14299,7 +13351,7 @@ ing by tiuklipg
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-wn that a  
+n that a  
 rag glued on a flesh wound was not only  
 a speedy cnrative, but ». protection  
 against furtherlinjury. WHAT TO DO IN  
@@ -14337,7 +13389,9 @@ ia good in most oaaea ; in a oaae of
 opium poison-ing give strong coffee and  
 keep moving. If in water, float on the  
 baok, with the noae and mouth project-  
-in
+ing. For apoplexy, raise the head and  
+body j for* fainting, lay the person  
+flat
 </td></tr></table>
 
 ---
@@ -14350,7 +13404,7 @@ in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in  
+in  
 the dish and bread sauce in a tureen. A  
 turkey of 10 pounds will require three  
 hours7 roasting, a small one will roast  
@@ -14386,7 +13440,7 @@ or by warm water and mustard. For acid
 poisons give alkalies, for alkaline  
 poisons give acids; white of an egg is  
 good in most cases. For apoplexy, raise  
-the head and body ; for f
+the head and body ; for fa
 </td></tr></table>
 
 ---
@@ -14397,7 +13451,6 @@ the head and body ; for f
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 For dust in the eyes, avoid rub­  
 bing, dash water into them; remove  
 cinders etc., with the round point :  
@@ -14433,7 +13486,7 @@ egg is good in most cases; in case
 lot opium poisoning, give strong  
 coffee and keep moving. It in  
 j water float on the back with the]  
-! nose and mouth projectin
+! nose and mouth projecting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213042:1886091501:0374/pct:18.440111,9.290271,13.351903,24.481659/!600,600/0/default.jpg"/>
 </td>
@@ -14447,7 +13500,6 @@ j water float on the back with the]
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 USEFUL INFORMATION.  
 What to Do in Case of Accident--Facts  
 Worth Knowing.  
@@ -14482,7 +13534,7 @@ isoning give
 moving. If in water, float on the hach  
 with the nose and mouth projectlhs  
 For apoplexy, raise the body, foefung  
-ing, lity the body fla
+ing, lity the body flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1886092501:0181/pct:68.582776,78.328804,11.914716,17.500000/!600,600/0/default.jpg"/>
 </td>
@@ -14498,7 +13550,7 @@ ing, lity the body fla
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,. What tc do in  
+. What tc do in  
 Case of Accidents.— Tto following short  
 rules for action, in cases of ace&#x27;denfe,  
 will be found useful to remember : — For  
@@ -14521,7 +13573,7 @@ then stoop low ; but if carbolic acid
 gasj suspected, walk erect. Sock poison*  
 ; wounds, unless your mouth is sore ;  
 enlarge the wound* or better still, cot  
-tbe part without aelay; hol
+tbe part without aelay; hold
 </td></tr></table>
 
 ---
@@ -14532,7 +13584,6 @@ tbe part without aelay; hol
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 What to I)o in Case of Accident.  
 Prof. Wilder, of Cornell University,  
 gives these rules for action in case of  
@@ -14575,7 +13626,7 @@ of opium poisoning give* strong coffee
 and keep moving.  
 If in the water float on the back,  
 with nose and month projecting.  
-For apoplexy raise the hea
+For apoplexy raise the head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_flareon_ver01:data:sn88064492:00295874715:1888012101:0024/pct:36.302947,34.258178,17.472376,26.781542/!600,600/0/default.jpg"/>
 </td>
@@ -14589,7 +13640,7 @@ For apoplexy raise the hea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o Know, j &quot;  
+Know, j &quot;  
 Prof. B, G. Wilder, of Cornell.  
 If choked, get upon all fours and  
 cough. j  
@@ -14619,7 +13670,7 @@ ter will often spread burning oil and
 increase danger. Before passing  
 through smoke take- a full breath  
 and then stoop low, but if carbonic  
-acid is suspected walk erect
+acid is suspected walk erect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm100n_ver01%2Fdata%2F1892033001%2F0307.jp2/pct:30.491329,40.065970,12.182081,17.251237/!600,600/0/default.jpg"/>
 </td>
@@ -14633,7 +13684,6 @@ acid is suspected walk erect
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 Emergency Notes.  
 If choked, get upon all fours and  
 cough.  
@@ -14668,7 +13718,7 @@ through smoke take a full breath ami
 then stoop low, but if carbonic acid  
 gas is suspected walk erect.—From a  
 Book of Profeuor B. G. Wilder of  
-Cor
+Corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890566:1892033001:0305/pct:25.444702,36.592416,17.478732,28.209488/!600,600/0/default.jpg"/>
 </td>
@@ -14682,8 +13732,6 @@ Cor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 If choked. get upon all fours and  
 cough.  
   
@@ -14724,7 +13772,7 @@ low, but-if carbonic acid gas is sus-
 pected walk erect.  
   
 Noah Rice struck a flow of artesian  
-water in the well southeast of tow
+water in the well southeast of town
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_los-angeles-times_the-los-angeles-times_1892-04-04%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-04_jp2.zip%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-04_jp2%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-04_0003.jp2/pct:69.641060,77.148194,12.504193,15.404732/,600/0/default.jpg"/>
 </td>
@@ -14738,7 +13786,7 @@ water in the well southeast of tow
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ot be more than  
+t be more than  
 a quart of it when done.  
 WHAT TO DO IN CASE OP ACCIDENT.  
 Prof. Wilder, of Cornell University,  
@@ -14776,7 +13824,7 @@ If in water, float on the back, with the
 nose and nouth projecting.  
 For apoplexy raise the head and body;  
 for fainting lay the person flat.  
-
+W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892040501:0605/pct:44.431441,43.077855,12.502438,19.918207/!600,600/0/default.jpg"/>
 </td>
@@ -14790,8 +13838,6 @@ for fainting lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 From a Book of Prof. B. G. Wilder of Cornell.  
   
 If choked get upon all fours and cough,  
@@ -14803,7 +13849,8 @@ If an artery is cut compress above the
 wound; if a vein is cut compress  
 For s &lt; gh burns dip the part  
   
-mens
+mens  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_st-louis-post-dispatch_st-louis-post-dispatch_1892-04-10_43_244%2Fper_st-louis-post-dispatch_st-louis-post-dispatch_1892-04-10_43_244_jp2.zip%2Fper_st-louis-post-dispatch_st-louis-post-dispatch_1892-04-10_43_244_jp2%2Fper_st-louis-post-dispatch_st-louis-post-dispatch_1892-04-10_43_244_0029.jp2/pct:81.764919,81.555923,12.021700,3.198156/600,/0/default.jpg"/>
 </td>
@@ -14817,7 +13864,7 @@ mens
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s.  
+.  
 Kmercenrjr Note*.  
 If choked, get upon all fours and  
 cough.  
@@ -14849,7 +13896,8 @@ will often spread burning oil and in­
 crease danger. Before pa*siog through  
 smoke take a full breath and then stoop  
 low, but if carbonic acid gas is suspect- j  
-ed walk erect.
+ed walk erect.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:0041418666A:1892041201:0222/pct:28.506787,40.478429,12.986425,17.037501/!600,600/0/default.jpg"/>
 </td>
@@ -14863,7 +13911,7 @@ ed walk erect.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it.  
+it.  
 EMERGENCY NOTES.  
 If choked get upon all fours and  
 cough. &quot; -.;  
@@ -14871,7 +13919,8 @@ For apoplexy raise the head and body ;
 for fainting lay the person Hat.  
 lf an artery is cut, compress above  
 tin: wound; if a vein is cut. compress  
-below.
+below.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538636:1892041501:0473/pct:38.194063,12.307529,10.582738,4.396305/!600,600/0/default.jpg"/>
 </td>
@@ -14895,7 +13944,7 @@ below.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to hp. fmmrl on these STeat  
+to hp. fmmrl on these STeat  
 plains.&quot; Chicago Tribune.  
 What to Do in Case of Accident.  
 Professor Wilder, of Cornell Uni  
@@ -14935,7 +13984,7 @@ nose and mouth projecting.
 For apoplexy raise the head and body;  
 for fainting lay the person flat. New  
 Y&#x27;ork Herald.  
-A correspondent of t
+A correspondent of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_elk_ver01:data:sn91068084:00296023218:1892042201:0517/pct:38.809068,62.032028,16.522989,28.186540/!600,600/0/default.jpg"/>
 </td>
@@ -14949,8 +13998,6 @@ A correspondent of t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 It an artery is cut, compress above  
 the wound; if a vein is cut, compress  
 below.  
@@ -14966,7 +14013,7 @@ In case of poisoning, excite vomiting
 by tickling the throat or by warm water  
 and mustard.  
   
-For otight burns dip th
+For otight burns dip the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_los-angeles-times_the-los-angeles-times_1892-04-24%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_jp2.zip%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_jp2%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_0006.jp2/pct:47.568275,88.810710,13.627011,6.307597/600,/0/default.jpg"/>
 </td>
@@ -14980,14 +14027,13 @@ For otight burns dip th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Smother fire with carpets, etc., water  
 will often spread burning oil and in-  
 crease danger. Before passing through  
 smoke take a full breath and then st  
 low, but if carbonic gas is suspec  
-walk erect.
+walk erect.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_los-angeles-times_the-los-angeles-times_1892-04-24%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_jp2.zip%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_jp2%2Fsim_los-angeles-times_the-los-angeles-times_1892-04-24_0008.jp2/pct:78.081808,92.795766,13.625327,2.727273/600,/0/default.jpg"/>
 </td>
@@ -15001,26 +14047,7 @@ walk erect.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-years to  
-come. The solution of the puzzle is  
-to be found in the fact, which does  
-not appear to be very widely known,  
-that the year 1800 was not a leap-year  
-and 1900 will not be. The February  
-of the present year had twenty-nine  
-days; but in all the seven years in­  
-tervening between 189S and 1904, as  
-well as in the three between 1S92 and  
-and 1896, that month will have only  
-twenty-eight. St. Nicholas.  
-Catarrh  
-In the head  
-Is a constitutional  
-Disease, and requires  
-A constitutional remedy  
-Like Hood&#x27;s Sarsaparilla,  
-Which purifies the blood.  
-Makes the weak strong,  
+the weak strong,  
 Restores health.  
 Try it now.  
 -&#x27;i3 igg  
@@ -15065,7 +14092,7 @@ For apoplexy raise the head and
   
 body; for fainting lay the person flat.  
 iS) dji CI  
-&quot;H
+&quot;He
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196421:1892042501:0135/pct:37.804516,5.190539,30.421866,89.717477/!600,600/0/default.jpg"/>
 </td>
@@ -15079,7 +14106,7 @@ iS) dji CI
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to preserve or reawa­  
+to preserve or reawa­  
 ber: Far dart la the eyes, avoid rabbtaj;  
 iask water lato them; remove cinders,  
 rto., with tbe reaai point of a. lead pea  
@@ -15112,7 +14139,8 @@ If in water, float cn tbe tack, with the
 nose and month projecting.  
 &#x27; For apoplexy raise the he. 1 aad blt  
 for fainting lay the penoa flskOiiW  
-York Herald.
+York Herald.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComRS1n_ver01%2Fdata%2F1892042801%2F0028.jp2/pct:32.457865,8.474576,12.289326,17.517448/!600,600/0/default.jpg"/>
 </td>
@@ -15126,7 +14154,7 @@ York Herald.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; &#x27;What to Ho in Case of Accident.  
+&#x27;What to Ho in Case of Accident.  
 Professor Wilder, of Cornell Uni-  
 rersity, gives the following short rules  
 for action iu case of accident, which will  
@@ -15165,7 +14193,7 @@ For apoplexy raise the hei aad.bily;
 for fainting lay the persoj flit. New  
 Turk Herald. j  
   
-THE DISCOVERY OF M
+THE DISCOVERY OF Mh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalSigR2n_ver01%2Fdata%2F1892042801%2F0371.jp2/pct:46.017819,5.511001,26.970842,90.170677/!600,600/0/default.jpg"/>
 </td>
@@ -15179,7 +14207,6 @@ THE DISCOVERY OF M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Shat to Do la Case of Accident.  
 Professor Wilder, .of Cornell Uai­  
 rersit;, giree the following short ruler  
@@ -15217,7 +14244,7 @@ If in water, float cn tbe back, with th*
 nose and mouth projecting.  
 For apoplexy raise the heed and body |  
 for fainting lay the person flat.—Sew  
-Jobson
+Jobson 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SanEx2_ver01%2Fdata%2F1892042801%2F0251.jp2/pct:43.769401,71.116226,12.439024,21.420352/!600,600/0/default.jpg"/>
 </td>
@@ -15231,8 +14258,6 @@ Jobson
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s gun is G].. feet, ami its range is al&lt;out  
-twelve miles.  
 EMERGENCY NOTES.  
 For apoplexy raise the head and body;  
 for fainting lay the person flat.  
@@ -15260,9 +14285,10 @@ will often spread burning oil and increase
 danger. Before passing through smoke  
 take a fail breath and then stoop low, but  
 if carbonic acid gas is suspected walk erect.  
-—Professor Wilder.
+—Professor Wilder.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896477:1892042801:0334/pct:86.604266,59.506143,9.820470,13.343875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896477:1892042801:0334/pct:86.619610,60.673884,9.805125,12.176134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15274,7 +14300,6 @@ if carbonic acid gas is suspected walk erect.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 What to Ho In Case of Ac?Id  
   
 Professor Wilder, of Cornell Ln;­  
@@ -15314,7 +14339,8 @@ For apoplexy raise the nil x. I b 1&quot;;
 for fainting lay the jxrou dat. New  
 Turk Herald.  
   
-The
+The  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SSoRock2n_ver01%2Fdata%2F1892043001%2F0337.jp2/pct:82.094227,56.781029,13.875272,23.047427/!600,600/0/default.jpg"/>
 </td>
@@ -15328,7 +14354,6 @@ The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 For dust in tiie eyes, avoid rubbing,  
 dash water in them ; remove cinders  
 etc., with the round point of a lead  
@@ -15353,7 +14378,7 @@ estate dealer in this city, narrowly es­
 caped one of the severest attacks of  
 pneumonia while in the northern part  
 ot the State during the recent blixxard.  
-Mr. Blaize had occasion t
+Mr. Blaize had occasion to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554103:1892043001:0075/pct:4.364834,53.151322,12.373893,11.966308/!600,600/0/default.jpg"/>
 </td>
@@ -15367,7 +14392,7 @@ Mr. Blaize had occasion t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; Home Jour-  
+Home Jour-  
 nal  
   
 A Good Thing to Rtemember.  
@@ -15376,7 +14401,8 @@ will often spread burning oll and increase
 danger. Before passing through smoke  
  take a full breath and then stoop low, but  
 if earbonic acid gas is suspected walk erect  
-Profemor B. G. Wilder.
+Profemor B. G. Wilder.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:0020653980A:1892043001:1132/pct:0.106838,83.683031,16.372863,4.542677/!600,600/0/default.jpg"/>
 </td>
@@ -15400,23 +14426,6 @@ Profemor B. G. Wilder.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-gered, sank on  
-his knees, his florce eyes rolling in mad  
-fury at mo. I mjved around to his side  
-and put another ball into him, when he  
-went clean down and stretched himself  
-in tho last struggle.  
-&quot;Come down aud visit me, and as you  
-step across my threshold there in tho  
-vestibule confronting you will be his  
-enormous head, as lifelike as the art of  
-taxidermy can present. Look at that  
-grand head and you will be compelled  
-to give credence to a part of my story,  
-at least, and your regrets will join mine  
-that no more of tho noblost American  
-game ia to be found ou these great  
-plains.&quot; Chicago Tribune.  
 What to Do In Case of Accident.  
 Professor Wilder, of Cornell Uni­  
 versity, gives tho following short rules  
@@ -15450,9 +14459,9 @@ borne to a hot coal or end of a cigar.
 In case of poisoning excito vomiting  
 by tickling the throat or by warm water  
 and mustard.  
-If i
+If in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1892050401:1100/pct:44.040248,37.562262,12.171053,27.658951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1892050401:1100/pct:44.040248,46.850278,12.016254,18.370935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15464,23 +14473,6 @@ If i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ered, sank on  
-bis knees, his fierce eyes rolling in mad  
-fury at me. I injved around to his side  
-and put another ball into him, when he  
-went clean down and stretched himself  
-in the last struggle.  
-&quot;Come down and visit me, and as you  
-step across my threshold there in the  
-vestibule confronting you will be his  
-enormous head, as lifelike as the art of  
-taxidermy can present. Look at that  
-grand head and you will be compelled  
-to give credence to a part of my story,  
-at least, and your regrets will join mine  
-that no more of the noblest American  
-game is to be found on these great  
-plains.&quot; Chicago Tribune.  
 What to Do In Case of Accident.  
 Professor Wilder, of Cornell Uni­  
 versity, gives the following short rules  
@@ -15514,9 +14506,9 @@ In case of poisoning excite vomiting
   
 by tickling the throat or by warm water  
 and mustard.  
-If i
+If in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1892050401:1104/pct:44.707891,38.098704,11.836115,27.442131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1892050401:1104/pct:44.707891,47.314020,11.760243,18.226816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15528,7 +14520,6 @@ If i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ElImGtNO NJVitS  
 For apoplexy raise the hoad and body  
 for fainting lay the person flat  
@@ -15556,7 +14547,7 @@ will often spread burning oil nnd increase
 danger Before passing through smoke  
 take a full breath and then stoop low but  
 if carbonic acid gas is suspected walk erect  
-Professor Hililc
+Professor Hililcr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048637:1892050801:0447/pct:18.276637,68.284642,12.949294,12.072297/!600,600/0/default.jpg"/>
 </td>
@@ -15570,7 +14561,6 @@ Professor Hililc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Prof. Wilder of Cornell university  
 gives the following short rides for ac?  
 tion in case of accident, which it will  
@@ -15610,7 +14600,7 @@ the nose and mouth projecting.
 For apoplexy raise the head and body:  
 for fainting lay the person flat.  
 UNIQUE PIN CUSHION.  
-Som
+Some
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031698:1892051301:0254/pct:17.777778,31.113239,16.154589,23.714442/!600,600/0/default.jpg"/>
 </td>
@@ -15624,12 +14614,11 @@ Som
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Remove matter from the ear with  
 tepid water; never put a hard instru­  
 ment into the ear.  
 hx case of poisoning excite romiting  
-by tickling the throat or by warm wate
+by tickling the throat or by warm water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892051801:0147/pct:52.849958,90.341692,13.327745,3.168917/!600,600/0/default.jpg"/>
 </td>
@@ -15643,8 +14632,6 @@ by tickling the throat or by warm wate
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Professor Wilder of Cornell Univer­  
 sity gives the following short rules for  
 action in case of accident which it  
@@ -15684,7 +14671,8 @@ If in water, float on the back, with
 the nose and mouth projecting.  
 For apoplexy, raise the head and  
 body; for fainting, lay the person  
-flat.—Selected.
+flat.—Selected.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jicama_ver01:data:sn87065702:00516991021:1892051901:0026/pct:36.291501,72.257214,14.073919,23.846492/!600,600/0/default.jpg"/>
 </td>
@@ -15698,7 +14686,6 @@ flat.—Selected.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 In Cask of Alvjdknt.?Professor  
 Wilder, of Cornell university, gives the  
 following short rules for action in ease |  
@@ -15736,7 +14723,7 @@ tor and mustard.
 j If iu water, Moat on the hack, with  
 | the nose and mouth projecting.  
 For apoplexy raise the head and  
-1 body; for fainting lay the person flat
+1 body; for fainting lay the person flat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861472:1892052501:0305/pct:76.553398,72.468001,11.929612,16.751138/!600,600/0/default.jpg"/>
 </td>
@@ -15750,20 +14737,6 @@ For apoplexy raise the head and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r heads and  
-a corresponding portion of their backs were visi­  
-ble ; only thus could they gain temporary relief  
-from the myriads of flies and other insects that  
-continually swarmed about them.  
-The completion of the floating raft finished  
-the labor of these intelligent beasts. At what­  
-ever time in the day their task was over, their  
-masters would allow them the remaining por­  
-tion for themselves, and they wandered about  
-at will, seeming to thoroughly enjoy their lib­  
-erty, to which they were surely entitled, for  
-they had worked continuously for five days at  
-their laborious taak.—Marlton Downing.  
 WHAT TO DO IN CASE OF ACCIDENT.  
 Prof. Wilder, of Cornell University, gives  
 the following short rules for action in the case  
@@ -15796,7 +14769,7 @@ BOYS WHO SUCCEED.
 Of two boys with the same advantages and  
 equally good training, one will succeed in life,  
 while the other, without being bad, “never  
-anounts to anything,” as th
+anounts to anything,” as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1892061601:0771/pct:6.426021,6.894665,43.316144,87.031464/!600,600/0/default.jpg"/>
 </td>
@@ -15810,7 +14783,6 @@ anounts to anything,” as th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 flavored, is putting it into boiling  
 water when put on to cook, and when  
 it is done, letting it remain in the  
@@ -15820,7 +14792,8 @@ water will often spreading burning
 oil and increase danger. Before pass­  
 ing through smoke take a full breath  
 and then stoop low, but if carbonic  
-acid gas is suspected walk erect.
+acid gas is suspected walk erect.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550109:1892062201:0254/pct:35.541928,63.845077,14.131449,5.627625/!600,600/0/default.jpg"/>
 </td>
@@ -15834,7 +14807,7 @@ acid gas is suspected walk erect.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- on these great  
+on these great  
 plains.&quot; Chicago Tribune.  
 What to Do in Cose of Accident.  
 Professor Wilder, of Cornell Uni  
@@ -15870,7 +14843,7 @@ borne to a hot coal or end of a cigar.
 In case of poisoning excite vomiting  
 by tickling the throat or by warm water  
 and mustard.  
-If i
+If in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChronWilk1n_ver01%2Fdata%2F1892062301%2F0327.jp2/pct:51.012943,39.602649,13.702870,21.799117/!600,600/0/default.jpg"/>
 </td>
@@ -15884,14 +14857,14 @@ If i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it.  
+it.  
 Smother fire with carpeta eta;  
 water will often spread burning oil  
 and increase danger. Before passing  
 through smoko take a full breath and  
 then stoop low, but if carbonic gas is  
 suspected walk erect.—Prof. B.  
-Wilder.
+Wilder. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892071401:1064/pct:52.896377,86.401142,14.493423,4.300222/!600,600/0/default.jpg"/>
 </td>
@@ -15950,7 +14923,7 @@ person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- cannot he used.  
+cannot he used.  
 If choked get upon ail fours and  
 cough.  
 For apoplexy raise the head and  
@@ -15982,7 +14955,7 @@ water will often spread burning oil
 and increase danger. Before passing  
 through smoke take a full breath and  
 then sloop low, but if carbonic acid  
-| gas is suspected walk erect
+| gas is suspected walk erect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1892081201:0152/pct:43.087196,62.217029,12.450903,24.638528/!600,600/0/default.jpg"/>
 </td>
@@ -15998,7 +14971,7 @@ then sloop low, but if carbonic acid
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; PROFESSOR WILDER,  
+PROFESSOR WILDER,  
 .of,Cornell,Úniviu*Ifcy,. gives the  
 following&#x27; short rules for action&#x27; in  
 ease of accident, winch it will he found  
@@ -16034,7 +15007,7 @@ iu&quot;water, float où tlie buck, with&#x27; tbe
 nose and mouth projecting. &#x27;, .,,&#x27;, .  
 &#x27;,,:&#x27;&#x27;. &#x27;&#x27;.&#x27;,&#x27;, ,..&#x27; ? For apoplexy  
 raise-the head arid &#x27;body ; &#x27;&#x27;for  
-fainting Iny&#x27;thuperson flat, 
+fainting Iny&#x27;thuperson flat, n
 </td></tr></table>
 
 ---
@@ -16045,7 +15018,6 @@ fainting Iny&#x27;thuperson flat,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 through smoke take a full breath,  
 and then stoop low; but if carbonic  
 acid gas is suspected, walk erect.  
@@ -16066,7 +15038,8 @@ the nose and mouth projecting.
   
 For apoplexy, raise the head and  
 body; for fainting, lay the person flat.  
-—~Selected.
+—~Selected.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1892-11-10_41_44%2Fper_the-pacific_the-pacific_1892-11-10_41_44_jp2.zip%2Fper_the-pacific_the-pacific_1892-11-10_41_44_jp2%2Fper_the-pacific_the-pacific_1892-11-10_41_44_0002.jp2/pct:48.500376,23.257722,13.944114,10.154440/,600/0/default.jpg"/>
 </td>
@@ -16080,32 +15053,6 @@ body; for fainting, lay the person flat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ecessary  
-stairs. The lady led him into a room  
-and pointed sternly to a table.  
-  
-“ Look at that,” she said, indignant-  
-ly. “Three times this week I have  
-told Mary to dust it. I believe she  
-neglects its purposely. I am com-  
-pletely disheartened.”  
-  
-The lawyer looked at the table  
-and sighed.  
-  
-“My dear,” he replied, “to-day I  
-have had to deal with a murderer  
-and two burglars. I have also ex-  
-amined two wife-beaters and one  
-child-stealer, but anything like the  
-moral depravity of Mary I confess I  
-never saw before—never! ”  
-  
-And the lady triumphantly led the  
-  
-procession down stairs.— Boston Trav-  
-eler.  
-  
 WHAT TO DO IN CASE OF ACCIDENT.  
   
 Professor Wilder of Cornell Uni-  
@@ -16130,9 +15077,10 @@ cold water; if the skin is destroyed,
   
 ‘Smother fire with carpets, etc.; wa-  
 ter will often spread burning oil, and  
-Before passing
+Before passing  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1892-11-10_41_44%2Fper_the-pacific_the-pacific_1892-11-10_41_44_jp2.zip%2Fper_the-pacific_the-pacific_1892-11-10_41_44_jp2%2Fper_the-pacific_the-pacific_1892-11-10_41_44_0002.jp2/pct:48.213432,7.929537,15.085058,86.549228/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1892-11-10_41_44%2Fper_the-pacific_the-pacific_1892-11-10_41_44_jp2.zip%2Fper_the-pacific_the-pacific_1892-11-10_41_44_jp2%2Fper_the-pacific_the-pacific_1892-11-10_41_44_0002.jp2/pct:48.486712,7.929537,14.811778,15.299228/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16144,8 +15092,6 @@ Before passing
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 WHAT TO D&#x27; IM CASE OF ACCIDENT.  
 Prof Wilder of Cornell University fi&#x27;  
 the following short ruf i for action in ci  
@@ -16208,7 +15154,8 @@ nose and mou&#x27;h projecting.
   
 For apoplexy raise the head and body ; for  
   
-fainting lay the person flit.
+fainting lay the person flit.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210405Foo05_ver01%2Fdata%2Fsn96088450%2F14111410005%2F1893020901%2F1072.jp2/pct:21.980413,4.735784,15.369967,21.247029/!600,600/0/default.jpg"/>
 </td>
@@ -16222,7 +15169,6 @@ fainting lay the person flit.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 SAILING DATES .  
   
 Tiof Wildr of Cornell Universit gives  
@@ -16266,7 +15212,7 @@ ticklise tee throit or bv warm wler and
   
 mustard.  
   
-Agains
+Against
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295868351:1893021701:0163/pct:20.177739,9.223414,21.896853,32.987407/!600,600/0/default.jpg"/>
 </td>
@@ -16280,13 +15226,13 @@ Agains
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Smotiirii fire with carpets, etc.; water  
 will often spread burning oil and in?  
 crease danger. Before passing through  
 smoke taken full breath ami then stoop  
 low. but if carbonic acid gas is sus?  
-pected walk erect.
+pected walk erect.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031704:1893022401:0963/pct:15.304278,94.982226,16.690098,3.732568/!600,600/0/default.jpg"/>
 </td>
@@ -16300,13 +15246,13 @@ pected walk erect.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Choke a Fire.  
+Choke a Fire.  
 Smother fire with carpets, etc; watet  
 will often spread burning oil and in  
 crease danger. Before passing through  
 smoke take a full breath and then stoop  
 low, but if carbonic acid gaa is ins  
-pected walk erect &#x27;
+pected walk erect &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473649:1893042101:0455/pct:49.875519,92.244701,13.838174,3.817437/!600,600/0/default.jpg"/>
 </td>
@@ -16320,7 +15266,7 @@ pected walk erect &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; if a vein is cut, compress be­  
+if a vein is cut, compress be­  
 low.Incase of poisoning, excite vomiting  
 by tickling tho throat or by warm water  
 and mustard.  
@@ -16330,7 +15276,7 @@ with varnish.
 Smother fire with carpets, etc Water  
 will often spread burning oil and in­  
 crease dangor.  
-Remove matter from th
+Remove matter from tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1894012901:0733/pct:14.996260,84.619775,12.752431,7.304894/!600,600/0/default.jpg"/>
 </td>
@@ -16344,7 +15290,7 @@ Remove matter from th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Heidel Berg.  
+Heidel Berg.  
 In Case of Accidents  
 Fcr dust in the eyes, avoid rubbmg;  
 dash water into them; remove cinders,  
@@ -16386,7 +15332,7 @@ heal cuts and cure chilblains.
 See the World’s Fair for Fif­  
 teen Cents.  
 Upon receipt of your address and fif­  
-teen cents in postage sta
+teen cents in postage stam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1894030101:1342/pct:36.235845,16.421138,14.506052,30.220300/!600,600/0/default.jpg"/>
 </td>
@@ -16400,8 +15346,6 @@ teen cents in postage sta
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 HOME AND FARM.  
 Iu Case of Accidents.  
 For dust in the eyes, avoid rub­  
@@ -16451,7 +15395,7 @@ A round piece cut from worn-out
 cashmere hose and cat-stitched to  
 tlu&gt; wrong side of the knee of chil­  
 diva’s hose with strong cotton  
-wf.l strengthen &#x27;the
+wf.l strengthen &#x27;them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1894031501:0338/pct:35.934926,6.525191,13.879736,31.990761/!600,600/0/default.jpg"/>
 </td>
@@ -16465,8 +15409,6 @@ wf.l strengthen &#x27;the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 FAMILY CORNER.  
   
 In Case of Accidents.  
@@ -16518,7 +15460,7 @@ bound on the throat will greatly ease a
 sore throat. It is said that it will also  
 heal cuts and cure chilblains.—Se/.  
   
-A Good-Natured
+A Good-Natured 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_occident_the-occident_1894-03-15_1343%2Fper_occident_the-occident_1894-03-15_1343_jp2.zip%2Fper_occident_the-occident_1894-03-15_1343_jp2%2Fper_occident_the-occident_1894-03-15_1343_0009.jp2/pct:53.789683,46.698113,20.168651,35.888918/,600/0/default.jpg"/>
 </td>
@@ -16532,7 +15474,6 @@ A Good-Natured
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Beforo passing through smolco take a  
 full breath and then stoop low, but if  
 carbonic gaB is suspected walk erect.  
@@ -16543,7 +15484,7 @@ pencil.
 Kcroscno poured on red flannel and  
 bound on the throat will greatly easo r  
 soro throat. It is said that it will also  
-heal cuts amt euro chilblains
+heal cuts amt euro chilblains.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1894031901:0899/pct:57.425743,29.024812,12.909368,6.289671/!600,600/0/default.jpg"/>
 </td>
@@ -16557,7 +15498,7 @@ heal cuts amt euro chilblains
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- least half an hour.”  
+least half an hour.”  
   
 IN CASE OF ACCIDENTS.  
   
@@ -16609,7 +15550,7 @@ If in water, float on the back, with
 the nose and mouth projecting.  
   
 For apoplexy, raise the head and  
-gl for fainting, lay th
+gl for fainting, lay the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1895-06-05_44_23%2Fper_the-pacific_the-pacific_1895-06-05_44_23_jp2.zip%2Fper_the-pacific_the-pacific_1895-06-05_44_23_jp2%2Fper_the-pacific_the-pacific_1895-06-05_44_23_0005.jp2/pct:68.843980,10.941710,20.860071,37.444963/,600/0/default.jpg"/>
 </td>
@@ -16623,7 +15564,7 @@ gl for fainting, lay th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s.   
+.   
 What to Do in Case of Accidents.   
 The following short rules for action,  
 in cases of accident, will be found use­  
@@ -16686,7 +15627,7 @@ that they should assist her than they
 declare that she is quite in her ele­  
 ment—in short,that she would never be  
 happy if she had only half as  
-much to do.
+much to do. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152135:1895120501:0589/pct:52.008746,43.180741,14.293523,38.053265/!600,600/0/default.jpg"/>
 </td>
@@ -16700,7 +15641,6 @@ much to do.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 as can La bcir.e to ;i c.-.-L coal, cr end of  
 a lighted; ciaar. In case of poisoning  
 excite oaa.it ing I&#x27;y tickling the threat,  
@@ -16712,7 +15652,8 @@ poironing Rive stiong cofle and keep
 moving. If in water float on the back  
 with nose and mouth projecting. For  
 apoplexy, raise the head and body; for  
-fainting, lay the person flat. &#x27;
+fainting, lay the person flat. &#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn87056250:00202191320:1896010401:0026/pct:81.563594,88.197816,14.060677,6.755663/!600,600/0/default.jpg"/>
 </td>
@@ -16726,7 +15667,7 @@ fainting, lay the person flat. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to remember. For dust in the eyes  
+to remember. For dust in the eyes  
 avoid rubbing dash water in them; re­  
 move cinders, etc. with the round  
 point of a lead pencil. Iemove wax  
@@ -16758,7 +15699,7 @@ good in most cases; in case of opium
 poisoning give strong coffe and keep  
 moving. If in water float on the back  
 with nose and mouth projecting. For  
-apoplexy, raise the hea
+apoplexy, raise the head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237281214:1896011801:0765/pct:34.252715,62.054670,12.118600,17.282031/!600,600/0/default.jpg"/>
 </td>
@@ -16772,7 +15713,7 @@ apoplexy, raise the hea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- T. 10-Im  
+T. 10-Im  
 What to Do in Case of Accidents.  
 The following short rules for action,  
 in cases of accident, will be found uso  
@@ -16835,7 +15776,8 @@ that they should assist her than they
 declare that she is quite in her ele­  
 ment--in short, that she would never be  
 happy if she had only half as  
-much to do.
+much to do.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237281214:1896012901:0794/pct:17.395780,28.158472,12.352033,34.739966/!600,600/0/default.jpg"/>
 </td>

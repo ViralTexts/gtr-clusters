@@ -1,7 +1,7 @@
 
 # The Explorations at Jerusalem
 
-### 29 reprints from 1867-11-14 to 1871-08-11
+### 26 reprints from 1867-11-14 to 1871-08-11
 
 ## [The Explorations at Jerusalem](https://chroniclingamerica.loc.gov/lccn/sn84026753/1871-06-29/ed-1/seq-1/)
 
@@ -13,7 +13,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-**The Explorations at Jerusalem.**  
+The Explorations at Jerusalem.**  
   
 The first operations were commenced on the western wall, at a point near what is known as Wilson&#x27;s Arch. It receives the name from the fact that it was first discovered by Captain Wilson, who had not the means, however, to prosecute any mining operations. Captain Warren&#x27;s explorations proved this arch to be one of a series forming a viaduct which led from the Temple toward the palace of Herod on the western hill, and constituting perhaps the very bridge across which Jesus was conducted from Pilate to Herod on the day of his trial. The remains of a winding aqueduct, cut in the solid rock beneath this bridge, were also discovered. Part of this bridge has fallen, and broken and buried the aqueduct in its fall; and the original pavement of the ancient road in the valley itself is forty-five feet below the present surface formed by the ruins of the ancient wall and houses. Nor is this all. A perfect net-work of subterranean chambers was also disclosed, some of which were probably used for the storage of food, and others as aqueducts and cisterns. And the whole result more than confirms the ideas of Jewish architectural grandeur which the books of the Bible and the pages of Josephus combined to give, but which have hitherto been regarded by many skeptical minds as apocryphal.  
   
@@ -45,7 +45,7 @@ Further explorations disclosed a subterranean passage, perhaps orginally constru
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- says:  
+says:  
   
 Having arrived at a depth of 79 feet, th  
 men were brealing up a stone at the bottom  
@@ -171,7 +171,8 @@ obliged to do so for want of wood. In this
 shaft in particular there is about 60 feet un­  
 sheathed, and a loose stone from any part  
 might stave a man&#x27;s head in before he is aware  
-of if.
+of if.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536081:1867112901:0943/pct:26.879663,25.788816,11.096231,49.562637/!600,600/0/default.jpg"/>
 </td>
@@ -185,20 +186,7 @@ of if.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e found 22 feet below the surface in a shaft near the south-west  
-angle of the Haram Area.  
-  
-“T send you a sketch of the tesselated pavement of the South Apse  
-of the Holy Sepulchre. I will try to take a tracing, but it will not be  
-very successful. I could see no signs of marble veneering on the walls,  
-but there was the appearance of there having been a veneering or  
-plaster of some kind on the stone. I have got a specimen of the rock  
-of the Holy Sepulchre.  
-  
-“ Procress oF Works To OcToBer 10, 1867.  
-  
-“Shaft near S. W. Angle South Wall of Haram Area.—Depth  
-excavated to Thursday, October 10, 76 feet. On Friday, having  
+On Friday, having  
 arrived at a depth of 79 feet, the men were breaking up a stone at the  
 bottom of the shaft. Suddenly the ground gave way, down went the  
 stone and the hammer, the men barely saving themselves. They at  
@@ -252,9 +240,9 @@ under which the men retire whenever an accidental shower of stones
 renders their position dangerous. One is now at a depth of 79 feet  
 from the surface, and from here we commence the exploring of the  
 “bottomless pit.” After dropping a rope down, we found that it was  
-only 6 feet deep, though it looked black enough for anything
+only 6 feet deep, though it looked black enough for anything.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_journal-of-sacred-literature_1868-01_2_4%2Fsim_journal-of-sacred-literature_1868-01_2_4_jp2.zip%2Fsim_journal-of-sacred-literature_1868-01_2_4_jp2%2Fsim_journal-of-sacred-literature_1868-01_2_4_0248.jp2/pct:11.215415,22.580645,66.699605,63.740695/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_journal-of-sacred-literature_1868-01_2_4%2Fsim_journal-of-sacred-literature_1868-01_2_4_jp2.zip%2Fsim_journal-of-sacred-literature_1868-01_2_4_jp2%2Fsim_journal-of-sacred-literature_1868-01_2_4_0248.jp2/pct:11.610672,41.997519,66.304348,44.323821/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +254,7 @@ only 6 feet deep, though it looked black enough for anything
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it :-—  
+it :-—  
   
 ‘On Friday, having arrived at a depth of 79 feet, the men were  
 breaking up a stone at the bottom of the shaft. Suddenly, the ground  
@@ -366,7 +354,7 @@ gerous. One is now at a depth of 79 feet from the surface, and from
 here we commence the exploring of the ‘ bottomless pit.’ After  
 dropping a rope down, we found that it was only six feet deep, though it  
 looked black enough for anything. Climbing down, we found ourselves  
-in &amp; passage running south from the Haram are
+in &amp; passage running south from the Haram area
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_british-and-foreign-evangelical-review_1868-04_17_64%2Fsim_british-and-foreign-evangelical-review_1868-04_17_64_jp2.zip%2Fsim_british-and-foreign-evangelical-review_1868-04_17_64_jp2%2Fsim_british-and-foreign-evangelical-review_1868-04_17_64_0065.jp2/pct:16.324435,23.689802,68.685832,70.856941/,600/0/default.jpg"/>
 </td>
@@ -380,7 +368,6 @@ in &amp; passage running south from the Haram are
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 was pierced ; and then succéeded, first, loose stones  
 and shingle, and afterwards large wrought stones,  
 and a wall of rubble running north and south, and  
@@ -472,7 +459,7 @@ really is only six feet deep, though certainly it
 looked black enough for anything. On.climbing  
 down with the sergeant, we find ourselves in a  
 passage 4 feet. high by 2 feet wide, running south  
-from the Haram are
+from the Haram area
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_quiver_1868-06-20_3_144%2Fsim_quiver_1868-06-20_3_144_jp2.zip%2Fsim_quiver_1868-06-20_3_144_jp2%2Fsim_quiver_1868-06-20_3_144_0009.jp2/pct:14.025357,13.434829,76.743265,76.308761/,600/0/default.jpg"/>
 </td>
@@ -486,7 +473,7 @@ from the Haram are
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,air 10 support us for any  
+air 10 support us for any  
 length of time; so that, having advanced 400 feet,  
 we commenced a difficult, retrograde movement,  
 haying to get back, half way before we:could turn  
@@ -534,7 +521,7 @@ und, and, as far as I can see yet, the wall
 at the south-west angle must be buried 95 feet  
 underground; so that at one time it must have  
 riseh clear to the height of 180 feet above the  
-Tyropceon gully’? I
+Tyropceon gully’? It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_quiver_1868-06-20_3_144%2Fsim_quiver_1868-06-20_3_144_jp2.zip%2Fsim_quiver_1868-06-20_3_144_jp2%2Fsim_quiver_1868-06-20_3_144_0009.jp2/pct:14.025357,70.379274,75.158479,20.806624/600,/0/default.jpg"/>
 </td>
@@ -548,7 +535,6 @@ Tyropceon gully’? I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 79 feet, the men (Arabs) were breaking up a  
 stone at the bottom of the shaft, when suddenly  
 the ground gave way, down went stone and  
@@ -559,7 +545,7 @@ they had found a bottomless pit. I went down
 to the spot and examined it.”’  
   
 Captain Warren describes the operations con-  
-sequent on this discovery. The depth o
+sequent on this discovery. The depth of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_art-journal-us_1868-08_7_80%2Fsim_art-journal-us_1868-08_7_80_jp2.zip%2Fsim_art-journal-us_1868-08_7_80_jp2%2Fsim_art-journal-us_1868-08_7_80_0009.jp2/pct:70.914346,30.144542,21.728849,8.729555/600,/0/default.jpg"/>
 </td>
@@ -573,7 +559,7 @@ sequent on this discovery. The depth o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. But the timidity and  
+But the timidity and  
 the pruriency that are sometimes observ.  
   
 able in the press are due mainly to the  
@@ -643,7 +629,8 @@ this second drop the ladder is again re-
 quired; accordingly, having told the man  
 at the bottom to get under cover, it is  
   
-owered to the ledge, from whence it is
+owered to the ledge, from whence it is  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1871062701:0318/pct:50.448472,11.189502,22.679846,18.865528/!600,600/0/default.jpg"/>
 </td>
@@ -657,25 +644,7 @@ owered to the ledge, from whence it is
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t on een atea at ie   
-our starboard bow. It was sufficiently atea o  ete a o  
-near to throw its jagged ontline full on atea o  ominco at  
-  
-debasements his children even in passing  
-  
-are exposed, it is not enough for him to  
-protest that the public delights in filth;  
-  
-for some terrible Nathan will say to ev  
-  
-ery such David, Have you done, and are  
-you doing, what you can as an individual  
-  
-to correct the taste which demands those  
-pictures, or do you idly think that one  
-man can do nothing? Every man who  
-does a great work believes, as effective  
-reformers always believed, that one with  
+formers always believed, that one with  
 God is a majority.  
 ThE ExPLORATIONS AT JERUSALEM.  
 The first operations were commenced on  
@@ -751,9 +720,9 @@ he could turn his head.--From &quot;The Re­
 covery of Jerusalem,&quot; by LyMan Annoer,  
 in Harper&#x27;s MazasinE for IuLy.  
   
-a o  o
+a o  o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1871062701:0318/pct:28.647263,30.506561,44.682409,63.552984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1871062701:0318/pct:50.869486,30.506561,22.460187,44.278256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,8 +734,6 @@ a o  o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 some of which were probably used for  
   
 the storage of food, and others as aqueducts  
@@ -792,7 +759,7 @@ Hebrew and of Christian origin. Thehis kuces and feet, Brigham Young
 they broke it through, and were all in-  
   
 gulled, drowned and lost. This, my breth-  
-ren and sisters, is the tru
+ren and sisters, is the true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1871062701:0318/pct:51.070840,75.264569,22.441882,8.367433/!600,600/0/default.jpg"/>
 </td>
@@ -806,7 +773,6 @@ ren and sisters, is the tru
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
   
 following description of his explorations  
 at this point, taken from one of his letters  
@@ -821,7 +787,7 @@ eie   e e e e  ee e ee e
 of seventy-nine feet, the men were breaktan an bod in the crowded om and  
 ing up a stone at the bottom of the shaft, that he has a hard, peremptory voice,  
 Suddenly the ground gave way, down plausibly toned down to reception neces­  
-went the stone and th
+went the stone and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1871062701:0318/pct:51.235585,83.462678,22.313747,6.222661/!600,600/0/default.jpg"/>
 </td>
@@ -835,10 +801,10 @@ went the stone and th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, the men sities. Looking not more than sixty  
+the men sities. Looking not more than sixty  
 barely saving themselves. They at once years of age, he is past that period by  
 ru hed up, and told the sergeant that they half a score, and still may have twenty  
-had found the bottomless pit. I went years to live. Of 
+had found the bottomless pit. I went years to live. Of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1871062701:0318/pct:51.290500,89.008043,22.295442,2.187103/!600,600/0/default.jpg"/>
 </td>
@@ -852,13 +818,12 @@ had found the bottomless pit. I went years to live. Of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 down to the spot and examined it; and, constitution, equal to all the responsibili­  
 in order that you may have an idea of ties of polygamy, of self-pride, cool self.  
 the extent of our work, I will give you a managemont, and self-will, with an edu­  
 description of our descentton chi eigios and an aptes  
 The shaft mouth is on the south side and ardor for power and avarice, Young  
-of the Sanctuary wall, near th
+of the Sanctuary wall, near the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1871062701:0318/pct:51.308805,91.039932,22.295442,3.217158/!600,600/0/default.jpg"/>
 </td>
@@ -882,7 +847,6 @@ of the Sanctuary wall, near th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 Tlic Exploration* at Jerusalem.  
 The tirst operations were commenced on the  
 vestern wall, at a point near what is known as  
@@ -1018,41 +982,9 @@ could get to a point where he con&#x27;d turn his
 head. ? From &quot; The Recovery of Jerusalem,&quot;  
 bv Lyman Abbott, in //nrper&#x27;s Maga.ine for  
 July.  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:57.379673,0.085948,27.506574,96.252686/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Daily state journal._](https://www.loc.gov/resource/sn84024670/1871-06-30/ed-1/?sp=4)
-
-#### 1871-06-30 &middot; [Alexandria, Va.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ll-being. Be  
-j must do his part. It is not, indeed entirely  
-i true either that the press makes the public,  
-ior the public the press. But there is an  
-I immense reciprocal influence. And if the  
-&#x27; parent walking in the streets is shocked to  
-see in the shop windows a certain kind of  
-j illustrated paper, to whose debasements hi­  
-&#x27; children even in passing are exposed, it is  
-; not enough for him to protest that the public  
-j delights in tilth ; for some terrible Nathan  
-i will say to every such David, have you done,  
-j anil are you doing, what you can as an indi­  
-vidual to correct the taste which demands  
-those pictures, or do you idly think that  
-I one man can do nothing. Every man who  
-does a great work believes-, as effective re­  
-formers always believed, that duo with  
-lis a majority
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762386:1871063001:0641/pct:18.293181,36.373166,13.556554,24.168913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +996,7 @@ lis a majority
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| aqueduct, cut in the solid rock beneath this  
+ aqueduct, cut in the solid rock beneath this  
 sible to carry it on more | bridge, were also discovered. Part of this  
 than a certain number of | bridge has fallen, and broken and buried the  
 days at one time at a diffi- | aqueduct in its fall; and the original pavement  
@@ -1141,7 +1073,7 @@ our work, I will give you a description of our |
 descent.  
   
 ‘The shaft mouth is on the south side of the  
-Sanctuary wall, near the southwest angle, among
+Sanctuary wall, near the southwest angle, among 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0039.jp2/pct:15.810277,28.521940,70.838823,62.124711/,600/0/default.jpg"/>
 </td>
@@ -1155,7 +1087,7 @@ Sanctuary wall, near the southwest angle, among
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, at the same time, that two sides  
+at the same time, that two sides  
 the prickly-pears; beside it, to the east, lying | of the shaft are cut through the soil, and are  
   
 igainst the Sanctuary wall, is a large  
@@ -1189,133 +1121,39 @@ some large loose stones jut out
 in the most disagreeable manner.  
 Here five more frames have been  
 fixed to keep these stones steady.  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-WILSON’S ARCH.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0040.jp2/pct:12.302285,50.057737,70.606327,40.877598/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n40/mode/1up?view=theater)
+
+#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+ARCH.  
   
 On peering down from this ledge one sees the  
 Sanctuary wall, with its projecting courses,  
-until they are lost in the darkness below; ob-  
-  
-  
-  
-VOUSSOIB OF AN AROH FALLEN THROUGI ROOF OF ROOA-CUT CANAL.  
-  
-  
-  
-  
-  
-HARPER&#x27;S NEW MONTHLY MAGAZINE.  
-  
-  
-  
-  
-  
-SS  
-  
-k  
-RS  
-  
-  
-  
-Ground  
-  
-ile  
-||  
-  
-1,  
-  
-  
-  
-G77  
-  
-Present Surface of  
-  
-I  
-  
-&lt;3  
-  
-[i+  
-| Pavement  
-  
-  
-  
-yernent___—  
-  
-Payverne  
-  
-}  
-  
-  
-  
-_  
-  
-  
-  
-Arch  
-  
-4  
-  
-ee ee ee  
-  
-  
-  
-  
-  
-istian pottery.  
-  
-  
-  
-VIEW, SHOWING DEBRIS.  
-  
-eal of Haggai.  
-  
-.@  
-  
-BEOTIONAL  
-  
-  
-  
-  
-  
-  
-  
-Lyropean Valley  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-«  
-  
-The Upper tity  
-  
-2400  
-  
-  
-  
-| self-supporting. Now to descend this secopd  
+until they are lost in the darkness below; ob
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0040.jp2/pct:48.198594,44.515012,34.666081,5.282910/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n41/mode/1up?view=theater)
+
+#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+self-supporting. Now to descend this secopd  
 drop the ladder is again required ; according  
   
 ly, having told the man at the bottom to get  
@@ -1360,58 +1198,9 @@ air so foul as to threaten suffocation. The
 difficulty of his position is indicated by the fact  
 that he had to back out 200 feet before he could  
 get to a point where he could turn his head.  
-| On the eastern wall letter
+| On the eastern wall letters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0040.jp2/pct:12.302285,44.341801,70.606327,46.593533/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n135/mode/1up?view=theater)
-
-#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-enough for him to protest that the public delights  
-  
-in filth; for some terrible Nathan will say to ev- |  
-  
-ery such David, Have you done, and are you do-  
-ing, what you can as an individual to correct the  
-taste which demands those pictures, or do you  
-  
-idly think that one man can do nothing? Every |  
-man who does a great work believes, as effective |  
-  
-reformers always believed, that one with God is  
-a majority.  
-  
-Tue
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0135.jp2/pct:19.181034,73.057432,34.784483,11.993243/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1871-07_43_254/page/n135/mode/1up?view=theater)
-
-#### 1871-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-And if the parent walking in the streets |  
-| the accessories is indispensable.  
-kind of illustrated paper, to whose debasements |  
-his children even in passing are exposed, it is not
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0135.jp2/pct:19.137931,68.581081,57.543103,4.391892/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-07_43_254%2Fsim_harpers-magazine_1871-07_43_254_jp2.zip%2Fsim_harpers-magazine_1871-07_43_254_jp2%2Fsim_harpers-magazine_1871-07_43_254_0041.jp2/pct:52.430556,9.137931,35.460069,49.109195/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1212,7 @@ his children even in passing are exposed, it is not
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- detritus of centuries. The  
+detritus of centuries. The  
 first operations were commenced on the  
 western wall, at a point near what is  
 known as Wilson&#x27;s arch. It receives this  
@@ -1470,7 +1259,7 @@ along this slimy drain through the mud,
 the passage, at times, becoming so narrow  
 that he could barely squeeze through, and  
 the air so foul as to threaten suftocation.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_growlithe_ver01:data:sn83016555:00295875896:1871070201:0417/pct:32.449324,36.639185,12.500000,28.018914/!600,600/0/default.jpg"/>
 </td>
@@ -1484,7 +1273,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- by Josephus of the  
+by Josephus of the  
 immense height of the temple above the  
 valleys of the Kedron and Jehosaphat.  
 And the whole result more than confirms  
@@ -1505,7 +1294,7 @@ the &quot;joy of the whole earth,&quot; efforts are
 being made in this country to secure co­  
 operation in this interesting work with  
 the Palestine Exploration Fund.  
-When these investigations shal
+When these investigations shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_growlithe_ver01:data:sn83016555:00295875896:1871070201:0417/pct:32.533784,71.847721,12.466216,12.851600/!600,600/0/default.jpg"/>
 </td>
@@ -1519,7 +1308,6 @@ When these investigations shal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 His ICxplornlioMW at Bern Salem  
 Tho first operations wore commenced  
 on the western wall at a point near  
@@ -1673,7 +1461,7 @@ culty of his position is indicated by
 tho foot that he hod to bock out 200 feet  
 before he could get to a point where  
 he &#x27; could turn his head — Harpers  
-Mngaz
+MngazI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1871070501:0641/pct:36.102764,10.455891,20.387620,86.228538/!600,600/0/default.jpg"/>
 </td>
@@ -1687,8 +1475,6 @@ Mngaz
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THe ExDloratiOns at erusalemI  
   
 I  
@@ -1845,47 +1631,10 @@ to a point where he could turn his head,
 --From &quot;The Recovery of Jerusalem,&quot;  
 by Lyman Abbott, in Harper&#x27;s Magazine  
 Jor futy,   
-aeao eeeo
+aeao eeeo  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85034457:00280774832:1871070601:0048/pct:68.395303,11.842468,12.230920,67.116497/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Green-Mountain freeman._](https://www.loc.gov/resource/sn84023209/1871-07-12/ed-1/?sp=1)
-
-#### 1871-07-12 &middot; [Montpelier, Vt.](http://dbpedia.org/resource/Montpelier%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ll-being. He must do his  
-part. It is not, indeed, entirely true  
-either that the press makes the public, or  
-the public the press. But there is an im-  
-- . . a , . . . i  
-men.se reciprocal influence. And if the  
-parent waiting in tne streeis is snocKea to ;  
-UPA in tbn i h r-v w n.lAiuci o n.irf I r L&quot; md rT I  
-rs. , our ., v.. .  
-.....n v-i, nusV uwa,i.i . j  
-m paper, to wnose ueoasemenis j  
-dren even in passing arc exposed,  
-enough for him to protest that the ;  
-elighu in fiith; for some terrible  
-nis children  
-it is not  
-j.uc.ie uenguii, iu uiiu; ior somu icrrioio  
-.V11 sa- w every sucu javia,  
-Have you done, und are you doing, what  
-you can as an individual to correct the  
-taste which demands those pictures, or do  
-you idly think that one man can do noth-  
-ing ? Every man who does a great work  
-believes, as effective reformers always be-&#x27;  
-l.eved, that one with God is a majority
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1871071201:0237/pct:49.492595,84.448582,11.368623,9.276092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1897,8 +1646,6 @@ l.eved, that one with God is a majority
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The Exploration of Jerusalem.  
 Tho first operations wero commcnccd on  
 tho western wall, at a point near what is  
@@ -2041,27 +1788,9 @@ I could turn his head round.?1&#x27; rom &quot;1 ho
 j Recovery of Jerusalem,&quot; by Lyman Abbott  
 in Harper&#x27;s Magazine fur July.  
 o  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193766:1871072001:0328/pct:34.360435,9.879738,31.667530,87.319227/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Huntingdon journal._](https://panewsarchive.psu.edu/lccn/sn83032115/1871-08-09/ed-1/seq-1/)
-
-#### 1871-08-09 &middot; [Huntingdon, Pa.](http://dbpedia.org/resource/Huntingdon%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-EVERY man who does a great work be­  
-lieves, as effective reformers always be­  
-lieved, that one with God is a majority.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002295%2F1871080901%2F0120.jp2/pct:37.905922,96.651674,11.138968,1.544682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2073,7 +1802,7 @@ lieved, that one with God is a majority.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- forever.  
+forever.  
 This sky bending o&#x27;er us,  
 Onward forever, forever.  
 Song Messenger.  
@@ -2224,7 +1953,7 @@ en suffocation. The difficulty of his po
 sition is indicated by the fact that he  
 had to back out 200 feet before he could  
 get to a point where he could turn his  
-head.-Harper&#x27;s Magasi
+head.-Harper&#x27;s Magasie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1871081101:0131/pct:42.052205,26.004084,12.169217,68.400272/!600,600/0/default.jpg"/>
 </td>

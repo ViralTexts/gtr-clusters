@@ -52,7 +52,6 @@ B
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Beautiful faces are those that wear—  
   
 It matters little if dark or fair—  
@@ -95,7 +94,7 @@ Silent rivers of happiness,
   
 Whose hidden fountains but few may guess.  
   
-
+B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_the-womans-journal_1875-11-20_6_47%2Fsim_the-womans-journal_1875-11-20_6_47_jp2.zip%2Fsim_the-womans-journal_1875-11-20_6_47_jp2%2Fsim_the-womans-journal_1875-11-20_6_47_0005.jp2/pct:12.226313,33.021077,13.059485,13.583138/,600/0/default.jpg"/>
 </td>

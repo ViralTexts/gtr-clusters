@@ -70,8 +70,6 @@ And tread the palace of the sky!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 “ Seest thou this ruin ? —&#x27;twas a skull  
 Once of ethereal spirit full!*  
   
@@ -106,7 +104,7 @@ But wlicrc H co&#x27;ilil not prai-e, was chain&#x27;d —
 If linn in \ Irlue&#x27;.s cause it &#x27;&#x27;jioke  
 \’ef g&#x27;Mjti,. &lt;\nicord never broke ;  
   
-&#x27;J&#x27;har t
+&#x27;J&#x27;har to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_european-magazine-and-london-review_1815-11_68%2Fsim_european-magazine-and-london-review_1815-11_68_jp2.zip%2Fsim_european-magazine-and-london-review_1815-11_68_jp2%2Fsim_european-magazine-and-london-review_1815-11_68_0060.jp2/pct:11.439114,10.590278,70.510455,81.732253/,600/0/default.jpg"/>
 </td>
@@ -140,7 +138,7 @@ If linn in \ Irlue&#x27;.s cause it &#x27;&#x27;jioke
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- thou this ruin ?--~’twas a skull  
+thou this ruin ?--~’twas a skull  
 Once of ethereal spirit full!  
 i his narrow cell was life’s retreat,  
 This space was thought’s mysterious seat !  
@@ -202,7 +200,7 @@ To cheer the ag’d man’s friendless bed,
 If guilt’s triumphant mask they spurn’d  
 And home to mercy’s lap return’d,  
 Those feet with angel-wings shall vie  
-And tread the palace of the sky 
+And tread the palace of the sky !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7%2Fsim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7_jp2.zip%2Fsim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7_jp2%2Fsim_atheneum-or-spirit-of-the-english-magazine_1817-07-01_1_7_0037.jp2/pct:19.417767,5.169242,72.539016,86.644592/,600/0/default.jpg"/>
 </td>
@@ -216,14 +214,6 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t  
-  
-  
-  
-  
-  
-  
-  
 [ 61  
 SELECT  
   
@@ -290,7 +280,7 @@ These feet with Angel wings shall vie,
 And tread the palace of the sky !  
 * *  
   
-* * * 
+* * * x
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_gentlemans-magazine_1817-07_88%2Fsim_gentlemans-magazine_1817-07_88_jp2.zip%2Fsim_gentlemans-magazine_1817-07_88_jp2%2Fsim_gentlemans-magazine_1817-07_88_0066.jp2/pct:10.629921,8.400693,35.777559,54.878753/,600/0/default.jpg"/>
 </td>
@@ -304,15 +294,6 @@ And tread the palace of the sky !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
 4 Fragment, found in « Case containing a Human Skeleton.  
   
 EHOLD this ruin? ’Twas a skull  
@@ -381,6 +362,7 @@ And tread the palace of the sky?
   
   
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57%2Fsim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57_jp2.zip%2Fsim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57_jp2%2Fsim_weekly-entertainer-and-west-of-england-miscellany_1817-08-18_57_0019.jp2/pct:26.616379,25.503145,58.566810,53.773585/,600/0/default.jpg"/>
@@ -395,7 +377,7 @@ And tread the palace of the sky?
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- m a SktletaH case.  
+m a SktletaH case.  
 Behold this rum ! &#x27; fwas a Scud  
 -iSivceof etheriai spirit full ! &quot; -.&#x27;-t  
 hi narrow cell was Life&#x27;s retreat ;  
@@ -438,7 +420,7 @@ Th&#x27;jie i&#x27;oet path of duty trod ?
 To soothe . fhct ion&#x27;s huvnble bed  
 If Gi&#x27;-.ndciir&#x27;a guilty bride they murn!,  
 A.t I ho ne to Virtue bp reuira&#x27;d j ;&#x27;  
-T
+Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalMin2n_ver01%2Fdata%2F1817082201%2F0356.jp2/pct:5.586081,4.000560,63.896520,26.493216/!600,600/0/default.jpg"/>
 </td>
@@ -472,7 +454,6 @@ T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A SKELETON  
   
 &quot;BEHOLD this ruin &#x27;twas a scull,  
@@ -514,7 +495,8 @@ To soothe Affliction&#x27;s humble bed ;
 If Grandeur&#x27;s guilty bribe tlicy spurn d,  
 An J home to Virtue&#x27; lap retnrn&#x27;d ;  
 1U sefeet with angel&#x27;s win? shall vie,  
-An.Vread the palace of the sky !
+An.Vread the palace of the sky !  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA22n_ver01%2Fdata%2F1817091201%2F0148.jp2/pct:9.148666,7.693089,17.296696,24.928862/!600,600/0/default.jpg"/>
 </td>
@@ -528,7 +510,6 @@ An.Vread the palace of the sky !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 is narrpw cell was Life&#x27;s retreat ;  
 This nzﬂet ik‘:“ﬂuon@.\’o mysterious seat !  
 What Brauteous pidtaces fil)’d 11iis spet,  
@@ -566,7 +547,8 @@ o soothe Affliction’s humble bed ;
 If Grandeur&#x27;s guilty bribe they spurn&#x27;d,  
 40\«1 bome to Virtue&#x27;s lap return’d;  
 hewe fect with angel&#x27;s wings shall vie,  
-~ And tread the paluce of the sky !
+~ And tread the paluce of the sky !  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817100101:0567/pct:7.886558,11.914062,19.522145,21.886489/!600,600/0/default.jpg"/>
 </td>
@@ -592,7 +574,7 @@ hewe fect with angel&#x27;s wings shall vie,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; Found in a case  
+Found in a case  
 containing a Human Skeleton. BEHOLD this  
 ruin! &#x27;twas a skull &amp;nbsp; Once of  
 ethereal spirit full! &amp;nbsp; This narrow  
@@ -633,7 +615,7 @@ bed; &amp;nbsp; If grandeur&#x27;s guilty bribe
 they spurn&#x27;d, &amp;nbsp; And home to  
 virtue&#x27;s lap return&#x27;d: These feet with  
 angel wings shall vie, &amp;nbsp; And tread  
-the palace of the sky!
+the palace of the sky! 
 </td></tr></table>
 
 ---
@@ -644,8 +626,6 @@ the palace of the sky!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 EHOLD thisruin! *Twasa skull  
   
 Once of ethereal spirit cull!  
@@ -706,7 +686,7 @@ If Grandeur’s guilty bribe they spuru’d,
 And home to Virtue’s lap returu’d ;  
 These feet with Angel wings shall vie,  
 Aud tread the palace of the sky !  
-* os * * *
+* os * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11%2Fsim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11_jp2.zip%2Fsim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11_jp2%2Fsim_atheneum-or-spirit-of-the-english-magazine_1818-03-01_2_11_0037.jp2/pct:53.151261,33.498896,35.654262,45.952907/,600/0/default.jpg"/>
 </td>
@@ -730,8 +710,6 @@ Aud tread the palace of the sky !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 FOUND 1N A CASE CONTAINING A HUMAN  
 SKELETON.  
   
@@ -809,7 +787,8 @@ To soothe Affliction’s humble bed ;
 If Grandeur’s guilty bribe they spurn’d,  
 And home to Virtue’s lap return’d ;  
 These feet with Angel’s wings shall we,  
-And tread the palace of the sky!
+And tread the palace of the sky!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20%2Fsim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20_jp2.zip%2Fsim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20_jp2%2Fsim_robinsons-magazine-a-weekly-repository_1818-11-28_1_20_0015.jp2/pct:53.998050,27.346570,36.860068,62.169073/,600/0/default.jpg"/>
 </td>
@@ -823,7 +802,6 @@ And tread the palace of the sky!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-§  
   
 FRAGMENT, FounD IN A SKELETON CASE,  
   
@@ -877,7 +855,7 @@ If grandeur’s guilty bribe they spurn’d,
 And home to virtue’s lap return’d,  
 These feet with angel’s wings shal] vie,  
 And tread the palace of the sky.  
-|
+| 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_universalist_1820-03-18_1_38%2Fsim_universalist_1820-03-18_1_38_jp2.zip%2Fsim_universalist_1820-03-18_1_38_jp2%2Fsim_universalist_1820-03-18_1_38_0003.jp2/pct:11.198547,10.022166,52.138822,84.357188/,600/0/default.jpg"/>
 </td>
@@ -911,8 +889,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 From tke New-York Statesman.  
 The following beautiful stanzas were  
 handed to us by?a friend a few days  
@@ -963,7 +939,7 @@ C-air tvotliiiiij now avilfo themV 1
 Cut i( the page of t&amp;thf they sought,  
 Or co&#x27;nfort to !the;n)uurnecJroui:ht,  
 These hands a rurhr ihted sit;:ll claim,  
-VThan ali that-woits on ultlt or 
+VThan ali that-woits on ultlt or f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCSen2n_ver01%2Fdata%2F1820120901%2F0568.jp2/pct:7.104377,6.899183,17.929293,36.850136/!600,600/0/default.jpg"/>
 </td>
@@ -977,7 +953,7 @@ VThan ali that-woits on ultlt or
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- were handed 0 ulbjrk  
+were handed 0 ulbjrk  
 friend a lew dqrince Ha did not know  
 the mntliori nor do are recollect to hare  
 over read them before t he -note of the  
@@ -1031,7 +1007,7 @@ And home to virtue’s lap return’d
 These foil with angeli’ wings shall vie &#x27;  
 And tread the palace of the sky !  
 “ 1 hat ikull had a tongue in it and could  
-mrwi
+mrwiM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn82014783:print:1820121401:0412/pct:7.184628,7.150664,14.327485,30.928962/!600,600/0/default.jpg"/>
 </td>
@@ -1055,7 +1031,7 @@ mrwi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
 The following fragments were found in the  
 Skeleton Cave at the Royal Academy. Sup-  
@@ -1094,7 +1070,7 @@ If falsehoods honey it disdain&#x27;d,
   
 rorya.  
   
-. These hands a riche
+. These hands a richer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-masonic-register_1821-03_1_7%2Fsim_american-masonic-register_1821-03_1_7_jp2.zip%2Fsim_american-masonic-register_1821-03_1_7_jp2%2Fsim_american-masonic-register_1821-03_1_7_0038.jp2/pct:5.130168,6.672520,64.318530,82.572432/,600/0/default.jpg"/>
 </td>
@@ -1108,8 +1084,6 @@ rorya.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 And when it could not praise, was chain’d !  
   
 279  
@@ -1142,7 +1116,8 @@ To soothe afflictions humble bed ?
 If grandeur’s guilty bribe they spurn’d,  
 And home to virtue’s lap return’d ?  
 These feet with angels’ wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-masonic-register_1821-03_1_7%2Fsim_american-masonic-register_1821-03_1_7_jp2.zip%2Fsim_american-masonic-register_1821-03_1_7_jp2%2Fsim_american-masonic-register_1821-03_1_7_0038.jp2/pct:10.068913,7.177349,78.866769,83.538191/,600/0/default.jpg"/>
 </td>
@@ -1156,7 +1131,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 FROM THE SEW-TORK STATESMAN.  
 The following beautiful stanzas were hand­  
 ed to us bv o friend a few days since. He did  
@@ -1168,7 +1142,20 @@ ry one will readily assent. The picture was
 undoubtedly suggested by one of the finest  
 passages in Ilainlet: but the thoughts are hap­  
 pily conceived and elegantly expressed.  
-A FHAGMENT  
+A
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821041001:0055/pct:5.963542,6.504854,17.578125,8.058252/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Edwardsville spectator._](https://www.loc.gov/resource/sn82015374/1821-04-10/ed-1/?sp=4)
+
+#### 1821-04-10 &middot; [Edwardsville, Ill.](http://dbpedia.org/resource/Edwardsville%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
 Found in a Skeleton Case.  
 Behold this ruin! ’Twas a scull,  
 Once of ethereal spirit full!  
@@ -1209,9 +1196,10 @@ To soothe affliction’s humble bed.
 If grandeur’s guilty bribe they spurn’d,  
 And home to virtue’s lap return’d;  
 Tit ese feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky !
+And tread the palace of the sky !  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821041001:0055/pct:5.963542,6.504854,17.578125,38.446602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821041001:0055/pct:6.588542,14.919094,16.614583,30.032362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1231,6 @@ And tread the palace of the sky !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 &#x27; FOUND IN A SKELETON CASE.  
   
 Behold this ruin! ’Twas a scull,  
@@ -1310,7 +1297,8 @@ To soothe affliction’s humble bed.
 If grandeur’s guilty bribe they spurn’d,  
 And home to virtue’s lap returned;  
 These feet with angel’s wings shall vie,  
-And tread the palace of the sky!
+And tread the palace of the sky!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-magazine_1822-02-10_5_6%2Fsim_saturday-magazine_1822-02-10_5_6_jp2.zip%2Fsim_saturday-magazine_1822-02-10_5_6_jp2%2Fsim_saturday-magazine_1822-02-10_5_6_0009.jp2/pct:9.972067,29.846939,34.916201,48.741497/,600/0/default.jpg"/>
 </td>
@@ -1324,7 +1312,7 @@ And tread the palace of the sky!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Fracment was found in the Skeleton Case at the  
+Fracment was found in the Skeleton Case at the  
 Royal Académy, supposed to have been written by ove of the Students,  
 aud deposited there by him :---  
   
@@ -1380,7 +1368,8 @@ To soothe affiiction’s huinble. bed---
 If grandeur’s guilty bi ive they spurn’d,  
 And home to virtue’s lap retarn’d---  
 These! feet with angel-wings shail vie,  
-And tread tlie palace of the&#x27;sky.
+And tread tlie palace of the&#x27;sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89%2Fsim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89_jp2.zip%2Fsim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89_jp2%2Fsim_calcutta-journal-political-commercial-literary-gazette_1822-04-13_2_89_0007.jp2/pct:14.654126,16.169154,36.984223,38.412106/,600/0/default.jpg"/>
 </td>
@@ -1394,8 +1383,6 @@ And tread tlie palace of the&#x27;sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 [Inserted at the request of a correspondent.)  
 p a ;  
   
@@ -1463,7 +1450,8 @@ To soothe affliction’s humble bed;
 - Wf grandeur’s guilty bribe they spurn’d,  
 And home to virtue’s lap return’d—  
 These feet with angel’s wings shall vie,  
-And reach the palace of the sky.
+And reach the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173%2Fsim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173_jp2.zip%2Fsim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173_jp2%2Fsim_kaleidoscope-or-literary-and-scientific-mirror_1823-10-21_4_173_0003.jp2/pct:40.263819,27.431907,20.634422,36.186770/,600/0/default.jpg"/>
 </td>
@@ -1477,7 +1465,6 @@ And reach the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 This nairow TOVsteri-  
 This space w - v  
 What beauteous pictures fill&#x27;d this  
@@ -1522,7 +1509,7 @@ snurn&#x27;d.
 And home to virtue&#x27;s lap return&#x27;d;  
 These feet with angel&#x27;s wings snail  
 vie,  
-And tread the palace of the sky 
+And tread the palace of the sky !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarFPS1_ver01%2Fdata%2F1824060401%2F0048.jp2/pct:8.099439,12.388433,17.101043,33.404736/!600,600/0/default.jpg"/>
 </td>
@@ -1536,8 +1523,6 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
   
   
 A FRAGMENT FOUND IN A SKELETON CASE.  
@@ -1587,6 +1572,7 @@ And home to Virtue’s lap return’d ;
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky!  
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_religious-intelligencer_1825-06-11_10_2%2Fsim_religious-intelligencer_1825-06-11_10_2_jp2.zip%2Fsim_religious-intelligencer_1825-06-11_10_2_jp2%2Fsim_religious-intelligencer_1825-06-11_10_2_0015.jp2/pct:18.474923,14.661290,30.731832,40.677419/,600/0/default.jpg"/>
@@ -1601,7 +1587,7 @@ And tread the palace of the sky!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. ^  
+^  
   
 A frMment found in a skeleton case.  
   
@@ -1680,7 +1666,7 @@ These feet with angels’ wings shall vie,
   
 . ^ And tread the palace of the sky!  
   
-T
+TO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_east-anglian-or-notes-and-queries_1825-07_2_7%2Fsim_east-anglian-or-notes-and-queries_1825-07_2_7_jp2.zip%2Fsim_east-anglian-or-notes-and-queries_1825-07_2_7_jp2%2Fsim_east-anglian-or-notes-and-queries_1825-07_2_7_0039.jp2/pct:22.540046,15.087476,62.271167,75.523991/,600/0/default.jpg"/>
 </td>
@@ -1694,7 +1680,6 @@ T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A FRAGMENT  
 Foundiwa Skevton Case.  
 Behold this ruin! ’Twas a skull  
@@ -1763,7 +1748,7 @@ And home to Virtue’s lap returned;
 These feet with angel’s wings sLall vie,  
 Aod tread the palace of the sky!  
   
-TO A
+TO AN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_western-farmer-and-gardener_1826-02-01_2_30%2Fsim_western-farmer-and-gardener_1826-02-01_2_30_jp2.zip%2Fsim_western-farmer-and-gardener_1826-02-01_2_30_jp2%2Fsim_western-farmer-and-gardener_1826-02-01_2_30_0015.jp2/pct:16.305276,16.383605,37.681407,64.039855/,600/0/default.jpg"/>
 </td>
@@ -1777,7 +1762,7 @@ TO A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s of a human subject.  
+ of a human subject.  
 Behold this ruin ! *twas a skull  
 Once of ethercal spirit full.—  
 This narrow cell* was life’s retreat—  
@@ -1817,7 +1802,7 @@ To sooth atfliction’s humble bed ;
 If grandeur’s guilty bribe they spurned  
 And home to virtue’s lap returned, |  
 These feet with angels’ wings shall vie  
-And tread the palace of the sky.
+And tread the palace of the sky. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868740:1827060701:0028/pct:8.949306,9.191419,20.135939,26.369637/!600,600/0/default.jpg"/>
 </td>
@@ -1851,7 +1836,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and call it a heauH/wd specimen.  
+and call it a heauH/wd specimen.  
   
 Secst thou this min—*twas a skull  
   
@@ -1923,7 +1908,8 @@ And back to virtue&#x27;s lap returned.
   
 These feet, with angel&#x27;s wings shall vie.  
   
-And tread the Palace of tbe 3ky.
+And tread the Palace of tbe 3ky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_boston-pearl-and-galaxy_1827-12-21_10_532%2Fsim_boston-pearl-and-galaxy_1827-12-21_10_532_jp2.zip%2Fsim_boston-pearl-and-galaxy_1827-12-21_10_532_jp2%2Fsim_boston-pearl-and-galaxy_1827-12-21_10_532_0002.jp2/pct:9.254658,8.771718,27.655280,85.629826/,600/0/default.jpg"/>
 </td>
@@ -1937,7 +1923,7 @@ And tread the Palace of tbe 3ky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’s retreat,  
+s retreat,  
 m was thought&#x27;s mysterious seat  
 auteous pictures filled this spot! |  
 What dreans of rapture long forgot! ‘  
@@ -1979,7 +1965,8 @@ If from the homesof joy, they fled
 ¥ guilt’s trizmphant - ol they spurned,  
 A:rl back to virtae&#x27;s up returne,  
 Tliese feet, with angel&#x27;s winzs shall vie,  
-And tread the Palace of the Sky.
+And tread the Palace of the Sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1827122601:0303/pct:4.968734,25.102421,15.565320,21.353197/!600,600/0/default.jpg"/>
 </td>
@@ -2003,7 +1990,6 @@ And tread the Palace of the Sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Behold this rum—&quot;twas a skull  
 Ounce, of th’ etherial spirit full;  
 This narrow space was life’s retreat,  
@@ -2043,7 +2029,7 @@ To soothe the poor man’s friendless bed,
 I grandeur’s guilty tribe they spurned,  
 And home to virtue’s roof returned;  
 These feet whieh angels’ wings shall vie,  
-And tread the paiaee of the sky. 
+And tread the paiaee of the sky. g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868740:1833021401:0868/pct:9.233218,10.539802,19.395065,23.966519/!600,600/0/default.jpg"/>
 </td>
@@ -2057,8 +2043,6 @@ And tread the paiaee of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 BehoU this Ruin \ &#x27;twas a skull,  
   
 On* of ethereal spirit full,  
@@ -2133,7 +2117,7 @@ Tliese feel with sngel wings shall fly.
   
 And tread the palace of the sky.  
   
-[From th
+[From the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_boston-pearl-and-galaxy_1833-03-02_16_9%2Fsim_boston-pearl-and-galaxy_1833-03-02_16_9_jp2.zip%2Fsim_boston-pearl-and-galaxy_1833-03-02_16_9_jp2%2Fsim_boston-pearl-and-galaxy_1833-03-02_16_9_0000.jp2/pct:4.968679,33.832133,12.044419,22.671017/,600/0/default.jpg"/>
 </td>
@@ -2147,7 +2131,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s — —  
+— —  
   
 A FRAGMENT.  
 FOUND IN A SKELETON CASB,  
@@ -2197,6 +2181,7 @@ And home to Virtae’s lap returned,
 These feet with angel wings shall vie,  
 Aud tread the palace of the sk ‘4  
 nglish paper.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1833-03-13_3_11%2Fsim_presbyterian_the-presbyterian_1833-03-13_3_11_jp2.zip%2Fsim_presbyterian_the-presbyterian_1833-03-13_3_11_jp2%2Fsim_presbyterian_the-presbyterian_1833-03-13_3_11_0001.jp2/pct:25.933062,37.089690,11.924641,20.093620/,600/0/default.jpg"/>
@@ -2221,7 +2206,6 @@ nglish paper.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 FOUND IN A SKELETON CASE IN ENGLAND.  
 Behold this ruin—’t was a skull  
 Once of th’ ethereal spirit full;  
@@ -2263,7 +2247,7 @@ If grandeur’s guilty tribe they spurned,
 And home to virtue’s roof returned ;  
 These feet with angels’ wings shall vie,  
 And tread the palace of the sky.  
-[From th
+[From the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_selene_ver01:data:sn84031524:print:1833033001:0468/pct:4.277258,45.831682,15.371396,28.458185/!600,600/0/default.jpg"/>
 </td>
@@ -2287,7 +2271,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Behold this runinJ—’Twas a sku!]  
 Once of ether€al spirit full! .  
 . ]  
@@ -2351,7 +2334,8 @@ To soothe.affliction’#humble bed ;
 If grandeur’s guilty bribe they spurned  
 And home to virtue’s lap returned—  
 These feet with*angel’s wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_jesuit-or-catholic-sentinel_1833-08-31_4_35%2Fsim_jesuit-or-catholic-sentinel_1833-08-31_4_35_jp2.zip%2Fsim_jesuit-or-catholic-sentinel_1833-08-31_4_35_jp2%2Fsim_jesuit-or-catholic-sentinel_1833-08-31_4_35_0003.jp2/pct:42.604582,56.234059,23.331673,36.189047/,600/0/default.jpg"/>
 </td>
@@ -2377,7 +2361,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-towid in the Skeleton Case at  
+owid in the Skeleton Case at  
 the Royal Acade-my, supposed to have  
 been written by Qneeftfye JStudents, and  
 deposited there. Behold the ruin 1-&#x27;twas  
@@ -2416,7 +2400,7 @@ of joy they fled, To soothe affliction&#x27;s
 humble bedIf grandeurs guilty tribe they  
 spurn&#x27;d, And home to virtue&#x27;s lap return  
 dThese feet with angel&#x27;s wings shall  
-vie, yVnd tread the palace of the sky
+vie, yVnd tread the palace of the sky.
 </td></tr></table>
 
 ---
@@ -2427,27 +2411,6 @@ vie, yVnd tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ny such there be;  
-Then for thyself in meekness,  
-A blessing humbly claim.  
-And link with each petition  
-1 he groat Redeemer&#x27;s name,  
-Orif &#x27;tis e&#x27;er denied thee  
-In solitude lo pray.,  
-Should holy thoughts come o&#x27;er thee,  
-When friends aie round thy way,  
-E&#x27;en then the silent breathing  
-Of the spirit raised above,  
-Will reach his throne of glory,  
-Who is Mercy, Truth and Love.  
-Chi not o joy or blessing;  
-With this can we comoure,  
-The power that he hath given U  
-To pour our souls in prayer.  
-Whene&#x27;er thou pin&#x27;st in sadness,  
-Before his footstool f ill,  
-And remember in thy gladness,  
-His grace who gave thee all.  
 From the N. Y. Statesman, of 1821  
 The following beautiful stanzas were  
 liandcd to us by a Iriend n lew da) s since  
@@ -2501,9 +2464,9 @@ To soothe afflii&#x27;lioilV hamble. bed.
 I1 grandeur&#x27;s guilty bribe they spurnM,  
 And horn i to virtue1 lap return 4,  
 Tlicse feet With angel&#x27;s wings shall vie,  
-And tread the palace ol the sky
+And tread the palace ol the skyl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836022601:0111/pct:8.450704,14.680691,14.458627,50.879038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836022601:0111/pct:8.670775,29.361382,14.238556,36.198347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2515,7 +2478,6 @@ And tread the palace ol the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ON A SKULL.  
 Behold tliis ruin! Twa a kkutt, &#x27;  
 Once of ethereal spirit full&#x27;.; )  
@@ -2558,7 +2520,7 @@ To soothe affliction&#x27;s humble bed,
 If grandeurs guilty bribe they spurned, &#x27;  
 And home io virtue&#x27;s hp relumed. . i  
 These? ftiipt with u-ugel&#x27;d w jngs thai! vie, !  
-And tfead the palace of thie iky !
+And tfead the palace of thie iky ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FRepSalem3n_ver01%2Fdata%2F1836040201%2F0126.jp2/pct:14.211172,12.121531,15.055249,23.317914/!600,600/0/default.jpg"/>
 </td>
@@ -2572,8 +2534,6 @@ And tfead the palace of thie iky !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Behold thia nun! ’Iwm a ikull.  
   
 Once of ethenal aptni full.  
@@ -2644,7 +2604,8 @@ Arwl home to virtue’s lap returned.—
   
 Thi-se leet with angels’ wings Hhull vie.  
   
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_episcopal-recorder_1836-04-23_14_4%2Fsim_episcopal-recorder_1836-04-23_14_4_jp2.zip%2Fsim_episcopal-recorder_1836-04-23_14_4_jp2%2Fsim_episcopal-recorder_1836-04-23_14_4_0003.jp2/pct:9.221557,12.023133,13.458084,22.696834/,600/0/default.jpg"/>
 </td>
@@ -2658,8 +2619,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Ww.  
   
 LINES,  
@@ -2731,7 +2690,8 @@ To sooth affliction’s humble bed,—
 If grandeur’s guilty bribe they spurn’d,  
 And home to virtue’s lap return’d,—  
 Those feet with angels’ wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friend-a-religious-and-literary-journal_1836-05-28_9_34%2Fsim_friend-a-religious-and-literary-journal_1836-05-28_9_34_jp2.zip%2Fsim_friend-a-religious-and-literary-journal_1836-05-28_9_34_jp2%2Fsim_friend-a-religious-and-literary-journal_1836-05-28_9_34_0004.jp2/pct:36.818182,15.569244,25.347594,46.410365/,600/0/default.jpg"/>
 </td>
@@ -2755,8 +2715,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 OETR  
   
 LINES  
@@ -2787,6 +2745,7 @@ If with no lawless fire it gleam’d,
 But through the dew of kindness beam‘d,—  
 The eye shall be forever bright,  
 When stars and suns have lost their light.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25%2Fsim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25_jp2.zip%2Fsim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25_jp2%2Fsim_congregationalist-and-herald-of-gospel-liberty_1836-06-17_21_25_0003.jp2/pct:7.443258,6.525242,12.900534,10.700859/,600/0/default.jpg"/>
@@ -2811,8 +2770,6 @@ When stars and suns have lost their light.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Foundn tfic skeleton case, at th: royal Acad-  
 emy, L r.d n.  
 Sutised tt have ken wrtten by cite of the  
@@ -2858,7 +2815,7 @@ To sooth aftVion&#x27;s humble bed,
 &quot; If grandeur&#x27;s guilt bribe they spurn d  
 Aid come to VRtm&#x27;s lap returned.  
 These tret w jth angels, w ings shkll vie,  
-Anr! &quot;e;d the nalnce of tl.c kv
+Anr! &quot;e;d the nalnce of tl.c kv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat12n_ver01%2Fdata%2F1836072701%2F0164.jp2/pct:5.175224,7.602339,18.948655,27.153110/!600,600/0/default.jpg"/>
 </td>
@@ -2872,8 +2829,6 @@ Anr! &quot;e;d the nalnce of tl.c kv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Behold this ruin! ’Twasaskull, =  
 Once of ethereal spirit full)  
   
@@ -2930,7 +2885,7 @@ homesto virtue’s lap returned,
 _....These feet with angels’ wings shall vie, —  
 , And tread the palace of the sky!  
   
-|
+| 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1837-07-08_7_27%2Fsim_presbyterian_the-presbyterian_1837-07-08_7_27_jp2.zip%2Fsim_presbyterian_the-presbyterian_1837-07-08_7_27_jp2%2Fsim_presbyterian_the-presbyterian_1837-07-08_7_27_0003.jp2/pct:7.082931,27.596591,12.799762,19.687500/,600/0/default.jpg"/>
 </td>
@@ -2944,7 +2899,6 @@ _....These feet with angels’ wings shall vie, —
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Uehold this ruin J &#x27;Twas a skull,  
 Once of etherial spirit full! O  
 This narrow cell! was life&#x27;s retreat r  
@@ -2953,6 +2907,7 @@ Yh&#x27;at beautious pictures, filled this spot ! j
 &quot;What dreams ofi pleasure, long forgot  
 Nor love, nor joyV nor hope, nor fear,  
 Has left one trace or record here.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal4n_ver01%2Fdata%2F1837091301%2F0124.jp2/pct:6.735827,33.623188,14.436002,5.636071/!600,600/0/default.jpg"/>
@@ -2967,7 +2922,7 @@ Has left one trace or record here.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and was present io  
+and was present io  
   
 several successful engagements, with t rench  
   
@@ -3012,6 +2967,7 @@ If grandeur&#x27;s guilty bribe they spurned, I
 And home to virtue&#x27;s lap returned,  
 These feet with angels&#x27; wings shall vie,  
 And tread the palace of the sky !  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal4n_ver01%2Fdata%2F1837091301%2F0124.jp2/pct:5.566920,38.658078,51.943308,24.079442/!600,600/0/default.jpg"/>
@@ -3036,7 +2992,7 @@ And tread the palace of the sky !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ne of the students.  
+e of the students.  
 Behold this ruin! &#x27;t was a skull,  
 One ofretherial spirit full;  
 This narrow cell was life&#x27;s retreat;  
@@ -3076,7 +3032,7 @@ To soothe aillliction&#x27;s b umlnhe hed;
 If&#x27; grandeur&#x27;s &amp;&#x27;uilty bribe tiey spurn&#x27;d,  
 And home to virtue&#x27;s aIp return&#x27;d:  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sk
+And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288348:1838102501:0228/pct:3.280580,16.236532,15.001649,30.355801/!600,600/0/default.jpg"/>
 </td>
@@ -3090,7 +3046,7 @@ And tread the palace of the sk
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- case at  
+case at  
 thr royal academy.  
 Behold this ruin, &#x27;twas a skull  
 Once of ethereal spirit full;  
@@ -3123,7 +3079,7 @@ To sooth affliction&#x27;s humble b : d ;
 ]f grandeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s lip returned ;  
 ?| hese feet wit!* aiuvls&#x27; wins* shall vie,  
-And tread the palace of ibe sk
+And tread the palace of ibe skv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839021601:0340/pct:4.332130,4.749798,16.918280,16.699411/!600,600/0/default.jpg"/>
 </td>
@@ -3137,7 +3093,7 @@ And tread the palace of ibe sk
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- n skull;  
+n skull;  
 This narrow cell was life&#x27;s retreat.  
 This space was thought&#x27;s&quot; mysterious seat. ;  
 What beauteous pictures filled this spot! w-What  
@@ -3167,7 +3123,7 @@ was short tho declining sun giving us an ad­
 monition that it was time to be wending our  
 way back to Wilkesbarre for the night. In re  
 passing (now in recollection) the quiet residence  
-of good old Fathe
+of good old Father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840100201:0119/pct:40.471513,27.222029,17.796333,17.648426/!600,600/0/default.jpg"/>
 </td>
@@ -3183,7 +3139,7 @@ of good old Fathe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and deposited there by  
+and deposited there by  
 him. Behold this ruin ! &#x27;twa* a skull  
 Onco of otherenl spirit full; This  
 narrow cell was life&#x27;s retreat, This  
@@ -3223,7 +3179,7 @@ humble bed,? ?If graiideu.&#x27;a guilty
 bribo they spurned And home to virtue&#x27;s  
 lap return M These feel with eagle&#x27;s  
 wings shall vie, And trend the palace of  
-the sky.
+the sky. 
 </td></tr></table>
 
 ---
@@ -3234,7 +3190,7 @@ the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.ndpn. ,  
+ndpn. ,  
 Heboid the ruin ! &#x27;twas a skull  
 Orice of etberial sVrtt f&#x27;Ul,&quot;&quot;  
 This narrow cell writ? life&#x27;sttret; f  
@@ -3278,7 +3234,7 @@ If grandeur&#x27;s guilty bribe they spurnTd,
 And home, to virtue&#x27;s lap reftirn&#x27;d ;  
 These feet with Angel&#x27;s wings shall vie,  
 And tread the palace of the sky !  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1843051001:0617/pct:76.650452,17.356688,16.521890,31.148947/!600,600/0/default.jpg"/>
 </td>
@@ -3292,7 +3248,6 @@ And tread the palace of the sky !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 CASE. I  
   
 Behold this ruin! ’Twas a skull i  
@@ -3370,7 +3325,7 @@ And h-inie to virtue’s lap return’d ;
   
 That soul with angels then shall vie, ^  
   
-And tread the palai&#x27;e of the sk
+And tread the palai&#x27;e of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44%2Fsim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44_jp2.zip%2Fsim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44_jp2%2Fsim_evangelical-magazine-and-gospel-advocate_1843-11-03_14_44_0007.jp2/pct:17.558711,11.618082,23.457127,38.952260/,600/0/default.jpg"/>
 </td>
@@ -3384,8 +3339,6 @@ And tread the palai&#x27;e of the sk
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Behold this ruin &#x27;twas a skull  
 Once ol etherial spirit full:  
 This narrow cell was life&#x27;s retreat—  
@@ -3429,7 +3382,8 @@ To soothe affliction&#x27;s humble bed—
 If grandeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s lap returned  
 These feet with Angel&#x27;s wings shall vie,  
-And trend the palace of the sky.
+And trend the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1844012601:0362/pct:17.738187,18.464776,13.059644,27.481170/!600,600/0/default.jpg"/>
 </td>
@@ -3453,7 +3407,7 @@ And trend the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y purport to have been found in a case containing a human skele-  
+purport to have been found in a case containing a human skele-  
   
 ton:  
   
@@ -3520,7 +3474,7 @@ And home to Virtue’s lap return’d ;
 These fect with angel’s wings shall vie;  
 And tread the palace of the sky!  
   
-Ir was 
+Ir was o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_foederal-american-monthly_1846-02_27_2%2Fsim_foederal-american-monthly_1846-02_27_2_jp2.zip%2Fsim_foederal-american-monthly_1846-02_27_2_jp2%2Fsim_foederal-american-monthly_1846-02_27_2_0087.jp2/pct:23.119777,36.589546,64.658774,45.951157/,600/0/default.jpg"/>
 </td>
@@ -3534,7 +3488,6 @@ Ir was
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 purport to have been found in a case containing  
 a human skeleton:  
 Behold this rain ! &quot;twas &amp; skull  
@@ -3582,7 +3535,7 @@ And tread the palace of the sky !
 Miscellanp.  
   
 THE MAN IN THE TRON MASK.  
-In the year 1667, during the reign of
+In the year 1667, during the reign of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1846030401:0667/pct:5.731328,9.142212,12.370332,22.850400/!600,600/0/default.jpg"/>
 </td>
@@ -3596,7 +3549,6 @@ In the year 1667, during the reign of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s  
 THE SKELETON.  
 Behold this ruin ! ’t was a skull  
 Once of ethereal spirit full !  
@@ -3639,7 +3591,7 @@ And home to Virtue’s lap return’d;
 These feet with angel’s wings shall vie,  
 And tread the palace of the sky !  
   
-ErFects o
+ErFects oF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_carrigain_ver01:data:sn84022903:00517015404:1846040201:0264/pct:82.989905,40.408248,10.261375,18.683608/!600,600/0/default.jpg"/>
 </td>
@@ -3653,7 +3605,6 @@ ErFects o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 This space was Thow  
 What beauteous pictures, long forgot  
 Nor love, nor joy, nor hope, nor fear, -  
@@ -3684,7 +3635,8 @@ It Falsehood’s honey it disdamed,
   
 was chained ;  
   
-Ani! when it could not praise,
+Ani! when it could not praise,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27%2Fsim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27_jp2.zip%2Fsim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27_jp2%2Fsim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27_0003.jp2/pct:10.612624,12.692493,11.339728,8.722329/600,/0/default.jpg"/>
 </td>
@@ -3698,8 +3650,6 @@ Ani! when it could not praise,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Vet geatie concord never broke,  
   
 That tuneful tongue shall plead for thee  
@@ -3743,7 +3693,7 @@ Love at First Sight.
 \ TALE OF THE SIOUX INDIANS.  
   
 BY PIERCY #. @T. JOHN.  
-Tn the tre of one of t
+Tn the tre of one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27%2Fsim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27_jp2.zip%2Fsim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27_jp2%2Fsim_massachusetts-ploughman-new-england-journal-agriculture_1846-04-04_5_27_0003.jp2/pct:10.566213,22.100577,10.426980,15.230991/,600/0/default.jpg"/>
 </td>
@@ -3757,8 +3707,6 @@ Tn the tre of one of t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THE SKELETON.  
 -Behold this ruin ! &#x27;twas a skull,  
 Once of ethereal spirit full!  
@@ -3800,7 +3748,7 @@ And home to Virtue’s lap returned ;
 These feel with angels’ wings ahall vie.  
 And tread the pnlaoe of the sky!  
   
-&#x27;•
+&#x27;• 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846052201:0275/pct:52.208084,45.495042,11.751497,25.678977/!600,600/0/default.jpg"/>
 </td>
@@ -3814,7 +3762,7 @@ And tread the pnlaoe of the sky!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 30 tf  
+30 tf  
   
 LINES ON A SKELETON.  
   
@@ -3857,7 +3805,8 @@ To soothe affliction&#x27;s humble bed,
 If grandeur&#x27;s guilty biibethey spurn&#x27;d,  
 And home to virtue&#x27;s lap returned,  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the aky.
+And tread the palace of the aky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847111301:0402/pct:18.010326,10.229056,16.699762,54.361468/!600,600/0/default.jpg"/>
 </td>
@@ -3881,8 +3830,6 @@ And tread the palace of the aky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Has left one trace on record here.  
   
 Beneath this mouldering canopy,  
@@ -3937,6 +3884,7 @@ If grandeur’s guilty bribe they spurned ;
 And home to Virtue’s lap returne |,  
 These feet with Angel&#x27;s wings shal! vie,  
 And tread the Palace of the sky.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-intelligencer_1849-02-03_5_45%2Fsim_friends-intelligencer_1849-02-03_5_45_jp2.zip%2Fsim_friends-intelligencer_1849-02-03_5_45_jp2%2Fsim_friends-intelligencer_1849-02-03_5_45_0006.jp2/pct:62.009298,49.926145,20.738636,35.432053/,600/0/default.jpg"/>
@@ -3961,7 +3909,6 @@ And tread the Palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 UNE3 ON A SKELETONS  
   
 Behold this riin t-Twaa n akmU r J TT;  
@@ -4003,7 +3950,7 @@ To soothe affliction&#x27;s humble bed ;
 If grandeur&#x27;s guilty bribe they epurn&#x27;d,  
 And heme, to virtue&#x27;s lap returned,  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalReg9n_ver01%2Fdata%2F1849042801%2F0134.jp2/pct:64.551248,5.459528,14.206054,21.859191/!600,600/0/default.jpg"/>
 </td>
@@ -4017,7 +3964,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 LINKS ON A SKKLEl&#x27;ON.  
 ; Behold this ruin!—*Twas a skull  
 &#x27; Once of the ethereal spirit full!  
@@ -4060,6 +4006,7 @@ i To soothe affliction’;* humble bed.
 ! And home to virtue’s lap returned.  
 I These feet with angel’s wines shall vie,  
 j And tread the palace of the sky.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849050301:0247/pct:84.164110,13.247922,12.327454,19.162050/!600,600/0/default.jpg"/>
@@ -4074,7 +4021,7 @@ j And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rd lSere. . &#x27;  
+d lSere. . &#x27;  
 -&quot; Beneath this nioTiIdering canqiy, . t­  
 &#x27; Once shone the bright and billy eye &#x27;  
 But start not at the dismal vo&#x27;d,  
@@ -4108,7 +4055,7 @@ If grandeur&#x27;s guilty bribe they spurned,
   
 And home to virtues lap returned;  
 These feet with angel&#x27;s wings shall fly  
-. And reach the palace of the sky.
+. And reach the palace of the sky. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851112001:0110/pct:15.869196,29.710671,12.046999,18.458986/!600,600/0/default.jpg"/>
 </td>
@@ -4122,7 +4069,6 @@ These feet with angel&#x27;s wings shall fly
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Behold this ruin ! ’twns a skull  
 Once of ethereal spirit full:  
 This narrow cell was life’s retreat;  
@@ -4168,7 +4114,7 @@ They sought the straight and narrow road,
 These feet with angels wings shall vie,  
 And tread the palace of the sky.  
   
-Li
+Lio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051540:00516996894:1852011701:0009/pct:55.770235,52.242888,12.149695,22.565646/!600,600/0/default.jpg"/>
 </td>
@@ -4182,7 +4128,6 @@ Li
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Behold this ruin ! ’twas a skull  
 Once of ethereal spirit full:  
 This narrow cell was life’s retreat;  
@@ -4224,7 +4169,7 @@ These feet the path of life had trod ;
 If from the bower of joy they fled  
 To soothe affliction’s humble bed :  
 If spurning all the world bestowed,  
-They sough
+They sought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051540:00516996894:1852042401:0060/pct:7.509320,11.888395,12.249246,19.854428/!600,600/0/default.jpg"/>
 </td>
@@ -4238,7 +4183,6 @@ They sough
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Behold this Ruin ! ’twaj a skull  
 Once el ethsrial spirit full—  
 This narrow cell was lile’s retreat,  
@@ -4280,7 +4224,7 @@ They sought the straight and narrow road,
 These feet with angel wings shall vie,  
 And tread the palace ot the sky.  
   
-Orland
+Orlando
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1852042901:0601/pct:49.132948,55.496381,15.327885,27.775502/!600,600/0/default.jpg"/>
 </td>
@@ -4294,8 +4238,6 @@ Orland
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ‘ Beneath this mouldering canopy  
   
 Once shone the bright and busy eye.  
@@ -4310,6 +4252,7 @@ But through the dew of kindness beam’d,
 That eye shall be forever bright  
   
 When suns and stars have lost their light.’  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-journal-of-medicine_1852-12-29_47_22%2Fsim_new-england-journal-of-medicine_1852-12-29_47_22_jp2.zip%2Fsim_new-england-journal-of-medicine_1852-12-29_47_22_jp2%2Fsim_new-england-journal-of-medicine_1852-12-29_47_22_0007.jp2/pct:46.528926,64.536082,28.925620,8.015464/600,/0/default.jpg"/>
@@ -4324,8 +4267,6 @@ When suns and stars have lost their light.’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 these ghastly recesses when he says :—  
   
 “Beneath this moldering canopy  
@@ -4341,7 +4282,8 @@ If with no lawless fire it gleam’d,
 But through the dew of kindness beam’d,  
 That eye shall be forever bright  
   
-When suns and stars have lost their light.”
+When suns and stars have lost their light.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4%2Fsim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4_jp2.zip%2Fsim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4_jp2%2Fsim_national-magazine-devoted-to-literature-art-and-religion_1853-04_2_4_0064.jp2/pct:46.701954,26.552632,31.066775,10.105263/600,/0/default.jpg"/>
 </td>
@@ -4355,7 +4297,7 @@ When suns and stars have lost their light.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- them ;  
+them ;  
 Here, in this silent cavern, hung But if the page of truth they sought,  
 The ready, swift and tuneful tongue ; And comfort to the mourner brought ;  
 If faisehood’s honey it disdained, These hands a richer meed shall claim,  
@@ -4369,7 +4311,8 @@ To soothe (?) affliction’s humble bed,
 Beneath this mould&#x27;ring canopy If grandeur&#x27;s guilty bribe they spurned,  
 Once shone the bright and busy eye; And home to virtue’s lap returned ;  
 Yet start not at the dismal void! These feet with angel&#x27;s wings shall vie,  
-If social love that eye employed ; And tread the palace of the sky!
+If social love that eye employed ; And tread the palace of the sky!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_medical-and-surgical-reporter_1856-12_9_12%2Fsim_medical-and-surgical-reporter_1856-12_9_12_jp2.zip%2Fsim_medical-and-surgical-reporter_1856-12_9_12_jp2%2Fsim_medical-and-surgical-reporter_1856-12_9_12_0037.jp2/pct:25.486381,35.131894,62.840467,12.679856/600,/0/default.jpg"/>
 </td>
@@ -4383,7 +4326,7 @@ If social love that eye employed ; And tread the palace of the sky!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-LINES TO A SKELETON.  
+INES TO A SKELETON.  
 Behold this ruin; ’twas a skull,  
 Once of ethereal spirit full.  
 This narrow cell was Life’s retreat;  
@@ -4425,7 +4368,7 @@ And home to Virtue’s oot returned,
 These feet with Angel’s wings shall vie,  
 And tread the palace of the sky.  
 &quot;These lines were found in a case which contained a skole­  
-ton in th
+ton in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:0021167829A:1858090101:0371/pct:82.647871,10.159752,12.934167,20.675784/!600,600/0/default.jpg"/>
 </td>
@@ -4439,7 +4382,6 @@ ton in th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ast on Sunday night, but  
 Than all that waits on Wealth or Fame.  
 If from the bowers of ease they fied  
 hese feet the paths of Duty trod  
@@ -4449,9 +4391,9 @@ NioE OcEsioN of HAIEROAn LAw.-Mr. Chas.
 Then or with s a ot returei  
 And tread the palace of the sky.  
 These lines were found in a case which contained a skeleton  
-ShIP TEMPES
+ShIP TEMPESt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:0021247521A:1858090901:0356/pct:68.504098,20.968244,12.704918,13.574097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:0021247521A:1858090901:0356/pct:68.524590,20.968244,12.684426,13.574097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4463,7 +4405,6 @@ ShIP TEMPES
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Behold the ruin I &#x27;tis a skull  
 Once of etherlal spirit full?  
 That narrow cell vu life&#x27;? retreat,  
@@ -4499,7 +4440,7 @@ Thau all that waits on wealth or fame.
 Avails it whether bare or shod  
 These feet the path of duty trod ?  
 if grandeur&#x27;s guilty bribe they spurned,  
-And home t
+And home to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190625:1858110101:0417/pct:4.021289,5.581173,12.773507,13.913182/!600,600/0/default.jpg"/>
 </td>
@@ -4513,7 +4454,6 @@ And home t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Here, in this osseas,un  
 Perhaps, the ready tuneful tongue!  
 If falsehood&#x27;s honey it disdained,  
@@ -4546,7 +4486,7 @@ To soothe affliction&#x27;s humble bed;
 If grandeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s lap returned;  
 These feet with angels&#x27; wings shall vie,  
-And tread the palace of the sky
+And tread the palace of the sky!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1858120301:0470/pct:1.687678,49.703403,12.444083,15.797690/!600,600/0/default.jpg"/>
 </td>
@@ -4560,7 +4500,7 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- which contained a skeleton in the  
+which contained a skeleton in the  
 Royal Academy, London.  
 Behold this ruin! &#x27;twas a skull,  
 Once of ethereal spirit full;  
@@ -4602,7 +4542,7 @@ If graudeur&#x27;s guilty bribe was spurn&#x27;d,
 And home to virtue&#x27;s cot return&#x27;d,  
 These feet with Angel&#x27;s wings shall vie,  
 And tread the palace of the sky.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1858120801:0813/pct:63.906282,19.399971,13.310442,26.063753/!600,600/0/default.jpg"/>
 </td>
@@ -4646,7 +4586,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s Thought&#x27;s mysterious seat.  
+Thought&#x27;s mysterious seat.  
 What beauteous visions filled this spot,  
 . What dreams of pleasure, long forgot  
 Nor Hope, nor Love, nor Joy, nor Fear,  
@@ -4680,7 +4620,7 @@ These feet the paths of Duty trod f
 If from the bowers of Ease they fled,  
 To seek Affliction&#x27;s humble shed;  
 If Grandeur&#x27;s guilty bribe they spurned,  
-And
+And 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1860110801:0537/pct:31.744312,18.930426,11.118635,18.878505/!600,600/0/default.jpg"/>
 </td>
@@ -4694,7 +4634,7 @@ And
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ad-  
+ad-  
   
 Behold this ruin! ”’Twas a skull  
   
@@ -4758,7 +4698,8 @@ To soothe affliction’s humble bed—
 If grandeur’s guilty bribe they spurned,  
 And home to virtue’s lap returned,  
 These feet with angel’s wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1863-04-02_12_14%2Fper_the-pacific_the-pacific_1863-04-02_12_14_jp2.zip%2Fper_the-pacific_the-pacific_1863-04-02_12_14_jp2%2Fper_the-pacific_the-pacific_1863-04-02_12_14_0000.jp2/pct:9.247478,29.577104,10.899042,18.625845/,600/0/default.jpg"/>
 </td>
@@ -4772,7 +4713,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-all be forever bright  
+ll be forever bright  
   
 When stars and suns are sunk in night.  
   
@@ -4813,7 +4754,8 @@ To seek Affliction’s humble shed ;
 If grandeur’s guilty bribe they spurned,  
 And home to Virtue’s cot returned,  
 These feet with angels’ wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-review-a-religious-journal_1864-02-27_17_26%2Fsim_friends-review-a-religious-journal_1864-02-27_17_26_jp2.zip%2Fsim_friends-review-a-religious-journal_1864-02-27_17_26_jp2%2Fsim_friends-review-a-religious-journal_1864-02-27_17_26_0013.jp2/pct:19.259819,61.715686,30.853474,27.647059/,600/0/default.jpg"/>
 </td>
@@ -4827,7 +4769,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-uld not praise was chained;  
+ld not praise was chained;  
 If bold in virtue&#x27;s cause it spoke,  
 Yet gentle concord never broke.  
 This silent tongue shall plead for theo  
@@ -4847,7 +4789,7 @@ To sock Aflliotion&#x27;s humble shed 7
 If Grandeur&#x27;s guilty bribe they spurn d.  
 And home to Virtue&#x27;s cot return&#x27;d, .  
 These feet with angel&#x27;s wings shall vie.  
-And tread the palace ot the sk
+And tread the palace ot the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866112301:0904/pct:5.426678,25.092725,11.619718,8.316690/!600,600/0/default.jpg"/>
 </td>
@@ -4861,8 +4803,6 @@ And tread the palace ot the sk
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
   
 LINES ON A SKELETON.  
   
@@ -4927,7 +4867,7 @@ And tread the palace of the sky.
   
 The Battle Of shiloH  
   
-
+i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774923:1866122001:0197/pct:36.730492,14.258966,13.897468,38.816074/!600,600/0/default.jpg"/>
 </td>
@@ -4941,8 +4881,6 @@ The Battle Of shiloH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 LINES ON A SKELBTON.  
   
 Fifty years ago the London Morning Chronich  
@@ -5001,7 +4939,7 @@ Youth&#x27;s Department.
   
 Enigma.  
   
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283648:1867013101:0024/pct:31.027073,16.000683,12.140095,29.047131/!600,600/0/default.jpg"/>
 </td>
@@ -5015,8 +4953,6 @@ Enigma.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 a Lines to a SICLETON.  
   
 Fifty years ago the London Morning Chron­  
@@ -5073,7 +5009,7 @@ And home to Virtue&#x27;s-cot roturn&#x27;d.
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky.  
   
-TH
+THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1867031501:0878/pct:25.713260,14.133017,10.963574,30.626485/!600,600/0/default.jpg"/>
 </td>
@@ -5087,7 +5023,6 @@ TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 port to liaTe boon found iu a fane containing  
 a human skeleton:  
 lie hold this ruin! rt was a skull  
@@ -5129,7 +5064,7 @@ To soothe Affliction&#x27;s humble bed;
 If Grandeur’s guilty bribe they spurned,  
 And hpme to Virtue&#x27;s Up return’d; v ^  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky! 
+And tread the palace of the sky! t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151167:1867042601:0833/pct:2.571622,47.097902,11.279044,24.353147/!600,600/0/default.jpg"/>
 </td>
@@ -5143,7 +5078,7 @@ And tread the palace of the sky!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-a would  
+would  
   
 LINRH TO A MKBLKTON.  
 Fifty yean ago tlie London Morning Chronidt  
@@ -5197,7 +5132,8 @@ To Reek afflictions bumble shed;
 If grandeur&#x27;s guilty bribe they spurned,  
 Aud home to virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vie.  
-And tread the palace ot the sky.
+And tread the palace ot the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665052:1867120701:0547/pct:23.805970,10.238589,14.194030,85.829876/!600,600/0/default.jpg"/>
 </td>
@@ -5211,9 +5147,7 @@ And tread the palace ot the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-RI  
-  
-Fttsbu* &amp;Ott  
+&amp;Ott  
   
 LINEM TO A&#x27;PiEnLitt(!N  
   
@@ -5276,7 +5210,7 @@ These feet with angel&#x27;s wings shall vie.
 And - tread the palace of the sky.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver01%2Fdata%2Fsn84026384%2F000002016%2F1868041501%2F0548.jp2/pct:16.388595,7.810789,12.261653,23.545318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver01%2Fdata%2Fsn84026384%2F000002016%2F1868041501%2F0548.jp2/pct:16.388595,9.282585,12.261653,22.073521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5288,7 +5222,7 @@ And - tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* &amp;Ott  
+&amp;Ott  
   
 LINEM TO A&#x27;PiEnLitt(!N  
   
@@ -5348,7 +5282,8 @@ To seek affliction&#x27;s bumble shed:
 If gritadeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s cot returned.  
 These feet with angel&#x27;s wings shall vie.  
-And - tread the palace of the sky.
+And - tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver02%2Fdata%2Fsn84026384%2F000002016%2F1868041501%2F0548.jp2/pct:16.388595,9.282585,12.261653,22.073521/!600,600/0/default.jpg"/>
 </td>
@@ -5362,8 +5297,6 @@ And - tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
-  
 II.VES TO .1 SKELETON&#x27;.  
 Fifty years ago the London &quot;Morning  
 Chronicle&quot; published a poenjentitled &#x27;&#x27;Lines  
@@ -5383,7 +5316,8 @@ Ouce of etherial spirit full ;
 This narrow cpM was life&#x27;s retreiit,  
 Thi space was thought&#x27;s nivsterious seat;  
 What beauteous vision filled this spot!  
-WJiat dreams of pleasure louz forzot !
+WJiat dreams of pleasure louz forzot !  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1868050201:0052/pct:27.334881,12.331595,10.668215,9.702303/!600,600/0/default.jpg"/>
 </td>
@@ -5397,8 +5331,7 @@ WJiat dreams of pleasure louz forzot !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
- ve o EEon  
+ve o EEon  
 Viry years ago the London Morning CAronlele pub  
 lished a poem entitled &quot;Lines to a Skelcton,&quot; which ex  
 cited much attention. Every effort, even to the offer  
@@ -5451,7 +5384,7 @@ And home to virtues cot returned,
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky.  
 MISCELEANROUS.  
-The MoreI
+The MoreI 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627592:1868050201:0485/pct:59.461967,13.350340,11.317254,20.287153/!600,600/0/default.jpg"/>
 </td>
@@ -5465,7 +5398,6 @@ The MoreI
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Line to a Skeleton.  
 . Fifty years ago the London Morning  
 Chronicle published a poem entitled &#x27;&#x27;Lines  
@@ -5528,7 +5460,7 @@ If grandehr&#x27;s mtiltj- bribe they spurned,
 And home, to, virtue&#x27;s dot returned, I  
 These feet with angel&#x27;s winj-s shall vie. 1  
 And tread the. palace of the sky.  
-
+V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen17n_ver01%2Fdata%2F1868050801%2F0069.jp2/pct:4.138796,30.022737,19.774247,36.223646/!600,600/0/default.jpg"/>
 </td>
@@ -5542,8 +5474,6 @@ And tread the. palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 `.ILINES TO A(1-3k&quot;ELETON  
   
 . .  
@@ -5604,7 +5534,8 @@ And Inmate virtue&#x27;s cot returned,
 Those feet with angel&#x27;s wings shall vie,  
 And tread the palace of tho.skY.  
   
-MISCELLANEOUS.
+MISCELLANEOUS.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001843%2F1868050801%2F0072.jp2/pct:50.570167,15.375131,10.538900,23.759528/!600,600/0/default.jpg"/>
 </td>
@@ -5618,7 +5549,6 @@ MISCELLANEOUS.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 LINES TO A SKELETON.  
 FierY years ago the London Morning Chroniele  
 published a poem entitled &quot;Lines to a Skeleton,&quot;  
@@ -5671,7 +5601,8 @@ If grandeur&#x27;s guilty bribe they spurned,
 And home to virtue&#x27;s cot returned,  
 These fest with angel&#x27;s wings shall vie,  
 And tread the palace of the sky,  
-isrellancous.
+isrellancous.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1868050801:0183/pct:38.909022,14.572193,11.119588,21.761735/!600,600/0/default.jpg"/>
 </td>
@@ -5685,8 +5616,6 @@ isrellancous.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Lines to a Skeleton.  
 (fifty year* ago the London &quot;Morning Chroul  
 ele” published a poem entitled &#x27;‘Lint* to a Skele­  
@@ -5716,7 +5645,7 @@ If with no lawleee lire It gleamed.
 Bat through the dew ot kindness beamed—  
 That eye shall be Joiever bright,  
 When can and stars are tank In night.  
-Within this hollow cavern
+Within this hollow cavern 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1868052201:0712/pct:57.196744,15.745227,12.626563,11.028783/!600,600/0/default.jpg"/>
 </td>
@@ -5730,7 +5659,6 @@ Within this hollow cavern
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 at dreams of pleasure long forgot.  
 &quot;Nor hope, nor joy, nor love, nor fear,  
 Have left one frace of record here.  
@@ -5738,7 +5666,7 @@ eneath this mouldering canon
   e  
 Dot start not at the disral veld  
 employed,  
-i i
+i id
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1868061201:0537/pct:33.970771,20.256917,10.579913,3.524374/!600,600/0/default.jpg"/>
 </td>
@@ -5752,7 +5680,6 @@ i i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ewift and tuneful tongue.  
 If falsehood&#x27;s honey it disdained,  
 And where it could not praise was chained;  
@@ -5772,7 +5699,7 @@ Avails it whether bare or shod
 These feet the depth of duty trod?  
 If from the halls of sase they fied  
 To seck affliction&#x27;s homble shedrned  
-eur&#x27;s guilty bribe they 
+eur&#x27;s guilty bribe they a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1868061201:0537/pct:33.310012,25.104304,12.266791,8.223540/!600,600/0/default.jpg"/>
 </td>
@@ -5786,7 +5713,7 @@ eur&#x27;s guilty bribe they
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- TO A SKRLETON.  
+TO A SKRLETON.  
 The anther of the fol&#x27;owlng I nes is unknown, although a reward |  
 of fifty gnigeas was offrei fir his or her discovery. They were |  
 found on a skeleton in tho Museum of the Royal College of Snr­  
@@ -5834,7 +5761,7 @@ And tread the palace of the sky.
   
 FURSI4N  
 LEGATIONS AN THlE  
-UNITED
+UNITED 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn83026172:00211678458:1868090501:0598/pct:5.075269,5.930956,13.390681,18.087153/!600,600/0/default.jpg"/>
 </td>
@@ -5848,7 +5775,7 @@ UNITED
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y ICS TO A SKKLLTOX.  
+ICS TO A SKKLLTOX.  
 The author of the following lines Is un­  
 known, although a reward of fifty guinea  
 was oll&#x27;ered for bis or her discovery. They  
@@ -5895,7 +5822,7 @@ If grandeur&#x27;s guilty bribe they spurned,
 And home to virtue&#x27;s cut returned,  
 These feet with angel&#x27;s wings shall vlo,  
 And tread the palace of the sky.  
-Author
+Authors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1868091801:0038/pct:78.173147,17.259300,11.683786,22.770788/!600,600/0/default.jpg"/>
 </td>
@@ -5909,7 +5836,7 @@ Author
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- 26.  
+26.  
 Line* to 8 Skeleton.  
 The author of the following lines is unknown  
 although a reward of fifty guineas was offered  
@@ -5957,7 +5884,7 @@ If grandeur&#x27;s guilty bribe they spurned,
 3\nd home to virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky.  
-B
+By
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663638:1868092601:0514/pct:2.736444,5.467163,16.784363,27.589709/!600,600/0/default.jpg"/>
 </td>
@@ -5971,8 +5898,6 @@ B
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Behold this ruin I ’twaa a skull  
 Onoe of eternal spirit full I  
 That narrow cell was life’s retreat I  
@@ -6012,7 +5937,7 @@ To soothe affliction&#x27;s humble bed
 If grandeur’s guilty bribes they spnrn  
 And home to virtue’s lap return’d  
 These feet with angel’s wings shall vie  
-And tread the palace of the sk
+And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1868101001:0174/pct:29.007757,4.614404,10.875889,18.253665/!600,600/0/default.jpg"/>
 </td>
@@ -6026,7 +5951,7 @@ And tread the palace of the sk
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; ! . Lines on a Sknll. T  
+! . Lines on a Sknll. T  
 . The author of the following lines&#x27; Is unknown,&quot;  
 although a reward of. fllty guineas was offered  
 for Ills or her discocry. They were found on a  
@@ -6072,7 +5997,8 @@ Jf from the bulls of ease they fled
 - If gwndeur&#x27;a guilty bribe tney spurned,  
 And home to virtue&#x27;s cot returned,  
 &#x27;. These lect with angel wings shall vie,  
-And tread the palace ol the sky.
+And tread the palace ol the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1868110401:0611/pct:4.911374,5.414263,12.832349,20.595176/!600,600/0/default.jpg"/>
 </td>
@@ -6086,16 +6012,6 @@ And tread the palace ol the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ed. • [vio-u33  
-  
-®ljc IJrcscott Joiu&#x27;iuil.  
-  
-a. jr. j-lav&#x27;t, ) putiMtn.  
-K. 11. W&#x27;KKKtt, 5  
-  
-VOL. XII.  
-  
-z,#.vjes to J subletav.  
 Fifty&#x27;years ago the London Morning Chronicle  
 published the following poem, which excited much  
 attention. Every effort, even to the offering of a  
@@ -6144,9 +6060,9 @@ To seek Affliction&#x27;s humble shed—
 If Grandeur&#x27;s guilty bribe they spumed,  
 And home to Virtue&#x27;s cot returned.  
 These feet with Angel&#x27;s wings shall vie.  
-And tread the palace o
+And tread the palace of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1868121101:0159/pct:8.683026,3.974387,67.562073,92.095385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1868121101:0159/pct:17.148250,13.744756,12.443735,19.894016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6158,7 +6074,7 @@ And tread the palace o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 28:to.  
+28:to.  
   
 Lines to a Skeleton.  
   
@@ -6205,7 +6121,8 @@ To seek affliction’s humble shed;
 If grandeur&#x27;s guilty bribe they spurned.  
 And home to virtue&#x27;s cot returned,  
 These feet with angel’s wings shall vie,  
-And tread the. palace of the sky.
+And tread the. palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025202:00279557396:1869010901:0643/pct:47.225879,17.585057,16.908031,74.329553/!600,600/0/default.jpg"/>
 </td>
@@ -6219,8 +6136,6 @@ And tread the. palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 fFifty years aeo.the London ifornino ChronU  
 nr puonsnea a poem entitled &quot;unea on  
 Skeleton.&quot; which excited much attention,  
@@ -6251,7 +6166,7 @@ rsui start not at me aismai voio ;
 If social love that eve employed;  
 If with no lawless Are it gleamed.  
 But through the dew of kindness beamed.  
-i nat eye snail oe iorever
+i nat eye snail oe iorever 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869032401:0295/pct:25.724871,11.352595,9.761598,9.703401/!600,600/0/default.jpg"/>
 </td>
@@ -6265,7 +6180,6 @@ i nat eye snail oe iorever
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ngen  
 Or with its envied rubies shine?  
 To hew the rock, or wear the (em.  
@@ -6281,7 +6195,8 @@ To seek affliction&#x27;s humble shed.
 If grauduer&#x27;s guilty bribe they spurned.  
 .-luu oumo io virtue s cot reiumea.  
 These feet with angel&#x27;s wings shall vie.  
-And tread the pa luce of the sky.
+And tread the pa luce of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1869032401:0295/pct:26.240335,24.737919,8.972294,5.190488/!600,600/0/default.jpg"/>
 </td>
@@ -6295,7 +6210,7 @@ And tread the pa luce of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- known.  
+known.  
 Behold this ruin ! &#x27;Twas a skull,  
 Once of ethcrial spirit fall;  
 This narrow cell was Lifo&#x27;s retreat,  
@@ -6343,7 +6258,7 @@ To sect hu•nble :hed ;
 It Grandeur&#x27;s guilty bribe they spurned,  
 A d Bowe to Virtue&#x27;s cot returned,  
 (q..t With co gel&#x27;s wings shall vie,  
-An:l tilt• palace of the cloy
+An:l tilt• palace of the cloy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_rooseveltt_ver01%2Fdata%2Fsn83031987%2F000001774%2F1869051901%2F0077.jp2/pct:36.769561,18.611465,13.238693,21.576433/!600,600/0/default.jpg"/>
 </td>
@@ -6357,7 +6272,7 @@ An:l tilt• palace of the cloy
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and poor Yorick,  
+and poor Yorick,  
 the philosophic finder was heard to exclaim  
 with the poet:  
 &quot;Behold this ruin! &#x27;Twas a skull,  
@@ -6384,7 +6299,7 @@ Yet gentle concord never broke!
 This silent tongue shall plead for thee  
 When Time unveils Eternity.&quot;  
 Notwithstanding his poetic flight, the ab­  
-original cranium&#x27;s to be m
+original cranium&#x27;s to be me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879956:1869071201:0039/pct:43.744242,57.748755,11.995578,12.400700/!600,600/0/default.jpg"/>
 </td>
@@ -6398,7 +6313,6 @@ original cranium&#x27;s to be m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Behold this min ! Twas a skull  
 Once of ethereal spirit lull&#x27;  
 This nsrrow cell was life’s retreat  
@@ -6422,7 +6336,7 @@ And when it could not praise was chained
 If bold in virtue’s cause it spoke  
 Yet gentle Concord never broke !  
 This silent tongue slisil plead for thee  
-When Time unveils Eternit
+When Time unveils Eternity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1869080701:0527/pct:30.367505,11.129358,10.315925,10.308236/!600,600/0/default.jpg"/>
 </td>
@@ -6436,7 +6350,7 @@ When Time unveils Eternit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- was four.(l in the Horning Chroniclf.  
+was four.(l in the Horning Chroniclf.  
 Every effort was vainly made to discover  
 the author, and even to the offering of a re.  
 ward of fifty guineas. All that ever tran­  
@@ -6487,7 +6401,7 @@ It Grandeur’s guilty bribe they spurned,
 And home to Virtues cot returned,  
 These feet with angel’s wings shall vie,  
 And tread the palace of the sky.  
-Billi
+Billia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768722:1870011901:0558/pct:39.331686,6.608152,10.713821,23.385795/!600,600/0/default.jpg"/>
 </td>
@@ -6501,7 +6415,7 @@ Billi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s, and Gentsl Fure  
+, and Gentsl Fure  
 iching ood  
 aprarn om  
   
@@ -6557,7 +6471,7 @@ If Grandeur&#x27;s guilty bribe they spurned,
 And home to Virtue&#x27;s cot returned;  
 These with angels&#x27; wings shallvic,  
 And tread the palace of the sky.  
-wo o e w
+wo o e we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193766:1870021001:0030/pct:17.021981,8.901719,32.402013,89.948084/!600,600/0/default.jpg"/>
 </td>
@@ -6571,7 +6485,7 @@ wo o e w
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- M irning Chronicle :  
+M irning Chronicle :  
 Belmld tliis ruin ! &#x27;twas a skull,  
 t luce of the eiherial spirit lull ;  
 Ti.i i. arrow cell as life&#x27;s ittreat  
@@ -6595,7 +6509,7 @@ And, when it c u&#x27;d not praise, was chained;
 If bold in vin tie&#x27;s cause it spoke,  
 Yi t genilo con runl i i vi r broke.  
 This silent tongue shall plead n.r thee  
-When time unveils elei titty
+When time unveils elei titty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1870021701:0510/pct:41.591320,24.925675,13.110307,13.949340/!600,600/0/default.jpg"/>
 </td>
@@ -6609,7 +6523,7 @@ When time unveils elei titty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- forty years ago tbe following poem  
+forty years ago tbe following poem  
 *H published la the London Moriuitg Ghroniclr.  
 Every effort ra vainly made to discover the  
 nth or. erm to the offering of a reward of fifty  
@@ -6618,7 +6532,7 @@ po?m written in a plain hand was found near a
 skeleton of remarkable symmetry of form in  
 the Mmenm of the Royal College of Surgeons  
 Lincoln&#x27;s Inn. London, and the Curator of tbe  
-Museum sent it to th
+Museum sent it to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665106:1870030301:0215/pct:49.386315,11.245413,12.319730,4.780919/!600,600/0/default.jpg"/>
 </td>
@@ -6632,7 +6546,6 @@ Museum sent it to th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Behold this rain ! &#x27;twas a skull !  
 Hnoe ?f the ethereal spirit fall;  
 This narrow cell was life&#x27;s retrest ?  
@@ -6659,7 +6572,7 @@ Tha silent tongue shall plead for thee
 When time unveils eternity.  
 Say, did th?se fingers delvo the mine ?  
 Or with tbe enviel rub&#x27;es shi ue f  
-To bew th
+To bew the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665106:1870030301:0215/pct:49.907947,16.339305,11.061675,10.964818/!600,600/0/default.jpg"/>
 </td>
@@ -6673,7 +6586,7 @@ To bew th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, was vainly made to  
+was vainly made to  
 discover the author. All that ever trans­  
 pired was that the poem, in a fair, clerkly  
 hand, was found near a skeleton of remark­  
@@ -6701,7 +6614,7 @@ It Nottial love that eye employed—
 I I with 00 laovless lire it 00111110 f,  
 Ihit through the dent of kindness beamed—  
 &#x27;vita t eye Ithal I he Iner,et•r•O•riert , • -&quot; - •  
-When .nn and stars nve sunk in ni
+When .nn and stars nve sunk in nig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001888%2F1870030501%2F0037.jp2/pct:36.457660,40.087813,13.130252,10.544172/!600,600/0/default.jpg"/>
 </td>
@@ -6715,8 +6628,6 @@ When .nn and stars nve sunk in ni
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 LINES TO A SKELETON.  
 Behold this ruin I &#x27;Twas a skull,  
 Once of cthcrlul spirit full  
@@ -6758,7 +6669,7 @@ If grandeur&#x27;s guilty bribe they spurned,
 And home to virtue&#x27;s cot returned,&#x27;  
 These feet with angels&#x27; wings shall vie,  
 And tread the palace of the sky.  
-Winning 
+Winning a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1870081601:0277/pct:23.023715,12.783610,16.403162,32.695564/!600,600/0/default.jpg"/>
 </td>
@@ -6772,7 +6683,7 @@ Winning
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-p, and the sccond a sween clean.  
+, and the sccond a sween clean.  
   
 LInES ON A SREleToN.  
 y An UnNown Author ofuc  
@@ -6826,7 +6737,7 @@ If grandour&#x27;s guilty bribe they spurned.
 And home to virtue&#x27;s cot returned;  
 These feet with angel&#x27;s wings snall vle,  
 And tread the palace of the sky.  
-The Great Floe
+The Great Floed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027443:1870101101:0464/pct:49.754300,14.420241,22.036241,80.735194/!600,600/0/default.jpg"/>
 </td>
@@ -6840,8 +6751,6 @@ The Great Floe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Poor Humanity.  
   
 Dore than half a century since, the following lines  
@@ -6922,7 +6831,7 @@ And tread the palace of the sky.
   
 Kaieteur Water-fall, Demerara.  
   
-The great Kaie
+The great Kaiet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_appletons-journal-a-magazine-of-general-literature_1871-02-04_5_97%2Fsim_appletons-journal-a-magazine-of-general-literature_1871-02-04_5_97_jp2.zip%2Fsim_appletons-journal-a-magazine-of-general-literature_1871-02-04_5_97_jp2%2Fsim_appletons-journal-a-magazine-of-general-literature_1871-02-04_5_97_0024.jp2/pct:6.189821,8.544922,50.515818,81.640625/,600/0/default.jpg"/>
 </td>
@@ -6936,7 +6845,6 @@ The great Kaie
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 vold this ruin! Tvras a skull .  
 VfJnco of ethereal spirit full. &#x27;- . ;.  
 This n&amp;rrow.cell was life&#x27;s retreat; &#x27;  
@@ -6981,7 +6889,8 @@ yf? If troui the bowers- of rase they Jled,
 j &quot; flf grandeur&#x27;s guilty bribe they spurned,  
 . . : And home to .virtue&#x27;s cot returned  
 , These feet with angel&#x27;s wings shall vie,  
-&quot;And tread the palace of the&#x27;teky. -
+&quot;And tread the palace of the&#x27;teky. -  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EagFay2n_ver01%2Fdata%2F1871021601%2F0028.jp2/pct:2.798790,6.837862,14.624307,19.080322/!600,600/0/default.jpg"/>
 </td>
@@ -7065,7 +6974,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; POOR HTJg AWTTY J  
+POOR HTJg AWTTY J  
 More than half a century lince, the follow  
 Ing line were found. ,in the Royal College of  
 burgeon, London, beside skeleton Tomark­  
@@ -7118,7 +7027,7 @@ feet with angels&#x27; wings shall vie,
 And tread the palace of the sky.  
 I .-  
 SILVER I WEST VIHGIMA.  
-Reportrd THacovery or an Ancien
+Reportrd THacovery or an Ancient
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871031001:0224/pct:16.086235,35.547935,13.101161,22.874696/!600,600/0/default.jpg"/>
 </td>
@@ -7132,12 +7041,7 @@ Reportrd THacovery or an Ancien
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-use. H.R. HAWes.  
-tfs Peters&#x27; Block, Ellsworth.  
-Cll it tHis oFrice  
-AND GET YOUE NUSIESS CRDS.  
-the style of wshich cannot be excelled  
+t be excelled  
   
 A octru.  
 Poor Humanity.  
@@ -7190,9 +7094,9 @@ And home to virtue&#x27;s cot returned,
 These feet with angel&#x27;s wings shall rise.  
 And tread the patace of the skies  
   
-W
+Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:0033289500a:1871032301:0048/pct:15.429856,15.665796,22.612870,81.987598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:0033289500a:1871032301:0048/pct:16.502335,15.665796,21.540391,81.987598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7204,8 +7108,6 @@ W
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
-  
 POOR HUMANITY.  
   
 More than half a century since, the follow.  
@@ -7255,7 +7157,8 @@ To seek affl ction&#x27;s humble shed:
 If grandeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s cot returned  
 These feet with angeis&#x27; wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775800:1871033101:0055/pct:55.235799,13.510676,9.507308,23.159491/!600,600/0/default.jpg"/>
 </td>
@@ -7269,7 +7172,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 LINES TO A SKELETON  
 Behold this ruint &#x27;Twas a skull,  
 Oneeot ethereal spirit full;  
@@ -7320,7 +7222,7 @@ And home to virtue&#x27;s cot returned;
 These feet with angel&#x27;s wings shall vie,  
 And trod the palace of the sky.  
   
-WEDDIN
+WEDDING
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665799:1871041301:0884/pct:26.181435,19.958750,11.202532,21.481834/!600,600/0/default.jpg"/>
 </td>
@@ -7334,7 +7236,7 @@ WEDDIN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
 LINKS OV A SK.ELETOX.  
 Suce forty years ago the following  
@@ -7387,7 +7289,7 @@ To seek Affliction&#x27;s humble shed;
 If Grandeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s cot returned,  
 These wings with angel&#x27;s wings shall vie,  
-And tread the palace of the sky
+And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1871051001:0014/pct:8.362069,8.526518,10.790230,28.711976/!600,600/0/default.jpg"/>
 </td>
@@ -7411,8 +7313,6 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-]  
-  
 POOR HUMANITY.  
   
 Mere than half a century ago, the following lines were found in the  
@@ -7487,7 +7387,7 @@ And home to virtue’s cot returned—
 These feet with angel&#x27;s wings shall rise,  
 And tread the palace of the skies.  
   
-PAP
+PAPO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_woodhull-and-claflins-weekly_1871-06-03_3_3%2Fsim_woodhull-and-claflins-weekly_1871-06-03_3_3_jp2.zip%2Fsim_woodhull-and-claflins-weekly_1871-06-03_3_3_jp2%2Fsim_woodhull-and-claflins-weekly_1871-06-03_3_3_0002.jp2/pct:33.161765,8.703655,25.625000,34.779560/,600/0/default.jpg"/>
 </td>
@@ -7501,7 +7401,7 @@ PAP
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it be behkmbebed,  
+it be behkmbebed,  
   
 Proprietor.  
   
@@ -7564,7 +7464,7 @@ And home to virtue&#x27;s cot returned—
 These feet with angel’s wings Shall rise,  
 And treat the palace of the skies.  
   
-
+P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001751%2F1871072001%2F0115.jp2/pct:22.247549,14.114799,17.658696,75.684647/!600,600/0/default.jpg"/>
 </td>
@@ -7578,7 +7478,6 @@ And treat the palace of the skies.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 POOR HUMANITY.  
 More than half a century ago, (ho following  
 lines were found in tho Uoyal College of Sur­  
@@ -7627,7 +7526,7 @@ To seek afflictions bumble shed ;
 If grandeur&#x27;s guilty bribu they spurned,  
 And home to virtue&#x27;s cot returned—  
 These feet with angel&#x27;s wings shall rise,  
-And tread tbo palace of the skies
+And tread tbo palace of the skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623720:1871082401:0150/pct:3.536098,16.334992,12.418438,21.923715/!600,600/0/default.jpg"/>
 </td>
@@ -7641,8 +7540,6 @@ And tread tbo palace of the skies
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 LINES ON A SKELETON.  
   
 Some forty yar ao the following poiii  
@@ -7695,7 +7592,8 @@ To seek alllietion&#x27;s humble shed ;
 If Grandeur&#x27;s guilty bride they Npurmd,  
 And home to Virtue&#x27;s cot returned.  
 These fiel with uugels&#x27; wings do vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1871091401:0249/pct:23.385738,20.640875,9.096013,19.944272/!600,600/0/default.jpg"/>
 </td>
@@ -7709,7 +7607,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ethereal fail:&quot; &#x27;  
+ethereal fail:&quot; &#x27;  
 This nurron.cell was Wes retreat :  
 thought&#x27;s mysterious *seat. &#x27;  
 Whitt beauteous visions filled this spot  
@@ -7737,7 +7635,7 @@ Whin - time unveils eternity.
 1 •  
 o?Eiy, did&#x27;tbese,flogers delve the mine,  
 Or with the envied ruby shlpe?  
-To 
+To 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cura_ver03%2Fdata%2Fsn86081133%2F000002092%2F1871110101%2F0173.jp2/pct:49.928752,16.514555,10.568398,13.063708/!600,600/0/default.jpg"/>
 </td>
@@ -7751,7 +7649,7 @@ To
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- made to astértamm the author, even  
+made to astértamm the author, even  
   
 to the offering of a reward of fifty guineas:  
   
@@ -7803,7 +7701,7 @@ These feet the paths of duty trod?
 If from the bowers of ease they fied,  
 To seek affliction&#x27;s humble shed;  
   
-And trea
+And tread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_courier_journal_the-courier-journal_1871-11-22_33_1-305%2Fper_courier_journal_the-courier-journal_1871-11-22_33_1-305_jp2.zip%2Fper_courier_journal_the-courier-journal_1871-11-22_33_1-305_jp2%2Fper_courier_journal_the-courier-journal_1871-11-22_33_1-305_0003.jp2/pct:7.166877,9.227718,8.876279,15.638124/,600/0/default.jpg"/>
 </td>
@@ -7817,7 +7715,6 @@ And trea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 POOR HUMANIY.  
 More than half a century since, the follow.­  
 ing lines were found in the loral Collese of  
@@ -7866,7 +7763,7 @@ To seek affliction&#x27;s humble shed;
 If grandeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky
+And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1871121901:0207/pct:29.283169,14.210425,13.349781,27.486585/!600,600/0/default.jpg"/>
 </td>
@@ -7880,7 +7777,7 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-k in aljhL  
+in aljhL  
 Within this hollow earern Iran:  
 Tbe ready, swift, and tuneful tongue:  
 If Falsehood&#x27;s honey it disdained.  
@@ -7904,7 +7801,7 @@ To seek Affliction&#x27;s humble shed
 If Grandeur&#x27;s guilty bribe they spurned.  
 And home to Virtue&#x27;s cot returned  
 These feet with angels wings shall vie.  
-And tread the palace of the sky
+And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1872031401:0408/pct:33.071010,15.351752,9.333821,9.356309/!600,600/0/default.jpg"/>
 </td>
@@ -7918,8 +7815,6 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 I&#x27;OOK HUMANITY.  
 More than half a century ago, the fol­  
 lowing lines were found in the Royal  
@@ -7972,7 +7867,7 @@ If grandeur&#x27;s guilty bribe they spurned,
 And home to virtue&#x27;s &lt;-&quot;t r&lt; turned ?  
 These feet with Angel s wings shall rise.  
 And tread the palace of the skies.  
-
+S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176778A:1872042001:0487/pct:51.767500,6.845381,18.317731,32.168502/!600,600/0/default.jpg"/>
 </td>
@@ -7986,13 +7881,7 @@ And tread the palace of the skies.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ansas.  
-LIVERY STAELS.  
-EeCHanGE STables!  
-PEARCE &amp; VANIILLBURGH, Proprietors  
-WICHITA, KANS As.  
-TTH SEST TMN TOWN.  
-l-ly  
+ly  
   
 LINES ON A SKELETON.  
   
@@ -8045,9 +7934,9 @@ If grandeur&#x27;s bribe they spurned,
 And home to virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vie,  
 And tread the palace of the sky.  
-MR
+MRS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1872051001:0017/pct:15.840096,14.264772,22.738203,82.780785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1872051001:0017/pct:16.621581,14.264772,21.956718,82.780785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8069,8 +7958,6 @@ MR
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 When time unvaila etermty.  
   
 Say, did those fingers delve the mine ?  
@@ -8090,7 +7977,7 @@ These feet the path of duty trod 7
 If from the halls of ease they fled  
 To seek affliction’s humble shed ;  
   
-If grandeu
+If grandeur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1872-06-27_43_26%2Fsim_evangelist-and-religious-review_1872-06-27_43_26_jp2.zip%2Fsim_evangelist-and-religious-review_1872-06-27_43_26_jp2%2Fsim_evangelist-and-religious-review_1872-06-27_43_26_0005.jp2/pct:13.601645,24.319149,10.193890,6.255319/600,/0/default.jpg"/>
 </td>
@@ -8114,7 +8001,7 @@ If grandeu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, when the  
+when the  
 ind-hearted Davenport quoted these tender  
 words!  
 &quot;Avails it whether bare or shod,  
@@ -8125,7 +8012,7 @@ If grandeur&#x27;s gullty pride they spurned,
 And home to virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall rise,  
 And tread the palace of the skies.&quot;  
-Hi
+His
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872101201:0360/pct:60.800000,22.691761,10.847059,3.622159/!600,600/0/default.jpg"/>
 </td>
@@ -8139,7 +8026,7 @@ Hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ands  
+nds  
 in the shade.  
 Behold this ruin! &#x27;T was a skull,  
 Once of ethereal spirit full;  
@@ -8182,7 +8069,7 @@ And home to virtue&#x27;s cot returned
 These feet with angels&#x27; wings shall vie,  
 And tread the palace of the sky.  
 NEWS SPLINTERS.  
-
+M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1873012401:0205/pct:41.140000,21.391873,11.040000,24.894909/!600,600/0/default.jpg"/>
 </td>
@@ -8196,9 +8083,7 @@ NEWS SPLINTERS.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- for reference,  
-  
-The Skeleton.  
+ Skeleton.  
   
 Fifty years ago the London Morning Cironi­  
 de published a poem entitled &quot;Lines on a Skele­  
@@ -8245,9 +8130,9 @@ To hew the rock, or wear the gem,
 Can llUlepow avail to them,  
 But If the page of trullmhey  
 Or comfort to the mourner brought  
-The hands a richer meed shall c
+The hands a richer meed shall cl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002386%2F1873021201%2F0025.jp2/pct:57.973509,14.075195,21.855444,79.420902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002386%2F1873021201%2F0025.jp2/pct:68.220693,14.075195,11.608260,20.602995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8259,7 +8144,7 @@ The hands a richer meed shall c
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-3.  
+.  
   
 NO. 1  
   
@@ -8289,7 +8174,7 @@ One.- show n the bright and busy eye;
 Kut start not at the dismal void —  
 It social love that eye employed,  
 If with no lawless lire it gleamed,  
-Hut through the dew o
+Hut through the dew of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1873022001:0035/pct:19.489982,11.475194,57.176685,15.778392/!600,600/0/default.jpg"/>
 </td>
@@ -8303,7 +8188,7 @@ Hut through the dew o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- nor is it yet Known :  
+nor is it yet Known :  
 Behold this ruin ! Twas a skull  
 Once of etherial Spirit full.  
 This narrow cell was life&#x27;s retreat,  
@@ -8345,7 +8230,7 @@ And home to Virtue&#x27;s cot returned,
 These feet with angel&#x27;s wings shall vie  
 And tread the palace of the sky.  
 SIM&#x27;S LITTLE GIRL.  
-Fro
+From
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033386:00296020709:1873082201:0138/pct:16.802204,14.548680,9.181532,14.892437/!600,600/0/default.jpg"/>
 </td>
@@ -8359,7 +8244,7 @@ Fro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-! wiiicli ex­  
+wiiicli ex­  
 ited umeu aftention.. Evr-ry e(HVir, fv to  
 th offering of a reward of tifly . mneas, was  
 vainly made to discover thft nnthor.; All that  
@@ -8368,7 +8253,7 @@ clerkly hand, was found near skeleton of io­
 inarkabl&#x27;o beauty of j form and color, in tlu­  
 nnisenm of the RoyallColie oi Snnr-ons, -Lincoln&#x27;s  
 Inn, London, rtnd that th&#x27; c nratr of the  
-Museum had tbeiii fuent to the Up Perry, o
+Museum had tbeiii fuent to the Up Perry, of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekT2n_ver01%2Fdata%2F1873110801%2F0502.jp2/pct:3.711847,27.403564,14.873254,5.541414/!600,600/0/default.jpg"/>
 </td>
@@ -8382,7 +8267,7 @@ Museum had tbeiii fuent to the Up Perry, o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, offering for sale  
+offering for sale  
 FIRST-CLASS GOODS  
 as low as can be found at any other house  
 In the Territory.  
@@ -8448,7 +8333,8 @@ To seek affliction&#x27;s humble s&#x27;hed;
 If grandeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s cot returned.  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_joshuatree_ver01:data:sn82014896:0021110465A:1873112201:0030/pct:5.800360,13.185185,36.330935,83.303704/!600,600/0/default.jpg"/>
 </td>
@@ -8462,7 +8348,7 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. if something like wings arrested attontiou.  
+if something like wings arrested attontiou.  
 Alas 1 is it needed so much as to mention  
 That, drenched in the torrent when fluttering  
 away.  
@@ -8525,7 +8411,8 @@ To seek affliction&#x27;s bumble hed;
 v Of grandeur&#x27;s guilty bribe they spurned,  
 A nd borne to vn tiio&#x27;s cot returned;  
 &#x27;J bnse feet with angel&#x27;s wins hall vie.  
-And tlead the. paUM-e oi tne k j.
+And tlead the. paUM-e oi tne k j.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296028988:1873112201:0508/pct:5.794607,73.738728,10.240964,21.959542/!600,600/0/default.jpg"/>
 </td>
@@ -8539,7 +8426,6 @@ And tlead the. paUM-e oi tne k j.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-/  
 LINES TO A SKELETON.  
 Fifty years ago the Loudon Morning Chronicle  
 published u poem entitled as above, which excited  
@@ -8594,7 +8480,8 @@ To seek affliction&#x27;s humble shed:
 If grandeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn86053067:00415620184:1873112701:0165/pct:1.649584,3.423744,20.916079,30.057803/!600,600/0/default.jpg"/>
 </td>
@@ -8608,36 +8495,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- unfortunate gentlemen in  
-  
-Lines to a Skeleton.  
-Fitty years ago the London Morning  
-Chronicle published a poem entitled as  
-above, which excited much attention. Ey­  
-ery effort, even to the offering of a re­  
-ward of fifty guineas, was vainly made to  
-discover the author. All that ever trans-  
-  
-like circumstances. The sheriff is at a pired was that the poem in a air eler  
-  
-ioss, for his part, to understand how any an wa on ear a seton of e  
-  
-Th
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1873120201:0839/pct:52.270621,4.285714,22.724745,5.572843/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Middlebury register._](https://www.loc.gov/resource/sn83025667/1873-12-02/ed-1/?sp=2)
-
-#### 1873-12-02 &middot; [Middlebury, Vt.](http://dbpedia.org/resource/Middlebury%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
 markable beauty of form and color, in the  
 museum of the Royal College of Surgeons,  
   
@@ -8689,7 +8546,8 @@ If grandeur&#x27;s guilty bribe they spurned,
   
 And home to virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1873120201:0839/pct:63.855422,9.024045,11.195551,19.688826/!600,600/0/default.jpg"/>
 </td>
@@ -8703,7 +8561,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ehouatsaos virions filled this spot I  
 ▼hat drawn of pleasures long forgot t  
 Nor hope, nor joy, nor love, aor fear,  
@@ -8739,7 +8596,8 @@ To seek affliction&#x27;s humble shed;
 If grandeur&#x27;s guilty bribe they spnrned,  
 And home to virtue’s cot returned.  
 These feet with angel&#x27;s wing shall vie,  
-And tread the palace of the sky.
+And tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623525:1874012901:0020/pct:29.961859,22.031733,10.679475,20.317325/!600,600/0/default.jpg"/>
 </td>
@@ -8753,7 +8611,6 @@ And tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Behold this mini Once this skull  
 Was of eternal spirit full ; &#x27;  
 This puny cell was life&#x27;s retreat.  
@@ -8785,7 +8642,7 @@ And anxious bore tho Passion&#x27;s strife;
 Yet what avails it now that there  
 Dwelt Love, Hate, Pride, Care, or Despair?  
 The deep concern to make the most  
-Or Eart
+Or Earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1874021301:0278/pct:60.553892,6.174313,16.367265,21.268975/!600,600/0/default.jpg"/>
 </td>
@@ -8799,7 +8656,7 @@ Or Eart
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n the London Morning Chronicle. Every  
+the London Morning Chronicle. Every  
 effort was vainly made to discover the author,  
 even to the offering of a reward of fifty guineas.  
 All that ever transpired was that the poem, in a  
@@ -8848,7 +8705,7 @@ If Grandeur&#x27;s gilded bower they spurned,
 And home to Virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vie,  
 And tread the palaces of the sky.  
-
+H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1874120201:0699/pct:25.096080,14.547290,9.800154,18.295848/!600,600/0/default.jpg"/>
 </td>
@@ -8862,7 +8719,6 @@ And tread the palaces of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 transpired.]  
 Behold this non! ’Twas a skull,  
 • me.» of eth -areal spirit fu&#x27;l;  
@@ -8900,7 +8756,7 @@ Avails it whether hare or shod
 Those feet the path of Uutv trod?  
 &gt; if from Hie hall* of ease they Aed  
 I To sock a Miction* humble shed,  
-j If grandeur’s guilty bribe they sp
+j If grandeur’s guilty bribe they spu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875030401:0024/pct:16.184054,47.441082,12.376041,15.437178/!600,600/0/default.jpg"/>
 </td>
@@ -8914,7 +8770,7 @@ j If grandeur’s guilty bribe they sp
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hood&#x27;s honey it disdained,  
+ood&#x27;s honey it disdained,  
 And when it could not.praiae, was chained;  
 It bold in virtue&#x27;s cause it spoke.  
 Its gentle eoncord never brone.  
@@ -8936,7 +8792,7 @@ But, if the guilt ot bribe they spurn,
 And home to virtue&#x27;s cot return;  
 Thes feet with angel&#x27; wings shall vie.  
 And tread the palaces of the sky.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1875051301:0506/pct:26.938720,16.130858,9.191974,9.203079/!600,600/0/default.jpg"/>
 </td>
@@ -8950,7 +8806,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-! rT was a skhiy&#x27;  
+rT was a skhiy&#x27;  
 Once of ethereal spirit full. &quot; r  
 This narrow cell was Life&#x27;s retreat, . f  
 This space was Thooeht&#x27;s mysterious seat  
@@ -8997,7 +8853,7 @@ To seek affliction&#x27;s humble hed
 If Grandeur&#x27;s guilty bribe they spurned, i  
 And home to Virtue&#x27;s cot returned,- ;  
 These feet with angel wings shall vie,  
-And tread the palace of the sky
+And tread the palace of the sky 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaiCharO11n_ver01%2Fdata%2F1875101001%2F0347.jp2/pct:2.685950,2.585921,12.750885,18.941319/!600,600/0/default.jpg"/>
 </td>
@@ -9011,7 +8867,6 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &#x27;Th a. a skull  
 iin....f .t boreal ppirit full.  
 iiijifi ii ii i-iiiii  
@@ -9052,7 +8907,7 @@ To seek atBiction&#x27;s humble shed ;
 If (Jrandeur&#x27;s guilty bribe they spurned,  
 And home to Virtue&#x27;s cot returned,  
 Thee feet with angel wings shall vie,  
-And tread the palace of the sky
+And tread the palace of the sky 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm27n_ver01%2Fdata%2F1875101301%2F0023.jp2/pct:1.926394,9.505402,13.887292,19.774011/!600,600/0/default.jpg"/>
 </td>
@@ -9066,7 +8921,6 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 To a Skeleton.  
 Bahold this ruin 1 ’Twas a skull  
 Once of ethereal spirit full; ,  
@@ -9107,7 +8961,8 @@ To seek aiHietion’s humble shed;
 If Grandeur&#x27;s guilty bribe they spurned,  
 And home to Virtue’s cot returned—  
 These feet with angel wings shall vie,  
-And tread the palace of the sky!
+And tread the palace of the sky!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn97064666:00517016081:1875101401:0162/pct:30.082445,7.058824,12.185803,21.641249/!600,600/0/default.jpg"/>
 </td>
@@ -9121,7 +8976,7 @@ And tread the palace of the sky!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dness.  
+ness.  
   
 THE SKELETON.  
 Exactly forty years ago, the London &quot; Morn  
@@ -9161,7 +9016,7 @@ And where it could not praise, was chained
 If bold in Virtue&#x27;s cause It spoke,  
 Yet gentle Concord never broke 1  
 This silent tongue shall plead for thee  
-&quot;Wh
+&quot;Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1875120301:0061/pct:75.867799,13.844218,19.350074,82.282198/!600,600/0/default.jpg"/>
 </td>
@@ -9175,7 +9030,7 @@ This silent tongue shall plead for thee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-{.?  
+.?  
 ! Benoatluthi# nirmhjering canopy  
 ()nce shone the bfight and bliiv oyc;  
 l??it stirrt not at the dismal void?  
@@ -9207,7 +9062,7 @@ I i seek Alllictions humble sheil;
 If (irandeur&#x27;s guilty bribe they spurned, 1  
 And Home to Virtue&#x27;s cot returned;  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky
+And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219378A:1876012001:0015/pct:29.924846,19.214703,13.368253,20.401003/!600,600/0/default.jpg"/>
 </td>
@@ -9221,8 +9076,6 @@ And tread the palace of the sky
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 W lieu time unveils ulcrmty.  
 Sjy, dltl those fincer* delve ttic mine?  
 ?&gt;r without envied rubies shine?  
@@ -9239,7 +9092,7 @@ i To seek alllielions humble shed ;
 i If grandeur&#x27;s guilty bribe they spurned,  
 i And home to virtue&#x27;* cot returned ;  
 j These teet w ith angel&#x27;s wings shall vie,  
-! And tread the palace of the sky
+! And tread the palace of the sky.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_mara_ver01:data:sn84026847:00415665222:1876021701:0169/pct:13.231884,35.049380,11.449275,7.028788/!600,600/0/default.jpg"/>
 </td>
@@ -9253,7 +9106,7 @@ j These teet w ith angel&#x27;s wings shall vie,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Ionceot etneriui spirit juh;  
+onceot etneriui spirit juh;  
 This narrow cell was life&#x27;s retreat,  
 Tins space was thought&#x27;s mysterious seat.  
 I liat beauteous vision filled this spot?  
@@ -9276,7 +9129,8 @@ Within this hollow cavern hung
 chained;  
 \ If bold In virtue&#x27;s cause it spoke,  
 ! Vet gentle concord never broke;  
-I Tliis silent tongue shall plead for thee
+I Tliis silent tongue shall plead for thee  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_mara_ver01:data:sn84026847:00415665222:1876021701:0169/pct:13.246377,26.160958,11.956522,9.025005/!600,600/0/default.jpg"/>
 </td>
@@ -9290,7 +9144,7 @@ I Tliis silent tongue shall plead for thee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to this  
+to this  
 ay unknown,  
 Behold this ruin! &#x27;Twas a skull,  
 Once of ethereal spirits full:  
@@ -9331,7 +9185,8 @@ To seck affliction&#x27;s humble shed;
 If grandeur&#x27;s guilty bribe they spurned,  
 ind home to virtue&#x27;s cot returned,  
 These feet with angel&#x27;s wings shall vic,  
-And tread the palace of the sky,
+And tread the palace of the sky,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1876040801:0047/pct:22.616605,55.262652,12.631651,23.451455/!600,600/0/default.jpg"/>
 </td>
@@ -9345,7 +9200,7 @@ And tread the palace of the sky,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Lines to a Skeleton.  
+ines to a Skeleton.  
 Behold this ruin I ’Twas a t-kuU,  
 Once of ethereal spirit full,  
 This narrow cell was life’s retreat,  
@@ -9385,7 +9240,8 @@ Tj seek affliction’s humble shed,
 If grandeur&#x27;s guilty bribe they spurned  
 Aud home to virtue’s cot returned,  
 Those feet with angels’ ways shall vie,  
-Aud tread the palace of the sky.
+Aud tread the palace of the sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ifill_ver01:data:sn84025894:00211664745:1876080501:0058/pct:4.352679,16.397919,13.299851,24.460338/!600,600/0/default.jpg"/>
 </td>
@@ -9399,7 +9255,7 @@ Aud tread the palace of the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- longest way.  
+longest way.  
   
 i INESOM A SCKELOTON,  
   
@@ -9441,7 +9297,7 @@ At»&lt;l wls ti uld uot praise was chained;
 If bold in vi. le’s cause it spoke;  
 Yet gentle C■•. It&#x27;d never broke;  
 &#x27;a i - .-ilent t* mue.shall plead, for tii-■ •  
-Wh
+Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876092801:0400/pct:6.299213,32.960962,13.517060,20.525411/!600,600/0/default.jpg"/>
 </td>
@@ -9455,7 +9311,7 @@ Wh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- failed to bring out the  
+failed to bring out the  
 author.]  
 Behold this ruin! ’Twas a skull  
 Once of ethereal spirit full.  
@@ -9473,7 +9329,7 @@ If with no lawless fire it gleamed,
 But through the dews of kindness beamed/  
 This eje shall be forever bright,  
 When stars and suns are sunk in night.  
-Say, did thes
+Say, did these
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110247:1876120301:0003/pct:6.248858,10.257759,11.949571,6.851657/!600,600/0/default.jpg"/>
 </td>
@@ -9487,7 +9343,7 @@ Say, did thes
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, nor is it yet  
+nor is it yet  
 known. ]  
 Behold this ruin ! &quot;T&#x27;was a skull,  
 Once of ethereal spirit full.  
@@ -9515,7 +9371,7 @@ Yet gentle concord never broke !
 This silent tongue shall plead for thee  
 When time unvalls eternity.  
   
-Say did th
+Say did the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_cavebear_ver04:data:sn83021113:00513689354:1877060801:0784/pct:13.978839,17.453027,9.917709,10.722338/!600,600/0/default.jpg"/>
 </td>
@@ -9539,7 +9395,6 @@ Say did th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Lines to a Skeleton.  
 [Exactly sixtv yearsgago the London Morn­  
 utg Chronicle published a poem entitled &quot;Lines  
@@ -9977,7 +9832,8 @@ the police but as no one cared to remain
 in that town tor the purpose of prosecut­  
 ing him, he was summarily dealt with.  
 The magistrate sentenced him to six  
-months&#x27; imprisonment with hard labor.
+months&#x27; imprisonment with hard labor.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768133:1879022301:0313/pct:7.843677,5.604150,37.319389,91.619203/!600,600/0/default.jpg"/>
 </td>
@@ -9991,7 +9847,7 @@ months&#x27; imprisonment with hard labor.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o his side of thinking.  
+his side of thinking.  
 &quot;Of course,&quot; he said, &quot;there is not  
 a passenger on board who is not above  
 suspicion, yet, in justice to the feelings  
@@ -10155,7 +10011,7 @@ prosecuting him, he was summarily
 dealt with. The presiding magistrate  
 sentenced him to six months&#x27; imprison­  
 ment with hard labor.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AnTiW5n_ver01%2Fdata%2F1879022601%2F0058.jp2/pct:20.542062,2.744496,30.672393,92.053251/!600,600/0/default.jpg"/>
 </td>
@@ -10619,7 +10475,7 @@ months&#x27; imprisonment with hard labor.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- stoie. And  
+stoie. And  
 this delicate young English paragon of  
 passengers had made his conquest over  
 all our hearts before wc had been three  
@@ -10969,7 +10825,8 @@ the police but a3 no one cared to remain
 in that town for the purpose of prosecut­  
 ing him, he was summarily dealt with.  
 The magistrate sentenced him to six  
-months&#x27; imprisonment with hard labor.
+months&#x27; imprisonment with hard labor.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1879022701:0428/pct:39.109940,4.062637,21.946486,91.644766/!600,600/0/default.jpg"/>
 </td>
@@ -10983,7 +10840,7 @@ months&#x27; imprisonment with hard labor.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to God  
+to God  
 That he would soothe the troubled breast  
 With grief and penury oppressed I  
 Say, did these&#x27; fingers delve the mined,  
@@ -11001,7 +10858,8 @@ To seek affection&#x27;s humble shed,
 if grandeur&#x27;s guilty bribe they spurned,  
 And home to virtue&#x27;s lap returned,  
 These feet with nngel&#x27;s wings shall vie,  
-And trend the palace of the sky I
+And trend the palace of the sky I  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1879031401:0489/pct:26.396128,30.311932,9.623976,9.889495/!600,600/0/default.jpg"/>
 </td>
@@ -11015,7 +10873,7 @@ And trend the palace of the sky I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dition of affairs seemed to reassure  
+ition of affairs seemed to reassure  
 our passengers, who once again began  
 to look cheerful and at ease.  
 Reginald Moore&#x27;s pleasant face wore  
@@ -11211,7 +11069,7 @@ sentenced him to six years&#x27; imprison­
 ment with hard labor.  
 Colorado Miners.  
 The small mines of Colorado are  
-worked b
+worked by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1879040901:0301/pct:14.808153,14.056321,23.051559,83.247454/!600,600/0/default.jpg"/>
 </td>
@@ -11225,7 +11083,7 @@ worked b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dition of affairs seemed to reassure  
+ition of affairs seemed to reassure  
 our passengers, who once again began to  
 look cheerful and at ease.  
 Reginald Moore’s pleasant face wore  
@@ -11415,7 +11273,8 @@ the police; but as no one cared to remain
 in that town for the purpose of prosecu­  
 ting him, he was summarily dealt with.  
 The presiding magistrate sentenced him  
-to six years’ imprisonment.
+to six years’ imprisonment.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769349:1879042401:0673/pct:26.733193,13.827388,32.615546,81.078311/!600,600/0/default.jpg"/>
 </td>
@@ -11429,8 +11288,7 @@ to six years’ imprisonment.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- two  
-hundred and fifty pounds’worth of jew­  
+worth of jew­  
 elry; and they, too, consulted Mr.  
 Moore as to the safest plan for secret­  
 ing it.  
@@ -11649,7 +11507,7 @@ sentenced him to six years imprison­
 ment with hard labor.  
   
 Death in Cooking Utensil*.  
-The Boston Journal o
+The Boston Journal of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00279550018:1879043001:0407/pct:19.855645,4.002271,29.429389,90.604598/!600,600/0/default.jpg"/>
 </td>
@@ -11663,7 +11521,6 @@ The Boston Journal o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- at least  
 worth of jewelry; and they, too,  
 consulted Mir. Moore as to the safest  
 plan for securing it.  
@@ -11726,7 +11583,7 @@ men, let me also suggest that every
 gor&#x27;e lugege beei  
 searched.&quot;  
 A little hesitation on the part of on  
- of
+ of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1879051601:0716/pct:26.618837,9.475322,23.105224,86.819403/!600,600/0/default.jpg"/>
 </td>
@@ -11740,7 +11597,7 @@ A little hesitation on the part of on
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-him, if poah seginal  
+im, if poah seginal  
 admirable and praiseworthy in our  
 eyes than ever.  
 Many of the crew objected strongly  
@@ -11763,7 +11620,8 @@ oee o oie a e e e e
   
  asa wy toti  
 nes, ant the passengers having turned  
-in, none of them, as you may imagine,
+in, none of them, as you may imagine,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1879051601:0716/pct:37.932303,39.654929,16.777042,10.125866/!600,600/0/default.jpg"/>
 </td>
@@ -11777,7 +11635,7 @@ in, none of them, as you may imagine,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-deck, mnet my anxious observation. It  
+eck, mnet my anxious observation. It  
 was the boatswain.  
 I sat him glanee towends the elot  
 down which Mr. Reginald Moore had  
@@ -11808,7 +11666,7 @@ antest exterior I ever knew a man to
 possess. The manner in which he had  
 manufactured the top of that water-  
 cask was the most finithed and ingen-  
-ious piece of carpentery
+ious piece of carpentery 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1879051601:0716/pct:37.895511,75.859143,11.276674,16.518173/!600,600/0/default.jpg"/>
 </td>
@@ -11822,8 +11680,6 @@ ious piece of carpentery
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 he had driven several nails about two &quot;Dont know--can&#x27;t tell--never died  
   
 feet from the top, on which he had sus  
@@ -11847,7 +11703,7 @@ of prosecuting him, he was summarily
 dealt with. The presiding magistrate  
 semenced nim six months&#x27; imprison  
 twith hard laDor  
-aee 
+aee e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1879051601:0716/pct:38.024283,9.602602,23.068433,86.692123/!600,600/0/default.jpg"/>
 </td>
@@ -11861,7 +11717,7 @@ aee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- S S.  
+S S.  
 I in vas useless What wa?  
 I tn In&#x27; dellO .&#x27;  
 I’ vina been made  
@@ -11917,7 +11773,7 @@ to reliei e the man at the u heel.
 W hen all was again quiet for an instant  
 he seemed determined to at once return  
 i to the cask, and no doubt withdraw  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879052201:0323/pct:37.194708,53.582941,11.770692,25.018597/!600,600/0/default.jpg"/>
 </td>
@@ -11931,7 +11787,7 @@ i to the cask, and no doubt withdraw
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r­  
+­  
 self, tlie boatswain commenced his exam­  
 ination of the water cask. For a moment  
 only Moore stood looking at him, with a­  
@@ -11973,7 +11829,7 @@ j to six v oars&#x27;imprisonment wit It hard la
 ; bar. _  
 The Zulus as Warriors  
 The .accession of desperate battles  
-fought b
+fought by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879052201:0323/pct:37.737449,9.893380,22.998643,86.635259/!600,600/0/default.jpg"/>
 </td>
@@ -11987,7 +11843,7 @@ fought b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of every passenger&#x27;s luggage*be also thor­  
+of every passenger&#x27;s luggage*be also thor­  
 fcope and activity, bent upon making a oughly searched.&quot;  
   
 away from their native  
@@ -12014,7 +11870,8 @@ mat*
 rimoiiy, but instead had stuck to each contrived to bring those who at first  
 iIA  
   
-old Australian settlers, who had been Of course,&quot; he said, there is not a
+old Australian settlers, who had been Of course,&quot; he said, there is not a  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479755:1879052901:0102/pct:6.565403,43.945883,21.503892,4.467588/!600,600/0/default.jpg"/>
 </td>
@@ -12028,7 +11885,6 @@ old Australian settlers, who had been Of course,&quot; he said, there is not a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 minus of every article of jewelry that  
 they had possessed. Even the grumbling  
 old gentleman had lost his gold snuff­  
@@ -12054,7 +11910,8 @@ a
   
 little hesitation on the part of one  
   
-or two of the passengers was demon-
+or two of the passengers was demon-  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479755:1879052901:0102/pct:13.118253,36.811369,15.001255,8.983843/!600,600/0/default.jpg"/>
 </td>
@@ -12068,8 +11925,6 @@ or two of the passengers was demon-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 admirable and praiseworthy in our eyes  
   
 Many of the crew objected strongly to  
@@ -12154,7 +12009,8 @@ When all was again quiet, for an
 instant he seemed determined to at once  
 return to the cask, and no doubt with*  
 draw something more that the interrup­  
-tion had prevented him withdrawing
+tion had prevented him withdrawing  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479755:1879052901:0102/pct:16.997238,51.090130,11.034396,33.385244/!600,600/0/default.jpg"/>
 </td>
@@ -12168,7 +12024,7 @@ tion had prevented him withdrawing
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dition of affairs seemed to reassure  
+ition of affairs seemed to reassure  
 our passengers, who once again began to  
 look cheerful and at ease.  
   
@@ -12358,7 +12214,8 @@ in that town for the purpose of prose­
 cuting him, he was summarily dealt  
 with. The presiding magistrate sen­  
 tenced him to six months’ imprisonment  
-with hard labor.
+with hard labor.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1879053101:0693/pct:15.708547,5.421142,25.696080,91.075193/!600,600/0/default.jpg"/>
 </td>
@@ -12372,7 +12229,6 @@ with hard labor.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 prietor of the Morning Chronicle.  
 LEiEa TO A SKELETON.  
 Behold mis ruin! &#x27;Twas a skull,  
@@ -12416,7 +12272,7 @@ And home to Virtue&#x27;s cot returned.
 These feet with angel&#x27; wings shall vie,  
 And tread the palace of the sky.  
 lUTHERX 3EWS.  
-Mormon elder3 are preaching to th
+Mormon elder3 are preaching to tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879060101:0461/pct:34.178187,24.582463,9.267793,15.334029/!600,600/0/default.jpg"/>
 </td>
@@ -12430,14 +12286,14 @@ Mormon elder3 are preaching to th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 m7  
   
 with ax evil an expression on his face as  
 I ever beheld.  
 With one bound he was upon the boat-  
   
-adage baa it My only request in the swain before he could turn to protect
+adage baa it My only request in the swain before he could turn to protect  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.916080,4.826937,21.804286,44.666824/!600,600/0/default.jpg"/>
 </td>
@@ -12451,7 +12307,7 @@ adage baa it My only request in the swain before he could turn to protect
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- about admirable and praiseworthy in our eyes the picture. Two millions of these are  
+about admirable and praiseworthy in our eyes the picture. Two millions of these are  
   
 searched like a common pickpocket. demnification, also for the expenses of  
 Even the pleasant passeuger failed to  
@@ -12459,7 +12315,7 @@ Even the pleasant passeuger failed to
 llle  
   
 soothe his sense of injury. prominent mouignore has engaged to  
-Well, a thorough search was made by 
+Well, a thorough search was made by f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:17.982916,51.012479,23.602578,5.674594/!600,600/0/default.jpg"/>
 </td>
@@ -12473,11 +12329,12 @@ Well, a thorough search was made by
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, rinsring voice  
+rinsring voice  
   
 very brilliant spirits, 1 went on deck, it  
 being what we call at sea the captain&#x27;s  
 watch.&quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.841151,60.560396,21.474599,1.495173/!600,600/0/default.jpg"/>
@@ -12492,8 +12349,6 @@ watch.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Just as he reached the water cask a  
 heavy green sea struck the ship to wind­  
 ward, necessitating the boatswain to hold  
@@ -12506,7 +12361,8 @@ scene.
 The instant the ship had steadied her­  
 self the boatswain commenced his exam­  
 ination of the water cask. For a mo­  
-aoentonly, Moon stood looking at his
+aoentonly, Moon stood looking at his  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.316649,91.170238,10.744792,5.615729/!600,600/0/default.jpg"/>
 </td>
@@ -12520,8 +12376,6 @@ aoentonly, Moon stood looking at his
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 prevented him withdrawing in the scoundrel overl&quot; In mu. uuic  
   
 JKl.&quot;tfc&#x27;ias!  
@@ -12529,7 +12383,8 @@ JKl.&quot;tfc&#x27;ias!
 &#x27;an  
   
 I saw him elan re towards the stairs,  
-down which Mr. Reginald Moore bad
+down which Mr. Reginald Moore bad  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.361606,84.565576,22.388731,5.027078/!600,600/0/default.jpg"/>
 </td>
@@ -12543,8 +12398,6 @@ down which Mr. Reginald Moore bad
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 There was no keeping matters quiet  
 this time. The thief must be traced ami But the great topaz lias been a white Ju.st  
   
@@ -12555,7 +12408,7 @@ Moore suggest? lost. They have tried over and again in
   
 To this proposition we unanimously vain to sell the huge gem. An object of  
   
-captain, and therefore, in common fair- 
+captain, and therefore, in common fair- i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.991009,38.380033,23.138019,4.709206/!600,600/0/default.jpg"/>
 </td>
@@ -12569,8 +12422,6 @@ captain, and therefore, in common fair-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 was the thief, after all,  
   
 hiding his knavery under the pleasantest  
@@ -12578,7 +12429,8 @@ exterior I ever knew a man posset!*. The
 manner in which he had manufactured  
 the top of that water cask waa the most  
 finished and ingenious piece of carpen­  
-tery I have ever beheld.
+tery I have ever beheld.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:31.080474,8.888627,10.654878,3.331764/!600,600/0/default.jpg"/>
 </td>
@@ -12592,7 +12444,7 @@ tery I have ever beheld.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and evergreens boston choooi.ate caramels.  
+and evergreens boston choooi.ate caramels.  
 vivacity and anecdotes. All day -U&#x27;ei&quot;K V&quot;&quot;&#x27;  
   
 N?pH  
@@ -12607,7 +12459,7 @@ K&quot;l,es
   
 gave the gem to his creditor in cleaned. It is a valuable absorbent of  
   
-one. Alas! what a sense of anger and
+one. Alas! what a sense of anger and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.976023,30.009418,42.694440,14.904639/!600,600/0/default.jpg"/>
 </td>
@@ -12621,13 +12473,12 @@ one. Alas! what a sense of anger and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 window therein I could command a vi«w i. k&quot;1 *maJ1 Ifo|H)rtions of ammonia and I  
   
 oiZ&quot;tS«ks uix as,&quot;&#x27;13 awijsx, i »•«•»»»«. i wui.  
 Somehow or ..tiler, I cc.uld Th™ „f lifht ia thi! &#x27;lel&#x27;1*&quot;&#x27;h* &quot;t&#x27;&quot;&quot; r«*»0« cdotaux  
 atom bo, dressing myself, I determined eyes are common to only three members nitrogen and Separate the whites and yolks of eight  
-upo
+upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1879060401:0333/pct:19.766222,63.174005,43.953244,2.613610/!600,600/0/default.jpg"/>
 </td>
@@ -12641,7 +12492,6 @@ upo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 man hod lost his gold snuff-box.  
 There was no keeping matters quiet this  
 time. The tbier must be traced and  
@@ -12809,7 +12659,7 @@ bim, he was summarily dealt witn. ine
 presiding magistrate sentenced him to  
 six months&#x27; imprisonment with hard  
 labor.  
-Cremation o
+Cremation of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028271:00296027340:1879072401:0127/pct:29.312462,13.697749,21.761817,83.228296/!600,600/0/default.jpg"/>
 </td>
@@ -12823,7 +12673,7 @@ Cremation o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aluables i  
+luables i  
 in the way of jewelry than anyone on I  
 board, since £1,500 had never pur- j  
 chased what they possessed.  
@@ -13042,7 +12892,8 @@ for the purpose of prosecuting him
 he was summarily dealt with. The  
 presiding magistrate sentenced him  
 to six months imprisonment with  
-hard labor.
+hard labor.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1879072401:0332/pct:24.724739,5.171463,20.181185,90.109163/!600,600/0/default.jpg"/>
 </td>
@@ -13056,14 +12907,15 @@ hard labor.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dition of affairs seemed to reassure  
+ition of affairs seemed to reassure  
 onr passengers, who at onoe began to  
 look cheerful nnd at ease.  
 Reginald Moore&#x27;s pleasant face wore its  
 wonted smile, and, as heretofore, he enliv­  
 ened and charmed us with his vlvaoity  
 and anecdote. All day through he worked  
-on the model of tbe Janet b Pride, still
+on the model of tbe Janet b Pride, still  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879091001:0336/pct:70.968935,91.594203,10.891272,3.450656/!600,600/0/default.jpg"/>
 </td>
@@ -13077,7 +12929,7 @@ on the model of tbe Janet b Pride, still
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.&quot;  
+&quot;  
 A littlo hesitation on the part of one or  
 two of the passengors was demonstrated  
 before acceding to Ibis last proposal, but  
@@ -13224,7 +13076,8 @@ but as no one oared to remain in that town
 for tbe purpose of prosoouting bim, he  
 was summarily dealt with. The presid­  
 ing magistrate sentenoed him to sis  
-months&#x27; imprisonment with hard labor.
+months&#x27; imprisonment with hard labor.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879091001:0336/pct:82.100592,24.913734,11.002219,64.071774/!600,600/0/default.jpg"/>
 </td>
@@ -13248,7 +13101,7 @@ months&#x27; imprisonment with hard labor.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of ethereal spirils rallfbIA  
+of ethereal spirils rallfbIA  
 This space was thought&#x27;s mysterious seat;  
 W liat benmcous pieers piet thisspot!  
 What dreams of pleasures long forgot!  
@@ -13287,7 +13140,7 @@ To soothe affection s humble bed
 If grandeur&#x27;s gutfty bride ther spurned,  
 And home to virtue&#x27;s lap returned.  
 Thase fect with angel&#x27;s wings shall vit  
-And tread the palale of the sk
+And tread the palale of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1881032201:0485/pct:27.204503,30.151201,10.819262,18.010673/!600,600/0/default.jpg"/>
 </td>
@@ -13301,7 +13154,7 @@ And tread the palale of the sk
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-them to  
+hem to  
 the editor and proprietor of the Morning  
 Chronicle :]  
   
@@ -13375,7 +13228,7 @@ And tread the palace of the sky.
   
   
   
-Selected
+Selected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friend-a-religious-and-literary-journal_1882-09-30_56_8%2Fsim_friend-a-religious-and-literary-journal_1882-09-30_56_8_jp2.zip%2Fsim_friend-a-religious-and-literary-journal_1882-09-30_56_8_jp2%2Fsim_friend-a-religious-and-literary-journal_1882-09-30_56_8_0003.jp2/pct:39.047619,29.530201,27.738095,45.733461/,600/0/default.jpg"/>
 </td>
@@ -13389,7 +13242,7 @@ Selected
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ready, swift, and tuneful tongue;  
+ready, swift, and tuneful tongue;  
 If falsehood’s honey it disdained,  
 And where it could not praise, was chained,  
 If bold in virtue’s cause it spoke,  
@@ -13413,7 +13266,7 @@ And home to Virtue&#x27;s cot returned,
 These feet with angel’s wings shall vie,  
 And tread the palace of the sky.  
   
-OUR NEW YORK LETTER
+OUR NEW YORK LETTER.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868715:1883061401:0009/pct:4.117647,53.481058,13.907563,10.178699/!600,600/0/default.jpg"/>
 </td>
@@ -13427,7 +13280,7 @@ OUR NEW YORK LETTER
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- had tent the  
+had tent the  
 line to Mr. Perry, editor or the CkronicU.  
 -iti. tttraU.  
 Behold thl ruin. &#x27;Twa a tkull  
@@ -13476,6 +13329,7 @@ U Grandeur&#x27;s guilty bribe they spurned,
 And home to Virtue&#x27;s cot returned.  
 These feet with angels&#x27; wings shall vie,  
 And tread the palace or the sky.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281895:1883090601:0436/pct:32.768692,15.756229,8.878505,18.739034/!600,600/0/default.jpg"/>
@@ -13490,7 +13344,6 @@ And tread the palace or the sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s  
 LiNes on A seFleton  
 Behold this ruin! &#x27;Twas a skull  
 Once of ethereal spirit full!  
@@ -13535,7 +13388,7 @@ Those feet with angel&#x27;s wings shall vie
 And tread the palace of the sky  
   
 Glive Trees in the Uulted States  
-To THE EDITON OF T
+To THE EDITON OF TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1884123101:0440/pct:70.977011,68.450843,12.222222,15.301626/!600,600/0/default.jpg"/>
 </td>
@@ -13549,8 +13402,6 @@ To THE EDITON OF T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Line on a Skeleton.  
   
 Behold this ruin 1 &#x27;Twas a Rkull  
@@ -13597,7 +13448,7 @@ TOM CORWIN.
 nia Failure to Knthuae the People of the  
 Western Iteserre.  
 A Columbus. Ohio, correspondent of  
-th
+tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885020901:0189/pct:33.641509,6.164475,11.603774,18.360569/!600,600/0/default.jpg"/>
 </td>
@@ -13611,7 +13462,7 @@ th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-was thought&#x27;s mysterious seat !  
+as thought&#x27;s mysterious seat !  
 What beauteous visions filled this spot,  
 What dreams of pleasure long forgot ;  
 Nor hope, nor joy, nor love, nor fear,  
@@ -13650,7 +13501,7 @@ These feet the paths of duty trod
 If from-the halls of ease they fled  
 To seek affliction&#x27;s humble shed ;  
 If grandeurs guilty bribe they spurned,  
-And home to virtue&#x27;s
+And home to virtue&#x27;s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879233:1886060201:0201/pct:8.560127,16.319018,17.215190,28.527607/!600,600/0/default.jpg"/>
 </td>
@@ -13674,7 +13525,7 @@ And home to virtue&#x27;s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-at eye shall be forever bright.  
+t eye shall be forever bright.  
 When stars and suns are sunk in night.  
 Within this hollow cavern hang  
 The ready, swift and tuneful tongue.  
@@ -13699,7 +13550,7 @@ To seek affection&#x27;s hutable shed.
 If grandeur&#x27;s gutlty bribe they sparned,  
 And home to virtue&#x27;s tot returned,  
 The se feet with angel&#x27;s wings shall vie  
-And tread the palace of the sk
+And tread the palace of the sky
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:0027952410A:1888101601:0175/pct:37.619625,18.676864,10.450645,8.719555/!600,600/0/default.jpg"/>
 </td>
@@ -13773,7 +13624,6 @@ And tread the palace of the sk
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Behold this rain; &#x27;twas a skull  
 Once of ethereal spirit full;  
 This narrow cell was life&#x27;s retreat.  
@@ -13798,7 +13648,7 @@ If bold in virtue&#x27;s cause it spoke,
 Yet gentle concord never broke,  
 That tuneful tongue shall plead for thee  
 When death unveils eternity.&quot;  
-The above sad thoug
+The above sad though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:00200298408:1890050401:0432/pct:39.886238,52.045710,11.237514,10.713193/!600,600/0/default.jpg"/>
 </td>
@@ -13812,7 +13662,6 @@ The above sad thoug
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Behold this ruin; &#x27;twas a skull  
 Once of ethereal spirit full;  
 This narrow cell was life&#x27;s retreat,  
@@ -13837,7 +13686,7 @@ If bold in virtue&#x27;s cause it spoke,
 Yet gentle concord never broke,  
 That tuneful tongue shall plead for thee  
 When death anveils eternity.&quot;  
-The above sad thoug
+The above sad though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199033:1890050601:0210/pct:48.108280,71.209720,11.436617,10.350414/!600,600/0/default.jpg"/>
 </td>
@@ -13851,7 +13700,6 @@ The above sad thoug
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot; Ilohold 1 1) is ruin: &#x27;twas a skull  
 Once of ellien til spirit full;  
 This narrow coll was life&#x27;s retreat,  
@@ -13875,7 +13723,7 @@ And where it could not praiso wtu chained;
 If bold In virtue&#x27;s eauso It ipoke,  
 Yet gentle concord never broke,  
 That tuneful tongue shall plead for thee  
-When death uiiu&#x27;ils i lernlt
+When death uiiu&#x27;ils i lernlty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_papa_2_ver01%2Fdata%2Fsn93051670%2F00033877420%2F1890050801%2F0675.jp2/pct:51.814195,44.956020,13.556619,9.813084/!600,600/0/default.jpg"/>
 </td>
@@ -13889,7 +13737,6 @@ When death uiiu&#x27;ils i lernlt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Behold this ruin; &#x27;twas a skull  
 Once of ethereal spirft full;  
 This narrow cell was life&#x27;s retreat,  
@@ -13917,7 +13764,7 @@ Yet gentle concord
 That tuneful tongue shall plesd for thee  
 When death anvells eternity.&quot;  
   
-The above sad thoug
+The above sad though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199033:1890050801:0233/pct:53.435743,76.364276,11.470763,10.450070/!600,600/0/default.jpg"/>
 </td>
@@ -13931,7 +13778,7 @@ The above sad thoug
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- here.&quot;  
+here.&quot;  
 But. start not at the dismal void,  
 if social love that eye emplo ed ;  
 If with no lawless fires it gleamed,  
@@ -13946,7 +13793,7 @@ If bold in virtue&#x27;s cause it spoke,
 Yet gentle concord never broke;  
 That tuneful tongue shall plead for thee  
 When death \
-ils eternit
+ils eternity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_eliot_ver01:data:sn84022135:00295869240:1890050901:0012/pct:53.241525,40.803030,11.716102,6.348485/!600,600/0/default.jpg"/>
 </td>
@@ -13960,7 +13807,6 @@ ils eternit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-]  
 “ Behold tnis ruin; ’twas a skull  
 Once of etherial spirit fu’l;  
 This narrow cell was life’s retreat,  
@@ -13985,7 +13831,7 @@ if bold in virtue’s cau.-e it spoke,
 Yet gentle concord never broke;  
 That tuneful tongue shall plead for thee  
 When death unveils eternity.”  
-The above sad thoug
+The above sad though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:00202199756:1890050901:0427/pct:56.995697,38.936502,11.435650,9.476042/!600,600/0/default.jpg"/>
 </td>
@@ -13999,7 +13845,7 @@ The above sad thoug
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- J  
+J  
 &quot; Heboid this rain: &#x27;twas a skull  
 Once of etliorlal spirit fall:  
 Tina narrow cell was Hle&#x27;s retreat,  
@@ -14024,7 +13870,7 @@ If bold In virtue&#x27;s cause It spoke,
 Yet aentle concord never broke;  
 That tuneful tongue shall plead for thee  
 W hen death unveils eternity.&quot;  
-The above and thoug
+The above and though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_elk_ver01%2Fdata%2Fsn84022653%2F00000000022%2F1890051001%2F0114.jp2/pct:55.059022,38.595536,11.909781,10.043549/!600,600/0/default.jpg"/>
 </td>
@@ -14038,8 +13884,6 @@ The above and thoug
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Behold this ruin! ‘Twas a skull  
   
 Once of ethereal spi: it ful’,  
@@ -14076,7 +13920,7 @@ If bold in virtue’s cause it spoke,
 And gentle concord never broke,  
   
 That silent tongue sball plead for thee  
-When time unveils 
+When time unveils e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-night_1891-01-31_4_10%2Fsim_saturday-night_1891-01-31_4_10_jp2.zip%2Fsim_saturday-night_1891-01-31_4_10_jp2%2Fsim_saturday-night_1891-01-31_4_10_0000.jp2/pct:77.045455,69.915944,11.553030,12.771150/,600/0/default.jpg"/>
 </td>
@@ -14090,7 +13934,6 @@ When time unveils
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Behold this ruin ! ‘tis a skull,  
 Once with etherial spirit full :  
 This narrow cell was life’s retreat ;  
@@ -14154,7 +13997,8 @@ To soothe sffliction’s humble bed ;
 If grandeur’s guilty bribe they spurn’d,  
 And home to virtue’s lap return’d ;—  
 These feet with angel&#x27;s wings shall vie,  
-And tread the palace of the sky !
+And tread the palace of the sky !  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_notes-and-queries_1891-12-19_12_312%2Fsim_notes-and-queries_1891-12-19_12_312_jp2.zip%2Fsim_notes-and-queries_1891-12-19_12_312_jp2%2Fsim_notes-and-queries_1891-12-19_12_312_0000.jp2/pct:52.456897,72.597403,29.008621,18.538961/600,/0/default.jpg"/>
 </td>
@@ -14168,7 +14012,7 @@ And tread the palace of the sky !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- low to mem.  
+low to mem.  
 But if the page of truth th.y sought,  
 Or oomf ort to the mourner brought.  
   
@@ -14182,7 +14026,8 @@ If grandeur&#x27;s guilty bribe they spurned,
   
 Ana nome to virtues cot returned,  
 These feet with angel&#x27;s wings snail vie,  
-And tread the mansions of th. sky.
+And tread the mansions of th. sky.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764091:1893052301:0488/pct:54.206444,54.898628,7.726730,3.824208/!600,600/0/default.jpg"/>
 </td>
@@ -14196,7 +14041,6 @@ And tread the mansions of th. sky.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Behold this ruin; &#x27;twas a skull  
 Once of etheral spirit full;  
 This nagrow cell was life&#x27;s-retreat,  
@@ -14225,7 +14069,7 @@ If bold in virtue&#x27;s cause it spoke,
 Yet gentle concord never broke,  
 That tuneful tongue shall plead for  
 thee  
-When death unveils eternit
+When death unveils eternity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668119:1893081501:0112/pct:18.432593,40.094292,12.618475,14.103722/!600,600/0/default.jpg"/>
 </td>
@@ -14239,7 +14083,7 @@ When death unveils eternit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.I  
+I  
 &quot;Hahold this ruint &#x27;twas a skull  
 Once of etheral spirit full;  
 This aarrow cell was life&#x27;s retreat,  
@@ -14267,7 +14111,7 @@ If bold in virtue&#x27;s cause it spoke,
 Yet gentle concord never broke,  
 That tuneful tongue shall plead for  
 thee  
-When death unveils eternit
+When death unveils eternity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668119:1893081701:0127/pct:29.652865,7.726137,12.505228,14.682659/!600,600/0/default.jpg"/>
 </td>
@@ -14281,7 +14125,6 @@ When death unveils eternit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 Behold this ruin; &#x27;twas a skull  
 Once of etheral spirit full;  
 This narrow cell was life&#x27;s retreat,  
@@ -14309,7 +14152,7 @@ If bold in virtue&#x27;s cause it spoke.
 Yet gentle concord never broke,  
 That tuneful tongue shall plead for  
 thee  
-When death unveils eternit
+When death unveils eternity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668119:1893081801:0138/pct:44.673684,16.341829,12.407018,14.082959/!600,600/0/default.jpg"/>
 </td>
@@ -14323,7 +14166,6 @@ When death unveils eternit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-)  
 &quot;Hehold this ruin; &#x27;twas a skull  
 Once of etheral spirit full;  
 This narrow cell was life&#x27;s retreat,  
@@ -14353,7 +14195,7 @@ Yet gentle concord never broke,
 That tuneful tongue shall plead for  
 thee  
 When death unveils etcrnity.  
-The above sad
+The above sad,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668119:1893081901:0144/pct:43.848365,16.049636,12.097988,15.229207/!600,600/0/default.jpg"/>
 </td>
@@ -14367,7 +14209,6 @@ The above sad
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-)  
 &quot; Behold this ruin; &#x27;twas a skull  
 Once ot ethereal spirit full;  
 This narrow cell was life&#x27;s retreat,  
@@ -14395,7 +14236,7 @@ If bold in virtue&#x27;s cause it spoke,
 Yet gentle concord never broke,  
 That tuneful tongue shall plead for thee  
 When death unveils eternity.&quot;  
-The above sad thoug
+The above sad though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:0020029113A:1895091301:0365/pct:28.442610,42.463495,10.408070,11.658031/!600,600/0/default.jpg"/>
 </td>
@@ -14419,7 +14260,6 @@ The above sad thoug
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:   
 &quot;Behold this ruin! Twas a skull  
 Once of etereul spirit full!   
 This narrow cell was life’s retreat:  
@@ -14460,7 +14300,7 @@ To soothe atliietion&#x27;s humble bed;
 If grandeur’s guilty bribe they spurned.  
 And home to virtue&#x27;s lap return. &lt;1;  
 This** feet with angel wings vie.  
-And tread the palace ot the sky!”
+And tread the palace ot the sky!” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1897022201:0578/pct:70.492333,70.772704,12.881356,16.507777/!600,600/0/default.jpg"/>
 </td>
@@ -14494,8 +14334,6 @@ And tread the palace ot the sky!”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Behold this ruin! &#x27;twas a skull  
   
 Once of ethereal spirit full;  
@@ -14535,7 +14373,7 @@ If falsehood&#x27;s honey it disdained.
 And where it could not praise was  
   
 chained;  
-If bold i
+If bold in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshCit28n_ver01%2Fdata%2F1899091101%2F0564.jp2/pct:51.162791,22.621513,11.419201,10.305762/!600,600/0/default.jpg"/>
 </td>

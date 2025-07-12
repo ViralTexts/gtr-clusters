@@ -1,7 +1,7 @@
 
 # From _Odd Fellow_
 
-### 145 reprints from 1841-12-04 to 1846-07-20
+### 141 reprints from 1841-12-04 to 1846-07-20
 
 ## [From _Odd Fellow_](https://go-gale-com.ezproxy.lib.ryerson.ca/ps/i.do?p=BNCN&u=rpu_main&id=GALE|BA3205300564&v=2.1&it=r&sid=bookmark-BNCN&asid=5cb842e5.)
 
@@ -118,6 +118,16 @@ PERRY’S PURIFYING SPECIFIC PILLS, price 2s, 9d., 4s. 6d., and 11s. per box, ar
 #### From _Derby Mercury_
 
 #### 1842-01-26 &middot; [Derby, England](http://dbpedia.org/resource/Derby)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
+#### From _Odd Fellow_
+
+#### 1842-01-29 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -815,26 +825,6 @@ PERRY’S PURIFYING SPECIFIC PILLS, price 2s, 9d., 4s. 6d., and 11s. per box, ar
 
 ## Advertisements & Notices
 
-#### From _Freeman's Journal_
-
-#### 1842-10-29 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Odd Fellow_
-
-#### 1842-10-29 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Odd Fellow_
 
 #### 1842-10-29 &middot; [London, England](http://dbpedia.org/resource/London)
@@ -855,29 +845,9 @@ PERRY’S PURIFYING SPECIFIC PILLS, price 2s, 9d., 4s. 6d., and 11s. per box, ar
 
 ## Advertisements & Notices
 
-#### From _Odd Fellow_
-
-#### 1842-11-05 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Derby Mercury_
 
 #### 1842-11-09 &middot; [Derby, England](http://dbpedia.org/resource/Derby)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Odd Fellow_
-
-#### 1842-11-12 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -948,16 +918,6 @@ PERRY’S PURIFYING SPECIFIC PILLS, price 2s, 9d., 4s. 6d., and 11s. per box, ar
 #### From _Northern Star_
 
 #### 1843-01-21 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Freeman's Journal_
-
-#### 1843-02-13 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 

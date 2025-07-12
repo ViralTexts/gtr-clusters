@@ -1,7 +1,7 @@
 
 # A Singular Vegetable Skeleton
 
-### 92 reprints from 1860-11-13 to 1877-09-23
+### 91 reprints from 1860-11-13 to 1877-09-23
 
 ## [A Singular Vegetable Skeleton](http://chroniclingamerica.loc.gov/lccn/sn85025007/1860-11-20/ed-1/seq-4/)
 
@@ -23,7 +23,7 @@ A SINGULAR VEGETABLE SKELETON.—A singular story is told of an apple tree plant
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: ya ut tha pte Loran  
+ya ut tha pte Loran  
 24 the part occupied by the knee joint,  
 thus producing an increased resemblance to the  
 of the eke leton of Roger Williams, us if, outlines  
@@ -31,7 +31,7 @@ thereto by the powers of vegetable life, This
 ly-formed root has been carefully ed, ns  
 wing v7 remo sebum he mode  
 whie Vo :  
-abeorbed, io been entirel
+abeorbed, io been entirely
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver02:data:sn83030213:00206530662:1860111301:0520/pct:83.093466,7.667807,15.483871,5.178719/!600,600/0/default.jpg"/>
 </td>
@@ -45,17 +45,6 @@ abeorbed, io been entirel
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lla at resides at the  
-corner of Fifth avenue and Eighth street, ’a fle matrimonial  
-proposition is said to have been made at as&#x27;  
-The Mayor, it appears, instilled into the young. JS£K ’ 0 Slx eea  
-a portion of his own wild,, ambitious spirit; and, wi!&amp; 0  
-undoubtedly, of being, at some future day, the Wife o®. fGa&#x27;  
-ident, Governor, foreign Embassador, or something K ,  
-eminent sort, she gracefully yielded, and accepted the May\ 8  
-band. He agrees also, according to the report, to settle slooskV  
-upon the lady the day previous to his marriage- This will be?  
-the third wife of his Excellency.”  
 A curious story is told of an apple tree  
 planted over the grave of Roger Williams. This tree- had  
 pushed downward one of its main roots in a sloping direction*  
@@ -72,9 +61,9 @@ indeed, molted thereto by the powers of vegetable life. This
 singularly formed root has been carefully preserved, as consti­  
 tuting a very impressive exemplification of the mode in which  
 the contents of the grave have been entirely absorbed.  
-Rerger and B
+Rerger and Bi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860111701:0004/pct:81.080605,8.681470,12.548398,10.500565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860111701:0004/pct:81.080605,12.808932,12.266807,6.373102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +75,7 @@ Rerger and B
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. This  
+This  
 tree had pushed downwards one of its main  
 roots in a sloping direction ana nearly  
 Btraight course towards the precise spot tbat  
@@ -107,7 +96,7 @@ life. This singularly formed root has been
 carefully preserved, as constituting a very  
 impressive exemplification of the mode in  
 which the contents of the grave had been en  
-tirely absorbed&#x27;. Apparently not sated wit
+tirely absorbed&#x27;. Apparently not sated with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860112001:0486/pct:28.068060,41.024822,11.039657,11.558538/!600,600/0/default.jpg"/>
 </td>
@@ -121,21 +110,6 @@ tirely absorbed&#x27;. Apparently not sated wit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the preacher as he^ offered up  
-a prayer. While in the midst of it, one of  
-company discovered &quot;the color&quot; in the earth  
-at his teet, thrown up to make room for the  
-remains of the deceased. In a loud whisper  
-he communicated the rather exciting intelli­  
-gence to his companion. All heard it, even  
-the clergymen, who, suspending his prayer,  
-opened his eyes to see the auditory scatter in  
-every direction to stake off gold claims. Cal­  
-ling in a loud voice to stake him off a  
-&quot;claim,&quot; he reclosed his eyes, hastily conclu­  
-ded his prayer, and started off on a run to  
-join his fellows in securing a claim.  
-  
 A Singular Vegetable Skeleton.?A  
 singular .story is told of an apple tree plant­  
 ed over the grave of Riger Williams. This  
@@ -155,28 +129,9 @@ the knee joint, thus producing an increased
 resemblance to the outlines of the skeleton of  
 Koger Williams, as if. iudeed, moulded there­  
 to by the powers of vegetable life.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860112001:0074/pct:2.843834,62.019021,14.121108,18.043801/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Daily Louisville Democrat._](https://archive.org/details/xt79zw18mg1x/page/n0/mode/1up?view=theater)
-
-#### 1860-11-20 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-adieu to treachery aud deceit ; to misplaced scatter in every direction to slake off gold  
-  
-affection; to wealth procured by the batetl claims. . Calling in a loud voice to tliem to  
-means, and again be seated in the chamber stake him oft a claim, he reclosed his eyes,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt79zw18mg1x%2Fxt79zw18mg1x_jp2.zip%2Fxt79zw18mg1x_jp2%2Fxt79zw18mg1x_0000.jp2/pct:44.419933,59.443967,19.893589,1.156014/600,/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860112001:0074/pct:2.843834,69.531454,14.121108,10.531367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,24 +143,6 @@ means, and again be seated in the chamber stake him oft a claim, he reclosed his
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- belt, a whip  
-in his hand, and a burnous thrown over his  
-shoulders, and you have the Sicilian Priest  
-Padre Santaleone. He is preaching about  
-the revolution, and love to Garibaldi, and  
-Victor Emanuel, and to Maria Santissima,  
-and he reminde them that Liberty and relig-­  
-ion are not incompatible with one another,  
-and then he winds up with &quot;Viva Garibaldi.&quot;  
-&quot;Viva Vittorio Emmanuelli,&quot; &quot;Viva Maria  
-whish last  
-  
-a oeo o oio i  o e e o e oe e o  
-the sufferers in Kansas. Gena Pomeroy suysthine Calf Bouts,-to be elosed outimmediately,  
-No.  Eetes House. ep  
-that three things are specially needed. Ist,  
-  
-ld  
   
 A singular story is told of an apple  
 tree planted over the grave of Roger Wile­  
@@ -235,9 +172,10 @@ entirely absorbed.
   
 A  
   
-LA BLONDIN.  The
+LA BLONDIN.  The  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1860112301:0020/pct:4.713709,42.658508,30.273224,35.753867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1860112301:0020/pct:4.856260,65.381608,15.138988,13.030767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,11 +187,7 @@ LA BLONDIN.  The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it is supposed will follow  
-this plan, as a prudential measure, during the  
-present pressure.  
-  
-Rocer Remwains.—A singular  
+Remwains.—A singular  
 story is told of an apple tree planted over the  
 grave of Roger Williams. This tree had push-  
 ed downward one of its main roots in asluping  
@@ -277,9 +211,9 @@ pressive exemplification of the mcde in which
 the contents of the grave have been entirely  
 absorbed.  
   
-Intr
+Intrn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1860-11-24_30_47%2Fsim_presbyterian_the-presbyterian_1860-11-24_30_47_jp2.zip%2Fsim_presbyterian_the-presbyterian_1860-11-24_30_47_jp2%2Fsim_presbyterian_the-presbyterian_1860-11-24_30_47_0002.jp2/pct:37.870766,43.016215,10.531352,11.304392/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1860-11-24_30_47%2Fsim_presbyterian_the-presbyterian_1860-11-24_30_47_jp2.zip%2Fsim_presbyterian_the-presbyterian_1860-11-24_30_47_jp2%2Fsim_presbyterian_the-presbyterian_1860-11-24_30_47_0002.jp2/pct:37.870766,44.458128,10.531352,9.862479/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,27 +225,7 @@ Intr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-acy of slavery,  
-as has been the case for the last six years.  
-Freedom will henceforth be the law of the  
-territories, because the people in their ma-  
-toS BaV os andwalsbyossss  
-sstess sesstss saiariwUiit  
-iswaeites  
- astlaesteeae l  
-poss of demagogues who lave mis  
-represented its objects, shall have been re-  
-moved by actual knowledge of its acts,  
-ass saesasesisaau  
-eseraleet the bitterness ofparty  
-pirit to subside, the cry of disunion to be  
- e  
-hushed, and the principles of Republican-  
-ism to become the permanent policy of the  
-govermmens, under which it will hiourish  
-ad prosper, as I trust, forever.  
-  
- A singular story is told of an ap  
+A singular story is told of an ap  
 ple tree planted over the grave of Roger  
 estienand nearly straigut course, toward  
 the precise spot that had been occupied by  
@@ -346,9 +260,9 @@ hel the sonsaaee af a seas a
 which the contents of the grave have been  
 entirely absorbed.  
   
-From Washingto
+From Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294567:1860112901:0069/pct:18.776025,11.485967,21.955836,84.294502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294567:1860112901:0069/pct:18.826498,11.485967,21.905363,84.294502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,19 +294,6 @@ From Washingto
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of foolscap or letter paper,  
-roll it up so that the opening at one end shall &#x27;  
-he large enough to take in the full size of the  
-eve, and at the other end let the opening be 1  
-i not half as large. Take it in tlie right hand, j  
-| holding it between the thumb and tlie lorefin- !  
-! ger ; place the large end to tlie right eye and  
-! look through it with both eyes open to the  
-! light. 1 ~ou trill see a hole through your hand !  
-If you take it in your left hand it will be tlie 1  
-! same. You will in both cases&#x27;be astonished to  
-! see that you have a hole i:i your hand. The  
-| allusion is most complete.&quot;  
 j A SINGULAR STORY is told of an apple tree  
 planted over the grave of Roger Williams.—  
 This tree had pushed downward one of its I  
@@ -415,9 +316,9 @@ ed root has been carefully preserved, -as con­
 stituting a very impressive exemplification of  
 the mode in which the contents of the grave  
 have been entirely absorbed.  
-NEATI.Y
+NEATI.Y 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860120601:0515/pct:45.856264,55.697688,15.619942,22.098345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860120601:0515/pct:45.856264,63.830536,15.587569,13.965497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +330,6 @@ NEATI.Y
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 plete with every Htate aud indisputably so  
 with Texas that the right to determine  
 upon the expediency of taking such a step  
@@ -441,7 +341,7 @@ last session of tbe Io gislature they an enti outlimw of the skeleton of Roger W
 erentativea This M »t ind cd inouldt d thereto by tte powers  
 tied to Senators and Re ir«ae    ____ __  
 method of proceeding will secure conrert of vegetable life This singularly foi  
-action between tte State Government and    been carefully preserved a
+action between tte State Government and    been carefully preserved as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth852613/m1/2/pct:39.866667,78.078556,40.866667,14.808917/!600,600/0/default.jpg"/>
 </td>
@@ -455,7 +355,7 @@ action between tte State Government and    been carefully preserved a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and honor of North  
+and honor of North  
 Carolina demand immediate secession on her part,&quot;  
 are requested to meet at the Court House in Eliza.,  
 bethtown on the last Saturday, (29th inst) in Decem­  
@@ -473,7 +373,7 @@ knee joint, and the entire root, thus following the
 source of its nourishment from the phosphates of the  
 bones, presented a singular resemblance to the skele­  
 ton itself, and has been preserved as a curiosity.  
-Ernst th
+Ernst the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW6n_ver01%2Fdata%2F1860121901%2F0578.jp2/pct:36.877343,31.788739,15.452598,10.712506/!600,600/0/default.jpg"/>
 </td>
@@ -487,20 +387,6 @@ Ernst th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-The day and Thursday of next week be set  
-Secretary, with the approbation of the apart for Territorial business, aggreed to,  
-President, is authorized to cause such porThe House of Representatives  
-tion of the resury notes as a bea e ae eo  a ot of  
-deemed expedient to be issued in paymentorecoein the ee of a  
-of warrants in favor of the public crediat a in oni i te onitton  
-tors or other persons lawfully entitled toan a o oe  
-payment who may choose to receive said! On motion of Mr Grow, Wednesday  
-  
-and Thursday were set apart for the con-­  
-sideration of Territorial business.  
-  
-ROGER WILLIAMs REMAINs.  
-  
 A singular story is told of an apple  
 tree planted over the grave of Roger Wil  
   
@@ -515,9 +401,9 @@ e e  a ete aeo e i a avinsever
 favor resistance in some manne  
 Montgoer ertise eea o a e  o oa e  
 lished a presentment of the grand jury of precise spot that had been occupied by  
-the
+the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860122201:0487/pct:44.833221,56.341247,27.389002,10.194236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860122201:0487/pct:44.838855,62.621133,27.383367,3.914350/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,8 +415,6 @@ the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 one of its main roots in a sloping direc be furn he by  
   
 the skutl  
@@ -551,7 +435,8 @@ mediat ly taken.
 the roots formed a slight crook at the part  
   
 occupied by the knee joint, thus producing  
-an increased resemblance to the outlines
+an increased resemblance to the outlines  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860122201:0487/pct:44.861393,64.453472,27.822853,8.146079/!600,600/0/default.jpg"/>
 </td>
@@ -565,13 +450,12 @@ an increased resemblance to the outlines
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 of the mode in which the contents of the  
   
 grave have been entirely absorbed.  
   
 LosT A HushaNd ANd GAINed A  
-TuNE.
+TuNE. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860122201:0487/pct:56.964165,75.807202,11.674555,2.716770/!600,600/0/default.jpg"/>
 </td>
@@ -585,15 +469,14 @@ TuNE.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Williams. There,  
   
 making a turn conforming with its cir-­  
 cumference, the root followed the direc-  
   
 tion of the back bone to the hips, and  
-thence divided into two branches each one
+thence divided into two branches each one  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860122201:0487/pct:56.964165,66.146164,11.708362,2.856417/!600,600/0/default.jpg"/>
 </td>
@@ -607,7 +490,7 @@ thence divided into two branches each one
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s.  
+.  
   
 Roger Williams&#x27; grave at Provi-­  
 dence has a tree upon it which was  
@@ -627,7 +510,7 @@ bones, presented a singular resem-­
 blance to the skeleton itself, and has  
 been preserved as a curiosity.  
   
-W
+We
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1860122701:0841/pct:46.735541,79.776718,10.071705,11.869597/!600,600/0/default.jpg"/>
 </td>
@@ -641,7 +524,7 @@ W
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 20.  
+20.  
   
 Roger Williams’ grave at Providence  
 has a tree upon it which was planted years  
@@ -658,6 +541,7 @@ ment from the pospbates of the bones, pre­
 senting a singular resemblance to the skel­  
 eton itself, and has been preserved es a cu­  
 riosity.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860122801:0606/pct:61.388286,79.699851,14.843508,12.842250/!600,600/0/default.jpg"/>
@@ -672,20 +556,6 @@ riosity.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-use of the particular  
-district in which such moneys have been collected.  
-Sec, 32. This act shall be in force on and after  
-the first day of December, a. u. one thousand eight  
-hundred and sixty.  
-Sec. 33. In case a vacancy shall occur in any  
-of the boards of road commissioners in said coun­  
-ty, the board of supervisors shall appoint some  
-competent person or persons to lilt such vacancy  
-for the balance ot the unexpired term and until  
-his or their successor or successors arc elected  
-and qualified, and such person or persons so ap­  
-pointed shall in all cases comply with the provi­  
-sions of this act.  
 A singular story is told of an apple treo  
 planted over the grave of Roger Williams.  
 This ire.- had pushed downward one of its  
@@ -709,9 +579,9 @@ served, as constistiluting a very impressible
 exemplification of tbe mode in which the  
 contents of the grave have been entirely ab­  
 sorbed.  
-Pres
+Prese
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860122901:0426/pct:47.227323,48.014392,14.836577,21.561834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860122901:0426/pct:47.227323,55.063966,14.836577,14.512260/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +593,7 @@ Pres
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A singular story is  
+A singular story is  
 told of on apple Ireo planted over Ihe grave  
 of Kogor Williams. This tree find pushed  
 downward ono of its main roots in n sloping  
@@ -749,7 +619,7 @@ This sigularly funned root has boon care­
 fully preserved, as constituting a very im­  
 pressive exemplification of tho modo in  
 which thn contents of tho gravo haro been  
-entirely absorbod
+entirely absorbod.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861010401:0440/pct:16.389728,27.593691,13.349698,16.784836/!600,600/0/default.jpg"/>
 </td>
@@ -763,7 +633,7 @@ entirely absorbod
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The roots of a tree  
+The roots of a tree  
 lanted over the grave of Roger William  
 are sard to have followed the direction of  
 the hackhoue of the skeleton and thenes  
@@ -777,7 +647,7 @@ following the source of its nourishmen
 from the phosphates of the bones, prese­  
 ted a singnlar resemblance to the skele  
 its elf, and has been preserved as a curiosi­  
-ty
+ty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_karma_ver01:data:sn85038570:00280761795:1861010501:0094/pct:84.889333,67.158626,13.446497,8.508000/!600,600/0/default.jpg"/>
 </td>
@@ -791,8 +661,6 @@ ty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Singular Story.  
 A singular story is (old of an apple-1  
 tree planted over the grave of Roger |  
@@ -819,7 +687,7 @@ carefully preserved, as constituting a i
 very impressive exemplification cf the  
 mode in which tho contents of tho grave,  
 have been entirely absorbed.  
-Indian
+Indians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861021401:0427/pct:70.939227,33.606442,11.565378,14.295804/!600,600/0/default.jpg"/>
 </td>
@@ -833,8 +701,6 @@ Indian
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A singular story is totd of an apple  
 tree planted over the grave of Roger Wil-  
 Hams. This tree had passed downward  
@@ -859,7 +725,8 @@ formed root has been carefully preserved,
 as constituting a very impressive exem­  
 plification of the mode in which the con­  
 tents of the grave have be.-n entirely ab­  
-sorbed.
+sorbed.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001970%2F1861022701%2F0036.jp2/pct:6.063063,61.549645,12.049550,12.968085/!600,600/0/default.jpg"/>
 </td>
@@ -873,7 +740,7 @@ sorbed.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The root of a tree,  
+The root of a tree,  
 planted over the grave of Roger Williams, are  
 asid to have loiiowea tne direction ot in oaci  
 bona of the skeleton, aad thenee divided into  
@@ -885,7 +752,7 @@ pied by tha knee joint, and the entire root, thus
 following the. sou roe or it nourishment from tne  
 phosphates of the bone, presented a singular re  
 semblance to toe sseietoa lueir, ana uaa peen  
-preserved. a cunostiyj .
+preserved. a cunostiyj . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCAWade1n_ver01%2Fdata%2F1861030701%2F0848.jp2/pct:36.504777,11.849245,14.390924,7.347118/!600,600/0/default.jpg"/>
 </td>
@@ -899,7 +766,7 @@ preserved. a cunostiyj .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: A sintilur Rtorj is told uf  
+A sintilur Rtorj is told uf  
 the apple tree planted over the pruvi-of  
 Roger Williams. This trco Imd pushed  
 downward one of its mnin roots in a slop­  
@@ -923,7 +790,7 @@ Carefully preserved, as constituting a very
 Impressive exemplification of the mode in  
 &quot;liich the contents of the grave have been  
 entirely absorbed.  
-Grea
+Great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1861031601%2F1262.jp2/pct:1.815642,57.915113,13.919926,16.030972/!600,600/0/default.jpg"/>
 </td>
@@ -937,7 +804,6 @@ Grea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Singular Story —A singular story is  
 told of the apple tree planted over the grave  
 of Roger Williams. This tree had pushed  
@@ -961,7 +827,7 @@ formed root has been carefully preserved, as
 constituting a very impressive exemplifica­  
 tion of the mode in which the contents of  
 the grave have been entirely absorbed.—  
-Providenc
+Providence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1861032301:0555/pct:3.554289,43.468468,14.352130,12.408837/!600,600/0/default.jpg"/>
 </td>
@@ -975,7 +841,7 @@ Providenc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--A story is told of  
+A story is told of  
 an apple tree planted over the grave of  
 Roger Williams to this effect: The tree had  
 pushed downward one of its main roots  
@@ -998,7 +864,8 @@ ble life. This singularly formed root has
 been carefully praserved, as constituting  
 a very impressive exemplincation of the  
 mode in which the contents of the grave  
-had been entirely absorbed.
+had been entirely absorbed.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861040401:0252/pct:71.540565,82.723464,12.379216,12.946927/!600,600/0/default.jpg"/>
 </td>
@@ -1012,26 +879,7 @@ had been entirely absorbed.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ey in fine  
-clothes and do not wear them with dig  
-nity and ease it is as if a plowman were  
-to sit at a jeweler&#x27;s table to make an  
-adjust hairsprings  
-If you invest your money in Atrong  
-drink, it is the same as turning hungry  
-hogs into a growing cornfield--toin wil  
-follow in both ensus  
-If you invest your moncy in every  
-new wonder that flaming circulars pro  
-claim, it is the same as bnying tickets  
-at a lottery office, when there ae ten  
-blanks to one prize.  
-If you invest your moncy in the &quot;last  
-novel,&quot; it is the same as employing a  
-tailor&#x27;s dandy to dig your potatoes  
-Falley FarMer  
-  
-A SINOTLAR SrORY.-A singular story  
+A singular story  
 is told of an apple tree planted over the  
 grave of Roger Williams. This tree had  
 pushed downward one of its main roots  
@@ -1055,9 +903,10 @@ table life. This singular formed root
 has been carefully preserved, as consti­  
 tuting a very impressive exemplification  
 of the mode in which the contents of the  
-rave have been entirely absorbed.
+rave have been entirely absorbed.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1861041301:1152/pct:27.717027,46.445725,13.216916,22.370317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1861041301:1152/pct:27.717027,55.955812,13.216916,12.860231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +918,7 @@ rave have been entirely absorbed.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—A story is told of an  
+A story is told of an  
 apple tree planted over the grave of Roger  
 Williams to this effect: The tree had pushed  
 downward one of its main roots in a sloping  
@@ -1085,7 +934,7 @@ ward to the extremities of the toes of the
 skeleton. One of the roots formed a curve at  
 the part occupied by the knee joint, thus  
 producing an increased resemblance to the  
-outlines of the skeleton as i
+outlines of the skeleton as if
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556665:1862092701:0245/pct:61.136488,65.632965,12.570802,8.382894/!600,600/0/default.jpg"/>
 </td>
@@ -1099,7 +948,7 @@ outlines of the skeleton as i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Honthly.  
+Honthly.  
 Freak oF NATeRE. A story is told  
 of an apple tree planted over the grave  
 of Roger Williams to this effect: The  
@@ -1122,7 +971,7 @@ curve at the part occupied by the knee-
 joint, thus producing an increased re-  
   
 blacks, and the ignorance of mental  
-slavery of six millions of white me
+slavery of six millions of white men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1864031801:0002/pct:40.547264,65.682707,51.403696,19.099609/!600,600/0/default.jpg"/>
 </td>
@@ -1136,7 +985,7 @@ slavery of six millions of white me
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A story is told  
+A story is told  
 I main roots in  
 sloping direction, and  
 nearly straight course, toward the precise  
@@ -1157,7 +1006,7 @@ of vegetable life. This singularly form­
 ed root has been carefully preserved, as  
 constituting a very impressive exemplifi­  
 cation of the mode in which the contents  
-of the grave had been entirely absorbed
+of the grave had been entirely absorbed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1864041501:0684/pct:20.476003,79.753296,12.391817,14.802212/!600,600/0/default.jpg"/>
 </td>
@@ -1171,7 +1020,7 @@ of the grave had been entirely absorbed
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- HOTMAN.&quot;  
+HOTMAN.&quot;  
 Freak or Nature. A story is told  
 of an apple tree planted over the grave  
 of Roger Williams to this effect : The  
@@ -1197,7 +1046,8 @@ ularly formed root has been carefully
 preserved, as constituting a very im­  
 pressive exemplification of tbe mode  
 in which the contents of the grave had  
-been coti rely absorbed.
+been coti rely absorbed.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat26n_ver01%2Fdata%2F1865030201%2F0105.jp2/pct:76.724621,25.158228,11.609647,16.687764/!600,600/0/default.jpg"/>
 </td>
@@ -1211,8 +1061,6 @@ been coti rely absorbed.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 FREAK OF NATURE.—A story is told of an  
 apple tree planted over the grave of Roger  
 Williams to this effect: The tree had  
@@ -1236,7 +1084,8 @@ gularly formed root has been caretully pre­
 served, as constituting a very impressive  
 exemplification of the mode in which the  
 contents of the grave had been entirely ab­  
-sorbed.
+sorbed.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028654:1865091401:0345/pct:80.948806,73.131850,13.016064,12.100077/!600,600/0/default.jpg"/>
 </td>
@@ -1250,7 +1099,7 @@ sorbed.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d the lapse  
+ the lapse  
 of more than one hundred and eighty years.  
 Near the grave stood a venerable apple-tree,  
   
@@ -1267,7 +1116,7 @@ direction of the backbone to the hips. Here
 it divided into two branches, sending one along  
 each leg to the heel, where they both turned  
 upward to the toes. One of these roots formed  
-a slight crook at th
+a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37_jp2.zip%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37_jp2%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1866-10_26_37_0019.jp2/pct:17.405523,15.468147,69.622093,73.576255/,600/0/default.jpg"/>
 </td>
@@ -1291,8 +1140,6 @@ a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 are one of the principal fe.itiires of the  
   
 There arc four of them — the I’res- , to tl  
@@ -1303,7 +1150,7 @@ to the hips. Here it divided into two
 brniichc.&#x27;i, sending one along each leg to  
 the heel, where they both turned upwanl  
   
-cue iinother at stated interval.,. Th
+cue iinother at stated interval.,. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7gb56d4t1k%2Fxt7gb56d4t1k_jp2.zip%2Fxt7gb56d4t1k_jp2%2Fxt7gb56d4t1k_0000.jp2/pct:34.763889,35.140379,30.638889,2.442365/600,/0/default.jpg"/>
 </td>
@@ -1317,7 +1164,7 @@ cue iinother at stated interval.,. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the  
+Near the  
 grave stood a venerable apple tree, whan  
 and by whom planted is not known. Thi  
 tree had sent two of its main roots into the  
@@ -1332,7 +1179,7 @@ the hips. Here it divided into two branches,
 sending one along each leg to the heel,  
 where they both turned upward to the toes  
 One of these roots formed a slight crook at  
-th
+the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1866101301:0980/pct:62.111090,8.328331,10.956289,5.807323/!600,600/0/default.jpg"/>
 </td>
@@ -1346,7 +1193,7 @@ th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave stood a  
+Near the grave stood a  
 venerable apple tree, when and by whon  
 planted it Is not known. This tree had sent  
 two of its main roots Into the grave of Mr. and  
@@ -1359,7 +1206,7 @@ the backbone to the hips. Here It divided
 into two branches, sending one along each  
 leg to the heel, where they both turned up­  
 ward to the toes. One of these roots formed  
-a slight crook at th
+a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866101401:0003/pct:2.894384,36.311423,8.874832,4.674537/!600,600/0/default.jpg"/>
 </td>
@@ -1373,7 +1220,7 @@ a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave  
+Near the grave  
 stood a venerable apple tree, when  
 and by whom planted is not known. This  
 tree had sent two of its main roots into the  
@@ -1387,7 +1234,7 @@ bone to the hips. Here it divided into two
 branches, sending one along each leg to the  
 heel, where they both turned upward to  
 tbe toes. One v of these roots formed a slight  
-crook at th
+crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_dianaNemorensis_ver01%2Fdata%2Fsn84026016%2F000002124%2F1866101601%2F0059.jp2/pct:22.719473,33.701246,12.527095,6.189057/!600,600/0/default.jpg"/>
 </td>
@@ -1401,7 +1248,7 @@ crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave stood a venerable  
+Near the grave stood a venerable  
 apple tree, when and by whom planted is not  
 known. This tree had sent two of its main  
 roots in to the graves of Mr. and Mrs. Wil­  
@@ -1414,7 +1261,7 @@ bone to the hips. Here it divided into two
 brunches, sending one along each leg to the  
 heel, where they both turned upward to the  
 toes. One of these roots formed a slight  
-crook at th
+crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866101601:0360/pct:4.151404,25.179411,12.393162,6.557783/!600,600/0/default.jpg"/>
 </td>
@@ -1428,7 +1275,7 @@ crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave stood a venerable  
+Near the grave stood a venerable  
 apple tree, when and by whom planted is not  
 known.&#x27; This tree bad sent two of its main  
 roots in to the graves of Mr. and Mrs. Wil­  
@@ -1441,7 +1288,7 @@ bone to the hips. Here it divided into &#x27; two
 brunches, sending one along each leg to the  
 heel, where they both turned upward to the  
 toes. One of these roots formed a slight  
-crook at th
+crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1866101701:0170/pct:45.507084,25.969954,12.751678,6.557805/!600,600/0/default.jpg"/>
 </td>
@@ -1455,7 +1302,7 @@ crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e  
+e  
 the lapse of more than one hundred and  
 eighty years.  
   
@@ -1475,7 +1322,7 @@ the hips. Here it divided into two
 branches, sending one along each leg to  
 the heel, where they both turned upward  
 to the toes. One of these roots formed a  
-slight crook at th
+slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776336:1866101701:0298/pct:52.303120,15.429165,29.144555,77.680428/!600,600/0/default.jpg"/>
 </td>
@@ -1489,7 +1336,7 @@ slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near th grave  
+Near th grave  
 stood a venerable apple tree, when and by  
 whom planted is not known. This tree  
 had sent two of its main roots iuto th  
@@ -1503,7 +1350,7 @@ the hips. Here it divided into two branch
 es, sending one along each lag to the heel,  
 where they both turusd upward to the tosa.  
 On of these roots formed a slight crook at  
-ti e kne
+ti e kneo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775757:1866101901:0568/pct:56.325301,36.641929,12.349398,6.917572/!600,600/0/default.jpg"/>
 </td>
@@ -1517,7 +1364,6 @@ ti e kne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Near the grave stood a veuerable apple tree,  
 when and by whom planted is not known.  
 This tree had sent two of its main roots into  
@@ -1530,7 +1376,7 @@ ed the direction of the backbone to the hips.
 Here it divided into two branches, sending  
 one alone each leg to the heel, where they both  
 turned upward t j the toes. One of these roots  
-formed a slight crook at th
+formed a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348318:1866102001:0360/pct:3.169014,42.157601,14.374482,6.991110/!600,600/0/default.jpg"/>
 </td>
@@ -1544,7 +1390,7 @@ formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Nenr the grave stood a  
+Nenr the grave stood a  
 venerable appletree, wheu and by whom  
 planted is not known. This tree had  
 sent two of its main roots into the  
@@ -1559,7 +1405,7 @@ Here it divided into two branches,
 sending one along each leg to  
 the heel, where they both turned upward  
 to the toes.. One of these roots formed a  
-slight crook at th
+slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866102301:0793/pct:16.956162,64.749536,12.655087,7.763665/!600,600/0/default.jpg"/>
 </td>
@@ -1573,7 +1419,7 @@ slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave stood a venerable ap  
+Near the grave stood a venerable ap  
 ple tree, when and by whom planted is not  
 known. This tree had sent two of its main  
 roots in the graves of Mr. and Mrs. Williams.  
@@ -1585,7 +1431,7 @@ followed the direction of the backbone to the
 hips. Here it divided into two branches,  
 sending one along each leg to the heel,  
 where they both turned upward to the toes.  
-One of these roots formed a slight crook at th
+One of these roots formed a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn83016483:00212475166:1866102401:0700/pct:58.583760,21.954191,13.363171,6.737329/!600,600/0/default.jpg"/>
 </td>
@@ -1609,7 +1455,6 @@ One of these roots formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Near the grave stood a venerable apple  
 tree, when and by whom planted is not  
 kuown. This tree had sent two of its main  
@@ -1623,7 +1468,7 @@ of the backbone to the hips. Here it di­
 vided into two branches, sending one along  
 each leg to the heel, where they both  
 turned upward to the toes. One of these  
-roots formed a slight crook at th
+roots formed a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1866102601:0181/pct:3.498385,30.236032,11.468425,6.347309/!600,600/0/default.jpg"/>
 </td>
@@ -1637,7 +1482,6 @@ roots formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Near the grave stood a venerable apple-tree,  
 when and by whom planted it is not known. This  
 tree bad sent two of its main roots in the graves ot  
@@ -1650,7 +1494,7 @@ of the hack bone to the hips. Hero it divided
 into two branches, sonding one along each log  
 to the heel, where they both turned upward O&#x27;  
 the toes. One of tho roots formed a slight  
-crook at th
+crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866102601:0487/pct:73.109937,82.464515,11.224827,4.635096/!600,600/0/default.jpg"/>
 </td>
@@ -1664,7 +1508,7 @@ crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave stood a venerable  
+Near the grave stood a venerable  
 apple tree, when and by whom planted is not  
 known. This tree had sent two of its main roots  
 into the grawes of Mr. and Mrs. Williams. The  
@@ -1676,7 +1520,7 @@ tion of the backbone to the hips. Here it divided
 into two branches, sending one along each leg to  
 the heel, where they both turned upward to the  
 toes. One of these roots formed a slight crook at  
-th
+the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_boston-commonwealth_1866-10-27_5_8%2Fsim_boston-commonwealth_1866-10-27_5_8_jp2.zip%2Fsim_boston-commonwealth_1866-10-27_5_8_jp2%2Fsim_boston-commonwealth_1866-10-27_5_8_0003.jp2/pct:30.657895,27.267206,11.671053,5.273279/600,/0/default.jpg"/>
 </td>
@@ -1690,7 +1534,7 @@ th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- pushed its  
+pushed its  
 way through the earth till it reached the  
 precise spot occupied by the skull of Roger  
 Williams. There making a turn as if coing  
@@ -1699,7 +1543,7 @@ of the backbone to the hips. Here it divid-­
 ed into two branches, sending one along  
 each leg to the heel, where they both turned  
 upward to the toes. One of these roots f rm  
-eo a slight crook at th
+eo a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528608:1866103001:0249/pct:15.833449,27.803056,9.800120,4.039507/!600,600/0/default.jpg"/>
 </td>
@@ -1713,7 +1557,6 @@ eo a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 tree, when and by whom planted is  
 not known. This tree had sent two  
 of its main roots into the graves of  
@@ -1729,7 +1572,7 @@ sending one along each leg to the heel,;
 where they both turned toward the!  
 toes. One of these roots formed a  
 slight crook at the knee, which make -  
-the whole bea
+the whole bear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769799:1866110701:0037/pct:66.730585,46.461018,12.285988,8.261145/!600,600/0/default.jpg"/>
 </td>
@@ -1743,7 +1586,7 @@ the whole bea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the  
+Near the  
 grave stood a venerable apple tree,  
 when and by whom planted is not  
 known. This tree had sent two of  
@@ -1760,7 +1603,7 @@ branches, sending one along each
 leg to the heel, where they both turn­  
 ed upward to the toes. Ono of these  
 formed a slight crook at the  
-kne
+knee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159361:1866111301:0104/pct:5.843424,45.202854,12.207829,9.636886/!600,600/0/default.jpg"/>
 </td>
@@ -1784,7 +1627,7 @@ kne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave  
+Near the grave  
 stood a venerable apple tree, when and  
   
 by whom planted is not known. This tree  
@@ -1806,7 +1649,7 @@ into two branches, sending one along each
 leg to the heel, where they both turned  
 upward to the toes. One of these roots  
   
-formed a slight crook at th
+formed a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1866112301:0207/pct:52.696425,69.464151,13.270046,9.781132/!600,600/0/default.jpg"/>
 </td>
@@ -1820,7 +1663,7 @@ formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- had sur­  
+had sur­  
 vived tho lapse of more than one hun­  
 dred and eighty years Near the grave  
 6tood a venerable apple tree, when and  
@@ -1836,7 +1679,7 @@ of the back-bone to the hips. Here it
 divided into two branches, sending one  
 along each leg to tho heel, where they  
 both turned upward to the toes. One of  
-these roots formed a slight crook at th
+these roots formed a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866112901:0170/pct:69.317516,23.532985,12.302285,10.448305/!600,600/0/default.jpg"/>
 </td>
@@ -1850,7 +1693,7 @@ these roots formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ab­  
+ab­  
 sorbed by the roots of an apple-tree. Near  
 the grave stood a venerable apple-tree, when  
 and by whom planted is not known. This  
@@ -1868,7 +1711,7 @@ One of these roots formed a slight crook at
 the knee, which makes the whole bear a  
 ! very close resemblance to a human form.—  
 But not a trace of the dead remained, y  
-The Use op the Ro
+The Use op the Rod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866113001:0285/pct:21.056511,22.279557,17.567568,12.308393/!600,600/0/default.jpg"/>
 </td>
@@ -1882,7 +1725,7 @@ The Use op the Ro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the  
+Near the  
 grave stood a venerable apple tree, but  
 when and by whom planted is not known.  
 This tree had sent two of its main roots  
@@ -1897,7 +1740,7 @@ Here it divided into two branches, send­
 ing one along each leg to the heel, where  
 they both turned upward to the toes.  
 One of these roots formed a slight crook  
-at th
+at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_grizzly_ver02:data:sn83025293:0029455533A:1866120101:0678/pct:47.483825,49.660183,14.683681,8.284509/!600,600/0/default.jpg"/>
 </td>
@@ -1911,7 +1754,7 @@ at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near  
+Near  
 the graye stood a venerable apple  
 tree, when and by whom planted is  
 not known. This tree had sent two  
@@ -1930,7 +1773,7 @@ here it divided into two branches,
 sending one along each leg to the  
 heel, where they both turned upward  
 to the toes. One of these roots formed  
-a slight crook at th
+a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/the-sailors-magazine-and-seamens-friend_1866-12_39_4%2Fthe-sailors-magazine-and-seamens-friend_1866-12_39_4_jp2.zip%2Fthe-sailors-magazine-and-seamens-friend_1866-12_39_4_jp2%2Fthe-sailors-magazine-and-seamens-friend_1866-12_39_4_0014.jp2/pct:54.943182,72.509960,41.022727,20.750332/600,/0/default.jpg"/>
 </td>
@@ -1964,7 +1807,7 @@ a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave stood a venerable  
+Near the grave stood a venerable  
 apple tree, when and by whom planted is  
 not known. This tree had sent two of its  
 main roots into the graves of Mr. and Mrs.  
@@ -1976,9 +1819,11 @@ round the skull, it followed the direction of
 the backbone to the hips. Here it divided  
 into two branches, sending one along each  
 leg to the heel, where they both turned up­  
-ward to the toes. One of these roots had 
+ward to the toes. One of these roots had a  
+slight crook at the knee, which makes the  
+whole form. This singular root is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866120801:0411/pct:76.510574,37.014039,13.160876,6.074514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866120801:0411/pct:76.510574,37.014039,13.160876,7.100432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1992,7 +1837,7 @@ ward to the toes. One of these roots had
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave  
+Near the grave  
 stood a venerable apple tree, when and  
 by whom planted is not known. The tree  
 had sent two of its main roots into the  
@@ -2007,7 +1852,7 @@ Here it divided into two branches,
 sending one along each leg to the heel,  
 where they both turned upward to the  
 toe. One of these roots formed a slight  
-crook at th
+crook at the
 </td></tr></table>
 
 ---
@@ -2018,7 +1863,6 @@ crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ple tree, when and by whom planted is  
 not known. This treehad sent two of  
 its main roots into the graves of Mr.  
@@ -2036,7 +1880,8 @@ One of these roots formed a slight
 crook at the knee, which makes the  
 whole bear a close resemblunce to a  
 human form. But not a trace of the  
-dead remained.
+dead remained.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867011201:0202/pct:67.032106,82.799062,12.960063,9.108679/!600,600/0/default.jpg"/>
 </td>
@@ -2050,7 +1895,6 @@ dead remained.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 tree, when - and, by whom planted  
 is not known. This tree had sent  
 two of its main roots into the graves  
@@ -2066,7 +1910,7 @@ into . two branches, sending one
 along each leg to the heels, where  
 they both turned upward to the  
 toes. . One of these roots formed a  
-slight crook at th
+slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470363:1867013101:0291/pct:55.720721,63.810861,12.027027,10.849719/!600,600/0/default.jpg"/>
 </td>
@@ -2080,7 +1924,7 @@ slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the earth till it  
+the earth till it  
 reached tin precise spot occupied by the  
 skull of Roger Williams. There making  
 a tnrn. as if going round the skull, it fol-  
@@ -2089,7 +1933,7 @@ the hips. Here it divided into two branch-
 es, sending one along each leg to the heel,  
 where they both turned upward to the toes.  
 One of these ro..ts formed a slight crook  
-at th
+at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt76125qbf9s%2Fxt76125qbf9s_jp2.zip%2Fxt76125qbf9s_jp2%2Fxt76125qbf9s_0000.jp2/pct:82.461024,40.990017,12.374722,4.950087/600,/0/default.jpg"/>
 </td>
@@ -2103,7 +1947,7 @@ at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave  
+Near the grave  
 stood a venerable apple tree, when and by whom  
 planted, is unknown. This tree had sent two  
 of its main roots into the grave of Mr. and Mrs.  
@@ -2115,7 +1959,7 @@ lowed the direction of the backbone to the
 hips.-Here it divided into two branches, send­  
 ing one along each leg to the heel, where they  
 both turned upwards to the toes. One of these  
-roots formed a slight crook at th
+roots formed a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471501:1867031601:0004/pct:41.282316,72.157530,17.373320,6.764360/!600,600/0/default.jpg"/>
 </td>
@@ -2141,7 +1985,7 @@ roots formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. -THE grave of Roger  
+-THE grave of Roger  
 Williams, the founder of Rhode Island,  
 after a lapse of 180 years, was recently  
 opened, but not a single atom of human  
@@ -2160,7 +2004,7 @@ Here it divided into two branches,
 sending one along each leg to the heel,  
 where they both turned upwards to the  
 toe. One of these roots formed a slight  
-crook at th
+crook at the
 </td></tr></table>
 
 ---
@@ -2171,8 +2015,8 @@ crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, the roots of an apple­  
-tree planted over the grave of Roger William
+the roots of an apple­  
+tree planted over the grave of Roger Williams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171311:1869100201:0318/pct:52.528335,67.568800,14.319965,0.897066/!600,600/0/default.jpg"/>
 </td>
@@ -2186,7 +2030,7 @@ tree planted over the grave of Roger William
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. |  
+|  
 Near the grave, stood a venerable apple-tree; but  
   
 when and by whom planted isnot known. This |  
@@ -2199,7 +2043,7 @@ round the skull, it followed the direction of the |
 backbone, to the hips. Here it divided into two  
 branches, sending one along each leg to the heel, |  
 where they both turned, upward, to the toes.  
-One of these roots formed a slight crook at the
+One of these roots formed a slight crook at the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_historical-magazine-biography-of-america_1870-07_8_1%2Fsim_historical-magazine-biography-of-america_1870-07_8_1_jp2.zip%2Fsim_historical-magazine-biography-of-america_1870-07_8_1_jp2%2Fsim_historical-magazine-biography-of-america_1870-07_8_1_0057.jp2/pct:21.645367,62.001174,35.862620,15.727700/600,/0/default.jpg"/>
 </td>
@@ -2213,7 +2057,7 @@ One of these roots formed a slight crook at the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave stood  
+Near the grave stood  
 venerable apple tree, but when and by  
 whom planted is not known.  
 This tree had sent two of its main roots  
@@ -2228,7 +2072,7 @@ Here it divided into two branches, send­
 ing one along each leg to the heel, where  
 they both turned upward to the toes.  
 One of these roots formed a slight crook  
-at th
+at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1871091301:0220/pct:76.793545,6.924670,11.980354,8.568470/!600,600/0/default.jpg"/>
 </td>
@@ -2242,7 +2086,7 @@ at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Near the grave stood  
+Near the grave stood  
 a venerable apple tree, but when and by whom  
 planted is not known.  
 This tree had sent two of its main roots into the  
@@ -2254,7 +2098,7 @@ the skull, it followed the direction of the back-bone
 to the hips. Here it divided into two branches,  
 sending one along each leg to the heel, where they  
 both turned upward to the toes. One of these root  
-formed a slight crook at th
+formed a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:0021110885A:1871111501:0132/pct:43.925912,50.532959,12.329762,6.283310/!600,600/0/default.jpg"/>
 </td>
@@ -2268,7 +2112,6 @@ formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Near the grave stood a venerable apple-  
 tree, when and by whom planted is not  
 known. This tree had sent two of its  
@@ -2283,7 +2126,7 @@ the hips. Here it divided into two
 branched, sending one along each leg to  
 the heel, ‘where they both turned upw yard  
 to the toes. One of these roots formed  
-a slight crook at th
+a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_wellmans-miscellany_1871-12_4_6%2Fsim_wellmans-miscellany_1871-12_4_6_jp2.zip%2Fsim_wellmans-miscellany_1871-12_4_6_jp2%2Fsim_wellmans-miscellany_1871-12_4_6_0010.jp2/pct:9.304703,23.721989,34.355828,18.977591/600,/0/default.jpg"/>
 </td>
@@ -2297,7 +2140,7 @@ a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- had sur­  
+had sur­  
 vived the lapse of more than one hundred  
   
 and eighty years. Near the graves stood  
@@ -2315,7 +2158,7 @@ rection of the backbone to the hips. Here
 divided into two branches, it sent one  
 along each leg to the heel, where they  
 both turned upward to the toes. One of  
-these roots formed a slight crook at th
+these roots formed a slight crook at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1872053001:0865/pct:81.705151,69.244241,12.768897,9.430150/!600,600/0/default.jpg"/>
 </td>
@@ -2329,7 +2172,7 @@ these roots formed a slight crook at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- may have been.  
+may have been.  
 A RemarkablE Story.  
 A singular story is told of an apple­  
 tree planted over the grave of Roger  
@@ -2351,7 +2194,7 @@ occupied by the knee joint, thus pro­
 ducing an increased resemblance to the  
 outlines of a skeleton of Roger Wil­  
 liams, as if, indeed, molded thereto by  
-the powers of vegetable life
+the powers of vegetable life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1872092701:1264/pct:82.199284,66.144159,16.831683,14.630225/!600,600/0/default.jpg"/>
 </td>
@@ -2375,7 +2218,7 @@ the powers of vegetable life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- when the grave of Roger was opened, and  
+when the grave of Roger was opened, and  
 not a fragment of his remains could be found. The  
 root of an adjacent apple tree has been pushed  
 downward in a sloping direction and nearly straight  
@@ -2388,7 +2231,7 @@ turned upward to the extremity of the toes of the
 skeleton. One of the roots formed a slight crook at  
 the part occupied by the knee-joints, thus producing  
 an increased resemblance to the outlines of the skel-  
-eton: but no
+eton: but not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver02:data:sn83030214:00206531162:1874032301:0648/pct:67.286796,62.288282,15.656898,7.500864/!600,600/0/default.jpg"/>
 </td>
@@ -2402,7 +2245,6 @@ eton: but no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 when the grave of Roger was opened, ant  
 not a fragment of his remains could be  
 found. The root of an adjacent apple tree  
@@ -2419,7 +2261,7 @@ skeleton. One of the roots formed a slight
 crook at the part occupied by the knee  
 joints, thus producing an increased resem­  
 blance to the outlines of the skeleton; but  
-no
+not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_haunter_ver01:data:sn83016555:00295874685:1874040101:0581/pct:4.482759,61.071777,12.448276,6.884766/!600,600/0/default.jpg"/>
 </td>
@@ -2433,7 +2275,7 @@ no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- when the grave of Roger was  
+when the grave of Roger was  
 opened, and not a fragment of his re­  
 mains could be found. The root of an  
 adjacent apple tree has been pushed  
@@ -2450,7 +2292,7 @@ skeleton. One of the roots formed a
 slight crook at the part occupied by the  
 knee-joints, thus producing an increased  
 resemblance to the outlines of the skele­  
-ton but no
+ton but not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025567:00212472207:1874040801:0255/pct:39.977221,20.396427,17.122248,11.892818/!600,600/0/default.jpg"/>
 </td>
@@ -2464,7 +2306,7 @@ ton but no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- when thegrave of Ifogcrwaa opened  
+when thegrave of Ifogcrwaa opened  
 and not a fragment of his remains&#x27; could  
 be found. The root of an adjacent apple  
 tree has been pushed downward in a  
@@ -2480,7 +2322,7 @@ extremity of the toes of the skeleton.
 One of the roots formed a slight, crook  
 at the part occupied by the knee joints,  
 thus producing an increased resem  
-blance to the outlines of the skeleto
+blance to the outlines of the skeleton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874041601:0366/pct:51.725164,53.256279,10.722784,7.746166/!600,600/0/default.jpg"/>
 </td>
@@ -2496,23 +2338,7 @@ blance to the outlines of the skeleto
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-A SKELETON ABSORBED BY A TRE]B. &#x27;&#x27; To  
-what base uses may we return, Horatio ?  
-Why. may. not imagination tnjce the  
-noble dust of Alexander till he fiud it  
-stopping a bunghole?&quot;&quot; Hamlet&#x27;s fancy  
-was far reaching, but it fell short, it  
-seems, of .&#x27;the reality in the case of  
-that historical character, Roger  
-&quot;Williams, the founder of the colony of  
-Providence, TJ;S.&#x27;Over the grave of this  
-.pilgrim father a careful watch was  
-keptj and it. has at last been opened by  
-the Rhode Island - Historical Society,  
-with a curious result. Not a fragment of  
-the remains could be.founidi. The root  
-of an adjacent, apple-tree has been  
-pushed downwards in,a sloping.  
+in,a sloping.  
 direction, and nearly .straight, course,  
 towards the precise spot that had been  
 occupied by. the skull of Roger  
@@ -2526,28 +2352,7 @@ the skeleton. :Oiie of the roots formed
 a §ligh&#x27;t crook nt the payt&#x27;occupied ljy  
 thp&#x27;kpee joints, thii&#x27;s producing an  
 jijq&#x27;eitsed resemblance&#x27;to the outlines  
-of the skeleton ; and not a fragment of  
-Roger&#x27;s remains remained. The apple tree  
-had absorbed everything. &quot;Imperious  
-Ctesur, dead and turned to clay, Slight  
-stop a. hole to keep the wind away.&quot; ;  
-But who would have dreamed of Roger  
-Williamg, iu the form of a Marketable  
-fruit, perhaps sliced and dried/&#x27; aud  
-exported;!^d sent&#x27;out&#x27;.j;q:;Ai}Sr.  
-tralia, ands.eryed up ag sau(:e {it a  
-Jlelbburne dinnerparty. Srimetpeople  
-.will think Sir H. Thompson&#x27;s project of  
-cremation is better than this. Others  
-mil still prefer to take their chance of  
-conversion into an apple-tree bearing  
-beautiful fruit, and &#x27; enjoying the  
-sunshine&#x27; and the breeze,&#x27;and with  
-Children&#x27; playing ab6j?fc &#x27;one. After  
-all the &quot;talking oak,&quot; as. Tennyson has  
-pictured it, is a nqtilgr object than  
-nil uru witlia Ji^ififul.of agues in it.  
-^Telegraph.
+of the skeleton 
 </td></tr></table>
 
 ---
@@ -2560,23 +2365,7 @@ nil uru witlia Ji^ififul.of agues in it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- more  
-tlinn a week. Molli has also built a  
-pall. Tho natives protecting tho gum aro  
-now getting short&#x27; of food, and Aloin  
-has determined to starve them out.  
-Shooting was oxpeeted to havo commenced  
-between the (.&#x27;ontending factions  
-yesterday (Friday). .All Euro-peans wero  
-ordered by Molli not to touch tho gum.  
-Over tho gravo of Roger Williams, ono of  
-tho Pilgrim Fathers, a careful watch was  
-kept, and it has at last beon opened hy  
-the Rhode Island Historical Society,  
-with a curious result. Nut ii fragment  
-of tho remains could be found. The root  
-of an adjacent applo-trco has been  
-pushed downwards in a sloping direction,  
+in a sloping direction,  
 and nearly straight course, towards tho  
 precise spot that hud been occupied by  
 the skull of Roger Williams. Thence it  
@@ -2589,15 +2378,7 @@ tho skeleton. One of tho roots formed a
 slight crook at the part occupied by the  
 knee joints, thus producing an increased  
 resemblance to tho outlines of the  
-skeloton ; but not a fragment of Roger&#x27;s  
-remains remained. The apple treo hod  
-absorbed everything. hnporiuiiR  
-Cn3s.ii-, Uciflaml turned ki clay,  
-.MightHtopn liolu to kooptiio wind away.  
-, But who would have dreamed of Roger  
-Williams in the form of a marketable  
-fruit, perhaps sliced and dried, and  
-exported, and Bent t
+skeloton 
 </td></tr></table>
 
 ---
@@ -2610,23 +2391,7 @@ exported, and Bent t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-A SKELETON ABSORBED BY A TREE. &quot; To whnt  
-base uses may we return, Horatio Y W !iy  
-may not ima&lt;rination trace tlio noble  
-dust of Alexander till he find it  
-stopping a bcmn-Jfole?&quot; Hamlets fancy  
-■was far rcachijj&lt;rf but it fell short,  
-it seems, of the reality in the ease of  
-that historical character. Roirer  
-Williams, the founder of the colony of  
-Providence, U.S. Over the prave of this  
-pi!»Tiin fatlier a careful watch was  
-kept, and it lias at last been opened by  
-the llhot.le Island Historical Society,  
-with a curious re.»ult. X&lt;,t a fragment  
-of the remains could be found. The root  
-of an adjacent apple-tree had been  
-pushed downwards in a sloping direction,  
+in a sloping direction,  
 and nearly straight course towards the  
 precise ppol that bad been occupied by  
 the skull of lioirer Williams. Thence it  
@@ -2639,28 +2404,7 @@ toes of the skeleton. One of the roots
 formed a slipht crook at the part  
 occupied bv-the Jrnee joints, thus  
 producing an incrctvsod resemblance to  
-the outlines of tie skeleton; and not a  
-fragment of Roger&#x27;s reniains remained.  
-The apple-tree had absorbed everthing. &quot;  
-Imperious CSssar, dead and turned to  
-clay, Slight stop a bole to keep the  
-wind away.&quot; But who would have dreamed  
-of Roger Williams in the form of a  
-marketable fruit, perhaps sliced and  
-dried, and exported, andj sent out to  
-Australia, and served up as sauce at a  
-Melbourne dinner party. Some people will  
-think Sir H. Thompsons project of  
-cremation is better than this. Others  
-will still prefer to take their chance  
-of conversion into an apple-tree bearing  
-beautiful fruit, and enjoying the  
-sunshine and the breeze, and with  
-children playing about one. After all  
-the &quot; talking oak/&#x27; as Tennyson has  
-pictured it, is a nobler object than an  
-urn with a handful of ashes in it.—  
-Telegraph.
+the outlines of tie skeleton; and not
 </td></tr></table>
 
 ---
@@ -2673,22 +2417,7 @@ Telegraph.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-A SIELJETON ABSORBED BY: &#x27;A TREE. &quot;&#x27;&#x27;o  
--what uses ?may we return, Hiratio 1 &#x27;  
-Wily.may not imasginatiuoi trac? the  
-noble&#x27;dust bf. Alexander till he find it  
-stoppi&amp;n a&#x27; &#x27;bugbole ?&quot; .&#x27;Bsmnlet&#x27;sfancy  
-was far reaching, but it fellabort, it  
-seems, of the -reality in the case of  
-that historical. character, Roger  
-Williams, the founder of the colony of.  
-Provi. dence, U.S. &#x27;Over the grave &#x27;of  
-this lpilgrim-father a&#x27; careful wvatch  
-was &#x27;kept, and it has at last -been  
-opened by the Rhode 1lland IHistorical  
-Society, with a curious result. Not a  
-fragment of the remains could be found.  
-T&#x27;l&#x27;e root of an adjaceut apple. tree  
+tree  
 ihas been pushed downwards in saoping  
 direction, and .earl? straigl}t conrse,  
 towards the preisb iP luthat had been  
@@ -2703,28 +2432,7 @@ skeleton. Olne of the root. formed a
 slight crook at the part occupied by the  
 knee jvintse thus producing an iscrea3ed  
 resemblance to the outliine of the  
-skeleton ; and not a fragiment of  
-Roger&#x27;s remains remained. The apple tree  
-had absorbed everything. &quot; Imperious  
-t?esar, dead and turned to eby, rli?ghlt  
-stop a hole to keep the wind away.&quot; But  
-who would have dreamed If Roger Williams  
-in the form of a marke:able fruit,  
-perhaps sliced and dried, and  
-exported,.aed sent out to Australia, and  
-servedlup as sauce at a Mielboiurita  
-din. nerpar;y.: Some people will think  
-Sir H. Thpuipsoi&#x27;s pruject of crema;tion  
-i better thau this. Others will still  
-preter to ia&#x27;;e their chance of  
-c:onversion into, an appletree, bearing  
-beaut iful fruit, arid enjoying the  
-stunshlnc and the breeze, and with  
-children playing about one. After all,  
-the &quot; talking oak,&quot; as Tennyson has  
-pictured it, is a nobler object than an  
-urn with a handful of ashes iin  
-it.-Telegraph.
+skeleton 
 </td></tr></table>
 
 ---
@@ -2737,23 +2445,7 @@ it.-Telegraph.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd, in  
-the course of his report, makes the  
-remark that &quot;Encke, Bessel, Hansea,  
-Argelander, Peters, were all Germans.  
-Thk splendid science of astronomy is the  
-object of admirable works by our enemies  
-; while we fat France are obliged to  
-seek in America, or England for  
-successors to our places of w**VmTa  
-honor.&quot; Over the grave of Roger  
-Williams, one of th« Pilgrim Fathers, a  
-careful watch was kept, aad it has at  
-hut been opened by the Rhode Island  
-Historical Society, with a curious  
-result Not a. fragment of the remains  
-could be found. Thtt root of an adjacent  
-apple-tree has been pushed downwards in  
+in  
 a sloping direction, and nearly straight  
 course, towards the precise spot that  
 had been occupied by the skull of Roger  
@@ -2767,16 +2459,7 @@ skeleton. One of the roots formed a
 slight crook atthe{Nut occupied by the  
 knee joints, thus producing an increased  
 resemblance to the outlines of the  
-skeleton : but not a fragment of Roger&#x27;s  
-remains *»&quot;»&quot;r*^. The apple tree had  
-absorbed everything. Imperious Cmmx,  
-dead and turuod to day. Might stop a  
-hole to keep the wind away. But who  
-would have dreamed of Roger Williams in  
-the form of a marketable fruit, perhaps  
-slioed and dried, and exported, and sent  
-to Australia, and served up as sauce at  
-
+skeleton 
 </td></tr></table>
 
 ---
@@ -2789,15 +2472,7 @@ to Australia, and served up as sauce at
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- S .&quot; Over thu  
-grave of Hoger Williams, one of tho  
-Pilgrim Pathcrs;&#x27; ti: careful watch was  
-kept; und it has at last ,been opened by  
-thc Rhode Island Historical Society, ,  
-with a curious result. Not ti fragment:  
-of . thc remains could be &#x27;found.1 The  
-root. of. an adjacent apple;tree lins&#x27;  
-been i pushed down-wards in a sloping,  
+wards in a sloping,  
 direction; and nearly straight course;  
 towards thc precise spot that had been  
 occupied by tho skull of Roger Williams.  
@@ -2810,17 +2485,7 @@ extremity, of, the toes of thc skeleton.
 One of tho roots foi med a slight crook  
 at the part occupied by thc knee joints,  
 thus producing an increased resemblance  
-to thc outlines of the skeleton j but  
-not a frag-ment of Rogtirfs remains&#x27;,  
-remained. Thc apple tree had absorbed  
-everything. .Imperious Ciesiir, cloud  
-mid turned to clny, &quot;Might stop u hole  
-to keep tile wind away..&quot; ? But who  
-would have drenmed of Roger Williams in  
-thc lorin of a&#x27;marketable ifruit,  
-perhaps sliced and dried, and exported,  
-and sunt to Australia,, and served up as  
-sauce nt 
+to thc outlines of the skeleton j
 </td></tr></table>
 
 ---

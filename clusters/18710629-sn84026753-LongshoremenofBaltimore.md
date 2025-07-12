@@ -54,22 +54,6 @@ Mr. R. B. Sorrell was next introduced and said, fifteen years ago the stevedores
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d people  
-* :Lssr?s*and earne?uy h?p? ^  
-tnastics of the census of 18H0 may show, not  
-I only an increase m numbers, but also a great  
-1 &quot; ,3e^SM^0 P??PertT? comfort, and educaUoo y.  
-O. Picayune.  
-I * *&quot; . _ &#x27; m m *  
-1 ?To remove ink spots, pat the article stained  
-over n warm Hat-iron, stretch it well, then  
-squeeze n few drops of lemon Juice on it, end  
-I the spot will disappear at once. Wash imme1  
-diately in cold water.  
-  
-NE\
-VOL. IL?NO. 25.}  
-  
 The Longshoremen of Baltimore.  
 [From th? Bkltimor* Americacj  
 The hall of the Douglass Institute was well  
@@ -234,9 +218,9 @@ than thirty oenta an hour. The stevedores
 should go to the merchants and ask for an advance  
 in the prioes,so that they may be able to  
 pey the men better wages. He believed the  
-merchants would pay living wages
+merchants would pay living wages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:5.053161,3.704340,28.718418,92.685862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:18.554933,10.176193,15.216646,72.204555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

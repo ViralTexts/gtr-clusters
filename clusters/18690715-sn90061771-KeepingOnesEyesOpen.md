@@ -1,7 +1,7 @@
 
 # Keeping One's Eyes Open
 
-### 336 reprints from 1869-06-24 to 1896-06-18
+### 339 reprints from 1869-06-24 to 1896-06-18
 
 ## [Keeping One's Eyes Open](https://chroniclingamerica.loc.gov/lccn/sn90061771/1869-07-15/ed-1/seq-1)
 
@@ -11,7 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-**Keeping One&#x27;s Eyes Open.**  
+Keeping One&#x27;s Eyes Open.**  
   
 Nobody is more like an honest man than a thorough rogue. When you see a man with a great deal of religion displayed in his shop window, you may depend upon he keeps a very small stock of it within. Do not choose your friend by his looks: handsome shoes often pinch the feet. Don&#x27;t be fond of compliments: remember, &quot;Thank you, pussy, and thank you, pussy,&quot; killed the cat. Don&#x27;t believe in the man who talks most; for mewing cats are very seldom good mousers. By no means put yourself in another person&#x27;s power: if you put your thumb between two grinders, they are very apt to bite. Drink nothing without seeing it; sign nothing without reading it, and make sure that it is no more than it says. Don&#x27;t go to law unless you have nothing to lose: lawyers houses are built on fools&#x27; heads. In any business, never wade into water where you cannot see the bottom. Put no dependence upon the label of a bag; and count money after your own kin. See the sack opened before you buy what is in it; for he who trades in the dark asks to be cheated. Keep clear of the man who does not value his own character. Beware of every one who swears; he who would blaspheme the Maker, would make no bones of lying or stealing. Beware of no man more than yourself; we carry our worst enemies within us. When a new opinion or doctrine comes before you, do not bite till you know whether it is bread or a stone; and do not be sure that the gingerbread is good because of the gilt on it. Never shout halloa! till you are quite out of the wood; and don&#x27;t cry fried fish until they are caught in the net. There&#x27;s always time enough to boast—wait a little longer. Don&#x27;t throw away the dirty water till you have got clean; keep on at scraping the roads till you can get better work; for the poorest pay is better than none, and the humblest office is better than being out of imployment. Always give up the road to bulls and madmen; and never fight with a coal-heaver, or contend with a base character, for they will be sure to blacken you.   
   
@@ -41,22 +41,7 @@ You&#x27;ll have peace to your end,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ng nothing in the rubic about  
-the woman&#x27;s dress, thought he could  
-not refuse to marry her in her chemise  
-only. At Kitron in Lindsey there was  
-a popular belief that the woman must  
-be actually nude wheff she left her resi  
-dence for that of her intended husband,  
-in order to relfeve him from her debts;  
-and a case of this kind occurred. A wo  
-man left her house from her bed room  
-window in a state of nudity, and put on  
-her clothes as she stood upon the top of  
-the ladder by which she accomplished her  
-descent. The notion of a marriage in  
-a chemise was prevented at Cottenham, in  
-Cambridgeshire recently.  
+.  
 Keeping One&#x27;s EyEs Open.  
 Nobody is more like an honest man  
 than a thorough rogue. When you see a  
@@ -118,9 +103,9 @@ Meither trust nor contend,
 Wor lay wagars, nor lend,  
 And you may depend  
 4! You&#x27;ll have peace to your end,  
-Rev. C. H Spargeon
+Rev. C. H Spargeon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1869071501:0757/pct:49.876985,47.320589,14.873630,43.842056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1869071501:0757/pct:49.944084,56.001254,14.806531,35.161391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +117,6 @@ Rev. C. H Spargeon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 KEEFINO ONE&#x27;s ErES OPEN.-Nobody  
 is more like an honest man than a  
 thorough rogue. When you see a man  
@@ -193,7 +177,7 @@ with a coal-heaver or contend with a
 base character, for they will be sure to  
 blacken you.  
   
-A ma
+A man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1869080301:0304/pct:5.057606,48.613875,26.576840,35.508688/!600,600/0/default.jpg"/>
 </td>
@@ -207,7 +191,6 @@ A ma
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Keeping One&#x27;s Eyes Open.  
 IFrom Rev. C. H. Spurgeon&#x27;s &quot;JohnPloughman&#x27;s TalkI  
 Nobody is more like an henest man than a  
@@ -260,7 +243,7 @@ for they will be sure to bicken you.
 Neither trust nor coatend.  
 Nor lay wages, nor lad,  
 And you may depent  
-You&#x27;ll have peace to yeuien
+You&#x27;ll have peace to yeuiend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105483:1869082101:0690/pct:40.164298,20.559943,16.718472,30.638909/!600,600/0/default.jpg"/>
 </td>
@@ -274,7 +257,7 @@ You&#x27;ll have peace to yeuien
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Spurgeon : .  
+Spurgeon : .  
 Nobody is more like an honest man  
 than a thorongh rogue. When you  
 nee a man with a great deal of religioji  
@@ -331,7 +314,7 @@ give up the road to bulls and tradmen ;
 contend with a base character, for they  
 will be sure, to blacken you.  
 Dodging the Old Folks. The  
-Hartford Couran
+Hartford Courant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR1n_ver01%2Fdata%2F1869082501%2F0196.jp2/pct:6.920684,13.563502,14.320892,41.553637/!600,600/0/default.jpg"/>
 </td>
@@ -345,7 +328,6 @@ Hartford Couran
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_  
 It cop APYICE.—Do not choose your friend  
 t.y his look*; handsome &gt;hoes often pinch the  
 h . t Don&#x27;t be fond of compliments; remem­  
@@ -382,7 +364,7 @@ better than none, and the humblest office is
 better than being out oi employment. Always  
 give up the road to bulls and madmen; and  
 never fight with a coal-heaver, or contend wit h  
-.
+. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184807:1869082701:0082/pct:6.493094,7.971014,14.923004,17.910448/!600,600/0/default.jpg"/>
 </td>
@@ -396,7 +378,7 @@ never fight with a coal-heaver, or contend wit h
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- o o ee  
+o o ee  
 choose your friend by his looks; handsome  te aen ai a  
 shoes often pinch the feet. Don&#x27;t be foondan an iso a  bog tee un  
 of compliments; remember &quot;Thank ou e o inmen an  e o  
@@ -441,7 +423,7 @@ get better work; for the poorest pay is bettera from the zanth strag dow upon
 than being out of employment. Always wi a poer that is almost as unbearable a  
 give up the road to bulls and madmen; and ta o te an a i a te i o e  
 never fight with a coalheaver, or contendi i a a te a e ee   
-with a base character, for they will be sure 
+with a base character, for they will be sure e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1869082801:0374/pct:8.552230,60.587894,28.130727,20.421582/!600,600/0/default.jpg"/>
 </td>
@@ -455,34 +437,7 @@ with a base character, for they will be sure
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ptain, are youa son ?’‘ Ah,  
-&gt; said he, ‘as to that, I can’t say that  
-Tamason.’ ‘Then you are an en-  
-  
-emy!’ said I. ‘No mate,’ said he, ‘I  
-  
-know that I am no longer an enemy.’  
-‘Then,’ said I yowre a son!’ He  
-knows that now ; and we have happy  
-seasons often together, telling of the  
-  
-AND SEAMEN’S FRIEND.  
-  
-977  
-  
-grace and precious blood by which we  
-were saved.”  
-  
-Reader! are you unsaved ? Behold,  
-what God did for ‘‘ the ship’s devil!”  
-Can he—will he, not do tt for you?  
-  
-Are you saved? See that you ex-  
-ercise at least as much faith in what  
-God says as did this unlettered sail-  
-or!  
-  
-—___=&lt;-0&lt;p-—___—.  
+.  
   
 Keeping One’s Eyes Open.  
   
@@ -554,9 +509,10 @@ Nor lay wagers, nor lend,
   
 And you may depend  
 You&#x27;ll have peace to your end.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/the-sailors-magazine-and-seamens-friend_1869-09_41_9%2Fthe-sailors-magazine-and-seamens-friend_1869-09_41_9_jp2.zip%2Fthe-sailors-magazine-and-seamens-friend_1869-09_41_9_jp2%2Fthe-sailors-magazine-and-seamens-friend_1869-09_41_9_0023.jp2/pct:0.000000,4.813008,91.681416,85.495935/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/the-sailors-magazine-and-seamens-friend_1869-09_41_9%2Fthe-sailors-magazine-and-seamens-friend_1869-09_41_9_jp2.zip%2Fthe-sailors-magazine-and-seamens-friend_1869-09_41_9_jp2%2Fthe-sailors-magazine-and-seamens-friend_1869-09_41_9_0023.jp2/pct:47.669617,22.146341,44.011799,68.130081/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +524,6 @@ You&#x27;ll have peace to your end.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Nobody is more like an honest man  
 than a thorough rogue. When you se  
 a man with a great deal cf religion dis  
@@ -622,7 +577,7 @@ being out of employment. Always
 give up the road t.. bulls and madmen,  
 aud never fight with a coal heaver, or  
 contend with a base character, for they  
-wiil be sure to blacken von
+wiil be sure to blacken von.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1869090201:0355/pct:71.920185,15.390750,10.728745,28.138528/!600,600/0/default.jpg"/>
 </td>
@@ -636,8 +591,6 @@ wiil be sure to blacken von
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Nobody: is. , mare like an hanes  
 man than a thorugh, rogue, When  
 you see aman with a great deal of re;  
@@ -684,7 +637,7 @@ stone ; and do not. be wife that the cultivated, but “drowned” it almost.’
 ginger-bread is good because of the effectually in thé dow lands The ex&lt;....  
 gilt on it. Never shout hallo! dif] ® treme wet weather was ful lowed (by: Borg |  
 you are: quite out of the wood ; and | drouth wlrich in: turn... did immense  
-never cry fried fish till they are caught | damage to th
+never cry fried fish till they are caught | damage to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrehallreport_ver01%2Fdata%2Fsn85054524%2F13362385%2F1869090301%2F00001.jp2/pct:68.712045,16.476422,26.948381,29.762350/!600,600/0/default.jpg"/>
 </td>
@@ -698,10 +651,9 @@ never cry fried fish till they are caught | damage to th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 in..the net. There, is always time {&#x27;ealities it was ‘al most totally: destroyed.  
 enough to boast—wait a Ii ger. |b Hailstorims: cama rhutrieanese | As ah  
-Dou&#x27;t throw away, dirty » water till | you
+Dou&#x27;t throw away, dirty » water till | you 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrehallreport_ver01%2Fdata%2Fsn85054524%2F13362385%2F1869090301%2F00001.jp2/pct:68.939777,45.836452,26.518219,2.526198/!600,600/0/default.jpg"/>
 </td>
@@ -715,8 +667,6 @@ Dou&#x27;t throw away, dirty » water till | you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 and the humblest office is el  
   
 being out of employment. Always | :  
@@ -725,6 +675,7 @@ and never fight. with a “coal-heay ddl
   
 lor&#x27;content with a : hae Tor | a  
 they. will be sure to blacken Youd. cits  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrehallreport_ver01%2Fdata%2Fsn85054524%2F13362385%2F1869090301%2F00001.jp2/pct:69.003036,50.065494,15.409919,4.341317/!600,600/0/default.jpg"/>
@@ -739,7 +690,6 @@ they. will be sure to blacken Youd. cits
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 KEPin ONE&#x27;s EYE OPEN.Nobody is  
 more like an honest man than a thorough  
 rogue. When you see a man with a great  
@@ -793,7 +743,7 @@ or contend with a base character, for they
 will be sure to blacken you.  
   
 Parliament what Mr. Harlan is to the  
-American Senate, in the course of 
+American Senate, in the course of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762003:1869090502:0256/pct:35.015835,4.505371,31.967538,90.748757/!600,600/0/default.jpg"/>
 </td>
@@ -817,7 +767,7 @@ American Senate, in the course of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dth too wide;  
+th too wide;  
 I wonder if Susanna Ayres  
 Appears to-day as bride!  
 Lord, what a voice Jane Rice has got;  
@@ -1227,6 +1177,7 @@ days. The law will be rigidly enforced re
 garding those places. Pancing is alsopro­  
 scribed on the Sabbath in public halls,  
 gardens, etc.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1869090801:0159/pct:8.048512,4.727979,26.130099,92.590674/!600,600/0/default.jpg"/>
@@ -1241,8 +1192,6 @@ gardens, etc.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 (lood Advice, this.  
 Nobody is more like an honest man than  
 a thorough rogue. When you see a man  
@@ -1296,7 +1245,7 @@ heaver, or contend with a base character,
 for they will be sure to blacken you.—Rev.  
 C. II tfpuryvm.  
   
-TRAG
+TRAGE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768722:1869090801:0481/pct:15.126505,12.602427,15.370045,85.758739/!600,600/0/default.jpg"/>
 </td>
@@ -1310,7 +1259,6 @@ TRAG
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Nobody is more like an honest man than  
 a thorough rogue. When you see a man  
 with a great deal of religion displayed in  
@@ -1363,6 +1311,7 @@ you can get better work; for the poorest
 pay is better than none; and the humbleal  
 for they will be sure to blacken you.  
 Red.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294580:1869090901:0399/pct:17.855343,75.581952,11.202117,20.739534/!600,600/0/default.jpg"/>
@@ -1377,7 +1326,7 @@ Red.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rible disease, consumption,  
+ible disease, consumption,  
 and died, leaving the girl a widow, with  
 her cLilil. During the illness of her hus­  
 band, the latter received kind considera­  
@@ -1580,6 +1529,7 @@ and madmen* and never fight with a coal
 heaver, or contend with a base character,  
 for they will be sure to blacken you.—Rev.  
 C. 11. ifpurtjeon.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn85025431:00212479706:1869090901:0034/pct:55.678950,15.925222,9.805654,74.457663/!600,600/0/default.jpg"/>
@@ -1594,7 +1544,7 @@ C. 11. ifpurtjeon.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Do not choose your friend  
+Do not choose your friend  
 by his looks; handsome shoes often pinch  
 the feet. Don’t be fond of compliments;  
 remember, “Thank you, pussy, and thank i  
@@ -1636,7 +1586,7 @@ en you.
 Women charm, as a general thiug, in pro­  
 portion as they are good. A plain face with  
 a heart behind it is worth a vjorld of heart­  
-less beauty. Men who have trie
+less beauty. Men who have tried
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1869090901:0111/pct:56.256572,70.433071,13.161584,22.952756/!600,600/0/default.jpg"/>
 </td>
@@ -1650,8 +1600,6 @@ less beauty. Men who have trie
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 That tall young fellow&#x27;s here to-day,  
 I wonder what&#x27;s his name?  
 His eyes are fixed upon our pe  
@@ -2073,6 +2021,7 @@ days. The law will be rigidly enforced re­
 garding those places. Dancing is also pro­  
 scribed on the Sabbath in public halls,  
 gardens, ete.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1869091001:0664/pct:8.796031,4.507780,24.480061,91.798749/!600,600/0/default.jpg"/>
@@ -2087,7 +2036,6 @@ gardens, ete.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Good Advice.  
 Drink nothing without seeing it ; sign  
 nothing without reading it, and make  
@@ -2096,7 +2044,7 @@ Don&#x27;t go to law unless you have nothing
 to lose; lawyers houses are built on  
 fools heads. In any business never  
 wade into water where you cannot ecc  
-the bottom
+the bottom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1869091001:1206/pct:32.912391,42.247511,13.358327,4.466572/!600,600/0/default.jpg"/>
 </td>
@@ -2110,7 +2058,6 @@ the bottom
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Nobody is more like an honest man  
 than a thorough rogue. AVhen you see  
 a man with a great deal of religion dis­  
@@ -2127,7 +2074,7 @@ seldom good mouscrs. By uo means
 put yourself in auothcr person&#x27;s power;  
 if you put your thumb between two  
 grinders, they are very apt to bite.  
-Cor
+Corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1869091001:1206/pct:32.951855,46.813656,13.358327,8.691323/!600,600/0/default.jpg"/>
 </td>
@@ -2141,7 +2088,6 @@ Cor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Let her do it then. Better that than  
 reserve all her crustiness for her foes.  
 Drink nothing without seeing it,  
@@ -2149,7 +2095,7 @@ sign nothing without reading it, and
 make sure that it means no more  
 than it says.  
 In any business never wade into  
-water where you cannot see the bo
+water where you cannot see the bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1869091001:0569/pct:79.378477,53.259053,12.046806,4.805014/!600,600/0/default.jpg"/>
 </td>
@@ -2163,7 +2109,7 @@ water where you cannot see the bo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- have with me  
+have with me  
   
 There is always time enough to  
 boast, wait a little longer.  
@@ -2175,7 +2121,7 @@ and madmen; and never fight with
 a coal heaver, nor contend with a  
 base character, for they will be sure  
 to blacken you.  
-I
+In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1869091001:0572/pct:10.606920,53.416667,24.541501,12.666667/!600,600/0/default.jpg"/>
 </td>
@@ -2189,8 +2135,6 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 the rejoicings of their families, and  
   
 brings her home to cherish her  
@@ -2256,7 +2200,7 @@ led alifolt df liall nih
 a base character, for they will be  
 sure to blacken you.Spurgcon.  
   
-Woo
+Wood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295878484:1869091101:0046/pct:39.761513,26.089425,24.259868,32.476934/!600,600/0/default.jpg"/>
 </td>
@@ -2270,7 +2214,7 @@ Woo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- -.  
+-.  
 jSoiiody nioi-o &quot;like aiPhonest man  
 than a thorough rogue. &quot; &#x27;  
 Whenyou see a man with a&#x27;grtait deal  
@@ -2329,7 +2273,7 @@ Always give up --the road to bulls and
 madmen: and never tiirht with a coal  
 heaver cor contend with a ba,?.e cbrac­  
 ter, for they will V,e&#x27;su 14 ,b!aeken you.  
-,
+, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1869091601%2F0037.jp2/pct:72.887513,59.100769,11.746502,29.441925/!600,600/0/default.jpg"/>
 </td>
@@ -2343,8 +2287,6 @@ ter, for they will V,e&#x27;su 14 ,b!aeken you.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &#x27;  
 Nobody is more like an honest  
 man than a thorough rogue.  
@@ -2415,7 +2357,7 @@ a coal-heaver, or contend with a
 bad character, for they will be sure  
 to blacken vou.  
   
-The Urbana Citize
+The Urbana Citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869091701:0651/pct:34.660684,45.461088,10.726304,35.396320/!600,600/0/default.jpg"/>
 </td>
@@ -2429,7 +2371,6 @@ The Urbana Citize
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Good Advice, This.  
 Nobody is more like an hon­  
 est man ? i a a thorough rogue.  
@@ -2498,7 +2439,7 @@ never fight with a coal beaver,
 or contend with a base charac­  
 ter, for they will be sure to  
 blackeu you.— [C. H. Spurgeon.  
-Oregon is &quot;marching on.
+Oregon is &quot;marching on. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:00295873991:1869091801:0360/pct:75.760691,20.599776,14.473684,60.327915/!600,600/0/default.jpg"/>
 </td>
@@ -2512,8 +2453,6 @@ Oregon is &quot;marching on.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 That tall yoniis fellow&#x27;s br to-Uy,  
 1 vouder what&#x27;s Ina nmne ?  
 His eyes are fixed npu onr pew  
@@ -2566,7 +2505,7 @@ V&#x27;o -have just heard of a rather romantic
 Btory which has transpired in this city, the  
 tiutii of which wc can vouch for, notwith­  
 standing its sensational proclivities. A  
-f. 
+f. w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GoldsDM1n_ver01%2Fdata%2F1869091901%2F0259.jp2/pct:2.723535,11.945813,62.667009,20.509663/!600,600/0/default.jpg"/>
 </td>
@@ -2580,7 +2519,7 @@ f.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eir guard  
+ir guard  
 a;;aiust tlie. encroachments of these light­  
 fiufjerud gentry, riekpoekets as a general  
 thing are tolerably well dressed, and so far  
@@ -2704,7 +2643,8 @@ and at the next station bid him good-bye in
   
 the most polite manner jiossible. Has fic­  
 tion recorded anything more singularly  
-cool and refreshine than this? Tanl Clif-
+cool and refreshine than this? Tanl Clif-  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GoldsDM1n_ver01%2Fdata%2F1869091901%2F0259.jp2/pct:3.160329,44.931792,24.871531,31.593407/!600,600/0/default.jpg"/>
 </td>
@@ -2718,8 +2658,6 @@ cool and refreshine than this? Tanl Clif-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 eo to law unless you have nothing to lose;  
   
 lawyer s nouses are uuiii on iooi uwnw. u  
@@ -2765,7 +2703,7 @@ Tjrooi and never crv fried fihh until they
   
 are caucht in the net. There is always  
   
-while nnder this belief that she wrote the whe
+while nnder this belief that she wrote the when
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GoldsDM1n_ver01%2Fdata%2F1869091901%2F0259.jp2/pct:16.007194,78.495642,27.094039,9.700644/!600,600/0/default.jpg"/>
 </td>
@@ -2779,11 +2717,11 @@ while nnder this belief that she wrote the whe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of years at moat and, if they I A man who owe ft bill in Iwdon can  
+of years at moat and, if they I A man who owe ft bill in Iwdon can  
   
 dictment against her. After reaching Kirk-1 did. not succeed, curaea iw uumness out now iy it In four hoars by simply goinj t  
   
-tain proofs of the truth of what her bus- ideas of and are seldom, ir ever
+tain proofs of the truth of what her bus- ideas of and are seldom, ir ever,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GoldsDM1n_ver01%2Fdata%2F1869091901%2F0259.jp2/pct:28.854060,80.049261,37.564234,1.809397/!600,600/0/default.jpg"/>
 </td>
@@ -2797,14 +2735,13 @@ tain proofs of the truth of what her bus- ideas of and are seldom, ir ever
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 leaving Byron, and before knowing that a  
 a separation was inevitable. It accounts.  
   
 too. for DT. AiUSUingion bm.i.uw  
 ft. . a -1.  
   
-firming her own, saying hum.
+firming her own, saying hum. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GoldsDM1n_ver01%2Fdata%2F1869091901%2F0259.jp2/pct:29.072456,87.514210,12.243063,1.894657/!600,600/0/default.jpg"/>
 </td>
@@ -2818,7 +2755,6 @@ firming her own, saying hum.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 There is always time enough to boast,  
 walt a little longer.  
 Mobody in twon 1I  
@@ -2830,11 +2766,9 @@ In any business flever wade into water
 where you cannot see the bottom.  
 Beware of no man more than of your  
 self; we carry our worst enemies with us;  
-Put no dependence upon the label of  
-a bag; and count money after vour aw  
-Do not choose your friend b
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197437:1869092101:0594/pct:77.127764,41.061530,12.541577,10.961752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197437:1869092101:0594/pct:77.127764,41.061530,12.443749,8.037694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2846,7 +2780,23 @@ Do not choose your friend b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the  
+Put no dependence upon the label of  
+a bag; and count money after vour aw  
+Do not choose your friend by
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197437:1869092101:0594/pct:77.362551,49.584257,12.306789,2.439024/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Lamoille newsdealer._](https://www.loc.gov/resource/sn84023428/1869-09-21/ed-1/?sp=1)
+
+#### 1869-09-21 &middot; [Hyde Park, Vt.](http://dbpedia.org/resource/Hyde_Park_(town)%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+the  
 eet.  
 Don&#x27;t believe in the man who talks  
 nost; for mewing cats are very seldom  
@@ -2876,7 +2826,7 @@ By no meatss put yourfelf in another
 nerson&#x27;s power; if you put your thumb  
 between two grinders, they are very apt  
 to bitep of Hei1tns v94,  
-When you see a man with 
+When you see a man with a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197437:1869092101:0594/pct:77.382117,51.981707,13.363334,21.812639/!600,600/0/default.jpg"/>
 </td>
@@ -2890,7 +2840,7 @@ When you see a man with
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e Sse  
+e Sse  
 Always give up the road to bulls and.  
   
 madmen; and never fight with a cosle  
@@ -2904,7 +2854,7 @@ before you do not bite till you know whethe.
   
 er it is bread or a stone; and don&#x27;t be sure  
 that the gingerbread is good because of the  
-git on i
+git on it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197437:1869092101:0594/pct:77.734299,78.921840,13.128546,6.721175/!600,600/0/default.jpg"/>
 </td>
@@ -2918,7 +2868,7 @@ git on i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the ey- and  
+he ey- and  
 ears of persons situated at a considerable  
 distance. It should le lxrn in mind that  
 the action of the heart in Dr. Groux in&quot; per­  
@@ -2994,7 +2944,8 @@ Piml Clifford Outdone.
   
 A correspondent of the Cincinnati Times  
   
-relates the following incident which is
+relates the following incident which is  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenUnR2n_ver01%2Fdata%2F1869092201%2F0075.jp2/pct:18.087790,20.067359,12.525227,28.150435/!600,600/0/default.jpg"/>
 </td>
@@ -3008,8 +2959,6 @@ relates the following incident which is
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 vouched ior at having recently occurred in  
   
 New York:  
@@ -3068,7 +3017,7 @@ Nheppard offered their new friend a fifty
 ceut Havana, talked merrily and friendly,  
 and at the next station bid him gooddrye in  
 the most polilo manner possible. Has fic­  
-tion recorded .anything moro
+tion recorded .anything moro 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenUnR2n_ver01%2Fdata%2F1869092201%2F0075.jp2/pct:18.592331,48.301993,12.424319,18.879222/!600,600/0/default.jpg"/>
 </td>
@@ -3082,7 +3031,7 @@ tion recorded .anything moro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- m  
+m  
   
 GchmI Advice, this.  
 Nobody is more like an honest man than  
@@ -3160,6 +3109,7 @@ heaver, or contend with a base character,
 for thev will bes sure to blacken you. Jiev.  
   
 V. 11. fyitrgeon.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenUnR2n_ver01%2Fdata%2F1869092201%2F0075.jp2/pct:14.719980,69.707176,17.003027,24.024698/!600,600/0/default.jpg"/>
@@ -3174,8 +3124,6 @@ V. 11. fyitrgeon.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
-  
 The Ufron Scaud.il.  
 The New York Nation, in commenting  
   
@@ -3249,6 +3197,7 @@ tion vias impossible,&#x27; and that &#x27;if auch an
 idea should be entertained ho could not,  
 professionally or otherwise, take any port  
 towards effecting it&quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenUnR2n_ver01%2Fdata%2F1869092201%2F0075.jp2/pct:31.647326,69.267471,12.537841,21.161942/!600,600/0/default.jpg"/>
@@ -3263,7 +3212,6 @@ towards effecting it&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 SnargEOn&#x27;s AdcicE GrETIse  
 Nobody is more like an honest man than  
 a thorough rogue.  
@@ -3294,7 +3242,8 @@ Put no dependence upon the label of a
 bag; and count money after your own kin.  
 See the sack open before you buy what is  
 in it; for he who trades in the dark asks to  
-be cheated.
+be cheated.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_flyingsquirrel_ver02:data:sn84038125:00294554828:1869092401:0047/pct:80.102941,30.934685,12.529412,17.826577/!600,600/0/default.jpg"/>
 </td>
@@ -3308,7 +3257,6 @@ be cheated.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Surgeon&#x27;s Advice Gratis.  
 Nobody is more like an honest man  
 than a thorough rogue.  
@@ -3369,7 +3317,8 @@ out of employment.
 Always give up tha road to bulls and  
 madmen, and never fight with a coal  
 heaver, nor contend with a base &quot;charac­  
-ter, for they will be sure to blacken you.
+ter, for they will be sure to blacken you.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1869092401:0814/pct:52.736513,21.013651,12.685692,38.948591/!600,600/0/default.jpg"/>
 </td>
@@ -3383,7 +3332,6 @@ ter, for they will be sure to blacken you.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Good Advice.  
   
 Nobody is more like an honest man ;, thin  
@@ -3434,7 +3382,7 @@ than none; and the humblest office U better than
 being out of employment. Always give up the  
 road to bulls and madmen, and never fight wth  
 a coal heaver, or contehd with a base character,  
-for&#x27; they will be sure to blacked i you
+for&#x27; they will be sure to blacked i you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TimeDem11n_ver01%2Fdata%2F1869092801%2F0153.jp2/pct:35.332661,15.035033,15.120968,25.097314/!600,600/0/default.jpg"/>
 </td>
@@ -3448,7 +3396,7 @@ for&#x27; they will be sure to blacked i you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’t.”   
+t.”   
 Don t believe the man who talks  
 most ; for mewing cats are very seldom  
 good mousers.   
@@ -3456,7 +3404,7 @@ Don t be fond of compliments : re­
 member “Thank you, pussy, and thank  
 you pussy,,” killed the cat.   
 Do not choose your friends by their  
-looks ; handsome shoe
+looks ; handsome shoes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151209:1869093001:0603/pct:3.892493,85.024264,14.813099,7.030809/!600,600/0/default.jpg"/>
 </td>
@@ -3470,14 +3418,12 @@ looks ; handsome shoe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 By no means put yourself in another  
 person’s power ; if yo« put your thumbs  
 between grinders,they are very apt to bite.   
 Drink nothing without seeing it; sign  
 nothing without reading it; and make  
-sure that it means no more than it says.
+sure that it means no more than it says. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151209:1869093001:0607/pct:5.069124,90.193417,14.577573,3.834408/!600,600/0/default.jpg"/>
 </td>
@@ -3491,7 +3437,7 @@ sure that it means no more than it says.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is more like an honest min than  
+is more like an honest min than  
 a thorough rogue.   
 Don’t go to law unless you have noth-,  
 ing to loose ; lawyers’ houses are built on  
@@ -3522,7 +3468,7 @@ consin and North­
 ern Illinois:   
 SETH DOAN   
 takes pleasure in announcing that there  
-is now on exhibition at th
+is now on exhibition at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151209:1869093001:0608/pct:4.516823,5.718492,29.543709,90.352168/!600,600/0/default.jpg"/>
 </td>
@@ -3536,11 +3482,11 @@ is now on exhibition at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;t their superior product- or more passengers, who have some difScuhy in  
+t their superior product- or more passengers, who have some difScuhy in  
   
 ..vv..Jr) BM.Viiiiauv,. ,iB&#x27; crowa ,opcos the  
 way, and a3 the passcrcr passes onward his hat  
-is pushed from behind so os to&#x27; nearly cover h
+is pushed from behind so os to&#x27; nearly cover hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TimeDem11n_ver01%2Fdata%2F1869100501%2F0157.jp2/pct:73.554550,35.726113,22.222222,2.201227/!600,600/0/default.jpg"/>
 </td>
@@ -3564,7 +3510,6 @@ is pushed from behind so os to&#x27; nearly cover h
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Nobody is more like an honest  
 man than a thorough rogue.  
 There is always time enough to  
@@ -3580,7 +3525,7 @@ mies with us.
 Don&#x27;t believe in the man who talks  
 most; for mewing cats are very sel­  
 dom good mousers.  
-Not long since 
+Not long since a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1869101201:0346/pct:18.472086,43.587028,12.732615,13.064196/!600,600/0/default.jpg"/>
 </td>
@@ -3594,14 +3539,13 @@ Not long since
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 Don&#x27;t throw away dirty wirter until  
 you hhfe got clean ;&#x27; keep on scraping the  
 road&#x27;s fill y6d can get better work ; for the&#x27;  
 poorest pay is better than none, and the  
 humblest oftico is better than being- out of  
 employment.  
-Only $15.50 of the
+Only $15.50 of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197437:1869101201:0607/pct:79.525692,83.967126,12.707510,4.917119/!600,600/0/default.jpg"/>
 </td>
@@ -3615,15 +3559,13 @@ Only $15.50 of the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 When a new opinion or doctrine comes  
 before you, do not bite till you know wheth  
   
 er it is bread or stone; and don&#x27;t be sure  
 that the gingerbread is good because of the  
   
-gilt on l
+gilt on lb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0155/pct:46.414729,94.725738,9.565338,1.940928/!600,600/0/default.jpg"/>
 </td>
@@ -3637,7 +3579,7 @@ gilt on l
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sleeve  
+sleeve  
 made of fine cloth, r This leads some to  
 smell foul plity. When the mystery is  
 cleared up we hope Mr. Stevens will let  
@@ -3648,7 +3590,8 @@ By no means put yourself in another
 person&#x27;s power; if you put your thumb be­  
 tween two erinders, tbev are very apt to  
   
-DIM).
+DIM).  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0155/pct:56.381506,92.848101,9.634551,3.744726/!600,600/0/default.jpg"/>
 </td>
@@ -3662,11 +3605,10 @@ DIM).
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Always give up the road to bulls and  
 madmen ; and never fight with a coal hea­  
 ver, nor contend with a base character, for  
-they will be sure to blacken you
+they will be sure to blacken you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0156/pct:13.622421,9.004492,9.578918,1.608691/!600,600/0/default.jpg"/>
 </td>
@@ -3680,8 +3622,6 @@ they will be sure to blacken you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Good Advice, This.  
   
 Nobody is more like an honest man  
@@ -3739,7 +3679,7 @@ eaver, or contend with a base character,
 ir they will be sure to blacken you.  
 Rev. C. H. Spurgeon.  
   
-K
+Ke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869101401:0227/pct:50.689429,52.492784,10.866710,24.612962/!600,600/0/default.jpg"/>
 </td>
@@ -3753,7 +3693,7 @@ K
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- man  
+man  
 than a thorough rogue.  
 In diving to the bottom of pleasures,  
 we bring up more gravel than pearls.  
@@ -3786,7 +3726,7 @@ and strengthened by enjoyment.
 See the sack open before you buy  
 what is in it; for he who trades in the  
 dark asks to be cheated.  
-Drin
+Drink
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1869101401:0748/pct:39.567820,20.629293,11.154913,16.264126/!600,600/0/default.jpg"/>
 </td>
@@ -3800,7 +3740,7 @@ Drin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it, and  
+it, and  
 make sure that it means no more than it  
 says.  
 When you see a man with a great  
@@ -3809,7 +3749,7 @@ dow, you may depend upon it he keeps a
 very small stock of it within.  
 By no means put yourself in another  
 persen&#x27;s power; if you put your thumb  
-bet ween two grinders, they are apt to bite
+bet ween two grinders, they are apt to bite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1869101401:0748/pct:39.582421,36.871261,11.111111,4.730778/!600,600/0/default.jpg"/>
 </td>
@@ -3823,8 +3763,6 @@ bet ween two grinders, they are apt to bite
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Good Advice.  
   
 Nobody is more like an honest man  
@@ -3880,7 +3818,7 @@ heaver, or contend with a base charac­
 ter for they will be sure to blacken you.  
 Good-BYe.It is a hard word to  
 speak. Some may laugh that it should  
-be, but let 
+be, but let t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1869102001:0364/pct:39.618029,46.152052,10.527120,21.921642/!600,600/0/default.jpg"/>
 </td>
@@ -3894,7 +3832,6 @@ be, but let
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ferings.  
 Good Advice.  
 Spurgeon says : &quot;Nobody is more like au  
@@ -3945,7 +3882,7 @@ men. and never fight with a coal heaver, or
 couteud with a base character, for they will  
 be sure to blacken you.&quot; .  
 ? Among the obituary notices in a cun&lt;  
-try paper, we recentl
+try paper, we recently
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1869110201:0389/pct:84.852217,54.758029,13.810697,28.992156/!600,600/0/default.jpg"/>
 </td>
@@ -3959,7 +3896,6 @@ try paper, we recentl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Keep clear of the man who does not value  
 his own character.  
 There is always time enough to boast;  
@@ -4000,7 +3936,8 @@ may depend upon it he keeps a very small
 THERE are men who by long consulting  
 only their own inclination, have forgotten  
 that others have a claim to the same defer­  
-once.
+once.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1869110501:0627/pct:84.385076,74.700212,11.239060,21.866917/!600,600/0/default.jpg"/>
 </td>
@@ -4014,7 +3951,6 @@ once.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Good Advice.  
 Nobody is more like an honest man  
 than a thorough rogue. When you  
@@ -4069,7 +4005,7 @@ come up and piy the expense inci­
 dent to procuring a new lock and fit­  
 ting it on the door. Our friends are  
 always welcome when we are at home,  
-but we want i
+but we want it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1869110501:0109/pct:29.497149,39.818123,10.549508,35.054671/!600,600/0/default.jpg"/>
 </td>
@@ -4083,13 +4019,12 @@ but we want i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 taxes.  
 Drink nothing without seeing it ; sign  
 nothing without reading it, and make sure  
 it means no more than it says.  
 In any business, never wade into wat.r  
-where you cannot see tile bottom
+where you cannot see tile bottom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1869110501:0246/pct:73.655559,88.408393,11.266909,3.799898/!600,600/0/default.jpg"/>
 </td>
@@ -4103,7 +4038,7 @@ where you cannot see tile bottom
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ss beauty.  
+s beauty.  
 Drink nothing without seeing it;  
 sign nothing without reading it, and  
 mnake sure that it meals no more  
@@ -4120,7 +4055,8 @@ the number of
 ave been bolt.  
 ed in the seive of his own adversity;  
 for there is much bran in prosper­  
-ous friendship.
+ous friendship.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1869110501:0601/pct:42.323409,29.873991,12.531621,9.429421/!600,600/0/default.jpg"/>
 </td>
@@ -4134,7 +4070,6 @@ ous friendship.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 man than a thoroug  
 ike  
 1O;  
@@ -4145,7 +4080,8 @@ ures, we bring up more gravel than
 pearls.  
 Dr. Chapin says that love of gold  
 in Wall street has macadamised the  
-ten comandments.
+ten comandments.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1869110501:0601/pct:42.420704,43.805748,12.239735,4.629761/!600,600/0/default.jpg"/>
 </td>
@@ -4169,8 +4105,7 @@ ten comandments.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-Nobody is more like an honest man  
+an honest man  
 than a rogue.!;;: ; ;;;;&#x27;:;&#x27;,.&#x27;;;.&#x27;  
 When you see a man with a good  
 deal of religion displayed in his shop  
@@ -4233,9 +4168,9 @@ coal-heavy iror-conrend with a base
 character, for they will be sure to  
 blacken you.  
 . &#x27; j T J.S TT.ct r; rj y  
-CONCERNING
+CONCERNING 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869111101:0320/pct:8.227446,20.550688,10.768742,33.416771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869111101:0320/pct:8.227446,20.600751,10.768742,33.366708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4247,9 +4182,8 @@ CONCERNING
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Let no one count the number of his  
-friends till they have been
+friends till they have been 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869112501:0254/pct:26.360319,43.984426,10.932316,0.830629/!600,600/0/default.jpg"/>
 </td>
@@ -4263,7 +4197,6 @@ friends till they have been
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ter years if your life be spared.&quot;  
 toKeep on at scraping the roads until  
 you can get better work; for the poorest  
@@ -4275,7 +4208,7 @@ and in the end you will not only be respect­
 ed by the world, but have the approval of  
 your conscience.  
 t Do the best you can where you are;  
-and when that is done you wil
+and when that is done you will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1869112601:0568/pct:30.440039,85.113541,12.769987,8.760863/!600,600/0/default.jpg"/>
 </td>
@@ -4289,7 +4222,7 @@ and when that is done you wil
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s Advice t-r.iti?.  
+s Advice t-r.iti?.  
 Nobody is more like ;.ti honest man  
 than i t!i&lt;?r ugh rnjj; r.  
 When you ffi a oi*n with a grc^t deal  
@@ -4313,7 +4246,7 @@ no&#x27;.&#x27;jr.g withe ut ri .r!i;&#x27;g i&#x27;, and mske sure
 that it moans ti&#x27;&gt; mure than il say h.  
 Don&#x27;t go lo law unless you I &lt;*c 1 . t  
 i::j to !co?c : lawyer- l.ou-es ;i?* &#x27; u t  
-on fool&#x27;s
+on fool&#x27;s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1869112701:0611/pct:56.571507,46.568724,13.129224,13.764543/!600,600/0/default.jpg"/>
 </td>
@@ -4329,7 +4262,7 @@ on fool&#x27;s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--Nobody is  
+Nobody is  
 moro like am honest man than a thorough  
 rogue Whon you soo a mun with a groat  
 doal of religion displayed in Ina Bhop  
@@ -4381,7 +4314,7 @@ being without employment Always give up
 the road to bulls and madmen, and never  
 fight with a oOBlhoaver, or contend with  
 a hue character, far they will be sure  
-to blacken you
+to blacken you.
 </td></tr></table>
 
 ---
@@ -4392,9 +4325,10 @@ to blacken you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ve of his own adversity,  
+e of his own adversity,  
 for there is much bran in prosperous  
-friendship.
+friendship.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1869120301:0450/pct:63.558840,93.500608,9.621944,1.392727/!600,600/0/default.jpg"/>
 </td>
@@ -4408,7 +4342,7 @@ friendship.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- without tonghes preath better  
+without tonghes preath better  
 than some that have them.  
 Harsh words are hailstones, which, if  
 melted, would fertilize the tender plants  
@@ -4420,7 +4354,7 @@ very good.
 Slander hot those who blander you.  
 Bite not the reptile beeause he bites.  
 Familics of real position are not jealous  
-of i
+of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:00202192488:1869120601:0227/pct:17.791101,61.418333,15.551864,8.940895/!600,600/0/default.jpg"/>
 </td>
@@ -4434,7 +4368,7 @@ of i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: Nobody-is morn  
+Nobody-is morn  
 lib an honest Man than a thorough  
 &#x27;MI6; linetryon see p Man with a I -  
 greet &#x27;deal of relleondu*yed in his  
@@ -4490,7 +4424,8 @@ Always give up the road to buN•and
 madmen, and neverlght with a coal  
 heaver or contend witho base char­  
 eater, for they will be slue to blacken &#x27;  
-you.
+you.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001804%2F1869120901%2F0169.jp2/pct:84.527176,16.887019,10.391140,26.211412/!600,600/0/default.jpg"/>
 </td>
@@ -4504,31 +4439,6 @@ you.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the begs verified. Should any  
-purceptible difference in weight be­  
-I down, the contents of the  
-leficient bag are counted, and the  
-crror correted. In examining small  
-coin, such as dollars and quarter  
-cagles, a shade of difference in  
-inl requc  
-count of the contents has invariably  
-far, that the amount was  
-correc  
-There are about $75,00001,000  
-goll coin, $10,000 silver coin, and  
-about $1,5000,000 gold and silver  
-ontrol of the Assistant Treas  
-ao   
-bood Adtlee.  
-ae e e e e o  i  
-looks, handsome sboes often pine  
-  
-You.  
-at  
-the man who talks the most; for  
-ian ca are tery tetom  
-a another&#x27;s power; if you put  
 they are very apt to bite. Drink  
 nothing wihout seeing it; sign noth.  
 ee ee oo  
@@ -4579,9 +4489,9 @@ coal heaver, or contend wih a base
 o ta    
 eiaraetel, tof they will be sure to  
 ent  are ty  
-blacken youdtey toir 
+blacken youdtey toir g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295878484:1869121101:0107/pct:9.972706,32.566671,12.471132,58.416820/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295878484:1869121101:0107/pct:9.972706,59.164668,12.471132,31.818823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4593,7 +4503,7 @@ blacken youdtey toir
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. —Nobody is more like  
+—Nobody is more like  
 tn honest man than a thorough rogue. When  
 you see a man with a great deal of religion dis­  
 played in his shop window you may depend  
@@ -4642,7 +4552,7 @@ geon.
 Put no de­  
 no  
 no man  
-
+S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894936:1869121501:0460/pct:78.288350,47.084708,14.417492,22.320010/!600,600/0/default.jpg"/>
 </td>
@@ -4656,13 +4566,12 @@ no man
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’  
 Keep n at scraping the roads until you  
 con get better work ; for the poorest pay  
 is better than none, and the humblest  
 office better than being out of employ-,  
 meat  
-Beware of no uiau more than yourself
+Beware of no uiau more than yourself 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1869121601:0193/pct:5.258231,90.346394,12.310813,3.339012/!600,600/0/default.jpg"/>
 </td>
@@ -4676,7 +4585,6 @@ Beware of no uiau more than yourself
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Home Heading.  
 Noboly looks more like an honest man  
 than a thorough rogue.  
@@ -4717,7 +4625,7 @@ Beware of him who swears. He whe
 would blaspheme his Maker would make  
 no bones of lying or slealing.  
 Beware of no man more than yourself:  
-we carry our worst enemies within us
+we carry our worst enemies within us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:00202192488:1869122001:0235/pct:79.273504,11.386312,15.933048,28.763347/!600,600/0/default.jpg"/>
 </td>
@@ -4731,12 +4639,12 @@ we carry our worst enemies within us
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is said to be threatening be  
+is said to be threatening be  
 tween the Mexicans and the Texans  
 Don&#x27;t be too fond of compliments.  
 Remember, &quot;thank you, pussy, and  
 thank you, pussy,&quot; killed the cat.  
-Jose Morena died i
+Jose Morena died in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869122201:0822/pct:17.106046,69.800650,11.199207,3.732504/!600,600/0/default.jpg"/>
 </td>
@@ -4750,12 +4658,11 @@ Jose Morena died i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 When you see a man with a good  
 deal of religion displayed in his shop  
 window, you may depend upon it he  
 keeps a very small stock of it within.  
-A negro pet at Paris, Ten
+A negro pet at Paris, Tenn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869122201:0822/pct:17.066402,80.800226,11.119921,2.587304/!600,600/0/default.jpg"/>
 </td>
@@ -4769,12 +4676,12 @@ A negro pet at Paris, Ten
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Keep on scraping the roods until you  
 can get botter employment, for &#x27;the  
 poorest pay is better than none; and tho  
 humblest offioo is better than being oat  
-of employment.
+of employment.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551529:1869122801:0203/pct:1.401869,90.108531,16.199377,3.475752/!600,600/0/default.jpg"/>
 </td>
@@ -4788,8 +4695,9 @@ of employment.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-— Beware of no man more than yourself:  
-we carry our worst enemies with us.
+Beware of no man more than yourself:  
+we carry our worst enemies with us.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157%2Fsim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157_jp2.zip%2Fsim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157_jp2%2Fsim_oliver-optics-magazine-our-boys-and-girls_1870-01-01_7_157_0016.jp2/pct:47.340426,84.375000,36.258865,2.399554/600,/0/default.jpg"/>
 </td>
@@ -4803,13 +4711,12 @@ we carry our worst enemies with us.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 If a new opinion or doctrine co-.?e  
 before you, do not bite until you know  
 whether it is bread or a stone; and do  
 not be sure that the gingerbread is good  
 because of tho gilt on it.  
-I
+If
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623719:1870010601:0010/pct:39.344613,79.368527,11.372885,3.725359/!600,600/0/default.jpg"/>
 </td>
@@ -4823,10 +4730,9 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 Let no one count the numher of his  
 feiends fill they have been bolted in the  
-sieve of his own adversity, for theirs i
+sieve of his own adversity, for theirs is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:00202192488:1870012401:0252/pct:78.453432,35.025650,15.152378,2.065275/!600,600/0/default.jpg"/>
 </td>
@@ -4840,7 +4746,7 @@ sieve of his own adversity, for theirs i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- be  
+be  
 a petrified glant.  
 Don&#x27;t believe a man who talks mont;  
 me wing cats are very seldom good  
@@ -4849,7 +4755,7 @@ By no means put yourself in another
 person&#x27;s power; if you put your thumb  
 batween two grinders, they are very apt  
 to bite.  
-Woma
+Woman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193766:1870020301:0026/pct:80.562827,37.004754,16.204188,8.289311/!600,600/0/default.jpg"/>
 </td>
@@ -4863,7 +4769,7 @@ Woma
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Nobody us more like ag  
+Nobody us more like ag  
 honest man than a thorough rogue. When  
 you see a toan with a great deal of religion  
 displayed in his shop window, you may de­  
@@ -4889,7 +4795,7 @@ dence upon the label of a bag; and touut
 money before you receipt for it. Sea the  
 sack opened before you buy what ia iu it;  
 for he who trades in the dark asks to be  
-cheated.
+cheated. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688349:1870020501:0734/pct:3.574956,82.992788,12.680229,14.543269/!600,600/0/default.jpg"/>
 </td>
@@ -4903,7 +4809,7 @@ cheated.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-— Don’r believe in the man who talks  
+Don’r believe in the man who talks  
   
 most, for ‘‘ mewing cats are very seldom good  
 mousers.”  
@@ -4916,7 +4822,8 @@ BY AUNT CARRIE.
 M*Y pleasant games have I played with  
 my young friends; and I will now give  
 directions for two that are new and enter-  
-taining.
+taining.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162%2Fsim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162_jp2.zip%2Fsim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162_jp2%2Fsim_oliver-optics-magazine-our-boys-and-girls_1870-02-05_7_162_0012.jp2/pct:11.944938,9.522472,74.023091,76.853933/,600/0/default.jpg"/>
 </td>
@@ -4930,7 +4837,7 @@ taining.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, just think the nutter over, and en­  
+just think the nutter over, and en­  
 deavor to understand why it was you failed,  
 so that you may he on your guard against a  
 recurrence of the Same circumstances. Do  
@@ -4965,7 +4872,7 @@ men; and never fight a coalheaver, or con­
 tend with a base character, for they will be  
 sure to blacken you.  
   
-Tm
+Tm 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688349:1870021201:0758/pct:1.968267,55.309802,12.592890,19.678837/!600,600/0/default.jpg"/>
 </td>
@@ -4979,7 +4886,7 @@ Tm
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--Nobody is more like an  
+Nobody is more like an  
 bonest man than a thorotigh rogue.w  
 you see a man with a great deal of religion  
 layed in his shop window, you may de  
@@ -5006,7 +4913,7 @@ and count money before you receipt for it
 See the sack opened before you buy whate  
 i in i o e e ae ine a ae  
 o e ee e ae e o e ee  
-Society, like shade
+Society, like shaded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280761692:1870022701:0455/pct:7.647274,82.649007,15.642151,15.143488/!600,600/0/default.jpg"/>
 </td>
@@ -5020,7 +4927,6 @@ Society, like shade
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Nobody is mora like an honest man  
 than a thorough rogue.  
 When you see a man with a great  
@@ -5078,7 +4984,7 @@ madmen ; and never fight with a coal
 heaver, or contend with a base charac­  
 ter, for they will be sure to blacken you.  
 Spurgeon.  
-Julianism. Geo W Julian i
+Julianism. Geo W Julian is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1870030101:0523/pct:69.804666,15.079090,12.276180,33.090867/!600,600/0/default.jpg"/>
 </td>
@@ -5094,7 +5000,7 @@ Julianism. Geo W Julian i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--Nobody  
+Nobody  
 is moro Uko nn honost man thu thorough  
 rogue. When you seo a man with a groat  
 dc«! olrelldi displayed in his shop  
@@ -5144,7 +5050,7 @@ belüg« out employment. Always glvo up
 tho roads to bulls and main and never  
 light with n coal-heaver, or contend  
 with a base chis tor. for they will bc  
-suro to blacken you. 
+suro to blacken you. I
 </td></tr></table>
 
 ---
@@ -5155,7 +5061,7 @@ suro to blacken you.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-stern  
+tern  
 Rural.  
   
 Spurgeon’s Sayings.  
@@ -5215,7 +5121,7 @@ quite out of the woods; and never
 cry fish tin they are caught in the  
 net.  
 Petty thieves continue their nefar­  
-en
+ens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053883:00514151027:1870031701:0044/pct:32.537368,61.711889,11.629603,32.389566/!600,600/0/default.jpg"/>
 </td>
@@ -5229,10 +5135,10 @@ en
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- butter.  
+butter.  
  Beware of a man wio swears.  
 He who would blaspheme his Maker,  
-woued make no bones of lying or stea
+woued make no bones of lying or steal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn94051044:00280762623:1870032501:0477/pct:57.294416,92.508489,12.538071,2.274335/!600,600/0/default.jpg"/>
 </td>
@@ -5246,13 +5152,13 @@ woued make no bones of lying or stea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- .  
+.  
 When a new opinion or doctrine  
 comes before you. d not bite nmp  
 you know whether it is bread orstouo  
 and do not be sure that the ginger­  
 bread is good ltccan-c of the gilt on  
-It, 
+It, r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1870051301:0169/pct:5.937328,90.301399,9.868059,3.379978/!600,600/0/default.jpg"/>
 </td>
@@ -5266,7 +5172,7 @@ It,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: &#x27;  
+&#x27;  
 Nobody i4 more like an honest nwu  
 than a thorough rogue 1 -  
 When you see a man with a great  
@@ -5295,7 +5201,7 @@ nothiug to lose ; lawyers houses are
 bnilt of fools heads. &#x27; - - - .. .  
 In any business never wade into  
 water when you cannot see the bot­  
-tom.
+tom. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1870051301:0169/pct:26.443101,82.572659,9.826828,13.132400/!600,600/0/default.jpg"/>
 </td>
@@ -5309,16 +5215,15 @@ tom.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- which are superfluous, and  
 to depend upon fortune for the felicity of  
 life which arises only from virtue  
 There are men who, by long consulting  
 only their own inclination, have forgotten  
 that others have a claim to the same defer­  
 ence.  
-Sin is b
+Sin is ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870051301:0346/pct:49.689238,90.353452,11.122015,4.912594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870051301:0346/pct:49.689238,90.851091,11.122015,4.414955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5330,7 +5235,7 @@ Sin is b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- Nobody i? more like  
+Nobody i? more like  
 an honest, mau tbau a thorough rogue.  
 &quot;When you peo a mao with a great deul of  
 religion displayed ia bis shop window,  
@@ -5368,7 +5273,7 @@ mad-men, and never fight with a coal­
 heaver, or contend with a baso character,  
 for they will be sure to blacken you.  
 [Rev. C. H. Spurgeon.  
-In orde
+In order
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551530:1870051401:0157/pct:0.609969,1.668034,16.608574,24.500957/!600,600/0/default.jpg"/>
 </td>
@@ -5382,12 +5287,13 @@ In orde
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the  
+the  
 face.  
 Be true to your manhood’s conviction,  
 and in the end you will not only be re­  
 spectcd by the world but have the ap­  
-proval of your conscience.
+proval of your conscience.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1870052001:0305/pct:7.332625,83.453423,13.407722,3.705610/!600,600/0/default.jpg"/>
 </td>
@@ -5401,9 +5307,9 @@ proval of your conscience.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-? There are men who, by long consulting  
+There are men who, by long consulting  
 only their own inclination, have forgotten that  
-others have a claim to the same deference.
+others have a claim to the same deference. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1870052601:0303/pct:49.290158,83.672117,15.728186,1.933274/!600,600/0/default.jpg"/>
 </td>
@@ -5417,7 +5323,7 @@ others have a claim to the same deference.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-? ?  
+?  
 Good Advice.?Nobody is more like an  
 honest man than a thorough rogue. When  
 you see a man with a great deal of religion  
@@ -5455,7 +5361,7 @@ have got clean.
 4 Always give up the road to bulls and mad,  
 men, and never fight with a coal-heaver, or  
 contend with a base character, for they will be  
-sure to blacken you.?Rev. G. H. Spurgeon
+sure to blacken you.?Rev. G. H. Spurgeon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862737:1870060201:0252/pct:26.288899,10.669643,12.935439,18.580357/!600,600/0/default.jpg"/>
 </td>
@@ -5469,12 +5375,12 @@ sure to blacken you.?Rev. G. H. Spurgeon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o not tbiok it an easy thing tbat you .  
+not tbiok it an easy thing tbat you .  
 bave undertaken. It is fully to expect to ,  
 break off a habit in a .day which may  
 have been gathering strength in you for  
 years, &#x27; .. r;.e  
-; Yankei rrs
+; Yankei rrs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210412Foo05_ver01%2Fdata%2Fsn94052328%2F14063001527%2F1870060301%2F0161.jp2/pct:16.289967,71.210328,10.722161,2.818720/!600,600/0/default.jpg"/>
 </td>
@@ -5488,12 +5394,11 @@ years, &#x27; .. r;.e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Let no one count the number of his  
 friends till they have been bolted in the  
 seive of his own adversity, for there is  
 much bran in prosperous friendship.  
-A
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1870060301:0309/pct:6.289765,76.056879,14.324668,3.330771/!600,600/0/default.jpg"/>
 </td>
@@ -5507,12 +5412,12 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- dere to see if de chicitens sleep  
+dere to see if de chicitens sleep  
 th der eyes open.&quot;  
 Let no one count the number of his an  
 ends till they have been bolted in thesin  
 ve of his own adversity, for there isdo  
-ch bran in prosperous friendship
+ch bran in prosperous friendship.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280761692:1870062601:0594/pct:1.305088,40.223707,16.039342,3.282975/!600,600/0/default.jpg"/>
 </td>
@@ -5526,15 +5431,13 @@ ch bran in prosperous friendship
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Ler no one count the number of  
   
 friends until they have been bolted in  
   
 the seive of his own adversity; for  
 there is much bran in prosperous  
-friendship.&quot; Tan
+friendship.&quot; Tano
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1870072101:0466/pct:26.699187,90.876747,10.617886,2.693774/!600,600/0/default.jpg"/>
 </td>
@@ -5548,11 +5451,11 @@ friendship.&quot; Tan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Let i?o orio. coat the  
+Let i?o orio. coat the  
 number of his&#x27; friotlds till they have .  
 boon bolted in the siove of his own ad­  
 versity,&#x27; for there is much bran in pros­  
-porous frendsbips.
+porous frendsbips. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EagFay1n_ver01%2Fdata%2F1870080401%2F0347.jp2/pct:78.855519,75.898429,12.134740,2.819023/!600,600/0/default.jpg"/>
 </td>
@@ -5566,8 +5469,6 @@ porous frendsbips.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 In diving to the bottom of pleas­  
 urem we bring up more gravel than  
 peark  
@@ -5578,7 +5479,7 @@ ed, would fertilize the tender iiluntri
 thee hatter down.  
   
 Mental pleasures never cloy. En­  
-like those ofth
+like those ofthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001928%2F1870090101%2F0270.jp2/pct:35.692532,61.162346,14.108845,4.850357/!600,600/0/default.jpg"/>
 </td>
@@ -5592,7 +5493,7 @@ like those ofth
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as they have been to me.  
+as they have been to me.  
 JNobody is more like an honest  
 man than a thorough rogue. When  
 you see a man with a .great deal of  
@@ -5654,7 +5555,7 @@ they will be sure to blacken you.
 Nor lay wagers, nor lend.  
 And you may depend  
 You&#x27;ll have peace to your end.  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1870101301:0104/pct:26.560357,51.939337,9.705075,30.210710/!600,600/0/default.jpg"/>
 </td>
@@ -5668,7 +5569,7 @@ You&#x27;ll have peace to your end.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tor ttifies, Let them  
+tor ttifies, Let them  
 do that honor you.  
 Whatever you dislike in anottioi, take mare  
 to correct in yourself.  
@@ -5695,7 +5596,7 @@ them in the net.
   
 If s man is honest and truthful, there is  
 little need of saying much about it.  
-T
+Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002427%2F1870102001%2F0161.jp2/pct:64.715221,18.777954,14.625918,12.985139/!600,600/0/default.jpg"/>
 </td>
@@ -5709,7 +5610,7 @@ T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in the world  
+in the world  
   
 By no means put yourself in another per.  
 son&#x27;s power; if you put your thumb between  
@@ -5719,7 +5620,8 @@ nothing without reading it, and make sure
 that it means no More than it asp.  
 Beware of .a man who swears; for a man  
 who would blaspheme his Maker, would make  
-no bones of lying or stealing.
+no bones of lying or stealing.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002427%2F1870102001%2F0161.jp2/pct:64.690415,38.187130,14.606073,5.691819/!600,600/0/default.jpg"/>
 </td>
@@ -5733,7 +5635,7 @@ no bones of lying or stealing.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n one of  
+one of  
 me oiu ones, leu over oy ine ower  
 girl!&quot;  
 a  
@@ -5760,7 +5662,7 @@ industry.
 truthful  
 there is little need of saying much  
 about it  
-&quot;Th
+&quot;Tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775812:1870102101:0482/pct:74.251222,4.074903,20.446210,92.085738/!600,600/0/default.jpg"/>
 </td>
@@ -5774,7 +5676,6 @@ about it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Do not choose your friend by his  
 looks, handsome shoes often pinch the  
 feet.  
@@ -5827,7 +5728,8 @@ out of employment.
 Always givo the road to bulls and  
 madmen ; anti never fight with n coal  
 heaver, nor contend with a base charac?  
-ter, for thoy will bo sure to blackcu you.
+ter, for thoy will bo sure to blackcu you.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn84026917:0029455130A:1870110901:0186/pct:48.742138,64.125366,12.473795,28.999024/!600,600/0/default.jpg"/>
 </td>
@@ -5841,7 +5743,7 @@ ter, for thoy will bo sure to blackcu you.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eIF.  
+IF.  
 Spurgeon&#x27;s Advice Gratis.  
 Nonopy is more like an honest man  
 than a thorough rogue.  
@@ -5877,7 +5779,7 @@ to be cheated
 Keep clear of a man who does not value  
 his own character  
 es  
-To CuT WHALerONE EAsILY. Hold i
+To CuT WHALerONE EAsILY. Hold it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn84038005:0020029581A:1870111001:0269/pct:73.141004,79.196258,10.969473,16.966915/!600,600/0/default.jpg"/>
 </td>
@@ -5891,7 +5793,6 @@ To CuT WHALerONE EAsILY. Hold i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 city.  
   
 Spnrgeon&#x27;g Advice Gratis*  
@@ -5938,7 +5839,8 @@ to be cheated.
 Keep clear of a man who does not value  
 his own character. ,n  
   
-Orchard and Nursery.
+Orchard and Nursery.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1870111701:0545/pct:65.293132,55.368543,14.187605,19.210679/!600,600/0/default.jpg"/>
 </td>
@@ -5952,7 +5854,7 @@ Orchard and Nursery.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s and allowance for &quot;fractions.&quot;  
+and allowance for &quot;fractions.&quot;  
 EpurgEON&#x27;s ADVicE GrATiS.  
 Nobody is more like an honest man than  
 a thorough rogue.  
@@ -5997,7 +5899,7 @@ insane crusade against the interest of home
 trade and a home market for its cereals, is  
 fostering a heresy as rank as the sectional  
 istn which has sapped the foundations of  
-souther
+southern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn84038628:0029587997A:1870120201:0524/pct:5.197104,64.154735,11.069992,21.288621/!600,600/0/default.jpg"/>
 </td>
@@ -6065,7 +5967,7 @@ the Arabs of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s Advice Gratin.  
+s Advice Gratin.  
   
 Nobody i more like an honest uiau  
 than a thorough rogue.  
@@ -6100,7 +6002,8 @@ See the sack open before you buy what
 is in It, for he who trades in the dark  
 jj.sk to he cheated.  
 Keep clear of a man who does, not  
-value his own character.
+value his own character.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1870122101:0072/pct:8.364312,41.338264,10.455390,13.660002/!600,600/0/default.jpg"/>
 </td>
@@ -6114,7 +6017,7 @@ value his own character.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
+  
   
 geon&#x27;s Advice GratI  
   
@@ -6162,7 +6065,7 @@ cheated.
 Keep clear of a man who  
 does not value his own char  
   
-The 
+The T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1870122101:0409/pct:79.721305,13.783220,12.486249,35.474205/!600,600/0/default.jpg"/>
 </td>
@@ -6176,7 +6079,7 @@ The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* Advice Gratis.  
+Advice Gratis.  
 Don’t believe the man who talks mot;  
 fur mewing cats are very seldom good  
 mouse rs.  
@@ -6221,7 +6124,8 @@ better than being out of employment.
 Alwaxs give up the road lo bulls and  
 mailmen; and never fight with a coal  
 lienver, nor contend with a base charac­  
-ter for they will be sure to blacken you.
+ter for they will be sure to blacken you.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1870122101:0570/pct:58.713059,5.877829,12.403552,26.071193/!600,600/0/default.jpg"/>
 </td>
@@ -6235,7 +6139,7 @@ ter for they will be sure to blacken you.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the  
+the  
 fur mewing cam aril very seldom  
 good m ousers,  
 liv no means put Yourself in another  
@@ -6263,7 +6167,8 @@ whr t t ry or It , for he who troolen in the
 dark itlty to be chente,l.  
   
 Keep clear of a Mall who does not  
-value hp+ own character.
+value hp+ own character.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001928%2F1870122301%2F0399.jp2/pct:36.116924,61.734164,13.628041,13.590343/!600,600/0/default.jpg"/>
 </td>
@@ -6277,7 +6182,7 @@ value hp+ own character.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dtice. a  
+tice. a  
 ly expresses a number of thonirhts  
 4 worth remembering&quot; in the following  
 appropriate sentences, which he pub­  
@@ -6318,7 +6223,7 @@ what is in it ; for he who trades in the
 dark asks to be cheated.  
 Keep clear of a man who does not  
 value his own character.  
-Wel
+Well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871010501%2F0409.jp2/pct:65.194397,15.692537,12.178388,21.824763/!600,600/0/default.jpg"/>
 </td>
@@ -6332,7 +6237,7 @@ Wel
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.Good Advice.  
+Good Advice.  
   
 is  
 to  
@@ -6383,7 +6288,7 @@ bay what is in it; for he who
 trades in the dark asks to be  
 cheased.  
 Keep clear oi man who does  
-not value his own character
+not value his own character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85034457:00280774820:1871010501:0170/pct:36.805556,59.322034,11.790123,27.401130/!600,600/0/default.jpg"/>
 </td>
@@ -6407,7 +6312,6 @@ not value his own character
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s  
 yet the strongest candidate in the country  
 for the Presidency.  
   
@@ -6430,7 +6334,7 @@ on&#x27;s power. If you put rour thumd
 tween two grinders they are very apt  
 Drink nothing without secing it, sign  
 ut no dependence on the label of a  
-a
+at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_flyingsquirrel_ver02:data:sn84038125:00294554828:1871010601:0325/pct:55.859835,60.178088,13.015312,19.093778/!600,600/0/default.jpg"/>
 </td>
@@ -6444,8 +6348,6 @@ a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Surgeon sententioualy expresses a  
 number of thoughts &quot; wortli remember­  
 ing &quot; in the following appropriate sen­  
@@ -6494,7 +6396,7 @@ value his own character.
   
 The Winter Fashions.  
   
-All velvet cloaks are either made v
+All velvet cloaks are either made ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn85054524:00296028721:1871010601:0003/pct:22.503243,54.591787,10.155642,18.416152/!600,600/0/default.jpg"/>
 </td>
@@ -6508,7 +6410,6 @@ All velvet cloaks are either made v
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ** Nobody is more like an honest man than a thor-  
 ough rogue.”  
   
@@ -6531,7 +6432,7 @@ can not see the bottom.”
   
   
 The ladies of Lafayette, Indiana, are }&#x27;~ mo  
-ble, if the armounced object of 
+ble, if the armounced object of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1871-01-07_15_732%2Fsim_harpers-magazine_1871-01-07_15_732_jp2.zip%2Fsim_harpers-magazine_1871-01-07_15_732_jp2%2Fsim_harpers-magazine_1871-01-07_15_732_0010.jp2/pct:70.841734,33.176312,19.632056,9.286676/600,/0/default.jpg"/>
 </td>
@@ -6545,7 +6446,6 @@ ble, if the armounced object of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 These are some Of Spurgeon’s pithy sayings:  
   
 ** Nobody is more like an honest man than a thor-  
@@ -6568,7 +6468,7 @@ money after your own kind.”
 can not see the bottom.”  
   
 The ladies of Lafayette, Indiana, are bh‘ &#x27; met.  
-ble, if the armounced object of 
+ble, if the armounced object of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-weekly_harpers-weekly_1871-01-07_15_732%2Fsim_harpers-weekly_harpers-weekly_1871-01-07_15_732_jp2.zip%2Fsim_harpers-weekly_harpers-weekly_1871-01-07_15_732_jp2%2Fsim_harpers-weekly_harpers-weekly_1871-01-07_15_732_0010.jp2/pct:68.407439,32.922656,19.004804,9.933265/600,/0/default.jpg"/>
 </td>
@@ -6582,7 +6482,7 @@ ble, if the armounced object of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’s Advice Gratis.—Nobody  
+s Advice Gratis.—Nobody  
 i« tnars like on lioneii man tiian n thorough  
 rogue.  
 When you ace a man with a great deal  
@@ -6616,7 +6516,7 @@ is in it, for he who trades iu the dark asks
 to l&gt;o cheated.  
 Koop clear of a man who does not value  
 hit awn character.  
-t
+tr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1871011001:0348/pct:31.540342,79.778618,13.259357,18.871490/!600,600/0/default.jpg"/>
 </td>
@@ -6630,7 +6530,7 @@ t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- mittione.  
+mittione.  
 Spnrgeoa sententiooaly expresses a num­  
 ber of thoughts “worth remembering” in  
 the following appropriate] sentences, which  
@@ -6663,7 +6563,8 @@ and count money after your own kind.
 la any business never wade into water  
 when yon cannot see the bottom.  
 Baa the sack open before yon bay what is  
-nr he who trades in Urn dark asks to
+nr he who trades in Urn dark asks to  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991410:1871011101:0170/pct:1.532927,83.937640,13.014234,14.408882/!600,600/0/default.jpg"/>
 </td>
@@ -6687,12 +6588,12 @@ nr he who trades in Urn dark asks to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Let no one count the number of his  
 friends till they have been bolted in  
 the Beive of his own adveraity, for  
 there Is much bran In prosperous  
-friendship.
+friendship.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871011801:0120/pct:55.677291,58.476758,9.511952,2.114108/!600,600/0/default.jpg"/>
 </td>
@@ -6706,7 +6607,6 @@ friendship.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Spurgeon sententiously expresses n  
 number of thoughts “ worth remem­  
 bering,” in the following appropriate  
@@ -6753,7 +6653,7 @@ A New Invention.—A wonderful,
 printing machine is in progress, if not  
 completed, in this city. The inven­  
 tion is designed to make one hundred  
-types of an
+types of any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_afton_ver01:data:sn84022149:00340588101:1871011801:0429/pct:3.504043,4.804602,12.848158,24.209102/!600,600/0/default.jpg"/>
 </td>
@@ -6767,7 +6667,6 @@ types of an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Good Advice —Spurgeon sententious­  
 ly expresses a number ot thoughts  
 &quot;worth remembering&quot; in the following­  
@@ -6815,7 +6714,7 @@ keep clear uf a man who does not
 value his own character.  
   
 j  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn82015407:00295869471:1871011901:0227/pct:23.564189,19.991857,18.361486,30.578176/!600,600/0/default.jpg"/>
 </td>
@@ -6829,7 +6728,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- . Advice. . &#x27; . t . :  
+. Advice. . &#x27; . t . :  
 ; Nobody Is more like an honest man than  
 a thorough rogue. , . . , &#x27; ,  
 When you see man with a great deal  
@@ -6862,7 +6761,7 @@ Bee&#x27; the sack open before you buy what
 Is in it for he who trades lu the dark aska  
 tobe cheated.. f 4, f j,:,- , ; ,,  
 Keep clear of a man who does not value  
-his own character. ., , ,
+his own character. ., , , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1871011901:0095/pct:85.569654,14.882227,11.177106,17.109208/!600,600/0/default.jpg"/>
 </td>
@@ -6876,26 +6775,6 @@ his own character. ., , ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e I  
-go to bed.” |  
-What a change did these words  
-produce! Alarm was at once removed  
-from the skeptics mind. Though  
-avowing himself an infidel, he now  
-had confidence in the Bible. He felt  
-safe. He felt that a man who kept an  
-old Bible in his house, and read it, and  
-bent his knee in prayer, was no robber  
-or murderer. He listéned to the simple  
-prayer of the good man, at once dis-  
-missed all his fears, and lay down in  
-that rude cabin, and slept as calmly as  
-he did under his father’s roof.  
-  
-From that time he ceased to revile  
-the good old Bible. He became a sin-  
-cere Christian; and otten related the  
-  
 Keeping One’s Eyes Open.  
   
 Nobody is more like an honest man  
@@ -6957,9 +6836,10 @@ Nor lay wagers, nor lend,
   
 And you may depend  
 You’ll have peace to your end.  
-—Rev. C. H. Spurgeon.
+—Rev. C. H. Spurgeon.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1871-01-19_20_3%2Fper_the-pacific_the-pacific_1871-01-19_20_3_jp2.zip%2Fper_the-pacific_the-pacific_1871-01-19_20_3_jp2%2Fper_the-pacific_the-pacific_1871-01-19_20_3_0005.jp2/pct:25.953383,37.232730,13.671275,47.553454/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1871-01-19_20_3%2Fper_the-pacific_the-pacific_1871-01-19_20_3_jp2.zip%2Fper_the-pacific_the-pacific_1871-01-19_20_3_jp2%2Fper_the-pacific_the-pacific_1871-01-19_20_3_0005.jp2/pct:25.993455,49.557977,13.631203,35.228207/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6971,7 +6851,6 @@ You’ll have peace to your end.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 Good Advice  
 Spurgeon sententiously expresses a  
 number of thoughts ‘worth remembering’  
@@ -7012,11 +6891,21 @@ is in it; for he who trades in the dark
 asks to be cheated.  
 Keep clear of a man who does not  
 value his own character.  
-Gems o
+Gems of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1871012001:0015/pct:51.215977,61.126005,11.000161,20.277845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## SPURGEON sententiously expresses a number of thoughts "worth remembering" which he publishes as "advice gratis"
+
+#### From _Boston investigator._
+
+#### 1871-01-25 &middot; [Boston, Mass.](http://dbpedia.org/resource/Boston)
+
+[This text is not available under an open license.]
 
 ---
 
@@ -7036,7 +6925,7 @@ Gems o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d forever!  
+ forever!  
   
 Good Advice.  
   
@@ -7083,7 +6972,7 @@ asks to be cheated.
 Keep clear of a man who does not value  
 his own character.  
   
-Clo
+Clot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002295%2F1871012501%2F0016.jp2/pct:26.577381,39.346847,11.636905,25.729730/!600,600/0/default.jpg"/>
 </td>
@@ -7097,14 +6986,15 @@ Clo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i &#x27;  
+i &#x27;  
 In any business never wade into water  
 where you cannot see the bottom. Put  
 no dependence upon the label of a bag.  
 and count money before you receipt for  
 it. See the sack opened before yon buy  
 what is in it, for he who trades in the  
-dark askt to be cheated.
+dark askt to be cheated.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871012501:0076/pct:42.160845,91.891512,12.307067,3.471051/!600,600/0/default.jpg"/>
 </td>
@@ -7118,8 +7008,6 @@ dark askt to be cheated.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Sruacneoir sententiously expresses j^.  
   
 {ng&quot;  
@@ -7170,7 +7058,7 @@ Bee the sack open before you buy wl
   
 for he who Uadea in the dar%^  
   
-He
+He 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1871012601:0624/pct:77.111764,72.131720,17.049577,17.442402/!600,600/0/default.jpg"/>
 </td>
@@ -7184,7 +7072,6 @@ He
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Good Advice.  
 Spurgeon sonlentiously expresses a Dum­  
 ber of thoughts worth remembering in the  
@@ -7225,7 +7112,7 @@ to be cheated.
 Keep clear of a man who does not value  
 | his own character.  
 Every Teacher a Pastor.—Every Sab­  
-bath School teacher shoul
+bath School teacher should
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1871020301%2F0376.jp2/pct:54.892556,16.057635,12.413661,26.604278/!600,600/0/default.jpg"/>
 </td>
@@ -7239,7 +7126,7 @@ bath School teacher shoul
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-” and died from the effects of the  
+and died from the effects of the  
 shock.  
 In any business never wade into wa­  
 ter where you cannot see the bottom.  
@@ -7249,7 +7136,7 @@ receipt for it. See the sack opened be­
 fore you buy what is in it, for ho  
 who trades in the dark asks to be  
 cheated.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768734:1871020801:0089/pct:83.629011,54.846601,10.527002,4.974009/!600,600/0/default.jpg"/>
 </td>
@@ -7263,7 +7150,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-(he  
+he  
 shock.  
 In any business never wade into wa  
 ter where you cannot see the bottom.  
@@ -7273,7 +7160,7 @@ receipt for it. See the sack opened be­
 fore you buy what is in it, for he  
 who trades in the dark asks to ho  
 cheated.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1871020901:0193/pct:76.761794,59.067068,11.589983,5.267269/!600,600/0/default.jpg"/>
 </td>
@@ -7289,14 +7176,13 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Don&#x27;t thi&#x27;ow away dirty water till you.  
 have got clean; keep on scraping the  
 rc.ad; tillfyou can get better work, for  
 the poorest pay is better than none, and  
 the humblest oflice is better than being  
 out of e-aploy., ment: A New .York paper  
-states that a man, named Neville is i
+states that a man, named Neville is in
 </td></tr></table>
 
 ---
@@ -7309,7 +7195,6 @@ states that a man, named Neville is i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Drop whilst he had another wife living.  
 When a ne&#x27;-\ opinion or doctriua ,,nmes  
 before you., do not bite till you inow  
@@ -7320,7 +7205,7 @@ a man with a-great deal of religion
 displayed in his shop window, you may  
 depend upon it he keeps a very small  
 stock of it within. Always give up thb  
-road to bull
+road to bulls
 </td></tr></table>
 
 ---
@@ -7332,13 +7217,12 @@ road to bull
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
 Generalities.  
 Ix any business &quot;never wade into the  
 water where you cannot see the bottom.  
 Spdrgkox says—Nobod) is more like  
 an honest man than a thorough rogue.  
-Draw upon content for th
+Draw upon content for the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1871021001:0021/pct:80.826866,14.402963,11.854429,3.513162/!600,600/0/default.jpg"/>
 </td>
@@ -7362,8 +7246,6 @@ Draw upon content for th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 &quot;XolKxly is more like an honest  
 man than a thornniri, ,,  
 &quot;Don t believe the man that talks  
@@ -7388,7 +7270,7 @@ tives plant corn they look for crevices
 in tne rocks, ana snoot tne grains in  
 with a musket; they can&#x27;t raise ducks  
 mere no now, ior the stones are so  
-thick the ducks can&#x27;t get thei
+thick the ducks can&#x27;t get their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871021501:0137/pct:55.993956,18.241309,9.536602,10.661213/!600,600/0/default.jpg"/>
 </td>
@@ -7402,7 +7284,7 @@ thick the ducks can&#x27;t get thei
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- . . - . . &#x27; n ,  
+. . - . . &#x27; n ,  
 lurgou sententiously expresses a  
 number of thoughts &quot;worth remember­  
 ing&quot;&#x27; in the following appropriate sen­  
@@ -7446,7 +7328,8 @@ See the sack open before you buy what
 a in it : for he who trades in the dark  
 asks to oe cheated.&#x27; I  
 Keep clear of a man who does not val  
-ue his own character. ;
+ue his own character. ;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC1n_ver01%2Fdata%2F1871021601%2F0185.jp2/pct:86.331841,47.258514,11.807499,20.935961/!600,600/0/default.jpg"/>
 </td>
@@ -7460,7 +7343,7 @@ ue his own character. ;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s Adrice Gratis.  
+s Adrice Gratis.  
 Noh dy is mete ive an honest mar, than a  
 thorough rogue  
 When you see a man with A great deal of  
@@ -7493,7 +7376,7 @@ be cheated.
 Keep clear of a man that does not value  
 his own character.  
 The ShoLDY AnisrocEacy.  AAs yet we  
-have to nedai trarmnets here, bur we hav
+have to nedai trarmnets here, bur we have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1871022101:0035/pct:84.430056,13.008456,13.746476,19.689459/!600,600/0/default.jpg"/>
 </td>
@@ -7507,7 +7390,7 @@ have to nedai trarmnets here, bur we hav
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gen «eaten­  
+gen «eaten­  
 tiously expresses a number of  
 thoughts &quot;worth remembering&quot; in  
 the following appropriate senten­  
@@ -7523,7 +7406,7 @@ of it within.
 Do not choose your friend by his  
 looks; handsome shoes often pinch  
 the&#x27;feet.  
-Drin
+Dring
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lapras_ver01:data:sn85034325:00295873826:1871022301:0413/pct:5.419075,79.689460,18.376686,12.907779/!600,600/0/default.jpg"/>
 </td>
@@ -7537,27 +7420,12 @@ Drin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-st­  
-ing in the African speculation by taking  
-passage for that far off&#x27; region, when a  
-few dollars invested in the Louisiana State  
-Lottery would be far more certain to bring  
-wealth.  
-A successful type-setting machine would  
-seem to be much more difficult to invent  
-than editorial machines, if the world is to  
-judge from the progress that lias been made  
-iu this direction Up to this time, no ma­  
-chine has been invented that can success­  
-fully take the place of compositors in the  
-printing office, though man has long puzzled  
-his brain to create such a machine But,  
-according to the New York fi&#x27;rpress. &quot; a  
+a  
 wonderful printing machine&quot; is in pro­  
 gress, if not completed, in that city,  
-that wil
+that will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_growlithe_ver01:data:sn83016555:00295875884:1871022501:0370/pct:42.671233,61.654412,12.773973,10.269608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_growlithe_ver01:data:sn83016555:00295875884:1871022501:0370/pct:42.671233,70.122549,12.636986,1.801471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7579,14 +7447,13 @@ that wil
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 ment of the coming State Fair on ac­  
 count of the destruction of the buildings.  
 Spurgeon sententiously expresses a  
 number of thoughts &quot;worth remember­  
 ing&quot; in the following appropriate sen­  
 tences, which he publishes as &quot;advice  
-
+e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064499:00280761813:1871030801:0275/pct:51.723224,72.776711,21.924708,6.477927/!600,600/0/default.jpg"/>
 </td>
@@ -7600,13 +7467,12 @@ tences, which he publishes as &quot;advice
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Nobody is more like an honest man  
 than a thorough rogue.  
 When you see a man with a great  
 deal of religion displayed in his shop  
 window, you may depend upon it he  
-keeps a very small stock of it within
+keeps a very small stock of it within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064499:00280761813:1871030801:0275/pct:51.776246,79.190659,21.898197,4.638516/!600,600/0/default.jpg"/>
 </td>
@@ -7620,7 +7486,7 @@ keeps a very small stock of it within
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;a Advice Gratis.  
+a Advice Gratis.  
 Nobody is more like nn honest  
 man than a thorough rogue.  
 When you see a man with n great  
@@ -7664,7 +7530,7 @@ not value his own character Aye.
   
 f  
   
-MABK TWAIN ON JUT
+MABK TWAIN ON JUTE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665799:1871030901:0861/pct:72.598628,5.518126,20.711835,89.653513/!600,600/0/default.jpg"/>
 </td>
@@ -7678,7 +7544,7 @@ MABK TWAIN ON JUT
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, VICE GRATIS.  
+VICE GRATIS.  
 No body i m.ire I ke an honest man  
 thau a thorough rogue.  
 WherryWeelir matr wW t gfeal &quot;ileal  
@@ -7712,7 +7578,7 @@ See the sack open before you Lay
 wbui i in h ; Ylr he w ho trades jti tbtl  
 dark asks to be cheated. . s .  
 Keep dear of a man that doe not ral  
-ule hi own character
+ule hi own character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal2_ver01%2Fdata%2F1871031001%2F0037.jp2/pct:69.338287,67.967501,12.721161,22.389451/!600,600/0/default.jpg"/>
 </td>
@@ -7726,7 +7592,7 @@ ule hi own character
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ao  
+ao  
   
 SpuRGEON&#x27;S ADVICE GRATIS--No  
   
@@ -7746,7 +7612,8 @@ the fect.
 Do not be fond of compliments; re­  
 member that &quot;thank you, pussy, and  
   
-thank you, pussy,&quot; killed the cat.
+thank you, pussy,&quot; killed the cat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1871031501:1065/pct:40.476671,73.590889,43.587154,9.701600/!600,600/0/default.jpg"/>
 </td>
@@ -7760,8 +7627,6 @@ thank you, pussy,&quot; killed the cat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Don&#x27;t believe the man who talks  
   
 most; for mewing cats are very sel  
@@ -7769,7 +7634,7 @@ most; for mewing cats are very sel
 o oo ose e eeee o e e o e o o e e ee ee o e  
   
 othef persows power, if you put your vicinity at one time or other. Buta stable government; a thorough re  
-oter pee tw rinders they arewe forbea
+oter pee tw rinders they arewe forbear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1871031501:1065/pct:61.159362,79.976935,34.821248,2.811013/!600,600/0/default.jpg"/>
 </td>
@@ -7783,7 +7648,7 @@ oter pee tw rinders they arewe forbea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and mean to carry the  
+and mean to carry the  
   
 the ot aran onene in te o e e e e e  
 The Dominican navy is and has been! where else, disgusts white men.  
@@ -7800,7 +7665,7 @@ what is in it; for he who trades in the
 dark asks to be cheated.  
 Keep clear of a man that does not  
 value his own character.  
-Information is desired o
+Information is desired of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1871031501:1065/pct:38.254898,85.829609,34.498081,10.725097/!600,600/0/default.jpg"/>
 </td>
@@ -7814,7 +7679,6 @@ Information is desired o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 you pussy,&quot; killed the cat.  
 Don&#x27;t believe the man who talks the  
 it ter person&#x27;s rower if you put your  
@@ -7876,7 +7740,7 @@ atacter tor the will be sa to
 you.  
   
 The Tarboro&#x27; Southern  
-A Medium fer Business Communi
+A Medium fer Business Communie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023140:1871031601:0045/pct:73.519164,4.204672,23.911150,88.876529/!600,600/0/default.jpg"/>
 </td>
@@ -7890,7 +7754,6 @@ A Medium fer Business Communi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Spurgeon&#x27;s Advice Gratis.—Nobody  
 is more like an honest man thau a thorough  
 rogue.  
@@ -7926,7 +7789,7 @@ is in it; for he who trades in the dark
 asks to be cheated.  
 Keep clear of a man that does not value  
 his own character.  
-H
+Ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762386:1871032501:0308/pct:3.628954,46.593602,12.769261,18.750000/!600,600/0/default.jpg"/>
 </td>
@@ -7940,8 +7803,6 @@ H
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 sententiously expresses a number  
   
 Spurgeon  
@@ -7982,7 +7843,8 @@ Keep clear of a man w ho does not value his
 own churacter.  
   
 are nothing to  
-on fools heads.
+on fools heads.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7gf18sf03v%2Fxt7gf18sf03v_jp2.zip%2Fxt7gf18sf03v_jp2%2Fxt7gf18sf03v_0003.jp2/pct:6.421074,81.206171,14.118131,12.440393/,600/0/default.jpg"/>
 </td>
@@ -7996,7 +7858,6 @@ on fools heads.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 rood manner.  
 By no means put yourself in another  
 person power; Ifyoa put your thorn  
@@ -8046,7 +7907,7 @@ madmen : and never fight with a ooa
 heaver, nor contend with a liamt char  
 acter, for they will be sare to blacken  
 yon.  
-Deat
+Death
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat28n_ver01%2Fdata%2F1871033001%2F0457.jp2/pct:72.651274,28.525154,11.080149,23.190606/!600,600/0/default.jpg"/>
 </td>
@@ -8060,7 +7921,7 @@ Deat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hem.  
+em.  
 The school commissioners in Iowa pio- I  
 liibit ‘lady teachers’ kissing school boys I  
 over eighteen years of age.  
@@ -8073,7 +7934,7 @@ sure that it means no more than it says.
 A inarriagehle lady should not refuse- a  
 gentleman until lie has offered Imnself. I  
 Ii makes the gentleman feel awkward.  
-A farmer who 
+A farmer who r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871033001:0457/pct:6.182213,44.952985,12.395414,10.252634/!600,600/0/default.jpg"/>
 </td>
@@ -8087,7 +7948,6 @@ A farmer who
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e  
   
 SpurgEON AdvicE GrAtIs.  
 Nobody is more like an hone st man  
@@ -8131,7 +7991,7 @@ is in it; for he who trades in the dark
 asks to be cheated.  
 Keep clear of a man that does not val­  
 ue his own character. THE Are.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1871033101:0837/pct:4.837618,34.737639,14.732747,20.913219/!600,600/0/default.jpg"/>
 </td>
@@ -8145,14 +8005,14 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- peal.  
+peal.  
 The schoel commissioners in Iowa prohibit  
 lady teachers kissing school boy&#x27;s over eigh­  
 teen years o! ago.  
 A marriageable lady should not refuse a  
 gentleman until he has offered himself. It  
 makes the gentleman feel awkward.  
-My dear, it is very wrong fe
+My dear, it is very wrong fer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1871040701:0059/pct:2.470146,34.937103,11.091117,4.616781/!600,600/0/default.jpg"/>
 </td>
@@ -8166,7 +8026,7 @@ My dear, it is very wrong fe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and thus bring the matter to  
+and thus bring the matter to  
 au issue direct.  
 Good Counsel. In any busi­  
 nessj never wade into water where  
@@ -8176,7 +8036,8 @@ bag ; and count money before you
 receipt for it. See the&quot; sack opened  
 before you buy what is in it; for  
 he who trades in the dark asks to  
-be cheated.
+be cheated.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn85042452%2F00000002054%2F1871041401%2F0276.jp2/pct:28.626874,86.181435,11.937901,6.118143/!600,600/0/default.jpg"/>
 </td>
@@ -8190,7 +8051,6 @@ be cheated.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 ypurgeob feenfehtiousiy eprsses a num­  
 ber of thoughts worth remembering in the  
 following appropriate sentences, which he  
@@ -8216,7 +8076,7 @@ and count the money after your twn kiu.
 In any business never wade In the water  
 where you cannot see the bottom, :. ;  
 &#x27; Keep clear of a man who does not value  
-his own character. -
+his own character. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293708:1871041601:0383/pct:32.851240,24.978814,14.566116,12.764831/!600,600/0/default.jpg"/>
 </td>
@@ -8230,7 +8090,7 @@ his own character. -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- her; she was  
+her; she was  
 a very expensive woman.&quot;  
 Cood Counsel- In any business,  
 never wade into water where you can­  
@@ -8239,7 +8099,7 @@ upon the label of a bag; and count
 moncy before you receipt for it. See  
 the sack opened before you buy what is  
 in it; for he who trades in the dark  
-asks to be cheated
+asks to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1871042001:0616/pct:17.079208,73.674636,12.699924,5.951143/!600,600/0/default.jpg"/>
 </td>
@@ -8253,7 +8113,7 @@ asks to be cheated
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- honest manon  
+honest manon  
 onle  
 a man with a great deale  
 of religion displayed in his window, you  
@@ -8308,7 +8168,7 @@ to
 in  
   
 GROUND BONEs.- A correspondent asks  
-&quot;For what crops are ground bone
+&quot;For what crops are ground bones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_bombarda_ver01:data:sn84026820:00271765277:1871042201:0071/pct:68.998410,15.516667,25.059618,80.483333/!600,600/0/default.jpg"/>
 </td>
@@ -8322,7 +8182,7 @@ GROUND BONEs.- A correspondent asks
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- can Government.  
+can Government.  
   
 Nobody Is more like an honest man than a  
 thorough rogue.  
@@ -8356,7 +8216,7 @@ Keep dear of a man that does not value his
 own chameter.— The Age.  
 Rolling Grain in tho Spring.  
 If farmers would look at the theory of roll­  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871042201:0064/pct:69.617084,13.129127,25.360825,82.909406/!600,600/0/default.jpg"/>
 </td>
@@ -8370,11 +8230,11 @@ If farmers would look at the theory of roll­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ry season.  
+y season.  
 Suoui.d Xor.—A marriageable lady  
 should not refuse a gentleman until he  
 has offered himself. It makes the gen­  
-tleman feel awkward
+tleman feel awkward.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555193:1871042401:0388/pct:45.594164,44.403134,11.633711,2.708804/!600,600/0/default.jpg"/>
 </td>
@@ -8388,7 +8248,6 @@ tleman feel awkward
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 When you see a man with a groat deal  
 of religion displayed in his shop window,  
 you may depend upon it he keeps a very  
@@ -8413,7 +8272,7 @@ In any business never wade in the wa­
 ter where you cannot see the bottom.  
 Keep clear of a man who does not val­  
 ue his own character.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:00202192488:1871042401:0503/pct:62.458371,60.088649,15.561611,14.684910/!600,600/0/default.jpg"/>
 </td>
@@ -8427,7 +8286,6 @@ ue his own character.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 SPURGEON&#x27;S AbVIC&#x27;E GRATIS.  
 Nobody is more like an honest man  
 than a thorough roguo.  
@@ -8464,7 +8322,7 @@ is in it; for he who trades in the dark
 asks to be cheated.  
 Keep clear of a mau who does not val­  
 ue his own character.  
-Femal
+Femalo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_kedavra_ver01:data:sn88053095:0027176523A:1871042901:0221/pct:52.302632,74.070632,12.214912,20.631970/!600,600/0/default.jpg"/>
 </td>
@@ -8478,7 +8336,7 @@ Femal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s your  
+s your  
 letter sir.&#x27;  
   
 Good Advice  
@@ -8521,7 +8379,7 @@ torn.
 Keep clear of a man who does not  
 value his own character.  
   
-Tart
+Tartu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001929%2F1871050501%2F0140.jp2/pct:35.656283,36.270133,14.563365,21.336660/!600,600/0/default.jpg"/>
 </td>
@@ -8535,7 +8393,7 @@ Tart
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- -r  
+-r  
 Spurgeon Advice Gratis.  
 Nobody is more like an honest man.  
 than a thorough rogue.  
@@ -8575,7 +8433,7 @@ The elder Booth, or “Richard 111
 Booth,” as he was dot improperly desig­  
 nated was at times, the victim of strange  
 fancies. He bad as many peculiarities in  
-this wa
+this way
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1871050501:0204/pct:68.515430,43.983447,12.301918,23.068761/!600,600/0/default.jpg"/>
 </td>
@@ -8591,13 +8449,11 @@ this wa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-through a bank does it give the clerks  
-cold ? AVOID TEMPTATION, through fear  
-you may not withstand it. CoNaiDER  
-OTHERS.-There are men who, by long  
+There are men who, by long  
 consulting only their own inclinations,  
 have forgotten that others have a claim  
-to the same deference. HOSPITALITY.-
+to the same deference. HOSPITALITY.-A  
+so
 </td></tr></table>
 
 ---
@@ -8610,11 +8466,11 @@ to the same deference. HOSPITALITY.-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is only the  
+is only the  
 thirteenth.&quot; BY no means put yourself in  
 another person&#x27;s power. If you put your  
 thumb between two grinders they are very  
-apt to bite. I
+apt to bite. IN
 </td></tr></table>
 
 ---
@@ -8625,7 +8481,6 @@ apt to bite. I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 GOOd AGdVICe.  
 Spurgeon sententiously expresses a uum­  
 of thoughts &quot;worth remembering&quot; in  
@@ -8673,7 +8528,8 @@ or fashionable attire.
 truth, for it will serwe you  
 Hold on to your virtue. It is abewe all  
 to yon in all Gimes and places.  
-d on to your character, for it is and
+d on to your character, for it is and  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212475087:1871050602:0445/pct:27.553934,70.314058,12.611041,23.105683/!600,600/0/default.jpg"/>
 </td>
@@ -8687,13 +8543,13 @@ d on to your character, for it is and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a shirt­  
+a shirt­  
 botton, because it so often hangs by a  
 thread.  
 Don&#x27;t go to law unless you have nothing  
 to loose; lawyers&#x27; houses are built on fools&#x27;  
 heads.  
-Is a
+Is a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280761692:1871052101:0952/pct:1.257862,21.996092,14.884696,4.037773/!600,600/0/default.jpg"/>
 </td>
@@ -8707,8 +8563,6 @@ Is a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Good Advice.  
   
 Spurgeon sententiously ex­  
@@ -8771,7 +8625,7 @@ Hold on to your tongue when
 you are ready to swear, lie or  
 speak harshly.  
 Hold on to your hand when  
-yo
+you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1871052401:0498/pct:44.223694,12.465914,11.975717,42.150370/!600,600/0/default.jpg"/>
 </td>
@@ -8785,18 +8639,14 @@ yo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ed bom bshell.  
 By no means put yourself in another  
 person&#x27;s power; if you put your thumd  
 between two grinders, they are very apt to  
 bite.  
-Mark Toain says, &quot;I have soon slower  
-people than I am--and more deliberate  
-people than I am--and even quicter and  
-more listless and lasier poople than 
+Mark Toain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193766:1871060801:0315/pct:19.835193,84.622510,15.948611,7.874016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193766:1871060801:0315/pct:19.971451,84.622510,15.468466,5.477073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8808,7 +8658,6 @@ more listless and lasier poople than
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 bility.JQTDu not choose your friend by his  
 looks ; handsomo shoes often pinch the  
 feet.  
@@ -8827,7 +8676,7 @@ BQT Don&#x27;t go to law unless you bate
 nothing to Jose ; lawyer&#x27;s house are built  
 on fools&#x27; beads. ., ;, &#x27; ,  
   
-A Witnes
+A Witness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871062001:0640/pct:24.974671,7.724743,25.911854,88.480351/!600,600/0/default.jpg"/>
 </td>
@@ -8845,32 +8694,23 @@ A Witnes
 
 ---
 
+## MISCELLANEOUS ITEMS.
+
+#### From _Ipswich Journal_
+
+#### 1871-07-08 &middot; [Ipswich, England](http://dbpedia.org/resource/Ipswich)
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The Highland weekly news._](https://www.loc.gov/resource/sn85038158/1871-07-13/ed-1/?sp=1)
 
 #### 1871-07-13 &middot; [Hillsborough [Hillsboro], Highland County, Ohio](http://dbpedia.org/resource/Hillsboro%2C_Ohio)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e corner and ask her to give you a  
-kiss. You will then have a nice  
-scream.&quot;  
-&quot;This world is but a fleeting  
-show,&quot; said a priest to a culprit on  
-the gallows. &quot;Yes,&quot; was the prompt  
-reply, &#x27; but if you have no ol jection,  
-I&#x27;d like to see the show a little  
-longer.&quot;  
-A Chinese photographer in San  
-Francisco being upbraided by a lady  
-customer because the picture dida&#x27;t  
-suit, briefly replied : &quot;No half hand­  
-some ; how can ?&quot;  
-&quot;The last word&quot; is the most dan­  
-gerous of infernal machines. Hus­  
-band and wife should no more strive  
-to get it than they.would struggle to  
-get possession of a lighted bomb­  
-shell.When you see a man with a great  
+When you see a man with a great  
 deal of religion displayed in his shop  
 window, you may depend upon it  
 ho keeps a very small stock of it  
@@ -8879,9 +8719,9 @@ By no means put yourself iu an­
 other person&#x27;s power; if you put  
 your thumb between two grinders,  
 they are very apt to bite.  
-II-2 wh
+II-2 who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1871071301:0393/pct:85.856269,73.158849,9.969419,18.026286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1871071301:0393/pct:85.948012,85.225470,9.877676,5.959665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8893,10 +8733,11 @@ II-2 wh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; When you see a man with a great  
+When you see a man with a great  
 deal of religion displayed in his window  
 you may depend upon it he keep a very  
-small stock within.
+small stock within.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871071801:0672/pct:59.037075,92.931498,16.786818,2.451310/!600,600/0/default.jpg"/>
 </td>
@@ -8910,8 +8751,6 @@ small stock within.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Goon Advice  
 Spurgeon sententiously expresses a  
 number of thoughts &quot;worth remember­  
@@ -8973,7 +8812,7 @@ high places or fashionable attire.
   
 Hold on to truth, for it will serve you  
   
-well and do you good thronghout ete
+well and do you good thronghout eter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1871072101:0122/pct:32.997300,5.753647,12.295230,23.446786/!600,600/0/default.jpg"/>
 </td>
@@ -8989,14 +8828,14 @@ well and do you good thronghout ete
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- returned By no means put  
+returned By no means put  
 yourself m another per son&#x27;s power If  
 you put your thumb between two grinders,  
 tbey are very apt to bite The Negroes of  
 Guinea have sent a pc tition to the Kiog  
 of Holland against the transfer to our  
 Government, and offer to pay tbe same  
-sum to remain under tho Dutah rul
+sum to remain under tho Dutah rule
 </td></tr></table>
 
 ---
@@ -9007,7 +8846,7 @@ sum to remain under tho Dutah rul
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- On.  
+On.  
 Hold op to your tongue when you are just  
 ready to swear, lie, or speak harshly, or use  
 an improper word.  
@@ -9028,7 +8867,7 @@ Hold on to your virtue; it is abovp all
 price to you in all times aud places­  
 Hold on to your good character ; fur it is,  
 and over will be your best wealth. •  
-Honor (he
+Honor (he 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871081701:0449/pct:81.791660,71.889764,12.373434,11.679790/!600,600/0/default.jpg"/>
 </td>
@@ -9042,7 +8881,6 @@ Honor (he
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Good Advices.  
   
 Spurgeon sententiously expresses a num­  
@@ -9090,7 +8928,7 @@ ue his own character.
 One beautiful imit- of our humanity is  
 the tenderness with which we cherish the  
 memory of the departed. Let Death take  
-from
+from 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fecunditas_ver01%2Fdata%2Fsn84026572%2F000002429%2F1871082401%2F0033.jp2/pct:67.828122,51.847720,11.976683,22.845489/!600,600/0/default.jpg"/>
 </td>
@@ -9104,11 +8942,10 @@ from
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 There arc men who, by long consulting  
 only their own inclinations, have forgot­  
 ten that others have a claim to the same  
-deference
+deference.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1871082401:0020/pct:84.975217,37.036164,10.889095,1.920132/!600,600/0/default.jpg"/>
 </td>
@@ -9122,10 +8959,9 @@ deference
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 - Hold on to your tongue when you  
 are ready to swear, lie or speak harshly.  
--An old lady Irom
+-An old lady Irom 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn84026917:00294551311:1871083001:0144/pct:1.171548,19.448963,12.105997,2.124847/!600,600/0/default.jpg"/>
 </td>
@@ -9139,7 +8975,7 @@ are ready to swear, lie or speak harshly.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-se an improper word;.  
+e an improper word;.  
 Hold on to, your hand when you are  
 about to strike, pinch, steal, or do an im­  
 proper act.  
@@ -9159,7 +8995,7 @@ Hold on to your virtue ; it is above all
 price to you in all times and places.  
 Hold on to your good character; tor it  
 is and ever will be your best wealth..  
-HONOR THE
+HONOR THE 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal2_ver01%2Fdata%2F1871090101%2F0129.jp2/pct:82.375346,56.158747,12.344183,12.344040/!600,600/0/default.jpg"/>
 </td>
@@ -9173,7 +9009,7 @@ HONOR THE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l them, the road is paved for a thous­  
+them, the road is paved for a thous­  
 and iniquities.  
 When you see a man with a good  
 deal of religion displayed in his shop  
@@ -9181,7 +9017,7 @@ window, you may depend upon it he
 keeps a very small stock of it within.  
 However many friends you have, do not  
 neglect yourself; through you have a  
-thousand, net one of them lov
+thousand, net one of them love
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871091401:0549/pct:7.834956,50.626623,11.945603,5.780738/!600,600/0/default.jpg"/>
 </td>
@@ -9195,14 +9031,14 @@ thousand, net one of them lov
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, they must be occasion­  
+they must be occasion­  
 ally cleansed and wound up, and set to trua  
 time.  
 When you see a man with a good deal of relig­  
 ion displayed in his shop window, you may  
 depend upon it he keeps a very small stock ot It  
 within.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171311:1871091501:1134/pct:81.269419,29.508197,14.780293,3.846778/!600,600/0/default.jpg"/>
 </td>
@@ -9216,9 +9052,9 @@ within.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- There are men who, hy long consulting only  
+There are men who, hy long consulting only  
 their own inclinations, hare forgotten that oth­  
-ers have a claim to the same deferenc
+ers have a claim to the same deference
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1871091501:0326/pct:16.982048,89.896622,12.542455,1.619951/!600,600/0/default.jpg"/>
 </td>
@@ -9232,14 +9068,13 @@ ers have a claim to the same deferenc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t they may become your  
-friends.  
 There are men who. by long consult  
 ino- onlv their own inclinations, have for-  
 cotten that others have a claim to the  
-same deference.
+same deference.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1871092101:0721/pct:53.319977,21.169244,10.832856,2.753099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1871092101:0721/pct:53.319977,22.167380,10.832856,1.754963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9261,7 +9096,6 @@ same deference.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Spurgeon seutentionsly expresses a  
 I number of thoughts “worth roiuem­  
 ; bering&quot; in the following appropriate  
@@ -9303,7 +9137,7 @@ what is in it : for he who trades in
 I the dark asks to be cheated.  
 Keep clear of a man who does not  
 ! value his own character.  
-II
+II 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1871093001:0115/pct:31.429144,49.527559,14.050912,24.120735/!600,600/0/default.jpg"/>
 </td>
@@ -9317,14 +9151,15 @@ II
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- time.  
+time.  
   
 When you see a man with a good deal of  
   
 religion displayed in his shop window, you  
 may depend upon it he keeps a very small  
   
-stock of it within.
+stock of it within.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023255:00280777948:1871093001:0108/pct:8.667420,64.081172,20.412196,4.689966/!600,600/0/default.jpg"/>
 </td>
@@ -9338,10 +9173,9 @@ stock of it within.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 See the sack open before you buy what is in it,  
-for he who buys in the dark asks to be cheated.
+for he who buys in the dark asks to be cheated.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070574:00516991690:1871100101:0093/pct:29.073684,88.922987,19.642105,1.549028/!600,600/0/default.jpg"/>
 </td>
@@ -9355,7 +9189,7 @@ for he who buys in the dark asks to be cheated.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and  
+and  
 beauty, cannot be surpassed. I. E. M.  
 SPURGEON’S ADVICE GRATIS.  
 Nobody is more like an honest man than a  
@@ -9382,7 +9216,8 @@ lose ; lawyer’s houses are built on fools’ heads.
 Put no&quot; dependence on the label of a bag, and  
 count money after your own kind.  
 In any business &quot;never wade into water where  
-you cannot see the bottom.
+you cannot see the bottom.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_invisiblestalker_ver01:data:sn91070574:00516991690:1871100101:0093/pct:69.410526,70.393102,20.189474,19.406693/!600,600/0/default.jpg"/>
 </td>
@@ -9396,11 +9231,11 @@ you cannot see the bottom.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ee a man wuh a good  
+e a man wuh a good  
 deal of religion displayed in his shop  
 window, you may depend upon it he  
 keeps a very small stock of it within.  
-However many friends y.u
+However many friends y.u 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293022:1871100101:0373/pct:86.498516,15.788858,9.436202,2.059925/!600,600/0/default.jpg"/>
 </td>
@@ -9414,14 +9249,14 @@ However many friends y.u
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-bearers.  
+earers.  
   
 When you see a man with a good  
 deal of religion displayed in his shop  
 window, you may depend upon it he  
 keeps a very small stock of it within.  
   
-He was in Knoxville in
+He was in Knoxville in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871100501:0165/pct:46.079224,69.981213,26.697656,18.317230/!600,600/0/default.jpg"/>
 </td>
@@ -9435,13 +9270,11 @@ He was in Knoxville in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 When yousec a man with a good  
 deal of religion dispiayed in his shop  
 window, you may depend upon it he  
 keeps a very smail stock within.  
-However many friends you
+However many friends you 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1871100601:0550/pct:5.993635,66.761364,11.792786,3.125000/!600,600/0/default.jpg"/>
 </td>
@@ -9455,7 +9288,6 @@ However many friends you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 By no means put yourself in an­  
 other person&#x27;s power; if you puti  
 your thumb between two grinders, |  
@@ -9472,7 +9304,7 @@ THE HHiORISTS&#x27; fOLFMN.
 A little non son se now and then,  
 Is relished by the wisest men.  
 i oi ied earn—The novelist&#x27;s pay.  
-tight boot
+tight boots
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:00295876141:1871100701:0384/pct:69.357977,3.622159,24.935149,92.365057/!600,600/0/default.jpg"/>
 </td>
@@ -9486,7 +9318,6 @@ tight boot
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Indians.  
 Do not choose your friend by his looks :  
 handsome shoes often pinch the feet.  
@@ -9495,7 +9326,7 @@ ber &quot; thank you, pussy, and thank you,
 pus?y,&quot; kill the cat  
 Don&#x27;t believe the man who talks the  
 most, for mewing cats »re very seldom good  
-mouscrs
+mouscrs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:00295876141:1871100701:0388/pct:17.357513,91.151284,12.370466,4.959562/!600,600/0/default.jpg"/>
 </td>
@@ -9519,7 +9350,6 @@ mouscrs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 with a contemptible curl of the lip  
 &#x27; What trash ; it is really fit for  
 nothing but waste paper.&#x27; And  
@@ -9548,7 +9378,7 @@ j
 THE HOIORISTS&#x27; COLUMN.  
 A little noiiseuse now arid then,  
 Is relished by the wisest men.  
-When i
+When is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:00295876141:1871101401:0390/pct:68.408203,2.710701,23.356120,92.282197/!600,600/0/default.jpg"/>
 </td>
@@ -9562,12 +9392,13 @@ When i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of God.  
+of God.  
 When you see a man. with a god  
 deal of religion displayed in his  
 shop window, you may depend upon  
 it lie keeps a very small stock of it  
-within.
+within.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871101401:0615/pct:82.215447,74.360307,13.702575,3.688791/!600,600/0/default.jpg"/>
 </td>
@@ -9581,13 +9412,14 @@ within.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ork  
+rk  
 ont a good oharaoter mach faster than  
 any one can lie me oat of it.  
 When yon see a man with a good  
 deal of religion displayed in his shop  
 window, you may depend opon it he  
-keeps a very small stock of it within.
+keeps a very small stock of it within.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551566:1871112601:0103/pct:43.221356,9.529398,14.187163,3.896256/!600,600/0/default.jpg"/>
 </td>
@@ -9601,13 +9433,14 @@ keeps a very small stock of it within.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- truth and ialse­  
+truth and ialse­  
 hood, so that the boundaries of these dis­  
 j cordant potentates.may he defined.  
 I 4 When yon see a man with a good deal of  
 ( religion displayed in his shop window, you  
 limy depend upon it he keeps a very small  
-stock of it within.­
+stock of it within.­  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1871120101%2F0520.jp2/pct:53.585620,89.544073,12.374645,4.924012/!600,600/0/default.jpg"/>
 </td>
@@ -9621,12 +9454,12 @@ stock of it within.­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Xo man can tell the misery of an  
 unloved an lonely eiii-d ; in after life  
 degree of hardness comes with years,  
 and tiie man is not su sceptible of pain  
-like a chhd.
+like a chhd.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871120201:0669/pct:54.200269,23.281289,13.407258,2.392344/!600,600/0/default.jpg"/>
 </td>
@@ -9640,7 +9473,6 @@ like a chhd.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Keeping One&#x27;s Eyes Open.  
   
 j  
@@ -9698,7 +9530,8 @@ being out of employment. Always
 give up the road to bulls and madmen;  
 and never fight with a coalheaver or  
 contend with a base character,for they  
-will lie sure to blacken you.
+will lie sure to blacken you.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1871120701:0304/pct:13.283030,3.205959,9.567198,20.930484/!600,600/0/default.jpg"/>
 </td>
@@ -9712,7 +9545,6 @@ will lie sure to blacken you.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 i f Nobody i. more like an honest man  
 than a thorough rogue. , , ;  
 Don&#x27;t believe the man who tell.? the  
@@ -9724,7 +9556,7 @@ thumbs between t.vo &#x27;grindery tliey are
 very apt to bite.  
 Put no dependence on a label f a  
 lag, and count money after. your own  
-kind.&quot;;
+kind.&quot;; :-:. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871120901:0677/pct:40.728477,83.913489,13.410596,6.654722/!600,600/0/default.jpg"/>
 </td>
@@ -9738,9 +9570,9 @@ kind.&quot;;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-In any business never wade in the  
+n any business never wade in the  
 water where you cannot see the bot­  
-tom, 
+tom, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871120901:0677/pct:40.860927,90.811364,13.228477,1.586895/!600,600/0/default.jpg"/>
 </td>
@@ -9754,7 +9586,7 @@ tom,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-erience, and now he has gone to  
+rience, and now he has gone to  
 be forever with the Lord.  
 We ask the reader, On which side of this  
 line are you?  
@@ -9797,7 +9629,7 @@ i to be cheated.
 Keep clear of a man who does not value  
 his own character.  
 - &#x27; ^ t -.  
-3 
+3 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1871121301:0143/pct:68.454146,51.401224,12.682406,26.575839/!600,600/0/default.jpg"/>
 </td>
@@ -9811,7 +9643,7 @@ his own character.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- editorial matter.  
+editorial matter.  
 Will be home in time to meet engage  
 ments ou Friday and to be at Antioch QO  
 Saturday and Sunday. &#x27;  
@@ -9845,7 +9677,8 @@ you well and do yoh good throughout all
 eternity.  
 &gt;rIJ-U oo,.to ygtir. virtue.. i* is above all  
 price to you in all times and places.  
-Hold pu to your character, for it is and
+Hold pu to your character, for it is and  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1871121501%2F0529.jp2/pct:19.768764,65.781084,12.509477,23.440109/!600,600/0/default.jpg"/>
 </td>
@@ -9859,13 +9692,12 @@ Hold pu to your character, for it is and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 are.  
 When you see a young man with a  
 good deal of religion displayed in his  
 shop-window, ydu may depend upon it  
 be keeps a very small stock ot it  
-within
+within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85034457:00280774832:1871122801:0130/pct:81.292059,55.418514,11.776581,2.743902/!600,600/0/default.jpg"/>
 </td>
@@ -9879,7 +9711,7 @@ within
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- n :  
+n :  
 Nobody is more like an honest man  
 than a thorough rofroe. f  
 deal of religion displayed in his shop-  
@@ -9906,7 +9738,8 @@ j Prt fee: defend&#x27; ncejbn Slabel of
 a s bag, and count money-i after iyour  
 own kind. .  
 In any business never wade into -water  
-where you cannot see the bottom.
+where you cannot see the bottom.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCDailyT3n_ver01%2Fdata%2F1872011401%2F0038.jp2/pct:20.058860,75.893756,12.592937,18.479355/!600,600/0/default.jpg"/>
 </td>
@@ -9920,13 +9753,12 @@ where you cannot see the bottom.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 on the roof.  
 When you see a man with a  
 good deal of religion displayed in  
 his shop window, you may depend  
 up&#x27;on it he keeps a very little stock  
-of it within
+of it within.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn94052321%2F00000002054%2F1872020201%2F0448.jp2/pct:80.268252,67.706459,12.195796,3.329334/!600,600/0/default.jpg"/>
 </td>
@@ -9940,7 +9772,7 @@ of it within
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- handsome shoes often pinch.the  
+handsome shoes often pinch.the  
 feet.  
 Nobody is more like an honest man  
 than a thorough rogue. When you  
@@ -10003,7 +9835,7 @@ Always give up the road to bulls and
 niadmen, and never fight with a coal  
 heaver or contend with a base char­  
 acter, for they w~i be sure to blacken  
-you
+you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_bolivar_ver01:data:sn85034248:00200299346:1872021701:0096/pct:79.956210,13.637610,14.450637,35.882675/!600,600/0/default.jpg"/>
 </td>
@@ -10017,7 +9849,6 @@ you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 rogeneous conglomeration of uuforaeen  
 difficulties.&quot;  
   
@@ -10025,7 +9856,7 @@ IsT Beware cf no uiau more than your­
 self; we carry our worst enemies within  
 U3.  
   
-rWHOLE N
+rWHOLE NO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1872021701:0593/pct:64.633442,16.974323,25.341543,78.556558/!600,600/0/default.jpg"/>
 </td>
@@ -10039,7 +9870,7 @@ rWHOLE N
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e  
+e  
 make sure that it means no more than  
 it sayshe ebtian of by t  
 Bon&#x27;t go to law unless  you have  
@@ -10083,7 +9914,7 @@ vanced age, was one of the most eccen
 i i o o te  ie a  
 true gentlemuan. He was fameliarl  
 known throughout Kentucky and the  
-e e e oi o 
+e e e oi o a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86090827:00200299991:1872022401:0043/pct:33.676046,16.864279,16.594517,32.921292/!600,600/0/default.jpg"/>
 </td>
@@ -10097,7 +9928,7 @@ e e e oi o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-les.  
+es.  
   
 When you see,a man with a good deal  
 of religion displayed in his shop window,  
@@ -10106,7 +9937,7 @@ you may depend uponit that he keeps
 a very small stock of it within.  
   
 Youth’s Department.  
-An Angel in 
+An Angel in a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1872-02-29_21_9%2Fper_the-pacific_the-pacific_1872-02-29_21_9_jp2.zip%2Fper_the-pacific_the-pacific_1872-02-29_21_9_jp2%2Fper_the-pacific_the-pacific_1872-02-29_21_9_0005.jp2/pct:24.092001,5.791353,27.895640,87.009123/,600/0/default.jpg"/>
 </td>
@@ -10120,7 +9951,7 @@ An Angel in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-we love.”  
+e love.”  
   
 SAVINGS OR SPURGEON.  
 Spurgeon sententiously expresses a number  
@@ -10157,7 +9988,8 @@ See the sack open before you buy what is
 in it, for he who trades iti the dark asks to  
 be cheated  
 Keep clear of a man who does not value  
-his own character.
+his own character.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1872030701:0039/pct:69.072870,64.058199,12.401642,19.635601/!600,600/0/default.jpg"/>
 </td>
@@ -10171,7 +10003,6 @@ his own character.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Good Maxims.  
 Drink nothing without seeing it;  
 sign nothing without reading it; and  
@@ -10191,7 +10022,7 @@ dark asks to be cheated.
 Keep clear of a man who does not  
 value his own character.  
 Value the friendship of him who  
-stand
+stands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296278:1872061401:0305/pct:60.158130,73.558291,11.103472,10.178399/!600,600/0/default.jpg"/>
 </td>
@@ -10205,7 +10036,7 @@ stand
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, as tbe  
+as tbe  
 sandal tree perfumes the axe which  
 strikes it.  
 Don&#x27;t go to law unless you have  
@@ -10218,7 +10049,8 @@ In any business, never wade into
 water where you cannot see the bot­  
 tom.Ste the sack open before you buy  
 what is in it, for he who trades in  
-dark aska to be cheated.
+dark aska to be cheated.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872061901:0204/pct:54.875776,39.959043,9.378882,6.796365/!600,600/0/default.jpg"/>
 </td>
@@ -10232,7 +10064,6 @@ dark aska to be cheated.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Sayingrs of Spurg-eorts,,,,. ir  
 . Spurgeon sententiously expresses  
 ft&#x27; number of thoughts &quot;worthy of re­  
@@ -10276,7 +10107,7 @@ what is in it, for he who trades in the
 dark asks to. be cheated. . .... ,. . ...  
 Keep clear of a man Who does not  
 value his character.-&#x27; &quot; &#x27;  
-- .it ! 
+- .it ! A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1872062001:0314/pct:81.269254,40.831143,10.890327,19.877331/!600,600/0/default.jpg"/>
 </td>
@@ -10290,8 +10121,6 @@ value his character.-&#x27; &quot; &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 SrURGEONS ApvicE GraTis.—No­  
 body is more like an honest man than  
 a thorough rogue.  
@@ -10339,7 +10168,7 @@ let&#x27; clear of a man who does not
 value his own character.  
   
 &#x27;g‘a&#x27;:&#x27;:  
-e 
+e o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_cavebear_ver04:data:sn83021113:00513689342:1872070501:0580/pct:54.962735,4.728088,18.585118,91.263315/!600,600/0/default.jpg"/>
 </td>
@@ -10353,7 +10182,7 @@ e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s Atiwiee Gratis  
+s Atiwiee Gratis  
 Nobody is more like an honest man than  
 a thorough rogue”  
 When you see a man with a great deal  
@@ -10389,7 +10218,7 @@ dark asks to be cheated
 Keep clear of a man who does not  
 value his own character  
 Slow they Shave in China  
-A fellow who ha
+A fellow who has
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_collie_ver01:data:sn84027460:print:1872071301:0283/pct:46.210749,27.314272,9.963768,17.260370/!600,600/0/default.jpg"/>
 </td>
@@ -10403,11 +10232,11 @@ A fellow who ha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Con­  
+on­  
 &quot;Always give up the road to bulls andi  
 ; and never fight with a coal-heaver, or  
 contend with a bace character, for they will be  
-sure to blac
+sure to blacl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654383:1872073101:0108/pct:57.561658,92.117807,13.511878,2.689820/!600,600/0/default.jpg"/>
 </td>
@@ -10421,7 +10250,6 @@ sure to blac
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 All honor to the Ohio liquor law that bears  
 such fruit as this.—Methodist Ahvocate.  
 In any business never wade into water  
@@ -10431,7 +10259,7 @@ count money before you receipt for it. See
 the sack opened before buyiug whatis in it for  
 he who trades in the dark asks to be cheated.  
   
-HOW TO GET PLENTY O
+HOW TO GET PLENTY OF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1872081601:0335/pct:62.405165,16.794731,19.515738,78.168069/!600,600/0/default.jpg"/>
 </td>
@@ -10445,7 +10273,7 @@ HOW TO GET PLENTY O
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- AiivifirRATiM.  
+AiivifirRATiM.  
 Nobody is more like an honest man )  
 than a thorough rogue. j  
 When you see a &quot;man with a great !  
@@ -10482,7 +10310,7 @@ See the sack open before yon bny
 what Is In it, for he who trades in the  
 tlark asks to be cheated.  
 MARKET.  
-Gold a
+Gold at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210412Foo05_ver01%2Fdata%2Fsn84022682%2F14063001527%2F1872082001%2F0565.jp2/pct:55.922216,66.930539,9.840896,15.430929/!600,600/0/default.jpg"/>
 </td>
@@ -10496,7 +10324,7 @@ Gold a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Richmond, and had  
+Richmond, and had  
 Mr. G. hound over to k?ep the peace. Im me?  
 diately thtTeaRer, at ihe suit ot&#x27; her husband,  
 Mrs. G. wa* t-u.r under bond for future good  
@@ -10534,7 +10362,7 @@ Chested.
   
 HOUSEHOLD WANTS.  
 A victim who adopts the signature ol Domus  
-sends TH
+sends THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:0029455161A:1872082001:0383/pct:0.321285,2.381217,28.835341,96.072104/!600,600/0/default.jpg"/>
 </td>
@@ -10548,7 +10376,7 @@ sends TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in tho following appropriate  
+in tho following appropriate  
 sentences, which he publishes- as &quot;advice  
 gratia:&quot;.  
 No on la more like an honest man thau  
@@ -10577,7 +10405,7 @@ In any business never wade&quot; into water
 where you cannot see bottom.  
 Soe the sack open before tou buv what  
 Is in it, for he who trades in the dark asks.  
-lo be cheated
+lo be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872082801:0197/pct:72.697368,9.752611,10.944976,12.281473/!600,600/0/default.jpg"/>
 </td>
@@ -10591,8 +10419,6 @@ lo be cheated
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Always give up the road to bulls  
 and madmen and never tight with a  
 coal-beaver, or contend with a base  
@@ -10600,7 +10426,7 @@ eharaeter, for they will be sure to
 blacken you.—  
   
 Sadly contemplating the result of  
-the North Carolin
+the North Carolina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn84027352:0027952875A:1872082901:0165/pct:77.579618,56.148129,16.942675,3.833616/!600,600/0/default.jpg"/>
 </td>
@@ -10614,12 +10440,11 @@ the North Carolin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 . Always give up the road to bulls  
 and madmen;&#x27; and neVer fight with  
 a coal-heave, or contend with abase  
 character, for tlrey will be sure to  
-blacken yo
+blacken yow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1872082901:0229/pct:6.642512,81.863561,10.688406,2.483041/!600,600/0/default.jpg"/>
 </td>
@@ -10653,12 +10478,11 @@ blacken yo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 f Always give up the road to bulls and  
 madmen; and never fight with a coal­  
 heaver, or contend with a bad character  
   
-tui nicy niu uo sure to Diacken you
+tui nicy niu uo sure to Diacken you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen18n_ver01%2Fdata%2F1872091201%2F0337.jp2/pct:6.169196,90.020121,14.137156,2.424547/!600,600/0/default.jpg"/>
 </td>
@@ -10672,7 +10496,7 @@ tui nicy niu uo sure to Diacken you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t he sought to get on, and  
+he sought to get on, and  
 then he sought to get honor, aud now  
 he is trying to get honest &#x27;  
 Always give np the road to bulls  
@@ -10682,7 +10506,7 @@ character, for they will be sure to
 blacken you. Spurgeon.  
 A gentleman advertised for a  
 wife and received answers from 1,897  
-husbands, saying
+husbands, saying 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1872091901:0238/pct:84.046455,69.719029,10.895477,6.245211/!600,600/0/default.jpg"/>
 </td>
@@ -10696,11 +10520,10 @@ husbands, saying
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’  
 jy Always give up the road to bulls  
 and madmen ; and never tight with a coal- .  
 heaver, or contend with a bad character,  
-for they will be sure to blacken you
+for they will be sure to blacken you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1872092401:0670/pct:5.770691,84.522207,13.230828,2.072678/!600,600/0/default.jpg"/>
 </td>
@@ -10714,13 +10537,12 @@ for they will be sure to blacken you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Always givo up the road to bulls and  
 madmen ; and never flebt with a coal  
 heaver, or contend with a base character,  
 for they will bo snre lo blaeken yon.  
 Spurgeon.  
-A littl
+A little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1872092501:0573/pct:77.077807,24.059223,14.478338,3.685996/!600,600/0/default.jpg"/>
 </td>
@@ -10734,11 +10556,10 @@ A littl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 By no means put yourself in another  
 person’s power ; if you put your thumb  
 between two grinders they are very apt  
-to bit
+to bite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623732:1872100501:0190/pct:15.123323,91.069057,11.142363,2.025232/!600,600/0/default.jpg"/>
 </td>
@@ -10752,7 +10573,7 @@ to bit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to the piano and sang &quot;Come  
+to the piano and sang &quot;Come  
 put me in my little bed &quot; They did.  
 Always give up tlio road to bulls aud  
 madmen; and never light with a coalhcav­  
@@ -10761,7 +10582,7 @@ they will be sure to blacken you.
 The mother of the Worrell sisters turned f  
 every diamond presented to her daughters  
 into hard cash, aud purchased property on  
-Bay Bidg
+Bay Bidge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193766:1872101001:0601/pct:18.498943,46.447670,15.961945,8.403361/!600,600/0/default.jpg"/>
 </td>
@@ -10775,7 +10596,6 @@ Bay Bidg
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Xo body is more like an hottest man than a  
 thorough rogue.  
 When you soo a man with a great deal of  
@@ -10794,7 +10614,7 @@ two grinders they are very apt to bite.
 Drink nothing without seeing ; sign noth­  
 ing without reading it; and make sure that it  
 means no more than it. says.  
-A course, of popular lectures b
+A course, of popular lectures by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1872101201:0356/pct:56.563594,38.244819,12.645858,10.977979/!600,600/0/default.jpg"/>
 </td>
@@ -10810,14 +10630,14 @@ A course, of popular lectures b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- acoount was  
+acoount was  
 discovered. On the top of the , leaf the  
 name of John Hunt ia written, and on &#x27;  
 the cover is a white label, on which is  
 written John Hunt to John Howard. A  
 gentleman advertised for a wife and  
 received answers from 1,897 husbands  
-saying
+saying 
 </td></tr></table>
 
 ---
@@ -10828,8 +10648,6 @@ saying
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Pe Seren  
 Tue mill cannot grind with water that is past.  
   
@@ -10839,7 +10657,8 @@ der, facetiously and abstemiously. ‘
 ALWAYs give up the road to bulls and madmen;  
 and never fight with a coal heaver, or contend with  
 a base character, for they will be sure to blacken  
-you.—Spurgeon.
+you.—Spurgeon.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1872-11-14_45_46%2Fsim_youths-companion_1872-11-14_45_46_jp2.zip%2Fsim_youths-companion_1872-11-14_45_46_jp2%2Fsim_youths-companion_1872-11-14_45_46_0007.jp2/pct:29.369469,58.987915,20.713496,5.135952/600,/0/default.jpg"/>
 </td>
@@ -10853,12 +10672,12 @@ you.—Spurgeon.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 No one can remember what is en­  
 tirely uninteresting to him.  
 Beware of no man more than  
 yourself; we carry our worst ene­  
-mies with us.
+mies with us.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1873010301:0144/pct:27.377998,23.628521,15.715467,3.679741/!600,600/0/default.jpg"/>
 </td>
@@ -10872,7 +10691,7 @@ mies with us.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?kisses and misses are generally  
+kisses and misses are generally  
 found near together.  
 Do not choose your friend by his  
 looks; handsome shoes often pinch&#x27; the  
@@ -10887,7 +10706,7 @@ Who first introduced salt provisions
 into the navy? Noah, for he took a Ham  
 with him on board the ark.  
 t&quot;Phen do ladies look most killing?  
-When they are ready,
+When they are ready, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1873010401:0231/pct:81.843382,27.818728,16.441441,12.407862/!600,600/0/default.jpg"/>
 </td>
@@ -10901,10 +10720,10 @@ When they are ready,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o label them “ tracts.”  
+label them “ tracts.”  
   
 —No one can remember what is entirely uninter-  
-esting to him.—Geo. MacDonal
+esting to him.—Geo. MacDonald
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-outlook_1873-01-08_7_2%2Fsim_new-outlook_1873-01-08_7_2_jp2.zip%2Fsim_new-outlook_1873-01-08_7_2_jp2%2Fsim_new-outlook_1873-01-08_7_2_0015.jp2/pct:67.626850,87.070100,26.242072,2.461943/600,/0/default.jpg"/>
 </td>
@@ -10918,9 +10737,8 @@ esting to him.—Geo. MacDonal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’  
 —No one can remember what is entirely uninter-  
-esting to him
+esting to him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-outlook_the-christian-union_1873-01-08_7_2%2Fsim_new-outlook_the-christian-union_1873-01-08_7_2_jp2.zip%2Fsim_new-outlook_the-christian-union_1873-01-08_7_2_jp2%2Fsim_new-outlook_the-christian-union_1873-01-08_7_2_0015.jp2/pct:64.834592,87.278190,25.814014,1.464651/600,/0/default.jpg"/>
 </td>
@@ -10934,10 +10752,10 @@ esting to him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Br do means put yourself in another&#x27;s  
 power; if you put your thumb between  
-f wo grinders they are very opt to bite.
+f wo grinders they are very opt to bite.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1873010901:0021/pct:4.791976,92.181641,12.314264,1.763644/!600,600/0/default.jpg"/>
 </td>
@@ -10951,10 +10769,9 @@ f wo grinders they are very opt to bite.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Make Tiiem Ixtkeestixo. &quot;No one can  
 remember what is entirely uninteresting to  
-him,&quot; says George McDonal
+him,&quot; says George McDonald
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763803:1873021401:0378/pct:17.106790,55.829439,10.737086,1.507009/!600,600/0/default.jpg"/>
 </td>
@@ -10968,9 +10785,10 @@ him,&quot; says George McDonal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-? Who first introduced salt provisions into  
+Who first introduced salt provisions into  
 the navy? Noah, for he took a Ham with  
-him on board the ark.
+him on board the ark.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1873022001:0386/pct:66.146402,96.468422,15.420634,1.798288/!600,600/0/default.jpg"/>
 </td>
@@ -10984,8 +10802,6 @@ him on board the ark.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Sayings of Spurgeon,  
   
 Spurgeon sententiously expresses a num­  
@@ -11029,7 +10845,8 @@ is in it, for he who trades in the dark asks
 to be cheated.  
   
 The Sience of Teaching, Ninies Eje­  
-kashun.
+kashun.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002297%2F1873030501%2F0037.jp2/pct:50.238761,12.400034,22.804566,82.014633/!600,600/0/default.jpg"/>
 </td>
@@ -11043,7 +10860,7 @@ kashun.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e of mor­  
+of mor­  
 al rottenness, and that to condone  
 the one for sake of the other, isn&#x27;t  
 on the whole, a paying operation.  
@@ -11118,7 +10935,7 @@ chai-acter, for they will be sure to
 blacken vou.  
 The EprrAni of the -42d Congress.  
 The XLIId Congress was content  
-to go down int
+to go down into
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_bayocean_ver01%2Fdata%2Fsn94052321%2F00000002033%2F1873041101%2F0088.jp2/pct:66.262683,44.096536,11.950395,36.700302/!600,600/0/default.jpg"/>
 </td>
@@ -11132,7 +10949,7 @@ to go down int
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; but hore&#x27;s a fact you must  
+but hore&#x27;s a fact you must  
 own :  
 That men living thus nearly coase to be  
 human,  
@@ -11199,7 +11016,7 @@ ment.
 Always give up the road to bulls nnd  
 madmen; and never fight with a coal  
 heaver, nor contend with a base character  
-tor they will be sure to blacken you
+tor they will be sure to blacken you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:0027955730A:1873041201:0765/pct:6.562212,26.174675,12.294931,37.669233/!600,600/0/default.jpg"/>
 </td>
@@ -11213,7 +11030,6 @@ tor they will be sure to blacken you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Spurgeon’s Advice Gratis.—Nobody is  
 more like an honest man than a thorough  
 rogue.  
@@ -11271,7 +11087,7 @@ Always give up the road to bolls and
 madmen; and never fight with a coal beaver,  
 nor contend with a base character, for they  
 will he Sltre to blacken von.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557840:1873041201:0060/pct:17.295720,30.446586,15.058366,33.867246/!600,600/0/default.jpg"/>
 </td>
@@ -11285,11 +11101,10 @@ will he Sltre to blacken von.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Per no dependence on the label  
 of a bag, and count money after your  
 own kind.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1873061301:0332/pct:81.807229,45.672808,12.650602,2.261307/!600,600/0/default.jpg"/>
 </td>
@@ -11303,7 +11118,7 @@ own kind.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as &quot;advice gratis:&quot;  
+as &quot;advice gratis:&quot;  
 Nobody is more like an houest man  
 than a thorough rogue.  
 When you see a man with a great deal  
@@ -11343,7 +11158,8 @@ In any business, never wade into water
 where you cannot see the bottom.  
 See the sack open before you buy what  
 is in it, for he who trades in the dark  
-asks to be cheated.
+asks to be cheated.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002297%2F1873102201%2F0165.jp2/pct:85.311033,35.162281,11.203052,16.206140/!600,600/0/default.jpg"/>
 </td>
@@ -11357,7 +11173,7 @@ asks to be cheated.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. buy  
+buy  
 wh.it is in it; for he who trades in the  
 dark asks to be cheated.  
 Do not be fond of compliments; re­  
@@ -11374,7 +11190,8 @@ it says.
 When you see a man with a great  
 deal ol religion displayed in his shop  
 window, you may depend upon it he  
-keeps a very small stock of it within.
+keeps a very small stock of it within.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_johnwooden_ver01:data:sn86058250:00271744821:1875090801:0132/pct:27.693145,85.413026,10.459739,8.307119/!600,600/0/default.jpg"/>
 </td>
@@ -11390,7 +11207,7 @@ keeps a very small stock of it within.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- who  
+who  
 does not value his own character.  
 Nothing is more like an honest manl than  
 a thorougl rogue. In any business never  
@@ -11414,7 +11231,7 @@ you lnt your thumb between two grinders
 they are apt to bite. Drink nothing  
 without seeing it, sign nothing without  
 readting&#x27; it, and make sure that it  
-means no more than it says
+means no more than it says.
 </td></tr></table>
 
 ---
@@ -11427,7 +11244,7 @@ means no more than it says
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- wbo  
+wbo  
 does not value his own character.  
 Nothing is more like an honest man than  
 a thorough rogue. In any business never  
@@ -11441,7 +11258,7 @@ have nothing to lose : lawyers are built
 on fool&#x27;s head. Don&#x27;t believe the man  
 who talks the most- for mewing cats are  
 seldom good mousers. See the sack open  
-before you buy what is in i
+before you buy what is in it
 </td></tr></table>
 
 ---
@@ -11454,7 +11271,7 @@ before you buy what is in i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- he who  
+he who  
 trades in the dark asks to be cheated.  
 Do not be fond of Compliments ; remember  
 &quot;Thank you pussey, and thank you  
@@ -11464,7 +11281,7 @@ you put your thumb between two grinders
 they are apt to bite. Drink nothing  
 without seeing it, sign nothing without  
 reading it, and make sure that it means  
-no more than it says.
+no more than it says. 
 </td></tr></table>
 
 ---
@@ -11477,7 +11294,7 @@ no more than it says.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- who  
+who  
 does not value his own character.  
 Nothing is more like an honest man than  
 a thorough rogue. In any business never  
@@ -11491,7 +11308,7 @@ nothing to lose — lawyers are built on a
 fool&#x27;s head. Don&#x27;t believe the man who  
 talks the most — mewiaer cats are seldom  
 good mousers. See the sack open before  
-you buy what is in i
+you buy what is in it
 </td></tr></table>
 
 ---
@@ -11504,7 +11321,7 @@ you buy what is in i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- he who  
+he who  
 trades in the dark asks to be cheated.  
 Do not be fond of compliments ; remember  
 &#x27; Thank you pussey, and thank you  
@@ -11514,7 +11331,7 @@ you put your thumb between two grinders
 they are apt to bite. Drink nothing  
 without seeing it, sign nothing without  
 reading it, and make sure that it means  
-no more than it says.
+no more than it says. 
 </td></tr></table>
 
 ---
@@ -11525,8 +11342,6 @@ no more than it says.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Good Advice, Thir.  
 Nobody is more like an honest man  
 than a thorough rogue. When you  
@@ -11587,7 +11402,7 @@ Spurgeon.
 The Largest Book in the World.  
 The trustees of the British Museum  
 are in treaty for the purchase of a copy  
-of the largest book in the worl
+of the largest book in the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877080801:0278/pct:50.633914,4.622960,14.329107,33.664630/!600,600/0/default.jpg"/>
 </td>
@@ -11601,7 +11416,7 @@ of the largest book in the worl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l of Progress.  
+ of Progress.  
   
 Wood Advice, This.  
 Nobody is more like an honest man  
@@ -11660,7 +11475,8 @@ give up the road to bulls and mad-men;
 and never fight with a coal-heaver, or  
 contend with a base character; for they  
 will be sure to blacken you.—Rev. C. H.  
-Spurgeon.
+Spurgeon.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877080901:0218/pct:72.028908,27.142434,12.352784,28.694277/!600,600/0/default.jpg"/>
 </td>
@@ -11674,7 +11490,6 @@ Spurgeon.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 his shop window, you may depend upon it  
 he keeps a very small stock of it within,  
 Do  
@@ -11731,7 +11546,7 @@ Dress in Church. —Nowhere, we _
 ashamed lo say, is tho bad taste of ostenta­  
 tion in dress more conspicuous than here,  
 it seems as if, with many, the Sabbath  
-were the gran
+were the grand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894961:1877091901:0283/pct:4.640670,47.372410,12.665163,32.187974/!600,600/0/default.jpg"/>
 </td>
@@ -11745,7 +11560,7 @@ were the gran
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and gain a resting place for ever ; but,  
+and gain a resting place for ever ; but,  
   
   
   
@@ -11760,7 +11575,8 @@ asad be continued.)
   
 The Largest Book in the World.—The Trus-  
 tees of the British Museum, are in treaty for  
-the purchase of a copy of the largest book in
+the purchase of a copy of the largest book in  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friend-a-religious-and-literary-journal_1877-12-29_51_20%2Fsim_friend-a-religious-and-literary-journal_1877-12-29_51_20_jp2.zip%2Fsim_friend-a-religious-and-literary-journal_1877-12-29_51_20_jp2%2Fsim_friend-a-religious-and-literary-journal_1877-12-29_51_20_0004.jp2/pct:3.929214,76.442526,56.118776,10.699682/600,/0/default.jpg"/>
 </td>
@@ -11774,7 +11590,7 @@ the purchase of a copy of the largest book in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- be of u?e to others, as  
+be of u?e to others, as  
 they have been to me.  
 Nobody is more like an hon­  
 est man than thorough rogue.  
@@ -11849,7 +11665,7 @@ bulls and madr&amp;en ; and never
   
 fight&#x27; with a coal-heaved or con­  
 tend with a base character, for&#x27;  
-they will be safe to black yo
+they will be safe to black you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kerr_ver01:data:sn84038216:print:1878031301:0209/pct:68.984408,11.664779,25.747998,86.086394/!600,600/0/default.jpg"/>
 </td>
@@ -11863,7 +11679,7 @@ they will be safe to black yo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to chance any fur  
+to chance any fur  
 ther explanation.  
 Good Advice.  
 Spurgeon sententiously expresses  
@@ -11905,7 +11721,7 @@ your own kind.
 See the sack open before you buy  
 what is in it; for he who trades in  
 the dark asks to be cheated.  
-I
+If
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1878040301:0680/pct:44.405273,21.596507,11.971183,28.705777/!600,600/0/default.jpg"/>
 </td>
@@ -11919,8 +11735,6 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 American Dairyman.  
   
 GOOD ADVICE.  
@@ -11966,7 +11780,7 @@ See tbe sack open before you buy
 what is in it; for he who trades in the  
 dark asks to be cheated.  
 Keep clear of a man who does not  
-his own character.
+his own character. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1878051001:0525/pct:26.748449,67.889098,9.531867,22.379322/!600,600/0/default.jpg"/>
 </td>
@@ -11980,7 +11794,7 @@ his own character.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to French-Canadians,  
+to French-Canadians,  
 and four to Japan.  
   
 Good Advice.  
@@ -12024,6 +11838,7 @@ is in it; for he who trades in the dark
 asks to be cheated. , - -  
 . Keep clear of a man who does not  
 value his own character. -  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1878052401:0470/pct:82.645310,33.034198,10.634082,17.196216/!600,600/0/default.jpg"/>
@@ -12038,7 +11853,6 @@ value his own character. -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Good Adviee.  
 Spurseon sententiously expresses a  
 number of thoughts &quot;worth remember­  
@@ -12079,7 +11893,7 @@ is in it; for he who trades in the dark
 asks to be cheated.  
 Keep clear of a man who does not  
 value his own character.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878052901:2059/pct:41.408751,31.341976,17.182497,24.632095/!600,600/0/default.jpg"/>
 </td>
@@ -12093,7 +11907,7 @@ value his own character.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- solid and  
+solid and  
 enduring basis. !  
   
 Good Advice.  
@@ -12154,7 +11968,7 @@ Some faces are unreadable, and show­
 nothing of the owner&#x27;s character. The  
 merriest men now and then have solemn  
 faces, and the most serious frequently  
-have cheerful ones.
+have cheerful ones. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1878112801:0365/pct:66.183801,14.730214,20.218069,82.355846/!600,600/0/default.jpg"/>
 </td>
@@ -12170,7 +11984,7 @@ have cheerful ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- others ns  
+others ns  
 they have boon to mc. Nobody is more  
 liko an honest man than n thorough  
 rogue. When you see a man with a great  
@@ -12257,7 +12071,7 @@ weights to slender threads. Yet bo not
 overmoro suspicious, for suspicion is  
 cowardly at best. Men are not angels,  
 remember that; but they aro not devils,  
-nnd it is bad to think them so
+nnd it is bad to think them so.
 </td></tr></table>
 
 ---
@@ -12270,7 +12084,7 @@ nnd it is bad to think them so
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-BEPING&#x27; ONE&#x27;S- EYBB ORHN. &#x27;To g&#x27;g  
+EPING&#x27; ONE&#x27;S- EYBB ORHN. &#x27;To g&#x27;g  
 through this worl d&#x27;ii ani muiist look  
 about him, and even sleep wiithbido eye  
 open; for there are many baits for  
@@ -12393,7 +12207,7 @@ slender threads. Yet be not evermore
 suspicious, for suspicion is a cowardly  
 virtue at best. Meon are not angels,  
 remember that; but they are not devils,  
-and it is bad to .thini? .them so. .
+and it is bad to .thini? .them so. . 
 </td></tr></table>
 
 ---
@@ -12406,7 +12220,7 @@ and it is bad to .thini? .them so. .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; ,, Nobody -is&#x27;moroliko an lionost  
+,, Nobody -is&#x27;moroliko an lionost  
 man tlian i a , thorough i roguo.  
 ,whon,&#x27;3&#x27;ou&#x27;soo&#x27;a man with a great  
 dealof roligion displayed in his shop ,  
@@ -12498,7 +12312,7 @@ suspicious^ ;foi&#x27;;&#x27; sris-&#x27; &#x27;picion is a&#x27;
 cowardly virtue at best. Mon aro not  
 angels, remember that ; but thoy aro not  
 ?devils, and it is bad to tliink tliem-  
-so-
+so-.
 </td></tr></table>
 
 ---
@@ -12519,7 +12333,7 @@ so-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Advice.  
+Advice.  
 Xobody is more like an honest man  
 than a thorough rogue.  
 When you see a man with a great  
@@ -12555,7 +12369,7 @@ See the sack open before you buy
 what is iu it; for he who trades iu the  
 dark asks to be cheated.  
 Keep clear ot a uifii who does not  
-value bis character
+value bis character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1879080601:0553/pct:19.388112,73.604651,11.101399,19.121447/!600,600/0/default.jpg"/>
 </td>
@@ -12569,13 +12383,13 @@ value bis character
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; the greatest enjoyments are serious.  
+the greatest enjoyments are serious.  
 The pleasures of love, ambition, or  
 avarice make nobody laugh.  
 J Always give up the road to bulls and  
 mad men ; and never light with a coal  
 heaver, or contend with a basec.iaraeter,  
-for they will be sure to blackeu you
+for they will be sure to blackeu you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1879091001:0187/pct:80.477258,76.648420,12.091608,4.030853/!600,600/0/default.jpg"/>
 </td>
@@ -12589,7 +12403,7 @@ for they will be sure to blackeu you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: &quot; Nobody is more  
+&quot; Nobody is more  
 like an honest man than a thorough rogue.  
 When you see a man with a great deal of  
 religion displayed in his shop window, you  
@@ -12597,7 +12411,7 @@ may depend upon it he keeps very small
 stock within.  
 1  
 »  
-Horatio Seymou
+Horatio Seymour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894973:1879091001:0113/pct:78.970427,57.082732,13.174777,3.715729/!600,600/0/default.jpg"/>
 </td>
@@ -12611,7 +12425,7 @@ Horatio Seymou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-E.  
+.  
 C.  seon.  
 On KeepINg ONE&#x27;s EYEs OpEN.  
 To get through this world a man must  
@@ -12720,7 +12534,7 @@ great weights to slender threads. Yet be
 not ever-more suspicious, for suspicion is a  
 cowardly virtue at best. Men are not  
 angels, remember that; but they are not dev­  
-ils, and it is too bad to think them so.
+ils, and it is too bad to think them so. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1879101801:0889/pct:64.406869,13.152401,11.372735,49.369829/!600,600/0/default.jpg"/>
 </td>
@@ -12734,7 +12548,7 @@ ils, and it is too bad to think them so.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--. 7 &#x27;&#x27;.  
+. 7 &#x27;&#x27;.  
 1 XIII ,  
 ON KEEPING ONE&#x27;S EYES O FEN.  
 To get through this wcrld a man must  
@@ -12751,7 +12565,8 @@ jot. All heads are not sense-boxes. Some
 are so cunniug that they suspect every­  
 body, and so live all their lives in miser­  
 able fear of their neighbors ; others are so  
-Simple that every, knave takes them in.
+Simple that every, knave takes them in.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WStateJR2n_ver01%2Fdata%2F1880041301%2F0061.jp2/pct:82.868276,16.320976,12.154349,8.193336/!600,600/0/default.jpg"/>
 </td>
@@ -12765,7 +12580,7 @@ Simple that every, knave takes them in.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the big par­  
+the big par­  
 lour before the officer came in, and seated  
 himself jin front of! the fire, holding his  
 thick shoes to the blaze, stf that the warmth  
@@ -12827,7 +12642,8 @@ you, do not bite till you know whether it
   
 is bread or a stone ; and do not &#x27; be  
   
-that the gingerbread is
+that the gingerbread is  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WStateJR2n_ver01%2Fdata%2F1880041301%2F0061.jp2/pct:57.956259,31.478179,37.267471,37.128109/!600,600/0/default.jpg"/>
 </td>
@@ -12841,8 +12657,6 @@ that the gingerbread is
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 isbdtter than being out of employtu&#x27;v&#x27;Jl  
 Always give up the road to bulls and mad­  
 men ; and never fight with a coal-heaver  
@@ -12881,7 +12695,8 @@ not evermore suspicions, for suspicion is
 a cowardly virtue at best. Men are not  
 angels, remember that ; but they, are not  
 devils, and it is too bad to think, them  
-so.
+so.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WStateJR2n_ver01%2Fdata%2F1880041301%2F0061.jp2/pct:83.559578,51.065228,12.204625,17.616143/!600,600/0/default.jpg"/>
 </td>
@@ -12897,7 +12712,7 @@ so.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- HEADING. ON KEEPING  
+HEADING. ON KEEPING  
 ONE&#x27;S BYES OPEN. To get through this  
 world a man mnBt look ?boot him, and  
 even sleep with one eye open ; for thero  
@@ -13014,7 +12829,7 @@ slender threads. Yet be not evermore
 suspicious, for suspicion is cowardly at  
 .best,. Uen.&#x27;Vre not augeln, remember  
 that; but they are not devils, and it is  
-bad t.o thiuk . them so. — 
+bad t.o thiuk . them so. — 1
 </td></tr></table>
 
 ---
@@ -13025,7 +12840,6 @@ bad t.o thiuk . them so. —
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 geri in it. IIve tery little f do  
 with a bosstr, for lis beer is all  
 froth, and though be braa that all  
@@ -13046,7 +12860,7 @@ virtue&quot; at besL Men are not aneU,
 remember that; bat they are not  
   
 devils, and it is too bad to think  
-tbem so.
+tbem so. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen21n_ver01%2Fdata%2F1880051301%2F0073.jp2/pct:79.602057,16.587384,12.060097,12.192347/!600,600/0/default.jpg"/>
 </td>
@@ -13060,12 +12874,10 @@ tbem so.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 neighbors ; others are so simplo that from (tainesvillc, Texxs, gives the  
 every knave takes them in, and particulars of the execution of Ii. M.  
 makes his penny of them. One man Noftsinger, convicted of the wilful  
-tries to sec through a brick wall and
+tries to sec through a brick wall and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen21n_ver01%2Fdata%2F1880051301%2F0073.jp2/pct:67.447212,30.682523,24.309691,2.523268/!600,600/0/default.jpg"/>
 </td>
@@ -13079,8 +12891,6 @@ tries to sec through a brick wall and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Oa Keeplar otters Ejes Open.  
 To get through this world a man  
 must look about him, and even sleep  
@@ -13097,7 +12907,8 @@ and many have fine eyes and cannot
 see a jot. All heads are not sense­  
 boxc. Some are so cunning that  
 they supect everybody, and live all  
-their lives in miserable fear of their
+their lives in miserable fear of their  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen21n_ver01%2Fdata%2F1880051301%2F0073.jp2/pct:67.190038,20.268873,12.168381,10.186143/!600,600/0/default.jpg"/>
 </td>
@@ -13111,7 +12922,6 @@ their lives in miserable fear of their
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 sy, and thank you, pussy,&quot; killed tho carried him six fest. In half an  
 cat. Don&#x27;t believe in the man who hour the body was taken down and  
 talks most ; for mewing cats are very giren to his father to be sent home  
@@ -13125,7 +12935,7 @@ son&#x27;s power : if you put your thumb j -The Dublin Timr &amp;ert that do-
 between two. grinders, tbey arc very spite the starvation and famine pre-  
 apt to bite. Drink nothing without vailing in Ireland, large quanti-  
 seeing it ; sign nothing w ithout read- tics of Irish seed potatoes are being  
-ing it, nd make sure that it mean
+ing it, nd make sure that it means
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen21n_ver01%2Fdata%2F1880051301%2F0073.jp2/pct:67.880347,49.141675,24.539794,6.535677/!600,600/0/default.jpg"/>
 </td>
@@ -13139,7 +12949,7 @@ ing it, nd make sure that it mean
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. verv seldom  
+verv seldom  
 -  
 mousers. By no means put your  
 lf in another person&#x27;s power; if you  
@@ -13178,7 +12988,7 @@ poorest pay far better
 I than being out of employment. Always  
 I ?j . .i vMZTTi  
 contend with a base character, for they  
-I will be sure to blacken you
+I will be sure to blacken you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1881063001:0340/pct:82.735724,61.296637,11.885790,17.964072/!600,600/0/default.jpg"/>
 </td>
@@ -13192,8 +13002,6 @@ I will be sure to blacken you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 Good Ai?vice. ? Spurgeon son ten­  
 1 tiously expresses a number of the  
 1 thoughts worth remembering, in the  
@@ -13224,7 +13032,8 @@ In any bisiness never wado in the
 i water where you cannot eco the bot­  
 tom.  
 Keep clear of the man who dors not J  
-value his own character.
+value his own character.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1881092401:0567/pct:63.899018,45.836546,19.186536,16.779106/!600,600/0/default.jpg"/>
 </td>
@@ -13238,8 +13047,6 @@ value his own character.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Good Advioe.  
 Spurgeon sententiously expresses a  
 number of the thoughts worth remem­  
@@ -13271,7 +13078,7 @@ In any business never wade in the
 water where you cannot see the bottom.  
 Keep clear of the man who does not  
 vaiue his own character.  
-A Ne
+A New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341644:1881092601:0301/pct:36.574932,51.823135,10.879795,14.218357/!600,600/0/default.jpg"/>
 </td>
@@ -13285,7 +13092,6 @@ A Ne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Do not choose your friend by his  
 looks ; handsome shoes often pinch  
 the feet. Do not be fond of compli­  
@@ -13338,7 +13144,7 @@ ployment. Always give up the roads
 to bulls and madmen, and never fight  
 with a coal heaver or contend with a  
 base character, for they will be sure  
-to blackeu you
+to blackeu you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194412:1884040701:0054/pct:70.251623,12.266152,22.280844,84.300868/!600,600/0/default.jpg"/>
 </td>
@@ -13352,13 +13158,13 @@ to blackeu you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Nobody is more like  
+Nobody is more like  
 an honest man than a thorough rogue.  
 When you see a man with a great  
 deal of religion displayed in his shop  
 window, you may depend upon it he  
 keeps a very small stock of it within.  
-WONDERFUL PHENOMENA I
+WONDERFUL PHENOMENA IN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194412:1884040701:0054/pct:81.696429,19.180328,10.849567,4.146577/!600,600/0/default.jpg"/>
 </td>
@@ -13392,13 +13198,13 @@ WONDERFUL PHENOMENA I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sure  
+sure  
 from start. Wealth awaits every worker.  
 Both sexes. All ages.  
 By no meaus put yourself in another  
 person’s power; if you put your thumb  
 betwten two grinders they are very apt  
-to bite
+to bite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1887020501:0823/pct:40.847067,70.034037,10.579479,3.076923/!600,600/0/default.jpg"/>
 </td>
@@ -13412,14 +13218,15 @@ to bite
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Wealth awaits every worker.  
+Wealth awaits every worker.  
   
 lloth sexes. All ages.  
 By no means put yourself In another  
   
 person&#x27;s power; if you put your thumb  
 betwten two grinders they are very apt  
-to bite.
+to bite.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776701:1887020901:0644/pct:41.649233,70.789675,11.052999,2.760031/!600,600/0/default.jpg"/>
 </td>
@@ -13433,7 +13240,7 @@ to bite.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- after.  
+after.  
 Beware of no man more than your  
 self; we carry our worst enemies with us.  
 We can only know ourselves throturh  
@@ -13450,7 +13257,7 @@ nrnarried.
 God governs the world, and we have  
 only to do our duty wisely and leave the  
 issue to Him.  
-There ar
+There are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1889041101:0412/pct:27.138493,83.021077,11.099796,9.653916/!600,600/0/default.jpg"/>
 </td>
@@ -13464,7 +13271,6 @@ There ar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ances many see more with one eye  
 than others with two, and many have  
 fine eyes and cannot see a jot.  
@@ -13548,7 +13354,8 @@ picious, for suspicion is a cowardly
 virtue at best.  
 yMen are not angels remember  
 that; but they aie not devils, and it  
-is too bad too think them so.
+is too bad too think them so.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196408:1889102801:0608/pct:64.640592,3.891808,23.255814,93.325550/!600,600/0/default.jpg"/>
 </td>
@@ -13562,7 +13369,7 @@ is too bad too think them so.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Ieue is a piece of good advice  
+eue is a piece of good advice  
 from an exchange: &quot;Drink nothing  
 without seeing it. Sign nothing  
 without reading it, and make sure  
@@ -13576,7 +13383,7 @@ pendence on the label of a bag, and
 count money before you receipt for  
 it. See the sack open before you  
 buy what is in it, for he who trades  
-tn the dark asks to be cheated
+tn the dark asks to be cheated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556060:1889120501:0229/pct:39.732143,63.443536,10.771889,9.479796/!600,600/0/default.jpg"/>
 </td>
@@ -13590,7 +13397,7 @@ tn the dark asks to be cheated
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- store.  
+store.  
   
 Drink nothing without&#x27; seeing it.  
 Sign nothing without reading it,  
@@ -13608,7 +13415,7 @@ buy what is in it, for lie who trades
 in the dark asks to be cheated.—Ex.  
   
 At a regular meeting of Stephen  
-A. Hurlbut Post, No. 
+A. Hurlbut Post, No. 9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523039:1889121101:0180/pct:50.630517,60.098463,11.238966,9.726225/!600,600/0/default.jpg"/>
 </td>
@@ -13622,7 +13429,7 @@ A. Hurlbut Post, No.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ined  
+ned  
 Here is a piece of good advice from  
 an exchange     Drink nothing without  
 seeing it Sign nothing without read-  
@@ -13643,7 +13450,7 @@ there were many timid people who
 saw in such a vast solid array of one  
 interest against the rest danger to the  
 content and harmony of the common-  
-wealth Five hun
+wealth Five hund
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth995939/m1/1/pct:30.866667,17.010816,25.200000,76.302852/!600,600/0/default.jpg"/>
 </td>
@@ -13657,7 +13464,7 @@ wealth Five hun
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- not be a hind­  
+not be a hind­  
 rance.  
 Here is some good advice from  
 an exchange; Drink nothing with­  
@@ -13687,7 +13494,7 @@ requested the Tribune to a&gt;k of
 those having second-hand clothing  
 to donate to leave the same at Mr. J.  
 Dawe’s store, and they will call and  
-get the same an
+get the same and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768849:1889121201:1413/pct:15.881104,10.993955,50.509554,83.073246/!600,600/0/default.jpg"/>
 </td>
@@ -13701,7 +13508,6 @@ get the same an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Sermon Without a Text.  
 Drink nothing without seeing it;  
 sign nothing without reading it.  
@@ -13750,7 +13556,7 @@ rat; but mind you don&#x27;tcat.iihyour j
 own fingers, in it.  
 A Lusus Naturae  
 &quot;And win? monght that bol&quot;  
-asked th
+asked the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1890011001:0408/pct:37.542764,43.285683,12.271307,31.448993/!600,600/0/default.jpg"/>
 </td>
@@ -13764,7 +13570,7 @@ asked th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- another  
+another  
 finds out a hole in it and sees as far us i  
 ha pleases.  
 Some work at the mouth of a furnace !  
@@ -13845,7 +13651,8 @@ for suspicion is a cowardly virtue at
 best.  
 Men are not angels—remember that;  
 but they arc not devils, and it is 100  
-bad to think them so.
+bad to think them so.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623446:1890022001:0214/pct:4.614065,6.830078,25.506003,90.297459/!600,600/0/default.jpg"/>
 </td>
@@ -13859,14 +13666,14 @@ bad to think them so.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 about the best minister he has ever  
 heard.  
 Trust not great weights to slender  
 threads. Commit all your secrets  
 to no man, yet be not evermore sus  
 picious, for suspicion is a cowardly  
-virtue at best.
+virtue at best.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA27n_ver01%2Fdata%2F1890030501%2F0068.jp2/pct:39.219774,81.989162,14.487790,4.345978/!600,600/0/default.jpg"/>
 </td>
@@ -13880,7 +13687,6 @@ virtue at best.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Sermon Without s Text  
 Drink nothing without seeing It t  
 hign nothing without reading it. and  
@@ -13923,7 +13729,7 @@ a. soon as yon smell a rat .but wind
 you don t catch your owu finger* In  
 it.  
   
-1
+1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767845:1890032101:0459/pct:84.434401,44.926829,12.242456,24.253659/!600,600/0/default.jpg"/>
 </td>
@@ -13937,7 +13743,7 @@ it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nt.  
+t.  
 paste this in your hat, or  
 put it where you will fall over it every  
 e a   a e e a e at  
@@ -13953,7 +13759,7 @@ of the bag, and count the money before
 you receipt for it. See the sack open be­  
 fore you buy what is in it, for he who  
 tradesin the dark asks to be cheated.  
-whi
+whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559978:1890032801:0051/pct:51.973035,84.362910,11.180533,8.810683/!600,600/0/default.jpg"/>
 </td>
@@ -13967,7 +13773,7 @@ whi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 2t.  
+2t.  
 I&#x27;UHte TIilH 111 Your Hat  
 Every man should paste this in his hat or  
 put It whero ho will fall over It six times  
@@ -13983,7 +13789,7 @@ fore you receipt for It. See the sack before
 you buy what is in It, for bo who trades In  
 tho dark asks to be cheated.  
 A Cure ot CaturrU  
-In tbo head, as well as of all bro
+In tbo head, as well as of all bron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288038:1890040401:0283/pct:36.610352,29.154873,10.801582,9.273487/!600,600/0/default.jpg"/>
 </td>
@@ -13997,8 +13803,6 @@ In tbo head, as well as of all bro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Sermon Without a Text.  
 Drink nothing without seeing it;  
 s&#x27;gn nothing without reading it, and  
@@ -14040,7 +13844,8 @@ When you suspect a design in any*
 thing, be on your guard; set the  
 trap as soon as yon smell a rst; hut  
 mind you don&#x27;t curb ?*&gt;ur own fln­  
-Pera in it.
+Pera in it.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187183:1890041101:0665/pct:4.261220,70.038993,11.283409,23.237433/!600,600/0/default.jpg"/>
 </td>
@@ -14054,7 +13859,7 @@ Pera in it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- therein: &quot;Drink  
+therein: &quot;Drink  
 nothing without seeing it. Sign nothing  
 without reading it, and make sure that it  
 means nothing more than it savs. Don&#x27;t  
@@ -14066,7 +13871,7 @@ on a bag, and count money before you
 receipt for It. Hoe in tho sack lcfore you  
 buy what ia In it, for ho who reads in the  
 dark asks to bo cheated.&quot;  
-SCHOO
+SCHOOL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1890042301:0641/pct:70.198413,10.764572,12.777778,7.448902/!600,600/0/default.jpg"/>
 </td>
@@ -14080,7 +13885,6 @@ SCHOO
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Every man should paste this in his  
 hat or put it where he will fall over it  
 six times a day: Drink nothing with­  
@@ -14096,7 +13900,7 @@ you buy what is in it, for he who trades
 in the dark asks to be cheated.  
 I no alls, according to the papers,  
 spent over $40,000 in the purchase of  
-Atchiso
+Atchison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1890042401:0717/pct:5.672499,33.366413,12.274467,9.813651/!600,600/0/default.jpg"/>
 </td>
@@ -14110,7 +13914,7 @@ Atchiso
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- no defense.  
+no defense.  
   
 Here is a piece of excellent advice  
 from an exchange : &quot;Drink nothing with  
@@ -14125,7 +13929,7 @@ and count money before you receipt for it
 See the bag open before you buy what is  
 in it, for he who trades in the dark either  
 cheats or asks to be cheated.&quot;  
-God
+Gode
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1890042401:0112/pct:3.395473,29.732510,11.035286,8.423354/!600,600/0/default.jpg"/>
 </td>
@@ -14139,7 +13943,7 @@ God
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- advice : &quot;Drink  
+advice : &quot;Drink  
 nothing without seeing it. Sign noth­  
 ing without reading it, and be sure that  
 it means nothing more than it says.  
@@ -14152,7 +13956,7 @@ before you receipt for it. See the bag
 open before you buy what ia in it, for  
 he who trades in the dark asks to be  
 cheated.&quot;  
-The call for an election to vot
+The call for an election to vote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1890052901:0316/pct:25.000000,7.059993,10.982906,6.839023/!600,600/0/default.jpg"/>
 </td>
@@ -14166,7 +13970,7 @@ The call for an election to vot
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Drink nothing  
+Drink nothing  
 without seeing it. Sign nothing with­  
 out reading and make sure that it  
 means nothing more than it says.  
@@ -14184,7 +13988,7 @@ J. S. Whitney, who has been resur
 rected for political purposes, died  
 ibout ten years ago. What he said  
 during his lifetime may have been  
-misunderstood o
+misunderstood or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1890052901:0404/pct:6.673785,5.266045,19.233849,89.105869/!600,600/0/default.jpg"/>
 </td>
@@ -14198,13 +14002,14 @@ misunderstood o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-— Selected.  
+Selected.  
   
 Trust not great weights to slender  
 threads. Commit all your secrets to no  
 man, yet be not evermore suspicious,  
 for suspicion is a cowardly virtue at  
-best.
+best.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1890-06-25_39_26%2Fper_the-pacific_the-pacific_1890-06-25_39_26_jp2.zip%2Fper_the-pacific_the-pacific_1890-06-25_39_26_jp2%2Fper_the-pacific_the-pacific_1890-06-25_39_26_0005.jp2/pct:52.269244,16.361330,13.315561,3.640549/600,/0/default.jpg"/>
 </td>
@@ -14218,7 +14023,7 @@ best.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, nor wholly on  
+nor wholly on  
 that of others.  
 God governs the world, and we have  
 onlv to do our dutv wisely and leave  
@@ -14229,7 +14034,7 @@ CHOICE EXCERPTS.
 Beware of no man more than your  
 self; we carry our worst enemies with us,  
 A life that will bear the inspection  
-of God and of men is th
+of God and of men is the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1890082101:0181/pct:25.981371,26.804906,10.978044,6.069035/!600,600/0/default.jpg"/>
 </td>
@@ -14243,7 +14048,6 @@ of God and of men is th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Sermon Without a Text.  
 Drink nothing without seeing it;  
 •ign nothing without reading it, and  
@@ -14275,7 +14079,7 @@ good Ixmause of the gilt upon it.
 Nevor shout hello till you are quite  
 out of the woods ; and don&#x27;t cry fresh  
 fish till tbsy are caught in thu net.  
-li
+lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00332899004:1892040801:0053/pct:83.638768,51.353361,10.712261,16.299822/!600,600/0/default.jpg"/>
 </td>
@@ -14299,7 +14103,7 @@ li
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Mr. Shearer was 47  
+Mr. Shearer was 47  
 years of age and was a former resident of  
 Johnstown. He is survived by his wife,  
 two sons and one daughter.  
@@ -14319,7 +14123,7 @@ ane count money before you accept it. See
 the sack open before you buy what is in  
 it, for he who trades in the dark asks to be  
 cheated.&quot;  
-A dis
+A dist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477758:1895051701:0231/pct:21.789608,9.627010,11.100099,9.056690/!600,600/0/default.jpg"/>
 </td>
@@ -14333,7 +14137,6 @@ A dis
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 formed. We are quite sorry we are  
 unable to describe the affair more in  
 detail, but if the young folks persist  
@@ -14357,7 +14160,7 @@ for he who trades in the dark asks
 to be cheated.&quot;  
 Ladies, call and see  
 that handsome line of  
-ladie
+ladies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556059:1895052401:0857/pct:64.594072,74.042861,14.271907,19.576210/!600,600/0/default.jpg"/>
 </td>
@@ -14371,7 +14174,7 @@ ladie
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 8. An exchange speaks wisely in giving  
+8. An exchange speaks wisely in giving  
 Good&#x27;s. -85¢1. the following very sensible advice:  
 | If you wish to get cooled off stop in| i Siow sting it, dn  
 jo. Hodgkine drtg store and yt &#x27;s vietiing without reading {, sd make  
@@ -14385,7 +14188,7 @@ A normal school hap been started wl . a the Sgn
 The Democrats will bold their con- {Souls mine belt you sccept. it.  
 | open before you buy what  
 | vention to nominate county officers isin it, for be who. trad in the dark  
-[seus tise 1
+[seus tise 1s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_p_colorado_ver01%2Fdata%2Fsn87079953%2F00000143%2F1895053001%2F0442.jp2/pct:27.821782,35.618932,21.101485,8.302994/!600,600/0/default.jpg"/>
 </td>
@@ -14399,7 +14202,7 @@ The Democrats will bold their con- {Souls mine belt you sccept. it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- .&quot;  
+.&quot;  
 An exchange speaks wisely iu  
 giving the following very sensible ad­  
 vice: &quot;Drink nothing without seeing  
@@ -14416,7 +14219,7 @@ cept it. Spe the sack open before you
 buy what is io it, for he who trades  
 in the dark aides to be cheated.&quot;  
 Why don&#x27;t our temperance  
-women &quot;get i
+women &quot;get in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1895060501:0594/pct:68.377743,80.133929,12.264890,10.119048/!600,600/0/default.jpg"/>
 </td>
@@ -14430,10 +14233,8 @@ women &quot;get i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 For wall paper, picture mouldings, |  
-paper hanging, painting, etc., go to C\.
+paper hanging, painting, etc., go to C\. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_p_colorado_ver01%2Fdata%2Fsn87079953%2F00000143%2F1895060601%2F0450.jp2/pct:29.017857,32.847896,10.243056,1.142799/!600,600/0/default.jpg"/>
 </td>
@@ -14447,7 +14248,7 @@ paper hanging, painting, etc., go to C\.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Whole vial  
+Whole vial  
 25 cents.  
   
 ——An exchange speaks wisely in  
@@ -14468,7 +14269,7 @@ be cheated.”
   
 Goop HearLTH—And a good appetite  
   
-tite, the system canno
+tite, the system cannot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000002%2F1895061401%2F1638.jp2/pct:61.576971,24.528799,13.329161,10.702517/!600,600/0/default.jpg"/>
 </td>
@@ -14482,7 +14283,7 @@ tite, the system canno
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s control of the Goverment.  
+ control of the Goverment.  
 Drink nothing without seeing it; sign  
 nothing without reading it, and make  
 sure that it means nothing more than it  
@@ -14494,7 +14295,7 @@ in the label on a dog, and count money
 before you receive it; see the sack before  
 you buy what is in it, for he who buys in  
 the dark asks to be cheated.  
-The total
+The total 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1896030401:0316/pct:46.996255,45.346141,10.277154,6.160980/!600,600/0/default.jpg"/>
 </td>
@@ -14508,7 +14309,7 @@ The total
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in anticipation of his recovery.  
+in anticipation of his recovery.  
 Drink nothing without seeing it; sigr.  
 nothing without reading it, and make sure  
 that it means nothing more than it says!  
@@ -14520,7 +14321,7 @@ dog: and count money before yon receive
 it: see the sack before you buy what is in  
 it, for he who buys in the dark asks to be  
 cheated.  
-We non
+We none
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477758:1896032001:0401/pct:10.114613,28.015473,11.275072,6.294690/!600,600/0/default.jpg"/>
 </td>
@@ -14534,7 +14335,6 @@ We non
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Advice Not to be Discounted.  
 The  
 “Drink  
@@ -14571,7 +14371,8 @@ no dependence on the label of a bag,
 and sound money before you accept it,  
 See the sack open before you buy what  
 is in it, for he who trades in the dark  
-asks to be cheated.”
+asks to be cheated.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter2_ver01%2Fdata%2Fsn83032058%2F13362148%2F1896061101%2F00004.jp2/pct:22.697368,52.814739,13.961988,8.879222/!600,600/0/default.jpg"/>
 </td>
@@ -14585,8 +14386,6 @@ asks to be cheated.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Advice Not to Be Discounted.  
   
 The following is sensible advice:  
@@ -14601,7 +14400,8 @@ bottom, Put no dependence on the label
 of a bag, and count money befor: you  
 accept it. See the sack open before you  
 buy what is in it, for he who trades in the  
-dark asks to be cheated,”
+dark asks to be cheated,”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centredemocrat02_ver01%2Fdata%2Fsn84009409%2F13345321%2F1896061801%2F00008.jp2/pct:22.048336,84.937972,13.866878,8.589536/!600,600/0/default.jpg"/>
 </td>
@@ -14615,7 +14415,6 @@ dark asks to be cheated,”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Advice Not to Be Discounted.  
 The following is sensible advice :  
 &quot;Drink nothing without seeing it, sign  
@@ -14632,7 +14431,7 @@ See the sack open before you buy
 what is in it, for he who trades in the  
 dark asks to be cheated.&quot;  
 WANAMAKER CLOTHING  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896061801:1126/pct:37.017937,40.350614,14.775785,12.106683/!600,600/0/default.jpg"/>
 </td>

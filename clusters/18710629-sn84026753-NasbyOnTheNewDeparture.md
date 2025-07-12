@@ -13,7 +13,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Nasby on the New Departure.**  
+asby on the New Departure.**  
   
 [From the Toledo Blade.]  
   
@@ -67,7 +67,8 @@ And the nigger laffed a feendish laff.
   
 It wuz enuff. I guess the cuss found out all that he wanted to. Uv cours this &#x27;outrage,&#x27; ez they call it, will get into the Northern papers, and uv cours Vallandygum&#x27;s assershun will explode itself without hurtin anybody. Joe Bigler iz my evil genius. I shel never be able to run things ez i want to so long ez he lives.  
   
-Petroleum V. Nasby, (wich wuz Postmaster.)
+Petroleum V. Nasby, (wich wuz Postmaster.)  
+
 </td></tr></table>
 
 ---
@@ -78,7 +79,6 @@ Petroleum V. Nasby, (wich wuz Postmaster.)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Mr. Nasby and Iits Friends Second  
 the Hlovement oI ValIantehi-  
 A Meeting lin which MYe Joseph  
@@ -298,6 +298,7 @@ I shel never be able two run things ez I want
 to so long ex he lives.  
 PETHOLEEM V. NASDY.  
 (wich whx Postmaster.)  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871060601:0003/pct:22.931908,0.782361,38.172951,96.996997/!600,600/0/default.jpg"/>
@@ -312,8 +313,7 @@ PETHOLEEM V. NASDY.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-traying  
-Hammer sunsnine gild tliem yet.  
+tliem yet.  
   
 NASBY.  
   
@@ -581,6 +581,7 @@ want to so long ez he lives.
 PETROLEUM V. NASBY,  
   
 (wich wuz Postmaster.)  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1871060801:0197/pct:39.614531,4.535340,18.330560,90.367702/!600,600/0/default.jpg"/>
@@ -595,7 +596,6 @@ PETROLEUM V. NASBY,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-%  
 A calm and comprehensive survey nv the  
 politikle field satisfied me, some months ago,  
 that without some shift in the position uv  
@@ -813,7 +813,7 @@ PETROLEUM Y. NASBT.
 (Wieh wuz Postmaster.)  
   
 Why Immigration Halts.  
-Thirty or forty prominent citizens 
+Thirty or forty prominent citizens o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_growlithe_ver01:data:sn83016555:00295875896:1871061101:0287/pct:70.971074,6.145731,27.186639,92.149166/!600,600/0/default.jpg"/>
 </td>
@@ -827,26 +827,6 @@ Thirty or forty prominent citizens
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-avis Sewing Machine !  
-still sustains its reputation of being the  
-Best Family Machine Out!  
-FOR SALE AT  
-B. KIMBALL’S.  
-may6-ttf  
-Tlxx Roofing *  
-and all kinds of Jobbing in  
-Sheet Iron, Copper, Tin and Zinc,  
--AT­  
-WILLIAMSON &amp; GREENWOOD’S.  
-maril-ttf  
-  
-Window Nil axles,  
-FIXTURES, TASSELS and COIU),  
-CURTAIN BANDS and HOOKS,  
-Spring Styles, now opening at  
-PIERCE’S CROCKERY STORE,  
-may 20ftf No. 159 Water Street.  
-  
 PteceUaneottg.  
 NASBY IV THE SHTASIOX.  
 Mr. Xasby and his Friends Second the move­  
@@ -1085,9 +1065,9 @@ things ez I want to so long ez he lives.
 Ff.trolefm V. Nasbt,  
 (wich wuz Postmaster).  
   
-
+E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871061401:0612/pct:55.514706,17.673823,39.338235,79.055879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871061401:0612/pct:68.566176,17.673823,26.286765,79.055879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1079,7 @@ Ff.trolefm V. Nasbt,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the free.  
+of the free.  
 (FrOm tHE TOlEdO BlAdE.)  
 Mr. Nasby and his Friends Second the  
 Movement of Vallandigham-A Meet  
@@ -1332,7 +1312,7 @@ genius. I shel never be able to run things
 ez I want to, so long ez he lives.  
 PErroLun V. Nasny,  
 (Wich wuz Postmaster,)  
-A Western paper has a new way 
+A Western paper has a new way o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:0029455564A:1871061501:0249/pct:29.004966,20.147284,23.836675,73.433375/!600,600/0/default.jpg"/>
 </td>
@@ -1346,7 +1326,6 @@ A Western paper has a new way
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 bel against what they called an abandonment of  
 democratic ideas; but Bascom made short work  
 •with them. He remarked that it was necessary  
@@ -1356,7 +1335,7 @@ his liquors, and he knew no other way of
 getting it. He believed in the fullest freedom  
 of thought and action, and desired that every  
 one should express his views without reserve;  
-but any one s
+but any one so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171888:1871061701:0570/pct:3.661810,55.088215,10.851227,4.516584/!600,600/0/default.jpg"/>
 </td>
@@ -1370,8 +1349,6 @@ but any one s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Xasby and . his, Friends Second  
 the Movement of Vullandigham-4  
 Meeting in which Mr. Joseph Bigler  
@@ -1657,7 +1634,7 @@ PETROLEUM V..Nssmi&#x27;.
   
 Sad irate at a Late Army eater.&#x27;  
 BLaj.GeniCharlesMuntlee. citizen  
-o
+of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_obamab_ver01%2Fdata%2Fsn83031982%2F000001763%2F1871062101%2F0096.jp2/pct:17.388889,5.476534,19.532407,89.935018/!600,600/0/default.jpg"/>
 </td>
@@ -1671,31 +1648,7 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hurled patchinent,  
-Full to 1.1110 In this light.  
-Bee upon the massive boulder,  
-  
-That dull.. thu gltelm&#x27;s whack.  
-Where thu feather of tha logo,  
-Loft his home.. on thu ruck ;  
-hew away stud mould opinion,  
-Let the plualle mind be wrought  
-Vor tho error uf.lhotwgra,  
-Cltry,talltu lu cloud nud thought.  
-  
-Wel nu longer dying echoes,  
-Echoed feels the echoes, gums;  
-near the voice of po.gress  
-  
-Si,&#x27; (ha butt, era dawn,  
-ce.mntruct thu social fabric  
-  
-Vivo Ilia %,or.lng Mall his own  
-ro.ketcd of the lmildeni,  
-1-11‘..• the t•toro.dr worr-Itoo..  
-  
-Yr,. the Mimi, Muth.]  
-NAS BF ON THE SIT UATION.  
+BF ON THE SIT UATION.  
   
 CONVEDIUT X ROADS is in the  
 State of Kentucky), _May 24, 1871:&#x27;—.A.  
@@ -1974,7 +1927,7 @@ long as ho lives.
 PETROLEUM. V. NASIPAr,  
 .....(wick wuz Postmaster.)  
   
-A
+AN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001846%2F1871062201%2F0097.jp2/pct:54.834562,10.110556,28.973084,84.276034/!600,600/0/default.jpg"/>
 </td>
@@ -1988,7 +1941,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, the cx-powtmaeter called on  
+the cx-powtmaeter called on  
 those present to ahow their faith by  
 heir works.  
 &quot;Thbre are,&quot; said I, in a sf&amp;sifi tiv  
@@ -2113,7 +2066,8 @@ dah wuzn&#x27;t no &#x27;Publican party up
 North to hold you, dat wuz all.&quot;  
   
 And the nigger laffed a fiendish  
-laff.
+laff.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn84027352:00279528748:1871062201:0855/pct:43.578884,15.679812,10.452277,55.020600/!600,600/0/default.jpg"/>
 </td>
@@ -2127,7 +2081,7 @@ laff.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-“THE NEW DEPARTURE.”  
+THE NEW DEPARTURE.”  
 CoNFEDRIT X ROADS  
 (wich is in the State uv Kentucky),  
 May 24, 1871,  
@@ -2373,7 +2327,7 @@ be able to run things ez I want to so
 long ez he lives. |  
 PeETrROLEUM V. NASBY. |  
 (wich wuz Postmaster.) ]  
-—The worst
+—The worst 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1871062401:0402/pct:5.440199,6.239118,30.004153,88.363320/!600,600/0/default.jpg"/>
 </td>
@@ -2387,7 +2341,6 @@ PeETrROLEUM V. NASBY. |
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 NASEY ON THE SITUaUlON.  
 Mr. Nasby and His Friends Second  
 the Movement of Vallandigham  
@@ -2479,7 +2432,7 @@ specch es I took the chair. I rejoist that
 the time had finally arrived when the lion  
 and the lamb hed layed down together, and  
 a child wus the leadln ay aie. I,  
-Continued o
+Continued oa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1871062401:0954/pct:82.582369,50.042265,12.662511,44.928149/!600,600/0/default.jpg"/>
 </td>
@@ -2657,7 +2610,6 @@ a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 toes; they were sweet and large, but not  
 wholesome.&quot;  
 While my hand is on the record, I may  
@@ -2709,7 +2661,7 @@ in korious
 responded Bigler.  
   
 said Deekin Pogram  
-
+h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1871062801:0229/pct:14.074790,12.056197,23.154409,15.454149/!600,600/0/default.jpg"/>
 </td>
@@ -2723,7 +2675,6 @@ said Deekin Pogram
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 in&#x27;t lookt for in one so agid, the deekin  
 t the darkey, whose hand he had bin  
 pin, a most powerful blow atween the  
@@ -2780,7 +2731,7 @@ ake Champlain
   
 rganized fresh raids onto our nateral  
   
-The next mornin I not
+The next mornin I noti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1871062801:0229/pct:14.295571,27.771727,22.726646,10.694838/!600,600/0/default.jpg"/>
 </td>
@@ -2794,7 +2745,6 @@ The next mornin I not
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 h,  
   
 Morement of Iallandigham--4 Meeting in  
@@ -2856,7 +2806,7 @@ nibacker who hey
 and causing  
 .Thus matters  
 y years affliction,  
-ag
+age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1871062801:0229/pct:6.223265,40.013069,48.006071,12.470050/!600,600/0/default.jpg"/>
 </td>
@@ -2870,7 +2820,7 @@ ag
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- accole  
+accole  
 officer, since  
 The insur  
 but, forsooth  
@@ -2901,7 +2851,7 @@ and that every one shood express hisself un-
   
 trameled, but he coodent abide a idiot. If  
   
-there wuz any one in that asse
+there wuz any one in that assem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1871062801:0229/pct:6.030081,56.501851,22.685249,8.712699/!600,600/0/default.jpg"/>
 </td>
@@ -2915,7 +2865,6 @@ there wuz any one in that asse
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- uv life.  
 to their feet to object,  
 hed been shot.  
 It was determinedt  
@@ -3023,7 +2972,7 @@ and murderous attacks; and
 Paris i­  
 ernment,  
 to the  
-inister
+inisters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1871062801:0229/pct:3.311715,66.967981,33.393128,20.420388/!600,600/0/default.jpg"/>
 </td>
@@ -3037,8 +2986,6 @@ inister
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The Family  
   
 likes.  
@@ -3054,7 +3001,8 @@ vanced, the two lines grasped each other by
  the hand, and I wuz about to wave, when  
 Joe Bigler riz. He begged me to wait a  
   
-till he had made his remark. The
+till he had made his remark. The  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1871062801:0229/pct:13.122671,86.745807,42.859114,7.373121/!600,600/0/default.jpg"/>
 </td>
@@ -3068,7 +3016,6 @@ till he had made his remark. The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 ConFEDmIT N Roads, I  
 twich is in the State of Kentucky  
 May21, 187l. I  
@@ -3312,7 +3259,7 @@ to run things ez I want to so long ez he
 lives.PEruoLEuM V. Nasiy,  
 (wich wuz Postmaster.)  
 a nice bittle Farty in New mamp  
-Fro
+From
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190868:1871062801:0610/pct:1.200582,3.128883,25.145525,95.193503/!600,600/0/default.jpg"/>
 </td>
@@ -3326,7 +3273,6 @@ Fro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Xasby on the Mew Departure.  
 [From the Toledo Blade ]  
 Confedrit X Roads,  
@@ -3547,7 +3493,7 @@ inviv %w &gt;uu miiijra re * wtllll 5U lUII^ lir | 1
 lives. Prtbolkim V. N a?by, ! i  
 [wich wuz Postmaster.)  
 1  
-The Count D
+The Count De
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:31.405053,0.094542,27.986738,96.287065/!600,600/0/default.jpg"/>
 </td>
@@ -3561,7 +3507,7 @@ The Count D
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- groand,  
+groand,  
 bar wa: ut thtf I kin stand even so tailen a  
 chan-V ei that. W at I want it the eoopretne  
 happtiiws ut ktclin that nigger Lubbock out ut  
@@ -3754,7 +3700,7 @@ Bijler is an evil rtcius. I peel never be able
 two run things ez I want to so long as be lives.  
 Peteolecm V. Napbt.  
 (wich was Postmatter )  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871063001:0108/pct:4.323843,11.724494,10.320285,68.347736/!600,600/0/default.jpg"/>
 </td>
@@ -3768,8 +3714,6 @@ Peteolecm V. Napbt.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Nasby and his friends Second the  
   
 Movement of Vallandigham.  
@@ -3835,7 +3779,8 @@ ich man should ever git a drop  at his bar,
 neven; sicha one wut nof doservin ay isveniie  
 the commonest inecessaries uv, life. Saveral  
 tho had tiz to their teet to object, dropt on is  
-though they hed bin shet.
+though they hed bin shet.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1871070101:0542/pct:81.875450,61.225944,14.056875,35.324305/!600,600/0/default.jpg"/>
 </td>
@@ -3979,7 +3924,7 @@ PEtroleUm Y. Nasnx
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- on the Jews’ harp.&quot;  
+on the Jews’ harp.&quot;  
   
 THE NASBY LETTERS.  
 Mr. Warty and Hi* Trtandi t«eond tta  
@@ -4227,7 +4172,8 @@ down heal), ef dal) wuzu’t no ’Publi­
 can party up North to hold yoo; dat  
 wuz all.”  
 And nigger laffed a feendisl) laff.  
-“ Dat wuz all!” he repeated.
+“ Dat wuz all!” he repeated.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053883:00514151027:1871070601:0301/pct:48.987780,12.319979,32.463980,82.691804/!600,600/0/default.jpg"/>
 </td>
@@ -4241,7 +4187,6 @@ And nigger laffed a feendisl) laff.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Coxvepprir X Roaps,  
 (which is in the State of Kentueky.) }  
 May 24, 1871  
@@ -4482,7 +4427,8 @@ Joe Bigler is my evil genius. T shel
 never be able to run things ez I want  
 to so long as he lives.  
 Perrorecy V. Nassy,  
-(wich wuz Postmaster.)
+(wich wuz Postmaster.)  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_cavebear_ver04:data:sn83021113:00513689342:1871070701:0375/pct:5.371210,6.587664,20.255431,90.193151/!600,600/0/default.jpg"/>
 </td>
@@ -4496,7 +4442,7 @@ Perrorecy V. Nassy,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of things?  
+of things?  
 Jfasby.  
 Mr. Naby and Hit Friends Second the  
 Movement of Valla ndigham A Meeting  
@@ -4736,6 +4682,7 @@ able two run things ez I want to so long
 as be lives.  
 Petroleum V. Nasbt.  
 (wich wus Poa Unas tar.)  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1871070701:1191/pct:67.876659,5.071292,26.112412,90.886374/!600,600/0/default.jpg"/>
@@ -4750,7 +4697,7 @@ Petroleum V. Nasbt.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Part The Result. ,  
+Part The Result. ,  
 From the Tdedo Blade. &#x27;, &#x27; . ,&quot;  
 Confkdrit X Roaps (which ia iu the  
 State of Keutucky), May 24, 1871. A  
@@ -4986,7 +4933,7 @@ That -wnz enuff I guess the cus
 found cut all that lie wanted to. Uv&#x27;  
 course this &quot;ontrage,&quot; as tlioy will call i?,&#x27;  
 will get into tbe Northern ptprs, and nv  
-cours
+course
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776348:1871071901:0117/pct:67.797228,13.927540,24.434719,81.228669/!600,600/0/default.jpg"/>
 </td>
@@ -5000,7 +4947,6 @@ cours
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—   
 Nasby on the Situation.  
 MR. NASBY AND HIS FRIENDS SECOND THE  
 MOVEMENT OF V A I.L AN DIGRAM—A MEET­  
@@ -5121,7 +5067,7 @@ this okkashen fearfully. I called upon the
 citizens uv the Corners to prove their faith  
 by their works. “ There are,” I said, in a  
 spasm of delight, “ present at this meetin  
-twenty-two uv our fellow-citizens of Afr
+twenty-two uv our fellow-citizens of Afri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1871080501:0216/pct:72.745358,36.989827,11.007958,59.480328/!600,600/0/default.jpg"/>
 </td>
@@ -5135,7 +5081,7 @@ twenty-two uv our fellow-citizens of Afr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- on delivery of all work.  
+on delivery of all work.  
 kin descent. Let era step forred on this  
 platform—let Deekin Pogram, Elder Pen­  
 nibacker, Bascom, Isakeor Gavitt and eigh­  
@@ -5244,7 +5190,7 @@ genius. I shel never be able to run things
 ez I want to so long ez he lives.  
 Petroleum V. Nasby,  
 (which wuz Postmaster.)  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1871080501:0216/pct:84.118037,10.761123,10.941645,55.987253/!600,600/0/default.jpg"/>
 </td>

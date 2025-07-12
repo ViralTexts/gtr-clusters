@@ -33,25 +33,6 @@ After all, the true test of a newspaper&#x27;s real value is not the amount of o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rld. They hold the  
-beard in great esteem, and somely  
-swear by it. The best man can wish  
-his friend is comprehended in “May  
-God preserve yonr blessed beard.”  
-Or, as an estimate of value, the&gt; say,  
-“It is worth more than a man’s  
-beard.” We are told of an Arab  
-who chose to hazard his life by re­  
-fusing to allow a surgeon to remove  
-a few hairs to enable him to get at a  
-wound on the jaw. It is recorded  
-that when Jonn de Castro was under  
-the necessity of borrowing money  
-for the maintenance of the Portu­  
-guese fleet he sent one of his whis­  
-kers to the people of Goa as security  
-for the loan.—Welfre.  
-  
 use AND ABUSE OF SCISSORS.  
 That simple piece of mechanieism,  
 a pair of scissors, is an invaluable  
@@ -121,9 +102,10 @@ of original matter it contains, but
 the average quality of all the matter  
 appearing in its columns whether  
 original or selected.—New York  
-Monthly Union.
+Monthly Union.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349232:1890122701:0695/pct:60.753194,12.509667,22.165434,85.363496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349232:1890122701:0695/pct:72.064560,12.509667,10.854069,34.976798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +117,6 @@ Monthly Union.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ties in the matter of hav&#x27;tag a lady  
 candidate for Public School Com­  
 roisBoner. Misn AdraDavis has an­  
@@ -176,7 +157,8 @@ per&#x27;s real value is not the amount
 of original matter it contains, but  
 the average quality of all the mat­  
 ter appearing in its columns, wheth­  
-er original or selected.
+er original or selected.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1891030501:0315/pct:7.640638,26.916247,11.859782,27.626517/!600,600/0/default.jpg"/>
 </td>
@@ -200,7 +182,6 @@ er original or selected.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ree Press.  
 EDITORIAL ABILITY.  
 The Shears Quite as Important at Times  
 as the Quill.  
@@ -236,9 +217,9 @@ ue is not the amount of original matter
 it contains, but the average quality of  
 all the matter appearing in its columns,  
 whether original or selected.—N. Y.  
-Journalist
+Journalist.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550092:1891040801:0432/pct:39.275285,57.396065,14.043005,20.295100/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550092:1891040801:0432/pct:39.275285,58.333333,14.043005,19.357832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +231,6 @@ Journalist
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The Shear* Quite hm Important at Time*  
 an the Quill.   
 A g&lt;Mxl many people do not know that  
@@ -284,7 +264,7 @@ the true test of a newspaper&#x27;s real val­
 ue is not the amount of original matter  
 it contains, but the average quality of  
 all the matter appearing in it s columns,  
-whether original or si-leeted.—N. 
+whether original or si-leeted.—N. Y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1891040901:0267/pct:34.223661,47.326820,9.591259,14.348447/!600,600/0/default.jpg"/>
 </td>
@@ -298,7 +278,7 @@ whether original or si-leeted.—N.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- on such terms that farmers  
+on such terms that farmers  
 with 8600 to 8800 in cash to stock with  
 could start with certainty of success.  
 The homestead right is no great boon  
@@ -340,7 +320,7 @@ not the amount of original matter it
 contains, but the average quality of all  
 the matter appearing in its columns,  
 whether original or selected.—N. Y.  
-Journalist
+Journalist.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623252:1891043002:0516/pct:41.516905,20.478784,10.752361,21.783526/!600,600/0/default.jpg"/>
 </td>
@@ -354,7 +334,6 @@ Journalist
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
   
 EDITORIAL ABILITY.  
   
@@ -388,7 +367,8 @@ columns, whether original or selected.”’
   
   
   
-—
+—  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-printer_1891-05_8_8%2Fsim_american-printer_1891-05_8_8_jp2.zip%2Fsim_american-printer_1891-05_8_8_jp2%2Fsim_american-printer_1891-05_8_8_0027.jp2/pct:50.523128,35.956918,44.741189,56.669428/,600/0/default.jpg"/>
 </td>
@@ -412,7 +392,7 @@ columns, whether original or selected.”’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to stay.&quot;  
+to stay.&quot;  
 Editorial Ability.  
 New York Journalist.  
 A good many people do not know  
@@ -447,7 +427,7 @@ is not the amount of original matter it
 contains, but the average quality of all  
 the matter appearing in its columns,  
  e e oe a  
-whether original or selected
+whether original or selected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1891070101:0335/pct:51.318817,44.927536,10.851478,18.338907/!600,600/0/default.jpg"/>
 </td>
@@ -461,7 +441,7 @@ whether original or selected
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. M  
+M  
 In A recent number of the New York  
 Jouinalist that paper takes the ground  
 that the shears are quite as important  
@@ -504,7 +484,7 @@ whether origlsjtl or elected.&quot;, .
 Ci) 0  
   
 V A.  
-A 
+A V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1891070201:0372/pct:44.528141,7.314262,24.602047,86.828041/!600,600/0/default.jpg"/>
 </td>
@@ -518,7 +498,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Editorial Ability.  
 In a recent number of tho Now York  
 Journalist that paper takes tho ground  
@@ -554,7 +533,7 @@ test of a newspaper&#x27;s real value is not
 tho amount of original matter it contains  
 but tho average quality of all tho matter  
 appearing in its columns, whether original  
-or solected
+or solected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069309:00100481765:1891071501:0349/pct:55.350938,63.995712,12.022238,21.037116/!600,600/0/default.jpg"/>
 </td>
@@ -568,7 +547,6 @@ or solected
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 THE EDITORIAL SHEARS.  
 A good many people do not know that an ed­  
 itor’s selections &quot;from his contemporaries are  
@@ -596,7 +574,7 @@ true test of a newspaper’s real value is not the
 amount of original matter it contains, but the  
 average quality of all the matter appearing in  
 its columns, whether original or selected.— N.  
-. Y. Journalist
+. Y. Journalist.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891081301:0596/pct:71.289443,28.902372,21.464745,17.277992/!600,600/0/default.jpg"/>
 </td>
@@ -610,7 +588,6 @@ its columns, whether original or selected.— N.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 as otherwise they would be by nature  
 and the Imitation which is second  
 nature to all children.  
@@ -652,7 +629,7 @@ test of a newspaper&#x27;s real alu is
 not the arpouDt of original matter it  
 containp, but the average qnalily of  
 all the matter appearing in its col­  
-umn&quot;, whether origin 1 or -elected
+umn&quot;, whether origin 1 or -elected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156736:1891090301:0147/pct:43.518020,60.512349,12.157074,27.760768/!600,600/0/default.jpg"/>
 </td>
@@ -723,13 +700,12 @@ And the editor of the Journalist
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The true test of a newspaper&#x27;s real val-  
 ue is not the amount of original marter it  
 contains, but the average quality of all  
 the matter appearing in its columns,  
 whether original or selected.  
-I
+If
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891100201:0255/pct:73.432698,36.519577,10.986478,3.542573/!600,600/0/default.jpg"/>
 </td>
@@ -743,7 +719,7 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- kill.&quot;  
+kill.&quot;  
 In a recent number of the New  
 York Journalist that paper takes  
 the ground that the shears are  
@@ -777,7 +753,7 @@ nal matter it contains, but the aver­
 age quality of all the matter ap­  
 pearing in its columns, whether  
 original or selected.&quot;  
-On
+One
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878824:1891101601:0165/pct:40.072566,68.975511,12.437009,21.272279/!600,600/0/default.jpg"/>
 </td>
@@ -791,8 +767,6 @@ On
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ) EDITORIAL ABILITY.  
 In a recent number ot he New Y1  
 Journalist that paper takes the groui,.  
@@ -821,7 +795,7 @@ newspaper&#x27;s real value is not the amount
 of origlnal matter it contains, but the  
 average quality of all the iaatter appear­  
 ing in it&lt; columnus, whether original -or  
-selected
+selected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_connolly_ver01:data:sn86079068:0020029922A:1891101701:0518/pct:82.330827,12.134274,16.259398,14.811912/!600,600/0/default.jpg"/>
 </td>
@@ -835,7 +809,6 @@ selected
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 An Editor&#x27;s Duties?The New  
 York Journalist says: A good many  
 people do not know that an editor&#x27;s  
@@ -869,7 +842,7 @@ the true test of a newspaper&#x27;s real value
 is not the amount of original matter  
 it contains, but the average quality of  
 the matter appearing in its columns,  
-whether originul or selected
+whether originul or selected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861472:1891102101:0179/pct:65.145814,69.713447,12.006115,15.328845/!600,600/0/default.jpg"/>
 </td>
@@ -883,8 +856,6 @@ whether originul or selected
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 roller  
   
 Alter all, the true test 01 a  
@@ -893,7 +864,7 @@ the amount of original matter
 it contains, nut the average  
 quality of all the matter appear­  
 ing in its columns, whether ori  
-ginal or selected
+ginal or selected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84020731:00416157121:1891120201:0855/pct:15.389500,19.040634,12.362405,8.273434/!600,600/0/default.jpg"/>
 </td>
@@ -907,7 +878,7 @@ ginal or selected
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it takes the  
+it takes the  
 ground that the scissors are  
 auite as important as the quill.  
 and frequently more so. The  
@@ -935,7 +906,7 @@ and clips and clips, and) sighs to
 think that his space is inade  
 quate to contain all the treas­  
 ures so prodigally spread before  
-him.
+him. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84020731:00416157121:1891120201:0855/pct:41.088061,15.652046,12.404742,16.018777/!600,600/0/default.jpg"/>
 </td>
@@ -949,8 +920,6 @@ him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e  
-  
 Editorial Ability.  
   
 Ina recent number of the New York Jour-  
@@ -984,7 +953,7 @@ to himself and re :
 Afterall, the true test of a newspaper&#x27;s real  
   
 this season in its natural gray shade with soft,  
-shor
+short
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-night_1892-01-02_5_6%2Fsim_saturday-night_1892-01-02_5_6_jp2.zip%2Fsim_saturday-night_1892-01-02_5_6_jp2%2Fsim_saturday-night_1892-01-02_5_6_0002.jp2/pct:22.969925,10.299179,17.330827,82.883241/,600/0/default.jpg"/>
 </td>
@@ -998,8 +967,6 @@ shor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 Editorial Ability,  
   
 [In a recent number of the New York Journalist  
@@ -1038,7 +1005,8 @@ hisown. After all the true test of a newspaper’s
 real value is not the amount of original matter  
 it contains, but the average quality of all the  
 matter appearing in its columns whether original  
-or selected.”’
+or selected.”’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_smalleys-magazine_1892-07_10_7%2Fsim_smalleys-magazine_1892-07_10_7_jp2.zip%2Fsim_smalleys-magazine_1892-07_10_7_jp2%2Fsim_smalleys-magazine_1892-07_10_7_0025.jp2/pct:10.108108,11.129032,52.054054,82.237903/,600/0/default.jpg"/>
 </td>
@@ -1052,7 +1020,7 @@ or selected.”’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Otterson.  
+Otterson.  
 Anthem—” Praise the Lord.”.By the Adults*  
 Prayer of Thanksgiving.by Superintendent  
 The Lord’s Prayer.by the School  
@@ -1083,7 +1051,7 @@ as his own. After all, the true test of a news­
 paper’s real value is not the amount of the  
 original matter it contains, but the average  
 quality of all the matter appearing in its col­  
-umns, whether original or selected
+umns, whether original or selected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899120701:0651/pct:5.218069,73.325995,21.105919,19.757843/!600,600/0/default.jpg"/>
 </td>

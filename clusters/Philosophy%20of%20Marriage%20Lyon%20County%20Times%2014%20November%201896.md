@@ -1,7 +1,7 @@
 
 # From _Lyon County Times_
 
-### 98 reprints from 1896-10-24 to 1898-02-04
+### 99 reprints from 1896-10-24 to 1898-02-04
 
 ## [From _Lyon County Times_](https://chroniclingamerica.loc.gov/lccn/sn84022053/1896-11-14/ed-1/seq-1/#date1=1777&index=3&rows=20&words=JORDAN+Marriage+Philosophy&searchType=basic&sequence=0&state=&date2=1963&proxtext=%22Philosophy+of+Marriage%22+AND+Jordan&y=0&x=0&dateFilterType=yearRange&page=1)
 
@@ -32,7 +32,7 @@ Go and learn how wonderfully you are made: how to avoid sickness and disease. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r the purposffof securing the remenetization  
+the purposffof securing the remenetization  
 of silver and that we are opposed to any effort  
 to disorganize it until silver is remonetized.  
   
@@ -58,7 +58,7 @@ I Thousands of new objects. Additions con- 1
 tinually. Catalogue sent free.  
 • I OS 1 Market Street, San Franciaco, Cal. (  
   
-R
+Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896102401:0382/pct:26.756986,32.650847,16.977138,16.989831/!600,600/0/default.jpg"/>
 </td>
@@ -72,7 +72,6 @@ R
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 M C id I You can {  
 IT] t II! be cured l  
 Tf you suffer from any of the f  
@@ -95,7 +94,7 @@ T made- howvto avoid aickness and disease. T
 linually. Catalogue sent free. \
 1051 Marksl Street. San Francltoo. Cal. f  
   
-NE
+NEW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896102801:0165/pct:50.728383,5.615015,21.945489,88.676904/!600,600/0/default.jpg"/>
 </td>
@@ -109,7 +108,7 @@ NE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-..  
+.  
 ill» of men, come to the oldest &gt;  
 specialists on the PacificCoast, w  
 Dr. Jordan &amp; Co. Thousands \
@@ -142,7 +141,7 @@ V
   
 J  
   
-
+a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896102901%2F00001.jp2/pct:81.497326,69.164087,9.144385,6.191950/!600,600/0/default.jpg"/>
 </td>
@@ -156,7 +155,7 @@ J
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- price.  
+price.  
   
 f you suffer from any of the  
 l&#x27;.s of men, come to the oldest  
@@ -176,7 +175,8 @@ DR, JORDAN &amp; CO.&#x27;S
 made; how to avoid sickness and disease.  
 | Thousands of new objects. Additions con­  
 tinually. Catalogue sent free.  
-&#x27; 1051 Market Street, San Francisco, Cal.
+&#x27; 1051 Market Street, San Francisco, Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896103101:0383/pct:6.011981,67.593220,15.126230,13.288136/!600,600/0/default.jpg"/>
 </td>
@@ -190,8 +190,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 You can !  
 be cured I  
 If you suffer from any of the |  
@@ -214,7 +212,7 @@ Thousands of new objects. Additions con- i
 tinually. Catalogue sent free.  
 ‘ 1051 Market StrWf/Skn Frkhclseo. Cal. |  
   
-Vote of Lyon Count
+Vote of Lyon County
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896110701:0387/pct:5.860806,15.156865,51.691446,66.358821/!600,600/0/default.jpg"/>
 </td>
@@ -228,7 +226,7 @@ Vote of Lyon Count
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 IIU caiTr  
 IV| L R 1 be cured #  
 If you auffer from any of the w  
@@ -249,6 +247,7 @@ A Go and learn how wonderfully you art 9
 ▼ made bow to avoid sickness and disease. T  
 A Thousands of new objects. Additions con- 9  
 T tinuaily. Catalogue sent free. \
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896111101:0173/pct:37.140822,84.288384,14.438376,9.654313/!600,600/0/default.jpg"/>
 </td>
@@ -262,7 +261,7 @@ T tinuaily. Catalogue sent free. \
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The Postmaster who neglects to give the legal  
+The Postmaster who neglects to give the legal  
 notice of the neglect of a person to take , from the of­  
 fice the newspaper addressed to him is liable to the  
 publisher for the subscription price.  
@@ -288,7 +287,8 @@ Go and learn how wonderfully you are
 made: how to avoid sickness and disease.  
 Thousands of new objects. Additions con- (  
 tinually. Catalogue sent free.  
-1061 Market Street, San Franciaco, Cal.
+1061 Market Street, San Franciaco, Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896111401:0391/pct:4.501062,66.824709,17.367304,14.765646/!600,600/0/default.jpg"/>
 </td>
@@ -302,8 +302,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 f O ■■ IT M V C*0 1  
 # rJL |¥| L m ! be cured  
 3 IHBi If you suffer from any of the  
@@ -326,7 +324,7 @@ I Thousand* of new objects. Additions con- i
 Usually. Catalogue sent free.  
 I 1061 MarkatStraat.SanFraaclaea.Cal. I  
   
-NE
+NEW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896111801:0177/pct:36.661978,5.819033,21.870605,88.081123/!600,600/0/default.jpg"/>
 </td>
@@ -340,7 +338,7 @@ NE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-jMeet in regular review on the second and  
+Meet in regular review on the second and  
 fourth Thursdays of each month at Odd  
 Fellow’s Hail, Ashland.  
 Visiting Sir  
@@ -389,7 +387,7 @@ fcniaae irora
 herbs, and  
 contains no  
 mineral  
-drugs
+drugs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896111901%2F00001.jp2/pct:6.318381,7.038988,85.557987,86.807165/!600,600/0/default.jpg"/>
 </td>
@@ -403,7 +401,6 @@ drugs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
   
   
 You can  
@@ -425,7 +422,7 @@ Go and learn how wonderfully you are
 A Thousands of new objects. Additions con-  
 tinually. Catalogue sent free.  
 0 t031 Market ste, 5anFranci$co,;ai.  
-Phoenix restaurant 
+Phoenix restaurant a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1896112101:0025/pct:47.821166,5.933095,11.063950,10.908900/!600,600/0/default.jpg"/>
 </td>
@@ -439,8 +436,6 @@ Phoenix restaurant
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 You can  
 be cured i  
 If you suffer from any of the |  
@@ -456,7 +451,8 @@ mercury. Treatment personally or by
 letter. Send for book &quot;The Philosophy |  
 of Marriage,&quot; free.  
 DR. JORDAN A CO.’S  
-GREAT MUSEUM OF ANATOMY. !
+GREAT MUSEUM OF ANATOMY. !  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896112101:0395/pct:5.682782,84.258760,15.118745,8.342318/!600,600/0/default.jpg"/>
 </td>
@@ -470,35 +466,12 @@ GREAT MUSEUM OF ANATOMY. !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r and kidneys.  
-Mr. Holden, the merchant there, sent  
-letter. Send for book “The Philosophy  
-* [oy,9 Vegetable Sa r-  
-■ her a bottle of Chamberlain’s Pain Balm,  
-baparilla is sold by all  
-of Marriage,” free.  
-druggists. Refuse a  
-and aBked that she give it a thorough  
-DR. JORDAN &amp; CO.’S  
-substitute. When you  
-trial. On meeting Mr. Wells the next  
-pay for thebest see that  
-GREAT MUSEUM OF ANATOMY.  
-day he was told that she was all right,  
-you  
-get  
-tbe  
-best.  
-Go and learn how wonderfully you are  
-the pain had left her witbin two hours,  
-made; how to avoid sickness and disease.  
-and that the bottle of Pain Baltn was  
 Thousands of new objects. Additions con­  
 tinually. Catalogue aent free.  
 worth $5.00 if it could not be had for less.  
-lost Market Strwt. San Francisco, Cal
+lost Market Strwt. San Francisco, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896112601%2F00002.jp2/pct:8.384513,90.115183,30.387183,3.706806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896112601%2F00002.jp2/pct:8.437917,92.816754,30.307076,1.005236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,8 +483,6 @@ lost Market Strwt. San Francisco, Cal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 DR. JORDAN &amp; CO.&#x27;S  
 GREAT MUSEUM OF ANATOMY.  
   
@@ -523,7 +494,7 @@ tinually. Catalogue sent free.
   
 1 051 Market Slreat, san rranoisco, uai.  
   
-WHY CAPITAL SHOULD SEEK TUMA COUNT
+WHY CAPITAL SHOULD SEEK TUMA COUNTY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1896112801:0029/pct:34.445383,13.835028,23.057432,67.414317/!600,600/0/default.jpg"/>
 </td>
@@ -537,7 +508,7 @@ WHY CAPITAL SHOULD SEEK TUMA COUNT
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- il fYou cao  
+il fYou cao  
 [Y| LR l be cured  
 If you suffer from any of the i  
 ills of men, come to the oldest  
@@ -558,7 +529,7 @@ Go and learn how wonderfully you trt |
 made; bow to avoid aickneas and disease.  
 Thousands of new objects. AdctyUuoscon* j  
 tinually. Catalogue sent free.  
-1051 Market street. See Fraeclece. Cal.
+1051 Market street. See Fraeclece. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896112801:0399/pct:6.733220,84.575696,15.144435,10.875764/!600,600/0/default.jpg"/>
 </td>
@@ -572,7 +543,7 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-|d f You can&#x27;  
+d f You can&#x27;  
 If] L It I be cured  
   
 . If you suffer from any of the  
@@ -598,7 +569,7 @@ tinually. Catalogue sent free.
   
 &gt;•  
   
-
+s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896120301%2F00001.jp2/pct:7.328990,76.840329,15.228013,17.485762/!600,600/0/default.jpg"/>
 </td>
@@ -612,7 +583,7 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. V ra  
+V ra  
 You can  
 be cured  
 If you suffer from any of tbe  
@@ -634,7 +605,7 @@ made; how to avoid sickness and disease.
 Thousands of new objects. Additions con  
 tinually. Catalogue sent nee.  
 IC51 Market Straat. San Fraaclsc. Cat.  
-Tr 4 S honrs Ccwtorrnons an
+Tr 4 S honrs Ccwtorrnons and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104673:1896120501:0764/pct:85.475352,78.174722,9.343561,11.828280/!600,600/0/default.jpg"/>
 </td>
@@ -648,7 +619,7 @@ Tr 4 S honrs Ccwtorrnons an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-(You can  
+You can  
 lw| L n £ be cured  
 If you suffer from any of the  
 ills of men, come to the oldest  
@@ -669,7 +640,8 @@ Go and learn how wonderfully you are
 made: how to avoid sickness and disease.  
 Thousands of new objects. Additions con­  
 tinually. Catalogue sent fire*  
-1051 Market Street, San Francises, Cal.
+1051 Market Street, San Francises, Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896120501:0403/pct:5.034130,84.239719,14.782423,10.795455/!600,600/0/default.jpg"/>
 </td>
@@ -683,7 +655,6 @@ tinually. Catalogue sent fire*
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Meet in regular review on the second and  
 fourth Thursdays of each month at Odd  
 Fellow&#x27;s Hall, Ashland.  
@@ -729,7 +700,7 @@ Jsimac ncru
 herbs, and  
 contains no  
 mineral  
-drugs
+drugs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896121001%2F00001.jp2/pct:6.522911,6.929861,84.393531,86.791264/!600,600/0/default.jpg"/>
 </td>
@@ -743,7 +714,6 @@ drugs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 S If yoa acfler from any of the 0  
 4 a B, ills of men. come to the oldest  
 specialists on the Pacific Coast. W  
@@ -761,7 +731,7 @@ Go and learn how wonderfuIiT yon are ,
 made: how to-avoid sickness and disease.  
 Thousands of new objects. Additions con  
 uaually. Catalogue sent tree.  
-1051 Market Strast.SaaFraaclace.Ca
+1051 Market Strast.SaaFraaclace.CaL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104673:1896121201:0769/pct:82.999493,52.946464,9.875761,7.081502/!600,600/0/default.jpg"/>
 </td>
@@ -775,7 +745,7 @@ uaually. Catalogue sent tree.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- You can  
+You can  
 IHlIi! be cured  
 If you Suffer from- any of tie  
 ills of jnen, come to the oldest  
@@ -797,7 +767,8 @@ Go and learn how wonderfully you are
 made: how to avoid sickness and disease.  
 Thousands ofnejr objects. Additions?®^&#x27;  
 tmualljr. Catalogue sent ftce. _ . n g  
-tOBj Market Street. San Francises. Cal.
+tOBj Market Street. San Francises. Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896121201:0407/pct:5.828352,84.138952,15.093937,10.771509/!600,600/0/default.jpg"/>
 </td>
@@ -811,7 +782,7 @@ tOBj Market Street. San Francises. Cal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• You crii 1  
+You crii 1  
 tn 1 be cured  
   
 if you suffer from any of the  
@@ -839,7 +810,8 @@ Go and learn how wonderfully you are
 made; how to avoid sickness and al»«“«-  
 Thousands of new objects. Addition» con­  
 tinually. Catalogue »ent free.  
-• toot Market Street, »a« FranclBSie, Cal.
+• toot Market Street, »a« FranclBSie, Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896121701%2F00001.jp2/pct:7.358594,85.693122,9.060956,7.788360/!600,600/0/default.jpg"/>
 </td>
@@ -853,8 +825,6 @@ tinually. Catalogue »ent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 If von sofier from anr of the  
   
 , ma of men. come to tbe oldest  
@@ -886,7 +856,7 @@ Thousands of new object. Additions coo-
   
 tiaually. Catalogue sent fzee.  
   
-1081 Market Street. Sas FraacJ, Cat
+1081 Market Street. Sas FraacJ, Cat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104673:1896121901:0773/pct:86.440464,16.085174,9.434914,6.957913/!600,600/0/default.jpg"/>
 </td>
@@ -900,8 +870,6 @@ tiaually. Catalogue sent fzee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 m r il f You can i  
 lf| L W ! be cured $  
 If you suffer from any of the 9  
@@ -923,6 +891,7 @@ made: how to avoid sickness and disease. T
 1 Thousands of new objects. Additions con- M  
 tinually. Catalogue sent free. \
 1 1051 Market Street, San Francleco, Cal. f  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896121901:0411/pct:4.998941,84.162409,16.034738,10.890024/!600,600/0/default.jpg"/>
@@ -937,7 +906,7 @@ tinually. Catalogue sent free. \
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, Wash..  
+Wash..  
 You can  
 be cured  
 If you suffer from any of the  
@@ -958,7 +927,7 @@ maae; now to avoia sicicness and disease.
 Thousands of new objects. Additions con­  
 tinually. Catalogue sent free.  
 1051 Market S treat, San Franelsco, Cal.  
-
+0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1896122601:0046/pct:84.668353,33.160029,11.115795,13.268171/!600,600/0/default.jpg"/>
 </td>
@@ -972,8 +941,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 von suffer from any of the  
   
 1 iQs of men. come to tbe oldest  
@@ -1006,7 +973,8 @@ made: how to avoid sickness and disease.
 Thousands of new objects. Additions 000- ,  
   
 Usually. Catalogue sent tree.  
-1051 Market Street. Saa FraKlsee. Cat.
+1051 Market Street. Saa FraKlsee. Cat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104673:1896122601:0777/pct:86.352041,53.427779,9.489796,6.934813/!600,600/0/default.jpg"/>
 </td>
@@ -1020,7 +988,7 @@ Usually. Catalogue sent tree.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- f You can  
+f You can  
 h\ t H ! be cured  
 If you suffer from any of the  
 ilia of men, come to the oldest  
@@ -1041,7 +1009,7 @@ Go and learn how wonderfully you are /
 made: how to avoid sickness ana disease. &#x27;  
 Thousands of new objects. Additions con- &lt;  
 tinuatly. Catalogue sent free.  
-tp51 Market Street. San Francisco. Cal.
+tp51 Market Street. San Francisco. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896122601:0415/pct:6.508264,83.941311,14.545455,10.728227/!600,600/0/default.jpg"/>
 </td>
@@ -1055,7 +1023,7 @@ tp51 Market Street. San Francisco. Cal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&gt;nf I You can 1  
+nf I You can 1  
 lv| LN 1 be cured 1  
 \ * If yon suffer from any of the I 1  
 #il)S of men, come to the oldest  
@@ -1075,7 +1043,7 @@ I GREAT MUSEUM OF ANATOMY. &lt;
 made how to avoid sicknesa and disease.  
 # Thousands of new otyccts. A^lrtcwicea* M  
 Usually. Catalogue sent free. \
-1 toft 3 MarkM ftt-Mt tan transits.. Cal. 
+1 toft 3 MarkM ftt-Mt tan transits.. Cal. f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890748:1896123001:0197/pct:36.400094,81.183635,14.484548,9.697064/!600,600/0/default.jpg"/>
 </td>
@@ -1089,7 +1057,6 @@ Usually. Catalogue sent free. \
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A  
   
 If you suffer from any of th«  
@@ -1113,7 +1080,7 @@ made; how to avoid sickness and
 Thousands of new objects. Addition* con­  
 tinually. Catalogue »ent free.  
   
-1051 Market Street, San Francisco, Ca
+1051 Market Street, San Francisco, Cat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1896123101%2F00001.jp2/pct:7.013699,85.160059,75.369863,9.094764/!600,600/0/default.jpg"/>
 </td>
@@ -1127,7 +1094,7 @@ tinually. Catalogue »ent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- f You can  
+f You can  
 III L II be cured  
 If you suffer from any of the  
 ills of men, come to the oldest  
@@ -1148,7 +1115,7 @@ made; now to avoid sickness and disease.
 Thousands ofnewobiects. Additions eon-  
 tinually. Catalogue sent free.  
 1051 Market Strett, San Franelsco, Cat.  
-5
+50
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897010201:0052/pct:84.988713,34.431200,10.553047,11.198243/!600,600/0/default.jpg"/>
 </td>
@@ -1162,7 +1129,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 SEH! fee  
 You can  
 cured  
@@ -1185,7 +1151,7 @@ maae; now to avoia stexness and disease.
 Thousands of new objects. Additions coa  
 tinually. Catalogue sent free.  
 1051 Market Streat, San Fran8ltcet Cat.  
-2
+20
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897010901:0056/pct:84.598089,34.542405,10.427206,11.259042/!600,600/0/default.jpg"/>
 </td>
@@ -1199,7 +1165,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 niEri!  
 You can 0  
 be cured $  
@@ -1223,6 +1188,7 @@ made; how to avoid sickness and disease.
 Thousands of new objects. Additions con­  
 tinually. Catalogue sent free.  
 1051 Market Street, San Francisco, Cel.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897010901:0425/pct:75.848815,69.873350,16.506513,10.724872/!600,600/0/default.jpg"/>
@@ -1237,8 +1203,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 You can  
 be cured  
 If you suffer from any bf Vhe  
@@ -1259,7 +1223,7 @@ made: how to avoid sickness and disease.
 Thousands of new objects. Additions con­  
 tinually. Catalogue sent free.  
 1 05 1 Market Street, San Francises, Cal.  
-C
+CO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897011601:0060/pct:83.398656,5.892838,10.638298,11.313830/!600,600/0/default.jpg"/>
 </td>
@@ -1273,7 +1237,7 @@ C
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- t ^ou can  
+t ^ou can  
 IT| L N 1 be cured  
 If you suffer from sny of the  
 ills of men, come to the oldest  
@@ -1294,7 +1258,8 @@ i Go and learn bow wonderfully yon are (
 made: how to avoid sickneaa and disease.  
 Thousands of new objects. Additions con- |  
 linuakly. Catalogue sent free.  
-1051 Market Street, Sea Francleee. Cel.
+1051 Market Street, Sea Francleee. Cel.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897011601:0429/pct:76.730891,69.205835,15.329240,10.642896/!600,600/0/default.jpg"/>
 </td>
@@ -1308,8 +1273,6 @@ linuakly. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 You can  
 be cured  
 suffer from anT of the 1  
@@ -1330,7 +1293,7 @@ Go and learn how wonderfully you are
 made; how to avoid sickness and disease.  
 Thousands of new objects. Additions con  
 tinually. Catalogue sent tree.  
-1051 Market Street, San-Franelsce, Cal
+1051 Market Street, San-Franelsce, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897012301:0064/pct:84.645669,5.455308,10.419010,8.707512/!600,600/0/default.jpg"/>
 </td>
@@ -1344,7 +1307,7 @@ tinually. Catalogue sent tree.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- You can  
+You can  
 lf| Llv! be cured  
 If you suffer from any of the  
 . ills of men, come to the oldest  
@@ -1366,6 +1329,7 @@ made: how to avoid sickness and disease. &#x27;
 Thousands of new objects. Additions con- 1  
 tinually. Catalogue sent free.  
 1051 Market Street, San Franeleeo, Cal. (  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897012301:0432/pct:63.421449,49.952824,14.958092,10.553983/!600,600/0/default.jpg"/>
@@ -1380,8 +1344,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 You can  
 be cured 1  
 If you suffer from any of the (  
@@ -1402,7 +1364,7 @@ Go and learn how wonderfully you are
 made; how to a-oid sickness and disease.  
 Thousands of new objects. Additions on-  
 Unually. Catalogue sent tree.  
-1051 Market Slreat, San Francisco, Cal
+1051 Market Slreat, San Francisco, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897013001:0068/pct:85.664041,5.835516,10.579629,8.768989/!600,600/0/default.jpg"/>
 </td>
@@ -1416,7 +1378,7 @@ Unually. Catalogue sent tree.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-» paper.  
+paper.  
   
 You can  
 be cured  
@@ -1438,7 +1400,8 @@ I Go and learn how wonderfully you are
 made: how to avoid sickness and disease,  
 i Thousands of new objects. Additlonscon­  
 tinually. Catalogue sent free.  
-1051 Market Straat, San Francisco, Cal.
+1051 Market Straat, San Francisco, Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897013001:0436/pct:80.179000,73.091990,15.542458,13.656626/!600,600/0/default.jpg"/>
 </td>
@@ -1452,8 +1415,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 You can  
   
 be cured  
@@ -1484,7 +1445,8 @@ Thousands of new objects. Additions con
   
 tinually. Catalogue sent tree.  
   
-1 051 Market SlrSat, San Francisco, usu.
+1 051 Market SlrSat, San Francisco, usu.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897020601:0074/pct:82.948790,5.394889,10.354530,8.875802/!600,600/0/default.jpg"/>
 </td>
@@ -1498,8 +1460,6 @@ tinually. Catalogue sent tree.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 You can  
 be cured  
 If you suffer from any of the  
@@ -1522,7 +1482,8 @@ Go and learn how wonderfully you are
 made: how to avoid sickness and disease.  
 Thousands of new objects. Additions con­  
 tinually. Catalogue sent free.  
-1051 Market Street, San Francisco, Cel.
+1051 Market Street, San Francisco, Cel.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897020601:0440/pct:80.475049,76.315789,15.515363,10.823212/!600,600/0/default.jpg"/>
 </td>
@@ -1536,8 +1497,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 You can  
 be cured  
 If you suffer from nay of the  
@@ -1558,7 +1517,8 @@ J) Go and learn how wonderfully you are
 T made: how to avoid sickness and disease.  
 a Thousands of new objects. Additions eon-  
 tinually. Catalogue sent tree.  
-a 1051 &#x27;Market Street, San Franolsco, Cat.
+a 1051 &#x27;Market Street, San Franolsco, Cat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897021301:0078/pct:84.254535,6.721020,11.139456,8.759277/!600,600/0/default.jpg"/>
 </td>
@@ -1572,25 +1532,6 @@ a 1051 &#x27;Market Street, San Franolsco, Cat.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ls at all hours.  
-tATENIi  
-Patents Wanted.  
-  
-Parties having invention* they wish to pro*  
-tect stiouM procure their patents through our  
-agency, inventor’s Manual, a book containing  
-cost ol patents, mode of procedure, etc., and  
-otherinlormation, sent lorfc. stamp.  
-Our list of patents wanted, for which large sums  
-of money are offered, sent with the Manual, tree.  
-Wo find purchasers for patents procured  
-through our agency. Branch offices In ell the  
-principal cities and in all foreign countries.  
-THE WORLD’S PROGRESS,  
--O. J. Bailey, Manager,—  
-501-507 PLUM ST., CINCINNATI, L.  
-sure to mention thio poper.  
-  
 MEN!  
 You can  
 be cured  
@@ -1613,9 +1554,9 @@ Go and learn how wonderfully you are |
 made; how to a void sickness ana disease.  
 Thousands of new objects. Additions con- |  
 tiuuatly. Catalogue sent free.  
-1051 Market Street, San Francisco. Cal. 
+1051 Market Street, San Francisco. Cal. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897021301:0444/pct:78.732151,58.552720,17.481610,28.594573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897021301:0444/pct:79.532670,76.306197,15.556036,10.841096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1627,7 +1568,7 @@ tiuuatly. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- f Vou can  
+f Vou can  
 Iff t N I be cured  
 If you suffer from any of the  
 ills of men, come to the oldest  
@@ -1648,7 +1589,8 @@ Go and learn how wonderfully you are
 made: how to avoid sickness and disease.  
 Thousands of new objects. Additions con- (  
 tiuuaily. Catalogue sent free.  
-1031 Market Street, San Franclsco. Cal.
+1031 Market Street, San Franclsco. Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897022001:0448/pct:80.368764,76.398436,15.271150,10.783124/!600,600/0/default.jpg"/>
 </td>
@@ -1662,8 +1604,6 @@ tiuuaily. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 You can  
 bQ cured  
 If vou suffer from anr of the  
@@ -1684,7 +1624,8 @@ Go and learn how wonderfully you are
 made; how to avoid sickness and disease.  
 Thousands ofnew objects. Additions con­  
 tinually. Catalogue sent free.  
-1051 Market Street, SanFraneisce.cai.
+1051 Market Street, SanFraneisce.cai.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897022701:0087/pct:84.061625,6.191918,10.182073,8.729247/!600,600/0/default.jpg"/>
 </td>
@@ -1698,8 +1639,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 KIEL  
 If you suffer from any of the  
 ills of men, come to the oldest  
@@ -1722,7 +1661,7 @@ T housands of n ew objects. Additions con­
 tinually. Catalogue sent free.  
 1051 Market Street, San Francisco, Cal.  
   
-J
+Je
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897022701:0452/pct:79.172057,76.265482,16.278568,13.233710/!600,600/0/default.jpg"/>
 </td>
@@ -1736,7 +1675,7 @@ J
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r  
+  
   
   
   
@@ -1765,7 +1704,7 @@ tinually. Catalogue sent free.
 1051 Market Street, San Franelsco, CaJ.  
 DE JIE A MAN  
 AJAX TA3LETS POSITIVELY CUBE  
-A LZ, Nervous JHscasea Fail
+A LZ, Nervous JHscasea Faili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897030601:0092/pct:83.585434,5.805712,11.064426,11.288305/!600,600/0/default.jpg"/>
 </td>
@@ -1779,7 +1718,7 @@ A LZ, Nervous JHscasea Fail
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- You can i  
+You can i  
 If| L111 be cured i  
 If you suffer from any of the |  
 ills of men, come to the oldest  
@@ -1800,7 +1739,7 @@ k DR. JORDAN * CO.&#x27;S
 made: how to avoid sickness ana disease.  
 } Thousands of new objects. Additions con- |  
 . tinudily. Catalogue sent free.  
-1031 Market Street, San Frandsee. Cal.
+1031 Market Street, San Frandsee. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897030601:0456/pct:79.771404,76.051780,16.023291,10.854908/!600,600/0/default.jpg"/>
 </td>
@@ -1814,7 +1753,7 @@ made: how to avoid sickness ana disease.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- yi  
+yi  
   
   
 1 toucan 7  
@@ -1863,7 +1802,8 @@ MADE ME
   
 A MAN  
   
-AJAX TABLETS POSITTVELY CUBS
+AJAX TABLETS POSITTVELY CUBS  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897031301:0096/pct:81.773128,7.427219,11.522577,10.616192/!600,600/0/default.jpg"/>
 </td>
@@ -1877,7 +1817,6 @@ AJAX TABLETS POSITTVELY CUBS
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 HEN!  
 You-can  
 be cured  
@@ -1900,7 +1839,8 @@ Go and learn how wonderfully you are
 made: how to avoid tfekness and disease.  
 Thousands of new objects. Additionscon- |  
 liuua.ly. Catalogue sent free.  
-1051 Market Steel, SanFrancleco.^al-^
+1051 Market Steel, SanFrancleco.^al-^  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897031301:0460/pct:80.808743,76.103686,15.475410,11.192116/!600,600/0/default.jpg"/>
 </td>
@@ -1914,7 +1854,6 @@ liuua.ly. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 i of manhood.  
 skin and kid  
 neys quickly cured wit, out the use of  
@@ -1928,7 +1867,7 @@ made; how to avoid sickness and disease..
 Thousands of new objects. Additions con  
 tinually. Catalogue sent tree,  
 msi H-.pfcelSJfeai. San Francisco, Cal.  
-M
+ME
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897032001:0100/pct:83.610649,10.207270,10.177482,6.999271/!600,600/0/default.jpg"/>
 </td>
@@ -1942,7 +1881,6 @@ M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 if you cutter from any of the (r  
 nU of men. come lathe palest i.  
 specialists oil the PacificCpnst, &amp;  
@@ -1962,7 +1900,7 @@ A Go and learn how wonderfully you are §
 made: how to avoid sekness and disease. &#x27;  
 4 Thousands of new objects. Additions con- »  
 \ tiuuad’y. Catalogue sent free. \
-C 10131 Market St eat, Sen Francisco, Cal. 
+C 10131 Market St eat, Sen Francisco, Cal. f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897032001:0464/pct:79.403440,78.364865,16.829959,9.162162/!600,600/0/default.jpg"/>
 </td>
@@ -1976,8 +1914,6 @@ C 10131 Market St eat, Sen Francisco, Cal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 ^YoucaiT^  
 i be cured f  
 If you suffer from any of the 0  
@@ -1999,7 +1935,7 @@ GREAT MUSEUM OF ANATOMY, f
 ?i?^;ho7travoid8fckn«,» and disease. Y  
 , I Thousand* of new objects. Additions con- d  
 tinuaHy. Catalogue sent free/^ f  
-I 1061 Marks! Strsst, tan Francises. Cal. 
+I 1061 Marks! Strsst, tan Francises. Cal. w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897032401:0049/pct:67.343526,79.947189,14.500717,10.080770/!600,600/0/default.jpg"/>
 </td>
@@ -2013,7 +1949,7 @@ I 1061 Marks! Strsst, tan Francises. Cal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tr You can  
+tr You can  
 Iw|tWI be cured  
 If you suffer from any of the  
 ills of men, come to the oldest  
@@ -2036,7 +1972,7 @@ GREAT MUSEUM OP ANATOMY.
 made; how to avoid s;ckness ana disease.  
 Thousands of new objects. Additions con* |  
 tinua.ly. Catalogue sent free.  
-Idol Market St ett, San Francisco, Cal. 
+Idol Market St ett, San Francisco, Cal. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897032701:0468/pct:78.815042,76.198838,16.309576,11.306227/!600,600/0/default.jpg"/>
 </td>
@@ -2050,7 +1986,7 @@ Idol Market St ett, San Francisco, Cal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 1  
+1  
 -  
   
 K|ENI  
@@ -2080,7 +2016,7 @@ JOHN LOTHROP,
 Attorney at  
 and Watery Public.  
 Will practice in all Courts in the State  
-Offib
+Offibi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897040301:0474/pct:79.390138,75.449507,17.041522,20.927403/!600,600/0/default.jpg"/>
 </td>
@@ -2094,7 +2030,7 @@ Offib
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- f You can  
+f You can  
 It] LII! be cured  
 If 3 ou suffer from any of the i  
 ill.i of men, come to the oldest  
@@ -2115,7 +2051,7 @@ Go and learn how wonderfully you are I
 made: how to avoid sickness ana disease. &#x27;  
 Thousands of new objects. Additions con* j  
 tinuaily. Catalogue sent free.  
-1031 Market Street, San Franeleeo. Cal.
+1031 Market Street, San Franeleeo. Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897041001:0478/pct:79.899935,78.397401,15.923428,10.841906/!600,600/0/default.jpg"/>
 </td>
@@ -2129,7 +2065,6 @@ tinuaily. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Youcan#  
 be cured r  
 i m,u^er from any of the §  
@@ -2149,7 +2084,7 @@ GREAT MUSEUM OF ANATOMY. F
 I . °7 i0r avold slckne*s and disease. Y  
 1 Thousands of new objects. Additions con- A  
 Unually. Catalogue sent free. f  
-I 1051 Market Street. San Franelaea. Cal. 
+I 1051 Market Street. San Franelaea. Cal. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897041401:0061/pct:65.737240,80.043553,14.673913,9.503811/!600,600/0/default.jpg"/>
 </td>
@@ -2163,7 +2098,7 @@ I 1051 Market Street. San Franelaea. Cal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- v Vou can  
+v Vou can  
 If] L ri ! be cured  
 . Tf you suffer from any of the I  
 \ ills of men, come to the oldest  
@@ -2184,7 +2119,7 @@ Co and learn how wonderfully you *r* |
 made: how to avoid sickness ana disease- ,  
 Thousands of new objects. Additions cou-I  
 tinuady. Catalogue sent free.  
-1051 Market Street, Sen Francisco. Cal. 
+1051 Market Street, Sen Francisco. Cal. f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897041701:0482/pct:82.492321,78.067920,15.379552,10.796915/!600,600/0/default.jpg"/>
 </td>
@@ -2198,7 +2133,7 @@ tinuady. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- V You can #  
+V You can #  
 Il| LII! be cured r  
 JJ y°u suffer from any of the 9  
 ills of men, come to the oldest \
@@ -2218,7 +2153,7 @@ I Go and learn how wonderfully you ere , I
 made: how to avoid sickness and disease. 1  
 | 1 Thousand* of new objects. Additions con- , 1  
 tinually. Catalogue lent free. 1  
-| 1051 Market Street, San Fnnclioo.Cil. 
+| 1051 Market Street, San Fnnclioo.Cil. 9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897042101:0065/pct:67.218152,79.171194,14.110139,9.560764/!600,600/0/default.jpg"/>
 </td>
@@ -2232,7 +2167,7 @@ tinually. Catalogue lent free. 1
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the j  
+of the j  
 , ins ot men, come to ice atacst  
 speauhstsontaencnKCoaK, i  
 Dr. Jordan &amp; Co. Tbotaaad  
@@ -2252,7 +2187,7 @@ Thousands of new objects. AduKioaa sa
 tinuallv. Catalogue sent free.  
 1051  
 Market strait, San Franauc, csi.-  
-MADE ME 
+MADE ME A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897042401:0121/pct:83.575014,9.582641,11.293921,9.084302/!600,600/0/default.jpg"/>
 </td>
@@ -2266,7 +2201,7 @@ MADE ME
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- mi i You  
+mi i You  
 ill L II ! be cured  
 If you suffer from any cf tie i  
 , ills ot men, conic to the oldest  
@@ -2285,7 +2220,7 @@ Go and learn how wonderfully you are
 made; how to avoid sickness and disease.  
 Thousands of new objects. Additions con  
 tinually. Catalogue sent tree.  
-1051 Market Strest, San Franslsce, CaJ
+1051 Market Strest, San Franslsce, CaJ.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897050101:0126/pct:85.648407,7.945980,10.326998,8.804439/!600,600/0/default.jpg"/>
 </td>
@@ -2299,7 +2234,7 @@ tinually. Catalogue sent tree.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!! You can  
+! You can  
 it} L H! be cured  
 i f you Buffer from any of the  
 &gt;i&#x27;.s of men, come to the oldest  
@@ -2320,7 +2255,7 @@ Co and learn how wonderfully you are (
 made: how to avoid s ekness and disease.  
 Thousands of new objects. Additionscon- |  
 tiuua.ly. Catalogue sent free.  
-105t Market St eet, Sen Francisco. Cal. 
+105t Market St eet, Sen Francisco. Cal. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897050101:0490/pct:80.854326,77.951365,15.355969,10.827333/!600,600/0/default.jpg"/>
 </td>
@@ -2334,7 +2269,6 @@ tiuua.ly. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Rfl ET if T You can r  
 It] LI!; be cured r  
 I 1 If you •uffcr from any pf the #  
@@ -2362,7 +2296,7 @@ NOTICE.
 J^OTICE IS HEREBY GIVEN TO ALL  
 whom It may concern that SING KEE  
 A CO., have sold their Store, Goods,Wares  
-and Merchandise, in Tule
+and Merchandise, in Tule 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897050501:0073/pct:20.467422,5.287641,30.099150,87.750039/!600,600/0/default.jpg"/>
 </td>
@@ -2376,7 +2310,7 @@ and Merchandise, in Tule
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- couie to the oldest \
+couie to the oldest \
 # 7 QkMA ■ apecialistson the Pacific Coast. #  
 \ f « Dr. Jordan U Co. Thousauds \
 w vlp^T/ \ T,ow live happy lives that we #  
@@ -2400,7 +2334,7 @@ NOTICE.
 T^OUCE IS HEREBY GIVEN TO ALL  
 whom it may concern that SING KEE  
 A CO., have sold their Store, Goods.Wares  
-and Merchandise. In Tule
+and Merchandise. In Tule 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897051201:0077/pct:20.404801,4.778898,30.454225,87.649341/!600,600/0/default.jpg"/>
 </td>
@@ -2414,7 +2348,7 @@ and Merchandise. In Tule
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?PacificCoast, W  
+PacificCoast, W  
 a lJr J --n &amp;Co- Thousands  
 lVTw&quot;ff a no?? livri happy Hve3 that we  
 uh h fewtsav -d from the grave.  
@@ -2431,7 +2365,7 @@ made; hcvr to avoid s-&#x27;eknesn and disease.
 Thousands of new objects. Additics3 con­  
 tinually. Catalogue sent free.  
 1 051 Market Sirest, San Franoitco, Cal.  
-E M
+E ME
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897051501:0134/pct:84.476584,9.883358,10.674931,8.342012/!600,600/0/default.jpg"/>
 </td>
@@ -2445,7 +2379,7 @@ E M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-■ You Cii:5 r  
+You Cii:5 r  
 ! be cured r  
 I f you suffer from sny of the Q  
 Us of men, come to the oldest \
@@ -2466,7 +2400,7 @@ k Co and learn how wonderfully you are f
 . wader how to avoid sickneaa and disease. \
 § Thousands of new objects. Additions con- §  
 \ tin uady. Catalogue sent free. \
-9 1051 Market Street, Sen Francisco. Cel. 
+9 1051 Market Street, Sen Francisco. Cel. f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897051501:0498/pct:80.112896,78.059641,16.869301,10.794765/!600,600/0/default.jpg"/>
 </td>
@@ -2480,7 +2414,7 @@ k Co and learn how wonderfully you are f
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- b You can t  
+b You can t  
 L n i be cured t  
 Tf you suffer from any of the w  
 | ills of nicTi, come to the oldest \
@@ -2500,7 +2434,7 @@ Co and learn how wonderfully you are A
 made how to avoid sickness and disease. Y  
 f Thousands of new objects. Additions con- M  
 \ tinuaily. Catalogue sent free. Y  
-P 1031 Market Si. set, San Francisco. Cal. 
+P 1031 Market Si. set, San Francisco. Cal. f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897051901:0081/pct:21.251476,84.599907,14.332940,9.688903/!600,600/0/default.jpg"/>
 </td>
@@ -2514,7 +2448,7 @@ P 1031 Market Si. set, San Francisco. Cal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- You can  
+You can  
 lf| Lll 1 be cured  
 If you suffer from any of the l  
 ills of men, come to the oldest  
@@ -2535,7 +2469,7 @@ I Co and learn how wonderfully you are j
 . made; how to avoid sickness and disease. ’  
 I Thousands of new objects. Additions con- i  
 tinually. Catalogue sent free.  
-1 1061 Market Street, Sen Francieoo. Cal. 
+1 1061 Market Street, Sen Francieoo. Cal. J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897052201:0502/pct:80.026081,78.099229,16.018257,11.180208/!600,600/0/default.jpg"/>
 </td>
@@ -2549,7 +2483,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 You can?  
 be cured r  
 If yot| suffer from any of the t  
@@ -2570,7 +2503,7 @@ I l Go and learn how wonderfully you are M
 made: how to avoid sickness and disease. \
 I I Thousands of new objects. Additions cc a- A  
 tinually. Catalogue sent free. T  
-I* 1051 Market Street, San Franclsee. Cel. 
+I* 1051 Market Street, San Franclsee. Cel. 3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897052601:0085/pct:20.662722,83.070257,14.603550,9.733829/!600,600/0/default.jpg"/>
 </td>
@@ -2584,7 +2517,7 @@ I* 1051 Market Street, San Franclsee. Cel.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-k n  
+ n  
   
   
   
@@ -2629,7 +2562,7 @@ taknn in time. Ihairnro (.Lara ismeulnta fraproyo­
 laantand eEscts a CDKS where all other tail In­  
 sist upon liBrtr.c tho eenninn Aiax TaWsta. They  
 have cured thousands and ill enraycrn. W rItb s pos­  
-itive written sacrantea to eEsc
+itive written sacrantea to eEsct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897052901:0143/pct:82.392398,6.123087,13.331470,45.235864/!600,600/0/default.jpg"/>
 </td>
@@ -2643,7 +2576,6 @@ itive written sacrantea to eEsc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 rtji You can r  
 Lil! be cured l  
 If you puffer from any of the 9  
@@ -2664,7 +2596,7 @@ m Go and le9rn how wonderfully yen are m
 T made how to avoid sickness and disease. \
 4 Thousands of new objects. Additions con* m  
 \ tinua’.ly. Catalogue sent free. T  
-
+y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897060201:0089/pct:19.832736,83.059262,14.528076,9.897611/!600,600/0/default.jpg"/>
 </td>
@@ -2678,7 +2610,7 @@ T made how to avoid sickness and disease. \
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- You can  
+You can  
 lv| L li! be cured  
 If you suffer from any of the  
 ills of men, come to the oldest  
@@ -2699,7 +2631,7 @@ Go and learn how wonderfully you are |
 made: how to avoid sickness ana disease.  
 Thousands of new objects. Additions con- |  
 tinually. Catalogue sent free.  
-1051 Market Street, San Francisco. Cal. 
+1051 Market Street, San Francisco. Cal. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897060501:0510/pct:80.260072,76.627377,15.092731,10.715242/!600,600/0/default.jpg"/>
 </td>
@@ -2713,7 +2645,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 j XJ A  
 W ISM P7 S3 I 1  
 i be c  
@@ -2751,7 +2682,7 @@ i&amp;xen in time, xneir nsa suows lamodiito laproyo­
 ment and eSocta a CURE whsra all other fail In­  
 sist upon haying the Genuine Aj.is Tablets. Th7  
 have curod thousands and will euro yon. Wo (rive a pq­  
-itive written guarantee to eilac
+itive written guarantee to eilact
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897061901:0156/pct:84.092187,7.204369,11.916807,14.492754/!600,600/0/default.jpg"/>
 </td>
@@ -2765,7 +2696,7 @@ itive written guarantee to eilac
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| You can {  
+You can {  
 lv|Ln! be cured f  
 If you suffer from any of the f  
 ills of men, come to the oldest i  
@@ -2786,7 +2717,7 @@ Go and learn how wonderfully you ore
 made: how to avoid sickness and disease.  
 Thousands of new ob)ects. Additions con­  
 tinually. Catalogue sent free. *  
-10B1 Market Street, San Francisco, Cal. 
+10B1 Market Street, San Francisco, Cal. f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897061901:0518/pct:79.290842,78.239180,16.075702,11.028718/!600,600/0/default.jpg"/>
 </td>
@@ -2800,8 +2731,6 @@ tinually. Catalogue sent free. *
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 v You can  
 I be Cured  
 If you sufTsr from any of the  
@@ -2822,7 +2751,7 @@ Go and learn how wonderfully you are
 made; how to avoid sickness and disease  
 Thousands of new objects. Additions eoa­  
 tinually. Catalogue sent free.  
-1051 MaVScet Street, San Franelsco, Cat
+1051 MaVScet Street, San Franelsco, Cat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897062601:0160/pct:85.110803,6.808199,10.138504,8.732483/!600,600/0/default.jpg"/>
 </td>
@@ -2836,8 +2765,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 You can  
 be cured  
 l If you suffer from any of the  
@@ -2859,7 +2786,7 @@ Go and learn how wonderfully you are
 made: how to avoid sickness and disease.  
 Thousands of new objects. Additions con*  
 tinually. Catalogue sent free,  
-f 051 Market Street. San Francisco. Cal
+f 051 Market Street. San Francisco. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897062601:0522/pct:81.527531,77.457193,15.364121,10.799515/!600,600/0/default.jpg"/>
 </td>
@@ -2873,7 +2800,6 @@ f 051 Market Street. San Francisco. Cal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 You can  
 ; be cured  
 If you suffer from any of the  
@@ -2895,7 +2821,7 @@ m.ndp- haw to avoid sickness and disease.
 Thousands of new objects. Additions con  
 tinually, catalogue sent tree.  
 1051 Market Street, San Franslsce, CaL  
-? THIRT
+? THIRTY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897070301:0165/pct:82.560089,77.147946,11.263276,13.212490/!600,600/0/default.jpg"/>
 </td>
@@ -2909,7 +2835,7 @@ tinually, catalogue sent tree.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d Third Sts.,  
+Third Sts.,  
 Carson City. - - Nevada.  
 f DEALER IN ICE. ^  
   
@@ -2940,6 +2866,7 @@ Attorney at Law
 “ ■ and Notary Public.  
 Will practice in all Coarts in the State.  
 Oman—Pike Street, Dayton, Nevada.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897070301:0526/pct:78.135666,73.395613,17.342150,22.881126/!600,600/0/default.jpg"/>
@@ -2954,7 +2881,7 @@ Oman—Pike Street, Dayton, Nevada.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d Third 8ts.,  
+Third 8ts.,  
 Carson City, - . Nevada.  
 f ^ DEALER IN ICE. f  
   
@@ -2987,6 +2914,7 @@ Attorney At Law
 , and Set ary PiblU.  
 Will practice ia all Coartala the 8tate.  
 Ornaa—Pike Street, Dayton, Nevada.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897071001:0530/pct:76.829007,73.541384,17.292427,22.930801/!600,600/0/default.jpg"/>
@@ -3001,7 +2929,6 @@ Ornaa—Pike Street, Dayton, Nevada.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 t  
   
 If you suffer from any of the |  
@@ -3023,9 +2950,31 @@ I Go snd learn how wonderfully you are
 . J&quot;ade: how to avoid sickness and disease.  
 I Thousands of new objects. Additions con­  
 . tinually. Catalogue sent free.  
-&#x27; 1051 Market Street, San Francises, Cal.
+&#x27; 1051 Market Street, San Francises, Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897072401:0538/pct:78.791138,74.854435,16.648742,13.581584/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Arizona sentinel._](https://www.loc.gov/resource/sn84021912/1897-07-31/ed-1/?sp=4)
+
+#### 1897-07-31 &middot; [Arizona City [Yuma], Yuma County, A.T. [Ariz.]](http://dbpedia.org/resource/Yuma%2C_Arizona)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+Yoacs  
+be cured  
+If you suffer from any of the  
+i ills of men, come to the oldest  
+specialists on the Pacific Coast,  
+i-r. Jordan &amp; Co. TaoBsaBSK  
+nowlive-haonv Itrea that we  
+VA
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897073101:0181/pct:86.856103,77.363418,7.768757,3.875483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3037,7 +2986,7 @@ I Thousands of new objects. Additions con­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-«fife* from  
+fife* from  
 frc .ny of the  
 ills  
 men,  
@@ -3073,7 +3022,7 @@ A &lt;W-’S
 _  
   
 GBr.1T M’JItCM Off AjiZTOMT.  
-Co and lr.W how womter
+Co and lr.W how womterf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_ymcaashland_20200608ClaySoucouyantEatingWheat_ver01%2Fdata%2Fsn96088226%2Fprint%2F1897080501%2F00001.jp2/pct:6.754355,78.656675,9.882688,6.494588/!600,600/0/default.jpg"/>
 </td>
@@ -3087,7 +3036,6 @@ Co and lr.W how womter
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 You can  
 be cured  
 If you suffer from any of the  
@@ -3108,7 +3056,7 @@ I Go and learn how wonderfully you ars
 Trader how ts avoid sicfcneAi nr.d disMse.  
 Thousands cf new objects. Additions con- ,  
 Unually. Catalogue sent free.  
-1051 Market S!?sst, San Franelsce, Col. 
+1051 Market S!?sst, San Franelsce, Col. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897080701:0186/pct:83.073062,76.512789,10.680424,8.650447/!600,600/0/default.jpg"/>
 </td>
@@ -3122,7 +3070,7 @@ Unually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-|i You can*!  
+i You can*!  
 If| L HI be cured &lt;  
 If you suffer from any of the |  
 ills of men, come to the oldest  
@@ -3143,7 +3091,7 @@ I DR. JORDAN * CO.&#x27;S
 made; how to avoid sickness ana diaease. 1  
 f Thousands of new objects. Additions con* |  
 tinually. Catalogue sent free.  
-&#x27; tOSt Markst Street, San Francisco, Cal.
+&#x27; tOSt Markst Street, San Francisco, Cal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897080701:0546/pct:79.004467,77.090323,15.741332,10.857603/!600,600/0/default.jpg"/>
 </td>
@@ -3157,7 +3105,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 2ey3 quickly cured vrithost the-irse of  
 mercury. Treatment &#x27;personally evr&#x27;byk  
 letter. xd : for book &quot;The Philosophy f  
@@ -3169,7 +3116,7 @@ raade; how t avoid sickness and disease
 Thousand of new objects. Additions 10 a­  
 tinually. Catalogue sent free.  
 1051 Market Street, San Franabca, Ca!.  
-
+1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897081401:0190/pct:83.994413,81.414644,11.243017,8.919311/!600,600/0/default.jpg"/>
 </td>
@@ -3183,7 +3130,7 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- v You can *  
+v You can *  
 lw| L N ! be cured i  
 If you suffer from sny of the (  
 ills of men, come to the oldest  
@@ -3206,7 +3153,8 @@ GREAT MUSEUM OF ANATOMT.
 made: how to avoid sickness and disease.  
 ) Thousands of new objects. Additions con­  
 ^ tinually. Catalogue sent free.  
-1051 Market Street, San Francisco. Cal.
+1051 Market Street, San Francisco. Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897082101:0550/pct:78.791746,77.919091,15.975324,10.972805/!600,600/0/default.jpg"/>
 </td>
@@ -3220,7 +3168,7 @@ made: how to avoid sickness and disease.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• You can&#x27;  
+You can&#x27;  
 ! be cured  
 If you suffer from any of the  
 i ills of men, come to the oldest  
@@ -3240,7 +3188,7 @@ I Go and learn how wonderfully you are
 made; how to avoid sickness and disease.  
 Thousands of new objects. Additions con­  
 tinually. Catalogue sent free.  
-1051 Market Street, San Francisco. Cal
+1051 Market Street, San Francisco. Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897082801:0554/pct:79.753559,77.249392,15.338857,10.970008/!600,600/0/default.jpg"/>
 </td>
@@ -3254,7 +3202,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 HEN!  
 You can  
 be cured  
@@ -3277,7 +3224,7 @@ I Go and learn how wonderfullv yon a™
 made; how to avoid sickneaa and diaeaae­  
 I Thousand* of new object*. Addition* con- ,  
 tinually. Catalogue aent free.  
-IOSI Market Street, San Franeleee, Cal
+IOSI Market Street, San Franeleee, Cal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897090401:0558/pct:81.296055,77.864971,15.604681,10.810445/!600,600/0/default.jpg"/>
 </td>
@@ -3291,7 +3238,7 @@ IOSI Market Street, San Franeleee, Cal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- beciref  
+beciref  
 If you suffer from any ef the  
 ills of men, eome to the oldest  
 specialists on tie Pacific Cca-st.  
@@ -3311,6 +3258,7 @@ made; hoiv to avoid sickness and disease.
 Thousands of new objects. Adomoascoa-  
 unuauy. waiaiogue sens tree.  
 I0Sf Bfarkst Strut. San Fransffei, Ct.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897091101:0205/pct:83.231368,84.617791,10.442158,7.925748/!600,600/0/default.jpg"/>
@@ -3325,7 +3273,7 @@ I0Sf Bfarkst Strut. San Fransffei, Ct.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-|Eri!  
+Eri!  
 You can  
 be cured  
 If you luffcr from any oftbe  
@@ -3348,7 +3296,7 @@ Go and learn how wonderfully yon are
 made; how to avoid aickneaa ana dieeeae.  
 Thousands of new objects. Additions con-1  
 Usually. Catalogue sent free.  
-10B1MarhetStrM
+10B1MarhetStrMl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897091101:0562/pct:79.562354,78.186507,15.020183,10.818515/!600,600/0/default.jpg"/>
 </td>
@@ -3362,7 +3310,6 @@ Usually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 If you suffer from any of the  
 , ins ot men, come to tne omesc  
 speaalistsontliePacinccoast, w  
@@ -3381,7 +3328,8 @@ Go and learn how wonderfnllv vda are
 made: how to avoid sickness and disease-  
 Thousands of new objects. Additions eon­  
 tinually. Catalogue sent free.  
-1051 ftarket Street, San Francisco, Cal.
+1051 ftarket Street, San Francisco, Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897091801:0209/pct:82.833520,85.712797,10.846413,7.190496/!600,600/0/default.jpg"/>
 </td>
@@ -3395,7 +3343,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 nieNi  
 You can  
 be cured  
@@ -3418,7 +3365,8 @@ Go and learn how wonderfully you are
 made; how to avoid sickness and disease.  
 Thousands of new objects. Additions con­  
 tinually. Catalogue sent free.  
-1061 Market Street, San Francleeo. Cal.
+1061 Market Street, San Francleeo. Cal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897091801:0566/pct:80.442250,78.518218,14.834693,10.781525/!600,600/0/default.jpg"/>
 </td>
@@ -3432,7 +3380,7 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- I *ou can  
+I *ou can  
 , ff|LllI be cured  
 i If you suffer from any of the  
 L ills of men, come to the oldest  
@@ -3454,7 +3402,8 @@ I Go and learn how wonderfully you are (
 made; how to avoid sickness ana disease,  
 i Thousands of new objects. Additions con* |  
 tinually. Catalogue sent free.  
-1 I OBI Market Street, San Fraaeleee. Ca!.
+1 I OBI Market Street, San Fraaeleee. Ca!.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1897092501:0570/pct:80.507548,78.034604,15.904616,10.678562/!600,600/0/default.jpg"/>
 </td>
@@ -3468,7 +3417,6 @@ tinually. Catalogue sent free.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 You can  
 fce cured  
 If you suffer from any of the  
@@ -3488,7 +3436,8 @@ Go and learn how wonderfull won n
 made; how to avoid sickuess and disease.  
 Thousands of new obiects. Additions con-  
 unuauy. waiaiogue sent tree.  
-1051 Mafket Streat, San Francisco, Cat.
+1051 Mafket Streat, San Francisco, Cat.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104326:1897100201:0218/pct:85.280899,85.389880,10.561798,8.647864/!600,600/0/default.jpg"/>
 </td>
@@ -3502,12 +3451,11 @@ unuauy. waiaiogue sent tree.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 If you suffer from any of the I  
 ills of men, come to the oldest  
 Specialist on the Pacihc Coast,  
 DR. JORDAN A CO..  
-
+k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn00063696%2F00000002055%2F1897102201%2F0018.jp2/pct:56.748879,78.024223,8.654709,2.159638/!600,600/0/default.jpg"/>
 </td>
@@ -3521,7 +3469,7 @@ DR. JORDAN A CO..
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ar,d strictly private.  
+ar,d strictly private.  
 CHAIXSES VERY KEASONAISLE. Treat  
   
 ment personally or hv icucr. Send for bxk,  
@@ -3535,7 +3483,8 @@ the t-nest and largest M useum of its kind in the
   
 wo;&#x27;d. Come and learn how wonderfully you  
 arc made; how to avoid sickness and disease.  
-We are continually adding new specimens.
+We are continually adding new specimens.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_goldfield_ver01:data:sn86076999:0027174092A:1897112701:0509/pct:76.404959,31.566135,13.450413,4.598323/!600,600/0/default.jpg"/>
 </td>
@@ -3549,14 +3498,13 @@ We are continually adding new specimens.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Yours for Trade,  
 The People&#x27;s Cash Store,  
   
 If you suffer from any of the 9  
 ills of men, come to the oldest \
 Specialist on the Pacihc Coast, 9  
-OR. JORDAN A CO., 
+OR. JORDAN A CO., k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:0033289075A:1897121501:0198/pct:65.890736,70.832682,23.444181,8.342446/!600,600/0/default.jpg"/>
 </td>
@@ -3570,10 +3518,10 @@ OR. JORDAN A CO.,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- orld. Come and learn how wonderfully you  
+orld. Come and learn how wonderfully you  
 arc m ade; how to avoid sickness and disease.  
 W e are continually adding new specimens.  
-C
+CA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20170302ObsidianSoucouyantBehindTrees_ver01%2Fdata%2Fsn93051617%2Fprint%2F1897122101%2F0002.jp2/pct:84.779951,90.108646,10.116137,1.335446/!600,600/0/default.jpg"/>
 </td>
@@ -3587,7 +3535,7 @@ C
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Treat-f  
+Treat-f  
   
 mtnt personally or by letter. Send for book,  
 &quot; The riiiloHODhy of ll&amp;rrlace.&#x27;  
@@ -3608,7 +3556,7 @@ CATALOGUE i&#x27;llKff. Call or write.
   
 QDICXCTIMBl I  
 TO  
-San Francisc
+San Francisco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_morrowcountymuseum_juno_ver01%2Fdata%2Fsn94049698%2F00000000003%2F1898012801%2F1224.jp2/pct:70.715835,37.221856,22.794649,16.945359/!600,600/0/default.jpg"/>
 </td>
@@ -3622,7 +3570,7 @@ San Francisc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Treat  
+Treat  
 ment personally or by letter. Send for book.  
 &quot;Tll riiilOHOliiiv f TMjirrani?r.&quot; I  
 i ire, lavajiipo.e wk lormen.j  
@@ -3630,7 +3578,7 @@ Great luseum of Anatomy
 the finest and largcit Museum of its kind in the  
 world. Come and learn how wonderfully you  
 ore made; how to avoid sickness and disease.  
-W
+We
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn00063696%2F00000002055%2F1898020401%2F0136.jp2/pct:66.493213,18.556994,12.737557,3.771168/!600,600/0/default.jpg"/>
 </td>

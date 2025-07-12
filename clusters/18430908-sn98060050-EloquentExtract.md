@@ -1,7 +1,7 @@
 
 # Eloquent Extract
 
-### 436 reprints from 1842-05-01 to 1898-07-23
+### 399 reprints from 1842-05-01 to 1898-07-23
 
 ## [Eloquent Extract](https://chroniclingamerica.loc.gov/lccn/sn98060050/1843-09-08/ed-1/seq-1/)
 
@@ -11,7 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-*Eloquent Extract*.—&quot;Generation after generation,&quot; says an eloquent writer, &quot;have felt as we feel, and their fellows were as active in life as ours now. They passed away in a vapor, while nature wore the same aspect of beauty as when her Creator commanded her to be. And so likewise shall it be when we are gone. The heavens shall be as bright over our graves as they are now around our path; the world will have the same attraction for offspring yet unborn that she once had for ourselves, and that she has now for our children. Yet a little while and all this will have happened! The throbbing heart will be stilled and shall be at rest.—Our funeral will wind on its way, and the prayers will be said, and the grave clods will be thrown in, and our friends will all return, and we shall be left behind to darkness and the worm. And it may be for some short time that we shall be spoken of, but the things of life will creep in, and our names will soon be forgotten. Days will continue to move on, and laughter and song will be heard in the very chamber in which we died; and the eye that mourned for us will be dried and glisten again with joy; and even our children will cease to think of us, and will not remember to lisp our names. Then shall we have become in the touching language of the Psalmist, &quot;forgotten and clean out of mind.&quot;  
+Eloquent Extract*.—&quot;Generation after generation,&quot; says an eloquent writer, &quot;have felt as we feel, and their fellows were as active in life as ours now. They passed away in a vapor, while nature wore the same aspect of beauty as when her Creator commanded her to be. And so likewise shall it be when we are gone. The heavens shall be as bright over our graves as they are now around our path; the world will have the same attraction for offspring yet unborn that she once had for ourselves, and that she has now for our children. Yet a little while and all this will have happened! The throbbing heart will be stilled and shall be at rest.—Our funeral will wind on its way, and the prayers will be said, and the grave clods will be thrown in, and our friends will all return, and we shall be left behind to darkness and the worm. And it may be for some short time that we shall be spoken of, but the things of life will creep in, and our names will soon be forgotten. Days will continue to move on, and laughter and song will be heard in the very chamber in which we died; and the eye that mourned for us will be dried and glisten again with joy; and even our children will cease to think of us, and will not remember to lisp our names. Then shall we have become in the touching language of the Psalmist, &quot;forgotten and clean out of mind.&quot;  
 
 </td></tr></table>
 
@@ -23,7 +23,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ways.  
+And yet, so has it been always.  
 Generation after generation have felt  
 as we feel, and their fellows were  
 meanwhile as active in life as ours  
@@ -72,6 +72,7 @@ lisp our name: and then we have be-
 come—to use the touching language  
 of the Psatmist— “forgotten and  
 clean out of mind.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_university-magazine_1842-05_19_113%2Fsim_university-magazine_1842-05_19_113_jp2.zip%2Fsim_university-magazine_1842-05_19_113_jp2%2Fsim_university-magazine_1842-05_19_113_0073.jp2/pct:16.649950,9.589867,69.157472,77.503016/,600/0/default.jpg"/>
@@ -86,8 +87,6 @@ clean out of mind.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 throbbing heart will be stilled, and we shall be at  
 rest; our funeral will wind on its way, and the  
 prayers will be -said, and the grave clods will be  
@@ -104,7 +103,8 @@ us will be dried, and will glisten again with joy,
 and even our children will cease to think of us,  
 and will not remember to lisp our name; and then  
 we have become—to use the touching language* of  
-the Psalmist—“ forgotten and clean out of mind.&quot;
+the Psalmist—“ forgotten and clean out of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1842-06-16_13_24%2Fsim_evangelist-and-religious-review_1842-06-16_13_24_jp2.zip%2Fsim_evangelist-and-religious-review_1842-06-16_13_24_jp2%2Fsim_evangelist-and-religious-review_1842-06-16_13_24_0003.jp2/pct:29.382127,13.741020,12.529833,7.367839/600,/0/default.jpg"/>
 </td>
@@ -118,7 +118,7 @@ the Psalmist—“ forgotten and clean out of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ell to remember that DEaTH is continually walking the rounds of a great  
+ll to remember that DEaTH is continually walking the rounds of a great  
 city, and that sooner or later he will stop at every man’s door. ‘ Generation after generation,’ says  
 an eloquent modern writer, ‘ have felt as we feel, and théir fellows were as active in life as ours are  
 now. They passed away as a vapor, while Nature wore the same aspect of beauty as when her  
@@ -142,7 +142,7 @@ creep in, and our name will soon be forgotten. Days will continue to move on, an
 song will be heard in the very chamber in which we died; and the eye that mourned for us will be  
 dried, and will glisten again with joy ; and even our children will cease to think of us, and will not  
 remember to lisp our name.’ Then shall we have become, in the touching language of the Psalmist,  
-‘ forgotten and clean out of mind!’ -
+‘ forgotten and clean out of mind!’ - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_foederal-american-monthly_1842-07_20_1%2Fsim_foederal-american-monthly_1842-07_20_1_jp2.zip%2Fsim_foederal-american-monthly_1842-07_20_1_jp2%2Fsim_foederal-american-monthly_1842-07_20_1_0105.jp2/pct:19.736842,15.471780,73.926593,68.838527/,600/0/default.jpg"/>
 </td>
@@ -156,7 +156,7 @@ remember to lisp our name.’ Then shall we have become, in the touching languag
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- w.  
+w.  
   
 &#x27;&#x27;Generation a^&#x27;ter generation.&quot; says an  
 eloquent modern writer, &quot;have fell as we  
@@ -190,7 +190,8 @@ children will cease to think of us, and
 will not remember to lisp our name.—  
   
 Then shall we have become, iu the touch­  
-ing language of the Psalmist,
+ing language of the Psalmist,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1842111801:0218/pct:36.360789,34.364947,15.220795,21.120355/!600,600/0/default.jpg"/>
 </td>
@@ -204,7 +205,7 @@ ing language of the Psalmist,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-IETIES.  
+ETIES.  
 &quot;Generation after generation,” says anelcquent modern  
 writer, “ have felt as we feel, and their fellows were as active  
 in life as ours are now. They passed away as a vapor, while  
@@ -228,7 +229,8 @@ that mourned for us will be dried and will glisten again with
 joy; and even our children will cease to think of us, and will  
 not remember to lisp our name. Then shall we have become,  
 in the touching language of the Psalmist, &#x27; forgotten and  
-clean out of mind !‘”—Knickerbocker.
+clean out of mind !‘”—Knickerbocker.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buford_ver01:data:sn83026172:00211677983:1842112601:0105/pct:16.992434,2.771055,15.384615,11.398838/!600,600/0/default.jpg"/>
 </td>
@@ -242,7 +244,7 @@ clean out of mind !‘”—Knickerbocker.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- all the benevolent in­  
+all the benevolent in­  
 stitutions which are known to be in the world, lor the  
 roliei of tlie poor, have originated since the Chrit-tian &#x27;era.  
 oiid arc Confined principally to Christian countries. .  
@@ -271,7 +273,7 @@ ed for us will be dried and will glisten again with joy ;
 and even our children will ceaxo to think of ua, and. will  
 not remember to lisp our name. Then shall we have  
 lecome, in the touching language of the Psalmist, &#x27;tor­  
-gotten and clean out of mind ! &#x27; &quot;Krittker
+gotten and clean out of mind ! &#x27; &quot;Krittkerb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat14n_ver01%2Fdata%2F1842121001%2F0197.jp2/pct:1.612903,42.578182,18.509048,21.494641/!600,600/0/default.jpg"/>
 </td>
@@ -295,8 +297,6 @@ gotten and clean out of mind ! &#x27; &quot;Krittker
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 tileneration after generation,&quot; says an elo.  
 lquent modern writer, &quot;have felt as we feel, and  
 =their_ fellows were as active in life as ours are  
@@ -325,7 +325,7 @@ _ _ gain withjny; and even our children will cease
 is think - of us, ant will not remember to lisp our  
 ..foams. Then shall we have becomi, *lithe touch.  
 . ing.lattg*age of the Psalmist, Turgottin and clean  
-- tint of
+- tint of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002332%2F1843011401%2F0008.jp2/pct:6.251125,64.215416,12.992799,12.732278/!600,600/0/default.jpg"/>
 </td>
@@ -339,7 +339,7 @@ is think - of us, ant will not remember to lisp our
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- .-&quot; i  
+.-&quot; i  
   
 &#x27;Generation after generation &quot;gays vari  
 eldquent modern writer, have.fe.lt as wc feelj  
@@ -371,7 +371,8 @@ and ever, our children will cease to think of
 us, and will not remember to lisp our nam.  
 Then shall we have become in the touching  
 language of the lValmist,&#x27; forgotten and  
-clean out of minde.&#x27;&quot;
+clean out of minde.&#x27;&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065696:00295877583:1843020301:0296/pct:29.166667,32.694968,20.610368,34.141930/!600,600/0/default.jpg"/>
 </td>
@@ -385,7 +386,6 @@ clean out of minde.&#x27;&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 CLayaration after&#x27; generation,&#x27; &#x27;says an  
   
 eloquent modern Writer, &#x27;have felt as uig  
@@ -420,7 +420,7 @@ again glisten with joy; and even our chil­
 dren will cease to think of us, and will  
 .cease to lisp our nsmd. Then shall we have  
 become in the language cif: , the. Psalmist,  
-`forgotten and clean out of mind
+`forgotten and clean out of mindr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_washingtong_ver01%2Fdata%2Fsn86071296%2F000001854%2F1843020801%2F0023.jp2/pct:19.530421,40.384073,12.141846,20.377026/!600,600/0/default.jpg"/>
 </td>
@@ -434,7 +434,6 @@ become in the language cif: , the. Psalmist,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 &quot;Generation after generation,&quot; says an elo­  
 quent modern writer, &quot;In ve felt as tee feel,  
 and their fellow* were as active in life as our»  
@@ -465,7 +464,7 @@ dren will cease to think of na. and will not
 re,ue-iiber to lisp our name. Then shall we  
 have become, in the touching language of the  
 Psrdmist, &#x27; forgotten and clean out of rnind!&#x27; &quot;  
-—Krricherb
+—Krricherbi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843021801:0455/pct:80.562827,51.307996,12.352749,14.659427/!600,600/0/default.jpg"/>
 </td>
@@ -479,7 +478,7 @@ Psrdmist, &#x27; forgotten and clean out of rnind!&#x27; &quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.—&#x27;Generation after genera.  
+—&#x27;Generation after genera.  
 don,&#x27; says an eloquent modern writer,  
 +eve felt as we feel, and their fellows  
 were as active in life as our own, They  
@@ -512,7 +511,8 @@ children will cease lothink of us, and will
 not remember •to &#x27;lisp s our name. Then  
 shall we have &#x27;become, in the touching  
 language of the Psalmist, &#x27;forgotton and  
-c&#x27;ean out Of mind.&quot;
+c&#x27;ean out Of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_disciplina_ver01%2Fdata%2Fsn85054564%2F000002271%2F1843022201%2F0174.jp2/pct:18.383672,12.844949,20.787231,73.362956/!600,600/0/default.jpg"/>
 </td>
@@ -546,7 +546,7 @@ c&#x27;ean out Of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-‘Generation after generation,” says an  
+Generation after generation,” says an  
 eloquent modern writer, ‘have felt as we  
   
 as oursare now. They passed away as  
@@ -579,7 +579,8 @@ children will cease to think of us, and will
 not remember to lisp our name.”—Then  
 shall we have become, in the touching  
 language of the Psalmist, “forgotten and  
-clean out of mind.” —Knickerbucker.
+clean out of mind.” —Knickerbucker.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7%2Fsim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7_jp2.zip%2Fsim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7_jp2%2Fsim_green-mountain-gem-a-monthly-journal-of-literature_1843-04-01_1_7_0002.jp2/pct:31.026558,23.486771,27.119510,36.353751/,600/0/default.jpg"/>
 </td>
@@ -593,7 +594,6 @@ clean out of mind.” —Knickerbucker.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Generation after generation, savs  
 an  
 eloquent modern writer, have felt as  
@@ -630,7 +630,8 @@ children will cease to think of us, and
 will not remember to lisp our name  
 Then shall we bedorae, in the language of  
 the Psalmist, forgotten and clean out ol  
-mind I
+mind I  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287939:1843061701:0120/pct:23.854379,71.333222,18.584521,21.691974/!600,600/0/default.jpg"/>
 </td>
@@ -644,7 +645,7 @@ mind I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- earth still  
+earth still  
 wears the same beautiful aspect that she did  
 then : so shall it be when we are gone, like  
 autumn ieaves; to enrich our mother earth.  
@@ -670,7 +671,7 @@ direct our attention, which, without reve­
 lation, is dark and gloomy. But we  
 are suddenly revived by the evergreen of  
 hope, and the everliving spring of faith in  
-the merits of th
+the merits of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1843063001:0224/pct:47.515705,59.490085,15.119931,21.178470/!600,600/0/default.jpg"/>
 </td>
@@ -684,19 +685,7 @@ the merits of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ht you to the very point, I wish  
-you to understand : it is true, one newspa­  
-per is of but trifling value, but let an editor  
-get in the habit of giving his papers away to  
-Tom, Dick, and Harry, whenever called on,  
-who will be fool enough to pay for what oth­  
-ers get gratis? besides, it is morally wrong  
-to make paying subscribers pay for the pa­  
-pers&#x27;thus wasted upon persons who refuse to  
-contribute one cent to the sustainment ofthe  
-public press. We therefore feel it our duly  
-to inform you, neighbor Snobs, that we do  
-not give papers away if our paper is not  
+our paper is not  
 worth buying, it is not worth reading.  
 Eloquent Extract. &quot;Generation after  
 generation,&quot; says an eloquent writer, &quot;have  
@@ -729,9 +718,10 @@ dren will cease to think of us, and will not
 remember to lisp our names. Then shall  
 we have become in the touching language of  
 the Psalmist, &quot;forgotten and clean out of  
-mind.&quot;
+mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1843090801:0147/pct:79.471545,38.867188,14.878049,27.599159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1843090801:0147/pct:79.471545,46.048678,14.878049,20.417668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,24 +733,7 @@ mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ary struggle for unsub?tantiaVgood, have made bp al  
-  
-most Its sum. Ah how seldom are its early promises  
-  
-fulfilled ; even if the world spread its gifts before men,  
-yet they are transient as the morning dew. Yes, the  
-..v.-..,.,..a. L..,. , .. .....  
-  
-.nrwnan m-cnosrrMtne BetteriJaTtlvirheprshilT  
-  
-not laae away. Weil, welJ, when I reach that envious  
-elevation, when I have bro&#x27;t a few f,ior worldlv schemes  
-  
-- to soecosshil termination, then r omy::;EfRetioriel shkll  
-  
-Jjso their hold upon the world; I will bea Christian.  
-Ah, how miny, havepuch promises, and such reason­  
-ings, beguiled of Heaven.  
+Heaven.  
 AN ELOQUENT EXTRACT.  
 Generation after generation have felt as we feel, and  
 their fellows were ss active in lift as ours aro nov.  
@@ -794,32 +767,10 @@ rememberio Jbp our nameiTnw: shall we have be-
   
 comOr in the touching lacguage of the Psalmist, &quot;(org,  
   
-ten and clean out of mind. ,
+ten and clean out of mind. ,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat14n_ver01%2Fdata%2F1843100701%2F0372.jp2/pct:5.050143,46.310231,18.553009,24.620462/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The radical._](https://www.loc.gov/resource/sn83016922/1843-10-07/ed-1/?sp=1)
-
-#### 1843-10-07 &middot; [Bowling Green [Mo.]](http://dbpedia.org/resource/Bowling_Green%2C_Missouri)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-; it isni the iotane of utaning in­  
-true, one newspaper is of but trifling violable, law.  
-  
-vale, but let an editor get in the hab  
-  
-,  
-  
-it of giving his papers away to Tom.  
-Dick and Harry, whenever called on.  
-who will be fool enough to pay for
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1843100701:0375/pct:63.090789,56.720597,29.588921,3.795893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat14n_ver01%2Fdata%2F1843100701%2F0372.jp2/pct:5.050143,53.122112,18.553009,17.808581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -831,7 +782,6 @@ who will be fool enough to pay for
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 EXTRACT.  
 “Generation after generation,” says an elo­  
 quent modern writer, “ have felt as we feel, and  
@@ -861,7 +811,8 @@ with joy; and even our children will cease to
 think of and will not remember to lisp our name.  
 Then shall we have become, in the touching  
 language of the Psalmist, “ Forgotten and clean  
-out of mind.’ ”—Knickerbocker.
+out of mind.’ ”—Knickerbocker.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1843112401:0091/pct:66.928380,57.874073,14.783608,17.216810/!600,600/0/default.jpg"/>
 </td>
@@ -875,22 +826,7 @@ out of mind.’ ”—Knickerbocker.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to be seen. The great popular party is  
-alreads rallied almost en masse around the  
-banner which is leading the party to its final  
-triumph. The few that still lag will soon be  
-rallied under its ample folds. On that ban  
-ner is inscribed--free trade; low duties; no  
-debt; seperation from banks; economy; re  
-trenchment, and strict adherence to the  
-Constitution. Vistory in such a cadse will  
-be great and glorious; and if its principles  
-be faithfully and firmly adhered to after it  
-is achieved, much will it redound to the hon  
-e e e e o ee ee oeo  
-or of those by whom it will have been won  
-and long will it perpetuate the liberty and  
-prosperity of the country-  
+ity of the country-  
 ELOQUENT ExTRACT.  
 &quot;Generation after generation,&quot; says an el  
 oquent writer, &quot;have felt as we feel, and  
@@ -928,7 +864,7 @@ our children will cease to think of us,
 will not remember to lisp our names. Then  
 shall we have become in the touching lans  
 guage of the Psalmist, &quot;forgotten and clean  
-out of mind
+out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1843122701:0037/pct:62.401656,0.979924,31.111111,94.383365/!600,600/0/default.jpg"/>
 </td>
@@ -942,8 +878,6 @@ out of mind
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Eloquent Extrnll.—&quot;Generation after  
 . &#x27;*nerauon, says1 an e  
 loquent  
@@ -979,7 +913,7 @@ dreh will cease to think of us, and
 ■ nav emember to lisp our names.  
 hall we have become in the touching  
 language of the Psalmist, ‘forgotten and  
-clean out of mind.’
+clean out of mind.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1844011101:0366/pct:40.043435,52.359936,12.362178,16.917985/!600,600/0/default.jpg"/>
 </td>
@@ -993,26 +927,7 @@ clean out of mind.’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- was  
-nothing to what it Was in the western  
-part of New York, positively, sir! it  
-was a horrible dry time there, and the  
-ground han&#x27;t got thoroughly moistened  
-I used to drive cattle forty or fif­  
-ty miles for water, and ford two rivers  
-into (he bargain, and then found none,  
-positively, sir!&quot;  
-»  
-yet.  
-W ß never knew a scolding person  
-that was able lo govern a family.—  
-What makes people scoidî Because  
-(hey cannot goverri themselves. Hon,  
-«&quot;»«v » , rr ,_ J :  
-then, can they govern others. F ose  
-who generally goVern rtcll are gener­  
-ally tdlrh. they are prdffipt and re­  
-j soiute, but steady and mild.  
+and mild.  
   
 ELOQUENT EXTRACT.  
 &quot;Generation after generation,&quot; says  
@@ -1049,9 +964,9 @@ think of us, and will not remember to
 lisp our names. Then shall we have  
 become in the touching language of the  
 Psalmist, &quot;forgotten and clean gone  
-out of mind
+out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn87090149:00199917341:1844011801:0605/pct:16.259640,10.723801,31.298201,85.579485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn87090149:00199917341:1844011801:0605/pct:23.570051,10.723801,23.987789,85.301954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +978,7 @@ out of mind
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Jlitffl -trf* the House (hit  
+Jlitffl -trf* the House (hit  
 evening.  
   
 ELOQUENT EX IT tCf.  
@@ -1101,39 +1016,9 @@ children will ceaSe to think of us,and
 will not remember to-lisp our names.—  
 Then shall we have become in-the touch­  
 ing language of the Psalmist, &quot;forgottei  
-and clean out of mind.
+and clean out of mind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn83016954:0019991733A:1844012001:0208/pct:83.636654,45.482189,14.910600,22.219809/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Arkansas banner._](https://www.loc.gov/resource/sn82007022/1844-01-23/ed-1/?sp=2)
-
-#### 1844-01-23 &middot; [Little Rock, Ark.](http://dbpedia.org/resource/Little_Rock%2C_Arkansas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-0  
-Democracy.—•* The great popular party is &#x27;  
-already rallied almost in manse around the  
-banner which-is leading the party to its final  
-triumph. The few that still lag will soon be  
-rallied under its ample folds. On that ban­  
-ner is inscribed—Free Trade; Low Di­  
-tie*; No Debt; Separation from Banks;  
-Economy; Retrenchment; and Strict  
-Adherence to the Constitution. Vic­  
-tory in such a cause will be great and glo­  
-rious ; and if its principles be faithfully aiul  
-y ^hered to, after it is achieved, much &gt;  
-will it redound to the honor of those by f  
-whom it wilt have been won ; and long will i  
-it perpetuate the liberty and prosperity of the ,  
-country.-—Calhoun.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844012301:0080/pct:5.746927,83.691099,13.553748,8.664921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1145,7 +1030,7 @@ country.-—Calhoun.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- N T EITItACT.••‘. Generation after gen•  
+N T EITItACT.••‘. Generation after gen•  
 mention,&quot; soya an eloquent writer, &quot; have felt as wo  
 feel, and their fellows were as active in life as ours.  
 They passed away like a vapor, while nature wore  
@@ -1166,7 +1051,7 @@ hind to darkness and the worm.
 12-. When a certain lady who had been charmed  
 by his writings, but had never seen his person,  
 wrote to Mirabenu, saying how much she longed to  
-see hint, an
+see hint, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002310%2F1844012401%2F0009.jp2/pct:82.326622,69.317658,15.096814,14.701475/!600,600/0/default.jpg"/>
 </td>
@@ -1180,7 +1065,6 @@ see hint, an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 London paper  
 FLooUent extrtt  
 &quot;Generations after generations,&quot; sny:  
@@ -1216,7 +1100,7 @@ cease to think of us, and will not re
 nemb to lisp our name. Then sha  
 we haave become, in the touching lan  
 tage of the Pal nist, &quot;forgotten and  
-can out of min
+can out of mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186440:1844020201:0097/pct:23.517873,38.911260,15.698561,22.568978/!600,600/0/default.jpg"/>
 </td>
@@ -1230,24 +1114,6 @@ can out of min
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ell  
-Of glittering light so gay.  
-  
-My second&#x27;s birth flung o’er the earth  
-Its robe of fairy hue,  
-And trac’d its path o’er heaven’s arch.  
-And ting’d the sky with blue,  
-Its ruddy beam in the diamond seen.  
-Lights up the priceless gem,  
-The mountain stream beneath its gleam,  
-Throws back its rays again.  
-The sun has gone to his western home  
-From Ins flashing path on high,  
-And one by one, the stars are hung  
-Along the vaulted sky—  
-My whole is seen with its welcome gleam,  
-To shed its radiance round,  
-O’er joyous scenes its light is thrown,  
 Where happy voices sound.  
 lolab.  
 Answer io Charade No. 2— Harebell.  
@@ -1280,9 +1146,10 @@ and even our children will cease to think of us,
 and will not remember to lisp our names. Then  
 we shall have become, in the touching lauguage  
 of the Psalmist, “ forgotten and clean out of  
-mind.”
+mind.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:0051717449A:1844022801:0241/pct:2.676165,63.563794,17.712745,32.485455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:0051717449A:1844022801:0241/pct:2.676165,74.414829,17.712745,21.634420/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,20 +1161,6 @@ mind.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-posing* that hAhad  
-been asked his own name. The ceremony tl\
-on, and the infant was duly christened John, jm  
-to the astonishment of all, the mother informdmHS  
-Priest that it was a female ! TWi so excited fW  
-holv •™dy^” that he fr&quot; -T— &gt;,*  
-poor god-father, and hi™ * sound thrashing  
-on the spot, and would accept no explanation or  
-apology for such an apparent outrage upon the dig­  
-nity of his office. An eye witness of the scene adds  
-that when the unfortunate victim of priestly wrath  
-humbly implored forgiveness for his mistake, he  
-was again greeted with a most ungraceful kick_  
-Springfield Gazette.  
 Eloquent Extract.—“Generation after gene­  
 ration,” says an eloquent writer, “ have felt as we  
 feel, and their fellows were as active in life as ours  
@@ -1334,9 +1187,9 @@ us will be dried and glisten again with joy; and
 even our children will cease to think of us, and  
 will not remember to lisp our names. Then we  
 shall have become,in the touching language of the  
-Psalmist, “ forgotten and clean out of mind.
+Psalmist, “ forgotten and clean out of mind.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844031401:0815/pct:39.257469,48.457012,17.662566,20.826755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844031401:0815/pct:39.279438,55.791589,17.486819,13.492177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1201,7 @@ Psalmist, “ forgotten and clean out of mind.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ould see the flourishing towns of  
+uld see the flourishing towns of  
 Louisville and Cincinnati: the most luxuriant  
 crops of all the grains and grasses fine and numer-  
 ous flocks and herds of every kind; you would  
@@ -1363,7 +1216,7 @@ tengain with joy.; and even tmr- -children vi II
 cease to think of us and will not remember to lisp  
 our names. Then shall we have ijecome in the  
 touching-language ofthe Psalmist &quot;forgotten and  
-clean gone out of mind.
+clean gone out of mind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth80378/m1/2/pct:8.200000,8.682239,40.400000,43.455267/!600,600/0/default.jpg"/>
 </td>
@@ -1377,7 +1230,7 @@ clean gone out of mind.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- river.  
+river.  
 Generation after generation have felt as we feel  
 and their fellows were as active in life as ours are  
 now. They passed away like a vapor while na-  
@@ -1390,367 +1243,9 @@ had for ourselves and that she has now for our
 children. Yet a little while and all this will have  
 fcaMNMd. The tfcrobing heart will be stilled&#x27; and  
 we will be at icrt Our fimarat will wind on its  
-r ww m sa
+r ww m saw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth80378/m1/2/pct:8.533333,79.726752,20.333333,9.563684/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1844-04-26/ed-1/seq-2/)
-
-#### 1844-04-26 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
--nn.  
-  
-“ The jjreat popul«rparty is already rallied ahnost en  
-around ihe banner which is leading ihe party to its final tr,.  
-uniph. The few that still lag will soon be rallied under tho  
-ample folds: on that banner is inscribed Free Tb.\de; Low  
-Duties ; No Debt; Sepabation from Bank« ; Economy;  
-Retrenchment, and a Strict adherence to the con!»ti-  
-TUTiON. Victory in such a caust* will be crcat and glorious  
-and if Us principles be faithfully and firmly adhered lo alttr  
-It is achieved, much will it redound to the honor of those by  
-whom it will have been won; aiid long will it perpt&#x27;iuate tho  
-liberty and proepcrity of the counir
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1844-04-26_1%2F0002.jp2/pct:75.774226,21.646734,17.420080,6.255750/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The New Hampshire gazette._](https://www.loc.gov/resource/sn83025588/1844-06-11/ed-1/?sp=2)
-
-#### 1844-06-11 &middot; [Portsmouth [N.H.]](http://dbpedia.org/resource/Portsmouth%2C_New_Hampshire)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-l do a service to the cause of democra­  
-cy.  
-  
-“The great popular party is already rallied  
-almost en masse around the banner which is  
-leading the party to its final triumph. The few  
-that still lag will soon be rallied under its am­  
-ple folds. On that banner is inscribed—¥&#x27;RrEE  
-Trape; LowDvuries; No Desr; SErAra-  
-TioN FROM BaNks; KcoNxomy; ReTriNcH­  
-MENT ; AND STRICT ADHERENCE TO THE CoN­  
-sTiTuTIoN, Victory in such a cause wil be  
-great and glorious ; and if its principles befaith  
-fully and firmly adhered to, after it is achi¢ved,  
-much will it redound to the honor of those by  
-whom it will have been won ; and long vill it  
-perpetuate the liberty and prosperity of the  
-country.””—Calhoun.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844061101:0094/pct:35.215171,28.286604,14.719183,9.740395/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Huntingdon journal._](https://panewsarchive.psu.edu/lccn/sn86071456/1844-06-12/ed-1/seq-2/)
-
-#### 1844-06-12 &middot; [Huntingdon, Pa.](http://dbpedia.org/resource/Huntingdon%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-The great popular party is already rallied almost  
-en /fme around the banner which is leading the  
-party to its final triumph. The few that still lag,  
-will soon be rallied under its ample folds. On that  
-banner is inscribed—FßEE TRADE; LOW DU.  
-TIES, &amp;c. &amp;c.  
-  
-This assertion of Mr. CtLuoVN was a prophecy  
---the fete that legged, have rallied under the ample  
-folds of FREE TRADE, Pout and DALLAS. Thin  
-is the issue, Ponnsylvanians ! &quot; Free Trade with  
-Polk,&quot; against &quot; a Tariff Policy with Clay.&quot;--  
-Choose ye between them—choose, but do not any  
-after the election, if you are betrayed, that you were  
-not weekly warned from the columns of our paper  
-and other Whig prints, Eliot the election of PoLx  
-would be the repeal of the Tariff of 1842, and the  
-destruction of the Protective Policy.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002310%2F1844061201%2F0085.jp2/pct:81.560284,27.631063,15.205362,10.591534/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Jeffersonian Republican._](https://www.loc.gov/resource/sn86053954/1844-06-20/ed-1/?sp=1)
-
-#### 1844-06-20 &middot; [Stroudsburg, Pa.](http://dbpedia.org/resource/Stroudsburg%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-flits assertion of Mr. Calhoun was a proph  
-  
-ecy ihe fixo ihal lagged, have rallied under  
-ihu ample folds of Free Trade, Polk aud  
-Dallas. This ia the issue, Pennsylvania!) !  
-&quot; Free Trade wiih Polk,&quot; against &quot; a Tariff  
-Policy with Clay.&quot; Choo-iO ye between thorn  
-choose, but do not say after ihe election, if  
-you are betrayed, that you wore not weekly  
-warned from thecolumus of our paper and oili­  
-er Whig prints, that the election of Polk would  
-be the repeal of the Tariff of 1842, and the de­  
-struction of ihe Protective Policy.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1844062001:0120/pct:74.490513,84.657930,17.515812,7.887459/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1844-08-16/ed-1/seq-3/)
-
-#### 1844-08-16 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-OF PENNSYLVANIA.  
-  
-The great popularparty is already rallied almost enmasse  
-around the banner wtiich is le«ding tK« party its final tri­  
-umph. The few that still lay will soon be rallitd under the  
-ample folds: on that banner is inscribed Free Trade; Low  
-Duties; No Debt; Separation from Banks; Economy;  
-Retrenchment, and a Strict adherence to the constis  
-tution. Victory m such a cause will be OTeat and glonou-  
-and il its principles be faithlully and firmly adhered to after  
-It is achieved, much will ft redound to the honor of those by  
-whom it will have been won; and long will it perpetuate the  
-liberty and prosperity of the countr
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1844-08-16_1%2F0003.jp2/pct:23.719140,24.212021,17.414388,5.944155/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Cecil Whig._](https://www.loc.gov/resource/sn83016348/1844-08-17/ed-1/?sp=2)
-
-#### 1844-08-17 &middot; [Elkton, Md.](http://dbpedia.org/resource/Elkton%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-;  
-The greet popular party&#x27;is already ral­  
-lied almost en masse around the banner  
-which is leading the party toots final iii­  
-uillph. Phe few that still lag, w ill soon  
-he rallied under us ample folds. &#x27;On that  
-banner is inscribed “free trade, low du­  
-ties, k.”  
-IH
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1844081701:0228/pct:66.136657,16.258632,13.923507,5.006277/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1844-10-18/ed-1/seq-2/)
-
-#### 1844-10-18 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-\ th H »us- ol Loid.^  
-  
-?IA.  
-“ The great popularparty i3 already tallied almost tn riasse  
-around the banner which is leading the party to its final tri­  
-umph. The few that still laji will soon b« rallied under the  
-ample folds: on that banner is inscribed FkeE Trade; Low  
-Duties- No Debt; Sepahation prom Ban*s ; Economy;  
-Retrenchment, ai.d a Strict adherence to the consti­  
-tution. Victory m such a cause w;ll be ^reat tmd glorious  
-and if Its principles be faithfully and firmly adheied to alter  
-It is achieved, much will it redound to the honor ot those Iiy  
-whom It will have been won; and long wall it perpetuate the  
-liberty and prosperity of the couuiry.’ — John C. Laiaoun.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1844-10-18_1%2F0002.jp2/pct:34.725165,49.543688,23.831484,29.529231/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1844-11-01/ed-1/seq-2/)
-
-#### 1844-11-01 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-FOR VICeTrESIDENT,  
-GEORGE M. DALLAS,  
-or PENNSYLVANIA.  
-  
-“ The great popularparty is already rallied almost en masse  
-around the banner which is leading ihe party to its final tri­  
-umph. The few that etill lag will soon be rallied under the  
-ample folds: on that banner is inscribed Fuee Trade; Low  
-Duties ; No Debt; Sepabation fbom tiASKs ; Economv;  
-  
-tance, if we only organize and deserve it. It is I 1^etrench»ien-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1844-11-01_1%2F0002.jp2/pct:41.304348,21.092966,34.696635,5.902746/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1844-12-13/ed-1/seq-2/)
-
-#### 1844-12-13 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-rhe great popularparty is already rallied  
-id the baiincr ^-hich is leadini; the part]  
-  
-almost enviasse  
-party to its final tri-  
-Tlie few that still la^ will soon be rallied under the  
-ample folds: on that banner is inscribed Free Tbade; Low  
-Duties; No Debt; Sepahation from Banku ; Economt;  
-Rktbenchment, and a Stbict adhkhznce to the consti­  
-tution. Victory in such a cause wUl be great and glorious  
-and if its prmciples be faithfully and firmly adhered to after  
-It is achieved, much will it redound to the honor of those by  
-whom it will have been won; and long will it perpetuate the  
-liberty and prosperity of the couniry.”—JbAn C. Calhoun.  
-  
-We are requested to announce Col. Wil­  
-liam H. Neal, of Mecklenburg County, a candi­  
-date for Brigadier General of the lllh Brigade,  
-North Carolina Militia, rictf Gen’I. Means resigricd  
-  
-We are authorized to announce Maj. Kobt.  
-S. Youxg, of Cabarrus, a candidate for Brigadier  
-General of the llth Brigadt; North Carolina Militia  
-in place of Gen. Means, resigned.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1844-12-13_1%2F0002.jp2/pct:60.178643,31.276311,17.491001,11.471489/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1845-01-03/ed-1/seq-2/)
-
-#### 1845-01-03 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- the party &#x27;o its final tri­  
-umph. The fi&#x27;w that still la^ will so*»ii be rnliii -5 umifr the  
-ample folds : on that banner is inscribttl FR,&#x27;’.r&#x27;I nAOE ; Low  
-Duties; IS’o Debt; Sepaeation from HANKt ; Kconomv;  
-Retrenchment, and a Strict adhfhence to thk consti  
-TUTioN. Victory m suoli a causr wiii he frrfat and ylorious  
-and il it_s prineupU s be laithiuily and firmly adhf rod to alter  
-a is avhicved, much wili it redoen*; to iiie honor «&gt;; those by  
-vvhom if wdl have bttn won; and lung will it perpetuate the  
-libe rty and jirospcnty ot the counvry.” — John. C. Calhoun.  
-  
-|i:3* ^Ve are requested to jiimoniue Col Wil  
-LIAM H Neal, of iM&#x27;&#x27;ckl&#x27;nliU:;j (* nnt\. :i candi­  
-date for Brigadier Gin al of iii. lliti Brigade,  
-N&#x27;Ulh Cared 1 irt M:!’n 1, i&#x27;if-&#x27;c G n’. .M ans resif^fjcd.  
-  
-We are authorized to announce Maj. Robt.  
-S. Young, of Cabarrus, a candidate for Brigadier  
-General ol the 11th Brigade North Carolina Militia  
-in place of Gen. Mcan«, resignea.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1845-01-03_1%2F0002.jp2/pct:43.225467,38.057568,17.100763,10.808235/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1845-01-10/ed-1/seq-2/)
-
-#### 1845-01-10 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-e native  
-I American party reads thus;—  
-  
-FRIDAY MORNING, JANUARY 10,1845.  
-  
-The great popularparty is already rallied almost enr.iaa,»  
-around the banner which is leading the party to its final tri  
-umph. The few that still lag will soon be rallied under hi  
-ample folds: on that banner is inscribed Free Trade- Lq®  
-Duties; No Debt; Sepabation fkom Banks; Econom^  
-Retbestchment, and a Strict adhebence to the coksti’  
-TUTiON. Victory in such a cause will be great and KloriouH  
-and if Its principles be faithfully and firmly adhered to S  
-It IS achieved, much will it redound to the honor of those bv  
-whom It will have been won; and long will it perpetuate ths  
-liberty and pro9penty of the counlry,-&#x27;-yoAn C. Calhoun  
-  
-We are requested to announce CoJ. Wn..  
-LIAM H. Neal, of Mccklenburg County, a candi­  
-date for Brigadier General of the llih Brigade  
-North Carolina Miliiia, vice GenM. Means resi°r,cd’  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1845-01-10_1%2F0002.jp2/pct:63.000541,15.664482,35.565476,20.993635/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1845-01-17/ed-1/seq-3/)
-
-#### 1845-01-17 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-“ &#x27;I&#x27;hf* great pojiularpnrty i? a’rtady rallied almost en vias!&gt;e  
-.:rounJ the banner which is Iciidiny ihe party to its finrii tri- j  
-■;.ph. I’he fow that slill la^ will soon be rulUod under the by stages,  
-foMs : on that banner is inscribed Free Tbahe ; Low  
-No Debt; Separation ikom Banks; Economy;  
-I&#x27;t.RF.NCHMENT, aiul a StUICT ADHESSiJCE TO THE COSSTI-  
-&#x27;lUriON*. Victory in such a oawse will be ^^reat and glorious  
-a,id ii&#x27; its principles be faithfully and firmly adhered to atttr  
-. is acliii vtd, much wiii it redound to iht- honor of those by  
-whom it wil! have been won; atid long will it perpetuate the  
-■ &#x27;luTiy and prosperity of llic connwy.&quot;— John C. CalliouTi.  
-  
-We arc rc(jU.jUd lo announce C&amp;l. Wil­  
-iam n. Nr.Ai,, of Mecklenburg County, a candi-  
-for Brigadier CJcneral of the llih Brigade,  
-■Dilh Carolina Mili&#x27;.ia, r/.rs Gen’l. Means resigt.c
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1845-01-17_1%2F0003.jp2/pct:3.530192,33.036824,22.720637,8.216165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1764,119 +1259,11 @@ for Brigadier CJcneral of the llih Brigade,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. W\&#x27;hen a certain lady, who had  
+W\&#x27;hen a certain lady, who had  
 beea clartned by tlirabrau&#x27;s writings,  
-but had never seen his person, wrote to
+but had never seen his person, wrote to  
+
 </td></tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1845-01-24/ed-1/seq-2/)
-
-#### 1845-01-24 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-(Native) 4,003, scaiiering 64.  
-Baliimora Argus.  
-  
-CHARIiOTTE,  
-TBIDAT HORinNa, JAN0ART 24, 1845.  
-  
-“ The great popuiarparty is already rallied almost enmasse  
-around the banner which is leading the party to its firial tn-  
-umph. The few that etill lag will soon be ralliM under the  
-ample folds; on that banner is inscribed Fbee Tb^k ; Low  
-Duties; No Dbbt; Skpabation fbom Banks; Economy;  
-RBTBBNCHMEaT, and a StBICT ADHEBENCB to the CONBTI-  
-TCTiON. Victory in such a cause will bfe CTeat and glorious  
-and if its principles be faithfully and firmly adhered to after  
-It is achieved, much wdl it redound to the honor of those by  
-whom it will have been won; and long will it perpetuate the  
-jiberty and prosperity of the country.”—Calhoun.  
-nil* We are requested to announce Col. Wil­  
-liam II. Neal, of Mecklenburg County, a candi­  
-date for Brigadier General of the&quot; 11th Br igade,  
-North Carolina Militia, ujcfi Gen’l. Means resigned.  
-  
-p;^ We are authorized to announce Maj. Robt.  
-S. Youno, of Cabarrus, a candidate for Brigadier  
-General ot the 11th Brigade North Carolina Militia  
-in place of Gen. Means, resigned.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1845-01-24_1%2F0002.jp2/pct:26.480285,16.003806,33.377291,79.619410/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1845-01-31/ed-1/seq-3/)
-
-#### 1845-01-31 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-4  
-  
-CBAHI.OTI&#x27;S,  
-FRIDAY HORNING, JANUARY 31, 1845.  
-“ Tlie great popularparty is already rallied almo&#x27;st en masse  
-around the banner which is leading the party to its final tri­  
-umph. The few that still lag will soon be rallied under the  
-ample folds: on that banner is inscribed Fa**  
-Dcties ; No Debt; Sspahation fhom Banks; Economy;  
-Retreschment, and a Strict adherenck to the consti­  
-tution- Victory in such a cause will be great and glorious  
-and if its principles be faithfully and firmly adhered to  
-It is achieved, much will it redound to the honor of those by  
-whom it will have been won; and long will it perpetuate the  
-iberfy and prosperity of the country.”—C. Calhoun.  
-We are requested to announce Col. Wil  
-] lA&#x27;i H. of Mecklenburg Counl_v, a candi-  
-.inie for Brigadier General of llie 11th Brigade,  
-rS vUth Carolina Miiliia, Gen’l. Means resigtjed.  
-  
-worse DOW Lbariat the last
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1845-01-31_1%2F0003.jp2/pct:4.804646,4.411625,26.161563,20.952835/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mecklenburg Jeffersonian._](https://newspapers.digitalnc.org/lccn/sn84020723/1845-02-07/ed-1/seq-3/)
-
-#### 1845-02-07 &middot; [Charlotte, N.C.](http://dbpedia.org/resource/Charlotte%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-. C. Milili‘&#x27;i«  
-  
-FRIDAY MORNING, FEBRUART 7, 1845.  
-~ ‘ ereat popularparty is already rallied alm99t en masse  
-nroinid the banner which is leading the party to its final tn-  
-iiii&#x27;d’i The few that still lag will soon be ralli^ under the  
-ample folds : on that banner is inscribed Free 5  
-Duties: No Dedt; Sepabation from iJanks , EcoNOMy,  
-Retrenchment, and a Strict adhebencb to the const ^  
-•iuTiojr. Victory in such a cause will be _f,„l  
-and if Its principles be faithfully and  
-u IS achieved, much wili it redound to  
-whom It will have been won; and long will it  
-iberty and ,-&gt;rosperity ot the country. -John C. Caltioun.  
-We are requested to announce Col Wil  
-1 lAM [I Nl.&#x27;.l, of Mecklenburg County, a candi-  
-laie for Brigadier Guieral of the 11th En&gt;^adt;.  
-Xor&#x27;.h Carolina iNlilitia, rice Gen’1. Means rtsigtied  
-Wc are a-nhori/.ed to announce Maj. Robt.  
-J, Young, of Cabarrus, a candidnte for Brigadier  
-~;cncral ol the 11th Brigade North Carolina Militia  
-!i p! ;cc of Ge:i. Mcati?, rcsignea.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ2_ver01%2Fdata%2FChMJ_1845-02-07_1%2F0003.jp2/pct:4.177132,14.229777,87.904825,13.914621/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -1886,18 +1273,7 @@ J, Young, of Cabarrus, a candidnte for Brigadier
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y that Mr. Slidell left Vera Cruz &quot;  
-; 1 rejoicing too soon.  
-We understand )hat when tbe news arrived  
-at a certain town in this State, (Te.) which for  
-its own credit shall be name less that tbe  
-House of Representatives had pissed the. Tip­  
-pling Taw, tbe good citizens thereof were so re­  
-raiced. that thev collected all tbe tar barrels in  
   
-the neighborhood and made a glorious bonfire.  
-  
-round which they &quot;fiddiea, uancea ana eung.  
 IVhen tbey learn the vote of tbe Senate, it  
 will throw a damper upon, their enjoyment, and  
 the prospect of &quot;retiring sublime to bed,&quot; ae  
@@ -1943,9 +1319,10 @@ An extraordinary surgical operation &#x27;was
   
 lately performed in Missouri which was the  
   
-complete removal of the patient to another
+complete removal of the patient to another  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn84020048:0029587823A:1846012401:0304/pct:54.035596,19.681964,34.023179,75.659088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn84020048:0029587823A:1846012401:0304/pct:54.056291,19.681964,34.002483,75.659088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1334,7 @@ complete removal of the patient to another
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a‘ter generation,’ says an  
+a‘ter generation,’ says an  
   
 ers whom we have forgotten—not a word &#x27; :  
 eloquent writer, ‘have felt as we feel, and:  
@@ -2000,7 +1377,7 @@ learn whether she was, at present, in this;&quot;@&quot;e8 will soon be forgotte
 City, continue to move on, and laughier and  
   
 BE song will be heard in the place in whieh  
-Penetration.— You don’t love m
+Penetration.— You don’t love me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_huntress_1846-01-24_9_50%2Fsim_huntress_1846-01-24_9_50_jp2.zip%2Fsim_huntress_1846-01-24_9_50_jp2%2Fsim_huntress_1846-01-24_9_50_0001.jp2/pct:54.560740,65.833566,42.286675,23.792237/600,/0/default.jpg"/>
 </td>
@@ -2014,7 +1391,7 @@ Penetration.— You don’t love m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. &#x27;  
+&#x27;  
 Eloquent Extract, f  
 &#x27;Generation after generation,&quot; says on elo­  
 quent writer, &quot;have felt as we feel, and their fol­  
@@ -2040,7 +1417,7 @@ in tho place in which wt died, and tho eye that
 mourned fortts will bo dried, and glisten again  
 with joy: and even our children will cease to  
 think of us, and will not remember to lisp our  
-names
+names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1846031101:0434/pct:19.059795,73.196315,14.909520,15.279943/!600,600/0/default.jpg"/>
 </td>
@@ -2054,7 +1431,7 @@ names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to avail themselves of the bene­  
+to avail themselves of the bene­  
 fits of the more convenient location of the Old Colony  
 Road&#x27;s Depot.  
 Dr. Beard’s Lectures on the Govern­  
@@ -2082,7 +1459,7 @@ and the eye that mounted for us will be dried, and glisten
 again with joy; and even our children will cease to  
 think of us, and will not remember to lisp our names.  
 Then shall we have become, in the touching language of  
-the Psalmist, ‘ forgotten and clean out of mmd.’
+the Psalmist, ‘ forgotten and clean out of mmd.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021203:00517172091:1846031301:0200/pct:10.927543,25.172315,19.636535,18.739230/!600,600/0/default.jpg"/>
 </td>
@@ -2096,23 +1473,7 @@ the Psalmist, ‘ forgotten and clean out of mmd.’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rning she&#x27;d goesip with William, and [lien  
-.The noon would be opent with young Mail,  
-Tho evening with TO= go emonget all the men,  
-the never could tell which to maul.  
-Heigh ho! I&#x27;m of aid  
-Too man; lovers, will pu=de a maid.  
-  
-Norr,Vrilliam grew jealous, and no went away;  
-Harry go: tired of wooing;  
-And Torn having teared her to fix nn the day,  
-Received but a frown for no doing;  
-So &#x27;mongst all her lovers, quite left in the lurch  
-She pined every night on her pillow,  
-And meeting one doy a pair going to church,  
-Turned away, and under a w!l:cw,  
-Heigh ho! I&#x27;m afraid  
-Too many lovers will puzzle a maid.  
+maid.  
   
 Eloquent Extract  
   
@@ -2138,9 +1499,10 @@ and laughter and song will be heard in the place in
 which we died ; and the eye that Mourned for us  
 I will be dried, and glisten again with joy ; and even  
 I our children will cease to think of us, end will not  
-remember to lisp our names.&quot;
+remember to lisp our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002312%2F1846032501%2F0037.jp2/pct:81.670910,35.715922,15.089100,24.570447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002312%2F1846032501%2F0037.jp2/pct:81.709481,44.324170,15.050528,15.962199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2152,7 +1514,7 @@ remember to lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Generation  
+Generation  
 after generation&quot; says an eloquent modern  
 writer &quot; have felt as we feeL and their fel  
 lows were as active in life as- outs now. -  
@@ -2183,7 +1545,7 @@ children will ceae to think of us and will
 not remember to lisp our nsme. Thea shall  
 we have become in the touching language of j  
 the Psalmist &#x27;forgotton and clean out nf  
-min
+mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth80587/m1/1/pct:35.000000,39.486434,14.866667,22.577519/!600,600/0/default.jpg"/>
 </td>
@@ -2197,8 +1559,6 @@ min
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Eroguest Exrracr.—* Generation  
 after generation, ” says a fine writer,  
 “have felt as we feel now, and therr  
@@ -2232,7 +1592,8 @@ even our children will cease to think of
 us, and will not remember to lisp our  
 names. Then shall we have become, in  
 the touching language of the l’salmist.}  
-Cforgotten and clean out of mind.””&quot;
+Cforgotten and clean out of mind.””&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846040901:0024/pct:20.440795,41.650801,12.590032,18.747900/!600,600/0/default.jpg"/>
 </td>
@@ -2246,7 +1607,7 @@ Cforgotten and clean out of mind.””&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, &quot;have felt as wo feel, and their  
+&quot;have felt as wo feel, and their  
 fellows were as active as our own. They passed  
 •way like a vapor, while nature wore the same  
 aspect of beauty as when her Creator command­  
@@ -2268,7 +1629,8 @@ will be heard in the place in which we died; and
 the eye that mourned for us will be dried, and  
 glisten again with joy; and even our children will  
 cease to think of us, and will not remember to  
-lisp our names.&quot;
+lisp our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040901:0630/pct:7.322654,46.544893,15.212417,11.315560/!600,600/0/default.jpg"/>
 </td>
@@ -2282,7 +1644,6 @@ lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Eloqueht Extkact &#x27;Generation after  
 generation,, says an &quot;eloquent writer, have  
 felt as we feci, and their fellows were as ac­  
@@ -2292,7 +1653,8 @@ same aspect of beatity &#x27;as when her Creator
 commanded her to be. The heavens shall  
 be as bright over our graves as they are now  
   
-around our paths. -The world Will have
+around our paths. -The world Will have  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877571:1846041001:0210/pct:37.762933,32.757881,13.971006,6.197727/!600,600/0/default.jpg"/>
 </td>
@@ -2306,10 +1668,7 @@ around our paths. -The world Will have
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-IVE.  
-Jamfh Iv. Poi.k. of Tennessee, President.  
-  
-George M. Dallas, of Pennsylvania, vice president, j the same attraction for our offspring yet un­  
+j the same attraction for our offspring yet un­  
 James Buchanan, of Pennsylvania, scct&#x27;v of state, na . . a - - , M anAhnt  
   
 W.L. Marcv,ofJNew York, secretary ot the navy. &quot;.&quot; J &quot;&quot;&quot; v&#x27;&quot;r- v  
@@ -2343,9 +1702,9 @@ our children will cease : to thiak of us, end
 will net remember to lisp our naine  
 Beatifcx. Sentiment. When I look  
   
-upon the tombs of the grea
+upon the tombs of the great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877571:1846041001:0210/pct:23.393974,38.312245,28.524730,15.119022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877571:1846041001:0210/pct:23.393974,39.170062,28.524730,14.261205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,7 +1726,6 @@ upon the tombs of the grea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ehiquenl Exfruc&#x27;. &quot;Generation after genera­  
 lion.&quot; say :mi eloquent write r,&quot;lia?e lellas we feel,  
 and ilieir fellows were as active as tiuruwu. They  
@@ -2391,7 +1749,7 @@ heard in the place in which we died; and the eye
 that mourned for us will be dried, and glisten  
 again with joy; and even our children will cease  
 to think of us, and wil not remember to lisp our  
-names.&quot;
+names.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmChron1n_ver01%2Fdata%2F1846041501%2F0193.jp2/pct:64.479554,75.536881,15.055762,13.445378/!600,600/0/default.jpg"/>
 </td>
@@ -2405,14 +1763,14 @@ names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Generation after generation,” says an eloquent  
+Generation after generation,” says an eloquent  
 writer, “ have felt as we feel, and their fellows were as  
 active as our own. They passed away like a vapor,  
 while nature wore the same aspect of beauty as when  
 her Creator commanded her to be. The heavens shall  
 I be as bright over our graves as they are now around  
   
-o
+of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1846-04-23_17_17%2Fsim_evangelist-and-religious-review_1846-04-23_17_17_jp2.zip%2Fsim_evangelist-and-religious-review_1846-04-23_17_17_jp2%2Fsim_evangelist-and-religious-review_1846-04-23_17_17_0003.jp2/pct:5.617978,62.443957,25.111053,5.494610/600,/0/default.jpg"/>
 </td>
@@ -2426,8 +1784,6 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 ELOoUENT ENTRACT.--Generation af­  
 ter generation,&quot; says an eloquent writer,  
 &quot;have felt as we feel, and their fellows  
@@ -2454,7 +1810,8 @@ song will be heard in the placesin whichwe
 died, and the eyes that mourned for uswill  
 be dried, and glisten again with joy;and  
 even our children will cease to think of us,  
-and not remember to lisp our names.&quot;
+and not remember to lisp our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1846042501:0487/pct:81.226296,28.847032,12.420986,13.949772/!600,600/0/default.jpg"/>
 </td>
@@ -2468,7 +1825,7 @@ and not remember to lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--&quot;Treneration  
+&quot;Treneration  
 fter generation,&quot; says an eloquent writer,  
 have felt as we feel, and their fellows were  
 sactive as ourown. They passed away like  
@@ -2493,7 +1850,7 @@ eard in the place in which we died; and the
 ve that  mourned for us will be dried, and  
 listen again with joy; and even our children  
 ease to think of us, and will not remember  
-o lisp our names.
+o lisp our names.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846051101:0374/pct:45.865855,37.391304,12.519293,12.971014/!600,600/0/default.jpg"/>
 </td>
@@ -2507,8 +1864,6 @@ o lisp our names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Ei.oacENT Extract. — &quot;Generation af-  
 ter generation,&quot; says an eloquent writer,  
 &quot;have felt as we feel, and tbcir froliuffs  
@@ -2535,7 +1890,8 @@ will be heard in llie place in which wc died;
 and the eye that mourned for us will be &#x27;  
 dried, and glisten again with joy ; and even  
 our children will cease to think of us, and  
-will not remember to lisp our names.&quot;
+will not remember to lisp our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7wh707xj1t%2Fxt7wh707xj1t_jp2.zip%2Fxt7wh707xj1t_jp2%2Fxt7wh707xj1t_0003.jp2/pct:4.206139,74.393764,12.694202,14.289838/,600/0/default.jpg"/>
 </td>
@@ -2549,7 +1905,6 @@ will not remember to lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Exvoqvent Exrracr.—‘* Generation af-—  
 ter generation” says an eloquent writer  
 ‘have felt as we feel, and their fellows  
@@ -2588,7 +1943,7 @@ be spoken of, but the things. of life w wish to ther, and are not able ‘ 5.
 creep in, and our names will soon be for- her wl the sin Har . &quot;and. Cambie sees  
 Bn aye coil ve herd ia. tus | tnceear a tt ehts eaetras ml  
 and laughter and song will be hear ‘mformed by mail or otherwise,  
-pine &gt; which we did a
+pine &gt; which we did an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1846-05-15_9_10%2Fsim_christian-secretary_1846-05-15_9_10_jp2.zip%2Fsim_christian-secretary_1846-05-15_9_10_jp2%2Fsim_christian-secretary_1846-05-15_9_10_0003.jp2/pct:64.745273,74.682368,26.050420,14.957133/600,/0/default.jpg"/>
 </td>
@@ -2602,7 +1957,6 @@ pine &gt; which we did a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-)  
 i  
   
   
@@ -2631,7 +1985,8 @@ Days will continue to move on, and laugh
 ter and song will be heard in the place tn which we died; and  
 the eye that mourned for us will be dried, and glisten again  
 with joy; and even our children will cease to think of us, and  
-will not remember to lisp our names.”
+will not remember to lisp our names.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6%2Fsim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6_jp2.zip%2Fsim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6_jp2%2Fsim_casket-devoted-to-literature-science-the-arts-news-etc_1846-05-20_1_6_0001.jp2/pct:67.764523,70.193036,27.878631,18.281605/600,/0/default.jpg"/>
 </td>
@@ -2645,7 +2000,6 @@ will not remember to lisp our names.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 F.LOQli FNT KXTKACT.  
 “Generation after generation,” says an eloquent  
 &quot; nl(&#x27;r&gt; “have felt as we feel, and their fellows were  
@@ -2669,7 +2023,7 @@ song will lie heard in the place in which we died ;
 ! and the eye that mourned for us will be dried, and  
 glisten again with joy ; and even onr children will  
 j cease to think of us, and will not remember to lisp  
-j otir names
+j otir names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846061801:0080/pct:21.078215,69.797213,14.950655,12.575054/!600,600/0/default.jpg"/>
 </td>
@@ -2683,7 +2037,7 @@ j otir names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 00 abe has now for our children. Yet a little while and all of thi
+00 abe has now for our children. Yet a little while and all of this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1846-07-17_9_19%2Fsim_christian-secretary_1846-07-17_9_19_jp2.zip%2Fsim_christian-secretary_1846-07-17_9_19_jp2%2Fsim_christian-secretary_1846-07-17_9_19_0000.jp2/pct:52.074580,86.922269,20.299370,1.029412/600,/0/default.jpg"/>
 </td>
@@ -2697,9 +2051,9 @@ j otir names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- we be at rest. Our funeral will wind on its way, and our | source and centre. “I am ing into eternity ; :  
+we be at rest. Our funeral will wind on its way, and our | source and centre. “I am ing into eternity ; :  
 ee eee. Sylvia Katty, per Rev. aly concert, per Rev.Mr. Howard, ==! Sn egigg] «&gt;it wa duke nol note, &quot;30 48| friends will return, and we shall be Jeft to darkness. And it) Conspicuous and foremost among the pv adndy wre Mente Bow Ail 4  
-~~ er by Gowriemen. oie Tolland he » Bt Coe ee “ aa] rite vst 10 00 «“ Balance to new aect..19 23) may be for a short time that we shall be spoken of, but the lights of our moral firmament i
+~~ er by Gowriemen. oie Tolland he » Bt Coe ee “ aa] rite vst 10 00 «“ Balance to new aect..19 23) may be for a short time that we shall be spoken of, but the lights of our moral firmament is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1846-07-17_9_19%2Fsim_christian-secretary_1846-07-17_9_19_jp2.zip%2Fsim_christian-secretary_1846-07-17_9_19_jp2%2Fsim_christian-secretary_1846-07-17_9_19_0000.jp2/pct:0.091912,87.668067,98.398109,3.592437/600,/0/default.jpg"/>
 </td>
@@ -2713,7 +2067,7 @@ ee eee. Sylvia Katty, per Rev. aly concert, per Rev.Mr. Howard, ==! Sn egigg] «
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- our own. They passed  
+our own. They passed  
 away like a vapor, while Nature wore the  
 same aspect of beauty as when the Creator  
 commanded her to be. The heavens shall be  
@@ -2733,7 +2087,8 @@ will be heard in the place in which we died ;
 and the eye that mourned for us will be dried,  
 and glisten again with joy; and even our  
 children will cease to think of us, and will  
-not remember to lisp our names.”
+not remember to lisp our names.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-parlor-magazine_1846-12%2Fsim_christian-parlor-magazine_1846-12_jp2.zip%2Fsim_christian-parlor-magazine_1846-12_jp2%2Fsim_christian-parlor-magazine_1846-12_0025.jp2/pct:17.920712,71.948118,71.116505,16.480163/600,/0/default.jpg"/>
 </td>
@@ -2747,7 +2102,7 @@ not remember to lisp our names.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.—&#x27;Generation after  
+—&#x27;Generation after  
 generation,&#x27; says an eloquent writer &#x27;have  
 fell as we feel, and their fellows were as  
 active in life as we now are. They pass­  
@@ -2774,7 +2129,8 @@ in the place in which we died and the
 eye that mourned for us will be dried and  
 glisten again with joy and even our chil­  
 dren will cease to ihink of us and will not  
-remember to lisp our names.&#x27;
+remember to lisp our names.&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668855:1846122401:0576/pct:55.555556,60.544784,13.444281,15.629832/!600,600/0/default.jpg"/>
 </td>
@@ -2788,8 +2144,6 @@ remember to lisp our names.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Generation after generation,&quot; says an  
 eloquent modern writer &quot;have felt as we  
 feel, and their fellows were as active in  
@@ -2822,7 +2176,7 @@ our children will cease to think of us, and
 will not remember to lisp our name. Then  
 shall we have become, in the touching  
 language of the Psalmist, &quot;forgotten and  
-clean out of mind!&quot;
+clean out of mind!&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1847012301:0021/pct:82.011070,15.732950,12.269373,16.917626/!600,600/0/default.jpg"/>
 </td>
@@ -2836,7 +2190,7 @@ clean out of mind!&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- given by &quot;have kit as we feel, and their fellows  
+given by &quot;have kit as we feel, and their fellows  
 AI. EX ANDER C011174N, of S. were as active as our own, .They passed  
 Jfeb. 12. 1 0 away like a vapor, while nature Wore the  
 ADMINISTRATOR&#x27;S S i ft}, , OF  
@@ -2845,7 +2199,7 @@ tor commanded her t . o be, The heavens
 • _Personal Propert y.  
 .pliall be as bright over our graves as they  
   
-~.-..--, now are aromid our paths, &#x27;rile worl
+~.-..--, now are aromid our paths, &#x27;rile world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002409%2F1847021901%2F0022.jp2/pct:2.329129,55.154268,29.434500,4.307238/!600,600/0/default.jpg"/>
 </td>
@@ -2859,7 +2213,7 @@ tor commanded her t . o be, The heavens
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, ourselves, and that she has now for onr  
+ourselves, and that she has now for onr  
 at the residence of Peter Martin. (Rock children. Yet a little while and all of this  
 Creek Farm,) in Strube!) township, Ad- will have happened. The throbbing heart  
 ems county, on &#x27; will bo stilled, and we shall he at rest,—  
@@ -2873,7 +2227,8 @@ And it may be foi a short, time that
 , r 0... F 1 1&quot;% 11 /. 4 11 (-) F we shall be spoken of, but the things of  
 &#x27;O/1  
 Yi! HOUSES,  
-life Ivill creep in, and our names will soon
+life Ivill creep in, and our names will soon  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002409%2F1847021901%2F0022.jp2/pct:2.257933,60.604095,29.403987,5.806661/!600,600/0/default.jpg"/>
 </td>
@@ -2887,7 +2242,7 @@ life Ivill creep in, and our names will soon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ient writer, &#x27;have feli as we feel,  
+ent writer, &#x27;have feli as we feel,  
 and their fellows were as active as our owr. They  
 passed away like ij vapor, while nature wore the  
 same aspect of beauty as when her Creator com  
@@ -2911,7 +2266,7 @@ our children will erase to think of us, und will not
 remember to lisp our name s.  
 Fruits of Religious Jlcadiii  
 Ve lately met with a farmer reading the May num­  
-ber of Ih
+ber of Ihe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal7n_ver01%2Fdata%2F1847061901%2F0292.jp2/pct:42.594822,80.867014,17.730283,17.459800/!600,600/0/default.jpg"/>
 </td>
@@ -2935,7 +2290,7 @@ ber of Ih
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The  
+The  
 world will have thp same attraction for our off­  
 spring yet unborned, as she had once for our  
 selves, and that she has now lor our children.  
@@ -2951,7 +2306,7 @@ soon be forgotten. Days will continue to
 move on, and laughter and song will be in the  
 place in which we have died: and the eve that  
 moaned for us will b dried and glisten again  
-with joy; and even onr children will cease t
+with joy; and even onr children will cease to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848122001:0605/pct:60.269029,40.162673,16.945538,9.375687/!600,600/0/default.jpg"/>
 </td>
@@ -2965,7 +2320,7 @@ with joy; and even onr children will cease t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- aa native aa oar own.  
+aa native aa oar own.  
 Tawy seawes atta lake a veeer. while  
 nature wore tae aaane aepeex m seamy aa  
 whea bar Creator niaimssiifiid her Ie be.  
@@ -3000,7 +2355,7 @@ Cwaaanli lajy ware te Owst.
 Reflection will teach a man lhat he  
 should trust himself to some Superior Be.  
 Ing ; and reason unite with revelation to  
-
+t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn84022662%2F35025033872132%2F1848122801%2F0300.jp2/pct:52.894467,5.427252,29.969262,18.841416/!600,600/0/default.jpg"/>
 </td>
@@ -3014,7 +2369,7 @@ Ing ; and reason unite with revelation to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and their  
+and their  
 lives was active as our own. They  
 passed away like a vapor, while nature  
 wore the same aspect of beauty as  
@@ -3047,7 +2402,7 @@ n(j uur Dime, t hen
 shall we have become, in the touching  
 tonguago or the J&#x27;salmist, &quot;forgotten  
 no ciean gone out or mind,&quot;  
-T
+To
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849090601:0203/pct:4.691120,37.636105,13.088803,24.017674/!600,600/0/default.jpg"/>
 </td>
@@ -3061,8 +2416,6 @@ T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Th. h...  
   
 .... sn.ii dc as bright over our gravel ae they  
@@ -3087,7 +2440,8 @@ think of us, and will not remember to liao n...
   
 name. Then ehall we have become, in the  
 touching language of the Pealmieh, forgotten  
-and clean gone out of mind.&#x27;
+and clean gone out of mind.&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1849090801:0721/pct:79.443916,47.032732,15.731939,14.377485/!600,600/0/default.jpg"/>
 </td>
@@ -3101,7 +2455,6 @@ and clean gone out of mind.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 &quot;Generation after generation,&quot;  
 says an eloquent writer, &quot;have felt  
 as we Jeel, and ther leiiows were as  
@@ -3134,7 +2487,7 @@ and the eye that mourned lor us
 will be dried and glisten again with  
 joy; and even our children will cease  
 to think of us, and will not remem  
-ber to. lisp our names.&quot;
+ber to. lisp our names.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775502:1850092601:0062/pct:19.395897,15.585926,12.481003,19.947659/!600,600/0/default.jpg"/>
 </td>
@@ -3148,7 +2501,6 @@ ber to. lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ELOqUENT EETRACT.Generation  
 after generation, says an eloquent writer,  
 have felt as we feel, and their fellews  
@@ -3176,7 +2528,7 @@ we died; and the eye that mourned for
 us will be dried, and glisten again with  
 joy; and even our children will cease to  
 think of us, and will not remember to  
-lisp our name
+lisp our names
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854101701:0329/pct:81.088083,50.624386,13.138416,15.869230/!600,600/0/default.jpg"/>
 </td>
@@ -3190,7 +2542,6 @@ lisp our name
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Generation after generation, says an elo  
 quent writer, have felt as we feel, and their  
 fellows were as active in life as ours now.  
@@ -3222,7 +2573,7 @@ anu l.lve. Pass 011 &quot;,p- !ge 01 uie, una are
 j  
 heard 01 no more. Why f I hey uo not a  
 particle of good in the world, and none were  
-blessed by them, none could point to them a
+blessed by them, none could point to them as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026192:00280775770:1856030801:0867/pct:61.342043,8.204614,27.612827,28.365095/!600,600/0/default.jpg"/>
 </td>
@@ -3236,26 +2587,6 @@ blessed by them, none could point to them a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-itors pay  
-their debts as promptly as Mr. Rayner and  
-the aforesaid know nothing editors do, and  
-have as much dependent on the prosperity  
-of the South as they have. And further,  
-that tho democratic editors own moro negroes  
-than the above mentioned know nothing  
-editors own. They have commenced the  
-game of bragg let&#x27;s see how it will hold  
-out. Charlotte Democrat.  
-  
-Little Graves.  
-There&#x27; many an empty cradle,  
-There&#x27;s many a. vacant bed,  
-There&#x27;s many a lonely bosom.  
-Whose joy and ligbt is fled;  
-For thick in every grave vard  
-The little hiitocks lie .  
-And every hillock represents  
-An angel in the sky.  
 1  
 Eloquent Extract  
 Generation after generation, says art elo­  
@@ -3290,9 +2621,9 @@ ber to lisp our names; Then shall we have
 become in the touching language of the  
 Psalmist &#x27;forgotten and clean out of mind.&#x27;  
   
-P
+Pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshNMF1n_ver01%2Fdata%2F1856120401%2F0567.jp2/pct:50.165986,5.104650,30.643514,47.182498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshNMF1n_ver01%2Fdata%2F1856120401%2F0567.jp2/pct:65.947395,10.427124,14.862104,19.310541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3304,7 +2635,6 @@ P
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 . .^Eloquent Exflrgcf*  
 \tion after generation, saj&#x27;a an eloquent  
 writer, have felt as we feel, and their *?fefc#  
@@ -3340,7 +2670,7 @@ Then shall we hate become in the touching
 laugu gs of the Psalmist &quot; forgotten aud I  
 clean out of mind.&#x27;&#x27;  
 f  
-Nosr
+Nosrb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1856122501:0490/pct:80.588141,17.861588,19.347582,22.367438/!600,600/0/default.jpg"/>
 </td>
@@ -3354,22 +2684,7 @@ Nosr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l-  
-ford, selected soma very promising heads of  
-wheat, whieh, when eloaned, measured one-half  
-pint ot wheat.; About the last of October,  
-ISOo. be sowed it : and at harvest this vear he  
-gathered 63 half ointa 11 tha nnwliiAt rvf t!.  
-half pint sown, j This is the largest propor  
-tional yield from a given quantity sown that  
-nat coma under our knowledge. The gram is  
-a plump, heavy looking white wheat, not over  
-ly urge, tnoogn of good sue. Mr. Devsult  
-presented ni with a half plot of the wheat,  
-whieh we have sown, for the purpose of further  
-auapwuaa 10 our sou. &#x27;Ututudt­  
-rough Pai. (f Flag.  
-- a - - 1  
+1  
 Eloquent Extract.  
 &quot;Generation after generation.&quot; sirs an elo  
 quent writer, bave, felt as we feel, aod their  
@@ -3395,9 +2710,9 @@ iu ius piag ia waicu we aicu ; and tod eye
 that mourned for us will be dried, and frlisten  
 again with joy : and even our children will  
 cease to think pf us, and will not remember to  
-lisp our names
+lisp our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal12n_ver01%2Fdata%2F1857121701%2F0394.jp2/pct:36.378688,30.459016,15.487658,23.792350/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal12n_ver01%2Fdata%2F1857121701%2F0394.jp2/pct:36.468995,39.344262,15.397351,14.907104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3409,7 +2724,7 @@ lisp our names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dence.  
+ence.  
 An Eloquent Extract.  
 &quot; Generation after generation,&quot; says a  
 fine writer, hsve felt as we feel now, and  
@@ -3445,7 +2760,7 @@ the touching language of the Psalmist,
 Refined Tastes. The list of &quot;Con­  
 tingent Expenses&quot; of the National House  
 of Representatives, during the year 1857,  
-is 
+is s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1858043001:0493/pct:46.608232,18.008588,13.128811,26.435856/!600,600/0/default.jpg"/>
 </td>
@@ -3459,8 +2774,6 @@ is
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Generation after generation, says a  
 writer, have felt as we feel now, and their  
 were as active as our own. They passed  
@@ -3483,7 +2796,8 @@ arest. Our funeral will wind its way and the
   
 Heavy rains swelled ae will be sa anour fiend wi a  
   
-elled
+elled  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1858060801:0931/pct:32.182790,41.760229,38.210987,7.114924/!600,600/0/default.jpg"/>
 </td>
@@ -3497,7 +2811,7 @@ elled
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-legraph.  
+egraph.  
   
 An Eloquent Extract.  
   
@@ -3528,7 +2842,8 @@ again with joy and even our children will
 cease to think of us, and will not remember to  
 lisp our names. Then shall we have become,  
 in the teaching language of the PsaUuat,  
-yforgotton and clean gone out of mind.&quot;
+yforgotton and clean gone out of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1858061701:0104/pct:55.737467,79.307340,12.967256,17.708560/!600,600/0/default.jpg"/>
 </td>
@@ -3542,8 +2857,6 @@ yforgotton and clean gone out of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Au Eloquent Extract  
 &quot;Generation aftei generation,&quot; says  
 a fine writer, &quot; have felt as we feel now,  
@@ -3578,7 +2891,7 @@ lisp our names. Then shall we have
 become, in the touching language cf  
 the Psalmist, forgotten end out of  
   
-I
+In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_trumanhs_ver01%2Fdata%2Fsn85055100%2F000001890%2F1858062801%2F0101.jp2/pct:31.377642,53.484191,12.231279,18.530330/!600,600/0/default.jpg"/>
 </td>
@@ -3592,7 +2905,7 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-erest.  
+rest.  
   
 An Elegant Extract,  
   
@@ -3625,6 +2938,7 @@ remember to lisp our names. Then we
 shall have become. to the touching lan.  
 gunge of the Psalmist, &#x27;rot gotten and clean  
 gone out of mind.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002324%2F1858071401%2F0108.jp2/pct:69.558371,43.922119,12.647627,22.317722/!600,600/0/default.jpg"/>
@@ -3639,7 +2953,6 @@ gone out of mind.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 AN ELOQCENT EXTRACT.  
 &quot;Generation after generation,&quot; says a fine  
 writer, &quot;have felt as we feel now, and their  
@@ -3667,7 +2980,8 @@ and 2listen with joy; and even our children will
 cease to think of us,and will not remember to  
 lisp our names. Then shall we have become,  
 in the touching language ol the Psalmist, &quot;for­  
-gotten and out of mind.&quot;
+gotten and out of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1858071601:0671/pct:50.198381,60.301688,14.600857,16.066084/!600,600/0/default.jpg"/>
 </td>
@@ -3681,8 +2995,6 @@ gotten and out of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 AN ELOQUENT EXTRACT.  
 “ Generation after generation,” says a  
 fine Writer, “ have felt as we now feel,  
@@ -3709,7 +3021,8 @@ be heard in the room in which we died;
 and the eye that mourned for us will be  
 dried, and glisten again with joy; and  
 even our ohildren-will cease to think of us,  
-and Vill not remember to lisp our names.”
+and Vill not remember to lisp our names.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1858072301%2F0076.jp2/pct:47.586757,67.261035,14.240128,16.588717/!600,600/0/default.jpg"/>
 </td>
@@ -3723,7 +3036,7 @@ and Vill not remember to lisp our names.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-phia Ledger.  
+hia Ledger.  
 An Eloquent Extract.  
 &quot;Generation after generation,&quot; says a  
 fine writer 4&#x27;have felt as we feel now, and  
@@ -3756,7 +3069,7 @@ member to lisp our names. Then shall
 we have become, in the touching language  
 of the Psalmist. *forgotten and out of  
 mind/ &quot; ^  
-A Long
+A Long 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767754:1858072401:0487/pct:17.232525,36.586296,16.433666,21.947965/!600,600/0/default.jpg"/>
 </td>
@@ -3770,8 +3083,6 @@ A Long
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 An Eloquent Extract.  
 &quot; Generation after generation,&quot; says a  
 Ane writer, &quot; have feit as we now fee!,  
@@ -3799,7 +3110,7 @@ the^eye that monmed for us wiii be dried,
 and giisten again with joy ; and even onr  
 children wiii cease to think of us, and  
 wiii not remember to lisp oar names.  
-Wive
+Wives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1858081201:0255/pct:66.708881,27.716516,11.793573,15.338868/!600,600/0/default.jpg"/>
 </td>
@@ -3813,19 +3124,7 @@ Wive
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ng far above the 1) ad  
-of ths wearer. The head-gear for the street  
-was a sort of cap, which was placed upou the  
-top of the head-dress, with a curtain or cape,  
-at the sides and back, which hung down nearly  
-to the shoulders. The ladies of ttie present  
-time differ from those sixty years ago In several  
-respect*. The waist of their dresses are not as  
-near the arm pits as of old, and instead of wear­  
-ing the capes upon their shoulders, they wear  
-their bonnets there; but crinoline is spreading  
-fast, skirts are growing longer, and heels are  
-gradually working their way up to the last  
+their way up to the last  
 century pilch.  
   
 An Eloquent Extract.—“Generation after  
@@ -3857,9 +3156,9 @@ Then shall wc have become, in the touching
 language of the psalmist, ‘forgotten and gone  
 out of mind.’ ”  
 Supreme Judge.—The Mariposa Democrat, a  
-Lecompton paper, in speaking of th
+Lecompton paper, in speaking of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1858081801:0437/pct:49.490874,59.986441,14.716619,22.630508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1858081801:0437/pct:49.490874,65.911864,14.716619,16.705085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3871,7 +3170,7 @@ Lecompton paper, in speaking of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- his labor.  
+his labor.  
 An Eloquent Extract.  
 Generation afier genera&#x27;ion saya a  
 fine writer, &#x27;have felt as we feel now, and  
@@ -3897,7 +3196,7 @@ joy: and even our children will cease to
 think of us, and will not lisp our names.  
 Treatment of Witnesses.  
 The E.iglish lords of the Bench de­  
-cided abuut a mont
+cided abuut a month
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1858081901:0365/pct:56.990632,66.975537,12.330211,15.835804/!600,600/0/default.jpg"/>
 </td>
@@ -3911,7 +3210,7 @@ cided abuut a mont
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ate trial.  
+te trial.  
 1 An Eloquent Extract.—“ Generation  
 after generation,” says a fine writer, “have  
 felt as we feel now, and their Kves were as  
@@ -3940,7 +3239,7 @@ and glisten with joy; and eVen our children,
 will cease to think of us* and will not re­  
 member to lisp our names. Then we shall  
 become, in the touching language of the  
-Psalmist, ‘forgotten and out of mind
+Psalmist, ‘forgotten and out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624293:1858081901:0284/pct:78.417052,63.608827,15.069310,17.968412/!600,600/0/default.jpg"/>
 </td>
@@ -3954,7 +3253,7 @@ Psalmist, ‘forgotten and out of mind
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ba published.  
+ba published.  
   
 An Eloquent Extract. —“ Generation  
 after generation,” says a fine writer, “have  
@@ -3980,7 +3279,8 @@ will be heard in the room in which we died ;
 and the eyes mourned for us will be  
 dried, and glisten again with joy ; and even  
 our children will cease to think of us, and  
-will not remember to lisp our names.’’
+will not remember to lisp our names.’’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001704%2F1858090201%2F0137.jp2/pct:49.874458,76.198906,15.179183,15.967976/!600,600/0/default.jpg"/>
 </td>
@@ -3994,7 +3294,6 @@ will not remember to lisp our names.’’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An Eloquent Extract.  
 Says a very fine writer:  
 &quot;Generation after generation have felt  
@@ -4028,7 +3327,7 @@ will not remember to lisp our names.
 Thon shall we have become, in the touch,  
 ing language of the Psalmist, &quot;forgotten  
 and clean gone out of mind.&quot;  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_k_ver01:data:sn82006863:00212472839:1858090401:0002/pct:47.725706,50.098958,10.940731,16.308220/!600,600/0/default.jpg"/>
 </td>
@@ -4042,7 +3341,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-this folly.  
+his folly.  
   
 An Elrgmit Fx tract.  
   
@@ -4073,7 +3372,8 @@ have become in the touching language of the
 Psalmist, “ forgotten and clean gone out of  
 mind.”  
   
-A Living Martyr.
+A Living Martyr.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:0038334718A:1858091801:0392/pct:17.259468,62.043870,10.734391,13.735137/!600,600/0/default.jpg"/>
 </td>
@@ -4087,8 +3387,6 @@ A Living Martyr.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 an  
   
 ELEGANT ExTRACT.  
@@ -4137,7 +3435,7 @@ u
   
 e aae a teo o o e a  
 marie er an  ance a te e e e o o  
-be left behind in silence an
+be left behind in silence and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858093001:0415/pct:65.099976,36.479843,30.454011,36.735497/!600,600/0/default.jpg"/>
 </td>
@@ -4151,7 +3449,7 @@ be left behind in silence an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e  
+e  
 be left behind in silence and darkness  
   
 line.  
@@ -4171,7 +3469,7 @@ i oe eeon a i eie e e on e oin a
   
 dence in iia  a in ee o e io oe an  
   
-mont of June and the weter waen gone out of mi
+mont of June and the weter waen gone out of min
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1858093001:0415/pct:65.151729,67.354966,30.675135,7.905605/!600,600/0/default.jpg"/>
 </td>
@@ -4185,8 +3483,6 @@ mont of June and the weter waen gone out of mi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 An Eloquent Extract-  
 &#x27;Generation after generation,&#x27; says a fine  
 writer, &#x27;have felt as wo now feel, and  
@@ -4216,7 +3512,7 @@ and the eye that mourned for us will be
 dried, and glisten again with joy ; and  
 even our children will cerse to think of  
 us, and will tot remember to lisp our  
-names
+names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen1n_ver01%2Fdata%2F1858101601%2F0548.jp2/pct:14.857583,5.705915,5.658199,6.821987/!600,600/0/default.jpg"/>
 </td>
@@ -4230,7 +3526,7 @@ names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-oan of Arc saved France ; and  
+an of Arc saved France ; and  
 Petrarch was to appear on the horizon soon after  
 Dante and continue the; hallowed ideal with hi.  
 beloved and respected Laura. -Life f Dan..  
@@ -4258,7 +3554,8 @@ will be dried, and . glisten again with
 and  
 &amp;U.4.  
 even our children will cease to think  
-will not remember to lisp ?ur names
+will not remember to lisp ?ur names  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg2n_ver01%2Fdata%2F1858102301%2F0169.jp2/pct:73.764670,83.136095,18.483632,14.359679/!600,600/0/default.jpg"/>
 </td>
@@ -4272,7 +3569,7 @@ will not remember to lisp ?ur names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- are to day far beyond the influence of  
+are to day far beyond the influence of  
   
 sin and iniquity, safely housed in those man­  
 sions which the eternal Son of God procured  
@@ -4321,7 +3618,8 @@ and even our children will cease to think
   
 will not remembor to lisp our  
   
-names.
+names.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1858111701:0685/pct:42.380224,59.526112,12.767584,18.491296/!600,600/0/default.jpg"/>
 </td>
@@ -4335,7 +3633,6 @@ names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 . &#x27;I AN ELOQUENT EXTRA cy. , ;  
 &#x27;Generation after generation; says a fine  
 writer, &#x27;have felt as we now feel, and their  
@@ -4361,7 +3658,7 @@ died; and the eye that mourned for us wl&#x27;l
 be dried, and glisten again with joy j &quot;and  
 even our children will cvase to think of. usy  
 and will not remember to lisp oar names. t i  
-fiajf Women govern us; let us try t
+fiajf Women govern us; let us try to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmELou1n_ver01%2Fdata%2F1858112701%2F0236.jp2/pct:70.598389,73.460076,16.168009,18.136882/!600,600/0/default.jpg"/>
 </td>
@@ -4375,8 +3672,6 @@ fiajf Women govern us; let us try t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 AN EtOOTENT ExIRACr. &quot;Generation af­  
 ter generation,&quot; says a fine writer, &quot;have  
 felt as we now feel,&quot; and their lives were  
@@ -4403,7 +3698,8 @@ will be heard in the room in which we
 died; and the eye that mourned for us  
 will be dried, and glisten again with joy;  
 and even our children will cease to think  
-ofus and not remember to liap our names
+ofus and not remember to liap our names  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1858120301:0653/pct:41.292517,83.316815,13.225624,14.242649/!600,600/0/default.jpg"/>
 </td>
@@ -4417,7 +3713,6 @@ ofus and not remember to liap our names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An ElOgUENT EelraCT.-&quot;Generation  
 after generation, says a fine writer,  
 have felt as we now feel, and their  
@@ -4449,7 +3744,7 @@ died, and the eye that mourhed for us
 will be dried, and glisten again with  
 joy; and even our children will cease  
 oeoee eeee ee eee  
-to think of us, and w
+to think of us, and wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1858120901:0597/pct:41.399015,44.525547,12.669951,15.912409/!600,600/0/default.jpg"/>
 </td>
@@ -4463,23 +3758,6 @@ to think of us, and w
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-and the lawyer’s fees; the husband took  
-his runaway wife upon his arm, and his  
-children by the baud, and left the court­  
-room so overjoyed with his recovered  
-treasure that be actually kissed the  
-bands of a friend who had been mainly  
-instrnmei.tal in bringing about a con­  
-sumatiou of bis happiness under such  
-peculiar circumstances.  
-There is sufficient romance in this  
-“ plain, unvarnished tale” to form the  
-basis of a novel. A man who would fol­  
-low a runawav wife from Italy, and then  
-beg of her on bis knees to accept his prof­  
-fered forgiveness, cannot bo a bad hus­  
-band, and deserves a better wife.—Cin.  
 Cazctte.  
   
 An Eloquent Extract.—“ Gener­  
@@ -4512,9 +3790,9 @@ and even our children will cease to
 think of us, and will remember to lisp  
 our names no more.  
   
-11*&quot; A correspondent of the San Fr
+11*&quot; A correspondent of the San Fra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1858121001:0077/pct:70.582894,58.364886,12.692936,33.193101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1858121001:0077/pct:70.582894,69.359136,12.674778,22.198850/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4526,7 +3804,7 @@ our names no more.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the collection now in use in the  
+the collection now in use in the  
 Protestant Episcopal Churrh. V. Y. Ob&#x27;  
 server  
 Ax Eloquent Extract. &#x27;Generation after  
@@ -4554,7 +3832,7 @@ and glistened again with joy ; and even our
 own children will cease to think of us, and  
 will not remember or lisp our names.  
 Shaking IlAxns. The mere offer of the  
-hand is the readiest si
+hand is the readiest sig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667309:1858121801:0147/pct:79.159734,53.337945,14.586800,17.018333/!600,600/0/default.jpg"/>
 </td>
@@ -4568,34 +3846,6 @@ hand is the readiest si
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-*  
-NEARER HOME. &#x27;  
-Ore sweetly solemn thought  
-Conies i&lt;? u?e o&#x27;er ?n I o&#x27;er ;  
-I&#x27;m nearer home to-day  
-Than I ever was before.  
-Neaier my Father&#x27;s house.  
-Where many mansions be :  
-Nearer the great white throne,  
-Nearer the jasper sea.  
-Nearer the bound of life  
-When, we lay our burdens down,  
-Nearer leaving the cross,  
-Nearer gaming the crown.  
-But lying darklv between.  
-Winding down through the night,  
-Lies the dim and unknown stream  
-That leads at last to light.  
-Father, pcrfert my trosf.  
-Strengthen the might of inv faith.  
-Lei me feel as I would whe-ii I stand.  
-On the rock of the shore of death.  
-Fed as I would when my feet  
-Are slipping o&#x27;er the brink.  
-For it may be I&#x27;m neai er home  
-Nearer now than I thinks  
-  
-ssrjcsjuffisim  
 An Eloquent Extract.  
 ??Generation alter generation,&#x27;&#x27; say* ?  
 writer, &quot;have felt a? we now feel,&quot; and  
@@ -4624,9 +3874,9 @@ we died, and the e\e that mourned for us
 w ill he dried, and animated with joy, and  
 o&lt; r children will cease to think ot us, and  
 will remember to Ii*p our names no more.  
-,
+, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767766:1859010101:0007/pct:1.206657,33.349026,16.269071,39.855004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767766:1859010101:0007/pct:1.206657,55.117221,16.269071,18.086809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4638,8 +3888,6 @@ will remember to Ii*p our names no more.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 AN ELOQLTENT EXTRACT.-&quot; Generation af­  
 ter generation,&quot; says a fine writer, &quot;have  
 felt as we now feel, and their lives were as  
@@ -4668,7 +3916,7 @@ us, and will remember to lisp our names n
 more.  
   
 The Investigator tells a good story of  
-the grea
+the great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001946%2F1859010501%2F0001.jp2/pct:49.117542,71.526788,14.621036,15.852095/!600,600/0/default.jpg"/>
 </td>
@@ -4682,7 +3930,6 @@ the grea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 As Eloquent Extract. Generaijo fW  
 generation, says a fine writer, &#x27;have felt SJs. we,  
 now feel, and tneir lives were as active as our own-&#x27;  
@@ -4704,7 +3951,8 @@ will continue to move on, and laughter and tofig
 will be beard&#x27; iflr tKA rmnt t rtnoK rL  
 . - . - &quot; ... i. v tuii;u g iiio  
 eye thattnorirned for nt will be dried and g!istn-  
-iii.Tnonrnea tor ns will be dried and glistm-
+iii.Tnonrnea tor ns will be dried and glistm-  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg3n_ver01%2Fdata%2F1859011201%2F0037.jp2/pct:71.541743,84.261527,17.748324,10.552657/!600,600/0/default.jpg"/>
 </td>
@@ -4718,7 +3966,6 @@ iii.Tnonrnea tor ns will be dried and glistm-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An ELOiirEM Kx:kact. &quot;Getifratiort  
 after jreneration,&quot; says a writer, &quot;h ive feit  
 as we now feci,&quot; antl their lives m-ere as ac  
@@ -4746,7 +3993,7 @@ died; aud the eye that mourned for as will
 be dried, ad animated with joy, and even  
 our children will cease to think of ns, and  
 will remember to lisp our names no more.  
-E3-&quot;Ye understand tntit tue life of Adar
+E3-&quot;Ye understand tntit tue life of Adara
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210412Foo05_ver01%2Fdata%2Fsn83025131%2F14063001521%2F1859012501%2F0455.jp2/pct:83.806818,75.388838,12.799874,14.690890/!600,600/0/default.jpg"/>
 </td>
@@ -4760,7 +4007,7 @@ E3-&quot;Ye understand tntit tue life of Adar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- world  
+world  
 have the attractions for our ofsprints rh  
 unborn that she had once for ourselves 2  
 that she now has for our children. Yet a little  
@@ -4784,7 +4031,7 @@ Then shall we have become,
 of the Psalmist, &quot;for-  
 in the touching lang.  
 gotten and clean gose out of mind  
- &quot;Taling one with the other,&quot; said th
+ &quot;Taling one with the other,&quot; said the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859012601:0086/pct:6.253529,84.982739,8.483907,7.215190/!600,600/0/default.jpg"/>
 </td>
@@ -4798,9 +4045,6 @@ gotten and clean gose out of mind
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 AN ELOQUENT EXTRACT.  
 Generation aftet generation, say  
 fine writer, &#x27; have felt as we now feeLnd  
@@ -4829,7 +4073,7 @@ joy ; and even our own children will cease
 to think of us, and will not remember or  
 lisp &#x27;our names.  
 Who that reads the above, will not feel  
-its force and truth and heave a sig
+its force and truth and heave a sigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPRal2n_ver01%2Fdata%2F1859020501%2F0038.jp2/pct:37.746440,7.894737,14.156627,18.078242/!600,600/0/default.jpg"/>
 </td>
@@ -4843,7 +4087,6 @@ its force and truth and heave a sig
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 t3T &#x27; Generation after generation,&#x27; says  
 a fine writer, &#x27;have felt a we now feel,  
 and their lives were ai active ae our own.  
@@ -4873,51 +4116,10 @@ our children will cease to think of us, and
 will not remember to lisp our names.  
 Then shall we have become in the lan­  
 guage of the Psalmist, &#x27; forgotten and out  
-of mind.&#x27; &#x27;
+of mind.&#x27; &#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1859020501%2F0815.jp2/pct:9.147982,18.432203,14.035874,16.454802/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Western Reserve chronicle._](https://www.loc.gov/resource/sn84028385/1859-02-09/ed-1/?sp=1)
-
-#### 1859-02-09 &middot; [Warren, Ohio](http://dbpedia.org/resource/Warren%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-NEArER HOME!  
-  
-One sweetly solemn thought  
-Comes to me o&#x27;er and o&#x27;er  
-I&#x27;m nearer home to-day  
-Than I&#x27;ve ever been before.  
-Nearer my father&#x27;s house,  
-Where many mansions be;  
-Nearer the great white throne,   
-earer the jasper sea.  
-Nearer the bound of life.  
-When we lay our burdens down,  
-Nearer leaving the cross,  
-Nearer gaining the crown.  
-But lying darkly between,  
-Winding down through the night,  
-Lies the dim and unknown stream  
-That leads at last to the light.  
-Father, perfect my trust,  
-Strengthen the might of my faith,  
-Let me feel as I would when I stand  
-On the rock of the shore of deafh.  
-Feel as I would when my feet  
-Are slipping o&#x27;er the brink,  
-For it may be I&#x27;m nerer e  
-Nearer than now I think.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1859020901:0342/pct:7.926065,52.988048,7.675439,12.254014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4929,7 +4131,6 @@ Nearer than now I think.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 O  
 AN ELOOUENT ExTRACT. &quot;Generation al­  
 ter generation,&quot; says a writer, have felt as we  
@@ -4969,7 +4170,7 @@ come, in the touching language of the I&#x27;sal­
 mist, &quot;forgolten and gone out of mind.  
 cl  
   
-CuRE FOR COuGH
+CuRE FOR COuGH 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064150:00295878630:1859021601:0202/pct:5.521936,63.135809,16.830560,22.622075/!600,600/0/default.jpg"/>
 </td>
@@ -4983,7 +4184,7 @@ CuRE FOR COuGH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-che.  
+he.  
   
 AN ELOOUENT ExTRACT.-&quot;Generation  
 after generation,&quot; says a fine writer, &quot;have  
@@ -5016,7 +4217,7 @@ become in the touching language of the
 Psalmist, &quot;forgotten and clean gone out of  
 mind.&quot;  
   
- Powe
+ Power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859022201:0523/pct:50.270219,24.057085,14.887918,17.883112/!600,600/0/default.jpg"/>
 </td>
@@ -5030,8 +4231,6 @@ mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 An Elegant Extract.^ — u Generation  
 after generation,” says a fine writer, “ have  
 felt as we feel now, and their lives were as  
@@ -5061,6 +4260,7 @@ will not remember to lisp our ntunes.-
 Then we shall have become, in the touch­  
 ing language of the Psalmist, &quot;forgotten  
 and clean gone out of mind.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001714%2F1859022401%2F0027.jp2/pct:62.424742,54.703791,12.259891,16.806872/!600,600/0/default.jpg"/>
@@ -5075,7 +4275,7 @@ and clean gone out of mind.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-od of the head.  
+d of the head.  
 An ElOqUEnT ExtRAOT. Generation af­  
 ter generation have felt as we do now,  
 and their lives were as acfive as our own.  
@@ -5097,7 +4297,7 @@ be dried and animated with joy, and even
 our children will cease to think of us, and  
 will remember to lisp our names no more.  
 Conlo in HorSes.- A corraspondent of  
-the Marme
+the Marmer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859030301:0936/pct:33.617716,73.665234,12.670176,13.756761/!600,600/0/default.jpg"/>
 </td>
@@ -5111,8 +4311,6 @@ the Marme
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ELEGANT ExTRACT.- Generation after  
 generation,-says a fine writer--have felt as  
 we feel now, and their lives were as active  
@@ -5140,6 +4338,7 @@ us, and will not remember to lisp our
 names. Then we shall become, in the  
 touching language of the Psalmist, &quot;For  
 gotten and clean gone out of mind.&quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859030401:0040/pct:44.088987,81.606519,12.042655,12.892899/!600,600/0/default.jpg"/>
@@ -5154,8 +4353,6 @@ gotten and clean gone out of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ilfgaut Extract.  
 Generation after generation ssys a fine  
 Writer have felt as we feel now, and their  
@@ -5192,7 +4389,8 @@ think of us, and will not remember to lisp
 durnamesj Then we shall become, la the  
   
 touching language of the Psalmist, &quot;Forgot  
-. ten and clean gone but of mind.&quot; .
+. ten and clean gone but of mind.&quot; .  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1859031001:0260/pct:4.581530,74.593308,12.770563,16.783494/!600,600/0/default.jpg"/>
 </td>
@@ -5206,7 +4404,6 @@ touching language of the Psalmist, &quot;Forgot
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Generation after generation, have felt  
 as we feci now, and their lives were as  
 active as our own. They passed away  
@@ -5234,7 +4431,7 @@ and even our children will cease to think
 of us, and will not remember to lisp our  
 names. Then we shall have become, in  
 m the touching language of tlie’Psalmist. 1  
-“forgotten and clean gone out of mind.”
+“forgotten and clean gone out of mind.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1859031601:0340/pct:45.277778,66.547812,12.097222,14.921664/!600,600/0/default.jpg"/>
 </td>
@@ -5248,7 +4445,7 @@ m the touching language of tlie’Psalmist. 1
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Circle.  
+Circle.  
   
 An Eloquent Extract.  
   
@@ -5273,7 +4470,7 @@ us will be dried and animated with joy,
 and even ourchildrcn will cease to think  
 ot us, a ii a will remember to lisp our  
 names no more.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1859031701:0437/pct:6.002052,43.324573,12.158003,14.678055/!600,600/0/default.jpg"/>
 </td>
@@ -5287,7 +4484,6 @@ names no more.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 An Klcjfint Estmct. &quot;Generation after  
 generation,&quot; says a fine writer, &quot;have felt &amp;  
 we feel now, and their lives were as active as  
@@ -5318,7 +4514,7 @@ gotten and clean gone cut cf mind.&#x27; &quot;
 An old lady was complaiuing a few days  
 since, in the maiket. of thi excessive high  
 price of provisions. &#x27; It is not the meat on­  
-ly that is s
+ly that is so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1859040601:0432/pct:74.488603,52.440116,14.099942,17.192747/!600,600/0/default.jpg"/>
 </td>
@@ -5332,7 +4528,7 @@ ly that is s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| An Eloquent Extract. “Generation  
+An Eloquent Extract. “Generation  
 after generation,” says a fine writer, “have  
 felt as we feel, and their lives were as ac­  
 tive as our own. They passed away like a  
@@ -5362,7 +4558,7 @@ will not remember to lisp our names.—
 Then shall we have become, in the touching  
 language of the Psalmist, ‘forgotten and  
 clean gone out of mind.’ ”  
-Apprentic
+Apprentice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1859040701:0049/pct:79.478827,19.087493,14.643174,18.507783/!600,600/0/default.jpg"/>
 </td>
@@ -5376,7 +4572,7 @@ Apprentic
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- uuioa aud re­  
+uuioa aud re­  
 form.An Eloquent ExTiurr. &quot;Oentfratmri  
 after generation,&quot; says a fine writer, &quot;have  
 felt as we fell, and their lives were activo as  
@@ -5405,7 +4601,7 @@ beard in tho roo In which we died; and tho
 eye that mourned for us will be dried and  
 glisten again; with joy; anl oven our chil  
 dren willcea-to to think of us, aud will not  
-remember to lii-p our namos. T
+remember to lii-p our namos. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1859040801:0474/pct:80.974843,74.776183,14.378057,17.351144/!600,600/0/default.jpg"/>
 </td>
@@ -5419,8 +4615,6 @@ remember to lii-p our namos. T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
-  
 AN Eroquent ExtracT.—*¢‘Generation af­  
 ter generation,” says a fine writer, ‘‘have  
 felt as we now feel, and their lives were as  
@@ -5430,7 +4624,21 @@ eauty as when her Creator commanded her
 to be. . T&#x27;he hieavensshall be as bright over  
 our graves as they are now around our  
 paths. The world will have the same attrac­  
-tion for our offspring yet unborn, that she  
+tion for our offspring yet unborn, 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:00517015441:1859040901:0263/pct:49.267271,72.793203,14.445220,5.605056/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Dollar weekly mirror._](https://www.loc.gov/resource/sn84023818/1859-04-09/ed-1/?sp=1)
+
+#### 1859-04-09 &middot; [Manchester, N.H.](http://dbpedia.org/resource/Manchester%2C_New_Hampshire)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+that she  
 had once for our children. Yet a little while,  
 and all will have happened. The throbbing  
 heart will be stifled and we shall be at rest.  
@@ -5450,9 +4658,9 @@ and will not remember to lisp our names.&quot;’
 The. Savannah Republican records the fol­  
 lowing ‘* serious joke ” of an Irishman in the  
 jaws of a cotton press : ;  
-At dinner hour an Irishma
+At dinner hour an Irishman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:00517015441:1859040901:0263/pct:49.267271,72.793203,14.445220,16.411107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:00517015441:1859040901:0263/pct:49.323098,77.786987,14.347523,11.417323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5464,7 +4672,7 @@ At dinner hour an Irishma
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-] As- Ei.egant Extract. —“ Generation after  
+As- Ei.egant Extract. —“ Generation after  
 generation,” says a fine writer, “hare felt os  
 \re feel now, and their lives were as active as  
 our own. They passed away like a vapor, while­  
@@ -5489,7 +4697,8 @@ glisten again with joy, and even onr children
 will cense to think of us, and will not. remem­  
 ber to lisp our names. Then we shall have  
 become, in the language of the Psalmist, “for­  
-gotten &#x27;and clean gone out of sight.”
+gotten &#x27;and clean gone out of sight.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001705%2F1859041401%2F0057.jp2/pct:81.029779,14.804424,15.196636,14.523886/!600,600/0/default.jpg"/>
 </td>
@@ -5503,7 +4712,7 @@ gotten &#x27;and clean gone out of sight.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the Most High  
+the Most High  
 An HeoaUenT eatrAoY  
 Generation after generation have felt as we  
 do now, and their lives were as active as our  
@@ -5526,7 +4735,7 @@ mOIG.
   
   
 VOL. ALII.  
-
+H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1859041501:0235/pct:5.865544,14.537336,21.010678,80.922848/!600,600/0/default.jpg"/>
 </td>
@@ -5540,8 +4749,6 @@ VOL. ALII.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 An EloGUent ExTeaCT.-- Generation after  
 generation, says a fine writer, have felt as we  
 now feel, and their lives were as active as our  
@@ -5572,6 +4779,7 @@ died; and the eye that mourned for us will be
 dried, and glisten again with joy; and even  
 ur children will cease to think of us, and will  
 not remember our names.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859050601:0426/pct:14.664785,79.085192,17.388850,7.958834/!600,600/0/default.jpg"/>
@@ -5586,7 +4794,7 @@ not remember our names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-S hex wk auk Gone.—“ Generation after  
+ hex wk auk Gone.—“ Generation after  
 generation. ” says a fine writer, “have felt as  
 we feel, and their lives were as active as our  
 own. They passed away like a vapor, while  
@@ -5615,7 +4823,7 @@ will cease to think of us, and will not remem­
 ber to lisp our names. Then shall we have  
 become, in the touching language of the Psal­  
 mist. “forgotten and clean gone out of mind. ”  
-
+E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624499:1859050701:0171/pct:55.911787,28.807522,12.212750,14.645961/!600,600/0/default.jpg"/>
 </td>
@@ -5629,8 +4837,6 @@ mist. “forgotten and clean gone out of mind. ”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Am Euh;i.&#x27;ent Extract Generation ufier  
 generation,&quot; says a line wrier, &#x27;&quot;have kit as  
 we now feel, and their lives were us active  
@@ -5655,7 +4861,7 @@ and song will be beard in the room iu which
 we died ; aud the eye that mourued fur us  
 will be dried, and glisten again witb joy;  
 aud even our children will cease&#x27; to think ol  
-us, and will uot remember to lisp our names
+us, and will uot remember to lisp our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859050701:0690/pct:56.506598,77.623141,12.866569,11.802429/!600,600/0/default.jpg"/>
 </td>
@@ -5669,8 +4875,6 @@ us, and will uot remember to lisp our names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 An Eloquent Extract.  
 “Generation after generation,” says a  
 fine writer, “ have felt as we now feel, and  
@@ -5698,7 +4902,7 @@ for us will be dried, and glisten again with
 joy; and even our children will cease to  
 think of us, and will not remember to lisp  
 our names.”  
-itrT&quot; Th
+itrT&quot; The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1859051101:0534/pct:48.257220,75.838569,10.926163,13.331914/!600,600/0/default.jpg"/>
 </td>
@@ -5712,8 +4916,6 @@ itrT&quot; Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 or graves as they are around our paths. Yet o ee e e oe o  
 oi e  e e e e e e e a i ee e e  
   
@@ -5737,7 +4939,7 @@ ee ee e e oe ee
 trall be at rest. Oud tuhcrI wiil wad itle   o  
  e e  e  a  Sraane ares-Morrissey and Heen  
 way, and the prayers will be said, and we shall o o oe a a  
- o e  hs tan th
+ o e  hs tan the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82016350:00202191344:1859051101:0174/pct:5.272090,52.774878,60.957122,4.027488/!600,600/0/default.jpg"/>
 </td>
@@ -5751,7 +4953,6 @@ way, and the prayers will be said, and we shall o o oe a a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An ELOOuENt ExTrAOt.- Generation after  
 generation, says a fine writer, have felt as wo  
 now feel, and their lives were as active as our  
@@ -5776,7 +4977,7 @@ and the eve that mourned for us will be dried
 and glisten again with joy; and even our chil  
 dren will cease to think of us, and will not re­  
 member to lisp our names.  
-The Troy Whig say
+The Troy Whig says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn83016483:00212475166:1859051101:0077/pct:81.949934,71.411251,13.306983,13.106208/!600,600/0/default.jpg"/>
 </td>
@@ -5790,7 +4991,6 @@ The Troy Whig say
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 AN ELOQUENT EXTRACT.  
 Generation after generation have felt as we now  
 feel, and their lives were as active as our own. The  
@@ -5807,7 +5007,8 @@ on, and laughter and songs will be heard in the room
 where we died ; the eye that mourned for us will be  
 dried and animated with joy, and even our children  
 will cease to think of us, and will remember to lisp  
-our names no more,
+our names no more,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868521:1859051401:0080/pct:4.786044,47.415330,12.673326,7.419786/!600,600/0/default.jpg"/>
 </td>
@@ -5821,7 +5022,7 @@ our names no more,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- De How&#x27;s Tericte.  
+De How&#x27;s Tericte.  
 AN ELOOuENT ExTRAcT. Generation  
   
 after generation have felt as we now feel,  
@@ -5844,7 +5045,7 @@ died; and the eye that mourned for us will
 be dried and animated with joy, and even  
 our children will ccase to think of us, and  
 will remember to lisp our names no more.  
- A CuatST LkE SESTIMEN
+ A CuatST LkE SESTIMENT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1859051401:0857/pct:34.627030,72.352313,15.904211,14.945362/!600,600/0/default.jpg"/>
 </td>
@@ -5858,7 +5059,7 @@ will remember to lisp our names no more.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- are mens  
+are mens  
 AN ELOOUENT ExhAcT.- Generation  
 aft er generation have felt as we now feel,  
 and their lives were as active as our own.  
@@ -5882,7 +5083,7 @@ dried and animated with joy, and even our
 children will cease to think of us, and will  
 remember to lisp our names no more.  
   
-A CHEAr AND GOoD DEINN roR SewMEn
+A CHEAr AND GOoD DEINN roR SewMEn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1859051401:0857/pct:66.187724,17.455427,17.935590,14.842659/!600,600/0/default.jpg"/>
 </td>
@@ -5896,8 +5097,6 @@ A CHEAr AND GOoD DEINN roR SewMEn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
-  
 AN ELOQUKNT EXTRACT fienetatitin  
 after genewhon,&quot; says a lbw writer, have  
 felt as We feel, and their lives were as &#x27;mike  
@@ -5930,7 +5129,7 @@ have become, in the touching language of
 the Psalmist, &#x27;forgotten and clean gone out  
 of wind &quot; &#x27;  
   
-ICKE
+ICKEr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001917%2F1859051901%2F0079.jp2/pct:16.636951,5.395683,12.814798,19.006190/!600,600/0/default.jpg"/>
 </td>
@@ -5944,8 +5143,6 @@ ICKE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 AN ELOQUENT EXTRACT.—Generation after  
 generation,&quot; says a fiue writer, &quot; have felt as  
 we now feel, and their lives were as active as  
@@ -5969,7 +5166,8 @@ song will be heard in the room in which we
 died ; and the eye that mourned for us will be  
 dried, and glisten again with joy ; and eevn  
 our children will cease to think of us, and will  
-not remember to lisp our names.&quot;
+not remember to lisp our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1859051901:0206/pct:76.613904,40.466054,14.680323,13.354246/!600,600/0/default.jpg"/>
 </td>
@@ -5983,7 +5181,7 @@ not remember to lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The heavens  
+The heavens  
   
 may be as bright over our graves as they  
   
@@ -5994,7 +5192,7 @@ have the same attraction for offspring yet
 unborn that she has now for our children.  
   
 Yet a little while and all thiswill have hap­  
-pene
+pened
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1859052501:0092/pct:69.146467,91.940677,12.351728,3.815006/!600,600/0/default.jpg"/>
 </td>
@@ -6008,8 +5206,6 @@ pene
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 WHEN WE ARE GONE.  
   
 &quot;Generation after generation,&quot; says a  
@@ -6044,7 +5240,7 @@ for joy, and even our children will cease
 to think of us, and will not remember to  
 lisp our name.  
 Touchingly and plaintively, to the  
-same effect, is th
+same effect, is the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1859052501:0402/pct:61.727230,52.647449,11.042945,18.116029/!600,600/0/default.jpg"/>
 </td>
@@ -6058,8 +5254,6 @@ same effect, is th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Ah Eloquent Extract; —“ Generation after  
 generation,” says a fine writer, “have telt as we  
 feel, and thefr lives were as active as our own.  
@@ -6086,7 +5280,8 @@ ten again with joy; and even our children will
 cease to think of us, and will not remember to  
 1 lisp our names: Then shall wo have become, in  
 the touching language of the Psalmist, ‘forgot­  
--1 ten and clean gone out of mind.’
+-1 ten and clean gone out of mind.’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001739%2F1859052601%2F0081.jp2/pct:32.163311,67.347384,12.174395,11.929506/!600,600/0/default.jpg"/>
 </td>
@@ -6100,7 +5295,6 @@ the touching language of the Psalmist, ‘forgot­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A* ElouUe.nt Extract.—Generation  
 after generation have felt as we feel, and  
 their lives were as active as our own.—  
@@ -6123,7 +5317,7 @@ with joy, and even our children will cease
 to think of us, and will remember to  
 lisp our name no more.  
   
-Correct 
+Correct S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1859053101:0230/pct:82.019064,64.071856,12.694974,12.657039/!600,600/0/default.jpg"/>
 </td>
@@ -6137,7 +5331,7 @@ Correct
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 18.  
+18.  
 I AN ELOQUENT EXTRACT.—&quot;Generation afi  
 ter generation,&quot; .says a fine writer, &quot; have  
 fell as we now lebl, and their lives \VCre a*  
@@ -6163,7 +5357,8 @@ room in which we died j and the eye that
 mourned for us will be dried, and glisten  
 again with joy ; and even our children will  
 cease tu think of us, and will not remem­  
-ber to lisp our names.&quot;
+ber to lisp our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1859060101:0456/pct:80.791264,66.991663,12.119585,16.221563/!600,600/0/default.jpg"/>
 </td>
@@ -6177,7 +5372,6 @@ ber to lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 k When we aue Gone,—“Generation  
 after generation,” says a fine writer, “ have  
 felt as we feel, and their lives wore as ac­  
@@ -6210,7 +5404,7 @@ names. Then shall we have became, in
 the language of the Psalmist, &#x27; forgotten  
 and clean out of mind.’ ”  
   
-B
+Be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001714%2F1859060201%2F0083.jp2/pct:62.543005,62.693268,12.206135,19.344672/!600,600/0/default.jpg"/>
 </td>
@@ -6224,7 +5418,6 @@ B
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 As Eloqtjskt Extract. Generation af­  
 ter geneiation have felt as we now feel, and  
 their lives were as active as our own. The  
@@ -6246,7 +5439,7 @@ with joy, and even our own child ren will cease
 to think of us, aud wid-remember to. lisp  
 our names nq more; -A f  
   
-Honesty f
+Honesty fs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1859062501:0399/pct:33.621736,83.547784,14.875531,12.185197/!600,600/0/default.jpg"/>
 </td>
@@ -6260,7 +5453,6 @@ Honesty f
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Adv.  
   
 Generation after generation have felt as  
@@ -6281,7 +5473,7 @@ songs will be heard in the room where we
 died ; and the eyes that mourned for us will  
 be dried and amimated witl joy, and even  
 our children will cease to. think of us, and  
-will remember to lisp our names no more.
+will remember to lisp our names no more. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023814:00517015325:1859071901:0058/pct:58.913796,68.290975,17.316082,13.087853/!600,600/0/default.jpg"/>
 </td>
@@ -6305,7 +5497,6 @@ will remember to lisp our names no more.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 AN ELOQUENT EXTRACT.  
 &quot; Generation after generation,&#x27; says a  
 fine writer, &quot; have felt as we now feel, and  
@@ -6331,7 +5522,7 @@ and laughter and song will be heard in the
 room in which we died, and the eye that  
 mourned for us will be dried, and glisten  
 again with joy , and even our children . will j  
-TneniDer t
+TneniDer to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPRal1n_ver01%2Fdata%2F1859080401%2F0145.jp2/pct:57.161526,33.659768,12.702561,17.001514/!600,600/0/default.jpg"/>
 </td>
@@ -6345,8 +5536,6 @@ TneniDer t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 AN ELoQUENT EXTRACT.—Generation af­  
 ter generation have felt as we now feel, and  
 their lives were as active as our own. The  
@@ -6367,7 +5556,7 @@ dried and animated with joy, and even our
 children will cease to think us, and will re­  
 member to lisp our name no more.  
   
-Tae Wise M
+Tae Wise Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn90062042:00517015416:1859080401:0140/pct:44.671079,54.543590,12.035661,10.102564/!600,600/0/default.jpg"/>
 </td>
@@ -6381,7 +5570,6 @@ Tae Wise M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An Eloquent ENTRACT.- Generation after  
 generation have felt as we do now, and their  
 lives were as active as our own. The heav­  
@@ -6401,7 +5589,7 @@ died; and the eyes thit mourned for us be
 dried and animated with joy and even our  
 children will cease to think of us, and will  
 remember to lisp our names no more.  
-y A ldy attempted to give a g
+y A ldy attempted to give a gr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1859080401:0941/pct:79.941496,77.699821,14.187213,10.936855/!600,600/0/default.jpg"/>
 </td>
@@ -6425,7 +5613,6 @@ y A ldy attempted to give a g
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 An Eloquent Extract. Generation after  
 generation have felt as we do now, and their  
 lives were as active as your own. The heav­  
@@ -6445,7 +5632,7 @@ eyes that mourned for us be dried and anima­
 ted with joy, and even our children will cease  
 to think of us, and will remember to lisp onr  
 names no more.  
-:
+: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84024323:00295878770:1859081001:0118/pct:28.836496,19.829534,9.514509,6.993222/!600,600/0/default.jpg"/>
 </td>
@@ -6459,7 +5646,7 @@ names no more.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;ueneratuni alter- generation, says a  
+ueneratuni alter- generation, says a  
 fine&quot; writer, &quot;have felt as we now feel, and  
 their lives were as active as our own. They  
 passed like a vapor, .while nature wore the  
@@ -6468,6 +5655,20 @@ commanded her to be. The heavens shall be
 as bright1 over our grave? as they now are  
 around our paths.&#x27; The world will have the  
 same attractions for our offspring yet unborn,  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1859081001:0135/pct:5.312318,58.388673,12.682428,4.397945/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Ashland union._](https://www.loc.gov/resource/sn83035173/1859-08-10/ed-1/?sp=4)
+
+#### 1859-08-10 &middot; [Ashland, Ashland County, Ohio](http://dbpedia.org/resource/Ashland%2C_Ohio)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
 that she had once for our children. ; Tet a lit  
 tle while, and all will have happened. The  
 throbbing heart will be stifled and we shall be  
@@ -6482,9 +5683,9 @@ song will be heard ill the room in which we
 died ; and the eye that mourned for us will be  
 pried, and glisten again . with joy ; and even  
 bur children will cease to think of u.s, and will  
-not remember to lisp- our names. 
+not remember to lisp- our names. .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1859081001:0135/pct:5.312318,58.388673,12.682428,11.803032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1859081001:0135/pct:5.531232,62.786618,12.434326,7.405087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6496,8 +5697,6 @@ not remember to lisp- our names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 An Eloquent Extract  
 Generation after generation, says a fine  
 writer, have felt as we feel, and their  
@@ -6529,7 +5728,8 @@ children will cease to think of us, and
 will not remember to lisp our names.  
 Then shall we have become, in the touch­  
 ing language of the Psalmist, &quot;forgotten  
-and clean gone out of mind.&quot;
+and clean gone out of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1859081101:0039/pct:66.751066,24.779704,12.819829,17.662438/!600,600/0/default.jpg"/>
 </td>
@@ -6543,7 +5743,7 @@ and clean gone out of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, ( An Hloiiueut Fatract. ,  
+( An Hloiiueut Fatract. ,  
   
 , &quot;Ueneralion .after generally, &quot; says  
   
@@ -6566,7 +5766,8 @@ bing heart will be stifled, and we shall be
   
 t rest. Our funeral will wind its way,  
   
-nd prayers will be said and then we shall
+nd prayers will be said and then we shall  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:0029602885A:1859081201:0362/pct:64.954910,28.787879,14.504008,11.680761/!600,600/0/default.jpg"/>
 </td>
@@ -6580,7 +5781,7 @@ nd prayers will be said and then we shall
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t seen and felt its power ? They deny its  
+seen and felt its power ? They deny its  
 worth who never loved a friend or labored to  
 make a friend happy.”  
 An Eloquent Extract.—Generation af­  
@@ -6602,7 +5803,7 @@ the room where we died ; and the eyes that
 mourned for us be dried and animated with  
 pleasure, and even our children will cease to  
 think of us, and will remember to lisp our  
-names no more
+names no more 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688052:1859081701:0025/pct:53.340775,81.101866,12.565779,12.733232/!600,600/0/default.jpg"/>
 </td>
@@ -6616,7 +5817,6 @@ names no more
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An Hhxpieut Ilttrnct.  
 Generation after generation have  
 felt as wo now feel, and their lives  
@@ -6640,7 +5840,8 @@ wc died; and the eve that mourned for
 us will be dried and animated with  
 joy, an I even our children will cease  
 to think of us, and will remember to  
-lisp our names no more.
+lisp our names no more.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859081801:0355/pct:50.856014,70.105370,10.974539,14.581917/!600,600/0/default.jpg"/>
 </td>
@@ -6654,8 +5855,6 @@ lisp our names no more.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 An ELOqUENT EKTeACt. &quot;Generation after  
 generation,&quot; says a fine writer, &quot;have felt as  
 we now feel, and their lives were as active as  
@@ -6679,7 +5878,7 @@ song will be heared in the soots in whish we
 died; and the eye that mourned for us will be  
 dried, and glisten again with joy; and ev  
 our children will cease to think of us, and will  
-not remember to lisp our names
+not remember to lisp our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82016350:00202191344:1859082401:0235/pct:83.480793,63.259571,11.837832,10.432034/!600,600/0/default.jpg"/>
 </td>
@@ -6693,7 +5892,6 @@ not remember to lisp our names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An ElOquENT ExrrAcT. Generation after  
 genefation have felt as we do now, and their  
 lives were as active as our own. The heavens  
@@ -6732,7 +5930,7 @@ a!
 have  
 lison  
 to  
-Toracco.- An exchan
+Toracco.- An exchang
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026192:00280775769:1859082501:0347/pct:77.486188,66.859941,15.504144,27.354722/!600,600/0/default.jpg"/>
 </td>
@@ -6746,7 +5944,7 @@ Toracco.- An exchan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. ,  
+,  
   
 As Eloquent Extract.— “ Generation after  
 generation,” says a fine writer, “have felt as we  
@@ -6772,6 +5970,7 @@ mourned for ns wiiKbo dried, and glisten again
 with Joy; and even our children will cease to  
 think of us, and w.ill not remember to lisp our  
 names.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001739%2F1859090101%2F0137.jp2/pct:30.839751,76.426211,12.169967,11.147435/!600,600/0/default.jpg"/>
@@ -6786,7 +5985,7 @@ names.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Weaver,  
+Weaver,  
 and most of the persons at the ball were  
 present as witnesses; but no clue to tho  
 murderer was obtained, when our in­  
@@ -6813,7 +6012,7 @@ we died ; and the cys that mourned
 for us be dried and animated with joy,  
 and even our children will cease to think  
 &lt;»f us, and will remember to lisp our  
-names no mor
+names no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1859091501:0334/pct:83.137962,61.447639,12.578900,15.468857/!600,600/0/default.jpg"/>
 </td>
@@ -6827,7 +6026,6 @@ names no mor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 In ElozTenT ErTruct. Generation, after  
 generation, says a fine writer, have felt as  
 we now feel, and their lives were as active  
@@ -6860,21 +6058,11 @@ our names.
   
 rntr arer or moner ramrac  
 TMlEit I.  
-Irrunged for th
+Irrunged for the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1859091501:0937/pct:16.376053,10.076017,26.862346,86.906119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Nearer Home
-
-#### From _Semi-weekly Mississippian._
-
-#### 1859-09-16 &middot; [Jackson, Miss.](http://dbpedia.org/resource/Jackson%2C_Mississippi)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -6884,7 +6072,7 @@ Irrunged for th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iHisA  
+HisA  
 Daily Mail.  
 An EloquenT ExTrACt.Generation af.­  
 ter generation have felt as we do now, and  
@@ -6907,7 +6095,7 @@ us be dried and animated with joy, and
 even our children will cease to think of  
 us, and will remember to lisp our names  
 no more.  
-Ir Won&#x27;r Do.It 
+Ir Won&#x27;r Do.It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1859091601:0507/pct:82.992094,57.634664,12.203527,11.529901/!600,600/0/default.jpg"/>
 </td>
@@ -6921,7 +6109,7 @@ Ir Won&#x27;r Do.It
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- I do my own.  
+I do my own.  
 Ax Eloquent Extract.?Generation af­  
 ter generation have felt as we do now and  
 their lives were as active as our own. The  
@@ -6941,35 +6129,9 @@ where we died : and the eyes that mourned
 for us be dried and animated with joy, and  
 even our children will cease to think of us,  
 and will remember to lisp our names no more.  
-\ l.EXANDRIA COUNTY COURT, J
+\ l.EXANDRIA COUNTY COURT, JI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663481:1859092001:0034/pct:4.770616,58.893485,14.016324,11.726991/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Southern Christian advocate._](https://www.loc.gov/resource/sn87065702/1859-10-06/ed-1/?sp=4)
-
-#### 1859-10-06 &middot; [Augusta, Ga.](http://dbpedia.org/resource/Augusta%2C_Georgia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- learned to sing:  
-“ One sweetly solemn thought  
-Comes to me o’er and o!er,—  
-I’m nearer my home to-day,  
-| Than e’er I was before: . .  
-Nearer my Father’s house „  
-Where many mansions be; t;.  
-Nearer the great white throne. s’i  
-Nearer the jasper sea:  
-Nearer the bound of life,  
-To lay my burdens down;  
-Nearer leaving my orose,  
-, Nearer wearing my crown.”
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016536:1859100601:0287/pct:17.852051,91.529497,12.260415,5.562898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6981,7 +6143,7 @@ Nearer leaving my orose,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- el  
+el  
 Generation after generation have fallen  
   
  Ho, alltd tetl 11e we    
@@ -7010,7 +6172,7 @@ some and so proud, that she says there is
 o e oe eeeeeeoo  
 is  
   
-only one thin
+only one thing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1859101901:0488/pct:50.593750,70.042543,11.453125,14.322855/!600,600/0/default.jpg"/>
 </td>
@@ -7024,7 +6186,7 @@ only one thin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mother too weak to gov­  
+other too weak to gov­  
 ern him?-Mother&#x27;s Magazine.  
 An EloquenT ExtrACT.- Generation  
 after generation have felt as we now feel,  
@@ -7048,59 +6210,9 @@ mourned for us will be dried and anima­
 ted with joy, and even our children will  
 cease to think of us, and will remember to  
 lisp our name no more.8  
-A veteran editor, (
+A veteran editor, (a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859102701:0243/pct:21.550791,14.538703,14.078406,13.938875/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Saint Paul weekly Minnesotian._](https://www.loc.gov/resource/sn90059500/1859-10-29/ed-1/?sp=1)
-
-#### 1859-10-29 &middot; [Saint Paul, Minn.](http://dbpedia.org/resource/Saint_Paul%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- tor the best!  
-  
-One sweetly solemn thought  
-Comes to me o’er and o’er,  
-I’m nearer home to-day  
-Than e’er I was before.  
-  
-Nearer my father’s house.  
-Where many mansions be,  
-Nearer the great white throne,  
-Nearer the jasper sea—  
-  
-Nearer the bounds of life,  
-Where we lay our burdens down,  
-Nearer leaving the cross,  
-Nearer takiug the crown.  
-  
-Hut lying dark between,  
-Looming up thro’ the night,  
-Is the dim, unknown stream,  
-That leads ut last to light.  
-  
-Close and closer tny feet  
-Draw to the dark abyss;  
-Closer Death to my lips  
-Presses the dreadtul kiss.  
-  
-Father, perfect my trust,  
-Strengthen my faltering faith,  
-That I may not fear to stand  
-On the rocky shore of Death.  
-  
-Make me fear not, tho’ my feet  
-Are slipping on the brink—  
-Perhaps Tin nearer home now,  
-Nearer than I dare to think.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859102901:0180/pct:6.990194,22.138931,7.593664,13.793103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7122,7 +6234,7 @@ Nearer than I dare to think.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ot him who has any part, how­  
+ot him who has any part, how­  
 ever humble, in the word of its salvation.  
   
 An Eloquent Extract,  
@@ -7145,92 +6257,10 @@ where he died; and the eyes that mourned
 for us shall be dried and animated with joy,  
 and even our children will cease to think of  
 us, and will remember to lisp our names no  
-more.
+more.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859110501:0186/pct:39.552426,65.287356,10.937893,10.234883/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Mountain Democrat._](https://www.loc.gov/resource/sn82014488/1859-11-12/ed-1/?sp=4)
-
-#### 1859-11-12 &middot; [Placerville, El Dorado Co., Cal.](http://dbpedia.org/resource/Placerville%2C_California)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-hearer hour  
-  
-One sweetly solemn thought  
-Comes to me o&#x27;er and u&#x27;ei?  
-I’m nearer home to-day  
-Thau e&#x27;er I waa before.  
-Nearer my Father&#x27;s house.  
-Where many mansions be,  
-Nearer the great white throne,  
-Nearer the jasper sew—  
-Nearer the bounds of life.  
-Where we Isy our burdens down,  
-Nearer leaving the cross,  
-Nearer taking the crown.  
-Out lying dark between,  
-Looming up thro&#x27; the night,  
-Is the dim, unknown stream,  
-That leads at last to light.  
-Close and closer my feet  
-Draw to the dark abyss;  
-Closer Drsth to my lips  
-Presses the dreadful kiss.  
-Father, perfect my trust,  
-Strengthen my fidlering faith,  
-That I may nut fear to stand  
-On the rocky shore of Death.  
-Make me fear not, tbo’ my feet  
-Are slipping on Ihe brink—  
-Perhaps I&#x27;m nearer home now,  
-Nearer thin I dare to think.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1859111201:0576/pct:6.937756,45.446146,8.756911,13.569166/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The weekly Panola star._](https://www.loc.gov/resource/sn83016951/1859-11-17/ed-1/?sp=1)
-
-#### 1859-11-17 &middot; [Panola, Miss.](http://dbpedia.org/resource/Sardis%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-One sweetly solemn thought,  
-Came to me o&#x27;er and o&#x27;er,  
-Im nearer home to-day  
-Than e&#x27;er I was before.  
-Nearer my father&#x27;s house,  
-Where many mansions be,  
-Nearer the great white throse,  
-Nearer the jasper sea.  
-Nearer the bounds of life,  
-Where we lay our burdens down,  
-Nearer leaving the cross,  
-Nearer taking the crown.  
-But lying dark betwees,  
-Looming ap thro&#x27; the sight,  
-Is the dim and unknown stream,  
-That leads at last to light.  
-Close and closer my feet  
-Draw to the dark abyss,  
-Closer Death to my lipe  
-Presents the dreadfel kiss.  
-Father, perfect my trust,  
-Strongthen my faltering faith,  
-That I may not fear to stand  
-On the rochy shore of Death
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1859111701:0602/pct:3.836771,37.814090,10.734087,13.920148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7242,8 +6272,6 @@ On the rochy shore of Death
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
-  
 A ELtHiUKRT Extract. Genrration&#x27;  
 after gen-Mt ion have left as we no;v fee-&#x27;,  
 and iheir lives wera ns active as onf own.  
@@ -7263,7 +6291,8 @@ room here we die !, and i&quot;ie eyes that
 mutinied f r u will b- d.-ieJ .and animated  
 with joy. and evrnmir i i.il. :r&#x27;n wiSlceatC to  
 think ofu, aad will r.-iueual cr ti jisp w  
-names uo more.
+names uo more.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859111701:0077/pct:81.304985,78.008874,12.353372,10.718247/!600,600/0/default.jpg"/>
 </td>
@@ -7277,8 +6306,6 @@ names uo more.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 An Eloquent Extract,  
 Generation after generation have felt as we now  
 feel, and their lives were as active as our OWn, .  
@@ -7304,7 +6331,8 @@ and pre eg be odode be heard in the
 where we died; and 1 yb toe mourned ‘for us  
 will be dried and with and ‘even  
 our children will cease to think of us!&quot; and will  
-remember to lisp’ our names no more.
+remember to lisp’ our names no more.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-farmer-devoted-to-agriculture-horticulture_1859-12_1_6%2Fsim_american-farmer-devoted-to-agriculture-horticulture_1859-12_1_6_jp2.zip%2Fsim_american-farmer-devoted-to-agriculture-horticulture_1859-12_1_6_jp2%2Fsim_american-farmer-devoted-to-agriculture-horticulture_1859-12_1_6_0010.jp2/pct:47.916667,71.773008,38.498264,20.993825/600,/0/default.jpg"/>
 </td>
@@ -7318,7 +6346,7 @@ remember to lisp’ our names no more.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Christian Watch­  
+Christian Watch­  
 man.  
   
 A~ Eroquent Extract.—Generation af­  
@@ -7342,7 +6370,7 @@ mated with joy; and even our children
 will cease to think of us, and will remem­  
 ber to lisp our names no more |  
   
-No Twe 
+No Twe o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_superior_ver01:data:sn83030179:00220720445:1859120301:0004/pct:18.755556,72.492869,12.814815,14.295493/!600,600/0/default.jpg"/>
 </td>
@@ -7356,8 +6384,6 @@ No Twe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &quot;Generation after generation,&quot; says  
 fine writer, &quot;have felt as we feel, and  
 their lives were as active as our own.  
@@ -7389,7 +6415,8 @@ our children will cease to think of us,
 and will not remember to lisp our names.  
 Then shall we have become, in the  
 touching language of the Psalmist, &quot;for­  
-gotten and clean gone out of mind.&quot;
+gotten and clean gone out of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1859121501:0603/pct:55.616438,17.230084,11.952055,16.994235/!600,600/0/default.jpg"/>
 </td>
@@ -7413,7 +6440,7 @@ gotten and clean gone out of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ried.  
+ied.  
 An Eloquent Extract.—“ Generation after  
 generation,” says a fine writer, “ have felt as we now  
 feel, and their lives were as active as our own. They  
@@ -7435,7 +6462,7 @@ song will be heard in the room in which we died : and
 the eye that mourned for us will be dried, and glisten  
 again with joy; and even our children will cease to  
 think of us, and will not remember to lisp our names.”  
-All a
+All a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860010701:0007/pct:57.420152,34.655086,12.158108,8.094159/!600,600/0/default.jpg"/>
 </td>
@@ -7449,7 +6476,6 @@ All a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An Eloquent Extract.—&quot; Genera­  
 tion after generation,” says a fine writer,  
 “ have felt as we feel now, and their lives  
@@ -7482,11 +6508,21 @@ uot remember to lisp our Dames. Then
 shall we have become, in tho touching lan­  
 guage of the Psalmist, “ forgotten, and  
 clean gone out of mind.”  
-For th
+For the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860010701:0214/pct:56.467267,16.377675,25.639668,78.677865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [ALL IS VANITY.](http://search.proquest.com/docview/135974633/fulltext/)
+
+#### From _Christian Observer (1840-1910)_
+
+#### 1860-01-12 &middot; [Louisville](http://dbpedia.org/resource/Louisville%2C_Kentucky)
+
+[This text is not available under an open license.]
 
 ---
 
@@ -7506,7 +6542,6 @@ For th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 SA ELOOUEE ExrAICR.-&quot;Generation  
  ee after generation,&quot; says a fine writer,  
 have felt as we now feel, and their lives  
@@ -7533,7 +6568,7 @@ in which we died; and the eye that mourned
 at o els l for us will be dried, and glisten again  
 in i with joy; and even our children will cea  
  to think of us, and will not remember to  
- i e Hap our names.
+ i e Hap our names.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860030301:0115/pct:0.102501,77.657022,23.349733,15.441073/!600,600/0/default.jpg"/>
 </td>
@@ -7547,7 +6582,7 @@ in i with joy; and even our children will cea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Hill.  
+Hill.  
 Ax Eloquent Extract.—“ Generation after  
 general ion,” says a fine writer, “have felt as wc  
 now fe&lt; l, and their lives were as active as our  
@@ -7571,7 +6606,7 @@ be heard in the room in which we died ; and
 the eye that mourned for us will be dried, and  
 glistening again with joy ; and even our chil­  
 dren will cease io think of us, and will not re­  
-member to lisp our nan es.
+member to lisp our nan es.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860032101:0138/pct:55.895258,63.101423,11.974522,12.446352/!600,600/0/default.jpg"/>
 </td>
@@ -7585,7 +6620,6 @@ member to lisp our nan es.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An Eloquent Extract.-—“ Generation after  
 generation,” says a fine writer, “ have felt as we now  
 feel, and their lives were as active as our own. They  
@@ -7605,57 +6639,9 @@ soon be forgotten. Days will continue to move on,
 and laughter and song will be heard in the room in  
 which we died ; and the eye that mourned for us will  
 be dried, and glisten again with joy ; and even our  
-children will cease t
+children will cease to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860041401:0006/pct:69.403904,56.454648,12.150519,6.247648/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Red Wing sentinel._](https://www.loc.gov/resource/sn85025569/1860-04-25/ed-1/?sp=1)
-
-#### 1860-04-25 &middot; [Red Wing, M.T. [i.e. Minn.]](http://dbpedia.org/resource/Red_Wing%2C_Minnesota)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-N E A E HOME  
-  
-One sweetly solemn thought,  
-Comes to mo o&#x27;er and o&#x27;er,  
-I&#x27;m nearer home to-day  
-  
-Than e&#x27;er I was before.  
-  
-Nearer my Father&#x27;s home,  
-Where many mansions be,  
-Nearer the great white throne,  
-  
-Nearer the jasper sea.  
-  
-Nearer the bounds of life,  
-Where we lay our burdens down,  
-Nearer leaving the cross—  
-  
-Nearer wearing the crown.  
-  
-But lying dark between,  
-Looming up through the night,  
-Is the dim and unknown stream,  
-  
-That leads at last to light.  
-  
-Father, perfect my trust,  
-Strengthen my faltering faith,  
-That I may not fear to stand  
-  
-On the rocky shore of Death.  
-  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860042501:0404/pct:30.329766,38.631129,12.033555,29.560162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7667,8 +6653,6 @@ On the rocky shore of Death.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &quot; Generation after generation,&quot; says  
 a fine writer, &quot; have felt as wo now feel,  
 and their lives were as active as our  
@@ -7698,51 +6682,9 @@ with joy ; and even our children will
 cease to think of us, and will not, ro­  
 member to lisp our names.&quot;  
   
-W
+We
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_trumanhs_ver01%2Fdata%2Fsn85055100%2F000001892%2F1860051401%2F0077.jp2/pct:16.862635,36.654417,12.653975,15.897645/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Clearfield Republican._](https://www.loc.gov/resource/sn83032199/1860-08-22/ed-1/?sp=1)
-
-#### 1860-08-22 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-S CARRY.  
-One sweetly solemn thought  
-Comes to me o&#x27;er and o&#x27;er  
-I&#x27;m nearer home to-day  
-Than I have ever been before.  
-Nearer my Father&#x27;s house  
-Where the many mansions be;  
-Nearer the great white throne,  
-Nearer the jasper sea;  
-Nearer the bound of lifo,  
-Where we lay our burdens down,  
-Nearer leaving the cross,  
-Nearer gaining the crown,  
-But lying darkly between,  
-Winding down through the night;  
-Is the dim and unknown stream  
-That leads at last to the light.  
-Closer and closer my steps  
-Come to the dark abysm;  
-Closer death to my lips  
-Presses the awful chrysm,  
-Father! perfect my trust;  
-Strengthen the might of my faith;  
-Let me feel as I would when I stand  
-On the rock of the shore of death  
-Feel as I would when my feet  
-Are slipping over the brink;  
-For it may be I&#x27;m nearer home,  
-Nearer now, than I think.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1860082201:0372/pct:4.936015,35.730337,11.334552,15.224719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7754,8 +6696,6 @@ Nearer now, than I think.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’  
-  
 OnrTnrw MnstCome.  
 Generation after generation,’ say# a  
 fine writer, ‘have felt as we now feel,and  
@@ -7782,7 +6722,8 @@ tinue to move on, and laughter and song
 died; and the eye that mourned for us  
 will be dried, and glisten again with joy;  
 and oven our children will cease to think  
-wf ua» and will Sot remeipber to l&gt;p our
+wf ua» and will Sot remeipber to l&gt;p our  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860090501:0225/pct:4.693349,79.021751,12.640369,15.678481/!600,600/0/default.jpg"/>
 </td>
@@ -7796,7 +6737,7 @@ wf ua» and will Sot remeipber to l&gt;p our
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r by another treasure in heaven.”  
+by another treasure in heaven.”  
   
 OUR TURN MUST COME. “Generation after  
 generation,” says a fine writer, “ have felt as we  
@@ -7820,7 +6761,7 @@ the room in which we died; and the eye that
 mourned for us will be dried, and glisten again with  
 Jjoy; and even our children will cease to think of  
 us, and will not remember to lisp our names.”  
-“Tuere
+“Tuere 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868521:1860090801:0357/pct:4.435121,50.078021,13.110578,11.402140/!600,600/0/default.jpg"/>
 </td>
@@ -7834,7 +6775,6 @@ us, and will not remember to lisp our names.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 a  
 it  
 In  
@@ -7859,6 +6799,7 @@ will be heard in the room in which we died, and
 the eye tba mourned for us will glisten again with  
 joy; end our cnuaren wilt cease to trunk ot us,  
 and will forget to lisp our names.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860092201:0127/pct:51.384892,53.128834,14.460432,11.629175/!600,600/0/default.jpg"/>
@@ -7883,7 +6824,7 @@ and will forget to lisp our names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ms iiesT Con.—&quot;Generation after gen­  
+ms iiesT Con.—&quot;Generation after gen­  
 eration,” says a fine writer, &quot;have felt as we now  
 feel, and their lives were as active as our own.  
 They passed uke a vapor, while nature wore the  
@@ -7905,7 +6846,7 @@ ter and song trill be heard in the room in which
 s»% filed ; and the eye that mourned for us will  
 be dried, and glisten again with joy ; even oar  
 children will asase to think of us, and trill not  
-remember to lisp our names.” 
+remember to lisp our names.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860092701:0159/pct:16.873410,85.911935,13.024809,11.044273/!600,600/0/default.jpg"/>
 </td>
@@ -7929,9 +6870,6 @@ remember to lisp our names.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 Our TuRN MusT CoME. &quot;Generation af  
 ter generation,&#x27; says a fine writer, &quot;have  
 felt as we now feer, and their lives were  
@@ -7962,7 +6900,7 @@ ter and song will be heard in the room in
 which we died; and the eye that mourned  
 for us will be dried, and glisten again  
 with tov; and aven our children will coase  
-to think of us, and wil
+to think of us, and will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1860100401:0343/pct:57.446298,9.252636,25.765031,13.620105/!600,600/0/default.jpg"/>
 </td>
@@ -7976,7 +6914,7 @@ to think of us, and wil
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-RCT.  
+CT.  
 Generation after generation, says a  
 fine writer, have felt as we now feel,  
 and their lives were as active as our  
@@ -7997,7 +6935,8 @@ larkness for the worm. And&#x27; it may
 be for a short time we shall be spoken  
 of, but the things of earth will creep  
 in, and our names will soon be forgot­  
-ten. Days will continue to move on;
+ten. Days will continue to move on;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860100401:0593/pct:4.114727,86.956152,11.274131,11.996594/!600,600/0/default.jpg"/>
 </td>
@@ -8011,8 +6950,6 @@ ten. Days will continue to move on;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 OUR TURN MUST COME  
   
 ‘‘Generation after generation,” says a  
@@ -8043,7 +6980,7 @@ children will cease to think of us, and will
   
 not remember to lisp our names,”  
   
-Wh
+Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1860-10-06_30_40%2Fsim_presbyterian_the-presbyterian_1860-10-06_30_40_jp2.zip%2Fsim_presbyterian_the-presbyterian_1860-10-06_30_40_jp2%2Fsim_presbyterian_the-presbyterian_1860-10-06_30_40_0000.jp2/pct:49.078268,79.094828,10.442049,15.686576/,600/0/default.jpg"/>
 </td>
@@ -8057,7 +6994,7 @@ Wh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- within fitty years of its dis­  
+within fitty years of its dis­  
 covery. tw  
 Oc Tens MesT CoME.&quot;Generation  
 after generation,&quot; says a fine writer,  
@@ -8086,7 +7023,7 @@ that mourued for us will be dried, and
 glisten again with joy; and even our child­  
 ren will cease to think of us, and not re  
 member to lisp our names.&quot;  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860101301:0245/pct:19.556741,13.958365,13.195157,16.729070/!600,600/0/default.jpg"/>
 </td>
@@ -8110,8 +7047,6 @@ member to lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
-  
 Our Tun* Must Co**.—“Generation after  
 generation,” says a fine writer, “ have&#x27;jfelt, fia  
 we feel, and their&#x27;lives were, as afctlve a* bar  
@@ -8135,7 +7070,7 @@ in the room in which we died; and the eye that
 mourned for us will be dried, and glisten again  
 with joy; and oven our wiU cease to  
 think of, and will not remember to lisp oar  
-names.’ 1
+names.’ 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001715%2F1860102501%2F0161.jp2/pct:77.626864,33.459716,12.241972,11.404028/!600,600/0/default.jpg"/>
 </td>
@@ -8149,7 +7084,7 @@ names.’ 1
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Come.  
+Come.  
 &quot;Generation after generation,&quot; says a  
 fine writer, &quot;have felt as we now feel, and  
 their lives were aative as our own. They .  
@@ -8171,7 +7106,8 @@ ed for us will be dried, and glisten again j
 van TT i 11 -o &#x27;  
 with joy; and even our children will cease  
 to think of us, and will not remember to  
-lisp our names.&quot;
+lisp our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287897:1860102501:0449/pct:64.457109,42.701185,14.637073,14.608027/!600,600/0/default.jpg"/>
 </td>
@@ -8195,8 +7131,6 @@ lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 OUR TURN MUST COME.  
   
 i&#x27;Generation.after generation,&quot; says  
@@ -8228,7 +7162,8 @@ mourned for us will be dried; and
 glisten again with joy; and eve our  
 children will cease to thinkof,. and  
 will not remeniher to lisp our-names.&quot;  
-•
+•  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001969%2F1860103101%2F0176.jp2/pct:6.171171,34.528369,11.941441,17.138298/!600,600/0/default.jpg"/>
 </td>
@@ -8242,8 +7177,6 @@ will not remeniher to lisp our-names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 OUR TURN MUST COME.—&quot;Generation after  
 generation,&quot; says a fine writer, &quot;have felt, ae  
 we feci, and their lives were as aetiva as our  
@@ -8267,7 +7200,8 @@ song will be beard in tbe room in which we
 died ; and the eye that mourned for us will be  
 dried, and glisteu again with joy ; and even  
 our ohilaren will cease to think of, and will  
-not remember to lisp our names.&quot;
+not remember to lisp our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1860110201:0007/pct:77.950112,40.128068,14.374800,13.328590/!600,600/0/default.jpg"/>
 </td>
@@ -8281,8 +7215,6 @@ not remember to lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’  
-  
 Orn Tvrs Mi st Come.—“ Generation  
 after generation,” save a line writer, “have  
 lt.lt as we lee!, an&#x27;l their lives were ac­  
@@ -8307,7 +7239,7 @@ for us will bo dried, and glisten again with
 joy, and even our chliidien will cease to  
 think of ns, and will not remember to lisp  
 our names.”  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1860110201:0273/pct:44.483289,67.744985,12.655573,14.305220/!600,600/0/default.jpg"/>
 </td>
@@ -8321,7 +7253,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
   
 OuR TURN MUST COME.  
 2 &quot;Generation after gencration,&quot; says a fine  
@@ -8348,7 +7279,7 @@ and laughter and song will be heard in the
 oom in which we did; and the eyes that  
 mourned for us will be dried, and glisten again  
 with joy; and even our children will cease to  
-be think of us, and wil
+be think of us, and will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1860110901:0533/pct:5.071581,52.392822,11.361560,11.602692/!600,600/0/default.jpg"/>
 </td>
@@ -8362,8 +7293,6 @@ be think of us, and wil
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ; Our turn Must Corae.  
 &#x27; Generation after generation, says  
   
@@ -8390,7 +7319,7 @@ will continue to move on, and laughter
 and song will be heard in the room: in  
 which we died ; and the eye that  
 mourned for us will be dried, and glis  
-ten again with joy ; and eve
+ten again with joy ; and even
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1860111501:0541/pct:57.294502,14.339742,12.547632,17.501838/!600,600/0/default.jpg"/>
 </td>
@@ -8404,7 +7333,6 @@ ten again with joy ; and eve
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 OuR TERN MUST COME,--&quot;Genera  
 tion after generation,&quot; says a fine wl  
 ter, &quot;have felt as we now feel, and their  
@@ -8439,7 +7367,7 @@ which we died; and the eye that mourn
 ed for us will be dried, and glisten again  
 for joy; and even our children will  
 to think of us, and will not remember  
-to lisp our names.
+to lisp our names.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860112201:0804/pct:18.568966,69.531563,14.086207,24.382757/!600,600/0/default.jpg"/>
 </td>
@@ -8453,7 +7381,7 @@ to lisp our names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Generation af­  
+Generation af­  
 ter generation ha- felt as we now feel, and  
 ttieir lives were as active as our own. They  
 pa&#x27;-ed Ike a vapor, while nature w &gt;re the  
@@ -8477,7 +7405,7 @@ where vve died ; and tho eves that mourned
 for us will be dried, and glisten again w ith  
 joy ; and eve , our child en will cease to  
 think of us, and will not remember 10 isp  
-our names
+our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860112701:0543/pct:14.057991,67.628723,11.378315,13.957516/!600,600/0/default.jpg"/>
 </td>
@@ -8491,7 +7419,7 @@ our names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- COML —Generation after  
+COML —Generation after  
 generation have felt. as we feel, and their  
 lives were as active as our own. They pass:  
 ed like a vapor, while Nature wore the name  
@@ -8517,7 +7445,7 @@ he dried, and glisten again with joy and
 even our children will crane to think of, and  
 will n o t remember to lisp our names.  
   
-The sanctum of the 
+The sanctum of the e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001918%2F1860112901%2F0149.jp2/pct:43.629756,68.171823,12.195383,14.842155/!600,600/0/default.jpg"/>
 </td>
@@ -8531,8 +7459,6 @@ The sanctum of the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 OUR TURN MUST COME  
   
 Generation after ,eneration, have  
@@ -8564,7 +7490,7 @@ with joy; and even our children wilt
 cease to think of, and will not remem.  
 ber to lisp our names.  
   
-IBf
+IBfe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001969%2F1860120501%2F0193.jp2/pct:81.292793,36.120567,11.959459,17.439716/!600,600/0/default.jpg"/>
 </td>
@@ -8578,7 +7504,7 @@ IBf
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  teye apeciat enroy from  
+teye apeciat enroy from  
 he State of South Caroling.  
 Ocr TurN Must Come.- Generation after  
 generation, says a fine writer, &quot;have felt as we  
@@ -8604,7 +7530,7 @@ we died, and the eye that mourned for us will
 be dried, and glisten again with joy; and even  
 our children will cease to think of us, and will  
 not remember to lisp our names.&quot;  
-Stawnens.Yes,
+Stawnens.Yes, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_babytate_ver01:data:sn84026897:00294550707:1861021301:0153/pct:85.300668,51.968117,12.070396,13.806337/!600,600/0/default.jpg"/>
 </td>
@@ -8618,7 +7544,6 @@ Stawnens.Yes,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 Our Turn Must Come.?Generation  
 after generation, says a fine writer,  
 &quot; havo felt as wc now fool, and their lives  
@@ -8645,7 +7570,8 @@ in the*room in which wo died, and the
 eye that mourned for us will be dried,  
 and glisten again with joy : and even our  
 children*will cease to thinly of us, and  
-will not remember to lisp our names.&quot;
+will not remember to lisp our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1861022101:0098/pct:1.077586,63.589514,16.611406,19.941743/!600,600/0/default.jpg"/>
 </td>
@@ -8659,7 +7585,6 @@ will not remember to lisp our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 subside for the present.  
   
 Orr Tibn Must Comb.—“Generation after&#x27;;  
@@ -8687,7 +7612,7 @@ glisten again with joy; ami even our chihlren
 will cease to think of us, and will not remember  
 to slip our names.&quot;  
   
-Con
+Con 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016480:00516990752:1861030201:0150/pct:73.723537,73.748552,12.186444,11.079655/!600,600/0/default.jpg"/>
 </td>
@@ -8701,7 +7626,6 @@ Con
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Our Turn Must Come.  
 &quot;Generation after géneration,&quot; says a  
 fine writer, &quot;have felt as we now feel.  
@@ -8733,7 +7657,7 @@ will be dried, and glisten again with joy;
 and even our children will cease to think  
 of us, and will not remember to lisp our  
 itt111eS.  
-e e  
+e e  e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn84024443:00280779234:1861031501:0030/pct:79.169151,33.686931,12.383224,16.115871/!600,600/0/default.jpg"/>
 </td>
@@ -8747,7 +7671,6 @@ e e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
 Our Turn Must Come.  
 &quot;Generation after gdneration,&quot; says a  
 fine writer, &quot;have felt as we now feel,  
@@ -8757,7 +7680,7 @@ wore the same aspect of beauty as when
 her Creator commanded her to be. The  
 heavens shall be as bright over our graves  
 as they are now around our paths. The  
-world will have
+world will have 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1861031601:0703/pct:78.957836,33.412182,11.734288,5.529273/!600,600/0/default.jpg"/>
 </td>
@@ -8771,7 +7694,7 @@ world will have
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- by minute  
+by minute  
 men in the present crisis.  
 Geneeation after generation have felt as  
 they now feel, and their lives were as active as  
@@ -8795,7 +7718,8 @@ in the room in which we died : and the eyes
 that mourned for us will be dried, and glisten  
 again with joy ; and even our children will  
 cease to think of us, and will not remember to  
-lisp our name.
+lisp our name.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557384:1861032301:0048/pct:28.921838,65.382565,12.904997,15.329246/!600,600/0/default.jpg"/>
 </td>
@@ -8819,7 +7743,7 @@ lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.Cencration af  
+Cencration af  
 ter generation, says a fine writer, &quot;have felt  
 as we now feel, and their lives were as active  
 as our own. They passed like a vapor, while  
@@ -8845,7 +7769,7 @@ room in which we died, and the eye that
 mourned for us will be dried and glisten again  
 with joy; and even our children cease to  
 think of us, and will not remember to lisp our  
-names
+names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1861033001:1211/pct:17.460822,64.046579,16.476069,14.481294/!600,600/0/default.jpg"/>
 </td>
@@ -8859,7 +7783,6 @@ names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Our Turn Must Come.  
 &#x27;(feneration after generation,&#x27; aajrn .a finp  
 writer, &#x27;have felt ait we now feel, ami their  
@@ -8887,7 +7810,7 @@ and even our children will cease to think of
 us, and will not remember nor lisp our  
 names.&#x27;  
 Plain Talk.  
-fjo out into the ope
+fjo out into the open
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861041101:0461/pct:71.169022,18.086612,11.084603,14.152279/!600,600/0/default.jpg"/>
 </td>
@@ -8901,7 +7824,7 @@ fjo out into the ope
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;lieneration after generation,&quot; says a  
+lieneration after generation,&quot; says a  
   
 fine writer, &quot;have felt as we now feel, and  
 their lives were as active as onr own.  
@@ -8932,7 +7855,8 @@ glisten again with joy; and even our chil
 dren will cease to think of as, and will  
 not remember to lisp our names.&quot;  
   
-PRYOR
+PRYOR  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1861041701:0098/pct:31.417510,20.630685,45.324598,57.101273/!600,600/0/default.jpg"/>
 </td>
@@ -8946,7 +7870,7 @@ PRYOR
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of piety.  
+of piety.  
 — &gt;  
 An Eloquent Extract.—“ Gener­  
 ation after generation have ,felt as wo  
@@ -8976,194 +7900,10 @@ that mourned for us will glisten again
 with joy ; and our children will cease  
 to think of us, and will forget to lip  
 our names.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1861051801:0443/pct:80.175557,76.048951,13.733964,18.099548/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Ashtabula weekly telegraph._](https://www.loc.gov/resource/sn83035216/1861-06-29/ed-1/?sp=1)
-
-#### 1861-06-29 &middot; [Ashtabula, Ohio](http://dbpedia.org/resource/Ashtabula%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-NeArER HOME.  
-  
-One sweetly-solemn thou ght  
-Comes to me o&#x27;er and o&#x27;er;  
-I&#x27;m nearer home to-day  
-Than I have ever been before.  
-Nearer my Father&#x27;s house,  
-Where the many mansonsions be;  
-Nearer the great white throne,  
-Nearer the jasper sea.  
-Nearer the bound of life  
-Where we lay our burdens down:  
-Nearer leaving my cross,  
-Nearer wearing my crown,  
-But lying darkly between,  
-Winding down through the night,  
-Is the dark and shadowy stream,  
-That bursts at last into light.  
-Oloser and closer my steps  
-Comes to the dark abysm;  
-Closer death to my lips  
-Presses the awful chrism.  
-Savior, perfect my love!  
-Strengthen the might of my faith;  
-Let me feel as I would when I stand  
-On the rock of the shore of death.  
-Feel as I would when my feet  
-Are slipping over the brink;  
-For it may be I&#x27;m nearer home,  
-Nearer now than I think.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861062901:0664/pct:19.487179,50.704411,10.034188,15.813035/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Clearfield Republican._](https://www.loc.gov/resource/sn83032199/1861-07-10/ed-1/?sp=1)
-
-#### 1861-07-10 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-,  
-NEAARER HOME.  
-One sweetly sol mn thought  
- Comes to me o&#x27;or and o&#x27;er,  
-I&#x27;m nearer home to-day  
-Than I have ever been before.  
-Nearer my Father&#x27;s house,  
-Where the many mansions be;  
-Nearer-the great white throne,  
-Nearer the jasper sea.  
-Nearer the bound of life,  
-Where we lay our burdens down;  
-Nearer leaving the cross,  
-Nearer gaining the crown.  
-But lying darkly between,  
-Winding down through the night,  
-Is the dim and unknown stream  
-That leads me at last to the light.  
-Closer, closer my steps  
-Come to the dark abysm;  
-Closer death to my lips  
-Presses the awful crysm.  
-Savior perfect my trust,  
- Strengthen the might of my faith,  
-Let me feel as I would when I stand  
-On the rock of the shore of death.  
-Feel as I would when my feet  
-Are slipping over the brink,  
-For it may be I&#x27;m nearer home,  
-Nearer now, than I think.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861071001:0562/pct:3.272577,20.011010,11.681856,15.042664/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New Oregon plaindealer._](https://www.loc.gov/resource/sn87058042/1861-08-16/ed-1/?sp=1)
-
-#### 1861-08-16 &middot; [New Oregon, Iowa](http://dbpedia.org/resource/New_Oregon_Township%2C_Howard_County%2C_Iowa)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-&#x27;m nearer to my home to-day  
-  
-Nea^jj[j$Jfe^»und of life,  
-When wclay our burdens down—  
-Nearer leaving my cross,  
-  
-Nearer wearing my crown.  
-  
-But lying dimly between,  
-V&#x27;inding down through the nigftil^  
-Is the dim and uncertain stream  
-  
-That leads us at length to the light.  
-  
-Father, perfeet my trust!  
-Strengthen my feeble faith!  
-Let me feel as I shall when 1 stand  
-  
-On the shores of the river of death.  
-  
-Let me feel an I shall when my feet  
-Are slipping over the brink  
-It may be l:m Bearer home.  
-  
-Still nearer home than I think.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1861081601:0415/pct:35.504886,32.237779,12.491857,16.065496/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Friends' Review; a Religious, Literary and Miscellaneous Journal (1847-1894)_](https://archive.org/details/sim_friends-review-a-religious-journal_1861-08-31_14_52/page/n14/mode/1up?view=theater)
-
-#### 1861-08-31 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-NEARER HOME,  
-  
-One sweetly solemn thought  
-Comes to me o’er and o’er,  
-I’m nearer home to-day  
-Than I ever have been before.  
-  
-Nearer my Father’s house,  
-Where the many mansions be ;  
-  
-Nearer the great white throne,  
-Nearer the jasper sea.  
-  
-Nearer the bound of life,  
-  
-Where we lay our burdens down  
-Nearer leaving the cross,  
-  
-Nearer gaining the crown.  
-  
-But lying darkly between,  
-Winding down through the night,  
-Is the dim and unknown stream  
-That leads me at last to the light.  
-  
-Closer, closer my steps  
-Come to the dark abysm ;  
-  
-Closer death to my lips  
-Presses the awful chrysm.  
-  
-Saviour, perfect my trust,  
-Strengthen the might of my faith,  
-  
-Let me feel as I would when I stand  
-On the rock of the shore of death.  
-  
-Feel as I would when my feet  
-Are slipping over the brink,  
-For it may be I’m nearer home,  
-Nearer now, than I think.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-review-a-religious-journal_1861-08-31_14_52%2Fsim_friends-review-a-religious-journal_1861-08-31_14_52_jp2.zip%2Fsim_friends-review-a-religious-journal_1861-08-31_14_52_jp2%2Fsim_friends-review-a-religious-journal_1861-08-31_14_52_0014.jp2/pct:48.339623,14.282262,25.245283,33.035283/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9175,8 +7915,6 @@ Nearer now, than I think.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 FORGOTTEN.  
   
 Tue following was cut from an Ohio paper seven- -  
@@ -9236,7 +7974,7 @@ dren will cease to thiak of us, and will not remember
 to lisp our name. Then shall we have become, tn  
   
 the touching language of the Psalmist, ‘ forgotten  
-and clean out of mind.’
+and clean out of mind.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_independent_1861-09-26_13_669%2Fsim_independent_1861-09-26_13_669_jp2.zip%2Fsim_independent_1861-09-26_13_669_jp2%2Fsim_independent_1861-09-26_13_669_0006.jp2/pct:73.965969,60.705446,13.232984,14.583333/,600/0/default.jpg"/>
 </td>
@@ -9250,7 +7988,7 @@ and clean out of mind.’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s Zlst.  
+Zlst.  
 Forgotten.  
 The follow ing was cut from an Ohio pa  
 per sevent een years ago. it bas been care  
@@ -9289,7 +8027,7 @@ our children will cease to think of us, and
 will not remember to lisp our name. . Then  
 Then shall we have become, in the touchm  
 language of the Psalmist, &#x27;forgotten and  
-clean out of mind,&#x27;
+clean out of mind,&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1861101201:0416/pct:59.697242,62.721331,13.129496,22.281640/!600,600/0/default.jpg"/>
 </td>
@@ -9303,7 +8041,6 @@ clean out of mind,&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Generation after generation,&quot; says an elo  
   
 qient writer, &quot;have felt as we feel, and their  
@@ -9334,7 +8071,8 @@ ten again with joy; and even our own children
  will cease to think of us, and will not remem­  
 ber to lisp our name. Then shall we have  
 become, in the touching language of the Psalm­  
-ist, &quot;forgotten and clean out of mind.&quot;
+ist, &quot;forgotten and clean out of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029208:1861110101:0176/pct:4.119908,38.830250,11.883167,14.205886/!600,600/0/default.jpg"/>
 </td>
@@ -9348,7 +8086,7 @@ ist, &quot;forgotten and clean out of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Selected.  
+Selected.  
 Forgotten.  
 , The following was cut from &#x27; an Ohio  
 paper seventeen years ago. It has been  
@@ -9389,49 +8127,9 @@ children will cease to think of us, and
 will not remember to lisp our name.  
 Then shall we have become, in the  
 touching language of the Psalmist, &#x27;for­  
-gotten and clean out of mind.&#x27;
+gotten and clean out of mind.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862013101:0040/pct:26.492298,41.782694,11.232349,22.290176/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Spirit of the age._](https://www.loc.gov/resource/sn84023296/1862-02-27/ed-1/?sp=4)
-
-#### 1862-02-27 &middot; [Woodstock, Vt.](http://dbpedia.org/resource/Woodstock%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-One sweetly solemn thought  
-Comes to me oer and o&#x27;er;  
-I am nearer home to-day  
-Than I was the day before.  
-Nearer my Fathor&#x27;s house,  
-Where the many mansions be;  
-Nearer the great white throne,  
-Nearer the crystal sea.  
-Nearer the bounds of life,  
-Where we lay our burdens down;  
-Nearer leaving the cross,  
-Nearer gaining the crown.  
-But lying darkly between,  
-Winding down through the night,  
-Is the deep and unknown steam  
-That leads at last to the light.  
-Jesus, perfect my trust,  
-Strengthen the hand of faith,  
-Let me feel thee near when I stand  
-On the edge of the shore of death  
-Feel thee near and more near,  
-When my feet  
-Are slipping over the brink,  
-For it may be I&#x27;m nearer home  
-Nearer now than I think.  
-Two touri
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296084:1862022701:0106/pct:9.024774,10.034453,13.291388,15.374677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9443,7 +8141,7 @@ Two touri
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; Generates after generation,&#x27;&#x27; saya a fine  
+Generates after generation,&#x27;&#x27; saya a fine  
 writer, &quot;have felc as we now feel, and their  
 lives were active as otir own. iney passed  
 like a vapor, while nature wore the same as  
@@ -9466,7 +8164,7 @@ be heard in the room in which we died; and
 the eyes that monrned for us will bo dried, &#x27;  
 and glisten again with joy; and even our chil­  
 dren will cease to think of us, and will not  
-remember to lisp our names
+remember to lisp our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775897:1862051401:0034/pct:81.259151,81.854357,12.536603,13.556175/!600,600/0/default.jpg"/>
 </td>
@@ -9480,7 +8178,7 @@ remember to lisp our names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hat the present  
+at the present  
 Congress ha done to the Union caune.  
 An Eloquent r.strat t.  
 &quot;Generation after generation&#x27; says 1  
@@ -9508,133 +8206,10 @@ tho room in which we died; and the y
 that mourned tor us will b dried, and  
 glisten again with joy; and evm uur chil­  
 dren will cease to think of u-, rl wiji not  
-remember to lUp cu: Lames.
+remember to lUp cu: Lames.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1862062601:0114/pct:82.747489,75.809893,12.589670,20.514064/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Saturday Evening Post (1839-1885)_](https://archive.org/details/sim_saturday-evening-post_1862-07-26_2139/page/n3/mode/1up?view=theater)
-
-#### 1862-07-26 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-a better lif as Americans  
-  
-Nearer wearing the crown! comsary to halt, and give up the parvait for  
-  
-But lying darkly bet ween,  
-Winding down through the night thoroughly disheartened at the non-appear-  
-re ance of the cow, for whose safety he now felt  
-  
-le Ube dart and shad. wy strenn  
-That busts at inet into light!  
-  
-Father, petiect my love;  
-Mtrengthen the might of my faith ,  
-  
-Let me feel ac IT would when | stand  
-On the rock of the shore of death  
-  
-Feel ae | would when my fect  
-Are slipping over the brink ,  
-  
-For tt may be I&#x27;m nearer home,  
-Nearer now than | think!
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1862-07-26_2139%2Fsim_saturday-evening-post_1862-07-26_2139_jp2.zip%2Fsim_saturday-evening-post_1862-07-26_2139_jp2%2Fsim_saturday-evening-post_1862-07-26_2139_0003.jp2/pct:10.967504,18.288313,55.668390,8.971885/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Union County star and Lewisburg chronicle._](https://www.loc.gov/resource/sn85038443/1862-10-07/ed-1/?sp=2)
-
-#### 1862-10-07 &middot; [Lewisburg, Pa.](http://dbpedia.org/resource/Lewisburg%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-)  
-One sweetly-solemn thought  
-Comes to me o&#x27;er and o&#x27;er  
-I&#x27;m nearer my home, to-day,  
-Than I&#x27;ve ever been before!  
-Nearer my Father&#x27;s house,  
-Where the many mansions be;  
-Nearer the great white throne,  
-Nearer the chrystal sea.  
-  
-Nearer the bound of life,  
-Where we lay our burdens down,  
-Nearer leaving the cross,  
-Nearer wearing the crown.  
-But, lying darkly between,  
-Winding down through the night,  
-Is that dim and unknown stream  
-Which leads at last to light.  
-For even now my feet  
-May stand upon its brin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862100701:0650/pct:6.993622,20.136408,11.260172,11.188698/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41/page/n57/mode/1up?view=theater)
-
-#### 1862-11-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-One sweetly-solemn thought  
-Comes to me o’er and o’er;  
-I’m nearer home to-day  
-Than I have ever been before.  
-  
-Nearer my Father’s house,  
-Where the many mansions be;  
-  
-Nearer the great white throne,  
-Nearer the jasper sea.  
-  
-Nearer the bound of life  
-  
-Where we lay our burdens down;  
-Nearer leaving my cross,  
-  
-Nearer wearing my crown;  
-  
-But lying darkly between,  
-Winding down through the night,  
-  
-Is the dark and shadowy stream,  
-That bursts at last into light.  
-  
-Closer and closer my steps  
-Come to the dark abysm;  
-  
-Closer death to my lips  
-Presses the awful chrism.  
-  
-Savior, perfect my love!  
-Strengthen the might of my faith;  
-Let me feel as I would when I stand  
-On the rock of the shore of death;  
-  
-Feel as I would when my feet  
-s Are slipping over the brink;  
-For it may be I’m nearer home,  
-Nearer now than I think.  
-  
-Tue Morner’
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41_jp2.zip%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41_jp2%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1862-11_22_41_0057.jp2/pct:51.204380,40.349617,26.313869,32.734674/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9646,7 +8221,7 @@ Tue Morner’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a e o o a te  
+a e o o a te  
 attractions for our offspring yet unborn,  
 that she had once for our children. Yet  
 a little while, and all will have happen-  
@@ -9679,48 +8254,10 @@ eye that mourned for us will be dried,
 and glisten again with joy; and even  
 our children will cease to think of us  
 and will not remember to lisp our  
-names.&quot;
+names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1862122501:0648/pct:44.310127,74.279742,25.779202,18.928164/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New Hampshire journal of agriculture._](https://www.loc.gov/resource/sn90062042/1863-01-12/ed-1/?sp=3)
-
-#### 1863-01-12 &middot; [Manchester, N.H.](http://dbpedia.org/resource/Manchester%2C_New_Hampshire)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-e  
-NEARER.  
-One sweetly solemn thought  
-Comes to me o’er and o’er :  
-I’m nearer to my home to-day i  
-Than I’ve ever been before.  
-Nearer my Father’s house :  
-Where the many mansions be  
-Nearer the great white throne,  
-Nearer the jasper sea ;  
-Nearer that bound of life,  
-When we lay our burdens down—  
-Nearer leaving my cross,  
-Nearer wearing my crown.  
-But lying dimly between,  
-Winding down through the night,  
-Is the dim and uncertain stream  
-That leads us at length to thelight.  
-Father, perfect my trust !  
-Strengthen my feeble faith ! :  
-Let me feel as when I stand  
-On the shore of the river of Death.  
-Let me feel as I shall when my feet  
-Are slipping cver the brink ;  
-It may be I’&#x27;m nearer home,  
-Still nearer home than I think
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn90062042:00517015428:1863011201:0235/pct:11.856128,26.204578,15.519538,18.889067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9732,7 +8269,7 @@ Still nearer home than I think
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and whose presence may never  
+and whose presence may never  
 be detected til! ihe time arrives when tho  
 lost area chawjr. shall take place?  
 &quot; Generation after generation,&quot; says a  
@@ -9763,7 +8300,7 @@ and glisten again with joy; and even cur
 children will cca&amp;e to think of us, and will  
 not remember to lisp cur names.&quot;  
 Wesley and his Companion. He  
-could be noble in 
+could be noble in h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA32n_ver01%2Fdata%2F1863042301%2F0012.jp2/pct:67.303241,48.101666,14.351852,18.487661/!600,600/0/default.jpg"/>
 </td>
@@ -9777,7 +8314,7 @@ could be noble in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-er and the boundless grace  
+r and the boundless grace  
 God scatters through this fair world fur us all.  
 A Bealtifcl Extract.—-Generation after  
 generation,&quot; says a fine writer, “ have fell as  
@@ -9806,48 +8343,10 @@ with joy ; and even our children will cease to
 think of us, and will not remember to lisp our  
 names. Then shall we have become, in the  
 touching language of the psalmist, “ forgo-ten  
-and gone on: of mind/’
+and gone on: of mind/’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863051601:0298/pct:28.717640,33.156780,13.245033,19.733656/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Springfield weekly Republican._](https://www.loc.gov/resource/sn83020847/1863-05-16/ed-1/?sp=7)
-
-#### 1863-05-16 &middot; [Springfield, Mass.](http://dbpedia.org/resource/Springfield%2C_Massachusetts)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-!  
-Nearer.  
-One sweetly solemn thought  
-Comes to me o’er and o’er:  
-I’m nearer to my home to.day,  
-Than I’ve ever been before.  
-Nearer my Father’s house  
-Where the many mansions.be;  
-Nearer the great white throne,  
-Nearer the jasper sea;  
-Nearer that bound of life,  
-When we lay our burdens down-  
-Nearer leaving my cross,  
-Nearer wearing ray crown.  
-But lyiug dimly between,  
-Winding down through the naglrt,  
-Is the dim and uncertain stream  
-That leads us at length to the light.  
-Father! perfect my trust!  
-Strengthen my feeble faith!  
-Let mo feel as when I stand  
-On the shore of the river of death.  
-Let me feel as I shall when my feet  
-Are slipping over the brink;  
-It may be I’m nearer home,  
-Still nearer home than I think
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171499:1863051601:0159/pct:19.394743,35.686758,10.823945,12.085710/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9859,7 +8358,7 @@ Still nearer home than I think
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- free and the brave;  
+free and the brave;  
 Let him nobly die a laeto&#x27;s death,  
 And rest in a bor.&#x27;s grave. , ,  
   
@@ -9899,7 +8398,8 @@ remember to, y.,k . )_ our., .names. Then shall
 we have bepordrejir theitOnehing.language of  
 the, psalmisl,&quot;  
 ... &quot;forgottca and gone , out •Of  
-utind.&quot;.
+utind.&quot;.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002420%2F1863080701%2F0097.jp2/pct:4.822627,52.800055,14.362416,19.123341/!600,600/0/default.jpg"/>
 </td>
@@ -9913,7 +8413,6 @@ utind.&quot;.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Beautiful Extract.  
 &quot;Gencrgtion after generation,&quot; says a fino  
 writer, &quot;have felt as we feel now, nnd their  
@@ -9942,7 +8441,8 @@ and even our children will cense to think of
 us, and will not remember to lisp&#x27;our names  
 Then shall wc have become iu tho touching  
 languago of the psalmist—&quot;forgotten and  
-gone out of mind.&quot;
+gone out of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1863091001:0409/pct:81.433652,38.316029,12.988958,17.579292/!600,600/0/default.jpg"/>
 </td>
@@ -9956,8 +8456,6 @@ gone out of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 A Beautiful Extract.—Generation  
 after generation, says a fine writer, have  
 felt as we feel now, and their lives were  
@@ -9988,7 +8486,8 @@ and even our children will cease to think
 of us, and will not remember to lisp our  
 names. Then shall we have become, in  
 the touching language of the psalmist,  
-“ forgotten and gone out of mind.”
+“ forgotten and gone out of mind.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032312:00513685257:1863102901:0134/pct:68.642384,69.718061,12.367550,19.511620/!600,600/0/default.jpg"/>
 </td>
@@ -10002,7 +8501,6 @@ the touching language of the psalmist,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A BEAUTIFUL EXTRACT.  
 Generation after generation, says a fine  
 writer, have felt as we feel now, and their  
@@ -10033,53 +8531,10 @@ dren will cease to think of us, and will not
 remember to lisp our names. Then shall  
 we have become, in the touching language  
 of the psalmist, “forgotten and gone out of  
-mind.”
+mind.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863111401:0183/pct:83.922652,40.980340,12.467772,16.166312/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Dollar weekly mirror and New Hampshire journal of agriculture._](https://www.loc.gov/resource/sn84023819/1864-03-12/ed-1/?sp=1)
-
-#### 1864-03-12 &middot; [Manchester, N.H.](http://dbpedia.org/resource/Manchester%2C_New_Hampshire)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-NEARER HOME.  
-PR  
-Oae sweetly wzleome thought  
-Comes to me o’er and o’er:  
-I’m nearer home to day  
-Than I’ve ever been before.  
-Nearer my Fathers house,  
-Where many mtsions be;  
-Nearer the great white throne,  
-Nearer the Jasper sea ;  
-Nearcr the bouni of lif  
-Where we lay our burdeas dowa,  
-Nearer leavinyg the crosa,  
-Nearer gaining the crown.  
-But lying dimly between,  
-Winding down through the nizht,  
-Lies the dark and uncertain stream  
-That leads us at l-ngth to the light.  
-Closer and eloser my steps  
-Come to the dark ahysm,  
-Closer Daath to my lips  
-Presses the awful ehrism ; .  
-Father, perfect my trust !  
-Strengthen my feeble faith !  
-Let me feel as I would wien I stand  
-Oan the shores of the river ofileath—  
-Feel as T would were my feet  
-Even now slipping over the brink ;  
-¥or it may be I’m
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023819:00517015465:1864031201:0241/pct:46.443515,13.508348,9.286004,13.377590/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10091,22 +8546,7 @@ Even now slipping over the brink ;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-a saddle;  
-! and is supposed the host judge of a horse,  
-cow, &amp;0., iu the country ; and is frequent­  
-ly requested to purchase for others at the  
-neighboring fairs.  
-She is fond of Milton, Pope, Sbak­  
-speare, also of music ; performs on several [  
-instruments, as the fiuto, violin, barpsi- j  
-j chord, and supports the bass viol in Mat- !  
-j lock church. Shu is an excellent marks- j  
-I woman, and, like her brother-sportsmen,!  
-| carries her gun upon her shoulder. She |  
-) eats no beef or pork, and but little unit­  
--1 ton ; her chief food is milk, and also her \
-! drink—discarding wine, ale, and spirits.  
-j Eloquent Extract.—“Generation af |  
+Eloquent Extract.—“Generation af |  
 | ter generation,” says an eloquent writer, j  
 ! “have felt as we feel, and their feelings;  
 i wore as active us our own. They passed 1  
@@ -10133,192 +8573,10 @@ in the place iu which we died ; and tiie
 eye that mourned for us will be dried, and  
 I glisten again with joy ; -and even our chil-1  
 dren will cease to think of us and will not |  
-remember to lisp our names.”
+remember to lisp our names.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1864062401:0069/pct:63.566694,53.093233,15.120133,25.965728/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Waynesburg messenger._](https://panewsarchive.psu.edu/lccn/sn84026518/1864-12-21/ed-1/seq-1/)
-
-#### 1864-12-21 &middot; [Waynesburg, Greene County, Pa.](http://dbpedia.org/resource/Waynesburg%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-t  
-  
-Nearer Home.  
-One sweetly solemn thought  
-  
-Comes to me o&#x27;er and o&#x27;er :  
-I&#x27;m nearer . to my home to-day  
-Than I&#x27;ve ever been before.  
-  
-Nearer my father&#x27;s house,  
-Where many mansions be ;  
-Nearer the great white throne,  
-Nearer the jasper sea.  
-  
-Nearer the bound of life  
-Where we lay our burdens down  
-Nearer leaving my cross,  
-Nearer wearing my crown.  
-  
-But lying darkly betvreen,  
-Winding down the night,  
-Is that dim and unknoven stream  
-Which leads at last to light.  
-  
-J Y. pitculls  
-  
-Father! perfect my trust,  
-Strengthen my feeble faith ;  
-Let me fee! as it I trod  
-The shore of the river death  
-  
-For even now my feet  
-May stand upon its brink ;  
-I may be nearer my home,  
-Nearer now than I think.  
-  
-Thy Will be Done !  
-Thy will be done ;  
-In devious ways the hurr
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cybele_ver01%2Fdata%2Fsn84026518%2F000002096%2F1864122101%2F0185.jp2/pct:12.701764,17.867394,15.718844,21.304535/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Friend; a Religious and Literary Journal (1827-1906)_](https://archive.org/details/sim_friend-a-religious-and-literary-journal_1865-03-18_38_29/page/n3/mode/1up?view=theater)
-
-#### 1865-03-18 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-em  
-  
-HYMN.  
-One sweetly solemn thought  
-Comes to me o’er and o’er;  
-I’m nearer my Home to-day,  
-Than I’ve ever been before.  
-  
-Nearer my Father’s house,  
-Where the many mansions be ;  
-  
-Nearer the great white throne—  
-Nearer the Jasper sea.  
-  
-Nearer the bound of life,  
-Where we lay our burdens down ;  
-Nearer leaving my cross,  
-Nearer wearing my crown.  
-  
-But lying darkly between  
-Winding down through the night,  
-Is that dim and unknown stream,  
-Which leads at last to light.  
-  
-Father, perfect my trust;  
-Strengthen my feeble faith ;  
-Let me feel as if I trod  
-The shore of the river—Death.  
-  
-For even now my feet  
-May stand upon its brink;  
-I may be nearer Home,  
-Nearer now, than I think.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friend-a-religious-and-literary-journal_1865-03-18_38_29%2Fsim_friend-a-religious-and-literary-journal_1865-03-18_38_29_jp2.zip%2Fsim_friend-a-religious-and-literary-journal_1865-03-18_38_29_jp2%2Fsim_friend-a-religious-and-literary-journal_1865-03-18_38_29_0003.jp2/pct:42.756075,37.871108,18.824977,29.133478/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Raftsman's journal._](https://www.loc.gov/resource/sn85054616/1865-04-12/ed-1/?sp=1)
-
-#### 1865-04-12 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
--  
-  
-NEAEEE HOME.  
-One sweet solemn thought  
-Comes to me o&#x27;er and o&quot;er:  
-I&#x27;m nearer to my homo to day,  
-Than I&#x27;ve ever been before.  
-Kearer to my father&#x27;s house.  
-Where many mansions be;  
-Nearer the great white throne,  
-Nearer tVe j tsper sea.  
-Kearer the bound of life  
-Where we lay our burdens down !  
-Nearer loavin in if cr;iss.  
-Neater wearing my crown.  
-Bat lying darkly between.  
-Wiudiiig down the night.  
-Is that dim and unknown stream  
-Which le:ids at last te light.  
-Father! perfect my trust.  
-Strengthen mv fb&#x27;e faith;  
-Let me it-el as if T trod  
-The shore of the river death.  
-For even now my feet  
-M:iy stand upon its brink ;  
-I uiay be nearer my home.  
-Nearer now than I thin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1865041201:0537/pct:20.251018,20.012870,10.498643,12.496782/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Columbia Democrat and Bloomsburg general advertiser._](https://www.loc.gov/resource/sn85025181/1865-04-22/ed-1/?sp=1)
-
-#### 1865-04-22 &middot; [Bloomsburg, Pa.](http://dbpedia.org/resource/Bloomsburg%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-  
-Nearer Home.  
-One sweet solemn thought  
-Cemes to me o&#x27;er and o&#x27;er:  
-I&#x27;m nearer to my home to day,  
-Than I&#x27;ve ever baen befere.  
-Nearer to my father&#x27;s house,  
-Where many mansiens be  
-Nearer the great white throne,  
-Nearer the jasper sea.  
-Nearer the hound of life  
-Where we lay our burdens down!  
-Nearer leaving my cross,  
-Nearer wearing my crown.  
-But lying darkly between,  
-Winding down the night.  
-Is that dim and unknown stream  
-Which leads at last to light.  
-Father! perfact my trast,  
-Strengthen aly feeble farth;  
-Let me feel as if I trod  
-The shore of the river death.  
-Fer even now my feet  
-May stand upon its brink;  
-I may be nester to a y home,  
-Nearer now than I think.  
-For the Columhia Democrat.  
-Kitty Wells.  
-BY A SOLDIEr BOY.  
-You ask what makes this darve
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287964:1865042201:0075/pct:16.645232,20.231456,9.351461,16.480759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1864062401:0069/pct:63.566694,62.474586,15.120133,16.584374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10330,7 +8588,7 @@ You ask what makes this darve
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-men be cho  
+en be cho  
 j sen. The friends of the Glorious Coffee  
 Kicker will have to begin again.  
   
@@ -10369,7 +8627,7 @@ in the touching language of the Psalmist,
   
 Aguade Maoxoija,—The prettiest thing, the  
 “sweetest thing,” and the most of it for the  
-least mon
+least mone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:00517174543:1867022801:0225/pct:16.137012,8.912732,25.708849,84.477825/!600,600/0/default.jpg"/>
 </td>
@@ -10383,7 +8641,7 @@ least mon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ie  
+e  
   
 ako in siimer o aoeoeeeo e  
   
@@ -10419,7 +8677,7 @@ song will be heard in the very chamber
 in which we died; and the eye that  
 mourned for us will be dried and will  
   
-eve
+even
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867040701:0325/pct:10.577214,50.722733,15.064974,8.749452/!600,600/0/default.jpg"/>
 </td>
@@ -10433,7 +8691,7 @@ eve
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the villain who has robbed  
+of the villain who has robbed  
 his brother of his life.  
   
 FORGOTTEN,  
@@ -10474,7 +8732,7 @@ out of mind.&#x27;&quot;
 TIIE STRIKE IJF THE COAL MINES,—The  
 Maucli Chunk Gazette says : The strike mt  
 ihj Colleii-s in this and Luzerne Countv,  
-has been one of the most prolonge
+has been one of the most prolonged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn86081912:00296028629:1867041001:0273/pct:49.372844,21.868412,14.487300,24.875180/!600,600/0/default.jpg"/>
 </td>
@@ -10488,7 +8746,7 @@ has been one of the most prolonge
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.&quot;  
+&quot;  
 We Fade as a Leaf.  
 As the trials of life thicken, and the  
 dreams of other days fade one by one in  
@@ -10522,7 +8780,7 @@ be dried and will glisten with joy; and even
 our children will cease to think of us, and  
 will not remember to lisp our name.  
 A GRAVE WITHOUT A MONUMENT.The  
-sea is the largest of cemeteries, and all it
+sea is the largest of cemeteries, and all its
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867041101:0359/pct:28.094443,54.915627,12.234677,17.663243/!600,600/0/default.jpg"/>
 </td>
@@ -10536,7 +8794,6 @@ sea is the largest of cemeteries, and all it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Wk r.viiE am a Lk\h.—As the trials of  
 life thicken, and the dreams of other days  
 fade one by one in the dim vista of disap­  
@@ -10566,7 +8823,8 @@ very chamber in which wc died; and the
 eye that mourned for us will he dried and  
 will glisten with joy ; and even our chil­  
 dren will cease to think of US, and will not  
-remember to lisp our name.
+remember to lisp our name.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1867051001:0080/pct:16.547806,68.945272,12.776502,17.865381/!600,600/0/default.jpg"/>
 </td>
@@ -10580,7 +8838,7 @@ remember to lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-RMS  
+MS  
   
 WE FADE AS A LEAF.  
 As the trials of life thicken, and  
@@ -10623,7 +8881,7 @@ The heart has
 memories that can  
 never die; the rough usag  
 rough usage of the  
-worl
+world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1867051801:0673/pct:71.272804,12.200667,12.790941,23.476811/!600,600/0/default.jpg"/>
 </td>
@@ -10637,7 +8895,7 @@ worl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Miss.  
+Miss.  
   
 We Fade as a Le if-  
 As the trials of lim thicken, and  
@@ -10675,7 +8933,7 @@ and will glisten with joy ; and even
 our children will cease to think of  
 r.s, and will not rem &#x27;ii,ber to lisp our  
 • name.  
-
+r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159361:1867052101:0209/pct:17.491564,58.299378,12.232846,21.381085/!600,600/0/default.jpg"/>
 </td>
@@ -10689,7 +8947,7 @@ r.s, and will not rem &#x27;ii,ber to lisp our
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
+  
 egory. We Fade as a Leaf. ;  
 As the trials of life thicken, and the  
 dreams of otherdays fade one by one in the  
@@ -10721,7 +8979,7 @@ be dried and will glisten with joy; and even
 our children will cease to think of us, arid  
 w iil not remember to lisp our name.  
 Cm&#x27; I-Vote Jr I&#x27;a ,; &quot;. Two of, the  
-most inteibg&#x27;-i-it colored men in this plac
+most inteibg&#x27;-i-it colored men in this place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1867052501:0535/pct:69.348762,70.350315,12.298170,16.731131/!600,600/0/default.jpg"/>
 </td>
@@ -10735,7 +8993,7 @@ most inteibg&#x27;-i-it colored men in this plac
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
 WE DO FADE ASA LEAF.—As the trials of  
 life thicken, and the dreams of — oth — er days  
@@ -10765,7 +9023,8 @@ song will be heard in the very chamber in
 which we died; and the eye that mourned  
 for us will be dried and will glisten with joy;  
 and even our children will cease to think of  
-us, and will not remember to lisp our name.
+us, and will not remember to lisp our name.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002424%2F1867053101%2F0073.jp2/pct:19.590378,69.680233,15.121779,16.671512/!600,600/0/default.jpg"/>
 </td>
@@ -10779,7 +9038,7 @@ us, and will not remember to lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ve and faith which in my  
+e and faith which in my  
 ! master&#x27;s name I seek of you who look for  
 bis appearing. Serve God by doing com­  
 mon actions in a heavenly spirit, and then,  
@@ -10817,7 +9076,8 @@ will be heard in the very chamber in which
 wc died; and the eye that mourned for us  
 will be dried and will glisten with joy; and  
 even our children will cease to think of  
-us, and will not remember to lisp our name.
+us, and will not remember to lisp our name.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867053101:0159/pct:66.286481,61.889704,12.395169,19.048824/!600,600/0/default.jpg"/>
 </td>
@@ -10831,7 +9091,7 @@ us, and will not remember to lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s Weekly.  
+s Weekly.  
 WE DO FADE AS A Lnr.— As the trials of  
 life thicken and the dreams tf other days  
 fade, one by one, in the (fcrep vista of   
@@ -10864,7 +9124,7 @@ dren will cease to think of us, and will no!
 remember to lisf our naoee.  
   
 INTEMPERANCE.  
-The ferocity with which Gov
+The ferocity with which Gove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1867061201:0730/pct:42.926738,13.645741,22.971707,81.152373/!600,600/0/default.jpg"/>
 </td>
@@ -10878,8 +9138,6 @@ The ferocity with which Gov
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Wis Do Fade as a Leaf. A3 the trials  
 of life thicken and the dreams of other days  
 fade, one by one, in the deep vista of disap  
@@ -10913,7 +9171,7 @@ Le dried and will glisten with joy : and even
 our cmidrcn win cease to think or us, and  
 will not remember to lisp our name.  
 Hospitality Among Lions. &quot;I have  
-bee
+been
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477813:1867081401:0393/pct:2.485896,35.836177,14.633286,17.694933/!600,600/0/default.jpg"/>
 </td>
@@ -10927,7 +9185,7 @@ bee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mtne.  
+tne.  
   
 WE FADE AS A LEAY.  
 As the trials of life thicken, and the  
@@ -10968,7 +9226,7 @@ dried and will glisten with joy; and even
 our children will cease to think of us, and  
   
 will not remember to lisp our names.  
-Fran
+Frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867081801:0129/pct:46.189376,70.730890,9.591994,12.159142/!600,600/0/default.jpg"/>
 </td>
@@ -10982,7 +9240,7 @@ Fran
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ve and  
+e and  
 and faith which in my Master&#x27;s name I  
 seek of you who look for his appearing.  
 Serve God by doing common actions!  
@@ -11024,7 +9282,8 @@ in which we died; and the eye that
 mourned for us will be dried and will  
 glisten with joy; and even our children  
 will cease to think of us, and will not  
-remember to lisp our name.
+remember to lisp our name.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1867092401:1206/pct:1.644737,49.852507,13.450292,24.278569/!600,600/0/default.jpg"/>
 </td>
@@ -11038,15 +9297,14 @@ remember to lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Days will continue to move on, ami  
 laughter ami soqg will he heaped in the  
 very chamber in which we died; and  
 the eye that mourned for us will be  
 dried and glisten with joy; and even  
 our children willcea.se to think of us,  
-and will not reuiembei to lisp our name.
+and will not reuiembei to lisp our name.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665052:1867101501:0368/pct:1.871007,46.816990,12.229997,3.911904/!600,600/0/default.jpg"/>
 </td>
@@ -11060,8 +9318,6 @@ and will not reuiembei to lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 We Fapz as A Lear.—As the trials of life thicken,  
 and the dreams of other days fade, one by oue, inthe  
 deep vista of disappointed hope, the heart grows  
@@ -11093,7 +9349,7 @@ and will not remember to lisp our name.
   
 MISCELLANEOUS.  
   
-Tue HARVEST I
+Tue HARVEST IN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239%2Fsim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239_jp2.zip%2Fsim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239_jp2%2Fsim_london-reader-of-literature-science-art-and-general_1867-12-07_10_239_0022.jp2/pct:34.049080,10.704787,51.625767,80.274823/,600/0/default.jpg"/>
 </td>
@@ -11107,7 +9363,7 @@ Tue HARVEST I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tes.  
+es.  
   
 WE FapeE as A Lear.—As the trials of life  
 thicken, and the dreams of other days fade, one by  
@@ -11154,7 +9410,7 @@ fONTEMPORARY PITERATURE.
 !  
   
 MEDITATIONS ON THE ACTUAL STATE OF CHRIS-  
-TIANITY, and on th
+TIANITY, and on the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1_jp2.zip%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1_jp2%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1868-01_28_1_0073.jp2/pct:18.677326,30.067568,69.077035,43.219112/600,/0/default.jpg"/>
 </td>
@@ -11168,7 +9424,7 @@ TIANITY, and on th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hall it bo when we  
+all it bo when we  
 are gone. The heavens will be bright over  
 our graves as they are now around onr path  
 the world will have the same attraction for  
@@ -11184,7 +9440,7 @@ dren will cease to think of us, and will not
 remember to li.sp our name.  
   
 The IIiMAS Fioeue. — The proportions  
-of the human figur
+of the human figure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7c2f7jqr32%2Fxt7c2f7jqr32_jp2.zip%2Fxt7c2f7jqr32_jp2%2Fxt7c2f7jqr32_0003.jp2/pct:18.927329,59.233246,12.410763,11.091601/,600/0/default.jpg"/>
 </td>
@@ -11198,7 +9454,7 @@ of the human figur
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.&quot;  
+&quot;  
   
 We Fade as a Leaf.  
 As- the trials oflifedhieketi,;&#x27;and , the  
@@ -11231,7 +9487,8 @@ will be,tuattal in the very, chamber in which
 ire hied; and .the 0 -. Ye that mourned for us  
 • will hie dried and.will gliSten&#x27;WitAtay ; and  
 evgn our ehildren.will cettso - to think of its,  
-and.&#x27;will flit remember to lint_Leux_nntnes.
+and.&#x27;will flit remember to lint_Leux_nntnes.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001843%2F1868032701%2F0048.jp2/pct:72.431633,67.862432,10.522912,13.553236/!600,600/0/default.jpg"/>
 </td>
@@ -11245,7 +9502,7 @@ and.&#x27;will flit remember to lint_Leux_nntnes.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Fade as a Leaf.  
+Fade as a Leaf.  
 As the tiials of life thicken and tho  
 dreams of other days fade, one by ono,  
 in the deep vi.ta of disappointed hope, tlio  
@@ -11276,7 +9533,7 @@ the very chamber in which wo died ; and
 tho eye that mourned for us will be dried  
 and will glisten with joy ; and even our  
 children will ooase to think of us, and will  
-not remember to lisp our names
+not remember to lisp our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868040901:0487/pct:65.017905,71.984375,14.615040,18.843750/!600,600/0/default.jpg"/>
 </td>
@@ -11290,7 +9547,6 @@ not remember to lisp our names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 tion!&quot;  
   
 We AdE as a LENF.  
@@ -11333,7 +9589,7 @@ Not My Baby-
 Last evening the door-bell of a Pearl  
 street dealer, who resides in the West  
 End, was rung, and on the servant going  
-to the door 
+to the door a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1868041601:0879/pct:33.593889,42.395277,11.973708,18.484678/!600,600/0/default.jpg"/>
 </td>
@@ -11347,7 +9603,7 @@ to the door
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
   
   
@@ -11388,6 +9644,7 @@ be dry and glisten for joy; and even
 our children will cease to think of us,  
 and will not remember to lisp our  
 hame.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775113:1868042301:0352/pct:71.755446,46.736256,11.001281,18.803062/!600,600/0/default.jpg"/>
@@ -11402,7 +9659,7 @@ hame.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 0 U S.  
+0 U S.  
 Wk Fade as a Leaf,?As the trials of j.  
 life thicken, and tlic dreams of other Jays ?  
 fade, one by one, in the deep vista of disap- j  
@@ -11433,7 +9690,7 @@ will be dried and will glisten with joy; and
 eveu our children will cease to think of us, ;  
 and will not remember to lisp our name.  
 Necessary Rn.ES of Si.eep.?There is  
-no fact more clearly established in the ph
+no fact more clearly established in the phy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868052601:0087/pct:57.818433,59.384926,13.462202,18.149004/!600,600/0/default.jpg"/>
 </td>
@@ -11447,7 +9704,7 @@ no fact more clearly established in the ph
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- E 0 I S.  
+E 0 I S.  
 We Fade as a Leaf,?As the trials of |  
 life thicken, and the dreams of other days ?  
 fade, otic by one, in the deep vista of disap- J  
@@ -11478,7 +9735,7 @@ will be dried and will glisten with joy; aud
 eveu our children will cease to think of us,  
 and will not remember to lisp our name.  
 Necessakv Rules of Sleep.?There is  
-no fact more clearly established in the ph
+no fact more clearly established in the phy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868052601:0088/pct:57.896540,59.567946,13.223707,18.362283/!600,600/0/default.jpg"/>
 </td>
@@ -11492,7 +9749,6 @@ no fact more clearly established in the ph
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 We Fade as a Leaf.  
 As the trials of lile thicken, dreams of  
 other daya fade, one by one in the deep ?  
@@ -11515,7 +9771,7 @@ gone. The heavens will he as bright
 over our graves as ihey are now around  
 our path. The world will have the same  
 attraction for our offspring yet unborn  
-thai she lis* now for ou
+thai she lis* now for our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1868053001:0299/pct:83.117438,35.228863,13.807829,12.722367/!600,600/0/default.jpg"/>
 </td>
@@ -11529,7 +9785,7 @@ thai she lis* now for ou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l.  
+.  
 We FAde As A LeAr. As the  
 trials of life thicken, and the  
 dreams of other days fade, one by  
@@ -11575,7 +9831,7 @@ Prussia) calls attention to the fact
 that, whatever may be the result  
 of the impeachment of President  
 Johnson, the United States may,  
-from the 4th of Marc
+from the 4th of March
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1868060401:0728/pct:83.779264,32.583367,11.315496,25.646177/!600,600/0/default.jpg"/>
 </td>
@@ -11589,7 +9845,7 @@ from the 4th of Marc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- an other man&#x27;s  
+an other man&#x27;s  
 eyes.  
   
 We FADe As a LeaF. As the trials of life  
@@ -11622,7 +9878,7 @@ think of us, and will not remember to lisp our
 name.  
   
 PAYIEG THE DENT IN GREENeACES. Mr. Blaine,  
-of Maine, in reply t
+of Maine, in reply to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1868060501:0533/pct:76.313744,50.883838,14.217973,15.404040/!600,600/0/default.jpg"/>
 </td>
@@ -11646,7 +9902,6 @@ of Maine, in reply t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 We Fade as a Leaf.  
 As the trials of life thicken, and the dreams  
 of other days fade, one by one, in the deep  
@@ -11677,7 +9932,7 @@ to lisp our names.
 A Mother&#x27;s InfluEncE.  
 Mothers, think not that you have no in­  
 fluence over your children. Though it be  
-gentle and quiet, it is non
+gentle and quiet, it is none
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868061701:0538/pct:73.006724,25.144175,11.604227,16.450404/!600,600/0/default.jpg"/>
 </td>
@@ -11691,13 +9946,12 @@ gentle and quiet, it is non
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 your choice.”  
 Our Future Prosperity after Grant’s  
 Election.  
 The National Gazette (Berlin) calls at­  
 tention to tlic fact that, whatever may be  
-the result of the impeachment
+the result of the impeachment 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:0041421552A:1868061901:0305/pct:80.339506,62.505731,12.376543,3.690967/!600,600/0/default.jpg"/>
 </td>
@@ -11711,7 +9965,7 @@ the result of the impeachment
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Generation  
+Generation  
 after generation, says an eloquent .rnodf  
 ern writer, have felt as we feel, and their  
 fellows were as active ia life as oiirsafo  
@@ -11735,7 +9989,7 @@ and even our children will cease.to think
 of us, and will not remember to lisp our  
 name.-Little  
 Tiusgs. Tlie precionsaess of  
-little tilings wa
+little tilings was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868062001:0215/pct:68.976728,41.436612,12.354552,13.883677/!600,600/0/default.jpg"/>
 </td>
@@ -11749,7 +10003,7 @@ little tilings wa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-..  
+.  
 Ws Fadb as a LBAr. As the trials  
 of Itfe thicken, and the dreams of  
 other days fade, one by one, in. the  
@@ -11785,7 +10039,7 @@ glisten with joy ; and even our children
 will cease to think of us, and will not  
 remember to lisp our name. .  
 A New lork letter jjresents the  
-following entertaining picture o
+following entertaining picture of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1868070101:0130/pct:64.422463,49.357261,9.636248,16.660303/!600,600/0/default.jpg"/>
 </td>
@@ -11799,8 +10053,6 @@ following entertaining picture o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 We FADE As A LEAF. As the  
 of life thicken, and the dreams of other  
 days fade, one by one, in the deep vista  
@@ -11833,7 +10085,8 @@ we died; and the eyes that mourned
 us will be dried, and will clistent  
 joy; and even our childret will cease  
 think of us, and will not remember  
-lisp our names.
+lisp our names.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1868070201:0925/pct:7.836822,76.117714,12.667740,15.011319/!600,600/0/default.jpg"/>
 </td>
@@ -11847,7 +10100,7 @@ lisp our names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Generation  
+Generation  
 after generation, says an eloquent writer,  
 have felt as we feel, and their fellows  
 were as active in life as ours arc now.  
@@ -11865,7 +10118,7 @@ and all this will have happened I Days
 will continue to move on, and laughter  
 and song will be heard in the very cham­  
 ber in which we died ; and the eye that  
-mourned for us be dry and will gliste
+mourned for us be dry and will glisten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768722:1868070801:0249/pct:76.566381,37.769524,13.993928,11.399979/!600,600/0/default.jpg"/>
 </td>
@@ -11889,7 +10142,6 @@ mourned for us be dry and will gliste
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 We Fade as a Leaf.  
 As the trials of life thicken, and  
 the dreams of other days fade, one  
@@ -11927,7 +10179,7 @@ even our children will cease to think
  us and will not remember to lisn  
 e  
   
-A
+AM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295878046:1868071101:0586/pct:40.266842,13.993871,23.293963,82.504013/!600,600/0/default.jpg"/>
 </td>
@@ -11941,7 +10193,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 &quot;We Fade as a Leaf.  
 As the trials of life thicken and the  
 dreams of other days fade, one by one, in  
@@ -11971,7 +10222,7 @@ will be heard in the very chamber in which
 we die ; and the eye that mourned for us  
 will ba dry, and will glisten with joy ; and  
 even our children will cease to think of U3,  
-and will nt remember to lisp our nam
+and will nt remember to lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1868071701:0531/pct:34.393232,55.695047,13.739790,19.504679/!600,600/0/default.jpg"/>
 </td>
@@ -11985,7 +10236,7 @@ and will nt remember to lisp our nam
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Plain­  
+Plain­  
 dtaler, June 29ill.  
 Wr Fads as λ Leaf.—As the trials  
 of life thicken, and the drcame of other  
@@ -12021,7 +10272,7 @@ dry, end will glisten with joy ; and even
 our own children will ccn90 to tbiuk of  
 us, and will not romcmbor to lisp our  
 names.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554164:1868071801:0064/pct:45.699424,50.808285,11.536318,16.973983/!600,600/0/default.jpg"/>
 </td>
@@ -12035,7 +10286,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* de  
+de  
 Hgned to give b&#x27;illiancy.  
 Wk i&gt;o Kadk as a Ltfar.? As llie  
 trials of life lltit ken, and I be dreams of  
@@ -12071,7 +10322,7 @@ that mourned for us will be dried and
 will glisteii with joy ; and even our  
 childteu will cease to l(rink of us, and  
 will O&#x27;jt remember to lisp our name.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620123:1868081901:0514/pct:50.204736,66.827101,15.399680,23.139578/!600,600/0/default.jpg"/>
 </td>
@@ -12085,7 +10336,6 @@ will O&#x27;jt remember to lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Generation after generation, says an eloquent  
 writer, have felt as we feel, and there fellows  
 were as active in life as ours are now. They  
@@ -12109,7 +10359,7 @@ noi remember to lisp our name.”
 Valuable Ixvextion.— Geo Miles, of this  
 city, is agent for the sale of Dowd it C o’s.  
 Patent Insoles, which are far superior toany­  
-thing of th
+thing of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1868092501:0111/pct:42.095403,32.197972,12.235192,11.287478/!600,600/0/default.jpg"/>
 </td>
@@ -12133,7 +10383,7 @@ thing of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-“Generation after generation, savs an  
+Generation after generation, savs an  
 eloquent writer, have felt ns we feel, and  
 their fellows were as active in life as ours  
 are dlw. I hey passed away as a vapor,  
@@ -12156,7 +10406,7 @@ to think of us. and will not remember to
 isp our name.’’  
 Mulf every man&#x27;s breast could be 1  
 looked imo there would be found thaimage  
-of sortie woma
+of sortie woman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769325:1868101601:0362/pct:7.753674,83.318956,13.002099,12.324779/!600,600/0/default.jpg"/>
 </td>
@@ -12170,7 +10420,6 @@ of sortie woma
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 WE DO FADE ASA LEAF.  
 As the trials of life thicken, and  
 the dreams of other days fade, one  
@@ -12209,7 +10458,7 @@ cease to think of us, and will notere­
 member to lisp our name.  
 vista of  
 The Pie BoY WHo Became A  
-PrINeE. The firs
+PrINeE. The first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eyelet_ver02:data:sn85034375:0019991716A:1868120501:0319/pct:36.955645,30.014368,11.129032,17.543103/!600,600/0/default.jpg"/>
 </td>
@@ -12223,7 +10472,7 @@ PrINeE. The firs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- oven.  
+oven.  
 ---  
 We Do Fade us a Leaf.  
 As the (rials of&#x27;life thicken, and the  
@@ -12260,7 +10509,8 @@ be dried, ami will glisten witli joy ;
 and even our children will cease to  
 1 think of us. and will not remember to  
 lisp our name.  
-• • •
+• • •  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn84027696:0041421258A:1868121501:0353/pct:26.507666,71.648840,10.988075,20.850118/!600,600/0/default.jpg"/>
 </td>
@@ -12274,7 +10524,6 @@ lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Generation after generation, says an eloquet  
 writer, have felt as we feel, and their fel­  
 lows were us active In Wean ours are now.  
@@ -12286,7 +10535,8 @@ will be as bright over our grave as they are
 now around our path; the world will have  
 the same attraction for off.springs yet un­  
 born that she had once for ourselves, and  
-that She has now for our children.
+that She has now for our children.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001887%2F1869022701%2F0009.jp2/pct:59.655003,88.687282,10.235448,5.118057/!600,600/0/default.jpg"/>
 </td>
@@ -12300,7 +10550,6 @@ that She has now for our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 havedelt as we feel, and their fellows were as  
 active in life ns ours are now. They passed  
 away as a vapor, while nature wore the same  
@@ -12327,7 +10576,8 @@ tvith joy ; and even our children will cease to
 think of us. and will not remember to lisp our  
 name. Then shall we have become, in the lan­  
 guage of the Psalmist, ‘.-forgotten and clean  
-out of mind.”
+out of mind.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557402:1869030601:0427/pct:12.954102,67.280508,13.733830,12.345999/!600,600/0/default.jpg"/>
 </td>
@@ -12341,7 +10591,7 @@ out of mind.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d one in his dishonest career.  
+one in his dishonest career.  
 Central Presbyterian.  
   
 WE FADE.—We extract the following  
@@ -12368,7 +10618,7 @@ same attraction for offsprings yet unborn that
 she bad once for ourselves, and that she has  
 now for our children.  
   
-PUNCTUALIT
+PUNCTUALITY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002426%2F1869031201%2F0037.jp2/pct:50.030042,57.357490,14.760665,16.077478/!600,600/0/default.jpg"/>
 </td>
@@ -12382,7 +10632,7 @@ PUNCTUALIT
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
+  
 Fougotten.?Generation after genera?  
 tion have felt as we feel, and their feelings  
 were as active in life as ours are now.  
@@ -12413,7 +10663,8 @@ with joy, and even our children will cease
 to think of us, and will not remember to  
 lisp our name. Then shall we have be?  
 come, in the language of the Psalmist,  
-&quot;forgotten and clean out of mind.&quot;
+&quot;forgotten and clean out of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869052001:0080/pct:19.057377,54.794819,15.794451,18.471754/!600,600/0/default.jpg"/>
 </td>
@@ -12427,7 +10678,7 @@ come, in the language of the Psalmist,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;l  
+l  
 Fonaofrrj*.?Generation aflef L  
 generation have felt as we feel, s  
 and their leelingB were as active c  
@@ -12466,7 +10717,7 @@ will cense to think of us, and will ]
 not remember to lisp onr name. ,  
 Then shall we have become, in the ,  
 language of the Psalmist, &quot;forgot- ,  
-ten and clean out of in.ml.&quot;
+ten and clean out of in.ml.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620123:1869061601:0670/pct:63.531605,53.115284,15.793933,25.071509/!600,600/0/default.jpg"/>
 </td>
@@ -12480,7 +10731,6 @@ ten and clean out of in.ml.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-6  
   
 FORGOTTEN.  
   
@@ -12509,7 +10759,8 @@ tinue to move on, and laughter will be heard in
 the very chamber in which we died; and the  
 eyes will glisten again with joy; and even our  
 children will cease to think of us, and will not  
-remember to lisp our name.”’
+remember to lisp our name.”’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1869-08_79_470%2Fsim_godeys-magazine_1869-08_79_470_jp2.zip%2Fsim_godeys-magazine_1869-08_79_470_jp2%2Fsim_godeys-magazine_1869-08_79_470_0026.jp2/pct:50.039185,56.477475,35.854232,33.418173/,600/0/default.jpg"/>
 </td>
@@ -12523,7 +10774,7 @@ remember to lisp our name.”’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The heavens  
+The heavens  
 shall be as bright over our graves as they  
 now are arotind our path. Yet a little  
 while, and all will have happened. The  
@@ -12542,7 +10793,7 @@ glisten again with joy, and even our chil­
 dren will cease to think of us, and will  
 not remember to lisp our names.  
   
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775757:1869082001:1183/pct:72.423680,42.409732,10.979929,8.243820/!600,600/0/default.jpg"/>
 </td>
@@ -12556,7 +10807,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 a  
 Forgotten.— &quot;Generation after genera­  
 tion,&quot; says an eloquent modern writer, &quot; have  
@@ -12566,7 +10816,7 @@ a vapor, while nature wore the same aspect
 beauty as when her Creator commanded her  
 be. And so likewise shall it be when we are  
   
-Weddings ano Funerals.—&#x27; Th
+Weddings ano Funerals.—&#x27; The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894936:1869092901:0412/pct:62.718546,43.337379,15.066850,13.337379/!600,600/0/default.jpg"/>
 </td>
@@ -12580,7 +10830,7 @@ Weddings ano Funerals.—&#x27; Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- great  
+great  
 distress. The Catholic Church has wisely or­  
 dered that the funeral expenses of its members  
 should not be extravagant, and the example  
@@ -12607,7 +10857,7 @@ name. &#x27; &#x27;
 occasions.  
 A strange story is reported front San Fran­  
 cisco that a document has been found on the  
-California coast, cast away in th
+California coast, cast away in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894936:1869092901:0412/pct:63.644155,46.686893,14.724032,17.851942/!600,600/0/default.jpg"/>
 </td>
@@ -12621,7 +10871,6 @@ California coast, cast away in th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 enera afte en­  
 , savs an locuent modern   
 &quot;have falf as we fl, and their fellows  
@@ -12650,7 +10899,7 @@ laughter will be heard in the very chain
 in which we died; and the eyes will  
 glisten again with joy; and even our  
 lren will cease to  
-no
+not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623501:1869093001:0618/pct:65.547845,46.303474,12.557239,15.550531/!600,600/0/default.jpg"/>
 </td>
@@ -12664,7 +10913,6 @@ no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Generation after generation have  
 felt as we feel, and their fellows were as active  
 in life as ours are now. They passed away as  
@@ -12692,7 +10940,7 @@ even our children will cease to think of us, and
 will not remember to lisp our name.  
 The following graphic passage is  
 from the description oi a scene witnessed by a  
-Mr. Campbell and his party, in the nort
+Mr. Campbell and his party, in the north
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869102401:0006/pct:44.258065,59.186047,12.092166,10.633075/!600,600/0/default.jpg"/>
 </td>
@@ -12716,7 +10964,6 @@ Mr. Campbell and his party, in the nort
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &gt;Ve Fade as a Leaf.  
 As the trials of life thicken, and the  
 dreams ol other days fade, one by one, in  
@@ -12750,7 +10997,7 @@ j ?y; ami even our children will era?e to
 Citnk of u?, and w ill noi remember to lisp  
 our name.  
   
-He ii a
+He ii a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1869112001:0607/pct:83.388843,44.505657,13.211213,18.366945/!600,600/0/default.jpg"/>
 </td>
@@ -12764,8 +11011,6 @@ He ii a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Forgotten.  
 Generation after generation have felt as we  
 feel, and tin ir felows were as active in l.fe as  
@@ -12796,7 +11041,7 @@ A Woman’s Kiss.
 A ballet dancer, who turned the heads of the  
 amorous gentlemen of the Russian capital last  
 winter, is a native of Cracow, and reputed to  
-he the illigitimatc daughter of 
+he the illigitimatc daughter of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869120201:0198/pct:69.026289,12.433662,12.483478,19.516950/!600,600/0/default.jpg"/>
 </td>
@@ -12810,20 +11055,7 @@ he the illigitimatc daughter of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-es. It is a relic of barbar­  
-ism, of ages past. We live by eating, sir--we  
-do. Hoot man, the millenium is coming, the  
-year of Jubilee has come, and all debts are paid  
-here as much as they will be, unless you take  
-&quot;projuce.&quot; The word money is not in our vo­  
-cabulary, in the latest Webster, (revised for the  
-medium,) it is marked &quot;obsolete,&quot; formerly a  
-coin representing value and used as a medium  
-of commerce. A few small pieces can be seen in  
-our Historical Society collections, where they are  
-exhibited as curiosities, along with the skeleton  
-of the &quot;Mastodon,&quot; Noah&#x27;s old boots, and  
-Adam&#x27;s apple. a  
+a  
 WE FAde As a Leae.-As the trials of life  
 thicken, and the dreams of other days fade, one  
 by one, in the deep vista of disappointed hope,  
@@ -12851,9 +11083,9 @@ died; and the eye that mourned for us will be
 dry and will glisten with joy; and even our  
 children will cease to think of us, and will not  
 remember to lisp our name.  
-Leisure is never so enjoyably as when i
+Leisure is never so enjoyably as when it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627488:1869121801:0070/pct:48.354328,42.023738,10.451939,16.361564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627488:1869121801:0070/pct:48.354328,46.902032,10.451939,11.483270/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12865,7 +11097,7 @@ Leisure is never so enjoyably as when i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hase felt as we feel, and their fellow  
+hase felt as we feel, and their fellow  
 were acting in lite as outs are now. They paes  
 away as a tapor, while nature wore the same as  
 pect of bearty as when her creator commanded  
@@ -12881,7 +11113,7 @@ will be heard in the very chamber in which we
 died and the ere that mourned for us will be  
 dry and will ghaten with joy and even our  
 children wil tease to think of us and will not  
-remember i lisp our nam
+remember i lisp our name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627609:1869121802:0004/pct:47.758900,51.107492,10.453074,6.491857/!600,600/0/default.jpg"/>
 </td>
@@ -12895,7 +11127,6 @@ remember i lisp our nam
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 We Fade.—We extract the following  
 beautiful and truthful illustration from an  
 exchange : As the trials of life thicken, and  
@@ -12919,6 +11150,7 @@ around our path ; the world will have the
 samo attraction for offsprings yet unborn  
 that she had once for ourselves, and that sho  
 has now for our children.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870010701:0274/pct:61.823728,45.067379,10.996950,11.263666/!600,600/0/default.jpg"/>
@@ -12933,7 +11165,7 @@ has now for our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r woven lab­  
+woven lab­  
 ricks must produce ttill greater changes.  
 ? English I&#x27;aper  
 Wf. Fade.?We extraot the following  
@@ -12958,7 +11190,7 @@ as they are now around our path ; tho world
 will have the same attraction for offsprings yet  
 unborn that she had once for ourselves, and  
 that she has now for our children.  
-The Aim or Life.?Th
+The Aim or Life.?The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1870020101:0429/pct:83.513608,49.187167,13.276343,14.760466/!600,600/0/default.jpg"/>
 </td>
@@ -12972,7 +11204,6 @@ The Aim or Life.?Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Attorney General.  
   
 We Fade-  
@@ -13025,7 +11256,8 @@ out. path ; the world will have the
 sanje attraction for offspring yet  
 unUorn that she had once for our­  
 selves, and that she has now for  
-our children.
+our children.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RStarRuth2n_ver01%2Fdata%2F1870020501%2F0009.jp2/pct:55.333147,57.075013,11.898096,20.075553/!600,600/0/default.jpg"/>
 </td>
@@ -13039,7 +11271,7 @@ our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h us in a  
+ us in a  
   
 We Fade. —We extract the following beau­  
 tiful and truthful illustration from an exchange :  
@@ -13067,7 +11299,7 @@ now for our children.&quot;
 And So  
 The heavens  
 Early Railroading— &#x27;Hie following ex­  
-tract from th
+tract from the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894936:1870020901:0493/pct:34.323717,55.050567,14.475730,14.061167/!600,600/0/default.jpg"/>
 </td>
@@ -13081,7 +11313,6 @@ tract from th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 We Fade —We extract the follow­  
 ing beautiful and truthful illustration  
 from an exchange : “As the trials ot  
@@ -13106,7 +11337,7 @@ gone. The heavens will be as bright
 over our grave as they are nowarrouod  
 our path ; the world will have the same  
 attraction for offsprings yet unborn  
-that the has now for ou
+that the has now for our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623719:1870021701:0039/pct:74.634566,42.814271,11.349957,13.437813/!600,600/0/default.jpg"/>
 </td>
@@ -13120,7 +11351,6 @@ that the has now for ou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Forgotten. &quot;Generation after  
 generation&quot; says an eloquent  
 modern writer, &quot;have felt as we  
@@ -13159,7 +11389,7 @@ which we died; and the eyes will
 again gliaten &#x27; with joy; and even  
 our children will cease to think  
 of ue, and will net remember to  
-Hap our names
+Hap our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85034457:00280774820:1870021701:0010/pct:60.447051,47.787144,11.239696,24.367756/!600,600/0/default.jpg"/>
 </td>
@@ -13173,7 +11403,7 @@ Hap our names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-[Exchange,  
+Exchange,  
 to rifAs the trials of life thicken, and  
 r the dreams of other days fade, one by  
 one in the deep vista of disappointelr  
@@ -13198,7 +11428,7 @@ Sgraves as they now are around our
 traction for offsprings yet unborn that  
 a she -bad once*for ourselves, and that  
 en shebras now foE our children.  
-SgI 
+SgI M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555134:1870032301:0370/pct:43.162096,79.314214,13.467546,14.663342/!600,600/0/default.jpg"/>
 </td>
@@ -13212,7 +11442,6 @@ SgI
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 As the trials of life thicken, and the  
 dreams of other days fade, one by one iu  
 tbe deep vista of disappointed hope, the  
@@ -13244,7 +11473,7 @@ ranging the fibres, hair by hair, just ss
 they grew ; or it may be the special ed­  
 ucation of sight enabling the wookers to  
 weave tints seperately that our blind  
-eyes coul
+eyes could
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:00295876141:1870041601:0068/pct:56.492876,79.346330,12.305699,17.098624/!600,600/0/default.jpg"/>
 </td>
@@ -13258,7 +11487,7 @@ eyes coul
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e there has been uo  
+there has been uo  
 witness save the Infinite anti Eternal  
   
 As the trials of life thinkn, end the  
@@ -13281,7 +11510,8 @@ will be us bright over our grave as they are
 now mound our path; the world will have  
 the same attractions r eil-prieg yet unborn  
 that she had ()nee fir ourzeivcs, ittld that  
-she has now tut ojur vhildien,&#x27;
+she has now tut ojur vhildien,&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002427%2F1870051901%2F0077.jp2/pct:35.314822,77.325331,14.455417,13.412881/!600,600/0/default.jpg"/>
 </td>
@@ -13295,26 +11525,6 @@ she has now tut ojur vhildien,&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-instruction that the delegation  
-present shall have the power to cast  
-vote o any absentee.  
-&quot; -Geo. G. Start, Sec&#x27;y.  
-Editor Advertiser; The following  
-named gentlemen were elected dele­  
-gates from Nemaha City Precinct to  
-the county Convention on the 24th :  
-J..H- Dralne, John Blacklaw, Jeff.  
-Chapman,:. Jno. P. Crbther, David  
-Turtelot, J. A- Titus. We- admire  
-your idea; of investigation.  
-Yoursr  
-- DELEGATE.  
-The Glen Rock Delegation, chosen  
-last Saturday to the Rapublican  
-Countj&#x27; Convention are as follows:  
-Frank Redfern, Stephen Miles, Emo­  
-ry Neals, H. Thomas, and Mr. Jones.  
-- Man&#x27;s Insignificance.,  
 As the trials of life thicken.-and the  
 dreams of other days fade, one by one  
 In the deep vista of disappointed  
@@ -13340,9 +11550,9 @@ path ; the world will have the &#x27;same
 attractions1 &#x27;for offspring yet unborn  
 that she had once for ourselves, and  
 that ste haB now for our children.  
-WU1 Dr. Miller,
+WU1 Dr. Miller, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1870092201:0102/pct:28.563914,68.117113,11.125723,24.694599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1870092201:0102/pct:28.577065,80.807673,11.059968,12.004038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13354,7 +11564,7 @@ WU1 Dr. Miller,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- o his ann i  
+o his ann i  
   
 We Fane.-We extract the following  
 beantiful and truthful illustration from an  
@@ -13367,7 +11577,7 @@ whe have climbed to the pinnivie of lame,
 ar revel in luxrry and wealth, go to the  
 4 iast wilh the tr micudicant wh  
   
-begs by the wavside, u
+begs by the wavside, ur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1871010701:0857/pct:72.637619,76.648619,22.341761,14.841038/!600,600/0/default.jpg"/>
 </td>
@@ -13381,7 +11591,6 @@ begs by the wavside, u
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Wo Fade. t  
 Wo extract tho following beautiful and  
 truthful illustration from an exchange :  
@@ -13406,7 +11615,8 @@ bright over our grave as they aro now
 around our path ; the world will havo tho  
 same attraction for oil-springs yet unborn  
 that she had once for ourselves and that  
-she has now for our children.&quot;
+she has now for our children.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776798:1871011701:0458/pct:41.219636,10.108243,16.776316,15.836803/!600,600/0/default.jpg"/>
 </td>
@@ -13420,7 +11630,6 @@ she has now for our children.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 We FAde. We extract the follow­  
 ing beautiful and truthful illustration  
 from an exchange: &quot;As the trials of  
@@ -13448,7 +11657,7 @@ have the same attractions for offsprings
 yet unborn that she had once for our­  
 selves, and that she has now for our  
 children.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1871030101:1057/pct:73.376361,65.252525,11.335216,14.126984/!600,600/0/default.jpg"/>
 </td>
@@ -13462,7 +11671,6 @@ children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o  
 A Beautiful Extract.  
   
 “Generation after generation,” says a fine  
@@ -13500,6 +11708,7 @@ and will not remember tw lisp our namer.
 Then shall we have become, in the touchin;  
 language of the psalmist, “forgotten an:  
 goes out of mind.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_atlanta-constitution_1871-09-10_4_77%2Fper_atlanta-constitution_1871-09-10_4_77_jp2.zip%2Fper_atlanta-constitution_1871-09-10_4_77_jp2%2Fper_atlanta-constitution_1871-09-10_4_77_0001.jp2/pct:6.374585,37.246875,10.921927,15.708750/,600/0/default.jpg"/>
@@ -13514,7 +11723,6 @@ goes out of mind.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 A Beautiful Extract  
 &quot; Generation after generation,&quot;  
 6ays a tine writer,44 have felt as wo  
@@ -13554,7 +11762,7 @@ not remember to lisp our names.
 Then shall we have become, in the  
 touching language of the psalmist,  
 4 forgotten and goes oat of mind.&#x27;&quot;  
-Railway Tr
+Railway Tra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn83025799:00415620135:1871101101:0205/pct:83.202179,42.353610,16.540557,24.650370/!600,600/0/default.jpg"/>
 </td>
@@ -13568,7 +11776,6 @@ Railway Tr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Beautiful Extract.—Generation after  
 generation have felt as we feel now, and  
 their lives were as active ns our own.—  
@@ -13598,7 +11805,7 @@ not remember to lisp our names. Then shall
 we have become, in the touching language of  
 the psalmist, “forgotten and gone out ot the  
 mind.”  
-•
+• 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558030:1871120901:0195/pct:17.553398,69.473259,15.029126,17.041627/!600,600/0/default.jpg"/>
 </td>
@@ -13612,8 +11819,6 @@ mind.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Beautiful Thought.  
 Generation after generation have felt as  
 feel now, and their lives were as active  
@@ -13657,7 +11862,7 @@ remember to lisp our names. Then we
 shall have become in the touching language  
 of the psalmist, &quot;forgotten and gone out of  
   
-mind
+mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053941:00295873590:1872012001:0383/pct:38.574565,21.125519,11.079210,13.584288/!600,600/0/default.jpg"/>
 </td>
@@ -13671,7 +11876,6 @@ mind
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Beautiful Extract.  
 fJeneration after generation have  
 felt as we fed now, and their lives  
@@ -13706,7 +11910,7 @@ of us, and will not remember to lisp
 our names. Then shall we have be­  
 come, in the touching language of the  
 psalmist, &quot;forgotten and gone out of  
-the mind.
+the mind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023954:1872022701:0128/pct:5.680473,38.769395,12.174556,22.899946/!600,600/0/default.jpg"/>
 </td>
@@ -13720,7 +11924,7 @@ the mind.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, the holy.  
+ the holy.  
 PASSIN G SIADOWs.  
 As the trials of life thicken, and  
 the dreams of other days fade one  
@@ -13748,7 +11952,7 @@ the same attractions for offprings
 yet unborn that she has now for our  
 children.  
 SULPHIUR.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn84024443:00280779234:1872030801:0609/pct:19.909873,68.059827,12.453912,17.332961/!600,600/0/default.jpg"/>
 </td>
@@ -13762,7 +11966,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, says a -fine writer,  
+says a -fine writer,  
 liOfa fnlf no nrn&#x27;  
 ives were as active as our&quot;oswn. Thev  
 passed away Jiko a vapor while Nature  
@@ -13795,7 +11999,7 @@ remember to lisp our names. Then shall
 we have become, in the touching lan­  
 guage ot1 the psalmist, &#x27;forgotten and  
 gone out of mind.&#x27;&quot;  
-&#x27; A Heavy Blas
+&#x27; A Heavy Blasl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1872032101%2F0047.jp2/pct:54.093199,37.616068,12.241814,18.530480/!600,600/0/default.jpg"/>
 </td>
@@ -13809,7 +12013,7 @@ gone out of mind.&#x27;&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Mirror.  
+Mirror.  
 A Beautiful Extract .—&quot; Gen­  
 eration after generation,&quot; says a fine  
 writer, &quot; have felt as we feel now,  
@@ -13844,7 +12048,8 @@ dren will cease to think of us, and
 will not remember to lisp our names.  
 Then shall we have become, in the  
 touching language of the psalmist,  
-&quot; forgotten, and go out of mind.&quot;
+&quot; forgotten, and go out of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:0029587613A:1872033001:0058/pct:42.880364,52.363897,12.451235,20.725883/!600,600/0/default.jpg"/>
 </td>
@@ -13858,7 +12063,6 @@ touching language of the psalmist,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Generation after generation, nays an  
 eloquent writer, have felt as we feel,  
 nnd their fellows were as active in life  
@@ -13871,7 +12075,8 @@ they nre now mound our path; the
 world will have the same attraction for  
 offsprings yet unborn thnt she hnd once  
 for ourselves, nnd that she has now for  
-our children.
+our children.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn89051253:0051368826A:1872040301:0173/pct:36.384545,71.966320,13.914443,9.724286/!600,600/0/default.jpg"/>
 </td>
@@ -13885,8 +12090,6 @@ our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 As the trials of life thicken, and the  
 dreams of other days fade one by one  
 in the deep vista of disappointed hope,  
@@ -13917,7 +12120,7 @@ A
 The doctors will tell you, and your  
 own observation will confirm it, that  
 the healthiest men in the world are  
-men mos
+men most
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1872040401:0055/pct:76.760792,48.037164,20.183614,14.608351/!600,600/0/default.jpg"/>
 </td>
@@ -13931,7 +12134,6 @@ men mos
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 As the trials of life thicken, and  
 the dreams of others fade one by one  
 into tbe deep vista of disappointed  
@@ -13956,7 +12158,7 @@ path. The world will have the same
 attraction for offsprings yet unborn  
 that it had once for ourselves, and  
 that It baa now for our children.  
-It is said th
+It is said the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872041701:0164/pct:25.094399,85.992770,9.487099,10.586109/!600,600/0/default.jpg"/>
 </td>
@@ -13970,7 +12172,7 @@ It is said th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aitor’s doom, which is  
+itor’s doom, which is  
 death I  
 How we Fade.—As the trials of  
 life thicken, and the dreams of other  
@@ -14006,7 +12208,7 @@ fifty with turnips. His stock consisted
 of one hundred and forty horses ; one  
 hundred and twelve cows; one hundred  
 and thirty six working oxen, heifers,  
-and steers, and five hundred shee
+and steers, and five hundred sheep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn89051253:0051368826A:1872051501:0197/pct:48.937153,40.355287,14.209797,29.545835/!600,600/0/default.jpg"/>
 </td>
@@ -14020,7 +12222,7 @@ and steers, and five hundred shee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.. ,  
+. ,  
 Beautiful Extrucf.-=-^ Oeneratinn  
 after generation,&quot; T anya a fine writer, &quot;have  
 felt as we feel now, and their lives were  
@@ -14050,7 +12252,8 @@ glisten with joy; and even our child:Am
 will cease to&#x27;think of us, and will not re­  
 member to lisp our names. Then a e shall  
 have become, in the touching language of  
-the Psalmist, lOrgotten and out 01 mind.&quot;
+the Psalmist, lOrgotten and out 01 mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_obamab_ver01%2Fdata%2Fsn83031982%2F000001764%2F1872052901%2F0079.jp2/pct:54.651808,58.452395,9.989689,12.697623/!600,600/0/default.jpg"/>
 </td>
@@ -14064,7 +12267,7 @@ the Psalmist, lOrgotten and out 01 mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- aftet  
+aftet  
 generation, says an eloquens writer, &quot;have  
 felt as we feel, and their follows were as  
 active in life as we are now. They have  
@@ -14092,7 +12295,8 @@ which we died; and the oye that mourned
 for us will be dried, and glisten again with  
 icy; and even our childred will cease to  
 think of us, and will not remember to lisp  
-our names.&quot;
+our names.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1872061301:0435/pct:77.880486,48.218029,11.755369,14.626136/!600,600/0/default.jpg"/>
 </td>
@@ -14116,7 +12320,7 @@ our names.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lf the crop.  
+f the crop.  
 Paw so .Shadows V- tfn* trials of life thick­  
 cp, and the drear:;&#x27;: of oilier d;*&gt; s fade one Ly  
 one in the vista of disappointed hqpe, the heart  
@@ -14135,7 +12339,7 @@ will be as bright over our heads as they are
 now around our paths ; the world will have  
 the same attractions tor offsprings yet unborn  
 that she has now for our children.  
-A HtIN
+A HtINO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1872080901:0326/pct:78.247561,75.841852,12.091066,9.350571/!600,600/0/default.jpg"/>
 </td>
@@ -14149,7 +12353,7 @@ A HtIN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. As the trials of life  
+As the trials of life  
 thicken and the dreams of other days fade one  
 Yone in deep vista of disappointed hope, the  
 cart grows weary of the struggle, and we begin  
@@ -14170,7 +12374,7 @@ und our paths; the world will have the same
 ractions for offsprings yet unborn that she has  
 for our children.  
 after  
-are no
+are now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_crucio_ver01:data:sn84026837:0027174254A:1872082201:0522/pct:2.355460,77.708614,17.184154,9.673620/!600,600/0/default.jpg"/>
 </td>
@@ -14184,9 +12388,6 @@ are no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- things which cannot either be done or  
-undone.  
-——e el OPP  
 As the trials of life thicken, and the dreams of other  
 days fade one by one into the deep vista of disap­  
 pointed hope, the heart grows weary of the struggle­  
@@ -14207,9 +12408,9 @@ once for ourselves, and that it has now for our chil
 dren,  
   
 : A REFORM.  
-There is n
+There is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016020:1872082901:0112/pct:15.961915,32.348762,11.271353,9.652862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016020:1872082901:0112/pct:15.961915,33.576939,11.257351,8.424685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14221,7 +12422,7 @@ There is n
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. As the trials  
+As the trials  
 of lile thicken, and the dreams of  
 other days fade one by ofe into the  
 deep vista of disappointed hope, the  
@@ -14246,7 +12447,7 @@ our path. The world will have the
 same artractions for offspring yet  
 anborn that it had once for ourselves,  
 and that it has how for our childern.  
-Elam Dye, 
+Elam Dye, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86090827:00200299991:1872090701:0158/pct:81.513828,25.492922,14.756186,15.773509/!600,600/0/default.jpg"/>
 </td>
@@ -14260,8 +12461,6 @@ Elam Dye,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A BEArristri. Errawr.----&quot;Oenera­  
 tion after generation,&quot; say s a fine  
 writer,&quot; have felt as we f now,-and  
@@ -14299,7 +12498,7 @@ Then shall we have become, in 4 the -
 touching- language of the psalmist,  
 &#x27;forgotten and out of mind.&quot;&#x27;  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001807%2F1872091901%2F0145.jp2/pct:85.564933,62.411195,10.473692,17.782337/!600,600/0/default.jpg"/>
 </td>
@@ -14313,7 +12512,7 @@ touching- language of the psalmist,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s and  
+ and  
 honor.  
 Man&#x27;s Insignificance.?As the trials of  
 life thicken, and the dreams of other days  
@@ -14337,6 +12536,7 @@ graves as they are now around our path.
 The world will have the same attractions for  
 offspring yet unborn that it had once for ourselves,  
 and that it has now for our children.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1872103101:0195/pct:84.166886,85.480701,15.859437,12.124732/!600,600/0/default.jpg"/>
@@ -14351,8 +12551,7 @@ and that it has now for our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.?Middlemcurch.  
-Man&#x27;s Insignificance.?As the trials of  
+e.?As the trials of  
 life thicken, and the dreams of other days  
 fade one by one into the deep vista of disappointed  
 hope, the heart grows weary of the  
@@ -14375,9 +12574,10 @@ they are now around our path. The world
 will have the same attractions for offspring  
 | yet unborn that it had once for ourselves, aud  
 j that it has now for our children.  
-? ^ *
+? ^ *  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1872121901:0223/pct:84.982890,71.896366,15.793630,11.694854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1872121901:0223/pct:84.982890,72.777978,15.793630,10.813242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14389,7 +12589,6 @@ j that it has now for our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 How We Fade. As the trials of life  
 thicken, and the dreams of other days  
 fade one bv one, in the deep vista of  
@@ -14418,7 +12617,7 @@ with the death of Napoleon III, and the
 analogy between the lives and deaths of  
 the first and the last of the rulers of  
 that name is singularly precise and strik­  
-ing. Both the uncl
+ing. Both the uncle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1873012701:0234/pct:72.094298,73.512895,11.362390,18.074043/!600,600/0/default.jpg"/>
 </td>
@@ -14432,8 +12631,6 @@ ing. Both the uncl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-schemes.  
 As the trials of life thicken, and  
 the dreams of other days fade one by  
 one into the deep vista of disappoint- j  
@@ -14458,9 +12655,9 @@ around our path. The world wjil
 have the same attractions for offspring  
 yet unborn that it has now for our  
 children.  
-Jt
+Jt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1873013101%2F0559.jp2/pct:18.519946,43.519463,12.642128,16.766292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1873013101%2F0559.jp2/pct:18.539218,44.642076,12.622856,15.643680/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14482,7 +12679,6 @@ Jt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 and we begin to realize bhr insianifi.  
 canco. ...Those who have fcJiuibtjd to ihe  
 pinnacle of fame, or. Reveal jil luxury  
@@ -14504,7 +12700,7 @@ j for ourselves, aud that she has now for
 .iour children.  
   
 At  
-t
+t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027431:1873021101:0392/pct:72.807018,15.227345,21.038483,77.946971/!600,600/0/default.jpg"/>
 </td>
@@ -14518,7 +12714,6 @@ t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 How ve lade.  
 As the trails of life thicken, and  
 the dreams of other days fade oue  
@@ -14564,7 +12759,7 @@ if benevolence and virtue dwell in
 her heart she is as cheerful as when  
 the spring of life first opened to her  
 view. When we look upon a good  
-woman we never think o
+woman we never think of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1873021501:0266/pct:69.335627,61.952454,8.946533,18.710103/!600,600/0/default.jpg"/>
 </td>
@@ -14578,8 +12773,6 @@ woman we never think o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 NeW sTore And NeW GoODs! &quot;Whoop &#x27;em Up!&quot;  
   
 aspect of beauty as when the Cre­  
@@ -14597,7 +12790,7 @@ Although lately burned out, and has reopened hi
   
 tore, where he is selling  
   
-Have opened their new and elegant store with a large stoc
+Have opened their new and elegant store with a large stock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023954:1873030401:0316/pct:9.974989,5.407180,60.114757,32.957531/!600,600/0/default.jpg"/>
 </td>
@@ -14611,7 +12804,7 @@ Have opened their new and elegant store with a large stoc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- whose real or dirco  
+whose real or dirco  
   
 rause is bad blood. Rheuiatiam, Paf  
   
@@ -14622,7 +12815,7 @@ lows were as active in life as ours
 are now. They passed away as a  
 vapor, while nature wore the same  
   
-M S
+M SP
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023954:1873030401:0316/pct:47.579815,90.586690,48.227159,6.184326/!600,600/0/default.jpg"/>
 </td>
@@ -14636,7 +12829,7 @@ M S
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Maine Farmer.  
+Maine Farmer.  
 A Beaftifcl Evtuact.—“Generation  
 aliergeneratiou,&quot; »ay&gt; a line writer, “have  
 felt as we feel now. and their lives were as  
@@ -14665,7 +12858,7 @@ of us, and will not remember to lisp our
 names. Then shall we have become, in  
 the touching language of the psalmist,  
 -forgotten and out of mind.’ ”  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895394:1873031301:0047/pct:15.877579,68.816789,10.855597,16.170980/!600,600/0/default.jpg"/>
 </td>
@@ -14679,7 +12872,6 @@ the touching language of the psalmist,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 How We FAde.As the trials of life  
 thicken, and the dreams bof other days:  
 fade one by one, in the deep vista of disss  
@@ -14701,7 +12893,7 @@ over our graves as they are now ever que.
 paths; the world have the same attrantion  
 for offsprings yet unborn that she once had  
 for ourselves, and that ahe has now for  
-our childre
+our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297520:1873031401:0113/pct:78.765926,76.227390,15.438421,11.202310/!600,600/0/default.jpg"/>
 </td>
@@ -14715,7 +12907,7 @@ our childre
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ka him ;  
+a him ;  
 are soon forgotten. Generation after !  
 generation, says an eloquent writer, j  
 have felt as we feel, and their fellows  
@@ -14730,7 +12922,7 @@ for offsprings yet unborn that she once
 had for ourselves, and that she now  
 has for our children.  
 When a man thinks that nobody  
-cares for him, and that he i
+cares for him, and that he is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340664:1873032801:0051/pct:71.480487,82.114625,11.060199,8.633893/!600,600/0/default.jpg"/>
 </td>
@@ -14754,7 +12946,6 @@ cares for him, and that he i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o  
 How we Fade. As the trials of  
 life thicken, and the dreams of other  
 days fade one by one, in the deep  
@@ -14779,7 +12970,7 @@ around our path: the world haAe the
 same attraction for our offsprings  
 yet unborn that she once had for our­  
 seles. Scrplcs Funds. The little State  
-o
+of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_bayocean_ver01%2Fdata%2Fsn94052321%2F00000002033%2F1873041101%2F0088.jp2/pct:78.720406,72.651618,12.697294,12.316655/!600,600/0/default.jpg"/>
 </td>
@@ -14793,7 +12984,6 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 How Wf Fade.  
 As the trials of life thicken, and the  
 dreams of other days fade one by one,  
@@ -14829,7 +13019,7 @@ the part of these &quot;toilers by the sea,&quot;
 as a proof of the hazards men will run  
 t support their wives and children, is  
 apt to militate against the usefulness of  
-the cable a
+the cable as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1873050901:0049/pct:62.971698,68.957346,14.298349,19.493097/!600,600/0/default.jpg"/>
 </td>
@@ -14843,7 +13033,7 @@ the cable a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- we  
+we  
 heard so more.  
   
 Man&#x27;s Insignificance  
@@ -14871,7 +13061,7 @@ attractions for offspring yet unborn that it
 had once for ourselves, and that• it has now  
 for our children.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002297%2F1873061801%2F0097.jp2/pct:73.303991,77.289474,11.261737,16.017544/!600,600/0/default.jpg"/>
 </td>
@@ -14895,8 +13085,6 @@ for our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 How We FtdE- As the trials of lit,  
 thicken, and the dreams of other day:  
 one by one, in the dim vista of dis-  
@@ -14918,7 +13106,8 @@ over our graves as they are now around
 our path; the world will have the samt  
 attraction for offsprings yet unborn that  
 she once had for ourseives, and that the  
-now has for our children.
+now has for our children.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn85038296:0034058210A:1873090501:0537/pct:77.853941,78.597215,17.145619,15.460432/!600,600/0/default.jpg"/>
 </td>
@@ -14932,7 +13121,7 @@ now has for our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n.  
+.  
 How Yye Fade. As the trials of  
 life thicken, and the dreams of other  
 days fade one by one in the dim vista  
@@ -14958,7 +13147,7 @@ tion for offspring yet unborn that she
 had once for ourselves, and that she  
 now has for our children.  
 The country will tender its thanks  
-t
+to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027170:1873091101:0066/pct:7.521578,75.650417,10.496301,12.541046/!600,600/0/default.jpg"/>
 </td>
@@ -14972,7 +13161,7 @@ t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t for one day again!&quot;  
+for one day again!&quot;  
 How We FAde. As the trials of life  
 thicken, and the dreams of other days  
 fade, one by one, in the deep vista of dis-  
@@ -15002,7 +13191,7 @@ but when we approach them, we find that
 they are far less insurmountable than we  
 had imegined.  
 One of the greatest evils of the world is  
-that men praise, rather than practic
+that men praise, rather than practice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1873103001:0541/pct:6.369545,73.456633,12.887651,19.375000/!600,600/0/default.jpg"/>
 </td>
@@ -15016,8 +13205,6 @@ that men praise, rather than practic
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 As the trials of life thicken, and the  
   
 dreams of other days fade one by one, in  
@@ -15035,7 +13222,8 @@ forgotten. Generation after generation,
   
 Te year is ao finse eee a an o i a ea e  
   
-formery the tenth but no the tee an ter eo a a activ in life
+formery the tenth but no the tee an ter eo a a activ in life  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873121001:0322/pct:10.556739,31.892865,21.311226,4.726536/!600,600/0/default.jpg"/>
 </td>
@@ -15049,7 +13237,7 @@ formery the tenth but no the tee an ter eo a a activ in life
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the first of the year.  
+the first of the year.  
   
 her to be. The heavens will be as bright  
 over our graves as they are now around  
@@ -15058,7 +13246,7 @@ tions for offsprings yet unborn, that she
 once has for ourselves, and that she has  
 now for our children.  
 The LiTtle Corroral comes to us this  
-month with
+month with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873121001:0322/pct:2.205659,37.846050,29.601460,11.006077/!600,600/0/default.jpg"/>
 </td>
@@ -15072,7 +13260,6 @@ month with
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Fireside Department.  
   
 How we Fade.  
@@ -15130,7 +13317,6 @@ that lay in the way
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 . How wx Fadc As tb trials of lite  
 thicken,&#x27; and the dreams of other days  
 fide one by one, in the deep vi?ta of  
@@ -15151,7 +13337,7 @@ beanty as wben the. Creator cost. matd
 ed her tobe. The beavcot will be as  
 I bright over our graves as they are now  
 trund .our path: t be world has the  
-same , attraction ior.offspiina ytt u
+same , attraction ior.offspiina ytt un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou1n_ver01%2Fdata%2F1874031301%2F0268.jp2/pct:41.501922,77.745849,13.179572,13.676032/!600,600/0/default.jpg"/>
 </td>
@@ -15165,7 +13351,6 @@ same , attraction ior.offspiina ytt u
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 exchanger  
 &quot;As tho trials of life thicken, nnd  
 tho dreams of their days fade, one bv  
@@ -15194,7 +13379,8 @@ graves as they are now around our
 path; the world will have tho same  
 attraction for offspring yet unborn  
 that she had once for ourselves, and  
-mat sno nas now lor our children.&quot;
+mat sno nas now lor our children.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1874042301:0212/pct:17.132353,67.697495,10.931373,11.570328/!600,600/0/default.jpg"/>
 </td>
@@ -15208,7 +13394,7 @@ mat sno nas now lor our children.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mmings.  
+mings.  
   
 HOW WE FADE.  
 As the trials of life thicken,and the dreams of other  
@@ -15228,7 +13414,8 @@ as they are now around our path; the world has the
 same attraction for offsprings yet unborn that she once  
 had for ourselves, and that she now has for our chil­  
 dren, |  
-TR TR RR T, TGS ST S T R TR TST S 4 RTINS
+TR TR RR T, TGS ST S T R TR TST S 4 RTINS  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016032:1874082701:0348/pct:38.020247,75.954198,11.459505,8.933361/!600,600/0/default.jpg"/>
 </td>
@@ -15242,7 +13429,7 @@ TR TR RR T, TGS ST S T R TR TST S 4 RTINS
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-dders­  
+ders­  
 field, in the western part of Yorkshire.  
 There bis grave is shown to the curious  
 stilL Independent.  
@@ -15271,7 +13458,8 @@ offspring Jyet unborn that she once had
 for ourselves, and that she now has for  
 our children.  
 Real glory springs from the silent  
-conquest of ourselves.
+conquest of ourselves.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874093001:0202/pct:27.341080,82.409734,10.885167,15.474144/!600,600/0/default.jpg"/>
 </td>
@@ -15285,7 +13473,6 @@ conquest of ourselves.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 How &quot;We Fade. As the trials of life  
 thicken, and tho dreams of other days  
 fade, one by one, irt the clim vista of dis­  
@@ -15310,7 +13497,7 @@ that she once had for ourselves, and that
 she now. has for our children-  
 OUTSIDE AND INSIDE.  
 .The following is from the facile and  
-graceful pe
+graceful pen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCGazFay1n_ver01%2Fdata%2F1874102201%2F0245.jp2/pct:58.361630,46.484680,12.959819,15.286908/!600,600/0/default.jpg"/>
 </td>
@@ -15324,7 +13511,7 @@ graceful pe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- its  
+its  
 confinement.  
 How We sTswl.  
 As ihe trials of life thicken, .and the dreams  
@@ -15351,7 +13538,7 @@ Wilkes, Sheridan, Jbat; The . Opposition Under
 Biographies of public men should bear the  
 samf reVtion to hfetbry Vtnch equity, accord:  
 itiaio Grotiug&quot; doiei to law. and be &quot;the correc­  
-tion of
+tion of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewBerNB1n_ver01%2Fdata%2F1874102401%2F0013.jp2/pct:37.604109,11.228397,14.658523,18.141364/!600,600/0/default.jpg"/>
 </td>
@@ -15365,7 +13552,6 @@ tion of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 die and make no sign;&quot; there are  
 martyrs that miss the palm but not  
 the 6take; heroes without the laurel  
@@ -15397,7 +13583,7 @@ has the same attraction for offspring
 yet .unborn that she once had for  
 ourselves, and that she now has for  
 our children.  
-. &#x27; 
+. &#x27; E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn92073987:00296023152:1874103001:0167/pct:80.530726,48.376371,10.321229,18.995899/!600,600/0/default.jpg"/>
 </td>
@@ -15411,7 +13597,6 @@ our children.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 forever ended.  
 X 1  
 As the trials of life thicken, and the  
@@ -15430,7 +13615,7 @@ the Metropolis, are or should be expo
 nents cJf the todlitical seatiteats of.  
 the people of the State. fWe fear,  
 however, that in some respects they  
-are not. Th
+are not. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WarGaz1n_ver01%2Fdata%2F1874110601%2F0165.jp2/pct:4.749002,27.357320,12.934969,12.923904/!600,600/0/default.jpg"/>
 </td>
@@ -15444,8 +13629,6 @@ are not. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Generation after generation have felt  
 as we feel, and their fellows were as active  
 in life as ours ave pow. They passed  
@@ -15479,7 +13662,8 @@ ber in which we died; and the eyes will
 giisten again with joy; amd even our  
 children will cease to think of us, and  
 Will met remember to lisp our mame  
-—_ -_- -_
+—_ -_- -_  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1874-11-14_54_16%2Fsim_saturday-evening-post_1874-11-14_54_16_jp2.zip%2Fsim_saturday-evening-post_1874-11-14_54_16_jp2%2Fsim_saturday-evening-post_1874-11-14_54_16_0002.jp2/pct:77.682737,67.786885,13.802488,14.644809/,600/0/default.jpg"/>
 </td>
@@ -15493,7 +13677,7 @@ Will met remember to lisp our mame
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- convulsion,  
+convulsion,  
   
 damp and refused to ignite. A groan, a  
 &quot;he see  
@@ -15523,7 +13707,7 @@ of, but the things of life will creep in,
 and our names will svon be forgetten,  
 Days will  
 laughter will be heard in the very cham-  
-ber in which we died; and the eye
+ber in which we died; and the eyes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1874-11-14_54_16%2Fsim_saturday-evening-post_1874-11-14_54_16_jp2.zip%2Fsim_saturday-evening-post_1874-11-14_54_16_jp2%2Fsim_saturday-evening-post_1874-11-14_54_16_0004.jp2/pct:49.321179,66.639344,41.582622,13.770492/600,/0/default.jpg"/>
 </td>
@@ -15537,7 +13721,7 @@ ber in which we died; and the eye
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- . i  
+. i  
 How was Fade. As the trials of life thick  
 en, and the dreams of other days fade, one by  
 one, in xne dim vista 01 disappointed hope, the  
@@ -15557,7 +13741,7 @@ heavens will be as bright over our graves as
 they are now around our path ; flie world has  
 the same attraction for offspring yet Unborn  
 that she once had for ourselves, and that she  
-now has lor our childre
+now has lor our children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StateAJR1n_ver01%2Fdata%2F1874112101%2F0043.jp2/pct:31.423100,73.259345,19.593400,15.014135/!600,600/0/default.jpg"/>
 </td>
@@ -15571,7 +13755,7 @@ now has lor our childre
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--Generation after gen­  
+Generation after gen­  
 eration ha e felt as we feel, and  
 their fell a were as active in life  
 as ouars re now. They passed  
@@ -15602,7 +13786,8 @@ in the very chamber In which we
 died; and the eyeb wll glietep aglai  
 with joy; d even oiur children will  
 cease tothi k ofa uas, and.will not re­  
-inepber to sp oapr namue.
+inepber to sp oapr namue.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761527:1874112801:0092/pct:49.109987,54.768331,14.746112,17.982456/!600,600/0/default.jpg"/>
 </td>
@@ -15616,7 +13801,6 @@ inepber to sp oapr namue.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Foboottok. Gene-rat ion after gen­  
 eral ion have felt as we feel, and their  
 fellows were as active in life as ours  
@@ -15647,7 +13831,8 @@ which w.* died; and the eyes will glisten
 agiin with joy; anel even our children  
 will cease to think of us. and will not  
 remember to lisp our name.  
-■ - -#• —•
+■ - -#• —•  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623525:1874122401:0212/pct:78.610758,57.014157,11.901737,16.419991/!600,600/0/default.jpg"/>
 </td>
@@ -15661,7 +13846,7 @@ remember to lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-er.  
+r.  
   
 A Beautiful Extract.  
 “Generation alter generation,&quot;  
@@ -15703,7 +13888,7 @@ ing language of the Psalmist,
 “forgotten and gone out of mind.’ ’  
   
 Fidelity.  
-Never
+Never 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875012801:0004/pct:43.939691,14.567314,22.106912,80.665455/!600,600/0/default.jpg"/>
 </td>
@@ -15719,7 +13904,6 @@ Never
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 Forgotten.— -Generation aftor generation  
 havf felt as we feel, and their fellows  
 were as active ii-life as o&#x27;nriare now.  
@@ -15749,7 +13933,7 @@ in the: very chamber in! which we died;
 and- the eyes &#x27;will glisten again with  
 joy, and evon our children will cease to  
 think of us, and, will not remombor to  
-lisp our name
+lisp our name.
 </td></tr></table>
 
 ---
@@ -15760,7 +13944,6 @@ lisp our name
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 ForGotten. Generation after gen  
 eration have felt as we feel, and their  
 lellows were as active in life as ours  
@@ -15791,7 +13974,8 @@ will be heard in the very chamber in
 which we died; and the eyes will glis.  
 ten again with joy; and even our chil-  
 dren will cease to think of us and will  
-not remember to lisp our name.
+not remember to lisp our name.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875032401:0759/pct:75.733855,72.105796,10.058708,13.730308/!600,600/0/default.jpg"/>
 </td>
@@ -15805,7 +13989,7 @@ not remember to lisp our name.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ee  
+ee  
 GenerAtion after generation have  
 felt as we feel now, and their lives  
 were as active as our own. They  
@@ -15841,7 +14025,7 @@ in the touching language of
 the psalmist, &quot;forgotten and gone  
 out of the mind.George D  
 Prentice.  
-The vast
+The vast 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297544:1875040701:0787/pct:71.422748,17.861222,12.352222,21.987436/!600,600/0/default.jpg"/>
 </td>
@@ -15855,7 +14039,6 @@ The vast
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Forgotten. ? Generation after gener­  
 , ation have felt as we feel, and their tel­  
 lows were as active in life as ours are  
@@ -15887,7 +14070,7 @@ eves will glisten agaiu with joy; and
 even our children will cease to think ot  
 us, and will not remember to lisp our  
 names.  
-&quot;IIow came you t
+&quot;IIow came you to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1875050801:0487/pct:10.827234,68.210878,18.312388,18.028917/!600,600/0/default.jpg"/>
 </td>
@@ -15901,8 +14084,6 @@ names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
   
 HOW WE FADE.  
   
@@ -15921,7 +14102,7 @@ of beauty as when the Creator commanded hertobe. ‘The
 heavens will be as bright over our graves as they are now  
 around our path; the world has the same attraction for off-  
 spring yet unborn that she once had for ourselves, and that  
-she now has for our children
+she now has for our children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_woodhull-and-claflins-weekly_1875-06-05_10_1%2Fsim_woodhull-and-claflins-weekly_1875-06-05_10_1_jp2.zip%2Fsim_woodhull-and-claflins-weekly_1875-06-05_10_1_jp2%2Fsim_woodhull-and-claflins-weekly_1875-06-05_10_1_0005.jp2/pct:36.905953,60.225252,27.463732,11.829960/600,/0/default.jpg"/>
 </td>
@@ -15935,7 +14116,7 @@ she now has for our children
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Generation after gener­  
+Generation after gener­  
 ation have felt as we now feel, and  
 their lives were as active as our own.  
 They passed like a vai&gt;or, while na­  
@@ -15947,7 +14128,7 @@ aroundftiur paths. Yet a little while
 and all will have happened. The  
 throbbing heart will be satisfied and  
 shall be at rest. Our funeral will  
-wind its way, and prayers
+wind its way, and prayers 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1875061201:0599/pct:64.992089,42.507042,14.576741,9.450704/!600,600/0/default.jpg"/>
 </td>
@@ -15971,7 +14152,6 @@ wind its way, and prayers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 &quot;Generation after generation have felt  
 as we feel now, and their lives were as ac­  
 tive as our own. They passed away like  
@@ -16002,7 +14182,8 @@ cease to think of us, and will not remem­
 ber to lisp our names. Then shall we  
 have become, in the touching language  
 of the Psalmist, &quot;forgotten and gone out  
-of mind.&quot;
+of mind.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1875062501:0577/pct:87.533512,78.509243,9.517426,15.480024/!600,600/0/default.jpg"/>
 </td>
@@ -16016,7 +14197,7 @@ of mind.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to  
+to  
 the will of God .&#x27;—Nehemiah the Tir -  
 shatha.  
 Our Thru Must Comr.— Generation  
@@ -16046,7 +14227,7 @@ which we died ; and the eye that
 mourned for ns will b* dried and glisten  
 again with joy ; and even onr children  
 will cease to think of ns, and will not  
-remember to liep onr. names
+remember to liep onr. names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_bombarda_ver01:data:sn84026820:00271765289:1875070301:0339/pct:62.111902,68.225568,10.963777,19.829714/!600,600/0/default.jpg"/>
 </td>
@@ -16060,7 +14241,6 @@ remember to liep onr. names
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 HOW WE FADE.  
 As the trials of life thicken, and the dreams of oth­  
 er days fade,one by one,in the dim vista of disappoint­  
@@ -16082,7 +14262,7 @@ ourselves, and that she now has for our children,
 HOME COURTESIES.  
 “I am one of those whose lot in life has been to go  
 out into an unfriendly world at an early age; and of  
-nearly twenty familie
+nearly twenty families
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016044:1875082601:0132/pct:39.217611,60.376578,11.287156,9.424788/!600,600/0/default.jpg"/>
 </td>
@@ -16096,7 +14276,7 @@ nearly twenty familie
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- air.  
+air.  
   
 A BEAUTIFUL EXTRACT.  
 “ Generation after generation,” says  
@@ -16132,7 +14312,7 @@ dren will cease to think of us, and
 will not remember to lisp our names.  
 Then shall we have become, in the  
 touching language of the Psalmist,  
-1 forgotten ami gone out of mind
+1 forgotten ami gone out of mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554619:1875112801:0922/pct:19.441341,69.745711,12.804469,24.494485/!600,600/0/default.jpg"/>
 </td>
@@ -16146,7 +14326,6 @@ touching language of the Psalmist,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 —  
 How we Fade.—As the trials of life  
 thicken and the dreams of other days fade,  
@@ -16169,7 +14348,7 @@ our graves as they are now around our
 patli; the world has tlie same attraction  
 for our offspring yet unborn that she once  
 bad for ourselves, and that she now lias for  
-our children
+our children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875121001:0407/pct:62.149064,75.452026,10.979278,10.135938/!600,600/0/default.jpg"/>
 </td>
@@ -16183,7 +14362,6 @@ our children
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 OcrTurs Must Come—Generation  
 after generation have felt as we now  
 feel, ami their lives wore as active as  
@@ -16209,7 +14387,7 @@ will continue to move on, and laughter
 and song will he heard in the room in  
 which we died; and the eye that  
 mourned for ns will lie dried, and glisten  
-again with jo
+again with joy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876022601:0326/pct:15.162759,52.311987,11.350987,17.501309/!600,600/0/default.jpg"/>
 </td>
@@ -16223,7 +14401,7 @@ again with jo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of other days.  
+of other days.  
 As we review the disappointed hopes, and our  
 short comings, the heart grows weary of the  
 struggle, and we begin to realize our insignifi-  
@@ -16233,7 +14411,7 @@ Those who have climbed to the pinnacle of
 fame, or reveled in luxury and wealth, go to  
 the grave at last, with the poor mendicant—  
 that begs by the wayside, and like him, are  
-soon forgotten.
+soon forgotten. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_manifesto_1876-04_6_4%2Fsim_manifesto_1876-04_6_4_jp2.zip%2Fsim_manifesto_1876-04_6_4_jp2%2Fsim_manifesto_1876-04_6_4_0001.jp2/pct:44.285714,51.258851,22.971429,9.362707/600,/0/default.jpg"/>
 </td>
@@ -16247,7 +14425,7 @@ soon forgotten.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-elves.  
+lves.  
   
 As the frials of life thicken and the  
 dreams of other days fade, one by one in  
@@ -16282,7 +14460,7 @@ children will cease to think of us, and
 will not remember to lisp our names,  
 Goodrich.  
   
-FARM, GARDEN AND
+FARM, GARDEN AND 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1877063001:0042/pct:49.574839,16.213889,18.276816,80.317858/!600,600/0/default.jpg"/>
 </td>
@@ -16296,7 +14474,7 @@ FARM, GARDEN AND
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- letters.  
+letters.  
 As the trials of life thicken and the  
 dreams of other davs fade, one bv one  
   
@@ -16330,7 +14508,7 @@ lisp our names.—Goodrich.
 Celery is the greatest food in the world  
 for nerves. Persons doing much brain  
 work find it invaluable. In cities, where  
-the brain and nerves are called t
+the brain and nerves are called to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1877070501:0111/pct:71.550633,34.759955,10.743671,18.558492/!600,600/0/default.jpg"/>
 </td>
@@ -16344,7 +14522,7 @@ the brain and nerves are called t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Gene- !  
+Gene- !  
 rations after generations, says an eloquent  
 modern writer, have felt as we feel, and :  
 their fellows were as active in life as ours ;  
@@ -16368,7 +14546,7 @@ children will cease to think of us, an? ;1
 will not remember to lisp our names.? j  
   
 Goodrich.  
-&quot;Conldn&#x27;t Lie lor
+&quot;Conldn&#x27;t Lie lor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn92065401:0041562010A:1877071201:0109/pct:30.287206,59.230840,13.968668,12.776186/!600,600/0/default.jpg"/>
 </td>
@@ -16382,7 +14560,7 @@ Goodrich.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Generations after generations,  
+Generations after generations,  
 says an eloquent modern writer, have  
 fell as wc feel, and their fellows were  
 as active in life as ours are uow. They  
@@ -16407,7 +14585,7 @@ children will cease to think o( us, and
 will not rrmember to lisp our names.?  
 (looilrich.  
 Pkbt.?Living beyoud their income  
-is the ruin of many of my neighbor
+is the ruin of many of my neighbors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn86053067:00415620184:1877072601:0285/pct:65.627331,39.686628,13.919141,15.067611/!600,600/0/default.jpg"/>
 </td>
@@ -16421,7 +14599,6 @@ is the ruin of many of my neighbor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 As Uio trials of lift- thicken and lite  
 dreams of other dnys fade, one by one iu  
 the deep vista of disappointed hope, the  
@@ -16456,7 +14633,7 @@ will not remember to lisp our names.—
 Goodrich.  
   
 American Beef In England.  
-
+W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1877083001:0025/pct:54.009862,4.047791,18.128731,92.316407/!600,600/0/default.jpg"/>
 </td>
@@ -16480,7 +14657,6 @@ American Beef In England.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-x  
 Adeler.  
 As the trials of life thicken and the  
 dreams of other days fade, one by one, in  
@@ -16513,7 +14689,7 @@ ten with joy, and even our children will
 ceaue think of us. and will not remembei  
   
 to lisp our names—Ooodrich.  
--♦
+-♦ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1877090601:0147/pct:60.888252,61.198465,10.792741,16.800792/!600,600/0/default.jpg"/>
 </td>
@@ -16527,7 +14703,7 @@ to lisp our names—Ooodrich.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: As the trials of  
+As the trials of  
 life thicken and the dreams of other  
 daj&#x27;S lade, one by one, in the deep vista  
 of disappointed hope, the heart grows  
@@ -16560,7 +14736,7 @@ in which we die: and the eye that
 mourned for us will be dried, and will  
 glisten with joy, and even our children  
 will cease to think of us, and will not  
-remember to lisp our name
+remember to lisp our names
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014896:00211105719:1877090801:0417/pct:22.457627,68.595142,12.605932,18.540217/!600,600/0/default.jpg"/>
 </td>
@@ -16574,7 +14750,6 @@ remember to lisp our name
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
   
 As tin- trials of life thicken and the dreams of  
 other days fade one hy one in the deep vista of  
@@ -16602,7 +14777,7 @@ the eye that mourned for us will he dried, and
 will glisten with joy&#x27;, aud even our children will  
 cease to think of us, and will not remember to  
 lisp our names. [Goodrich.  
-The courior .. Helena, hearing de
+The courior .. Helena, hearing des
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1877092001:0591/pct:4.637536,79.343653,11.334338,10.625387/!600,600/0/default.jpg"/>
 </td>
@@ -16616,8 +14791,6 @@ The courior .. Helena, hearing de
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 As the trials of life thicken and the  
 dreams of other days fade one by one in  
 the deep vista of disappointed hope, the  
@@ -16625,7 +14798,7 @@ heart grows weary of the struggles,
 and we heiciii to realize our insignifi  
   
 cance. Tho-e who have climbed to the tiuO!  
-pinnacle of fame or reveled in luxury
+pinnacle of fame or reveled in luxury 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1877100301:0167/pct:63.590720,69.611537,15.391274,3.468884/!600,600/0/default.jpg"/>
 </td>
@@ -16639,8 +14812,6 @@ pinnacle of fame or reveled in luxury
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 by the wayside, and like him are soon  
   
 forgotten. Generations after genera­  
@@ -16655,7 +14826,8 @@ her Creator commanded her to do. And
   
 so, likewise, shall it be when we are  
   
-gone.
+gone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1877100301:0167/pct:63.504155,74.262700,10.959141,4.988957/!600,600/0/default.jpg"/>
 </td>
@@ -16669,8 +14841,6 @@ gone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 over our graves as they are now around  
 our path ; the world will have the same  
   
@@ -16693,7 +14863,8 @@ even our children will cease to think of
   
 us, and will not remember to lisp our  
   
-names.
+names.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1877100301:0167/pct:63.452216,79.368585,11.011080,6.976744/!600,600/0/default.jpg"/>
 </td>
@@ -16707,7 +14878,7 @@ names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ON DESTINY.  
+N DESTINY.  
 As the trials of life thicken anti the  
 dreams of other days fade one by one in  
 the deep vista of disappointed hope, the  
@@ -16739,7 +14910,7 @@ which we died;and the eye that mourned
 for us will be dried, and will glisten with  
 joy, anil even our children will cease to  
 think of Us, and will not remember to  
-lisp our name
+lisp our name 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1877100401:0777/pct:60.446527,58.626198,10.818633,18.279325/!600,600/0/default.jpg"/>
 </td>
@@ -16753,7 +14924,7 @@ lisp our name
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-— As  
+As  
 ’ sc trials of life thicken, says Coleridge,  
 n:,l the dreams of other days fade, one  
 &#x27; ’) (),ie in the deep vista of disappointed  
@@ -16787,7 +14958,7 @@ V. t.r. little while, all this will have
 &#x27; ven our children will cease to think of  
 on I will not re m era bur to lisp oar  
 names,  
-
+l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1877100501:0516/pct:3.752081,62.925769,12.626457,23.491045/!600,600/0/default.jpg"/>
 </td>
@@ -16801,7 +14972,6 @@ names,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 ? As the tiials of life thicken, says Col­  
 eridge, and the dreams of other days  
 fade, one by one iu the deep vista of  
@@ -16836,7 +15006,7 @@ ed for us will be dried, and u ill glisteu {
 with joy, aud eveu our children will  
 cease to think of us, and will not re- i  
 member to lisp our names.  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767808:1877101301:0376/pct:16.604036,70.276254,13.736952,22.629704/!600,600/0/default.jpg"/>
 </td>
@@ -16850,7 +15020,6 @@ member to lisp our names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 As the trials of life thicken and  
 the dreams of other days fade o  
 by one in the deep vista of disap  
@@ -16886,7 +15055,7 @@ and the eye that mourned for u
 be dried, and will glisten with joy,  
 and even our children-will oss  
 hink of us, and will not resas-aber  
-to lisp our na
+to lisp our nam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_karma_ver01:data:sn88064118:00280761783:1877102401:0039/pct:80.344432,66.703875,15.476464,22.771488/!600,600/0/default.jpg"/>
 </td>
@@ -16900,7 +15069,7 @@ to lisp our na
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Generations after generations,  
+Generations after generations,  
 u- saya an eloquent modern writer, have  
 tilIt as we feel, and their fellows were  
 as active in life as ours are now. They  
@@ -16923,7 +15092,7 @@ eyes that mourned for us will be dried, i&#x27;
 n children wili cease to think of us, and r  
 will not remember to lisp our names. e  
 THE PAYING OF BILLS.-We see how u  
-desirable it is t
+desirable it is to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212474915:1877111001:0186/pct:20.132450,57.425979,13.841060,12.535817/!600,600/0/default.jpg"/>
 </td>
@@ -16937,7 +15106,7 @@ desirable it is t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- llestlnr.  
+llestlnr.  
 As the trials ot life thicken  
 and the dreaini ot other days  
 fade one by one in the deep  
@@ -16980,7 +15149,7 @@ mourned for us will be dried,
 and wili glisten with joy, and  
 even our children will cease to  
 think of us and will not remem­  
-ber to lisp our name
+ber to lisp our names
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206535970:1878012501:0084/pct:38.961039,8.009539,11.841100,22.625894/!600,600/0/default.jpg"/>
 </td>
@@ -16994,8 +15163,6 @@ ber to lisp our name
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 As the trials of lif6 thicken and the  
 dreams of other days fade one by one in  
 the deep vista of disappointed hope, the  
@@ -17026,7 +15193,8 @@ which we died, and the eyes that mourned
 for us will be dried, and will glisten with  
 joy, and even our children will cease to  
 think of us, and will not remember to lisp  
-our names.
+our names.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002302%2F1878041201%2F0060.jp2/pct:17.054582,70.143398,11.254107,18.134470/!600,600/0/default.jpg"/>
 </td>
@@ -17040,7 +15208,7 @@ our names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, OuttiEL VEs.—  
+OuttiEL VEs.—  
 As , the trials of life thicken and the  
 dreams of other days fade one &#x27;,by  
 one in the deep vista of diSs.apoint­  
@@ -17075,7 +15243,7 @@ and the eyes ,that mourned for us
 will be dried, and will glisten with  
 joy; and even our Children will&#x27; cease  
 to think of us, and will not remember  
-to lisp&#x27;ourname
+to lisp&#x27;ournames
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001813%2F1878042501%2F0059.jp2/pct:74.434320,37.349914,9.582384,16.785102/!600,600/0/default.jpg"/>
 </td>
@@ -17089,7 +15257,7 @@ to lisp&#x27;ourname
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- T. Perry.  
+T. Perry.  
 A- 11je tr.ais ot lire thicken and the dreams &lt;*t  
 ■ ‘ • da;.&#x27; fade one by one 1U the deep vista oi  
 • &#x27;appointed h -pc. the heart grows wearv of tie­  
@@ -17115,7 +15283,7 @@ j et a . wuile an 1 ail this will have happened.
 dn-d i and tie* ey. that mourned lor us will he  
 dried, and will gii.&#x27;teri with joy, and even our chil­  
 dren u &#x27;] c ase to think o‘f us. and&#x27;will not re  
-member to lisp our names,
+member to lisp our names, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1878070401:0122/pct:3.171104,74.366931,11.344752,9.769116/!600,600/0/default.jpg"/>
 </td>
@@ -17129,8 +15297,7 @@ member to lisp our names,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-force equal lo six miles a second  
-would never return.  
+never return.  
 As the trials of life thicken and tho  
 di cams of other days fade one by ono in  
 the deep vista of disappointed hope, the  
@@ -17161,9 +15328,9 @@ we died ; nnd the eye that mourned for us
 will be dried, and will glisteu- with joy,  
 and oven our children will cease to think  
 of us, anil will not remember to lisp our  
-names.
+names. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1878091801:0115/pct:49.981315,79.785209,11.005232,14.858619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1878091801:0115/pct:49.981315,80.301794,11.005232,14.342034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17175,7 +15342,6 @@ names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Sorer Verities As tho trials of life  
 thicken and the dreams of other days fade  
 one by one in the deep vista of disappoint  
@@ -17206,7 +15372,7 @@ and tho eye that mourned for us will be
 drio I. and oven our children will cease to  
 think of us, and will not rcmomber to lisp  
 our names.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1878100201:0123/pct:59.677419,64.921537,11.159040,13.866342/!600,600/0/default.jpg"/>
 </td>
@@ -17220,7 +15386,6 @@ our names.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 As the trials of life thicken and  
 the dreams of other days fade, oat by  
 one the deep vista of disappointed  
@@ -17255,7 +15420,8 @@ BKMraeel for as will he dried, and
 will custea witn tor. and svea oar  
 childrea will cava to thiak of. na,  
 aadwill not remember to Imp  
-osmes. Excsaage.
+osmes. Excsaage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:0020029192A:1879052701:0358/pct:73.759439,78.355465,11.232470,18.386108/!600,600/0/default.jpg"/>
 </td>
@@ -17269,10 +15435,6 @@ osmes. Excsaage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-m; and if I die before my  
-wife Tim&#x27;s a bachelor I want her  
-to be named Mrs. Tim Finuegan.&quot;  
-We Fade aaa LeaX  
 As the trials of life thicken and  
 the dreams of other days fade, one by  
 one the deep vista of disappointed  
@@ -17309,9 +15471,9 @@ children will cease te think of us,
 and will not remember to lisp oar  
 names. Exchange.  
 A CA1D.  
-To all who are suffering from th
+To all who are suffering from the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:0020029192A:1879052701:0360/pct:71.923077,28.222245,11.114058,22.512067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:0020029192A:1879052701:0360/pct:71.923077,30.851392,11.034483,19.882921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17323,7 +15485,7 @@ To all who are suffering from th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-teness.&quot;  
+eness.&quot;  
 a e  
 Wa Fane as a Laar  
 the triale of life thicken and she  
@@ -17348,7 +15510,8 @@ that mourned for us will be dried and
 will glisten with joy, and even our ean  
 dren will cease to think of us, and wil  
 not remember to lisp  
-STOCK-RAISING IN KANSAs.
+STOCK-RAISING IN KANSAs.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281883:1879060501:0176/pct:74.940441,11.419933,20.369267,84.405163/!600,600/0/default.jpg"/>
 </td>
@@ -17362,11 +15525,7 @@ STOCK-RAISING IN KANSAs.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-his  
-day to have not been without its justice.—  
-Harper&#x27;.* Magazine.  
-  
-Ouk Inbiojukicancb.—As the trialsof  
+As the trialsof  
 life thicken, and the dreams of otherdays  
 fade, one by one, in the dim vista of dis­  
 appointmented hope, the heart grows  
@@ -17390,9 +15549,9 @@ that she onco had for ourselves, and that
 she now has for our children.  
 Bob Inohrsoll. has a pointed way of  
 putting things. In a recent letter on  
-tlie cu
+tlie cur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557323:1879121301:0697/pct:37.340485,30.948943,12.335861,16.393227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557323:1879121301:0697/pct:37.340485,33.127707,12.335861,14.214464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17404,7 +15563,6 @@ tlie cu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Generation after generation,&quot; says  
 a fine writer, &quot;has felt as we feel now,  
 and their lives were as active as our  
@@ -17436,7 +15594,8 @@ children will cease to think of us, and
 will not remember to lisp our names.  
 Then shall we have become, in the  
 touching language of the Psamlist,  
-&quot;forgotten and gone out of mind
+&quot;forgotten and gone out of mind  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn84038328:00280763779:1880041601:0301/pct:30.163208,45.575360,10.759621,19.715447/!600,600/0/default.jpg"/>
 </td>
@@ -17450,7 +15609,7 @@ touching language of the Psamlist,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. —&quot;Genefa­  
+—&quot;Genefa­  
 tion after generation,&quot; says a fine writer,  
 &quot;huvo felt hb we feel now and their  
 lives were os active ns mir own. They  
@@ -17480,7 +15639,7 @@ think of us, and will liot remember to
 lisp our names. Then shall we have­  
 become in tho touching language of  
 tho Psalmist, » forgotten and gone out  
-of mind.&#x27;
+of mind.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lapras_ver01:data:sn86053696:0029587384A:1880050101:0574/pct:74.266098,52.422087,13.683712,18.597561/!600,600/0/default.jpg"/>
 </td>
@@ -17494,7 +15653,6 @@ of mind.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 As the trials of lifd thicken, and  
 the dreams of other days fade one by  
 one in the deep vista 01&#x27; disappointed  
@@ -17529,7 +15687,7 @@ ter and song will he heard m the
 very chamber in which we died,  
 and will glisten with joy, and even  
 our children will ea?e to think of 119,  
-and wil
+and will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879671:1880092301:0188/pct:41.704253,68.124918,11.968428,18.922124/!600,600/0/default.jpg"/>
 </td>
@@ -17543,7 +15701,7 @@ and wil
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ueneration alter  
+ueneration alter  
 generation, says an eloquent modern  
 writer, Jhave f.elt as we feeland their  
 fellows were as active in life as .&#x27;oufs  
@@ -17568,7 +15726,7 @@ even our children will cease to
 think of us, and will not remember to  
 lisp our name. Ex.  
 Mary Stuart Face Powder. Harmless  
-Pric
+Price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029129:1883081601:1030/pct:24.461207,54.404591,13.685345,15.365854/!600,600/0/default.jpg"/>
 </td>
@@ -17582,7 +15740,7 @@ Pric
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- have felt  
+have felt  
 as we feel, and their fellows were  
 as active in life as ours are now.  
 They passed away as vapor, while  
@@ -17607,7 +15765,7 @@ joy, and even our children will
 cease to think of us aud will not  
 remember to lisp our name. Thus  
 quickly will pass the memory of  
-each life; and how muc
+each life; and how much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_boozer_ver01:data:sn95060636:0041421664A:1893121401:0065/pct:65.577236,23.853321,14.146341,21.583851/!600,600/0/default.jpg"/>
 </td>
@@ -17621,7 +15779,7 @@ each life; and how muc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as soon forgotten.  
+as soon forgotten.  
 Generations have felt as we feel, and  
 their fellows were as active in life as  
 ouh are now. Tney passed away as  
@@ -17643,7 +15801,7 @@ will be dried, and will glisten iith joy,
 and even our children will cease to&#x27;tbink  
 of us and will not remember to lisp our  
 name. Thun quickly will pass he memory  
-of each life; and how muc
+of each life; and how much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_agave_ver01:data:sn84024828:00211100618:1893123001:0135/pct:8.260234,49.910018,17.202729,15.896821/!600,600/0/default.jpg"/>
 </td>
@@ -17657,7 +15815,7 @@ of each life; and how muc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Generation after genera­  
+Generation after genera­  
 tion, says an eloquent writer, have felt as  
 we feel, and their fellows were as active in  
 life as ours are now. They passed away  
@@ -17670,7 +15828,7 @@ around our path; the world will have the
 same attraction for oflspring yet unborn  
 that she had once for ourselves, and that  
 she has now for our children.  
-C
+CO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623987:1898072301:0136/pct:28.262142,70.151160,11.454067,7.600596/!600,600/0/default.jpg"/>
 </td>

@@ -9,13 +9,13 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-R BOTH SEXES.  
+ BOTH SEXES.  
   
 Illustrated with Seventy Coloured Anatomical Engravings on Steel, price 2s 6d, or post free from the Author, on receipt of 42 postage stamps, a Medical Work, entitled MAN AND WOMAN: Their Physiology, Functions, and Sexual Disorders.   
   
 Part I.—Philosophy of reproduction, generation, pregnancy, sterility, midwifery, miscarriage, monsters, and androgynous beings. Casualties and irregularities of the female, how obviated and removed. Female consultation—its advantages. References.  
   
-Part II.—Sexual diseases of man and woman, how acquired. Early depravity. Abuse of Functions. Generative weakness. Nervous Debility. Spermatorrh
+Part II.—Sexual diseases of man and woman, how acquired. Early depravity. Abuse of Functions. Generative weakness. Nervous Debility. Spermatorrho
 </td></tr></table>
 
 ---

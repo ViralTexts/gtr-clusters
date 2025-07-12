@@ -1,7 +1,7 @@
 
 # The World Is Agreeable
 
-### 133 reprints from 1833-04-17 to 1882-05-18
+### 131 reprints from 1833-04-17 to 1882-05-18
 
 ## [The World Is Agreeable](https://chroniclingamerica.loc.gov/lccn/sn83016348/1842-04-16/ed-1/seq-1)
 
@@ -11,7 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-**The World is Agreeable.**  
+The World is Agreeable.**  
   
 This is an agreeable world after all. If we would only bring ourselves to look at the objects that surround us in their true light, we should see beauty where we behold deformity, and listen to harmony where we heard nothing but discord. To be sure there is a great deal of vexation and anxiety to meet; we cannot sail up a summer coast for ever; yet, if we reserve a calm eye and steady hand, we can so trim our sail and manage our helm as to avoid quicksands and weather the storms that threaten shipwreck. We are members of one great family; we are travelling the same road, and should arrive at the same goal. We breathe the same air, are subject to the same bounty, and we shall lie down upon the bosom of our common mother. It is not becoming then that brother should hate brother—it is not proper that friend should deceive friend; it is not right that neighbor should injure neighbor. We pity that man who can harbor enmity against his fellow; be loses half the enjoyment of life—he embitters his own existence. Let us tear from our eyes the colored medium that invests every object with the green husk of jealousy and suspicion; turn a deaf ear to scandal; breathe the spirit of charily from our hearts—let the rich gushings of human kindness swell up as a fountain; so that the “golden age” will become no fiction, and the islands of the blessed, bloom in more than “Hyperion beauty.”  
 
@@ -25,25 +25,7 @@ This is an agreeable world after all. If we would only bring ourselves to look a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ometimes ornamented with  
-gold and precious stoves. This dress  
-was the heighth of the mode in the reign  
-of King Edward 111,  
-Henry&#x27;s History of England.  
-  
-Bornfor Empire.—Alexius Comnenus,  
-Emperor of Constantinople, hated abook  
-more than a monster did a looking glass;  
-and when his tutor endeavoured to play  
-him into scholarship by presenting plea­  
-sant authors to him, he replied, that  
-learning was-beneath the greatness of a  
-prince, who if wanting it, might borrow  
-it from his subjects, being better stored;  
-for (suith he) it they will not lend me  
-their brains, I&#x27;ll thke away their heads  
-  
-This World.—This is an agreeable  
+This is an agreeable  
 world, after all. 1f we could anly bring  
 ourselves to fook at the objects which sur­  
 round us in their true light, we would see  
@@ -64,9 +46,9 @@ UMBRELLA AND PARASOL
   
 Sign of the Red Parasol, No. 23, Vorth Main st.  
 THE subseriber, grateful for the  
-patronage hitherto so liberally b
+patronage hitherto so liberally be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_annishag_ver04:data:sn83021460:00514153206:1833041701:1025/pct:52.330368,43.531232,14.951534,23.225682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_annishag_ver04:data:sn83021460:00514153206:1833041701:1025/pct:52.330368,54.254496,14.951534,12.502417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +60,6 @@ patronage hitherto so liberally b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-E  
 There is a sound, healthy spirit prevading the following  
 sentiments, worthy of all commendation.  
   
@@ -107,6 +88,7 @@ from our lips; and from our hearts let the rich gushings of
 lruman kindness swell up as from a fountain—so the ‘ golden  
 age’ will become no fiction, and the * island of the blessed’  
 bloom in more than Hesperian beauty.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_man-us_1834-05-13_1_71%2Fsim_man-us_1834-05-13_1_71_jp2.zip%2Fsim_man-us_1834-05-13_1_71_jp2%2Fsim_man-us_1834-05-13_1_71_0003.jp2/pct:47.860238,9.937316,37.973998,25.534661/600,/0/default.jpg"/>
@@ -121,7 +103,7 @@ bloom in more than Hesperian beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| Thore isa sound, healthy spirit prevading the following  
+Thore isa sound, healthy spirit prevading the following  
 | sentiments, worthy of all cominendation,  
 | This isan agreeablo world, afer all. If we would only  
 , bring ourselves to look at the objects that surround us in  
@@ -154,6 +136,7 @@ from our lips; and from our hearts let the rich gushings of
 human kindness swell up as froin a fountain—so tho * golden  
 age’ will become no fiction, and the * island of tho blessed’  
 bloom in more than Hesperian beauty.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_young-america_1834-05-17_5_40_0%2Fsim_young-america_1834-05-17_5_40_0_jp2.zip%2Fsim_young-america_1834-05-17_5_40_0_jp2%2Fsim_young-america_1834-05-17_5_40_0_0003.jp2/pct:27.547269,66.716179,15.861345,13.162706/600,/0/default.jpg"/>
@@ -168,8 +151,6 @@ bloom in more than Hesperian beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 to avoid the quicksands and weather the storms that  
 threaten shipwreck. We are members of one great family!  
 we are traveling the same road, and shall arrive at the same  
@@ -186,7 +167,7 @@ the tale of scandal; breathe the spirit of charity from our
 lips; and from our hearts let the rich cushings of human  
 kindness swell up as from a fountain, so the “golden age”  
 will become no fiction, and the ‘island of the blessed’ bloom  
-inmore than Hesperian beauty
+inmore than Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2.zip%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_0002.jp2/pct:62.449084,7.677319,27.622200,14.653157/600,/0/default.jpg"/>
 </td>
@@ -200,26 +181,7 @@ inmore than Hesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-amation of independence till|  
-matters are more nearly mature for his purposes. How-,|  
-ever these things may be, it is almost certain, that. should |  
-his policy be continued by his successors, Egypt will,  
-before many years, attain to something like her pristine |  
-  
-  
-  
-a  
-  
-j pind uthropist.—And thouga he may be hailed asa pat-  
-| riot by a few short-sighted and self-interested friends, yet  
-j will he travel to the grave, filled with a consciousness  
-jthat, as he never cherished a-gingle permanently good  
-feeling for his species, he can desc?veeuly their execra-  
-tion and conteinpt. ™  
-  
-  
-  
-NOBLE SENTINENT.—This is an agreeable world aftery  
+This is an agreeable world aftery  
 all. if we would only bring ourseives to look at the  
 objects that surround us in tbeir truc light, we should  
 see beauty where before we beheld deforinity, and listen  
@@ -240,9 +202,9 @@ then when they are with others, turn against them.—Such
 persons are like flood trash floating upon the surface of a  
 river, and taking every new direction with the current,  
 and are unlike those substances with sufficient weight to  
-[sink to the bottom of the stream
+[sink to the bottom of the stream.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2.zip%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_0002.jp2/pct:7.077393,63.620421,83.604888,29.910366/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2.zip%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_jp2%2Fsim_the-cincinnati-mirror-and-western-gazette-of-literature_1834-08-23_3_45_0002.jp2/pct:34.954175,63.620421,55.728106,28.955573/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +216,7 @@ and are unlike those substances with sufficient weight to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* This is an agreeable world after all.—  
+This is an agreeable world after all.—  
 If we would only bring ourselves to look  
 at the objects that surround us in their  
 true light, we should see beauty where be-  
@@ -294,7 +256,8 @@ hearts let the rich gushings of human kind-
 ness swell up as a fountain—so that the  
 ‘golden age’ will become no fiction, &amp; the  
 idland of the blessed bloom in more than  
-Hesperian beauty.”
+Hesperian beauty.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1835-01-02_2_50%2Fsim_maine-farmer_1835-01-02_2_50_jp2.zip%2Fsim_maine-farmer_1835-01-02_2_50_jp2%2Fsim_maine-farmer_1835-01-02_2_50_0007.jp2/pct:17.865854,7.717918,49.837398,83.156780/,600/0/default.jpg"/>
 </td>
@@ -308,8 +271,6 @@ Hesperian beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PorurariTY.—There are some in community  
 who, chameleon-like, take the coior of every  
 thing they touch ; who are so condescending as to  
@@ -329,6 +290,7 @@ floating upon the surface of a river, and taking ev­
 ery new direction with the current, and are unlike  
 those substances which have sufficient weight to sink  
 to the bottom of the stream.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835012001:0009/pct:48.403517,75.588915,13.990437,9.434180/!600,600/0/default.jpg"/>
@@ -353,7 +315,7 @@ to the bottom of the stream.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- cate virtue with the virtuous, will doubt y  
+cate virtue with the virtuous, will doubt y  
 forgive them.” Oh! it was worthy of its origin sceptic, and  
   
 ‘people where they are, it aflords them suffic  
@@ -361,7 +323,8 @@ forgive them.” Oh! it was worthy of its origin sceptic, and
 with, and then when they are with others, turn a  
   
 every new direction withthe current, and ere u  
-like those substances which have sufficient
+like those substances which have sufficient  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2.zip%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_0012.jp2/pct:10.791667,9.965438,74.625000,18.375576/600,/0/default.jpg"/>
 </td>
@@ -375,7 +338,7 @@ like those substances which have sufficient
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- practice vice with the  
+practice vice with the  
 ape a veneration for religion wit  
 f any thing is unpepalar among |  
   
@@ -386,7 +349,7 @@ he pious.
   
   
 For they at one t  
-dyocate the opinions which they oppose! 
+dyocate the opinions which they oppose! a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2.zip%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_0012.jp2/pct:48.666667,8.813364,34.625000,11.808756/600,/0/default.jpg"/>
 </td>
@@ -400,25 +363,14 @@ dyocate the opinions which they oppose!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-other  
-  
-  
-  
-Put off no businesstil] to-morrow whi  
-  
-  
-  
-  
-  
-: Revenge:—The subjoined beautiful extract, ground tu reject H, ard talk against it.  
-: is from the pen of Cuarres Miner, formerly persons deservedly lose the confidence of all hi  
+persons deservedly lose the confidence of all hi  
 | and until recently the editor of the Westchester est and consistent men.  
 Pennsylvania, “Village Record.” The reader,a a  
 “may have seen it—but it cannot be too often read nother, and profess friendship fer these they —  
 or too closely treasured in the memory:— |  
-; Acquaintances—have yon quarrelied?——Friends!&#x27; gainst them. Such persons are like flood - as
+; Acquaintances—have yon quarrelied?——Friends!&#x27; gainst them. Such persons are like flood - ash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2.zip%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_0012.jp2/pct:0.000000,15.495392,86.250000,68.865207/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2.zip%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_0012.jp2/pct:0.000000,16.647465,86.250000,8.208525/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,11 +382,11 @@ or too closely treasured in the memory:— |
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and floating upon the surface of arvet, and taki  
+and floating upon the surface of arvet, and taki  
 ‘ 4 perfect, forgave his bitterest enemies, do you, :  
 ‘ -well to cherish your anger? .  
 , .. Brothers—to you the precept is imperative? weight to sink to the bottom of the stream,  
-: 
+: q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2.zip%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_jp2%2Fsim_tennessee-farmer-containing-original-and-selected-essays_1835-03_1_4_0012.jp2/pct:0.000000,24.452765,84.083333,7.114055/600,/0/default.jpg"/>
 </td>
@@ -458,7 +410,7 @@ or too closely treasured in the memory:— |
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n Mas.  
+ Mas.  
 Popularity.—There are some in commu­  
 nity who, chamelion-like, take the color of  
 every thing they touch ; who are so con­  
@@ -482,7 +434,7 @@ new direction with the current, and unlike
 those substances which have sufficient  
 weight to sink to the bottom of the stream.  
   
-Slavery in Massachusetts.—The followin
+Slavery in Massachusetts.—The following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_selene_ver01:data:sn84031524:print:1835070401:0942/pct:65.528242,56.117021,14.299118,14.135638/!600,600/0/default.jpg"/>
 </td>
@@ -496,7 +448,7 @@ Slavery in Massachusetts.—The followin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- be praised.”  
+be praised.”  
   
 Porutariry.—There are some in community who  
 cameleon-like, take the color of every thing they  
@@ -515,6 +467,7 @@ persons are like flood trash floating upon the surface
 of a river, and taking every new direction with the  
 eurrent, and unlike those substances which have suf-  
 ficient weight to sink to the bottom of the stream.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1835-07-15_6_28%2Fsim_zions-herald_1835-07-15_6_28_jp2.zip%2Fsim_zions-herald_1835-07-15_6_28_jp2%2Fsim_zions-herald_1835-07-15_6_28_0003.jp2/pct:73.758465,28.319007,14.080135,11.998567/,600/0/default.jpg"/>
@@ -539,28 +492,6 @@ ficient weight to sink to the bottom of the stream.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l remembered face appears;  
-We see them ns in times long past,  
-From each to each kind looks are cast;  
-We hear their words, their smiles behold,  
-They&#x27;re round us as they were of old   
-We are all here.  
-  
-We are all here!  
-Father, Mother,  
-Sister, Brother,  
-  
-You that I love with love so dear—  
-This may not long of us be said,  
-Soon must we join the gathered dend,  
-And by the hearth we now sit round,  
-Some other eirele will be found.  
-O then that wisdom may we know,  
-That yields a life of peace below;  
-80 in the world to follow this,  
-May each repent, in words of bliss,  
-Woea&#x27;re all—all here!  
-  
 Nowre Sesyrimexts,—This is an agreea­  
 ble world after all. If we would only bring  
 ourselves to look at the objects thas surround  
@@ -598,7 +529,7 @@ ness swell up as a fountain——-so that the
 &quot; ands of the blessed bloom in more than “Ilas­  
 perian boauty”  
 ( THE PAST WINTER. |  
-ii The wea
+ii The weat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836031701:0056/pct:3.302942,7.086126,31.223121,89.116406/!600,600/0/default.jpg"/>
 </td>
@@ -612,8 +543,6 @@ ii The wea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 iNOBLE skntimi:nts. 1 ins is on agree  
   
 alio world after nil. If wo would only  
@@ -675,7 +604,7 @@ gushings of human kindness swell up ns n
 luuuiuni so moi mo &quot;golden ngc &quot; will be­  
 come no fiction, nml the islands of the blessed  
   
-bloom in more than &quot;Hesperian beauty
+bloom in more than &quot;Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1836042901:0026/pct:5.214592,29.805014,16.115880,20.783039/!600,600/0/default.jpg"/>
 </td>
@@ -689,7 +618,7 @@ bloom in more than &quot;Hesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| common mother.—It is not becoming then that brother should
+common mother.—It is not becoming then that brother should 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_0007.jp2/pct:41.218354,41.736006,27.320675,0.794251/600,/0/default.jpg"/>
 </td>
@@ -703,7 +632,7 @@ bloom in more than &quot;Hesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.—This world is an agreeable world after all.  
+—This world is an agreeable world after all.  
   
   
   
@@ -741,7 +670,7 @@ man who frequents the tavern and grog shop.
 As well might the butcher cry, at every stroke of the knife | !  
 “Live,” as for the man to drink to the lealth of another, when |  
   
-in the very,ac
+in the very,act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_0007.jp2/pct:13.001055,29.198185,55.564346,28.385023/600,/0/default.jpg"/>
 </td>
@@ -755,7 +684,8 @@ in the very,ac
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-there, not a sigh or a groan, or a tear |  
+t » hand  
+moved; not a heart beat there, not a sigh or a groan, or a tear |  
   
 1}  
   
@@ -763,9 +693,10 @@ there, not a sigh or a groan, or a tear |
 | blessed” bloom in‘more than Hesperian beauty.  
   
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_0007.jp2/pct:24.367089,51.342663,44.145570,40.052950/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1837-02-25_1_21%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_jp2%2Fsim_baltimore-monument-a-weekly-journal_1837-02-25_1_21_0007.jp2/pct:13.897679,51.342663,54.614979,40.052950/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,9 +708,8 @@ there, not a sigh or a groan, or a tear |
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The most appropriate motto for a spirit retailer’s  
-sign is, ‘ Beggars ede
+sign is, ‘ Beggars ede 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1837-03-07_5_4%2Fsim_maine-farmer_1837-03-07_5_4_jp2.zip%2Fsim_maine-farmer_1837-03-07_5_4_jp2%2Fsim_maine-farmer_1837-03-07_5_4_0007.jp2/pct:39.746544,51.330742,23.982335,1.779306/600,/0/default.jpg"/>
 </td>
@@ -813,8 +743,6 @@ sign is, ‘ Beggars ede
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 The WeRLo. This is an agreeable world  
   
 after all. If we would only bring rurselvcs to  
@@ -866,7 +794,8 @@ man kindness swell up from a fountain so ihe
 golden age&quot; w ill become no fiction, and ihe &quot;is  
 land of the blessed&quot; bloom in more than llespe  
   
-nan beauty.
+nan beauty.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838012701:0107/pct:50.582797,75.244167,15.675241,17.539338/!600,600/0/default.jpg"/>
 </td>
@@ -880,11 +809,12 @@ nan beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- road, and shall arrive  
+road, and shall arrive  
   
 :hc &#x27;golden will become nofiction,  
 and the&#x27;island of the blessed&#x27; bloom  
-in more than Hesperian beauty.
+in more than Hesperian beauty.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838022401:0292/pct:13.924915,8.049096,22.815700,74.922481/!600,600/0/default.jpg"/>
 </td>
@@ -898,8 +828,6 @@ in more than Hesperian beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 at the same goal. We breathe the free!  
   
 «ir we are subject to the same bounty,! fectj0l,  
@@ -929,7 +857,7 @@ ul1sl&#x27;ol,t
 wneUiary to which weaned  
   
 man may flee from the. crime of the  
-world, an
+world, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838022401:0292/pct:7.389078,15.374677,33.907850,70.245478/!600,600/0/default.jpg"/>
 </td>
@@ -943,7 +871,7 @@ world, an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-)C Ppojier.  
+C Ppojier.  
   
 m0  
   
@@ -958,7 +886,7 @@ ihould deceive friend it is not right, wonted beauty.&quot; 1
 ihat neighbor should dec.eiye neighbor. I Lit1­  
 W« piiy that man who can harbor! SCHOOLS JN NRW-YOKK.—-From  
 oriniity against bis fellow he loses half Gov. Mart y&#x27;s rpcent message to the  
-the enjoyment of life, he embitters Id
+the enjoyment of life, he embitters Ids
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838022401:0292/pct:7.440273,82.984496,29.283276,7.235142/!600,600/0/default.jpg"/>
 </td>
@@ -972,55 +900,7 @@ the enjoyment of life, he embitters Id
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in thine own habitation.—There  
-  
-,h n huurs  
-  
-f^&#x27;Uide  
-  
-ni&#x27;.sun  
-  
-oi ine larynx i ,,  
-  
-which, by vibrating, fills the surround-  
-  
-a n f|  
-  
-crt:  
-  
-.!r  
-  
-thy bospm.  
-  
-lho,&quot;  
-  
-k wdl  
-  
-choose  
-  
-wouldst love for though thou be wise  
-in other things--little will it a trail thee,  
-if thou choosest not wisely the wife of  
-  
-,!°  
-  
-h.er W?y!!  
-  
-wh,  
-  
-th.ou  
-  
-1JKAUTIFUL I&#x27;.XTHACT.  
-  
-The glory of thc summer is none by  
-the bcautifulgrecnncsshasbee.omc with­  
-ered and dead. Were this all were  
-there no associations of  
-tion—of faded hopes—of  
-cring in thc hosoms of the living  
-necli&#x27;d with the  
-round us, we  
-momcul&#x27;s me  
+s me  
   
 TIIE VVOBI.D.—This is an agreeable  
 World after all. If we would only bring  
@@ -1035,9 +915,9 @@ yet if we preserve a calm eye and stea-!
 dy hand, we soon can trim our sai  
 and manage our helm, so as to avoid  
 the quicksands and weather the storms  
-that threaten shipwreck. We are inc
+that threaten shipwreck. We are incm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838022401:0292/pct:7.286689,62.816537,29.095563,18.863049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838022401:0292/pct:7.320819,72.428941,19.948805,9.250646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,18 +929,7 @@ that threaten shipwreck. We are inc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- upon, and  
-&#x27;while the worthy divine was reading the lesson  
-‘in the evening, his eyes discerned in the gallery  
-\ncnr him, the very two persons whom he had  
-beheld in the strect, but a few hours before mak­  
-ing the above remark. His text was taken from  
-Psalm ix. 17, “The wicked shall be tnrned into  
-hell, and all nations that forget God.” Tor a  
-moment the minister paused, and then looking  
-them both full in the l!:u‘(-. and pointing to them  
-with all the dignity of his ealling, repeated to them  
-‘the awful denunciation of seripture, adding at the  
+e, adding at the  
 same time, “There’s fun for ye my boys ! |  
   
 The World.—This is an agreeable world af­  
@@ -1094,9 +963,10 @@ kindness swell up from,a foyntain—so the ‘gol­
 den age’ will become no fiction, and the ‘lsland  
 tof the blessed’ bloom in more than Hesperian  
 |beauty,  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_distraughtsoul_ver03:data:sn83021111:00513688908:1838060201:0147/pct:40.443213,63.740062,17.141926,26.892499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_distraughtsoul_ver03:data:sn83021111:00513688908:1838060201:0147/pct:40.589865,70.146330,16.995275,20.486231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +978,6 @@ tof the blessed’ bloom in more than Hesperian
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Tris WorrLp. This is an agreeable world,  
 after all. It we would only bring ourselves to  
 look at the objects that surround us in their true  
@@ -1138,7 +1007,7 @@ the epirit of charity from our lips; and from our
 hearts let the rich gushings of human kindness  
 swell up as from a fountain—so the ¢ Folden 13:,’  
 will become no fiction, and the *island of the  
-blcseed’ blocm 1n more than Hesperian beauty
+blcseed’ blocm 1n more than Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868314:1838060901:0297/pct:80.177572,72.115521,15.209419,14.781619/!600,600/0/default.jpg"/>
 </td>
@@ -1152,7 +1021,7 @@ blcseed’ blocm 1n more than Hesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- This is an agreeable world, after all. If we would on  
+This is an agreeable world, after all. If we would on  
 (which the country merchant had never returned) with inter- | bring ourselves to look at the objects that suriound us in their  
   
   
@@ -1168,6 +1037,7 @@ eon, who had not once doubted but that the merchant’s money || pitino Alagoas 
 , had been promptly returned, and the bond cancelled. Pre. | oun tein cur sails, end congue spr Bele ep ap&#x27;te deed the  
 | , | quicksands and whether the storms that threaten shipwreck,  
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_jp2%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_0005.jp2/pct:40.583075,8.145646,54.747162,7.582583/600,/0/default.jpg"/>
@@ -1182,7 +1052,7 @@ eon, who had not once doubted but that the merchant’s money || pitino Alagoas 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| We are members of one great femily! We are travelling the  
+We are members of one great femily! We are travelling the  
   
 |, same road, and shall arrive atthe same goal. We breathe  
 | the tree air, we are subject to the same bounty, and we shall  
@@ -1199,6 +1069,7 @@ i} coming, then, that brother should hate brother, it is not pro-
 kindnes swell up as froma fountain—so the “golden age”  
 || will become no fiction; and the “island of the blest” bloom in  
 ‘more than Hesperian beauty.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_baltimore-monument-a-weekly-journal_1838-07-14_2_39%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_jp2.zip%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_jp2%2Fsim_baltimore-monument-a-weekly-journal_1838-07-14_2_39_0005.jp2/pct:68.111455,15.690691,27.296182,14.864865/600,/0/default.jpg"/>
@@ -1213,7 +1084,7 @@ kindnes swell up as froma fountain—so the “golden age”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- heart, and live a more holy  
+heart, and live a more holy  
 life, the only substantial proof of real religion.  
 •Milton.  
   
@@ -1247,7 +1118,7 @@ charity upon our lips and from our hearts let
 the rich gushing of human kindness swell up as I  
 from a fountain—so the “golden age” will he  
 come no fiction; and the islands of the blest”  
-bloom in more than Hesperian beauty
+bloom in more than Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991215:1838083101:0250/pct:19.840962,29.739181,15.418929,20.151537/!600,600/0/default.jpg"/>
 </td>
@@ -1262,9 +1133,6 @@ bloom in more than Hesperian beauty
 <table style="width: 100%;"><tr><td style="width: 50%">
 
   
-  
-  
-  
 surround us in their true light, we would see beauty where  
 we before beheld deformity, and listen to harmony where we  
 before could hear nothing but discord. To be sure, there is  
@@ -1273,7 +1141,7 @@ expect to sail upon a summer sea forever; yet, if we will
 preserve a calm eye and a steady hand, we can so trim  
 our sails and manage our helm, as to avoid the quicksands  
 and weather the storms that threaten shipwreck.  
-ORIGIN OF PAPER MONE
+ORIGIN OF PAPER MONEY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_boston-weekly-magazine_1839-08-17_1_50%2Fsim_boston-weekly-magazine_1839-08-17_1_50_jp2.zip%2Fsim_boston-weekly-magazine_1839-08-17_1_50_jp2%2Fsim_boston-weekly-magazine_1839-08-17_1_50_0002.jp2/pct:62.100344,8.938121,25.725529,9.587471/600,/0/default.jpg"/>
 </td>
@@ -1287,7 +1155,6 @@ ORIGIN OF PAPER MONE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Yuis world is an agreeable world after all. It  
   
 we would only bring ourselves to look at objects  
@@ -1308,7 +1175,9 @@ dal; breathe the spirit of charity from our lips ; | than those which his jester
 and from our hearts, let the gushings of human ,heaven! you are a cardinal,” said the jester,  
 kindness well up as from a fountain—so the jee now | have nothing morc to desire than to sce  
 * golden age” will become no fiction, and the you pope.” ‘The cardinal inquired of him his  
-island of the blessed” bloom in more than Iles- 
+island of the blessed” bloom in more than Iles- reasons for this wish. ‘* Why,” said he,* St.  
+{| Peter was a fisherman, and he therefore ordained  
+fasts, that fish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_jp2.zip%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_jp2%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_0006.jp2/pct:6.921488,10.269293,77.505165,59.947749/600,/0/default.jpg"/>
 </td>
@@ -1322,7 +1191,7 @@ island of the blessed” bloom in more than Iles-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as the negro |  
+as the negro |  
   
 that surround us in their true light, we should |  
   
@@ -1346,9 +1215,70 @@ bosom of our common mother. Et is not becom
   
 &#x27; then that brother should hate brother; it)  
   
-sired the mi
+sired the min
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_jp2.zip%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_jp2%2Fsim_rural-repository-devoted-to-polite-literature_1839-12-07_16_13_0006.jp2/pct:6.947314,46.583601,51.807851,41.659968/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Boston Weekly Magazine. Devoted to Moral and Entertaining Literature, Science, and the Fine Arts: Containing Original and Selected Tales, Moral and Humorous Essays, Sketches of Society, Elegant Extracts, Poetry, Criticism, and Selections from Works of History and Adventure: Embellished with Music (1838-1841)_](https://archive.org/details/sim_boston-weekly-magazine_1839-12-14_2_15/page/n2/mode/1up?view=theater)
+
+#### 1839-12-14 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+her attachments, her  
+r is now less if her confidence than her maids of hon-  
+or; a German woman, the Baroness Lehzen, near sixty  
+years old, being first confidante, and @xercises over her an|| Wolsey who, as is well known, was the son of a butcher, re-  
+almost unbounded influence. In fine, “Victoria” might ceived no heartier congratulati@ns on his cardinal’s hat than  
+have done very well in a lower station but nature: né those which his jester offered him. “Thank heaven! you  
+intended her for apy thing great. The accident of birt are a’cardinal,” said the jester, “now I have nothing more  
+placed her on the e of England. With a good ministry, ||to desire than, to see you pope.” The cardinal inquired of  
+will go on well—for the monarch of these realms is little| hit*his reasons for thi wish. “ Why,”*said he, “St. Peter  
+often contain the same simples, but in different proportions than gilded puppet. She leans decidedly to the||was @ fisherman, and he therefore ordained fasts, that fish  
+and quantities. —Every mind is composed of the same in-|/liberal side ; but as yet, pleasure and the trappings of State
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_boston-weekly-magazine_1839-12-14_2_15%2Fsim_boston-weekly-magazine_1839-12-14_2_15_jp2.zip%2Fsim_boston-weekly-magazine_1839-12-14_2_15_jp2%2Fsim_boston-weekly-magazine_1839-12-14_2_15_0002.jp2/pct:8.558780,78.549263,78.627644,11.229635/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _American Masonic Register and Literary Companion (1839-1847)_](https://archive.org/details/sim_american-masonic-register-and-literary-companion_1840-01-11_1_19/page/n4/mode/1up?view=theater)
+
+#### 1840-01-11 &middot; [Albany](http://dbpedia.org/resource/Albany%2C_New_York)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+the carrage as well aa its owner filowing.| of honor, a German woman, the Baroness Lehzen, aear  
+‘Yonder is Moreau,” said the guide, “seated on his, sixty yearsold, being first confident,and exercises, over  
+stone bench.” The young man moved fread alone her an almost anbounded mfuence. In fine, ‘Vicloria  
+to the side of the soldier, who wasindecd basking his might have done very weil in a lower station, but nature  
+  
+Quren Victrorsa.—An American in London, draws  
+the following picture of Victoria, wich he asserts is cor  
+rect. We find it in the U.S. Gazette.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+never intendet her for any thing great. The accident  
+of birth hog placed her on the throne of England. With  
+a good ministry, all will go on well—for the monarch is  
+little more than a gilde puppet. She leans to the liberal  
+side: but, as yet, pleasure and the trappings of state
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-masonic-register-and-literary-companion_1840-01-11_1_19%2Fsim_american-masonic-register-and-literary-companion_1840-01-11_1_19_jp2.zip%2Fsim_american-masonic-register-and-literary-companion_1840-01-11_1_19_jp2%2Fsim_american-masonic-register-and-literary-companion_1840-01-11_1_19_0004.jp2/pct:10.549508,9.181141,80.067392,80.314309/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1290,7 @@ sired the mi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-false, to the last,  
+alse, to the last,  
 Let us look to the future and not to the past!  
 Nonle SEnttIMents. This is an agreeable  
 world after all. If we would only bring ourselves  
@@ -1392,7 +1322,8 @@ charity from our hearts let the rich gushings of hu­
 man kindness swell up as a fountain--so that the  
 &quot;golded age&quot; will become no fiction, and the isl­  
 ands of the blessed bloom in more than &quot;Hesper­  
-ian beauty.&quot;
+ian beauty.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840110701:0110/pct:5.459162,24.552249,14.980956,16.894655/!600,600/0/default.jpg"/>
 </td>
@@ -1406,7 +1337,7 @@ ian beauty.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ii of a fulse one.  
+i of a fulse one.  
   
 NoeLE SeNTIMENTS.—Thit is an agreeable world  
 after all. If we would only bring ourselves to look at  
@@ -1437,7 +1368,7 @@ man kindness swell up as a fountain,—so that the
 s golden age *’ will become no fiction, and the islands  
 of the blessed bloom in more than ¢ Hesperian beau­  
 ly.!’ ,  
-Good Sent
+Good Senti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840112401:0608/pct:35.520727,29.982436,14.662370,15.631780/!600,600/0/default.jpg"/>
 </td>
@@ -1461,7 +1392,7 @@ Good Sent
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- alleviate the  
+alleviate the  
 wants and woes of those who aro pining,,  
 suffering, starving before their very eyes.&quot; &quot;  
 The Would is Agreeable. This is an  
@@ -1481,7 +1412,7 @@ are &#x27;members of one grc-t . family; wjj r.ts-travelling
 tho same reed, and fh-ll errive at  
 tho same goal. We breath tLa r :;.,e . air.  
 are itubject to the same bounty, ft::. v: &quot; &#x27;1  
-lie uc .r. rT i t&#x27; e
+lie uc .r. rT i t&#x27; e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877583:1841081301:0038/pct:71.262965,60.895582,16.839536,12.725641/!600,600/0/default.jpg"/>
 </td>
@@ -1495,7 +1426,7 @@ lie uc .r. rT i t&#x27; e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in woman ahmo ought to o  
+in woman ahmo ought to o  
   
 Tie U&#x27;er7 it Arcea&#x27;t&#x27;c. This is an  
 agreeable world a tor all. If we would  
@@ -1539,7 +1470,8 @@ hearts let tho rich gushings of human
 kindness swell up as a lountain so that  
 tin &#x27;goiden age1 will becumo no fiction,  
 aud ihe islands of .the blessed bloom in  
-inure than &#x27; Hyperion beauty.&#x27;
+inure than &#x27; Hyperion beauty.&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1841082601:1111/pct:60.569106,31.490930,29.381210,22.179705/!600,600/0/default.jpg"/>
 </td>
@@ -1563,21 +1495,7 @@ inure than &#x27; Hyperion beauty.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- nadir of his degradation.  
-And if he sank into that dark, hopeless grave,  
-she enswathed him in her broken heart; and  
-laid it in his coffin ; or if some mighty an­  
-gel’s arm or voice brought him up from the  
-grave of drunkenness, the deepest thing ever  
-dug for man, he came forth Lazarus-like,  
-bound fast and forever within the cerements  
-of her deathless affection.  
-Such is her sceptre; such are the cords  
-which she throws around the way ward and  
-wandering, and leads him back to virtue and  
-to heaven, saying, as she gives him in,  
-“ Here am I and he whom thou paces! me.  
-Worcester, Mass., July 3, Ib41.  
+July 3, Ib41.  
 THE WORLD IS AGREEABLE.  
 This is an agreeable world after all. II  
 , we would only bring ourselves to look at  
@@ -1616,7 +1534,7 @@ age’ will become no fiction, and the islands
 of the blessed bloom in more than 4 Hespe­  
 rian beauty.*  
   
-GOD SEEN I
+GOD SEEN IN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1841091601:0344/pct:39.232127,6.798623,34.951456,88.209983/!600,600/0/default.jpg"/>
 </td>
@@ -1630,26 +1548,6 @@ GOD SEEN I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ndiis-  
-Irious. ijie vr&#x27;qous and enterprising pnr­  
-1* To ibis parly  
-&amp;-■ should aspire In belong.  
--Jy fin at once make up ids mind 10 be  
-J® king Man. Having chosen his &lt;&gt;c­  
-don, let him give himself to it with  
-patient, untiring attention, resolved to rise  
-and excel in it. If placed in discourag­  
-ing circumstances, let him remember die  
-adage of Cicero, Diligenlia omnia vincit.  
-Many a dark morning has been succeed-  
-  
-fwl  
-  
-ed by a bright day. Our worthiest and  
-best men have been formed amid difficul­  
-ties and trials. Let t o young man ever  
-succumb to difficulties, or shrink from  
-toil.—[Docl. Hawes.]  
 The World is Agreeable.  
 This is an agreeable world after all. II  
 we would only bring ourselves to look at  
@@ -1685,21 +1583,12 @@ our hearts—let the rich gusliings of hu­
 man kindness swell up as a fountain; so  
 that the “golden age” will become no fe­  
 lloe, and die islands of die blessed, bloom  
-in more than “Hyperion beauty.”
+in more than “Hyperion beauty.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842041601:0148/pct:4.399575,5.939356,47.375133,89.121601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842041601:0148/pct:19.702444,19.943732,14.133900,22.100656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [A Life of Plasure.](http://search.proquest.com/docview/126407646/fulltext/)
-
-#### From _Trumpet and Universalist Magazine (1828-1851)_
-
-#### 1842-07-23 &middot; [Boston](http://dbpedia.org/resource/Boston)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -1709,7 +1598,7 @@ in more than “Hyperion beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—T hi.H i.s .&#x27;ll! .Tjrreeablrt  
+T hi.H i.s .&#x27;ll! .Tjrreeablrt  
 world after all. If we would only hriipjj ourH’lves  
 to ltx&gt;k at the objects that surround us in their true  
 liirht, we should sec lH*auty where liefore. we ladicld  
@@ -1739,7 +1628,8 @@ dal, breathe the spirit of charity from our hearts ;
 let the rich I&#x27;ushinirs of human kiniines.s swell up  
 as a fountain, so that the “ golden at?e” will become  
 no fiction, and the island of the blessed bloom in  
-more than ” Hesjierian beauty.”
+more than ” Hesjierian beauty.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28%2Fsim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28_jp2.zip%2Fsim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28_jp2%2Fsim_every-youths-gazette-a-semi-monthly-journal_1842-12-31_1_28_0010.jp2/pct:67.276423,53.651904,27.997967,36.305361/,600/0/default.jpg"/>
 </td>
@@ -1753,25 +1643,7 @@ more than ” Hesjierian beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-•wont whip you indeed,  
-nor. i wont look at no boddyelse so i wont  
-—Daddy sais as how i must git married to  
-some bodily-quick,. ause I&#x27;ve let itrun too  
-long so no more at present. li. A. T.  
-. P. S. Note ti Bianny  
-my pen is Bad, my ink is pail,  
-my love to you shall never fail, •  
-, for henry is my own true luv,  
-my Lark my Duck, my Turkle Duv,  
-So no more at present.. K. A. T. •  
-  
-P. S. Mother is ded, so she wont throw  
-he tongs at you any more when -you kum&#x27;  
-o our house, ands Robert has got the feveer-  
-  
-vague. &#x27;  
-So no &#x27;more at present,yours till deth du  
-us part.., Yours, K. A.T. •  
+. •  
   
 NOBLE SENTIMENTS.—This is an agree=  
 able world after all: If we would only  
@@ -1808,9 +1680,10 @@ it of &#x27;charity &#x27;from .our hearts; lei the rich
 gnshings of human kindness swell up itie  
 &amp;Wain, so that the &quot; golden age&quot; will be.  
 corne.no fiction, and the islander the bleet , ‘  
-ed bloom in more than&quot; 1-letterianbeitily.!
+ed bloom in more than&quot; 1-letterianbeitily.!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_washingtong_ver01%2Fdata%2Fsn86071296%2F000001854%2F1843020801%2F0021.jp2/pct:56.128564,57.860354,12.116397,33.004355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_washingtong_ver01%2Fdata%2Fsn86071296%2F000001854%2F1843020801%2F0021.jp2/pct:56.128564,67.782383,12.034683,23.082326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1822,7 +1695,7 @@ ed bloom in more than&quot; 1-letterianbeitily.!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- . : ;  
+. : ;  
 INoblo ffrntluirnt.  
 This U an agreeable world after all.  
 If vo would only bring ourselves to look  
@@ -1860,7 +1733,7 @@ ings of human kindness swell up as rt
 fountain, so that the &quot; golden age&#x27;, will  
 become no fiction, and the island of the  
 blessed bloom in more than &quot;Hesperian  
-beauty
+beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1843030301:0583/pct:81.357254,50.566455,15.737129,27.176015/!600,600/0/default.jpg"/>
 </td>
@@ -1874,7 +1747,7 @@ beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 Noble sentiment.  This is an agreeablee  
 eld after all. if we would only bringo  
 selves to look at the objects that sur-­  
@@ -1912,7 +1785,8 @@ ur hearts,-let the rish gush of human
 indness swell up as a fountain, so that  
 he &quot;golden age will become no fiction  
 ad blessings bloom in more than &quot;Hes.­  
-erian beauty.&quot;
+erian beauty.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843071901:0428/pct:52.782520,3.289500,28.855127,92.845940/!600,600/0/default.jpg"/>
 </td>
@@ -1926,7 +1800,7 @@ erian beauty.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hi  
+hi  
 Noble Sentiments. This s an agreeable  
 world after all. If we would onlyvbring ourselves  
 to look at the obiccts that surround us in their true  
@@ -1957,7 +1831,7 @@ ty from our hearts; let the rich gushings of human
 kindness swell up as a lountam, so that the &#x27;gold­  
 en age will become no fiction and the island of the  
 blessed, bloom in more than &#x27;Hesperian beauty  
-&quot; Patrick, I w
+&quot; Patrick, I wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AsvHM3_ver01%2Fdata%2F1844032901%2F0277.jp2/pct:57.250129,64.534444,17.400311,20.685087/!600,600/0/default.jpg"/>
 </td>
@@ -1971,7 +1845,6 @@ blessed, bloom in more than &#x27;Hesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 to graze. Several attempts on the dy hand, we can so trim our sail  
 part of the French to punish this and manage our helm as to avoid  
 supposed carelessness failed com- the quicksands and weather the  
@@ -2003,10 +1876,9 @@ are in little danger if they hold hueof jealousy and suspicion : turn
 their ground firmly, and receive a deaf ear to the tale of scandal,  
 the assailants with a steady fire, breathe the spirit of charity from  
 When thus met, the Cossacks fly our hearts ; let the rich gushings  
-as fast as they had advanced, and of human kindness swell upas a  
-with the
+as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewBerNB7n_ver01%2Fdata%2F1844043001%2F0176.jp2/pct:34.327971,7.285884,30.980799,21.163759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewBerNB7n_ver01%2Fdata%2F1844043001%2F0176.jp2/pct:34.327971,7.285884,30.967826,20.430214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2018,7 +1890,6 @@ with the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Noble Sentiments. This is an  
 agreeable world after all. If we  
 would only bring ourselves to look  
@@ -2037,7 +1908,7 @@ friend should deceive friend : it is
 existence. Let us tear irom our  
 island ot tne blessed, oioom in  
 more than Hesperian beauty.&#x27;  
-A Har
+A Hard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewBerNB7n_ver01%2Fdata%2F1844043001%2F0176.jp2/pct:35.028542,14.234734,30.267255,83.009516/!600,600/0/default.jpg"/>
 </td>
@@ -2051,19 +1922,6 @@ A Har
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ented by a loafer in a  
-gilt-edged jacket and half boots or high lows, as  
-Boz calls them, with a three days* beard, and a  
-felt of hair that would make the fortune of a  
-mattress stuffer. In the last scene Gpslpr carri­  
-ed the only sword on the stage, Tell snatehed it  
-from him and politely ran him through with his  
-own weapon. The boy, Albert, floored the bul*  
-ley, Sarnerq, by a dig in the ribs, while the Aus­  
-trian army ‘awfully arrayed* stood in the hack  
-ground with his hands in his breeches pockets  
-‘smiling at the ruin,’and thus was the indepen­  
-dence of Switzerland achieved.”  
 NOBLE SENTIMENTS.—This is an agreea­  
 ble world after all. If we would only bring  
 ourselves to look at the objects that surround us  
@@ -2096,9 +1954,9 @@ human kindness swell up as a fountain, so that
 the ‘golden age’ will become no fiction, and the  
 island of the blessed bloom in more than Hespe­  
 rian beauty.&quot; ___  
-CHRISTMAS IN NORWA
+CHRISTMAS IN NORWAY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844050301:0283/pct:50.388878,40.442115,14.631538,22.522341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844050301:0283/pct:50.388878,47.094000,14.631538,15.870456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2110,8 +1968,6 @@ CHRISTMAS IN NORWA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Noble Sentiments.  
   
 This is an agreeable world, after all, If&#x27;we  
@@ -2198,7 +2054,7 @@ tain, so that the ‘golden ege’ will become no fic-
 tion, and the island of the blessed bloom in more  
 than ‘Hesperian beauty.’  
   
-For the Christia
+For the Christian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1844-05-03_7_8%2Fsim_christian-secretary_1844-05-03_7_8_jp2.zip%2Fsim_christian-secretary_1844-05-03_7_8_jp2%2Fsim_christian-secretary_1844-05-03_7_8_0000.jp2/pct:47.433962,11.956308,47.157233,82.336154/,600/0/default.jpg"/>
 </td>
@@ -2212,7 +2068,7 @@ For the Christia
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ine.  
+ne.  
 NOBLE SENTIMENTS.  
 This is an agreeable world after all. If  
 we would only bring ourselves to look at the  
@@ -2247,7 +2103,8 @@ the spirit of charity from our hearts ; let the
 | rich gushing* of human kindness swell up as  
 a fountain, so that the golden age, will be­  
 come no fiction, and the island of the blessed  
-blooni,in more than Hesperian beauty.
+blooni,in more than Hesperian beauty.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844051601:0083/pct:19.291908,11.968204,29.479769,81.157635/!600,600/0/default.jpg"/>
 </td>
@@ -2263,7 +2120,7 @@ blooni,in more than Hesperian beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the worthy MainstrMft. This Wom,n —  
+the worthy MainstrMft. This Wom,n —  
 This is an agreeable world, after nil.  
 If we wnulil only bring ourselves to  
 look at the objects that surround us in  
@@ -2300,7 +2157,7 @@ hearts let the rich Kushin|;« of human
 kindness swell up as from a fountain ;  
 eo the &#x27; golden age &#x27; will become no  
 fiction, iuule&#x27;i..i.«.:tlviflj-f the  
-blessed&#x27; bloom in IhibhGai.x* Klin&#x27;— Th
+blessed&#x27; bloom in IhibhGai.x* Klin&#x27;— The
 </td></tr></table>
 
 ---
@@ -2313,7 +2170,7 @@ blessed&#x27; bloom in IhibhGai.x* Klin&#x27;— Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the worthy Magistrate.  This World —  
+the worthy Magistrate.  This World —  
 This is an agreefilile world, after oil.  
 If we would only bring ourselves lo look  
 at ihe objects ihat surround us in their  
@@ -2350,7 +2207,7 @@ hearts let the rich flushings of human
 kindness swell up as from a fountain ;  
 so the &#x27; golden o^e &#x27; will become no  
 fiction, itmle&#x27;u.rfVt-Rori.of ihe  
-hlesaed &#x27; bloom i
+hlesaed &#x27; bloom in
 </td></tr></table>
 
 ---
@@ -2361,7 +2218,7 @@ hlesaed &#x27; bloom i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e  
+e  
   
 friend; it is not right that neighbor shoulehman and melancho  
 ine eie  e ee e e on e e e i e o  
@@ -2378,7 +2235,7 @@ overy oblec with the green ie  o  ee o e teoa narsh word.
 and suspicion; turn a deaf car to the tale offrouble. theul them into a wor a  
 scandal, breathe the spirit of char  e e e te  a eo  
   
-our hearts; let the rich gushings of 
+our hearts; let the rich gushings of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn84020048:0029587823A:1844060101:0112/pct:37.014739,64.150943,33.506332,7.044025/!600,600/0/default.jpg"/>
 </td>
@@ -2392,24 +2249,6 @@ our hearts; let the rich gushings of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it the prosper­  
-ity it has lost—he; our- GOvernor,,&#x27;found  
-traversing the State; chodu - e:ting-the dee­  
-tioneeeing campaign, for tke elevation of  
-others and to keep in train the System  
-which is so oppressi r ve, and in power, the  
-rulers Who ask for power at such-a price.  
-  
-ms we resent as a most&#x27; serious  
-grievance, a dereliction of duty, in one who  
-ought to ho-a 14h . ftinfitiorvy--4n evil ex­  
-ample to others who may be prompted to  
-do. the he, and ivnieli s in the end, will  
-prove the overthrow of our free institutions,  
-8/e., J AMES SEATON,.  
-  
-Foreman of the Grand Jun•.&quot;  
-  
 A NotLE SE fitl IEN r.—&#x27;This is an a­  
 greeable world after alt. If we would only  
 brim ourselves to look at the, objects, drat  
@@ -2435,9 +2274,9 @@ Same,;liMiniY - ,&quot; - shall -: We - shall - lie - Al - owrr . up - Oti;
 ..the-of-ottr-conamon-Ttirothei,T- Itrii -  
 Mit , becoming:then&#x27;, ~that&#x27; binther:; shonld  
 ha te-brothe ri...!it J-fs not pi;operltht frietidL  
-Should&#x27; deceive frianti;
+Should&#x27; deceive frianti; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_washingtong_ver01%2Fdata%2Fsn86071296%2F000001855%2F1844070301%2F0085.jp2/pct:43.317685,44.391932,12.444913,24.385978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_washingtong_ver01%2Fdata%2Fsn86071296%2F000001855%2F1844070301%2F0085.jp2/pct:43.317685,54.767044,12.219774,14.010866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2449,7 +2288,7 @@ Should&#x27; deceive frianti;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the Highlands.  
+the Highlands.  
 NOBLE SENTIMENTS.  
 T This is an agreeable world after all. If we  
 would only bring ourselves to look at the objects  
@@ -2481,7 +2320,8 @@ spirit of charity from our hearts?let the rich
 gushings of human kindness swell up as a foun­  
 tain, so that the &quot;goldeaage&#x27; will become no  
 fiction, and the islands of the blessed bloom in  
-more than &quot; Hesperian beauty.&quot;
+more than &quot; Hesperian beauty.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844071101:0858/pct:7.449495,75.013200,18.416306,20.578141/!600,600/0/default.jpg"/>
 </td>
@@ -2495,7 +2335,7 @@ more than &quot; Hesperian beauty.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-/*  
+*  
   
 This is an agreeable world alter an. u  
 would only bring ourselves to look at the  
@@ -2526,7 +2366,7 @@ it of charity from our hearts; let the rich gush­
 ings of human kindness swell up in us a fountain  
 —so that tho ‘golden age’ will become no fiction,  
 and tbe islands of the blessed bloom in more than .  
-“Hyperian beauty.
+“Hyperian beauty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844110201:0223/pct:49.740829,14.213510,29.027113,83.703299/!600,600/0/default.jpg"/>
 </td>
@@ -2540,7 +2380,7 @@ and tbe islands of the blessed bloom in more than .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. This is an agreeable  
+This is an agreeable  
 world afier all. If we would only bring our­  
 selves to look at Ihe subjects that surround&quot;  
 us ;n their true light, we would see beauty  
@@ -2581,7 +2421,7 @@ rich gushing of human kindness swell upa3
 a fountain so that the &#x27;&#x27;golden age&quot; will  
 become no fiction, and the islands of the  
   
-blessed bleom in more than &quot;Hyperian bea
+blessed bleom in more than &quot;Hyperian beau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877583:1845010301:0637/pct:78.857062,39.817232,13.910947,18.070061/!600,600/0/default.jpg"/>
 </td>
@@ -2595,12 +2435,11 @@ blessed bleom in more than &quot;Hyperian bea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 This is an agreeable world after al]. If we burn and Syracuse Railroad, states that a;  
   
 would only bring ourselves to look at the sub-  
-jects that surround us in their true light, we
+jects that surround us in their true light, we  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1848-09-02_10_36%2Fsim_american-cultivator_1848-09-02_10_36_jp2.zip%2Fsim_american-cultivator_1848-09-02_10_36_jp2%2Fsim_american-cultivator_1848-09-02_10_36_0007.jp2/pct:34.915335,65.794209,30.288576,1.783085/600,/0/default.jpg"/>
 </td>
@@ -2614,7 +2453,6 @@ jects that surround us in their true light, we
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
   
 should see beauty where we behold deformity, es so much annoyance on railroads. The!  
 and listen to harmony where we heard nothing | plates in general use are abolished, and the  
@@ -2647,7 +2485,7 @@ charity from our hearts.
 Let not any one say he cannot govern his  
 passions, nor hinder them from breaking out  
 and carrying him into action; for what he can  
-do before 
+do before a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1848-09-02_10_36%2Fsim_american-cultivator_1848-09-02_10_36_jp2.zip%2Fsim_american-cultivator_1848-09-02_10_36_jp2%2Fsim_american-cultivator_1848-09-02_10_36_0007.jp2/pct:34.915335,67.560936,30.360124,18.059872/600,/0/default.jpg"/>
 </td>
@@ -2671,7 +2509,6 @@ do before
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Nob lb Sbntimbvt-&#x27;. This is an tfgree­  
 able world after all. If we&quot; would only  
 b.&#x27;ing ourselves to look at the subjects that  
@@ -2703,7 +2540,7 @@ ored medium that invests every object with
 the gieen hue of jealousy and suspicion:  
 turn a deaf ear to scai.dal, and b-eaihe the  
 spirit of charity from our hearts.  
-05
+05 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848102501:0078/pct:30.324074,74.948637,12.624644,16.874401/!600,600/0/default.jpg"/>
 </td>
@@ -2717,7 +2554,7 @@ spirit of charity from our hearts.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Neatlaaeaia.  
+Neatlaaeaia.  
   
 This in an agreeable world after all. If  
   
@@ -2749,7 +2586,7 @@ colored medium titX invests every object
 with the green hue of jealousy and auspi.  
 cion ; turn a deaf ear to scandal, and  
 breathe the fpirit of charity from our  
-hearts
+hearts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848102801:0293/pct:19.703799,62.474179,12.830006,16.605462/!600,600/0/default.jpg"/>
 </td>
@@ -2763,7 +2600,6 @@ hearts
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Noble Sentiments. Thin 1 an agreea­  
 ble world after all. If we would only bring  
 uurseives to loos at tue suujecis mat surround  
@@ -2794,7 +2630,7 @@ jealousy and suspicion; turn a deaf ear
 scandal, and breathe the spirit ol charity from  
 our hearts,  
 . .  
-There is nothin
+There is nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848110301:0676/pct:48.464373,73.848606,13.738739,16.956175/!600,600/0/default.jpg"/>
 </td>
@@ -2808,8 +2644,6 @@ There is nothin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Noble Sentiments.,  
 This is an agreeable world after all. If we  
 would only bring ourselves to look at the sub­  
@@ -2837,7 +2671,8 @@ istence. Let us tear from our eyes the colored
 medium that invests every object with the green  
 hue of jealousy and suspicion ; turn a deaf ear  
 to scandal, and breathe the spirit of charity from  
-our hearts.
+our hearts.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:00542868466:1848111701:0396/pct:58.503894,30.016584,12.642637,12.852405/!600,600/0/default.jpg"/>
 </td>
@@ -2851,22 +2686,6 @@ our hearts.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-able, and with­  
-out which the ninri ingn state must ever be  
-one of apprehension, distress and suffering.  
-But wo do not intend by these rcinaiks,  
-to give a preference of one state of life  
-over another. There aro pleasures nnd  
-joys in every state, when the heart is pure  
-and the mind correctly balanced. Wc  
-must expect, however, when we violate the  
-laws of nature, and assume in infuncy the  
-duties and responsibilities of wives and  
-mothers, that our clays will be few and  
-full of sorrow. There may be exceptions,  
-it is true, but the reasons for such arc pe­  
-culiar. Fanny Linton.  
-&quot;n 6 b lcs e n&#x27;tTmentT  
 This is an agreeable; world after all. If  
 we would only bring ourselves to look at  
 the subjects that surround ns in their true  
@@ -2897,9 +2716,9 @@ every object with the green hue of jealousy
 and suspicion; turn a deaf ear to scandal,  
 and breathe the spirit of charity from our  
 hearts.  
-New use fob, Audent Spirits. 
+New use fob, Audent Spirits. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848112301:0036/pct:8.385827,51.935179,14.330709,34.345500/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848112301:0036/pct:8.444882,63.719320,14.251969,22.561359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2911,7 +2730,6 @@ New use fob, Audent Spirits.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Noble Sentiments. —This is an agree­  
 able world after all. If we would only  
 bring ourselves to look at the subjects that  
@@ -2941,7 +2759,8 @@ own existence. Let us tear from our eyes
 the colored medium that invests every ob­  
 ject with the green hue of jealousy and  
 suspicion; turn a deal ear to scandal, and  
-breathe the spirit of charity from our hearts.
+breathe the spirit of charity from our hearts.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn87090283:00199917353:1848120101:0617/pct:41.687042,67.274775,13.050122,16.677928/!600,600/0/default.jpg"/>
 </td>
@@ -2955,8 +2774,6 @@ breathe the spirit of charity from our hearts.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 NOBLE SENTIMENT.  
 This is an agreeable world after all. If we  
 would only look at the subjects that surround  
@@ -2989,7 +2806,8 @@ the spirit of charity from our hearts, let the
 rich gushings of human kindness swell up  
 as a fountain—so the “golden age” will be­  
 come no fiction, and islands of the blessed  
-bloom in more than Hyperian beauty.”
+bloom in more than Hyperian beauty.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1849021601:0073/pct:32.672722,57.390104,14.216901,17.105543/!600,600/0/default.jpg"/>
 </td>
@@ -3003,7 +2821,6 @@ bloom in more than Hyperian beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Noble Sentimest. This is an agroea.  
 Lie world after all. If we would only luok  
 at the subjects that surround us in thuir true  
@@ -3036,7 +2853,7 @@ our hearts; lot the rich gushings of human
 kindness swell up as a fountain, so the &#x27;go.  
 den age&#x27; -will become no fiction, and islands  
 of the blessed bloom in more than Hfpcjiau  
-leau ty
+leau ty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1849041201:0119/pct:5.165131,61.888385,12.807220,22.854463/!600,600/0/default.jpg"/>
 </td>
@@ -3050,8 +2867,6 @@ leau ty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Noble Sentiment.  
   
 This is an agreeable world after all. If  
@@ -3086,7 +2901,7 @@ from our hearts; let the rich gushing* of
 human kindness swell up as a fountain—so  
 the “golden age” will become no fiction, and  
 islands of the blessed bloom in more than  
-Hyperian beauty
+Hyperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1849051901:0015/pct:81.558683,30.906835,13.900690,18.395202/!600,600/0/default.jpg"/>
 </td>
@@ -3100,20 +2915,6 @@ Hyperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the laws of the community permit the  
-men to have as many wives as they can support,  
-and that some of the older ones have twenty,  
-but that the young men content themselves with  
-five.  
-Good IdeA. The bill for the preservation  
-f files of newspapers by the different county  
-clerks, which has been pending before the Leg­  
-islature of Vermont, has passed both branches  
-of that body, and will probably become a law.  
-Flowers are, in the language of a late cultiva­  
-tor, &quot;the playthings of childhood and the ornas,  
-mehts of a grave; they raise smiling looks to man  
-and grateful ones to God.&quot;  
 BEAETIFEL THOUCHT.This is an agreeable  
 world after all. If we would only bring ourselves  
 to look at the objects that surround us in their  
@@ -3147,9 +2948,9 @@ tory of the &quot;golden age&quot; will hecome no fiction,
 and the &quot;island of the blessed&quot; bloom in more  
 than Hesperian beauty.  
   
-co
+cot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849120101:0982/pct:9.133127,6.293895,28.424923,87.155592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849120101:0982/pct:9.326625,6.293895,28.231424,87.155592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3161,20 +2962,6 @@ co
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- observed that he did  
-not know what he was passing,for he could see noth­  
-ing above the ground. Young Fennell could not  
-resist the temptation of plaguing Walker about the  
-pumpkins; so whenever they approached a stately  
-building, or tower spire, he would invariably ex­  
-claim : “Look, W’alker,there are 9ome pumpkins!”  
-It is almost needless to say, it became a favorite if  
-not a common saying, as it is to this day.  
-The President’s Message was published en­  
-tire in the Pittsburg, Cincinnati, Louisville and St.  
-Louis papers on Tuesday morning, having been re­  
-ceived by telegraph.  
-  
 Beautiful Thought.—This is an agreeable  
 world after all. If we would only bring ourselves  
 to look at tin. objects that surround us in their true  
@@ -3205,26 +2992,9 @@ rich gushings if human kindness swell up as from
 a fountain, so the &quot;golden age” will become no fic­  
 tion, and the “island of the blessed” bluom in more  
 than Hesperian beauly.  
-A Fema
+A Femat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850010901:0007/pct:35.704473,12.674714,29.491681,80.940280/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Plough, the Loom and the Anvil (1848-1857)_](https://archive.org/details/sim_american-farmers-magazine_1850-11_3_5/page/n19/mode/1up?view=theater)
-
-#### 1850-11-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- Flow-  
-ers are, in the language of a late cultivator, ‘ the playthings of childhood and  
-the ornaments of the grave; they raise smiling looks to man and grateful  
-ones to God.’
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-farmers-magazine_1850-11_3_5%2Fsim_american-farmers-magazine_1850-11_3_5_jp2.zip%2Fsim_american-farmers-magazine_1850-11_3_5_jp2%2Fsim_american-farmers-magazine_1850-11_3_5_0019.jp2/pct:26.745718,19.858003,64.558630,4.969880/600,/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850010901:0007/pct:50.908258,12.674714,14.287895,16.031343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3236,7 +3006,7 @@ ones to God.’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e slave law shall be faithfully executed.  
+slave law shall be faithfully executed.  
 He is to leave his seat soon, and is desirous  
 of securing the passage of the resolutions  
 e stte tete aa ie  
@@ -3279,7 +3049,7 @@ gushings of human kindness swell up as
 fountain, so that the &quot;golden age&quot; will be­  
 come no fiction, and islands of the blessed  
 bloom in more than &quot;Hypernian beauty.&quot;  
-The
+The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851122601:0388/pct:4.449457,47.710808,14.373590,28.180238/!600,600/0/default.jpg"/>
 </td>
@@ -3293,11 +3063,6 @@ The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-out $7: The number used in France last year was  
-100,500, in value (shell) $44,800. Theaverage value  
-  
-of large cameos made in Paris, is about one dollar}  
-  
 twelve anda half cents each. The whole value of  
 eameos made in Paris last year, was about $200,000.  
 In England not more than six persons are engaged in  
@@ -3333,9 +3098,9 @@ kindness swell up as a fountain, so that the “golden
 age” will become no fiction, and islands of the bles-  
 sed bloom in more than “ Hyperion beauty.”  
   
-—
+— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_district-school-journal-of-education-state-of-new-york_1852-04_12_12%2Fsim_district-school-journal-of-education-state-of-new-york_1852-04_12_12_jp2.zip%2Fsim_district-school-journal-of-education-state-of-new-york_1852-04_12_12_jp2%2Fsim_district-school-journal-of-education-state-of-new-york_1852-04_12_12_0015.jp2/pct:25.808851,36.787072,37.374489,37.856464/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_district-school-journal-of-education-state-of-new-york_1852-04_12_12%2Fsim_district-school-journal-of-education-state-of-new-york_1852-04_12_12_jp2.zip%2Fsim_district-school-journal-of-education-state-of-new-york_1852-04_12_12_jp2%2Fsim_district-school-journal-of-education-state-of-new-york_1852-04_12_12_0015.jp2/pct:25.808851,39.876426,36.705095,34.767110/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3347,7 +3112,6 @@ sed bloom in more than “ Hyperion beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 This in mi agroouble world ufter all. If  
 wo would only bring our-sulvcii to loot at  
 the BiibjecU around us in their tnic lif-&#x27;ht,  
@@ -3385,7 +3149,7 @@ lillL&#x27;S of
 human kimliie-s swell un its the fountain, so  
 that the gulden age will become no fiction,  
 and Mauds of the blessed bloom iu more  
-tlmu Jlypcriau beauty
+tlmu Jlypcriau beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CHNCWw1_ver01%2Fdata%2F1852051201%2F0067.jp2/pct:15.350224,5.909408,13.021610,18.243902/!600,600/0/default.jpg"/>
 </td>
@@ -3399,7 +3163,7 @@ tlmu Jlypcriau beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. IV OB LIS SCriTirdCNT.  
+IV OB LIS SCriTirdCNT.  
 This is an agreeable world after all. If we  
 would only bring ourselves lo look at the sub  
 jecls around us in tbeirtrue light,we shouldsee  
@@ -3431,7 +3195,7 @@ kindness swell up as a fountain, so that* the
 golden age will become no fictioq, and islands  
 of tho blessed bloom in more than Hyperian  
 baauty.  
-Tho
+Tho 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1852052501:0203/pct:39.948052,77.596602,13.818182,15.935873/!600,600/0/default.jpg"/>
 </td>
@@ -3445,7 +3209,7 @@ Tho
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- they have mind to.  
+they have mind to.  
   
 Noble Sentiment*  
   
@@ -3478,6 +3242,7 @@ from our hearts; let. the rich guehings of human
 kindness swell up as o fountain, so that (ho gold­  
 en ago will become no&#x27; 1 fiction, and Islands of (he  
 blessed bloom In more than Hyperion beauty.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001732%2F1852060301%2F0091.jp2/pct:22.023810,58.153137,13.619755,14.861751/!600,600/0/default.jpg"/>
@@ -3492,8 +3257,6 @@ blessed bloom In more than Hyperion beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Noble Sentiuskt. — This is an agree-  
 able world after all. If we would only  
 bring ourselves to look at the subjects  
@@ -3532,7 +3295,7 @@ tain, so that the golden age will become
 no fiction and islands of the blessed  
 bloom ill more than Hyperian beauty .  
   
-03“
+03“ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7xwd3pzm8r%2Fxt7xwd3pzm8r_jp2.zip%2Fxt7xwd3pzm8r_jp2%2Fxt7xwd3pzm8r_0000.jp2/pct:64.515142,48.158675,12.756195,21.230845/,600/0/default.jpg"/>
 </td>
@@ -3546,7 +3309,7 @@ bloom ill more than Hyperian beauty .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ate brother i is not proper that tiend  
+ate brother i is not proper that tiend  
 to transact the same. The entrance to the should decive fiend it is ot ih tha  
 printing room was a narrow lane, leadingegor so decee eigbor. We  
 from the main street to the front of a wood pity that man who can harbor enmity a­  
@@ -3562,7 +3325,7 @@ face, though a stranger to them all--a very fountain, so that the &quot;golden a
 remarkable instance of good manners,- come no fiction, and islands of the blessed  
 They worked too with a commendable zeal cloom in more than &quot;Hyperian beauty.&quot;  
   
-a
+an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1852070101:0316/pct:40.898258,21.835982,25.206233,8.498865/!600,600/0/default.jpg"/>
 </td>
@@ -3576,7 +3339,6 @@ a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 This is an agreeable world after all. If  
 we would only look at the subjects that sur  
 round us in their true light, we should see  
@@ -3592,7 +3354,7 @@ the bosom of our common mother. It is
 not becoming, then, that brother should  
 Good Advice.  
 There is much good sense in the follow­  
-ing, which although old, deserves to b
+ing, which although old, deserves to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1852070101:0316/pct:53.712191,15.550511,12.520623,16.685585/!600,600/0/default.jpg"/>
 </td>
@@ -3606,7 +3368,7 @@ ing, which although old, deserves to b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-It resists the action of the most  
+t resists the action of the most  
 powerful chemical agents, being totally insoluble in  
   
 Noste Sentiments.—This is an agreeable world | acids or alkalies, and is entirely insensible to the ac-  
@@ -3632,7 +3394,7 @@ upon the bosom of our common mother. It is not be-
 coming, then, that brother should hate brother; it is  
 not proper that friend should deceive friend ; it is not  
 right that neighbor should deceive neighbor. We  
-pity the man who can harbor enmity against his fe
+pity the man who can harbor enmity against his fel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_pennsylvania-school-journal_1852-07_1_7%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2.zip%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2%2Fsim_pennsylvania-school-journal_1852-07_1_7_0029.jp2/pct:12.677107,55.712937,79.642058,23.677998/600,/0/default.jpg"/>
 </td>
@@ -3646,7 +3408,7 @@ pity the man who can harbor enmity against his fe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The  
+The  
   
 Let us tear from our eyes the colored mediums that | milky juice or sap exudes at these incisions, and is  
 invest every object with the green hue of jealousy | collected in cocoa-nut shells, placed under the body  
@@ -3655,7 +3417,7 @@ and suspicion, and turn a deaf ear to scandal ; breathe |
   
 of the fallen tree. From these the sap is gathered  
   
-the spirit of charity from our hearts, let the rich gus
+the spirit of charity from our hearts, let the rich gush
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_pennsylvania-school-journal_1852-07_1_7%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2.zip%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2%2Fsim_pennsylvania-school-journal_1852-07_1_7_0029.jp2/pct:13.012677,80.476865,79.418345,5.665722/600,/0/default.jpg"/>
 </td>
@@ -3669,7 +3431,7 @@ the spirit of charity from our hearts, let the rich gus
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, that this method of  
+that this method of  
 collecting the gum, if persevered in for a few more  
 years, will destroy the source from which this valua-  
   
@@ -3678,6 +3440,7 @@ that the golden age will become no fiction, and |
 islands of the blessed bloom in more than Hesperian |  
   
 beauty.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_pennsylvania-school-journal_1852-07_1_7%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2.zip%2Fsim_pennsylvania-school-journal_1852-07_1_7_jp2%2Fsim_pennsylvania-school-journal_1852-07_1_7_0029.jp2/pct:12.975391,85.717658,79.716629,4.981114/600,/0/default.jpg"/>
@@ -3692,7 +3455,7 @@ beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the instints and the  
+the instints and the  
 passive faculties; the soul over the body;  
 man over nature.—Guyot&#x27;s Earth and  
 Man.  
@@ -3735,7 +3498,7 @@ rich Bushings of human kindness swell up
 as the fountain, so that the golden ago  
 will become no fiction, and islands of the  
 blessed bloom in more than Hesperian  
-beauty
+beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002318%2F1852081201%2F0123.jp2/pct:65.563527,42.024816,14.873100,28.741833/!600,600/0/default.jpg"/>
 </td>
@@ -3749,7 +3512,6 @@ beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 hearts. }  
   
 This is an agree-  
@@ -3796,7 +3558,7 @@ become no. fictiow, and islands of the
 blessed bloom in more than “ Hyperian  
 beauty.”  
   
-Apmonis
+Apmonisn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1852-08-13_1_52%2Fper_the-pacific_the-pacific_1852-08-13_1_52_jp2.zip%2Fper_the-pacific_the-pacific_1852-08-13_1_52_jp2%2Fper_the-pacific_the-pacific_1852-08-13_1_52_0000.jp2/pct:74.040879,45.265895,21.065188,21.806965/,600/0/default.jpg"/>
 </td>
@@ -3820,7 +3582,7 @@ Apmonis
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, vet alit Itarelling the saute road, and  
+vet alit Itarelling the saute road, and  
 shall ill I 0 at the saute goal NVe Ittenlho  
 the q ono air, are ~t119‘,1 to the snore au­  
 ty, and shall lie rimer, upon the Intstort of  
@@ -3842,7 +3604,8 @@ limn your hearts let the rwh gushings cff
 11111111111 I 1111.111VSS swell up as a fountain, so  
 that the golden age&#x27;&#x27; will become no fic­  
 tion, and the islands of the blessed bloom in  
-more titan &#x27;• Ilyp;rion beauty &quot;
+more titan &#x27;• Ilyp;rion beauty &quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001917%2F1859051201%2F0074.jp2/pct:42.806786,51.446074,12.414629,10.060010/!600,600/0/default.jpg"/>
 </td>
@@ -3856,7 +3619,7 @@ more titan &#x27;• Ilyp;rion beauty &quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-reaks of  
+eaks of  
 violence ?&quot;  
 Noiii.k Sknti mkmk. ?Tli i* is an agreeable world  
 after all. If we would only bring ourselves to  
@@ -3890,7 +3653,7 @@ gushing of human kindness swell up ns A foun
 tnin, so that the &quot; golden age &quot; will become no  
 fiction, and the island* of the ble**ed bloom in  
 more than &quot; Hyperion beauty.&quot;  
-Cituncn Going.?Att
+Cituncn Going.?Atte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1859051901:0791/pct:65.208845,35.545987,16.953317,21.887334/!600,600/0/default.jpg"/>
 </td>
@@ -3904,7 +3667,7 @@ Cituncn Going.?Att
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. This ls anagrer  
+This ls anagrer  
 able world after all. If we would only bring  
 ourselves to louk at the subjects that sur  
 round us in their true light, we should see  
@@ -3944,7 +3707,7 @@ become no fiction, and the islands of the
   
 blessed bloom in more than &quot;Hyperion  
 beauty.&quot;  
-r Irtacons or CutwaTh
+r Irtacons or CutwaThe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1859052101:0860/pct:17.598746,10.418485,16.793646,24.348585/!600,600/0/default.jpg"/>
 </td>
@@ -3958,7 +3721,7 @@ r Irtacons or CutwaTh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- peace of tho world. (Cheers.)  
+peace of tho world. (Cheers.)  
 Noni.E Sentiments. This is an agrcea­  
 lle world after all. If wo would only  
 bring ourselves to look at the subjects that  
@@ -3994,7 +3757,7 @@ hearts ; let tho rich gushings of human
 kindness swell up ns a fountain, so tlit&#x27;t  
 the, &#x27;golden age&quot; will booomo no fiction,  
 and the islands of the blessed, bloom in  
-more than &quot;Hyperion beauty.
+more than &quot;Hyperion beauty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1859060801:0333/pct:32.832571,71.410091,15.088178,20.497341/!600,600/0/default.jpg"/>
 </td>
@@ -4008,7 +3771,6 @@ more than &quot;Hyperion beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i  
 NobU Saatlnaau.  
 This is an agreeable world after all.  
 If we would only bring ourselres to look  
@@ -4045,7 +3807,7 @@ hearts ; let the rich tushinc of human
 kindness swell up as a fountain jbo that  
 the &quot; golden age&quot; will become no fiction,  
 and the islands of the- blessed bloom in-  
-more than Hyperion beauty.&quot;
+more than Hyperion beauty.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn85034467:00415662014:1859080401:0316/pct:78.963666,61.854685,15.255987,22.220705/!600,600/0/default.jpg"/>
 </td>
@@ -4059,7 +3821,6 @@ more than Hyperion beauty.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_  
 NOBLE’ SENTIMENTS.  
   
 This is an agreeable world, after all. If we  
@@ -4091,7 +3852,8 @@ to scandal; breathe a spirit of charity from our
 hearts ; let the rich gushings of human kindness  
 sweil up as a fountain, so that the “ golden age ”  
 will become no fiction, and the islands of the  
-blessed bloom in more than “ Hyperion beauty.”
+blessed bloom in more than “ Hyperion beauty.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1859-11-12_14_46%2Fsim_flag-of-our-union_1859-11-12_14_46_jp2.zip%2Fsim_flag-of-our-union_1859-11-12_14_46_jp2%2Fsim_flag-of-our-union_1859-11-12_14_46_0002.jp2/pct:27.172196,56.454146,12.460506,14.038945/,600/0/default.jpg"/>
 </td>
@@ -4105,8 +3867,6 @@ blessed bloom in more than “ Hyperion beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Nonr.E Sentiments. — This is an  
 agreeable world, after all. If we would  
 only bring ourselves to look at the sub­  
@@ -4143,7 +3903,7 @@ rich gushings of human kindness swell
 up as a fountain, so that “the golden age”  
 will become no fiction, and the islands of  
 the blessed bloom in more lhanHyperian  
-beaut
+beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859112301:0395/pct:82.698706,16.728268,12.994455,20.780287/!600,600/0/default.jpg"/>
 </td>
@@ -4157,20 +3917,6 @@ beaut
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-derive from  
-smoking, with provoking nouohalance, as if it  
-were noDe of my business. Alter smoking he  
-concluded to dress himself. Upon looking around  
-awhile, he found his inexpressibles, which he  
-brought to me to arrange in their proper place.  
-After that he gathered up his shoes and stock­  
-ings, which he put on himself, I having nothing  
-to do in the latter process but to tie the shoe­  
-strings. It was not long after this that I was  
-on the road again, and what I saw, heard and  
-thought, or at least so much as I with you to  
-know, must be reserved for another letter.  
-’ L’ ANGUILLE.  
 Noble Sentiments.—This is an agreeable  
 world, after all. If we would only bring our -  
 selves to look at the subjects which surround us  
@@ -4201,9 +3947,9 @@ it ot charity from your hearts; let the rich gush­
 ings of human kindness swell up as a fountain,  
 so “that the golden age” will become no fiction,  
 and the islands of the blessed bloom in more  
-than Hyperiau beauty
+than Hyperiau beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1859120601:0373/pct:70.440760,49.195748,12.845397,20.618945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1859120601:0373/pct:70.521634,55.799078,12.764524,14.015615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4215,7 +3961,6 @@ than Hyperiau beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Nonle SExTINEerS. This is an agreeable  
 world after all. If we would only bring oure  
 to look at the subjects that surround us  
@@ -4249,7 +3994,8 @@ charity from your hearts; let the rich gushings
 of human kindness swell up as a fountain, so  
 that the &quot;golden age&quot; will become no fiction,  
 and the islands of the blessed bloom in more  
-than &quot;Hyperion beauty.&quot;
+than &quot;Hyperion beauty.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654152:1860062801:0211/pct:1.210139,70.011320,17.792314,14.626455/!600,600/0/default.jpg"/>
 </td>
@@ -4263,7 +4009,7 @@ than &quot;Hyperion beauty.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- SEOTDCinjTS.  
+SEOTDCinjTS.  
 This is an agreeable world after all. If we  
 would only bring ourselves to look at the sub­  
 ject that surround us in their true light, we  
@@ -4293,7 +4039,7 @@ breath a&#x27; spirit of charity from our hearts, let
 the rich gushing of haman kindness swell np  
 8 a fdnalipinap that the &quot;golden age&quot; will be­  
 etome &#x27;no Action , and the islands of the blessed  
-boobs h mora toao -xiyperu
+boobs h mora toao -xiyperum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1860070601:0465/pct:5.659241,79.856825,10.626129,14.749445/!600,600/0/default.jpg"/>
 </td>
@@ -4307,7 +4053,7 @@ boobs h mora toao -xiyperu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. This is nn ngrceablo  
+This is nn ngrceablo  
 world lifter nil. If wo would only brirg  
 ourselves to look nt the subjects that sur­  
 round us in their truo light, we should seo  
@@ -4341,7 +4087,7 @@ rich gushing of human kindnoss swell ux
 as a fountain, so that the &quot;golden nge&quot;  
 will become no fiction, nnd tho Islands of  
 the blessed bloom in more than &quot;Ilyperw  
-on beauty.
+on beauty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1860071801:0358/pct:78.709810,17.967661,14.921682,18.427655/!600,600/0/default.jpg"/>
 </td>
@@ -4355,7 +4101,7 @@ on beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. This is nn agreeable)  
+This is nn agreeable)  
 world nftcr nil. If wo would only brir g  
 oursolves to look nt the subjects that sur,  
 round us in their truelight, we should see  
@@ -4389,7 +4135,7 @@ rich gushing of human kindnos swell up,
 as a fountain, so that the &quot;golden ago&quot;  
 will become no fiction, and the Islands of­  
 the blessed bloom in more than &quot;Hypcri-  
-on beauty.&quot;
+on beauty.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1860071802:0197/pct:79.145299,17.782577,15.448718,18.473722/!600,600/0/default.jpg"/>
 </td>
@@ -4403,8 +4149,6 @@ on beauty.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Noble Sentiments-  
 This is an agreeable world, after all.  
 If i  
@@ -4443,7 +4187,7 @@ hearts; lot the rich gushing of human kind­
 ness swell up as a iou.ntu.in, so that &#x27; the gold­  
 en age &#x27; will become no fiction, and the is­  
 lands of the blessed bloom in moro than Ily­  
-pernian beauty
+pernian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860080901:0169/pct:28.562448,15.403353,15.968148,22.668004/!600,600/0/default.jpg"/>
 </td>
@@ -4457,23 +4201,6 @@ pernian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s  
-their reason, and, like Honeywood in the  
-play, they satisfy and encourage the ap?  
-parently charitable demands of those who  
-have penetration enough to ascertain&#x27;the  
-weak points of their &quot; good natured  
-friend,&quot; and brass enough to invent and  
-Cany out their schemes of attack.  
-Good humor, when not weakened by a  
-universal and indiscriminate charity, is  
-the most exquisite beauty of a fine face,  
-and a redeeming grace in a homely one.  
-It is like the green in the landscape, har?  
-monizing with every color, mellowing the  
-glories of the bright, and softening the__  
-hue of tho dark,  
--*&gt;­  
 Noele Sentiments.?This is an agree?  
 able world, after all. If we would only  
 bring ourselves to look at the objects that  
@@ -4508,9 +4235,9 @@ the spirit of charity from our hearts; let
 the rich gush of human kindness swell up  
 a. fountain, so that the &quot;golden age&quot; will  
 become no fiction, and blessings bloom in  
-more than
+more than 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860091101:0017/pct:81.686236,39.542190,16.682975,36.579892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860091101:0017/pct:81.718852,50.875224,16.373125,25.246858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4522,13 +4249,12 @@ more than
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Nonle SlNtiMents.- This is an  
 agreeable world after all. If we would  
 only bring ourselves to look at the sub­  
 jects that surround us in their true light  
 ve should see beauty where we behold  
-7 O
+7 Of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1861041601:0623/pct:83.414892,77.787743,11.122867,3.602392/!600,600/0/default.jpg"/>
 </td>
@@ -4542,13 +4268,13 @@ ve should see beauty where we behold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- would turn a deaf oar to the  
+would turn a deaf oar to the  
 (ale of scandal, breathe the spirit of charity ।  
 from our lips ; and from our heart let the &gt;  
 rich gushing* of human kindness swell up  
 as a fountain, the “ golden age&quot; would be  
 ■ come a fiction, and the island of the blessed  
-bloom in more than Hesperian beauty
+bloom in more than Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:0051717452A:1862052201:0665/pct:29.769959,67.127675,13.357819,3.435726/!600,600/0/default.jpg"/>
 </td>
@@ -4562,7 +4288,7 @@ bloom in more than Hesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-in the world.  
+n the world.  
 Noni.B Sentiments. This m an agree­  
 able world after all. If wo w ould only  
 bring ourselves to look at the subjects  
@@ -4601,7 +4327,7 @@ our hearts : let the rich gushing of hu­
 man kindness swell up as a fountain, so  
 that tho &quot;golden age&quot; will become no  
 fiction, and the islands of tho blessed  
-bloom in more than &quot;Hyperian beauty
+bloom in more than &quot;Hyperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1863042801:0896/pct:31.585014,49.740418,12.723343,22.909533/!600,600/0/default.jpg"/>
 </td>
@@ -4615,7 +4341,7 @@ bloom in more than &quot;Hyperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- North  
+North  
 American.  
   
 Noble Sentitaents  
@@ -4651,7 +4377,7 @@ im that invests every objee(ll4li the green
 has &#x27;of jealoaSy and suspiet4;ini . turn 464  
 ear to scandal ; . a spirit ehaiity  
 front he:irts.  
-the gushing , ot 
+the gushing , ot i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002420%2F1863050801%2F0069.jp2/pct:48.548103,68.798016,14.709621,18.839922/!600,600/0/default.jpg"/>
 </td>
@@ -4665,7 +4391,7 @@ the gushing , ot
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. -This . is- an agreeable  
+-This . is- an agreeable  
   
 orld after all. -If we would only brin Ourselves  
 o look at the subjecUthars&#x27;uund us&quot; in their  
@@ -4702,7 +4428,7 @@ ui in in w a a t j
   
 ucceive friends : it isnntriorKt. y,ot  
   
-k?ljUnei
+k?ljUneig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCDailyT8n_ver01%2Fdata%2F1866033001%2F0601.jp2/pct:1.941592,74.364700,17.169448,13.588517/!600,600/0/default.jpg"/>
 </td>
@@ -4716,23 +4442,7 @@ k?ljUnei
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Gazette was issued, of which James  
-Franklin was the printer. In 1721,  
-Franklin established the New Eng.  
-land Courant, and being soon after  
-imprisoned, was succeeded by his  
-brother Benjamin. In 1727, James  
-Franklin established a paper at New­  
-Sort. In 1731, the Boston Weekly  
-Rehearsal-afterward called the Bos?  
-ton Evening Post-was started by  
-Thomas Fleet. New York, it seems,  
-was twenty-one years behind Boston  
-in newspapers, the first paper having  
-been established in 1715, by William  
-Bradford, under the title of tho New  
-York Gazette. The size was about  
-half-a-sheet of foolscap.  
+.  
 NOBLE SENTIMENTS.-This is an  
 agreeable world after all. If we j  
 would only bring ourselves to look at  
@@ -4767,9 +4477,10 @@ colored medium that invests every
 object with the green hue of jealousy  
 and suspicion; turn a deaf ear to  
 scandal, and breathe the spirit of  
-charity from our hearts.
+charity from our hearts.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551657:1866040801:0008/pct:33.932921,16.320181,16.320030,33.531325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551657:1866040801:0008/pct:33.932921,26.332909,16.188870,23.518597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4781,29 +4492,6 @@ charity from our hearts.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in his  
-i life time, the product of his professional and  
-political speculations. He died leaving his  
-! property to his children, and his debts to his  
-| friends. The former sold for less than $20,000,  
-} the latter exceeded $250.0001  
-Henry Clay left a very handsome estate. It  
-| probably exceeded $100,000. He was a pru­  
-i dent manager and a scrupulously honest man.  
-James K. Folk left about $150,000, $50,000  
-Jof which he saved from his presidency of four  
-j years.  
-| John Tyler left $50,000. Before he reached  
-j the presidency he was a bankrupt. In office he  
-! husbanded his means, and then married a rich  
-: wife.  
-Zachary Taylor left $150,000.  
-Millard Fillmore is a wealthy man, and keeps  
-i his money in a strong box. It Avill not be  
-i squandered in speculation nor in vice.  
-| _ Ex-President Pierce saved some $50,000 from  
-; his term of service.  
-  
 Noble Sentiments.—This is an agreeable  
 world after all. If we would only bring ourselves  
 to look at the subjects that surround us in their  
@@ -4830,9 +4518,10 @@ his own existence. Let us tear from our eyes
 the colored medium that invests every object  
 with the green hue of jealousy ancl suspicion ;  
 turn a deaf scandal, and breathe the spirit  
-of charity from our hearts.
+of charity from our hearts.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866041701:0075/pct:35.385077,17.051682,14.652455,24.347265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866041701:0075/pct:35.700345,28.097131,14.337187,13.301816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4844,7 +4533,6 @@ of charity from our hearts.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 Noble Sentiments.?This rs an agree?  
 able world after aft. ff we would only  
 bring ourselvos to look at the subjects  
@@ -4876,59 +4564,10 @@ colored medium rUftt invests every object
 with tbo green&#x27; hue of jealousy and suspi?  
 cion; turn a deaf ear to scatadal, and  
 breathe the spirit of charity from our  
-hearts.
+hearts.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1866041901:0297/pct:81.419793,39.103139,16.235446,22.836323/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Bolivar bulletin._](https://www.loc.gov/resource/sn85033306/1866-05-12/ed-1/?sp=4)
-
-#### 1866-05-12 &middot; [Bolivar, Hardeman County, Tenn.](http://dbpedia.org/resource/Bolivar%2C_Tennessee)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-in his lifetime, the product of his profes  
-tdonal speculation. lie died leaving his  
-property to hi children, and his debts to  
-ins friends. Iho lormer sold lor less tnau  
-$20,000 ; the latter exceeded $55,000.  
-John J vler lelt S.jO.UW. Jieloro lie was  
-President ho was bankrupt. In office he  
-husbanded his- means, and then married a  
-rich wife.  
-Zachary Tavlor left $100,000.  
-Millard Fillmoro is a wealthy man, and  
-keens las money in a etronir box. It will  
-not be squandered in speculation and vice.  
-Frank Pierce saved some $50,000 from his  
-term of service
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1866051201:0330/pct:5.339806,22.977522,12.513484,7.058313/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Hillsborough recorder._](https://www.loc.gov/resource/sn84026472/1866-05-30/ed-1/?sp=2)
-
-#### 1866-05-30 &middot; [Hillsborough, N.C.](http://dbpedia.org/resource/Hillsborough%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-means, and then married a  
-rich wife  
-Zachary Taylor left $150,000.  
-Millard Fillmore is a wealthy man and  
-keeps his money in a strong box. It will  
-not be squandered in speculation and vice.  
-Frank. Pierce saved some $50,000 fron  
-his term of service.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1866053001:1014/pct:76.182592,85.379692,21.050142,5.891766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4940,7 +4579,7 @@ his term of service.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ith a smile tew  
+th a smile tew  
 lair in the heart tew watvh agin for its  
 prey this is the kind of laff that 1 luv  
 and am t afraid ov.  
@@ -4982,7 +4621,8 @@ hearts let the rich gushings of human
 kindness swell np as troni a fountain, so  
 the &quot; golden age &#x27; will become no fiction,  
 and the &quot; island of the blessed &quot; bloom  
-with more than Hesperian beauty.
+with more than Hesperian beauty.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866120701:0941/pct:29.878559,57.800144,13.023451,21.020848/!600,600/0/default.jpg"/>
 </td>
@@ -4996,8 +4636,6 @@ with more than Hesperian beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 NonLe SENTINENts. This is an agreeable  
 world after all. If we would only bring our  
 Celves te  
@@ -5007,7 +4645,8 @@ look
 at the subects that sutronnd us  
   
 i their true light, we would see beauty whers  
-we nos hehold deformiity, and listen
+we nos hehold deformiity, and listen  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866120901:0542/pct:15.169692,44.117294,10.970797,2.175219/!600,600/0/default.jpg"/>
 </td>
@@ -5021,8 +4660,6 @@ we nos hehold deformiity, and listen
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 We pity that man who can harbor enmity  
 against his fellow; he loses half of the enjoys­  
 ment of life; embitters his own existence.  
@@ -5034,7 +4671,8 @@ our hearts; let the rich gushing of human
 kindesss swell up as a fountain, so that the  
 &quot;golden age&quot; may become no fiction, and  
 the islands of the blessed btoom in more than  
-Hyperian beauty.
+Hyperian beauty.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866120901:0542/pct:15.348592,52.261347,10.870823,4.847174/!600,600/0/default.jpg"/>
 </td>
@@ -5048,7 +4686,6 @@ Hyperian beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 mony where we hear nothing hut discoed  
 be sure there is a great deal of vexation and  
 anxiety to meet, we canpot sail on a summer  
@@ -5063,7 +4700,8 @@ breathe the same air, are subject to the same
 beauty, and shall lie down on the bosom of  
 our common mother. It is unbecoming then  
 that brother should hate brother; it is not  
-propes that friend should deceive friend
+propes that friend should deceive friend  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866120901:0542/pct:15.295975,46.252454,10.891871,6.048952/!600,600/0/default.jpg"/>
 </td>
@@ -5077,7 +4715,7 @@ propes that friend should deceive friend
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the morrow fill a shroud.  
+the morrow fill a shroud.  
 Noble Sentiment. —&quot;This is  
 agreeable world after all. If we would  
 only bring ourselves to look at the  
@@ -5118,7 +4756,7 @@ fountain, as the &#x27;golden age&#x27; will be
 come no fiction, and the &#x27;island of the  
 blessed&#x27; bloom more than Hesperian  
 beauty.&quot;  
-Cautious 
+Cautious M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:0029587398A:1866122201:0362/pct:61.097946,42.893199,13.941548,23.963868/!600,600/0/default.jpg"/>
 </td>
@@ -5132,7 +4770,7 @@ Cautious
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-st entire extinction  
+t entire extinction  
 of the freedman ?  
   
 NoiiiE Sentiments. This is an  
@@ -5179,7 +4817,7 @@ bloom more than Hesperian beauty.
   
 JACKSON.  
   
-
+m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83045232:00415661952:1866122501:0387/pct:15.333333,32.440448,14.305556,26.289104/!600,600/0/default.jpg"/>
 </td>
@@ -5193,22 +4831,7 @@ JACKSON.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e low scale of wa­  
-ges paid to workmen in other coun­  
-tries, and their own men will submit  
-to no reduction. No stronger illustra­  
-tion need be required of the constant  
-operation of that economic rule, the  
-existence of which trades’ unions  
-sometimes ignore, that the law of sup­  
-ply and demand regulates wages. A  
-few years ago, on the Mersey, ship­  
-wrights were paid the rate of a guinea  
-per day; but the law in question soon  
-worked a change. If these 27,000 men  
-would regard half a loaf as better than  
-noiie, the English employer might still  
-lie. able to keen his head above water.  
+able to keen his head above water.  
   
 Noble Sentiment.—“This is an  
 agreeable world after all.” If wc  
@@ -5250,9 +4873,10 @@ gushings of human kindness swell u[
 as from a fountain, so the ‘golden age  
 will become no fiction, and the ‘islanc  
 of the blessed’ bloom more than lies  
-perian beauty.”
+perian beauty.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1867010501:0167/pct:56.817758,33.440860,13.654169,35.618280/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1867010501:0167/pct:56.817758,42.728495,13.654169,26.330645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5264,7 +4888,7 @@ perian beauty.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-^ 4 r would only hiring  
+4 r would only hiring  
 ourselves to look ât tfîê objects that surround  
 us in their true light, we should see beauty  
 where before we beheld deformity, and listen  
@@ -5299,7 +4923,7 @@ swell up as from a fountain, so the &#x27;golden
 age&#x27; will become no fiction, and-the &#x27;island  
 of the blessed&#x27; bloom with more than Hes­  
 perian beauty.&quot;  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn82015407:00295869458:1867012601:0473/pct:23.111888,4.410399,17.465035,22.028784/!600,600/0/default.jpg"/>
 </td>
@@ -5313,7 +4937,6 @@ perian beauty.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 hat surround us in their  
   
 true light, we should see bean hea  a  
@@ -5360,7 +4983,7 @@ will become no fiction, and the &quot;island
 of the blessed&quot; bloom in more than  
 Hesperian beauty.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020901:0130/pct:14.563707,81.498958,19.598456,13.157028/!600,600/0/default.jpg"/>
 </td>
@@ -5374,7 +4997,7 @@ Hesperian beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- I  
+I  
 DroKen and burled for roe I  
 This is an agrccablo world, after nil.  
 If wo would only brine ourselves to  
@@ -5419,7 +5042,7 @@ hearts If tliOAricb gushings of human
 kindnosi woA up as from a fountain  
 so tholgoldon ago&quot; will becomo no  
 fiction, fcd tho &quot;island of tho blessed&quot;  
-bloom irlmore than Uosporian beaut
+bloom irlmore than Uosporian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1867022201:0328/pct:33.670034,57.625856,14.204545,25.201072/!600,600/0/default.jpg"/>
 </td>
@@ -5433,7 +5056,7 @@ bloom irlmore than Uosporian beaut
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the visible presence of  
+the visible presence of  
 our tod and of the Laml  
   
 NorlE SeNTIaENt. This is an  
@@ -5477,7 +5100,7 @@ gushings of human kindness swell
 up as from a fountain, so the  
 en age will become no fiction, and  
 the island of the blessed&#x27; bloom  
-I with more than Hesperian beaut
+I with more than Hesperian beauty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867022301:0629/pct:42.151899,66.281791,10.448312,21.333281/!600,600/0/default.jpg"/>
 </td>
@@ -5491,7 +5114,6 @@ I with more than Hesperian beaut
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Then why should we always be ready  
 To hear what another may say,  
 To canvass the faults of a brother,  
@@ -5535,7 +5157,8 @@ from a fountain, so the &#x27; golden
 will  
 become no fiction, and ihe &#x27; island of the  
 blessed&#x27; bloom with more than Hesperian  
-beauty7
+beauty7  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn84022660%2F00000002053%2F1867030201%2F0075.jp2/pct:30.328310,28.736769,12.526911,24.819468/!600,600/0/default.jpg"/>
 </td>
@@ -5549,7 +5172,6 @@ beauty7
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 NOBLE SENTIMENT.  
 &quot;This is an agreeable world after all. If  
 we would only bring ourselves to look at tne  
@@ -5588,7 +5210,7 @@ so the &quot;golden age&quot; will become no fiction,
 and the &quot;island of the blessed&quot; bloom in  
 j more than Hesperian beauty.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867030801:0115/pct:68.451275,62.308180,12.633001,18.135701/!600,600/0/default.jpg"/>
 </td>
@@ -5602,8 +5224,6 @@ j more than Hesperian beauty.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &#x27;This is an agreeable world after all, If  
 we would only bring ourselves to look at the  
 objects that surround us in their true light,  
@@ -5638,7 +5258,7 @@ our hearts let the rich gushings of human
 kindness swell up as from a fountain, so the  
 &#x27;golden age&#x27; will become no fiction, and the  
 &#x27;island of the blessed&#x27; bloom in more than  
-flesperian beauty
+flesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002426%2F1869042301%2F0061.jp2/pct:79.245754,61.020393,14.680320,20.400473/!600,600/0/default.jpg"/>
 </td>
@@ -5652,7 +5272,7 @@ flesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- this is an  
+this is an  
 agreeable world ofW all. If we  
 would only bring oorselves to look  
 at the objecis that surround us iii  
@@ -5695,7 +5315,7 @@ man kindness swell up as from a
 fountain, so the “golden age” will  
 become no fiction, and the ‘&#x27;island of  
 the blessed” bloom in more than  
-Hesperian beauty
+Hesperian beauty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343550:1878112301:0410/pct:71.437520,61.758032,10.616975,23.360803/!600,600/0/default.jpg"/>
 </td>
@@ -5709,9 +5329,7 @@ Hesperian beauty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-jftltmnumlj} Jnqutw.  
-FREEHOLD, THURSDAY, MAY 18.  
-Noble Sentiments.—This is an agree­  
+This is an agree­  
 able world after all. If we would only  
 tiling ourselves to look at the objects that  
 surround us in their true light, wo should  
@@ -5748,7 +5366,7 @@ the islands of the blessed bloom iu more
 than ‘Hesperian beauty.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1882051801:0299/pct:4.484305,6.541601,10.858424,17.614813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1882051801:0299/pct:4.484305,9.294677,10.858424,14.861737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

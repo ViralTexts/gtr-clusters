@@ -1,7 +1,7 @@
 
 # None (Sometimes "Maxims to Guide a Young Man")
 
-### 98 reprints from 1852-02-20 to 1881-12-08
+### 98 reprints from 1852-02-20 to 1881-09-18
 
 ## [None (Sometimes "Maxims to Guide a Young Man")](https://chroniclingamerica.loc.gov/lccn/sn88077413/1859-06-23/ed-1/seq-2/)
 
@@ -25,7 +25,7 @@ The following has been handed to us by a friend who has carried it in his purse 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- fear you may not withstand it. Never  
+fear you may not withstand it. Never  
 run in debt unless you see a way to get out of it. Never  
 borrow if you can possibly avoid it.  
 Do not marry until  
@@ -35,7 +35,7 @@ Be just before you are generous. Keep yourself
 innocent, if you would be happy. Save when you are  
 young to spend when you are old.”  
 TRADE THROUGH THE WELLAND CANAL.  
-FROM TH
+FROM THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:0021167815A:1852022001:0657/pct:32.920715,73.155397,14.963961,5.599051/!600,600/0/default.jpg"/>
 </td>
@@ -51,7 +51,7 @@ FROM TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- things else. Your character  
+things else. Your character  
 cannot be essentially injured except by  
 your own acts. If any one speaks ill of  
 you, let your life be so that none will  
@@ -71,7 +71,7 @@ ftnless you see a way to get out of it.
 Never borrow, if you can possibly avoid  
 it. Do not marry until you are able to  
 support a wife. Never speak evil of any  
-one
+one.
 </td></tr></table>
 
 ---
@@ -82,7 +82,7 @@ one
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- your own secrets, if you have any.  
+your own secrets, if you have any.  
 Drink no kind of intoxicating liquor.  
 Never play at any game of chance.  
 Never run in debt unless you see a way to  
@@ -93,7 +93,7 @@ port a wife.
 Never speak evil of any one.  
 Be just before you are generous.  
 Keep yourself innocent if you would be  
-happy
+happy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853012101:0102/pct:1.572633,41.289852,19.795720,11.096062/!600,600/0/default.jpg"/>
 </td>
@@ -107,8 +107,6 @@ happy
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 |your life be such as that none will believe him,  
 | Drink no kind of intoxicating liquors. Ever live,  
 ‘misfortune excepted, within your income. When  
@@ -130,7 +128,7 @@ Never think that what you do for religion is time,
 or money mis-spent. Always go to meeting when  
 you can. Read some portion of the Bible every  
 day. Often think of death and your accountabi-  
-lity to God
+lity to God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friend-a-religious-and-literary-journal_1857-07-18_30_45%2Fsim_friend-a-religious-and-literary-journal_1857-07-18_30_45_jp2.zip%2Fsim_friend-a-religious-and-literary-journal_1857-07-18_30_45_jp2%2Fsim_friend-a-religious-and-literary-journal_1857-07-18_30_45_0003.jp2/pct:66.442543,26.398264,28.881418,25.216972/,600/0/default.jpg"/>
 </td>
@@ -144,7 +142,7 @@ lity to God
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- or none.  
+or none.  
 Never be idle. If your hands cannot  
 be usefully employed, attend to the culd  
 vation of your mind.  
@@ -205,7 +203,7 @@ Often think of death and your account
 ability to God. Read over the above  
 maxims once a week, Saturday night.  
 Guzette and Courier.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1857090201:0357/pct:15.609462,32.686230,14.926423,34.586155/!600,600/0/default.jpg"/>
 </td>
@@ -219,7 +217,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-printed slip, apparently cut from a  
+rinted slip, apparently cut from a  
 newspaper, of which the following is a copy:  
 &quot;Keep good company, or none. Never be idle.  
 If your hands can&#x27;t be usefully employed, attend to  
@@ -249,7 +247,7 @@ Keep yourself innocent, if you would be happy.
 Save when you are young to spend when you are  
 old. Read over the above maxims at least once a  
 week.  
-Fro
+From
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470223:1857101601:0371/pct:6.033810,37.203768,11.703511,12.910263/!600,600/0/default.jpg"/>
 </td>
@@ -263,7 +261,7 @@ Fro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on. Stephen  
+n. Stephen  
 Allen, who was drowned from on board the  
 Henry Clay, was found a printed flip, ap­  
 parently cut from a newspaper, of which  
@@ -301,7 +299,7 @@ you would be happy. Save when you are
 young, to spend when you arc old. Head  
 over the above maxims at least once a week.  
   
-What a Lis
+What a List
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1857101701:0376/pct:29.009991,5.406488,13.042688,20.905086/!600,600/0/default.jpg"/>
 </td>
@@ -315,7 +313,7 @@ What a Lis
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ultivation of your  
+ltivation of your  
 mind. Always speak the truth. Make few  
 pvojmses. Live up to your engagements.  
 Kicpyour own seereets, if you have any.  
@@ -344,7 +342,7 @@ you are generous. Keep yourself innocent if
 would be happy. Save when you are young,  
 to spend whin you arc old. Head over the  
 above maxi ns ul least once a week.  
-.
+. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624487:1857103101:0274/pct:30.906990,39.263006,12.632390,14.566474/!600,600/0/default.jpg"/>
 </td>
@@ -368,11 +366,11 @@ above maxi ns ul least once a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ink no kind of intox­  
+nk no kind of intox­  
 icating liquors. Ever live (misfortune ex­  
 cepted) within your income. When yon re­  
 tire to bed think over what you have been doing  
-during the day. Make no histe to
+during the day. Make no histe to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857111201:0806/pct:56.284075,52.821232,12.725968,2.740317/!600,600/0/default.jpg"/>
 </td>
@@ -386,7 +384,7 @@ during the day. Make no histe to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- for Young Men.  
+for Young Men.  
   
 Nover be idle. If your hands cannot  
 usefully employed, attend to the culti-­  
@@ -453,7 +451,7 @@ when you are old.
 Never think that which you do for re-­  
 ion is time or money misspent.  
 Read some portions of the Bible eve-­  
-r
+ry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857112101:0818/pct:4.628696,8.434102,11.130712,26.745249/!600,600/0/default.jpg"/>
 </td>
@@ -467,7 +465,7 @@ r
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on. Stephen  
+n. Stephen  
 Allen, who was drowned from on board the  
 Henry Clay, was found a printed slip, ap­  
 parently cut from a newspaper, of which the  
@@ -499,7 +497,7 @@ game of chance. Avoid temptation; through
 fear you may not withstand it. Earn money  
 before you spend it. Never run into debt  
 unless you see a way to get out again.  
-Never borrow if you c
+Never borrow if you ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418439A:1857121201:0023/pct:42.627377,58.026828,12.092040,16.036348/!600,600/0/default.jpg"/>
 </td>
@@ -513,7 +511,7 @@ Never borrow if you c
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nt requests the interference of the Govern­  
+t requests the interference of the Govern­  
 ment, as it is evident that the intruders can be  
 ejected only by ferce.  
   
@@ -564,7 +562,7 @@ Hare when yon are young that yon may
 spend when you are old.  
 Head over the above maxims at least once a  
 week.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1857122301:0296/pct:21.237586,5.846529,30.423988,91.081337/!600,600/0/default.jpg"/>
 </td>
@@ -578,8 +576,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 MAXIMS FOR YOUNG MEN.  
   
 “Keep good company, or nove. Never be  
@@ -633,7 +629,8 @@ and mothers in the Truth, which we are now
   
 when youareold. Read over the above maxims | ully prepared to adopt and reiterate: “ That  
   
-at least once a week.”
+at least once a week.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-intelligencer_1857-12-26_14_41%2Fsim_friends-intelligencer_1857-12-26_14_41_jp2.zip%2Fsim_friends-intelligencer_1857-12-26_14_41_jp2%2Fsim_friends-intelligencer_1857-12-26_14_41_0006.jp2/pct:49.238782,56.997012,39.302885,32.395418/,600/0/default.jpg"/>
 </td>
@@ -647,7 +644,7 @@ at least once a week.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the clouds is the sun still shining •  
+the clouds is the sun still shining •  
 Thy fate is the com .non fate of ail,  
 Into each life some rain must fall.  
 Some days must be dark and drear}’.  
@@ -702,7 +699,7 @@ spend when you are old.
 Read over the above maxims at least once a  
 week.  
 Kind Words.—They never blister the tongue  
-or
+or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858010201:0005/pct:62.634752,25.360626,12.662160,26.198654/!600,600/0/default.jpg"/>
 </td>
@@ -716,7 +713,7 @@ or
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* SOUND ADVICE TO YOUNG MEN.  
+SOUND ADVICE TO YOUNG MEN.  
 Keep good company or none. Never be idle. If  
 your hands cannot be usefully employed, attend to  
 the cultivation of your mim{ Always speak the  
@@ -746,7 +743,7 @@ Save when you are young that you may spend when
 you are old. Read over the above maxims at least  
 once a week.  
   
-Qgricultu
+Qgricultur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:0054286851A:1858010201:0212/pct:17.403561,5.936837,12.715134,13.938177/!600,600/0/default.jpg"/>
 </td>
@@ -760,7 +757,7 @@ Qgricultu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ok  
+k  
 him in the face. Good company and good con­  
 versation are the very sinews of virtue. Good  
 character is above all things else. Your char­  
@@ -785,7 +782,7 @@ self innocent, if you would be happy. Save
 when you are young that you may spend when  
 you are old. Read over the above maxims at  
 i least once a week.  
-The
+The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858010601:0007/pct:56.858086,65.558523,12.792079,11.962427/!600,600/0/default.jpg"/>
 </td>
@@ -799,8 +796,6 @@ The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Sound Advice to Young Men.—Keep  
 good company, or none. Never bo idle.—  
 If your hands can’t be usefully employed,  
@@ -834,7 +829,7 @@ generous. Keep yourself innocent, if vou i
 wool fbe happy. *Sav- wh n you aro&#x27;young j  
 that you may spend when you on- old.— i  
 Head over the above maxims at least once |  
-Som
+Some
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1858011201:0330/pct:62.248547,76.314039,11.533304,16.034597/!600,600/0/default.jpg"/>
 </td>
@@ -848,7 +843,7 @@ Som
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d good conversation are  
+good conversation are  
 the vcr| sinews of virtue. Good Character 2s above  
 all things else. Your character cannot be essential­  
 ly injured, except by your owu acts. If any one  
@@ -869,7 +864,7 @@ evil , of any cue- Be just before , you are generous­
 Seep yourself ihnocent, if jpu would be bappy.?  
 Save w|&gt;en yon are young that you may spend when  
 yon arjj old. Read over the above maxims at least  
-once a&#x27;ftee
+once a&#x27;fteek
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1858011201:0370/pct:28.704342,67.539052,14.007581,11.975884/!600,600/0/default.jpg"/>
 </td>
@@ -883,7 +878,7 @@ once a&#x27;ftee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e face. Good com­  
+face. Good com­  
 pany and good conversation are the very sift­  
 ews ot virtue. Good character is above  
 things else. Your character cannot be essen­  
@@ -908,7 +903,8 @@ yourself innocent, if you would be happy.«~
 Save when you are young that you may spei  
 when you are old. Read over the above  
 ims at least once a week.  
-91,
+91,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1858011401:0016/pct:82.490770,60.351900,12.808861,14.248705/!600,600/0/default.jpg"/>
 </td>
@@ -922,8 +918,6 @@ ims at least once a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 YOUNG MEN.—  
   
 Keep good company, or none. Never  
@@ -946,7 +940,8 @@ kind of intoxicating liquors. Ever live
 come. When you retire to bed think  
 over what you have been doing during  
 the day. Make no haste to be rich if  
-you would prosper. Small and steady
+you would prosper. Small and steady  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1858011601:0098/pct:50.423546,23.929132,11.284996,12.267325/!600,600/0/default.jpg"/>
 </td>
@@ -970,7 +965,7 @@ you would prosper. Small and steady
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ver speak lightly of religion.  
+er speak lightly of religion.  
 Make no haste to be rich if you would  
 prosper.  
 Small and steady gains give compet­  
@@ -980,7 +975,8 @@ may not withstand it.
 Never borrow if you can possibly a­  
 void it.  
 Do not marry until you are able to  
-support a wife.
+support a wife.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858021801:0264/pct:77.147541,81.975309,11.803279,5.912209/!600,600/0/default.jpg"/>
 </td>
@@ -994,7 +990,7 @@ support a wife.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- person look him is  
+person look him is  
 the face.  
 Good character is above all things else.  
 Your character caisot be essentially in­  
@@ -1027,7 +1023,7 @@ spend when you are uld.
 Read over the above maxims at least once  
 a week.  
 or none. I  
-Itu
+Itur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1858022501:0264/pct:48.132579,50.883838,10.881164,18.939394/!600,600/0/default.jpg"/>
 </td>
@@ -1041,7 +1037,6 @@ Itu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Stei-jies Allek&#x27;s Pocket-fiece. In the  
 pocket-book of Hon. Stephen Allen, who  
 j was drowned from on board the Henry  
@@ -1084,7 +1079,7 @@ happy.
 Save when you are young that you may  
 spend wheu you are old.  
 Read over the above maxims at least once  
-a week.
+a week. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20210412Foo05_ver01%2Fdata%2Fsn83025131%2F14063001521%2F1858030901%2F0257.jp2/pct:79.716117,26.429194,12.408425,24.423963/!600,600/0/default.jpg"/>
 </td>
@@ -1108,7 +1103,7 @@ a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of  
+of  
 your mind.  
 Always speak the truth.  
 Make very few promises. Live up to your  
@@ -1149,7 +1144,7 @@ Be sure and read over the above maxima at
 least once a week.  
   
 About Snebzino.—St. Aubin tell* us that  
-the ancients wore
+the ancients wore 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026978:00279557475:1858040101:0208/pct:33.629594,25.020482,14.460725,25.659512/!600,600/0/default.jpg"/>
 </td>
@@ -1163,7 +1158,7 @@ the ancients wore
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- seerets, if you have any. When  
+seerets, if you have any. When  
 you speak to a person, look him in the face,  
 Good company and good conversation are the  
 very sinews of virtue. Good character is  
@@ -1188,7 +1183,8 @@ Never speak evil of any one. Be just before
 you are generous. Keep yourself innocent,  
 if you would be happy. Save when you are  
 young to spend when you are old. Read  
-ver the above maxims at least once a week.&quot;
+ver the above maxims at least once a week.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858040201:0480/pct:6.242730,82.174955,12.582396,12.642301/!600,600/0/default.jpg"/>
 </td>
@@ -1202,7 +1198,7 @@ ver the above maxims at least once a week.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Keep  
+Keep  
 good company. Never be idle. It your  
 bands cannot be usefully employed, attend  
 to the cultivation of your mind. Always  
@@ -1230,9 +1226,10 @@ j run in debt unless you can see a way to
 I possibly avoid it. Never speak evil of  
 any one. Be just before you are gener­  
 ous. Keep vourself innocent, it }■&lt; u  
-would be happy. Save, wh
+would be happy. Save, when you .two  
+young, to spend when yoll areold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1858051201:0177/pct:78.945188,40.859300,11.666437,15.484420/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1858051201:0177/pct:78.945188,40.859300,11.666437,16.048070/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1241,7 @@ would be happy. Save, wh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-emed  
+med  
 by all who knew him. In his pocket-book  
 was found a printed slip, apparently cut  
 from a nowspaper, of which the following  
@@ -1279,7 +1276,7 @@ e sen it.Never run intodebt unless you see a
  way to get out again. Never borrow if you  
 can possibly avoul it. Do not marry until  
 you are able to support a wife. Never spenk  
-evil of any one. Be just
+evil of any one. Be just 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1858052801:0756/pct:28.482897,12.978683,14.292685,18.490851/!600,600/0/default.jpg"/>
 </td>
@@ -1293,7 +1290,7 @@ evil of any one. Be just
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s I&#x27;ocket­  
+I&#x27;ocket­  
 lMece. Among the victims of tho tlf.nrtf jClay  
 disaster was Stephen Allen, Esq., an aged  
 man, formerly a mayor of New York, be­  
@@ -1333,7 +1330,7 @@ Never speak evil of any one. . Be just
 Keep yourself iunoccnt, if vou would be  
 happy.  
 Save when you are young to spend  
-when you are old
+when you are old.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen1n_ver01%2Fdata%2F1858060501%2F0472.jp2/pct:6.520062,30.988087,13.560957,23.644008/!600,600/0/default.jpg"/>
 </td>
@@ -1347,7 +1344,7 @@ when you are old
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-“ Keep good company. Never be idle.  
+Keep good company. Never be idle.  
 If your hands cannot be usefully em­  
 ployed, attend to the cultivation of your  
 mind. Always speak the truth. Make  
@@ -1377,7 +1374,7 @@ any one. Be just before you are gener­
 ous. Keep yourself innocent if you  
 would be happy.”  
 Wealth of the United States.—  
-The aggrega
+The aggregat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1858061901:0377/pct:70.026378,72.168042,12.480911,18.154539/!600,600/0/default.jpg"/>
 </td>
@@ -1391,7 +1388,7 @@ The aggrega
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ll believe him.  
+l believe him.  
 Drink no kind nf intoxicating liquors.  
 Ever live—misfortunes excepted — within  
 your income.  
@@ -1416,7 +1413,8 @@ lie just before you are generous.
 Keep yourself innocent if you would be  
 happy.  
 Save when you are j-onng to spend when  
-you are old.
+you are old.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858062201:0352/pct:36.574960,73.401178,11.313815,11.044456/!600,600/0/default.jpg"/>
 </td>
@@ -1430,8 +1428,6 @@ you are old.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Reep good company, Never be idle. If your  
 hands cannot be usefhlly einployed, attend to the  
 cultivation of your mind. Always speak the  
@@ -1457,7 +1453,7 @@ if youcan. possibly avoid it. Don&#x27;t marry until
 you-ain able to support a wife. Never speak evil  
 bf any one. Be just be fore generous. Keep youtl  
 shiF ihnbtant if -You would be happy. Save *hen  
-you are, young to spen
+you are, young to spend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001967%2F1858062301%2F0098.jp2/pct:44.711712,51.432624,11.959459,13.773050/!600,600/0/default.jpg"/>
 </td>
@@ -1471,7 +1467,7 @@ you are, young to spen
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, sir  
+sir  
   
 focKKT f ixck.? Among the victipas o  
 the Henry t31ay disaster was Stephen Al­  
@@ -1518,7 +1514,7 @@ Keep 3&#x27;ourself innocent, if you would
 be happy.  
 Save when you are young to spend  
 when you are old.  
-Xbw Met
+Xbw Meth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858071601:0525/pct:84.104557,12.232195,15.100671,84.626520/!600,600/0/default.jpg"/>
 </td>
@@ -1532,8 +1528,6 @@ Xbw Met
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Pocket-Piece.  
   
 Among the victims of the Henry Clay dis  
@@ -1568,7 +1562,7 @@ you have been doing through the day.
   
 Make no haste to be rich if you would  
 prosper.  
-Small and steady gains give competenc
+Small and steady gains give competency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025584:00212472505:1858072201:0054/pct:35.514156,70.532506,14.023764,16.802788/!600,600/0/default.jpg"/>
 </td>
@@ -1582,7 +1576,6 @@ Small and steady gains give competenc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Among the victims of the Henry Clay dis­  
 aster was Stephen Allen, Esq, an aged man,  
 formerly mayor of New York, beloved and  
@@ -1628,7 +1621,7 @@ it.
   
 Never speak evil of any one. Be just  
 before you are generous.  
-Keep yourself innocent, if you would
+Keep yourself innocent, if you would 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025584:00212472505:1858072202:0058/pct:33.108935,72.080830,14.381885,21.944293/!600,600/0/default.jpg"/>
 </td>
@@ -1642,8 +1635,6 @@ Keep yourself innocent, if you would
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 any game of chance. Avoid tempta  
   
 tion, through fear you might not with­  
@@ -1656,7 +1647,7 @@ yourself innocent, if you would be hap-
   
 iu that case, the vessel must be put  
   
-umphed in all the grea
+umphed in all the great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1858072901:0135/pct:61.933798,72.750381,33.362369,8.981529/!600,600/0/default.jpg"/>
 </td>
@@ -1670,7 +1661,6 @@ umphed in all the grea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Keep gocd company or none.  
 Never be idle. If your hands cannot bo  
 usefully employed, attend to the cultivation of  
@@ -1725,7 +1715,7 @@ to uod.
 Read over  
 the above maxims at least  
 once a week.  
-A man has a righ
+A man has a right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667309:1858073101:0070/pct:80.771396,64.130308,14.893018,29.994183/!600,600/0/default.jpg"/>
 </td>
@@ -1739,7 +1729,6 @@ A man has a righ
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Maxims for Young Men. Keep good  
 company. Never be idle. If your hands  
 cannot be usefully employed, attend to&quot; tho  
@@ -1754,9 +1743,22 @@ own acts. If any one speaks evil of you,
 let your life be so that no one will believe  
 him. Drink no intoxicating liquors. Evir  
 live (misfortunes excepted) within your iu&quot;  
-come. When you retire to bed, think
+come. When you retire to bed, think over  
+what you have been doing through the day.  
+Make no hasto to be rich it you would pros  
+per, omaii ana sieaay gains trive ereat  
+competency, with tranquility of mind. Never  
+play at any game of chance. Avoid temp­  
+tation, through fear you might not withstand  
+it. Never run iu debt unless you can see a  
+way to get out again. Never borrow if you  
+can possibly avoid it. Never speak evil ot  
+any one. Be just before you are generous.  
+Keep yoursell innocent, if you would be  
+happy. Save, when you are young, to spend  
+when you are old
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858080501:0937/pct:31.975487,47.920388,12.166547,7.693289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858080501:0937/pct:31.975487,47.920388,12.274694,14.391426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1768,7 +1770,7 @@ come. When you retire to bed, think
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nce of God. j i L ;-- &#x27; , i &#x27;  
+ce of God. j i L ;-- &#x27; , i &#x27;  
   
 Brink rib intoxicating liquor.  
   
@@ -1795,7 +1797,7 @@ I: Avoid tlie&#x27; te u ptatioh t.h rough fear
 that you- may hot. withstand it. : . &#x27;- .  
 Earn your money before you spend  
   
-o
+oi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshSpec1n_ver01%2Fdata%2F1858081901%2F0053.jp2/pct:68.615108,27.304599,12.872559,32.264384/!600,600/0/default.jpg"/>
 </td>
@@ -1809,8 +1811,6 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 what; you do for  
   
 uhpn vou -are old.  
@@ -1829,7 +1829,8 @@ co,untahility to God. &#x27;-
   
 Read over the above maxims at least  
   
-once awe&#x27;ek.
+once awe&#x27;ek.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshSpec1n_ver01%2Fdata%2F1858081901%2F0053.jp2/pct:68.627955,65.456795,12.191675,7.187049/!600,600/0/default.jpg"/>
 </td>
@@ -1843,13 +1844,13 @@ once awe&#x27;ek.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Never speak evil of any one. lie just;  
 before you are generous.  
 Ki ep you s. If innocent, if you would be  
 happy.  
 Save when you are young to spend  
-when you are old.
+when you are old.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767754:1858082101:0507/pct:64.355197,59.770664,15.619789,4.118490/!600,600/0/default.jpg"/>
 </td>
@@ -1863,7 +1864,6 @@ when you are old.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 roCKET PIECE;  
 Among tho victims of tlio Henry  
 Clay disaster, was Stephen Allen, Esq.  
@@ -1884,7 +1884,7 @@ Whon you speak to a man look him
 in the face.  
 Oood character cannot bo essentially  
 injured except by your own acts.  
-ft an
+ft any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092124:00279550250:1858090301:0663/pct:42.969662,68.324312,14.352392,14.479026/!600,600/0/default.jpg"/>
 </td>
@@ -1898,10 +1898,10 @@ ft an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it so.  
+it so.  
 E You had better be poisoned in your  
 blood than your principles.  
-E
+EA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858110201:0339/pct:5.948012,44.060847,12.064220,2.843915/!600,600/0/default.jpg"/>
 </td>
@@ -1915,7 +1915,7 @@ E
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--Among the victims  
+Among the victims  
 of a steamboat explosion somne years since, was  
 Stephen Allen, a man (of high and excellent  
 character. formerly Mayor of&#x27; New York, be­  
@@ -1953,7 +1953,7 @@ evil of any one. Be just before you are genier.
 ous. Keep yourself innocent, if you would be  
 happy. Save when you are young to spend  
 when you are old. Read over the above  
-maxims once a week
+maxims once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1859042701:0409/pct:39.189706,66.009390,11.249841,17.549296/!600,600/0/default.jpg"/>
 </td>
@@ -1967,7 +1967,7 @@ maxims once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. In the  
+In the  
 po:ket-book of tho lion. Stephen ,Allen, who  
 was drowned several years ago by ateamboat  
 disaster on the Hudson river, was found a printed  
@@ -1997,7 +1997,7 @@ Earn money before you spend it. Never run
 into debt unless you seo a way to get out again,  
 Never borrow if you can possibly avoid it. Do  
 not marry until you are able to support a wifo.  
-Neve
+Never
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCAWade1n_ver01%2Fdata%2F1859042801%2F0476.jp2/pct:36.066236,5.681818,14.539580,17.237308/!600,600/0/default.jpg"/>
 </td>
@@ -2011,8 +2011,6 @@ Neve
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Sound Advioe to Young Men. Keep  
 good company or none. Never be idle.  
 If yoHr hands cannot be usefully employed,  
@@ -2066,7 +2064,7 @@ young, that you may spend when you are
 old. Read over the above maxims at least  
 once a week.  
   
-
+T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1859051801:0091/pct:18.778510,68.017714,15.369995,17.984018/!600,600/0/default.jpg"/>
 </td>
@@ -2080,7 +2078,7 @@ once a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tOVH CTO lOtXG ME*.  
+tOVH CTO lOtXG ME*.  
 Keep good company or none.  
 Never be idle.  
 If your hands cannot be usefully employed,  
@@ -2122,7 +2120,7 @@ Keep yourself inuoeent, if you would be
 have when you are youug, tLat you may spend  
 when you are old.  
 Road over the above maxims at least once a  
-week
+week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1859052001:0567/pct:62.569126,34.951571,14.457260,24.167257/!600,600/0/default.jpg"/>
 </td>
@@ -2136,7 +2134,7 @@ week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- within yonr  
+within yonr  
 income. When you retire to bed, think over  
 what you have been doing dnring the day.  
 Make no haste to be rich, if yon would pros­  
@@ -2148,7 +2146,7 @@ money before yon spend it. Never run in
 debt unless you see a way to get out of it.  
 Do not marry until yon are able to support a  
 wife. Never speak evil of nny one. Be just  
-before yo
+before you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1859060901:0299/pct:78.895426,26.200633,15.961283,7.114353/!600,600/0/default.jpg"/>
 </td>
@@ -2162,7 +2160,7 @@ before yo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ittle  
+ttle  
 boy. It required a sacrifice, but &quot;Mother  
 MADE IT.&quot;  
 SouNd ADVIcE To YOUNG MEA.Keep  
@@ -2197,7 +2195,7 @@ you would be happy. Save when you are
 young that you may spend when you get old.  
 Read over the above maxims at least once a  
 weck.  
-Leet t
+Leet to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859061001:0734/pct:19.274960,48.756145,13.034865,19.082377/!600,600/0/default.jpg"/>
 </td>
@@ -2211,7 +2209,6 @@ Leet t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Thk following has been banded us by a friend  
 who has carried it in his purse for many years,  
 as a sort of tulitman and who regards much of  
@@ -2251,6 +2248,7 @@ you are generous. Keep yourself innocent, if
 you would be happy. Save when you are young1,  
 that you may spend when you are old. Read  
 over the above maxims at least ence a week.&#x27;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88077413:00280775344:1859062301:0421/pct:23.307184,70.312279,14.244426,18.708492/!600,600/0/default.jpg"/>
@@ -2265,7 +2263,6 @@ over the above maxims at least ence a week.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 be injured except by your own acts. If  
 ^ any one speaks evil of you, let your life  
 be so that no one will believe him.—  
@@ -2288,7 +2285,7 @@ you would be happy. Save when you
 are young, that you may spend when  
 &#x27; you are old. Read over the above max­  
 ■ ims at least once a week.  
-i
+i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn86053686:00295874405:1859082701:0345/pct:50.833333,44.132653,15.592593,14.822771/!600,600/0/default.jpg"/>
 </td>
@@ -2302,7 +2299,6 @@ i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Keep good company or none. Never be  
 idle. If your hands cannot bo usefully em­  
 ployed, attend to the cultivation of your  
@@ -2314,7 +2310,7 @@ face. Good company and good conversation
 are thp very sinews of virtue. Good char*  
 acter is above all things else. Your charac­  
 ter cannot be essentially injured except by­  
-your own acts. If one speaks
+your own acts. If one speaks 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eterna_ver01:data:sn86071898:00542867012:1859092301:0268/pct:79.991522,76.119403,12.039000,5.889905/!600,600/0/default.jpg"/>
 </td>
@@ -2328,7 +2324,6 @@ your own acts. If one speaks
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 no  
 misfortune excepted, witbia your income  
 When you retire to bed tliirk what ycu  
@@ -2347,7 +2342,7 @@ of any one. Be just before you sre gener­
 ous. Keep yourself innocent, if you would  
 le happy. Save when you are young, to  
 spend when you &#x27; are old. Read over the  
-above maxims once a week
+above maxims once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859101301:0064/pct:43.916914,50.445755,12.444362,9.943766/!600,600/0/default.jpg"/>
 </td>
@@ -2361,7 +2356,6 @@ above maxims once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Iu the pocket book of the lion. Stephen  
 Allen, who was drowned from on board the  
 Henry Clay, was found a printed slip, appa­  
@@ -2381,7 +2375,7 @@ character cannot be essentially injured, ex­
 cept by your own acts. If any one speaks  
 evil of you, let your life be so that none  
 will believe him. Drink no kinds of intox­  
-icating liquors. Ever live (misfortune e
+icating liquors. Ever live (misfortune ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860021801:0238/pct:44.030497,17.076118,12.354878,10.659149/!600,600/0/default.jpg"/>
 </td>
@@ -2395,7 +2389,6 @@ icating liquors. Ever live (misfortune e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 forethought and courage.  
 Advice to Young People.—Keep good  
 romnany or none. Never be idle. If your  
@@ -2428,7 +2421,7 @@ one. He just, before you arc generous.
 Keep yourself innocent, if you would be  
 happy. Save when you areyounar, that you  
 irtay spend when you arc old. Read over  
-the above maxims at least once a week
+the above maxims at least once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1865070801:0413/pct:5.707243,68.266164,12.703830,15.888663/!600,600/0/default.jpg"/>
 </td>
@@ -2442,7 +2435,7 @@ the above maxims at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- vote and hold office.  
+vote and hold office.  
   
 ADVICE TO YOUNG PEOPLE.—Keep good  
 company or none. Never be idle. It your  
@@ -2476,7 +2469,7 @@ self innocent, if yon would be happy. Save
 when you are young, that you may spend  
 when you are old. Read over the above  
 maxims at least once a week.  
-VIRGINIA
+VIRGINIA 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1865071401:0538/pct:80.508744,72.027813,12.734499,16.835746/!600,600/0/default.jpg"/>
 </td>
@@ -2490,8 +2483,6 @@ VIRGINIA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Advise to Young Pec pie.  
   
 Keep good company or none. Nev­  
@@ -2561,7 +2552,8 @@ Keep yourself innocent, it you woul.^
 be happy. Save, when you are young,  
 that you may spend whvn ycu are old.  
 Read over the abovo maxims at !casi  
-once a wee^.
+once a wee^.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1865072101:1205/pct:64.397991,13.162331,30.805380,81.129576/!600,600/0/default.jpg"/>
 </td>
@@ -2575,7 +2567,7 @@ once a wee^.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; and Bill  
+and Bill  
 didn&#x27;t.  
   
 ADVICE TO YOUNG PEOPLE,  
@@ -2614,7 +2606,8 @@ when you are young, that you may spend
 when you are old. Read over the above  
 maxims, at least once a week.  
   
-DirEREces.A
+DirEREces.A  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1865072201:0414/pct:76.609442,57.113756,13.099666,25.267146/!600,600/0/default.jpg"/>
 </td>
@@ -2628,8 +2621,6 @@ DirEREces.A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
-  
 ADVIOE TO YOUNG PEOPLE.-=g6l3p  
 good company or none. Nevet bt  
 idlo. If yOlfr hands cannot be usefully  
@@ -2666,7 +2657,8 @@ Keop yonrself innoCent, ifyou rltg4
 be happy. save whoa you are youn t i,  
 that you may spend when you are old.  
 Read over t4e above maxims at least  
-once a week-
+once a week-  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001952%2F1865080201%2F0117.jp2/pct:78.632887,69.527692,11.247610,22.194065/!600,600/0/default.jpg"/>
 </td>
@@ -2680,7 +2672,7 @@ once a week-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- good  
+good  
 conversation, are the very sinews of virtue.  
 Your character cannot be essentially injured,  
 except by your own acts. If any one speaks  
@@ -2716,7 +2708,8 @@ before you are generous. Keep yourself inno-
 cent if you would be happy. Save when you  
 are young that you may spend when you are  
 old. Read over the above maxims at least  
-once a week.
+once a week.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-intelligencer_1865-08-19_22_24%2Fsim_friends-intelligencer_1865-08-19_22_24_jp2.zip%2Fsim_friends-intelligencer_1865-08-19_22_24_jp2%2Fsim_friends-intelligencer_1865-08-19_22_24_0006.jp2/pct:47.023810,71.547085,52.343750,14.461883/600,/0/default.jpg"/>
 </td>
@@ -2730,7 +2723,7 @@ once a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of mind.  
+of mind.  
 Never play at any game of chance.  
 Avoid : temptation. Earn money be­  
 fore you spend it. Never run into  
@@ -2746,7 +2739,7 @@ trod and keep his commandments.
 Read over the&#x27;above maxims at least  
 once a week.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002752%2F1865100501%2F0002.jp2/pct:50.323383,50.850542,13.890547,11.246472/!600,600/0/default.jpg"/>
 </td>
@@ -2760,7 +2753,7 @@ once a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d ADvIcE tO YouNG MeN. Keep  
+ADvIcE tO YouNG MeN. Keep  
 geod company, or none. Never bo idle.  
 If your hands can&#x27;t be usefully, emploved  
 attend to the cultivation of your mind.  
@@ -2794,7 +2787,8 @@ fore you are generous. Keep yourself in
 nocent, if you would be happy. Sav  
 when you are young, that you msy spend  
 when you are old. Read over the above  
-maxims at least once a week.
+maxims at least once a week.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866122001:0153/pct:24.626734,57.607875,13.499426,19.884064/!600,600/0/default.jpg"/>
 </td>
@@ -2808,7 +2802,7 @@ maxims at least once a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ES.  
+S.  
 Advice to Young Men.  
 Keep good company, or none. Never be  
 idle. If your hands can&#x27;t be usefully em­  
@@ -2842,7 +2836,8 @@ one. Be just before you are generous.
 Keep yourself innocent, if you would be  
 happy. Save when you are young, that  
 you may spend when you are old. Read  
-over the above maxims at least one a week.
+over the above maxims at least one a week.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1866122101:0004/pct:4.773697,63.281085,14.532031,21.969216/!600,600/0/default.jpg"/>
 </td>
@@ -2856,7 +2851,7 @@ over the above maxims at least one a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of  
+of  
 Ever live (misfor­  
 tune excepted). within your income.  
 • When you - retire to bed think of what  
@@ -2876,7 +2871,8 @@ line. Be just before you are generous.
 Keep_ yourself innocent, if you would be  
 •lappy. Save&#x27; when you &#x27;are young, that  
 you may spend when you are old. -Read  
-the above &#x27;Maxims at least once. a week.
+the above &#x27;Maxims at least once. a week.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001885%2F1867010501%2F0004.jp2/pct:6.493392,26.605569,12.383260,13.519659/!600,600/0/default.jpg"/>
 </td>
@@ -2890,7 +2886,6 @@ the above &#x27;Maxims at least once. a week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 one will believe him. Drink  
 kind of intoxicating liquors. Ever live  
 (misfortune excepted) within your income.  
@@ -2913,7 +2908,7 @@ avoid It.
 generous.  
 Keep yourself innocent, if you would be  
 bappy. Save when you  
-you may spend when yo
+you may spend when you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_jinx_ver01:data:sn84038112:00271741145:1867073001:0260/pct:80.630631,76.122975,10.878378,9.941090/!600,600/0/default.jpg"/>
 </td>
@@ -2927,7 +2922,7 @@ you may spend when yo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-k lo a person look him in the face.—  
+lo a person look him in the face.—  
 Hood company and good conversation nrc  
 .mi very sinews ..Lite, tiuotl character  
 is above till things else. \ our character  
@@ -2953,7 +2948,7 @@ are generous. Keep yourself innocent, if
 you would be happy. Save when you are  
 young, that you may spend when you are  
 old. Head over the above maxims at least  
-once a week
+once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624529:1867081701:0129/pct:44.024321,57.413569,12.426373,12.411399/!600,600/0/default.jpg"/>
 </td>
@@ -2967,7 +2962,6 @@ once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Sound Advice to Young Hen.  
   
 Keep cood company, or none. Never  
@@ -3024,7 +3018,8 @@ young, that you may spend when you are
   
 old. Read over the above maxims at . least  
   
-pace a week.&quot;
+pace a week.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1867110101:0387/pct:49.296206,73.263559,14.611383,22.811608/!600,600/0/default.jpg"/>
 </td>
@@ -3038,7 +3033,7 @@ pace a week.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and lost his hope of heaven at last.  
+and lost his hope of heaven at last.  
 To be Carried in Your Pocket.?Keep  
 good company or none. Never be idle. If  
 your hand cannot be usefully employed, attend  
@@ -3069,7 +3064,7 @@ you can possibly avoid it. Do not marry j
 until you arc able to support a wife. Never 1  
 speak evil of any one. Be just before you j  
 are generous. Keep yourself innoceut, if you &#x27;  
-would be happy. Head over the 
+would be happy. Head over the a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1873100201:0386/pct:28.311518,72.676159,17.617801,15.815725/!600,600/0/default.jpg"/>
 </td>
@@ -3093,7 +3088,7 @@ would be happy. Head over the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a person look him in  
+a person look him in  
 the face. Good company and conversa­  
 tion are the very sinews of virtue. Good  
 character is u’-ovc all things else. Youf  
@@ -3120,7 +3115,7 @@ juf before you are geuerous. Keep your­
 self innocent, if you would bo happy   
 j Save when you arc young, that you may  
 spend when you are old. Read over tho  
-above maxims at least oucc a wee
+above maxims at least oucc a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1873121801:0677/pct:75.562569,51.912568,11.704171,14.754098/!600,600/0/default.jpg"/>
 </td>
@@ -3134,8 +3129,6 @@ above maxims at least oucc a wee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- shame. New York World,  
-Dev. 15.  
 To Be Carried in Your Pocket.  
 Keep good company or none. Never  
 be idle. If your hand cannot be use­  
@@ -3172,9 +3165,9 @@ before you are generous. Keep your­
 self innocent, if you would be happy.  
 Save when you are young, that you may  
 spend when you are old, Read over the  
-above maxims at least once a week
+above maxims at least once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874010201:0317/pct:78.827408,47.316774,13.804472,20.535623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874010201:0317/pct:78.827408,48.839824,13.804472,19.012573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3186,8 +3179,6 @@ above maxims at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-orious reeurrection morning that will  
-goon dawn upon us.—Interior.  
 To be Carried in your Pocket.  
 Keep good company or none. Never be  
 idle. If your hand cannot be usefully em­  
@@ -3221,9 +3212,9 @@ generous. Keep yourself innocent, if you
 would be happy. Save when you are young,  
 that you may spend when you are old.—  
 Bead over the above maxims at least once a  
-week
+week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1874010701:0179/pct:19.325843,37.868231,12.680578,23.774600/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1874010701:0179/pct:19.325843,39.677301,12.680578,21.965530/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3235,7 +3226,6 @@ week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The following has been&#x27; handed us  
 by our friend Bob, who lias carried  
 it in his purse t for many years, as .a  
@@ -3286,7 +3276,7 @@ self i&amp;nocent, if you would be happy.
 Save when yon are young, that you  
 may spend when you are old. Read  
 over the above maxims at least once  
-week
+week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1874010801:0411/pct:55.148368,28.460726,9.940653,28.918633/!600,600/0/default.jpg"/>
 </td>
@@ -3300,23 +3290,6 @@ week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-in­  
-flicted upon a suffering world, when this ser­  
-vice is withheld.  
-It is a sad mistake to suppose that, be­  
-cause religion lies at last between the soul  
-and God, it may be secretly cherished  
-without a public avowal. Whoever attempts  
-it, will live at best a crippled life. There  
-will be in such a case a large amount of un­  
-developed experience, which depends upon  
-association and fellowship to draw it forth :  
-and the heart that tries to be perfect in its  
-loneliness, will find a loss. It can never be  
-safe to live in contradiction at once of the  
-laws of nature and of grace.—S. W. Pres­  
-byterian.  
-  
 To be Carried in Your Pocket.  
 Keep good company or none. Never be  
 idle. If your hand cannot be usefully em­  
@@ -3350,9 +3323,9 @@ generous. Keep yourself innocent, if you
 would be happy. Save when you are young,  
 that you may spend when you are old.—  
 Read over the above maxims at least once a  
-week
+week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1874031101:0215/pct:44.070255,65.042527,13.293587,32.053463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1874031101:0215/pct:44.070255,75.759417,13.180793,21.336574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3364,11 +3337,6 @@ week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- being erected u  
-the Mt. Craw ford statiou, also.  
-In the course of a few weeks or &amp; month, w  
-suppose, trains w ill run through regularly t  
-Staunton.—Harrisonburg Commonscallh.  
 To be Carried in Your Pocket.  
 Keep good company or noue. Never 1  
 idle. It yonr hand cannot he usefully t.i  
@@ -3399,9 +3367,9 @@ speak evil of any one. l3e just before you a
 generous. Keep yourself innocent, if yi  
 . would be happy. tS.iv. when you are youn  
 that you may spend when you are old. lie.  
-over the above maxim., at leu t once a wee
+over the above maxim., at leu t once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867006:1874040401:0260/pct:55.791618,41.655069,12.354482,22.224601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867006:1874040401:0260/pct:55.791618,45.059415,12.354482,18.820255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3413,9 +3381,7 @@ over the above maxim., at leu t once a wee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h al­  
-most h a prayer:  
-( Jod spare my darling.  
+darling.  
 Wh it the end will be, God knows.  
   
 To be Carried in Your Pocket.  
@@ -3456,9 +3422,9 @@ Keep yourself innocent, if you would -
 be happy. Save when you are young.  
 hat you may spend when you are eld.  
 Head over the above maxims at least  
-once a week
+once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874040901:0281/pct:84.172078,42.470498,11.347403,19.189328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874040901:0281/pct:84.172078,43.355567,11.347403,18.304259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3470,7 +3436,6 @@ once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Live up to your engagements.  
 If one speak evil ot you, let your life,,  
 be such that none will believe him.  
@@ -3482,7 +3447,7 @@ chance, t «
 Avoid temptation through fear ytm  
 may not withstand it.  
 Never run in debt unless you see a  
-way to get out agai
+way to get out again
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:00295876128:1874041001:0066/pct:42.833554,82.961095,12.780713,5.427474/!600,600/0/default.jpg"/>
 </td>
@@ -3496,13 +3461,12 @@ way to get out agai
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Keep good company or none. Never  
 be idle. If your hand cannot be use  
 fully employed, attend to the cultiva­  
 tion of your mind. Always speak the  
 truth and you may yet die happy.  
-It is 
+It is n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm24n_ver01%2Fdata%2F1874042301%2F0508.jp2/pct:21.348733,73.027091,11.661699,3.677529/!600,600/0/default.jpg"/>
 </td>
@@ -3516,12 +3480,12 @@ It is
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.Keep good copipany or none.  
+Keep good copipany or none.  
 Xever be idle, li your hand cannot be  
 usefully employed, attend to the culti  
 vation of your mind. Always speak the  
 truth and you may yet die happy.  
-Peanuts an
+Peanuts and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead3n_ver01%2Fdata%2F1874042801%2F0047.jp2/pct:33.017534,62.270881,14.394796,3.606460/!600,600/0/default.jpg"/>
 </td>
@@ -3535,7 +3499,7 @@ Peanuts an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to ourselves.  
+to ourselves.  
 Sancho  
 To be Carried In Yonr Pocket.  
 Keep good company or none. Never  
@@ -3573,7 +3537,7 @@ generous. Keep yourself innocent, if ;
 yon would be nappy, save wnen you  
 are young, that you may spend when  
 yon are old. Read over the above  
-mtTima at least once a week
+mtTima at least once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874042901:0113/pct:49.569263,75.299601,11.026878,18.615180/!600,600/0/default.jpg"/>
 </td>
@@ -3587,7 +3551,6 @@ mtTima at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 To lo Carried in YoUr  
 &quot; Keep good company or &quot;none.  
 &quot;Never be idle. , If your hand connot  
@@ -3621,7 +3584,7 @@ lover run liito debt -unless- you can
 boo your-way to get: out of it. Nev­  
 erborro if -you can possibly avoid  
 it. Do not marry until you-aro able  
-to suppoft a -&quot;wife; JS
+to suppoft a -&quot;wife; JSe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StateFay1n_ver01%2Fdata%2F1874050201%2F0368.jp2/pct:1.306413,57.356270,15.884798,28.531010/!600,600/0/default.jpg"/>
 </td>
@@ -3635,7 +3598,7 @@ to suppoft a -&quot;wife; JS
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r cannot be essen­  
+cannot be essen­  
 tially injured except by your own  
 acts.  
   
@@ -3670,7 +3633,7 @@ Never run in: debt unless you
 see away to get out of it.  
   
 Never borrow if you can posi­  
-bly avoid i
+bly avoid it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn84022129:00212470806:1875122901:0440/pct:57.916529,18.755585,16.594899,21.425380/!600,600/0/default.jpg"/>
 </td>
@@ -3684,7 +3647,7 @@ bly avoid i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to  
+to  
 his eldest son at the New Year.  
 To BE CARRIed IN YOUR POCKET.  
 Keep good company or none. Never  
@@ -3724,7 +3687,7 @@ self innocent if you would be happy.
 Save when you are young, that you  
 may spend when you are old. Read  
 over the above maxims at least once a  
-week
+week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881011901:0860/pct:55.174477,78.101979,10.089731,19.023545/!600,600/0/default.jpg"/>
 </td>
@@ -3738,8 +3701,6 @@ week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 stantial a stylo as can bo dono any  
 where.  
 To Be Carried in Your Pocket.  
@@ -3783,7 +3744,7 @@ may spend when you are old. Read
 over tae above maxims at least once a  
 month.  
 DEALERS IN  
-GARDEN
+GARDEN 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779490:1881020301:0113/pct:58.360129,24.879486,12.600482,28.441350/!600,600/0/default.jpg"/>
 </td>
@@ -3797,8 +3758,6 @@ GARDEN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l  
-  
 To be Carried in Your Pocket —  
 Keep good cimpany or none. Never be  
 idle. If jour bauds cannot be em­  
@@ -3832,7 +3791,7 @@ uot marry until you are able to support
 a wife. Never speak evil of any one  
 Be just before you are generous. Keep  
 yourself innocent if you would be happy  
-Save when you ar
+Save when you are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881032901:0292/pct:49.960512,70.301932,10.693413,13.852657/!600,600/0/default.jpg"/>
 </td>
@@ -3846,7 +3805,7 @@ Save when you ar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of too much religion. &quot;  
+of too much religion. &quot;  
 To bo Carried In Yonr Pot ki t.  
 Keen good company or none.  
 Never be idle. If your hands can­  
@@ -3885,7 +3844,7 @@ young, tuat you may spend when
 you are old. Aever run into debt  
 unless you can see your way out.  
 Read over the above maxims at least  
-once a wee
+once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881052501:0537/pct:52.656930,63.639539,10.270354,19.781115/!600,600/0/default.jpg"/>
 </td>
@@ -3899,8 +3858,6 @@ once a wee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 T be Carried in Yonr Pocket.  
   
 Keep crood company or none.  
@@ -3955,7 +3912,7 @@ unless you can see your way out.
 Read over the above maxims at least  
 once a week.  
   
-Worth K
+Worth Ke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1881052501:0539/pct:52.557347,64.223284,10.244885,19.694674/!600,600/0/default.jpg"/>
 </td>
@@ -3969,7 +3926,7 @@ Worth K
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, Earn money befort  
+Earn money befort  
 &#x27;0 you spend it. Never run into debt unless  
 ii you can see your way to get out of it.  
 ;Never borrow if you can p~ossibly avoid it,  
@@ -3981,7 +3938,7 @@ ms port a wife. Nove?&#x27;speak evil of any one,
 .0 spenmd when you are old. Read over th&lt;  
 above maxIms at least once a week.  
   
-A Visit to the Garden o
+A Visit to the Garden of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881052801:0600/pct:58.282967,12.180402,23.049451,84.341051/!600,600/0/default.jpg"/>
 </td>
@@ -3995,7 +3952,7 @@ A Visit to the Garden o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-oul air of  
+ul air of  
 their head gear, having no issue, destroyed  
 the vitality of the hair.  
   
@@ -4033,7 +3990,7 @@ Be just before you are generous. Keep
 yourself innocent if you would be happy.  
 Save when you are young, that you may  
 spend when you are old. Kead over the  
-above maxims at least once a week
+above maxims at least once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881060201:0289/pct:69.429920,76.806119,12.613187,19.323627/!600,600/0/default.jpg"/>
 </td>
@@ -4047,7 +4004,6 @@ above maxims at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 To be Carried in Your Pocket.?Kfcep  
 good company or none. Never be idle. If  
 your hands cannot be usefully employed, attend  
@@ -4079,7 +4035,7 @@ one. Be just before you are generous. Keep
 yourself innocent if you would be happy.  
 Save when you are young, that you may  
 spend when you are old. Read over the  
-above maxims at least once a week
+above maxims at least once a week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881060901:0248/pct:55.329357,23.119250,15.326763,16.074328/!600,600/0/default.jpg"/>
 </td>
@@ -4093,7 +4049,7 @@ above maxims at least once a week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to recommend Malt Bitters.&quot;  
+to recommend Malt Bitters.&quot;  
 To Be Carried in Your Pocket.  
 Keep good company or none. Never  
 be idle. If your hands cannot be use­  
@@ -4127,14 +4083,9 @@ you may spend when you are old. Nev­
 er run into debt unless you can see your  
 way out. Read over the above maxim  
 at least once a week.  
-A spirited horse under irritating influ­  
-ences may do, from downright fear,  
-what may be wrongly charged to viciou­  
-ness. Heavy blows may fall upon the  
-nervous beast only to be followed by the  
-worst results.
+A spirited horse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85026955:00200293526:1881072601:0695/pct:43.873147,69.516777,12.347532,20.002591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85026955:00200293526:1881072601:0695/pct:43.873147,69.516777,12.347532,17.761368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4146,7 +4097,7 @@ worst results.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- retused to give his  
+retused to give his  
 consent.  
 To Be Carried in Your Pocket  
   
@@ -4178,7 +4129,8 @@ Be just before you are generous,
 you are old. Never run into debt  
 unless you can see your way outa  
 Read over the above mnaxims at  
-least once a weekIe
+least once a weekIe  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_karma_ver01:data:sn88064118:00280761783:1881080301:0827/pct:19.432162,69.122462,16.476612,26.506221/!600,600/0/default.jpg"/>
 </td>
@@ -4192,7 +4144,7 @@ least once a weekIe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Judge  
+Judge  
 Hoar of a desire to defend&#x27;  
 i him, and pretends to have j  
 great confidence in District*  
@@ -4225,7 +4177,7 @@ income. When you retire to
 bed,th ink over what you havn  
 been doing during the day.—  
 Make no haste to he Vicli if  
-you would prosper. D
+you would prosper. Do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1881082701:0166/pct:71.251609,6.023062,22.023810,90.161923/!600,600/0/default.jpg"/>
 </td>
@@ -4239,8 +4191,6 @@ you would prosper. D
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 To bo Carried in Your Pocket  
 Keep good company or none  
 Never be idle If your hands connol  
@@ -4255,7 +4205,21 @@ good conversation are the very sinews
 of virtue Good character cannot be  
 essentially injured except by your acts  
 tf any one speaks evil of you let your  
-life be such that no one will believe  
+life 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:0020653588A:1881091801:0636/pct:47.523511,38.202247,13.573668,8.724389/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Salt Lake herald._](https://www.loc.gov/resource/sn85058130/1881-09-18/ed-1/?sp=7)
+
+#### 1881-09-18 &middot; [Salt Lake City [Utah]](http://dbpedia.org/resource/Salt_Lake_City)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+be such that no one will believe  
 him Drink no intoxicating liqurors  
 Ever live misfortune excepted with­  
 in your income  
@@ -4275,62 +4239,9 @@ Save when you are young that you
 may spend when you are old Never  
 run into debt unless you can see you  
 way out Read over the above max­  
-ims at least once a wee
+ims at least once a week
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:0020653588A:1881091801:0636/pct:47.523511,38.202247,13.667712,19.993391/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Valley Virginian._](https://www.loc.gov/resource/sn84024707/1881-12-08/ed-1/?sp=1)
-
-#### 1881-12-08 &middot; [Staunton, Va.](http://dbpedia.org/resource/Staunton%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ains sure.  
-t  
-L- I  
-  
-1)  
-e  
-e  
-y  
-e  
-t  
-e  
-a  
-u  
-It  
-i  
-i  
-1  
-y  
-ft  
-e  
-.1  
-i­  
-e  
-e  
-|]  
-d  
-e  
-f  
-y  
-o  
-.8  
-J3AL.KY houses.—• i ue t ramcm par me r says  
-—wliat we know to be true, and what we see  
-almost every day, in their treatment by toolish  
-or brutal drivers—that a spirited horse under  
-irritating influences may do from downright  
-fear what may be wrongly charged to vicious­  
-ness. Heavy blows may fall upon the neryous  
-beast only to be followed by the worst results.  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348732:1881120801:0411/pct:83.516829,73.595440,11.544511,21.798302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:0020653588A:1881091801:0636/pct:47.570533,46.497026,13.620690,11.698612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

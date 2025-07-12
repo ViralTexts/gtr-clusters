@@ -23,18 +23,7 @@ The great American inventions, which have been adopted all over the world, are t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ch  
-give them their principal usefulness or productive power  
-nave been made since the foundation of our Gouvern-  
-went, and wost of them quite recently.  
-  
-AMERICA IN THE CONCOURSE OF INDUSTRIES.  
-  
-In conclusion, the inquiry naturally preseuts itself—  
-where are we, the industrials of the United States, in  
-this groat concourse of the nations, and what is the part  
-which we are contributing to the march of industrial  
-fmprovement? The reply, I believe, will be one of which  
+The reply, I believe, will be one of which  
 we need not be ashamed. There is hardly an industry to  
 the progress of which we have not largely contributed.  
 The cotton-gin, without which the machine-spinner and  
@@ -49,9 +38,9 @@ American, The machine manufacture of woel cards is
 American. The whole india-rubber industry is Ameri-  
 can. The band-saw originated, I believe, in America.  
 Tue machine manufacture of horseshoes is American.  
-The sand blast, of which
+The sand blast, of which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver02:data:sn83030214:00206531125:1872090501:0036/pct:18.048063,62.762483,15.481445,10.639291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver02:data:sn83030214:00206531125:1872090501:0036/pct:18.048063,66.833878,15.481445,6.567895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -63,25 +52,7 @@ The sand blast, of which
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ne-nursed American could accept the  
-  
-This tunnel provision was engrafted upon the law, jggj^jggg condition of that age.  
-  
-according to popular rumor, ^ natural, and proper too, that, standing amid  
-  
-„n,ofOolor.do.” W. opm. tluiUh. of Oo- ^ ,ia.noo. of Americn power, the e^eket  
-  
-lo^do will be thorooghly cured b, it. .orkfuge of J P P  
-  
-thelr ridicloo. end ™per.l.l.oo. ^I»«f for mol- P He »id :  
-  
-»;.&gt;i&lt;rin0 tunnels. Gen. Mabshall, to whom we have .  
-  
-tipiying tunne “The cotton-gin, without which the machine-  
-  
-•iwukdv alluded, has been too wise to put himselt in I j uu 1 u u i. 1 1  
-  
-aireaay anuu » j r spinner and the power-loom would be helpless, is  
+spinner and the power-loom would be helpless, is  
   
 „ch hoelility towerd. the prMpecta™ end Btrieoe- The po,ero,h»tUe. .hieh permiLo uu-  
   
@@ -113,9 +84,9 @@ dustry is American. The band-saw originated, I
 The American Institute- believe, in America. The machine manufacture of  
   
 The season of exhibitions is at hand and we hear horseshoes is American. The sand blast, of which  
-o
+of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_engineering-and-mining-journal_1872-09-10_14_11%2Fsim_engineering-and-mining-journal_1872-09-10_14_11_jp2.zip%2Fsim_engineering-and-mining-journal_1872-09-10_14_11_jp2%2Fsim_engineering-and-mining-journal_1872-09-10_14_11_0009.jp2/pct:8.931222,54.350501,51.385453,18.931271/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_engineering-and-mining-journal_1872-09-10_14_11%2Fsim_engineering-and-mining-journal_1872-09-10_14_11_jp2.zip%2Fsim_engineering-and-mining-journal_1872-09-10_14_11_jp2%2Fsim_engineering-and-mining-journal_1872-09-10_14_11_0009.jp2/pct:8.955962,61.153102,51.360713,12.128669/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +98,6 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The great American inventions, which have been  
 adopted all over the world, are the following  
 The cotton-gin, without which the mathine, spin  
@@ -141,7 +111,7 @@ blast (for carving). The gnage lathe. The grain
 elevator. The artificial manufacture ot ice on a  
 large scale. The electro magnet, and its practical  
 application, by Henry &amp; Morse. The only suc­  
-cessful composing machine for printers
+cessful composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1872102401:0063/pct:20.846082,64.500637,14.673407,8.095658/!600,600/0/default.jpg"/>
 </td>
@@ -155,7 +125,6 @@ cessful composing machine for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 American Inventions.  
 In respect to notable inventive  
 achievements during the last hundred  
@@ -178,7 +147,7 @@ can. The hand-saw originated in Amer­
 ica. The machine manufacture of  
 horse-shoes is American. The sand­  
 blast, of which the large capabilities are  
-yet to b
+yet to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1872102501:0193/pct:42.186251,50.097412,12.549960,11.299750/!600,600/0/default.jpg"/>
 </td>
@@ -192,7 +161,6 @@ yet to b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 American Inventions.  
 In respect to notable inventive  
 achievements during-the last hundred  
@@ -215,7 +183,7 @@ can. The hand saw originated in Amer­
 ica. The machine manufacture of  
 horse-shoes is American. The sand­  
 blast, of which the large capabilities are  
-yet to b
+yet to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1872110201:0253/pct:68.625124,48.945962,12.265084,11.490499/!600,600/0/default.jpg"/>
 </td>
@@ -229,7 +197,7 @@ yet to b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—The cotton gio,  
+The cotton gio,  
 without which the machine spinner and the  
 power loom would be helpless, is Ameri­  
 can. The power shuttle, which permit* an  
@@ -239,7 +207,7 @@ chine is American. Navigation by steam is
 American. The mower and reaper are  
 American. The rotary printing presses are  
 American. The hot air engine is American.  
-The sewing machine is American. The m
+The sewing machine is American. The ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_jarlstorvald_ver01:data:sn83021433:00529045189:1873071201:0660/pct:7.312087,84.999100,12.351173,4.583108/!600,600/0/default.jpg"/>
 </td>
@@ -253,9 +221,9 @@ The sewing machine is American. The m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- : v&quot; The cotton gin, without which the  
+: v&quot; The cotton gin, without which the  
 machine jspicner and the power loom  
-would be helpkss, is America
+would be helpkss, is American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCDailyT5n_ver01%2Fdata%2F1873080301%2F0112.jp2/pct:9.297913,57.636031,14.500316,1.668953/!600,600/0/default.jpg"/>
 </td>
@@ -269,7 +237,6 @@ would be helpkss, is America
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The cotton gin, without which the  
 machine snihrier and the power loom  
 would be helpless, is American. The  
@@ -289,7 +256,7 @@ can. The baud saw ongmaieu, we ue-
 lieve, in America. The machine manu­  
 facture of horse shoes 13 American. The  
 sand-blast, of which the large capa-  
-bilitiea 
+bilitiea a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873081601:0126/pct:79.967834,54.460338,12.187277,9.895969/!600,600/0/default.jpg"/>
 </td>
@@ -303,7 +270,6 @@ bilitiea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The cotton gin, without which the  
 machine spinner and the power loom  
 would be helpless, is American. The  
@@ -317,7 +283,7 @@ printing presses are American. The
 hot-air engine is American. The  
 sewing machine is American. The  
 machine for the manufacture of wood  
-cards is American. Th
+cards is American. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873092401:0279/pct:15.464548,72.967778,10.253667,6.568683/!600,600/0/default.jpg"/>
 </td>
@@ -331,10 +297,9 @@ cards is American. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The cotton gin, without which the  
 machine spinner and the power loom  
-would be helpless, is America
+would be helpless, is American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1873100101:0459/pct:70.873980,72.431970,11.108899,1.481693/!600,600/0/default.jpg"/>
 </td>
@@ -348,7 +313,7 @@ would be helpless, is America
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- after all, that they will worry him to  
+after all, that they will worry him to  
 death.&quot;  
 HAIL CoLunEIa!The cotton-gin, without  
 which the machine-spinner and the power­  
@@ -367,7 +332,7 @@ horseshoes is American. The sand-blast, of
 which the large capabilities are yet to be de­  
 veloped, is American. The gauge-lath is  
 American. The only successful composing  
-machine for printer
+machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105495:1873100401:0592/pct:24.093656,23.609263,14.369335,10.593559/!600,600/0/default.jpg"/>
 </td>
@@ -381,23 +346,7 @@ machine for printer
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ten spread burnii g oil, and increase  
-clangor. Before pasing through smoke take  
-a full breath and then sloop low; but if car­  
-bonic acid gas is suspected, walk erect.  
-Suck poisoned wounds, unless your mouth  
-is sore; enlarge the wound,or, better cut out  
-the part without delay; hold the wounded  
-part us long as can he borne to a coal or end  
-of a cigar.  
-In case of poisoning, excite vomiting by  
-tickling tbe throat or by warm water and  
-mustard.  
-If in water, float on the back, with the  
-nose and mouth projecting.  
-For apoplexy, raise the bead and body;  
-for fainting, lay the person flat.  
-Hail C oldmbia!—The cotton-gin, with­  
+The cotton-gin, with­  
 out which the machine-spinner and the power  
 loom would be helpless, is American. The  
 power-shuttle, which permits an unlimited  
@@ -407,9 +356,9 @@ oan. Navigation by steam, is American.
 The mower and reaper arc American. The  
 rotary printing presses are American. The  
 hot-air engine is American. &#x27;1 he sewing  
-machine is American The machin
+machine is American The machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557840:1873100401:0167/pct:7.436739,38.688481,14.776898,15.542443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557840:1873100401:0167/pct:7.456056,48.062223,14.738265,6.168701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +370,7 @@ machine is American The machin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ie  
+ie  
 are, after all that they will worry  
 him to death.&quot;  
 HAIL CoLUMeI! The cotton  
@@ -447,7 +396,7 @@ sand blast, of which the largetea
 pabilities are yet to be developed.&quot;  
  a  ae a  
 American. The only successful  
-composing machine for printer
+composing machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_fireant_ver01:data:sn84021912:00211104260:1873101801:0014/pct:3.864556,58.242593,14.924549,17.130919/!600,600/0/default.jpg"/>
 </td>
@@ -461,26 +410,11 @@ composing machine for printer
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&lt;  
 The cotton gin, without which the mu- ,  
 chine spinner and the power loom would ,  
-be helpless, is American. The power  
-shuttle, which permits an unlimited en- ■  
-largement of the breadth of the web, is |  
-American. The planing machine is Amer- ,  
-lean. Navigation by steam is American. {  
-The mower and reaper is American. The  
-rotary printing-presses are American, The ,  
-hot-air engine is American. The sewing  
-machine is American. The machine man­  
-ufacture of wool-cards is American. The  
-whole India-rubber industry is American.  
-The band saw originated, we believe, in  
-America. The machine manufacture of  
-horse shoes is American. The sand-blast,  
-of which the large capabilities are ye
+be helpless, is American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873110101:0206/pct:72.415890,33.060556,11.248480,8.272578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873110101:0206/pct:72.415890,33.060556,11.248480,1.398601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,13 +426,13 @@ of which the large capabilities are ye
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-! The cotton-gin,  
+The cotton-gin,  
 without which the machine spinner and the power-  
 loom would be helpless, is an American invention,  
 as well as the power-shuttle, which permits an anlim-  
 ited enlargement of the breadth of the web, The  
   
-- planing-machine is American. Navigation by stea
+- planing-machine is American. Navigation by steam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1874-01-10_18_889%2Fsim_harpers-magazine_1874-01-10_18_889_jp2.zip%2Fsim_harpers-magazine_1874-01-10_18_889_jp2%2Fsim_harpers-magazine_1874-01-10_18_889_0006.jp2/pct:72.702569,82.238931,19.886364,3.525480/600,/0/default.jpg"/>
 </td>
@@ -512,7 +446,7 @@ ited enlargement of the breadth of the web, The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-! The cotton-gin,  
+The cotton-gin,  
   
 | without which the machine spinner and the power-  
   
@@ -530,7 +464,7 @@ printing-press
 ited enlargement of the web.  
   
 planing-machine is  
-and the hot-ai
+and the hot-air
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-weekly_1874-01-10_18_889%2Fsim_harpers-weekly_1874-01-10_18_889_jp2.zip%2Fsim_harpers-weekly_1874-01-10_18_889_jp2%2Fsim_harpers-weekly_1874-01-10_18_889_0006.jp2/pct:72.077603,84.126181,19.646365,4.622132/600,/0/default.jpg"/>
 </td>
@@ -544,12 +478,12 @@ and the hot-ai
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-! The cotton-gin,  
+The cotton-gin,  
 without which the machine spinner and the power-  
 loom would be heipless, is an American invention,  
 as well as the power-shuttle, which permits an unlim-  
 ited enlargement of the breadth of the web. The  
-planing-machine is American. Navigation by stea
+planing-machine is American. Navigation by steam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-weekly_harpers-weekly_1874-01-10_18_889%2Fsim_harpers-weekly_harpers-weekly_1874-01-10_18_889_jp2.zip%2Fsim_harpers-weekly_harpers-weekly_1874-01-10_18_889_jp2%2Fsim_harpers-weekly_harpers-weekly_1874-01-10_18_889_0006.jp2/pct:71.423397,83.239220,19.328746,3.567762/600,/0/default.jpg"/>
 </td>
@@ -563,7 +497,7 @@ planing-machine is American. Navigation by stea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the Gorilla Country.  
+of the Gorilla Country.  
 Americaa Inventions.  
 The cotton gin, without which  
 the machine spinner and the  
@@ -580,7 +514,7 @@ ican The h..t-air engine isAm
 eric n. The sewing . machine is  
 American The machine manufac­  
 ture of wool cards is American.  
-The han
+The hand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_fireant_ver01:data:sn84021912:00211104260:1874031401:0105/pct:33.576111,69.056138,14.275310,11.856878/!600,600/0/default.jpg"/>
 </td>
@@ -596,7 +530,7 @@ The han
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i —The cotton-gin,  
+i —The cotton-gin,  
 without which the ? machine-spinner and  
 the pow6r4oom would • be helpless, is  
 American. The power-shnttle. : which  
@@ -608,7 +542,7 @@ are Ameri— jean. The rotary printing
 presses are A ni&lt;=ri&#x27; can. The hot-air  
 engine ia American. The | sewing-machine  
 is American. Tbe machine j manufacture  
-of wool-cards is American, j Th
+of wool-cards is American, j The
 </td></tr></table>
 
 ---
@@ -619,7 +553,7 @@ of wool-cards is American, j Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-«.  
+.  
 The cotton gin, without which the muchiue  
 spinner and the power loom would be help-  
 less, is American. The power shuttle, which  
@@ -630,7 +564,7 @@ steam is American. The mower and reaper
 are American. The rotary printing presses  
 are American. The hot-air engine is Amer-  
 ican. The sewing-machine is American. The  
-machin
+machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_harrier_ver01:data:sn84036143:00295861174:1874060401:0188/pct:40.961306,44.998011,16.581016,6.364360/!600,600/0/default.jpg"/>
 </td>
@@ -644,7 +578,6 @@ machin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 one of which we need not be ashamed. There  
 is hardly an industry to the progress of  
 which we have not largely contributed. The  
@@ -665,7 +598,7 @@ The whole India-rubber industry is Ameri-
 can. The band-saw originated, I believe, in  
 America. The machine-manufacture of horse-  
 shoes is American. The sand-blast, of which  
-the large capabilities are yet to b
+the large capabilities are yet to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_republic-a-monthly-magazine_1875-02_4_2%2Fsim_republic-a-monthly-magazine_1875-02_4_2_jp2.zip%2Fsim_republic-a-monthly-magazine_1875-02_4_2_jp2%2Fsim_republic-a-monthly-magazine_1875-02_4_2_0054.jp2/pct:3.700000,35.798267,38.450000,23.019802/600,/0/default.jpg"/>
 </td>
@@ -679,7 +612,7 @@ the large capabilities are yet to b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- by Americans in  
+by Americans in  
 the several departments of mechanics and ap-  
 plied science as follows: ‘‘ There is hardly an  
 industry to the progress of which we have not  
@@ -703,7 +636,7 @@ chine manufacture of horseshoes is Ameri-
   
 ean. The sand-biast is American. The  
 gauge-lathe is American. The only successful  
-composing-machine for printer
+composing-machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326%2Fsim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326_jp2.zip%2Fsim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326_jp2%2Fsim_appletons-journal-a-magazine-of-general-literature_1875-06-19_13_326_0028.jp2/pct:33.013699,8.879648,54.075342,82.852250/,600/0/default.jpg"/>
 </td>
@@ -717,7 +650,7 @@ composing-machine for printer
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of  
+of  
 American industry and inventive skill  
 in a recent lecture. He said there is  
 hardlwan industry to the progress of  
@@ -736,7 +669,7 @@ ufacture of wool cards and the entire In­
 dia rubber industry are American. The  
 machine manufacture of horseshoes, the  
 sand-blast, the gauge-lathe, the only suc­  
-cessful composing machine for printin
+cessful composing machine for printing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1875070201:0369/pct:55.231849,26.875714,9.746797,10.130760/!600,600/0/default.jpg"/>
 </td>
@@ -750,14 +683,14 @@ cessful composing machine for printin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- there is hardly, an  
+there is hardly, an  
 oiustry, to the progress ot whieb we  
 have not greatly assisted. Ho mentionedJ &#x27;  
 the cotton gin. without which the weaver L  
 and spin uer would be without occupation; j  
 the power shuttle which permits an tinlimited  
 enlnrgen ont of the width of the  
-web; the planing machine, steam nav
+web; the planing machine, steam navi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665210:1875070201:0012/pct:2.618862,66.222829,13.904910,5.007397/!600,600/0/default.jpg"/>
 </td>
@@ -771,7 +704,6 @@ web; the planing machine, steam nav
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The great American inventions, which  
 have been adopt* d ail over the werld, are  
 the following : 1. The ootton-gin, with­  
@@ -788,7 +720,7 @@ carving), 11. The gauge latre. 12.
 The grain elevator. 13. The artificial  
 &#x27; manufacture of tee on a large ssaie. 14.  
 The electro-magnet, aad its practical ap­  
-plication, by Hea
+plication, by Hear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1875082101:0714/pct:74.266936,87.219587,11.526795,7.716959/!600,600/0/default.jpg"/>
 </td>
@@ -802,7 +734,7 @@ plication, by Hea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—The great  
+The great  
 American inventions which have been adopted  
 all over the world, are the following: 1. The  
 cotton gm, without which the machine, spinner,  
@@ -817,7 +749,7 @@ of horse shoes. 10. The sand blast, for carving.
 18. The artificial manufacture of ice on a large  
 scale. 14. The electro magnet, and its practi­  
 cal application, by Henry and Morse. 15. The  
-only successful composing machine for printers
+only successful composing machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_gaia_ver02:data:sn83021205:00517171633:1875082501:0801/pct:60.997467,47.345321,10.929281,5.649158/!600,600/0/default.jpg"/>
 </td>
@@ -841,7 +773,6 @@ only successful composing machine for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The great American inventions which have  
 been adopted all over the world are the fol­  
 lowing : 1. The cotton gin, without which  
@@ -858,7 +789,7 @@ artificial manufacture of ice on a large scale.
 14. The electro-magnet, and its practical ap­  
 plication, by Henry and Morse. 15. The only  
 successtul composing machine for printers.  
-N
+No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_jigglypuff_ver01:data:sn86079018:0029587434A:1875083101:0429/pct:34.599853,86.739691,14.537445,8.427835/!600,600/0/default.jpg"/>
 </td>
@@ -872,7 +803,6 @@ N
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The great American inventions, which  
 have been adopted all over tlie world, are  
 the following: 1. The cotton-gin, without  
@@ -890,7 +820,7 @@ vator. 13. The artificial manufacture of
 ice on a large scale. 14. The electro-mag­  
 net and its practical application, by Hen­  
 ry and Morse. 15. The only successful  
-composing-machine for printers
+composing-machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215543:1875090301:0423/pct:81.556119,72.042384,12.251435,8.194809/!600,600/0/default.jpg"/>
 </td>
@@ -904,7 +834,6 @@ composing-machine for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The great American inventions; which  
 have been adopted all over the world, are  
 the following : 1. The cotton-gin, without  
@@ -922,7 +851,7 @@ vator. 13. The artificial manufacture of
 ice on a large scale. 14. The electro-mag.  
 net and its practical application, by Hen­  
 ry and Morse. 15. The Only successful  
-composing-machine for printers
+composing-machine for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1875090401:0071/pct:38.543140,50.315980,10.926450,7.794162/!600,600/0/default.jpg"/>
 </td>
@@ -936,7 +865,6 @@ composing-machine for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 The great American inventions, which  
 have been adopted all over the world, are  
 the following: 1. The cotton-gin, without  
@@ -954,7 +882,8 @@ vator. 13. The artificial manufacture of
 ice on a large scale. 14. Theelectro-magnet  
 and its practical application, by Hen­  
 ry and Morse. 15. The only successful  
-composing-machine for printers.
+composing-machine for printers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1875090401:0255/pct:54.436384,78.698948,9.542411,7.092199/!600,600/0/default.jpg"/>
 </td>
@@ -978,7 +907,6 @@ composing-machine for printers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 tIONS AbrOAD.  
 The great American inventions, which hav  
 been adopted alljover the world, are thus  
@@ -993,7 +921,7 @@ facture of horse shoes, 19. The sand blast (for
 carving.) 11. The gauge lath. 12. The grain  
 elevator. 12. The artificial manufacture of ice  
 a large scale. 14. The electro magnet, and  
-practical application, by Henry and Morse
+practical application, by Henry and Morse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_jinx_ver01:data:sn84020594:00271741698:1875091301:0911/pct:17.915861,24.598540,12.572534,6.605839/!600,600/0/default.jpg"/>
 </td>
@@ -1007,7 +935,7 @@ practical application, by Henry and Morse
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The cot-  
+The cot-  
 ton-gin, without which the machine-spin-  
 ner and the power-loom would be helpless,  
 is American. The power-shuttle, which  
@@ -1025,7 +953,7 @@ originated, I believe,, in America. The ma
 chine manufacture of horse-shoes is Amer  
 ican. The cand-blast is American. The  
 gauge-lathe is American. The only suc­  
-cessful composing machine for printer
+cessful composing machine for printers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875091701:0383/pct:51.910735,66.975381,10.910152,9.871043/!600,600/0/default.jpg"/>
 </td>
@@ -1049,7 +977,7 @@ cessful composing machine for printer
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The principal American in­  
+The principal American in­  
 ventions which have been adopted all over  
 the world are the following:  
 1. The cotton gin, without which the ma­  
@@ -1070,12 +998,9 @@ shoes.
 13. The artificial manufacture of ice on a  
 large scale.  
 14 The electro magnet, and its practical  
-application, by Henry and Morse.  
-for printers. — Galveston News. machine |  
-Jacob Ott,  
-OA RPENTER.
+application, by Henry and Morse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_jigglypuff_ver01:data:sn86079018:0029587434A:1875092301:0589/pct:53.428882,64.047988,14.531930,13.067595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_jigglypuff_ver01:data:sn86079018:0029587434A:1875092301:0589/pct:53.428882,64.047988,14.296081,10.552116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1012,7 @@ OA RPENTER.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and elevates  
+and elevates  
 our opponents.  
   
 American InventIons Abroad.  
@@ -1130,7 +1055,7 @@ city he visited. Taxation has been re
 duced one third, and the State debt hase  
 been considerably diminished.  
 Nos Fork Tines. It was an acci  
-dental di covery by Goodyear, t
+dental di covery by Goodyear, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665210:1875092801:0311/pct:14.322081,36.602701,12.845578,21.131186/!600,600/0/default.jpg"/>
 </td>
@@ -1144,7 +1069,6 @@ dental di covery by Goodyear, t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The great American inventions, which  
 ha e been adopted all over the world, are  
 . the following : 1. The cotton gin, without  
@@ -1162,7 +1086,7 @@ artificial manufacture of ice on a large
 scale. 14. The electro-magnet, and its  
 practical apfl icatton, by Henry and Morse.  
 13. The oidy successful comosing machine  
-for printers
+for printers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1875100701:0169/pct:5.345144,58.046534,9.957239,8.943286/!600,600/0/default.jpg"/>
 </td>
@@ -1176,7 +1100,7 @@ for printers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- no more credit.  
+no more credit.  
 LOUISIANA  
 The prosperity of Louisiana is rapidly  
 on the increase. The State has not for  
@@ -1196,7 +1120,7 @@ duced one-third, and the State debt has
 boerr considerably diminished.  
 THE PAIS.  
 The leading citizens of Leaeu worth  
-have resolved to hold a fair on th
+have resolved to hold a fair on the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1875100701:0169/pct:5.604765,76.114881,9.712889,11.209404/!600,600/0/default.jpg"/>
 </td>
@@ -1210,6 +1134,8 @@ have resolved to hold a fair on th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+  
+  
   
 The great American inventions, which have  
 been adopted all over the world, are the follow-  
@@ -1226,7 +1152,8 @@ lathe. 12, The grain elevator. 13. The artifi-
 cial manufacture of ice ona large scale. 14,  
 The electro-magnet, and its practical applica-  
 tion, by Henry and Morse. 15. The only suc-  
-cessful composing machine for printers.
+cessful composing machine for printers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_chiltons-iron-age_1875-10-07_16_15%2Fsim_chiltons-iron-age_1875-10-07_16_15_jp2.zip%2Fsim_chiltons-iron-age_1875-10-07_16_15_jp2%2Fsim_chiltons-iron-age_1875-10-07_16_15_0004.jp2/pct:72.556685,82.470011,16.399531,9.923664/600,/0/default.jpg"/>
 </td>
@@ -1240,7 +1167,7 @@ cessful composing machine for printers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-duction.—Cornhill Magazine.  
+uction.—Cornhill Magazine.  
   
   
   
@@ -1304,7 +1231,8 @@ with @
   
 Tus entire amount needed by the N.Y  
 Fire Department for the year 1876 is est  
-mated at $1,306,785.
+mated at $1,306,785.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_school-journal_1875-10-09_6_234%2Fsim_school-journal_1875-10-09_6_234_jp2.zip%2Fsim_school-journal_1875-10-09_6_234_jp2%2Fsim_school-journal_1875-10-09_6_234_0005.jp2/pct:77.292111,28.978130,22.707889,23.567119/,600/0/default.jpg"/>
 </td>
@@ -1318,7 +1246,6 @@ mated at $1,306,785.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 great many years.  
 American Inventions Abboad. Among the  
 great American inventions, which have been  
@@ -1336,7 +1263,7 @@ ing). 11. The gauge lathe. 13. The grain
 elevator. 13. The artificial manufacture of  
 ice on a large scale. 14. The electro-magnet,  
 and its practical application, by Henry and  
-Morse
+Morse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872199%2F1875102201%2F0608.jp2/pct:59.787968,81.658420,16.888560,9.315816/!600,600/0/default.jpg"/>
 </td>
@@ -1370,7 +1297,8 @@ a large scale. 14.—The electro-mag­
 net, and its practical application, by  
 Henry and Morse. 15.—The only  
 successful composing machine for  
-printers.
+printers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn84022135:00295869483:1875102201:0215/pct:56.045082,67.593361,18.015710,17.500000/!600,600/0/default.jpg"/>
 </td>
@@ -1384,7 +1312,7 @@ printers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-duction.—Comhill Magazine.  
+uction.—Comhill Magazine.  
 AMERICAN INVENTIONS ABROAD.  
 The great American inventions, which  
 have been adopted all over the world, are  
@@ -1407,7 +1335,8 @@ for printers.
   
 Thb entire amount needed by the N. T.  
 Fire Department for the year 1876 ia esti­  
-mated at $&gt;1,30(5,785.
+mated at $&gt;1,30(5,785.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174373:1875102901:0723/pct:35.653726,57.568319,14.390897,17.362134/!600,600/0/default.jpg"/>
 </td>
@@ -1421,9 +1350,10 @@ mated at $&gt;1,30(5,785.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Thegreat American can inventions, which  
+Thegreat American can inventions, which  
 have been adopted all over the world,are  
-the following:
+the following:  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_atlanta-constitution_1875-11-04_8_122%2Fper_atlanta-constitution_1875-11-04_8_122_jp2.zip%2Fper_atlanta-constitution_1875-11-04_8_122_jp2%2Fper_atlanta-constitution_1875-11-04_8_122_0001.jp2/pct:58.222281,87.001356,9.688166,1.394268/600,/0/default.jpg"/>
 </td>
@@ -1437,7 +1367,7 @@ the following:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-? The cotton  
+The cotton  
 gin, without which the machine spiuger  
 and the power loom would be helpless,  
 is T[lfl prtMTar  
@@ -1455,7 +1385,7 @@ Thesand blast, of which- the large capa­
 bilities are yet to be developed, is Amer­  
 ican. The gpage lathe is American.  
 -The only successful composing machine  
-Itfor priutera i
+Itfor priutera is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1875111301:0595/pct:29.341903,79.255476,13.916445,11.786661/!600,600/0/default.jpg"/>
 </td>
@@ -1469,7 +1399,7 @@ Itfor priutera i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and Lead Casting.  
+and Lead Casting.  
   
 Anerican InventIons AsrOad. Among the great  
   
@@ -1491,7 +1421,7 @@ the signs practical application by Hen ry and Morse.
   
 a e  eo  
   
-The Fo
+The For
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:00211108861:1875111701:0357/pct:11.563401,79.816896,28.872478,10.833680/!600,600/0/default.jpg"/>
 </td>
@@ -1505,7 +1435,7 @@ The Fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the hall.  
+the hall.  
   
   
   
@@ -1538,7 +1468,8 @@ pS —
   
 Tue entire amount needed by the N. Y.  
 Fire Department for the year 1876 is esti-  
-mated at $1,306,785.
+mated at $1,306,785.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47%2Fsim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47_jp2.zip%2Fsim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47_jp2%2Fsim_albion-a-journal-of-news-politics-and-literature_1875-11-20_53_47_0005.jp2/pct:75.311791,62.667162,20.039683,20.635215/,600/0/default.jpg"/>
 </td>
@@ -1552,7 +1483,7 @@ mated at $1,306,785.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the house.  
+the house.  
 • —mm- •   
 American Invention Abroad,  
 The great American inventions  
@@ -1577,7 +1508,8 @@ net and its practical application, by
 Henry and Morse. 15. The only  
 successful composing machine for  
 printers.  
-t 
+t   
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769283:1875112501:0586/pct:60.752854,23.333333,17.216908,22.915361/!600,600/0/default.jpg"/>
 </td>
@@ -1591,7 +1523,6 @@ t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The great American inventions, whk-h  
 have been adopted all over the world,  
 are the following: 1. The cotton gin  
@@ -1605,7 +1536,8 @@ sewing machlu?. 8. The India-rubber
 industry. 9. The machine manufacture  
 cation by Henry and Morse. 15. The  
 only successful composing machine for  
-printers,
+printers,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1875120101:0443/pct:72.224162,87.978437,10.911313,8.382749/!600,600/0/default.jpg"/>
 </td>
@@ -1619,7 +1551,7 @@ printers,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;liegreat American inventions, wliieh  
+liegreat American inventions, wliieh  
 have IMI-II adopted all over the world,  
 are tlie following: 1. The cotton gin,  
 without which I in- machine -pinner and  
@@ -1637,7 +1569,8 @@ ufacture of ice on a large scale. 14 The
 electro-magnet and its practical appli­  
 cation by llenry and Morse. 15. The  
 only successful composing maMiiuc for  
-printer*.
+printer*.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875120901:0339/pct:17.184858,88.345012,9.626642,7.636026/!600,600/0/default.jpg"/>
 </td>
@@ -1651,7 +1584,6 @@ printer*.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The great American inventions which  
 have been adopted all over the world  
 are tne following : 1, The cotton gin,  
@@ -1682,7 +1614,8 @@ annllrtqtiAn I, r H.nrv nnil fnroj in
   
 l 11.. 1&#x27; . I ttl&#x27;FUl-.&quot;&quot;, 1 &quot; J s.. .w.  
   
-inecouinon party at tue rronuer The only successful composing machine
+inecouinon party at tue rronuer The only successful composing machine  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1875121301:0190/pct:25.286205,69.944383,22.238122,9.899889/!600,600/0/default.jpg"/>
 </td>
@@ -1696,8 +1629,6 @@ inecouinon party at tue rronuer The only successful composing machine
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 AMERICAN INVENTIONS ABROAD.—  
 The great American inveations, which  
 have been adopted all over the world,  
@@ -1718,7 +1649,8 @@ ficial manufacture of iceon a large scale.
 cal s};plicntion, by Henry and Slurse.  
 15. The only successful composing  
 machine for printers.  
-00—
+00—  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_cavebear_ver04:data:sn83021113:00513689354:1875123101:0480/pct:64.564245,65.741595,9.855103,9.298231/!600,600/0/default.jpg"/>
 </td>
@@ -1732,7 +1664,7 @@ machine for printers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+iskers.  
 The great American inventions which have  
 been adopted all over the world are the fol­  
 lowing: 1. The cotton-gin, without which  
@@ -1749,9 +1681,10 @@ blast (for carving.) 11. The gauge lathe.
 manufacture of ice on a large scale. 14.  
 The electro magnet, and its practical appli­  
 cation by Henry and Morse. 15. The only  
-successful composing machine for printers,
+successful composing machine for printers,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876011301:0219/pct:83.439288,88.756219,11.109345,8.855721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876011301:0219/pct:83.439288,88.047264,11.109345,9.564677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1763,7 +1696,7 @@ successful composing machine for printers,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Inventions.  
 The great American inventions, which  
 have been adopted all over the world, are  
 the following:  
@@ -1787,9 +1720,9 @@ large scale.
 14 &#x27;lhe electro magnet, and its practical  
 application, by Henry and Morse.  
 15. The only successful composiug  
-machine for prihters
+machine for prihters.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879889:1876012001:0063/pct:18.393300,33.063855,12.081266,11.868776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879889:1876012001:0063/pct:18.393300,32.560047,12.081266,12.372583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1801,6 +1734,7 @@ machine for prihters
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
+ee +  
   
 The great American inventions, which  
 have been adopted ail over the worid, are the  
@@ -1817,9 +1751,10 @@ horseshoes. 10. The sand blast (for carving
 13. The artificial manufacture of ice on a  
 large scale. 14. The electro-magnet, and its  
 practical application, by Henry and Morse.  
-15. The only successful composing machine
+15. The only successful composing machine  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_school-journal_1876-02-19_8_244%2Fsim_school-journal_1876-02-19_8_244_jp2.zip%2Fsim_school-journal_1876-02-19_8_244_jp2%2Fsim_school-journal_1876-02-19_8_244_0000.jp2/pct:70.314136,76.134644,20.837696,14.353253/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_school-journal_1876-02-19_8_244%2Fsim_school-journal_1876-02-19_8_244_jp2.zip%2Fsim_school-journal_1876-02-19_8_244_jp2%2Fsim_school-journal_1876-02-19_8_244_0000.jp2/pct:70.314136,75.491679,20.837696,14.996218/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1766,7 @@ practical application, by Henry and Morse.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2: The planing machine.  
+2: The planing machine.  
 3. The grass mower and grain reaper.  
 4. The rotary printing press. 5. Navigation  
 by steam. 6. Hot air or caloric engine. 7.  
@@ -1842,7 +1777,7 @@ horse shoes. 10. The sand blast for carving.
 13 Artificial ice manufacture on a large  
   
 scale. 14. The electro-magnet and its practical  
-application. 14. Th
+application. 14. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861903:1879100201:0338/pct:3.101381,47.747829,15.063852,5.752533/!600,600/0/default.jpg"/>
 </td>
@@ -1856,14 +1791,14 @@ application. 14. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2 The  
+2 The  
 Planing machine. 3. The grass mower and reaper. a  
 The rotary printing press. 5. Navigation by steam. G  
 The hot air engine. 7 The sewing machine. STh  
 India rubber industry. 9. The machine manutacture of  
 horseshoes. 10. The sand blast for carving. 11, The  
 gauge lathe. 12. The grain elevator. 13. Artificial ice  
-makin
+making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880041301:0212/pct:85.047468,30.310298,12.230082,3.327837/!600,600/0/default.jpg"/>
 </td>
@@ -1877,7 +1812,7 @@ makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2. The planing machine. 3.  
+2. The planing machine. 3.  
 The grata mower and reaper. 4 . The  
 rotary printing press. 6. Navigation by  
 steam. 6. The hot air engine. 7. The  
@@ -1885,7 +1820,7 @@ sewing machine. 8. The India rubber
 industry. 9. Ths machine for the man­  
 ufacture of horseshoes. Id. The sand  
 blast for carving. 11. The gauge lathe.  
-12. Th grain elevator. 13. Artifici
+12. Th grain elevator. 13. Artificia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm7_ver01%2Fdata%2F1880041601%2F0362.jp2/pct:9.924769,66.747109,14.597801,6.063348/!600,600/0/default.jpg"/>
 </td>
@@ -1899,7 +1834,6 @@ blast for carving. 11. The gauge lathe.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 3. The planing machine. 3. The grass i  
 and reaper. 4. The rotary printing press. H.  
 Navigation by steam. 6. The hot air engine.  
@@ -1907,7 +1841,7 @@ Navigation by steam. 6. The hot air engine.
 e   
 horse shoes. 10, The sand blast for carving.  
 . The gauge lathe. 12. The grain elevate  
-13. Artificial ice makin
+13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475348:1880041901:0204/pct:34.235905,36.821503,14.447329,5.245303/!600,600/0/default.jpg"/>
 </td>
@@ -1921,7 +1855,7 @@ horse shoes. 10, The sand blast for carving.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2. The planing machine. 3. The  
+2. The planing machine. 3. The  
 grass mower and reaper. 4. The rotary  
 printing press. 5. Navigation by steam.  
 6. The hot air engine. 7. The sewing  
@@ -1929,7 +1863,7 @@ machine. 8. The India rubber industry.
 9. The machine manufacture of horse­  
 shoes. 10. The sand blast for carving.  
 11. The gauge lathe. 12. The grain  
-elevator. 13. Artificial ice makin
+elevator. 13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763840:1880042101:0082/pct:62.382353,28.995488,11.000000,4.808834/!600,600/0/default.jpg"/>
 </td>
@@ -1943,7 +1877,7 @@ elevator. 13. Artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2. The planing  
+2. The planing  
 machine. 3. The grass mower and  
 reaper. 4. The rotary printing press.  
 5. Navigation by steam. 6. The hot  
@@ -1952,7 +1886,7 @@ air engine. 7. The sewing machine
 The machine manufacture of horse­  
 shoes. 10. The sand blast for carving.  
 11. The gauge lathe. 12. The grain  
-elevator. 13. Artificial ice makin
+elevator. 13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elk_ver01:data:sn93061632:0029602482A:1880042301:0405/pct:52.227074,66.734331,13.135371,6.533875/!600,600/0/default.jpg"/>
 </td>
@@ -1966,7 +1900,7 @@ elevator. 13. Artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2. The planing machine.  
+2. The planing machine.  
 3. The grass mower and reaper. 4. The  
 rotary printing press. 5. Navigation by  
 steam, b. Ihe hot air engine. .7. ihe  
@@ -1974,7 +1908,7 @@ sewing machine. 8. The India rubber
 industry. 9. The machine manufacture I  
 of horseshoes. 10. The&#x27; sand blast for  
 carving. 11. The gauge lathe. ,12. The  
-grain elevator. 13. Artificial ice makin
+grain elevator. 13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1880050101:0523/pct:65.595568,33.842149,9.667590,3.680038/!600,600/0/default.jpg"/>
 </td>
@@ -1988,7 +1922,7 @@ grain elevator. 13. Artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2. The planing machine.  
+2. The planing machine.  
 3. The grass mower and reaper. 4. The  
 I rotary printing Dress. 5. Navigation by  
 ^ steam. 6. The hot air engine. 7. The  
@@ -1996,7 +1930,7 @@ I rotary printing Dress. 5. Navigation by
 1 industry. 9. The machine manufacture  
 of horseshoes. 10. The sand blast for  
 I carving. 11. The gauge lathe. 12. The  
-r grain elevator. 13. Artificial ice mak
+r grain elevator. 13. Artificial ice mak1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287253:1880050501:0329/pct:44.875278,15.314725,10.879229,4.552267/!600,600/0/default.jpg"/>
 </td>
@@ -2010,7 +1944,7 @@ r grain elevator. 13. Artificial ice mak
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, gjn. The planing ; machine.  
+gjn. The planing ; machine.  
 J3; The grass movyjer and reaper. 4. the  
 rotary-printing press. - o. .Navigation by  
 steam. 6. The hot air engine. 7. The  
@@ -2018,7 +1952,7 @@ sewing machine. 8. The India rubber
 industry. 9. The jnaehraejrranufacture  
 of horseshoeS.ailOi &#x27;The sand blast for  
 earring. 1 1. -The gauge lathe. 12. The  
-grain elevator J 13 Artificial ice makin
+grain elevator J 13 Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1880051301:0159/pct:24.103448,84.763682,13.810345,4.726368/!600,600/0/default.jpg"/>
 </td>
@@ -2032,7 +1966,7 @@ grain elevator J 13 Artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2. The planing machine.  
+2. The planing machine.  
 3. The grass mower and reaper. 4. The  
 rotary printing press. 5. Navigation by  
 steam. 6. The hot air engine. 7 The  
@@ -2040,7 +1974,7 @@ sewing machine. 8. The India rubber
 industry. 9. The machine manufacture  
 of horseshoes. 10. The sand blast for  
 carv ing. 11. The gauge lathe. 12. The  
-grain elevator 1 . 13. Artificial ice makin
+grain elevator 1 . 13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:0029587403A:1880052001:0090/pct:22.661164,85.182733,14.386792,4.846398/!600,600/0/default.jpg"/>
 </td>
@@ -2064,14 +1998,14 @@ grain elevator 1 . 13. Artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; 2. The planing-  
+2. The planing-  
 machine ; 3. The grass mower and reaper ; 4.  
 The rotary printing press; 5. Navigation by  
 steam ; 6. The hot-air engine ; 7. Tlie sewing-  
 machine ; 8. The India rubber industry ; 9. The  
 machine manufacture of horseshoes ; 10. The  
 sand-blast for carving; . 11. The gauge lathe;  
-12. The grain elevator ; 13. Artificial ice-ma
+12. The grain elevator ; 13. Artificial ice-mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1881-01-27_52_4%2Fsim_evangelist-and-religious-review_1881-01-27_52_4_jp2.zip%2Fsim_evangelist-and-religious-review_1881-01-27_52_4_jp2%2Fsim_evangelist-and-religious-review_1881-01-27_52_4_0006.jp2/pct:22.434060,33.565609,13.259748,3.537736/600,/0/default.jpg"/>
 </td>
@@ -2085,8 +2019,6 @@ sand-blast for carving; . 11. The gauge lathe;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 z. ihe planing machine. ;  
   
 3. The grass mower and reaper. .  
@@ -2105,7 +2037,7 @@ The gram elevator, v
 Artificial ice making on a large  
   
 Nature&#x27;s Way Ev;Cji! , .  
-Brother Gardner stated that h
+Brother Gardner stated that he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1881042101:0300/pct:59.350000,41.596255,35.983333,48.652660/!600,600/0/default.jpg"/>
 </td>
@@ -2119,7 +2051,7 @@ Brother Gardner stated that h
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. S. The planing machine. 3.  
+S. The planing machine. 3.  
 he grass mower and - reaper; 47 The  
 rotary printing press. &#x27;. 6. Navigation by  
 steam. 6. The hot-air engine. ; 7. -Tbe  
@@ -2127,7 +2059,7 @@ sewing maobine. 8. The, india rubber
 industry. 9. Tbe machine manufacture  
 of horseshoes. &#x27; 10. Tbe sand blast for :  
 carving. 11. The gauge lathe. 12. The  
-grain elevator. 13. Artificial ice makin
+grain elevator. 13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027406:1881042601:0457/pct:85.141093,76.050016,11.390359,4.210751/!600,600/0/default.jpg"/>
 </td>
@@ -2141,7 +2073,7 @@ grain elevator. 13. Artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 27 The planing machine.  
+27 The planing machine.  
 3. The grass mower and reaper. 4. The  
 rotary printing press. 5. Navigation by  
 steam. 6.The hot-air engine. 7. The  
@@ -2149,7 +2081,7 @@ sewing machine. . 8. The india rubber
 industry. 9. The machine manufacture  
 of horseshoes. 10. The sand blast for  
 carving. 11. The gauge lathe. 12. The  
-grain elevator. 13. Artificial ice makin
+grain elevator. 13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NBWeekJ17n_ver01%2Fdata%2F1881051901%2F0080.jp2/pct:19.514536,81.896899,12.547998,5.436971/!600,600/0/default.jpg"/>
 </td>
@@ -2163,7 +2095,7 @@ grain elevator. 13. Artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2. The planing machine.  
+2. The planing machine.  
 3. The grass mower and reaper. 4. The  
 rotary printing press. 5. Navigation by  
 steam. 6.The hot-air engine. 7. The  
@@ -2171,7 +2103,7 @@ sewing machine. 8. The india rubber
 industry. 9. The machine manufacture  
 of horseshoes. 10. The sand blast for  
 carving. 11. The gauge lathe. 12. The  
-grain elevator. 13. Artificial ice makin
+grain elevator. 13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PiCR13_ver01%2Fdata%2F1881052601%2F0274.jp2/pct:45.304017,86.757546,12.201412,5.199611/!600,600/0/default.jpg"/>
 </td>
@@ -2185,7 +2117,6 @@ grain elevator. 13. Artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 2. The planing machine. 3. The grass mower  
 and reaper. 3. The rotary printing press 5  
 Navigation by steam. 6. The hot air engine.  
@@ -2195,7 +2126,7 @@ industry. 9. The machine manufacture of
   
 horse shoes 10. The sand blast for carving.  
 I1 The gauge lathe. 12. The grain elevator.  
-13. Artifiaal ice-makin
+13. Artifiaal ice-making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294713:1881060201:0651/pct:37.751882,32.291825,14.906531,3.898074/!600,600/0/default.jpg"/>
 </td>
@@ -2219,8 +2150,6 @@ I1 The gauge lathe. 12. The grain elevator.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e  
-  
 Our Great Inventions.  
 The fifteen great American inven­  
 tions of world-wide adoption are :  
@@ -2241,7 +2170,8 @@ horse-shoes.
 scale.  
 14. The electric magnet and its prac­  
 tica.l aplication.  
-15 The telephone.
+15 The telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212474927:1881061101:0531/pct:55.965147,15.229885,12.768097,13.026820/!600,600/0/default.jpg"/>
 </td>
@@ -2255,7 +2185,7 @@ tica.l aplication.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 2. The planing  
+2. The planing  
 machine. 3. The grass mower  
 and reaper. 4. The rotary print-1  
 ing press. 5. Navigation by steam.  
@@ -2265,7 +2195,7 @@ rubber industry. 9. The machine ~
 manufacture of horsesboes. 10.  
 The sand blast for carving. 11­  
 The gauge lathe. 12. The grain b  
-elevator. 13. Artificial ice ma
+elevator. 13. Artificial ice mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:0023728706A:1881061501:0303/pct:74.281132,85.393534,12.212166,7.274657/!600,600/0/default.jpg"/>
 </td>
@@ -2289,7 +2219,6 @@ elevator. 13. Artificial ice ma
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Oku* Great Inventions.  
 The fifteen great American in­  
 ventions of world-wide adoption  
@@ -2311,7 +2240,8 @@ horse-shoes.
 large scale.  
 14. The electric magnet and its  
 practical application.  
-X5, The Telephone^
+X5, The Telephone^  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CCNNewton18_ver01%2Fdata%2FCCNNewton_1881-07-16_1%2F0004.jp2/pct:46.651323,80.723514,11.829689,14.160207/!600,600/0/default.jpg"/>
 </td>
@@ -2325,8 +2255,6 @@ X5, The Telephone^
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Oub Great Inventions. The fifteen great  
 American Inventions of world wile adoption  
 are  
@@ -2344,7 +2272,8 @@ II, The gange lathe.
 12, The grain elevator.  
 13, Artificial Ice-making on a large scale,  
 14, The electric magnet and Its practical ap­  
-plication.15, The telephone.
+plication.15, The telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1881082501:0926/pct:76.623932,64.541314,13.461538,8.405986/!600,600/0/default.jpg"/>
 </td>
@@ -2358,7 +2287,7 @@ plication.15, The telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in the world, an  
+in the world, an  
 observatory and an ample endowment  
 of the chair of astronomy, the whole  
 valued at $120,000.  
@@ -2376,7 +2305,7 @@ guage lathe. 12. The grain clevator.
 13. Artificial ice making on a large  
 scale, 14. The electric magnet and  
 its practical application. 15. The com­  
-posin
+posing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881090701:0988/pct:75.625876,37.559567,10.114160,9.054152/!600,600/0/default.jpg"/>
 </td>
@@ -2410,7 +2339,6 @@ posin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 American  
   
 Ide&amp;a.  
@@ -2439,7 +2367,7 @@ horse shoes.
 larg.) scale.  
 14. The electric magnet and  
 practical application.  
-13. The telephone
+13. The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1881111601:0569/pct:39.602228,35.877770,11.376293,17.494522/!600,600/0/default.jpg"/>
 </td>
@@ -2453,8 +2381,6 @@ practical application.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The seventeen American inventions of  
 world wide adoption are—  
 1. The cotton gin.  
@@ -2477,7 +2403,7 @@ cal application.
 16. Olemarg&amp;rine.  
 17. Lard cheese.  
   
-A Chicago special t
+A Chicago special to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876487:1882010501:0384/pct:53.816863,71.102234,12.366274,13.206841/!600,600/0/default.jpg"/>
 </td>
@@ -2491,7 +2417,7 @@ A Chicago special t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The fifteen great  
+The fifteen great  
 American inventions of world-wide adoption are  
 1. The cotton gin.  
 2. Tbe planiug machine.  
@@ -2507,7 +2433,7 @@ II. The gange lathe.
 li The grain elevator.  
 13. Artificial ice-making on a large scale.  
 11. The electric magnet and iU practical ap­  
-plication.Ij. The telephone
+plication.Ij. The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1882101201:0561/pct:26.590745,88.142721,10.900217,6.267806/!600,600/0/default.jpg"/>
 </td>
@@ -2521,7 +2447,6 @@ plication.Ij. The telephone
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 mower. 4. The rotary printing pres  
 5. Navigation by steam. 6, The  
 hot-air engine. 7. The sewing machine.  
@@ -2529,7 +2454,7 @@ hot-air engine. 7. The sewing machine.
 machine manufacture of ho se-shoes.  
 10. The sand blast forcarving. 11, The  
 gauge lathe. 12. The grain elevator.  
-13. Artificial ice makin
+13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1882-11-08_31_45%2Fper_the-pacific_the-pacific_1882-11-08_31_45_jp2.zip%2Fper_the-pacific_the-pacific_1882-11-08_31_45_jp2%2Fper_the-pacific_the-pacific_1882-11-08_31_45_0005.jp2/pct:50.425971,41.607001,12.346715,4.460024/600,/0/default.jpg"/>
 </td>
@@ -2543,8 +2468,6 @@ gauge lathe. 12. The grain elevator.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 TuE fifteen great American inventions of world-  
 wide adoption are: 1. The cotton-gin. 2. The  
 planing-machine. 3. The grass-mower and reaper.  
@@ -2556,6 +2479,7 @@ sand blast for carving. 11. The gauge-lathe. 12.
 The grain elevator. 13. Artificial ice making on a  
 large scale. 14. The electro-magnet and its prac-  
 tical application. 15. The telephone.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_school-journal_1884-08-16_28_5%2Fsim_school-journal_1884-08-16_28_5_jp2.zip%2Fsim_school-journal_1884-08-16_28_5_jp2%2Fsim_school-journal_1884-08-16_28_5_0003.jp2/pct:65.758048,74.461538,27.829699,10.980769/600,/0/default.jpg"/>
@@ -2570,7 +2494,6 @@ tical application. 15. The telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The fifteeu great American inventions  
 of world-wide adoption are:  
 1. The cotton gin.  
@@ -2591,7 +2514,7 @@ scale.
 14. The electric magnet aud its practi?  
 cal application.  
 15. The telephone.  
-? 
+? A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551128:1885042301:0100/pct:50.668873,59.672387,11.970763,10.657176/!600,600/0/default.jpg"/>
 </td>
@@ -2605,7 +2528,6 @@ cal application.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 2. The pinning machine.  
 3. The grass mower and reaper.  
 4. Tho rotary printing press.  
@@ -2623,7 +2545,7 @@ icale.
 14. The electric magnet aud its practi­  
 lal application.  
 15. The telephone.  
-- 
+- A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1885042302:0596/pct:51.872340,61.384395,11.801418,8.946847/!600,600/0/default.jpg"/>
 </td>
@@ -2637,7 +2559,7 @@ lal application.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;The fifteen great American inven  
+The fifteen great American inven  
 Hons of word wide adoption are: 1  
 The cotton-gin. &quot; 2 Tbe planing ma  
 chine. 3. Tue grass mower and reaper.  
@@ -2650,7 +2572,8 @@ blast for carving. 11. The gauge lathe
 II. Tbe grain elevator.. 13 Artificial  
 ice making on a large scale. 14 The  
 electric msgnet and its practical appli­  
-cation 15 The telephone. &#x27;
+cation 15 The telephone. &#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1886041301:0397/pct:60.776869,82.135922,10.674650,6.612729/!600,600/0/default.jpg"/>
 </td>
@@ -2664,7 +2587,7 @@ cation 15 The telephone. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ante.  
+nte.  
 The fifteen great American in  
 ventions of world-wide adoption  
 are : 1 . The cotton gin. 2. The  
@@ -2681,7 +2604,8 @@ carving. 11. The gauge lathe.
 Artificial ice-making on a large  
 scale. 14. Tbe electric magnet  
 and itsprac-ical application. 15.  
-The telephone.
+The telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WBSmith1n_ver01%2Fdata%2F1886081801%2F0199.jp2/pct:62.298267,67.441602,13.702929,15.528365/!600,600/0/default.jpg"/>
 </td>
@@ -2695,7 +2619,7 @@ The telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-funded.  
+unded.  
 The fifteen great American inventions of  
 wide world adoption are: 1, The cotton gin; 2,  
 planing-maehine; 3, the grass mower and reap­  
@@ -2707,7 +2631,7 @@ blast forcarving; 11, the gauge lathe; 12, the
 grain elevator; IS. artificial ice making on a  
 large scale; 11. the electric magnet and its prac­  
 tical application; 15, the telephone.  
-A Jackson. Mich., man owns the hi
+A Jackson. Mich., man owns the hig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181958:1887072601:0728/pct:71.147541,27.849150,12.568306,5.511811/!600,600/0/default.jpg"/>
 </td>
@@ -2721,11 +2645,9 @@ A Jackson. Mich., man owns the hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The fifteen great American inven­  
 tions of wide-world adoption are: 1,  
-The cotton gin; 
+The cotton gin; 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1887080401:0523/pct:32.428646,83.745761,11.258974,1.695767/!600,600/0/default.jpg"/>
 </td>
@@ -2739,7 +2661,7 @@ The cotton gin;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-2 planing machine  
+planing machine  
 3, the grass mower and reaper ; 4 the  
 Fatary orinting press: 5 mnavigation  
 by steam ; 6, the hot air engine; &amp;,  
@@ -2750,7 +2672,8 @@ sandblast for carving; 11, the guage
 lathe ; 12, the grain elevator; 13, ar­  
 tiicial ice making on a large scale:  
 14, the electric magnet and its prac­  
-tical apylicaiion ; 45, the telephana.
+tical apylicaiion ; 45, the telephana.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1887080401:0523/pct:32.358606,85.001884,11.346524,7.260394/!600,600/0/default.jpg"/>
 </td>
@@ -2764,7 +2687,7 @@ tical apylicaiion ; 45, the telephana.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-his place.”  
+is place.”  
 The fifteen great American in­  
 ventions of wide-world adoption  
 are: 1, The cotton gin; 2, planing ma­  
@@ -2780,6 +2703,7 @@ vator; 13, artificial ico making on v.
 large scale; 14, the electric magnet  
 and its practical application; 15, the!  
 telephone.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn88051124:00516990776:1887080501:0122/pct:20.172719,83.922729,14.083260,11.294594/!600,600/0/default.jpg"/>
@@ -2794,7 +2718,7 @@ telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- He  
+He  
 was a Mason, and a member of the North­  
 ern Mutual Relief and Manchester Com­  
 mandery U. O. G. C.  
@@ -2811,7 +2735,7 @@ blast for carving ; 11, the gauge lathe ;
 ‘making on a large scale ; 14, the electric  
 ‘magnet and its practical applieation ; 15,  
 the telephone. 4  
-e
+e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868739:1887081101:0248/pct:31.807229,44.089636,12.590361,8.669468/!600,600/0/default.jpg"/>
 </td>
@@ -2835,7 +2759,7 @@ e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-York.  
+ork.  
 The fifteen great American inven­  
 tions of world-wide adoption are: 1,  
 The cotton gin; 2, planing niacliine;  
@@ -2850,7 +2774,8 @@ lathe; 12, the grain elevator; 13, ar­
 tificial manufacture of ice on a largo  
 scale; 14, the electric magnet and  
 its practical application; 15, the tel­  
-ephone.
+ephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1887081301:1044/pct:31.986093,49.348815,12.299000,10.214969/!600,600/0/default.jpg"/>
 </td>
@@ -2864,7 +2789,7 @@ ephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t heating by  
+ heating by  
 steam, give the mixture the properties of the  
 burned hydraulic cements at present in use.  
   
@@ -2881,7 +2806,7 @@ electric magnet and its practical application ; and,
 15, the telephone.  
   
 Tue discovery of a new gas is a rare and im-  
-ortant event to 
+ortant event to c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_leslies-weekly_1887-08-13_64_1665%2Fsim_leslies-weekly_1887-08-13_64_1665_jp2.zip%2Fsim_leslies-weekly_1887-08-13_64_1665_jp2%2Fsim_leslies-weekly_1887-08-13_64_1665_0010.jp2/pct:45.629529,51.157407,19.338768,9.788360/600,/0/default.jpg"/>
 </td>
@@ -2895,7 +2820,7 @@ ortant event to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ewspapers.  
+wspapers.  
   
 The fifteen great American inventions of  
   
@@ -2912,7 +2837,7 @@ blast for carving; I1, the gangs lathe; 12,
 the grain elevator, 13, artificial ice mak­  
 ing on a large scale; 14, the electric mag­  
 net and its practical spplication; 15, the  
-telephone
+telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jicama_ver01:data:sn83025668:0041562802A:1887081801:0136/pct:78.606285,85.383365,11.985165,8.060146/!600,600/0/default.jpg"/>
 </td>
@@ -2926,7 +2851,6 @@ telephone
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 —The fifteen great American inven­  
 tions of world-wide adoption are: 1,  
 the cotton-gin; 2, the plnning-machine;  
@@ -2940,7 +2864,7 @@ ing; 11, the gauge lathe; 12, the grain
 elevator; 13, artificial ice making on a  
 large-scale; 14, the electric magnet and  
 its practical application; 15, the tele­  
-phone
+phone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887082001:0674/pct:6.443071,78.061849,13.923213,8.144519/!600,600/0/default.jpg"/>
 </td>
@@ -2954,7 +2878,7 @@ phone
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; 2, the planing-machine;  
+2, the planing-machine;  
 3, the grass mower and reaper; ]4, the  
 rotary printing press; 5, navigation by  
 steam; 6, the hot-air engine; 7, the sew­  
@@ -2962,7 +2886,7 @@ ing machine; 8, the India rubber in­
 dustry; 9, the machine manufacture of  
 horsehoes; 10, the sand-blast for carv­  
 ing; 11, the gauge lathe; 12, the grain  
-elevator; 13, artificial ice makin
+elevator; 13, artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550079:1887082401:0145/pct:62.193851,86.870370,13.665972,5.175926/!600,600/0/default.jpg"/>
 </td>
@@ -2976,7 +2900,6 @@ elevator; 13, artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 weighing it.  
   
 The Ufteen great American Inventions  
@@ -2992,7 +2915,8 @@ lus; 11, the gauge leather; 12, the grain
 elevator; 13, artificial ice-making on a  
 large scale; 14, the electric magnet and  
 its practical application; 15, the tele­  
-phone.
+phone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1887082701:0939/pct:17.723548,68.977542,10.812255,6.960524/!600,600/0/default.jpg"/>
 </td>
@@ -3016,7 +2940,6 @@ phone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 The fifteen great American inventions of  
 world-wide adoption are: 1, the cotton-gin; 2,  
 the planting-machine; 3, the grass mower and  
@@ -3029,7 +2952,7 @@ the grain elevator; 13, artificial ice-making on a
 large scale; 14, the electric magnet and its prac­  
 tical application; and, 15, the telephone.  
 In his last letter from London to the Balti­  
-timore Su
+timore Sun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745710:1887082901:0529/pct:50.784817,24.214398,14.169521,5.937993/!600,600/0/default.jpg"/>
 </td>
@@ -3043,7 +2966,7 @@ timore Su
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--wide  
+wide  
 are I the  
 CouOl-  
 2 the planing machine; 3  
@@ -3059,7 +2982,7 @@ shoes; 10, the sand-blast for carving  oe o o te e
   
 tor; 14, artificial ice making on a larg  
 scale, 14, the electric magnet and it  
-practical application; 15, the telephone
+practical application; 15, the telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196408:1887082901:0142/pct:17.660835,60.407031,22.330900,5.786823/!600,600/0/default.jpg"/>
 </td>
@@ -3073,7 +2996,7 @@ practical application; 15, the telephone
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- He  
+He  
 might apply some time profitahly to the study  
 of the opinions of the people as tothe infamous  
 internal revenue system.  
@@ -3093,7 +3016,7 @@ the telephone.
   
 A WILD WESTERN editor wrote a long edi-  
 torial to prove that the object of Senator  
-Bec
+Beck
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_atlanta-constitution_1887-08-31_19%2Fper_atlanta-constitution_1887-08-31_19_jp2.zip%2Fper_atlanta-constitution_1887-08-31_19_jp2%2Fper_atlanta-constitution_1887-08-31_19_0003.jp2/pct:42.521951,39.069767,12.440050,9.436047/600,/0/default.jpg"/>
 </td>
@@ -3117,7 +3040,6 @@ Bec
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 us  
   
 Great American Inventions.  
@@ -3146,7 +3068,8 @@ telephone.
   
 Diseases, desperate grown, bv dis-  
   
-perate appliacos are relieved, nrnnt
+perate appliacos are relieved, nrnnt  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NoCarEC3n_ver01%2Fdata%2F1887090701%2F0246.jp2/pct:35.554965,42.650481,13.289963,20.526050/!600,600/0/default.jpg"/>
 </td>
@@ -3160,7 +3083,7 @@ perate appliacos are relieved, nrnnt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in stature.  
+in stature.  
   
 — The fifteen great American inven-  
 tions of wide-world adoption are: 1, the  
@@ -3176,6 +3099,7 @@ vator; 13, artificial ice-making on a
 | large scale; 14, the electric magnet and  
 its practical application; 15, the tele-  
 phone.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1887-09-07_64_36%2Fsim_zions-herald_1887-09-07_64_36_jp2.zip%2Fsim_zions-herald_1887-09-07_64_36_jp2%2Fsim_zions-herald_1887-09-07_64_36_0006.jp2/pct:20.443645,36.295037,12.185252,7.365289/600,/0/default.jpg"/>
@@ -3200,7 +3124,7 @@ phone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, when the enterprising young  
+when the enterprising young  
 men and women are engaged in their inter­  
 esting work.  
 FiFTEEN AMERIEan TrIUMphs.  
@@ -3215,7 +3139,7 @@ horse-shoes; 10, the sand-blast for carving;
 11, the gauge lathe; 12, the grain elevator;  
 13, artificlal ice-making on a large scale;  
 14, the electric magnet and its practical  
-application, and, 15, the telephone.-
+application, and, 15, the telephone.- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn82000205:00211103590:1887091001:0910/pct:17.095416,81.391496,10.944808,7.104730/!600,600/0/default.jpg"/>
 </td>
@@ -3229,7 +3153,7 @@ application, and, 15, the telephone.-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- States.  
+States.  
   
   
   
@@ -3242,7 +3166,7 @@ facture of horseshoes; 10, the sand-blast for carving; 11, the gauge lathe:
 electric magnet and its practical application ; and 15, the telephone. ,  
   
 BiLious DisoRDERS, LIVER COMPLAINTS, Costiveness, D i  
-ar
+are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-a-national-journal_1887-09-10_14_370%2Fsim_american-a-national-journal_1887-09-10_14_370_jp2.zip%2Fsim_american-a-national-journal_1887-09-10_14_370_jp2%2Fsim_american-a-national-journal_1887-09-10_14_370_0014.jp2/pct:47.204301,40.912763,36.102151,9.753635/600,/0/default.jpg"/>
 </td>
@@ -3256,7 +3180,6 @@ ar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-*  
 but not till then. ,   
 The i it teen great American inventions of  
 world-wide adoption are: 1, the cotton gin ; 2j  
@@ -3269,7 +3192,7 @@ sewing machine; 8, the india-rubber industryj
 lathe; 12, the grain elevator; 13, artificial ice.  
 making on a large scale; 14, the electriS  
 magnet and its practical application; and,   
-tho telephone.
+tho telephone. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344659:1887091301:0006/pct:78.592491,30.543175,13.898172,5.529248/!600,600/0/default.jpg"/>
 </td>
@@ -3283,12 +3206,11 @@ tho telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The fifteen gTeat American inven  
 tions of world-wide adoption are: 1,  
 the cotton-gin; 2, the planting ma  
 , . &#x27; &#x27;  
-uiiio o. me eraes mower and re
+uiiio o. me eraes mower and ren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm92n_ver01%2Fdata%2F1887091401%2F0254.jp2/pct:43.665886,74.829545,12.770626,2.261364/!600,600/0/default.jpg"/>
 </td>
@@ -3302,7 +3224,7 @@ uiiio o. me eraes mower and re
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; 2, the planing-machine;  
+2, the planing-machine;  
 3, the grass mower and reaper; 4, the  
 rotary printing press; 5, navigation by  
 steam; 6, the hot-air engine; 7, the sew­  
@@ -3310,7 +3232,7 @@ ing machine; 8, the India rubber in­
 dustry; 9, the machine manufacture ol  
 horsehoes; 10, the sand-blast for carv­  
 ing; 11, the gauge lathe; 12, the grain  
-elevator; 13, artificial ice makin
+elevator; 13, artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:00295874557:1887091501:0365/pct:53.210273,78.652426,14.707063,5.274262/!600,600/0/default.jpg"/>
 </td>
@@ -3324,12 +3246,6 @@ elevator; 13, artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- than the alcoholic tippler. Where one  
-opium-eater is cured, many habitual drunkards are  
-reclaimed.  
-  
-^cUntifie ang Umtuh  
-  
 Inventions. —The fifteen great American inven¬  
 tions of world-wide adoption are: 1, the cotton-  
 gin; 2, the planting-machine; 3, the grass mower  
@@ -3340,9 +3256,9 @@ machine manufacture ot horseshoes; 10, the sand¬
 blast for carving; 11, the gauge lathe; 12, the  
 grain elevator; 13, artificial ice-making on a large  
 scale; 14, the electric magnet and its practical ap¬  
-plication ; and 15, the telephone
+plication ; and 15, the telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1887-09-15_58_37%2Fsim_evangelist-and-religious-review_1887-09-15_58_37_jp2.zip%2Fsim_evangelist-and-religious-review_1887-09-15_58_37_jp2%2Fsim_evangelist-and-religious-review_1887-09-15_58_37_0006.jp2/pct:36.001816,75.910909,14.058717,7.287274/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1887-09-15_58_37%2Fsim_evangelist-and-religious-review_1887-09-15_58_37_jp2.zip%2Fsim_evangelist-and-religious-review_1887-09-15_58_37_jp2%2Fsim_evangelist-and-religious-review_1887-09-15_58_37_0006.jp2/pct:36.001816,78.711212,14.058717,4.486972/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3354,8 +3270,6 @@ plication ; and 15, the telephone
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Fifteen American Inventions.  
 The fifteen great American inventions of  
 world wide adoption are: I, the cotton gin;  
@@ -3370,7 +3284,7 @@ artificial ice making on a large scale; 14, the
 electric magnet and its practical application;  
 and 15, the telephone.-Frank Leslie&#x27;s.  
   
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777869:1887091601:0292/pct:35.994587,87.986515,25.665313,6.604352/!600,600/0/default.jpg"/>
 </td>
@@ -3384,7 +3298,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Democrat.  
+Democrat.  
 The fifteen great American Inventions of world­  
 wide adoption are: 1, the cotton gin; 9, the plan*  
 lng machine; 3, tbe grass-mower and reaper; 4.  
@@ -3394,7 +3308,8 @@ india-rubber Industry; U,the machine manufacture
 of horse-shoes; 10. the sand-blast for carving; li.  
 the gauge lathe; 12, tbe grain elevator: 13, artjl  
 flclart ice-making on a large scale; 14, tbe electric  
-nffihirpft practical application; 15, the
+nffihirpft practical application; 15, the  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887091701:0621/pct:62.237590,80.850637,12.151148,4.814926/!600,600/0/default.jpg"/>
 </td>
@@ -3408,14 +3323,14 @@ nffihirpft practical application; 15, the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y bore.  
+ bore.  
   
 Fifteen Famous American Inventions.  
   
 The fifteen great American inventions of  
 world-wide adoption are: (1) The cotton-gin, (2)  
 the planing machine, (8) the .rass mower and  
-reaper, (4) the rotary printing press, (5) navig
+reaper, (4) the rotary printing press, (5) naviga
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_chicago-daily-tribune_the-chicago-tribune_1887-09-17_47%2Fper_chicago-daily-tribune_the-chicago-tribune_1887-09-17_47_jp2.zip%2Fper_chicago-daily-tribune_the-chicago-tribune_1887-09-17_47_jp2%2Fper_chicago-daily-tribune_the-chicago-tribune_1887-09-17_47_0001.jp2/pct:19.717018,90.638230,11.017948,2.963590/600,/0/default.jpg"/>
 </td>
@@ -3429,7 +3344,7 @@ reaper, (4) the rotary printing press, (5) navig
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- No other person in the county has  
+No other person in the county has  
 this power.  
 Fifteen Famou-i American Invention *  
 Da\/tim \Democrat.  
@@ -3447,7 +3362,7 @@ carvlne , ( U ) the gauge lane , (13) ( )the(train
 elevator , (13) ( ) artificial Ice makingonalarge  
 ecale , (14) ( ) the electric magnet andItsprac­  
 tical application , (15) ( )thetelephone.  
-Bntt 
+Bntt a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887091901:0671/pct:31.002125,4.147083,25.566572,95.548797/!600,600/0/default.jpg"/>
 </td>
@@ -3461,7 +3376,7 @@ Bntt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; 2, the planting-machine; 3,  
+2, the planting-machine; 3,  
 j the grass mower and reaper; 4, the rotary &lt;  
 | printing-press; 5, navigation by steam;  
 I (i, the hot-air engine; 7, the sewing :  
@@ -3470,7 +3385,7 @@ i machine; 8, the india-rubber industry: i
 9, the machine manufacture or ftorsc- |  
 shoes: 10, the sand-blast for carv- i  
 ing; 11, the gauge lathe; 12, the grain  
-elevator; 13, artificial ice-makin
+elevator; 13, artificial ice-making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887092101:0063/pct:28.726877,24.989293,13.897093,4.892934/!600,600/0/default.jpg"/>
 </td>
@@ -3484,7 +3399,7 @@ elevator; 13, artificial ice-makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- nfteea great American inven-j  
+nfteea great American inven-j  
   
 tions of world-wide adoption are: lj  
   
@@ -3507,7 +3422,7 @@ tificial ice-making on a largo j scale i
   
 14, the electric magnet and its pracf  
   
-tical application ; 15, the telephone
+tical application ; 15, the telephoned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSGreen25n_ver01%2Fdata%2F1887092201%2F0574.jp2/pct:81.955782,73.314975,11.360544,7.264621/!600,600/0/default.jpg"/>
 </td>
@@ -3521,18 +3436,7 @@ tical application ; 15, the telephone
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- charge of  
-grand larceny and got two years in the  
-penitentiary Rufus Climer white was  
-found guilty of assault to commit rape  
-  
-and fined S35 Important cases are set  
-for tomorrow and Friday  
-Mrs Preston of Preston Springs near  
-this city was severely if not fatally in­  
-jured this evening by being thrown from  
-her buggy She had three of her grand­  
-children in tne buegy who were all more  
+who were all more  
 or less injured one severely The horse  
 was badly frightened and demolished the  
 buggy  
@@ -3558,9 +3462,9 @@ shoes
 scale  
 H The electric magnet and its practi­  
 cal application  
-13 The telephon
+13 The telephone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887092201:0513/pct:30.735194,25.512965,14.686862,18.613303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887092201:0513/pct:30.820286,30.529876,14.601770,13.596392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3572,7 +3476,7 @@ cal application
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ted.  
+ed.  
 The fifteen great American in ventions of  
 worldwide adoption are: I, the cotton-gin;  
 2, the planting machine; 3, the grass  
@@ -3586,7 +3490,7 @@ the grain elevator; 13, artificial ice mak.
 ing on a large scale; 14, the electric mag­  
 net and its practical application; 15, the  
 telephone.  
-We 
+We a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1887092301:0304/pct:7.315175,69.879159,10.856031,8.682679/!600,600/0/default.jpg"/>
 </td>
@@ -3600,7 +3504,7 @@ We
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, thi adontion are. Co The cot  
+thi adontion are. Co The cot  
 () the planing-machine, (3) the  
 grass mower and reaper, () the rotary  
 printing press, (5) the navigation by steam  
@@ -3612,7 +3516,7 @@ the machine manufacture of horse-shoes,
 gang lathe, (12) the rain elevator, (13) arti  
 sicial ice-making on a large scale, (14) the  
 electric magnet and its practical application,  
-ooled eill, came ther
+ooled eill, came there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1887092301:0069/pct:52.558666,73.541495,11.407973,9.003404/!600,600/0/default.jpg"/>
 </td>
@@ -3626,7 +3530,6 @@ ooled eill, came ther
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The fifteen great American inventions  
 of world-wide adoption are;  
 1. The cotton gin.  
@@ -3646,7 +3549,7 @@ IC. The and blast for carving.
 scale.  
 14. The electrical magnet and its prac­  
 tical application.  
-15. The telephone
+15. The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768928:1887092301:0366/pct:24.015910,77.973135,9.847758,7.862837/!600,600/0/default.jpg"/>
 </td>
@@ -3670,7 +3573,7 @@ tical application.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Evening  
+Evening  
 Sua.  
   
 Fifteen American Inventions.  
@@ -3686,7 +3589,8 @@ horseshoes; 10. the sand blast for carving; 11,
 tlie gauge lathe; 12, tbe grain elevator; 13,  
 artificial ice making on a large scale; 14, tbe  
 electric magnet au&#x27;d its practical application;  
-and 15. tbe telt phone. Frank Leslie&#x27;s,
+and 15. tbe telt phone. Frank Leslie&#x27;s,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1887092901:0080/pct:27.712418,86.234868,10.294118,6.352178/!600,600/0/default.jpg"/>
 </td>
@@ -3700,7 +3604,7 @@ and 15. tbe telt phone. Frank Leslie&#x27;s,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- idemnity  
+idemnity  
   
 purposes under their grant.  
   
@@ -3715,7 +3619,8 @@ rinting press; 5, navigation by steam,
   
 6, the hot-air engine;7, the sewing ma-  
   
-hine. S the India-rubber industry: 3.
+hine. S the India-rubber industry: 3.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82015133:00211105744:1887100101:0724/pct:8.005640,22.239192,10.841297,5.345395/!600,600/0/default.jpg"/>
 </td>
@@ -3729,7 +3634,7 @@ hine. S the India-rubber industry: 3.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n&#x27;s Chills  
+s  
 ana i ever cure, it is mua in action  
 and a certain cure. .r0 cents a bottle  
   
@@ -3755,7 +3660,7 @@ scale.
 14. The electrical magnet and its  
 practical application.  
 15. The telephone.  
-re
+rer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1887100101:0730/pct:43.760794,7.034393,30.310881,85.061648/!600,600/0/default.jpg"/>
 </td>
@@ -3769,7 +3674,6 @@ re
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i  
 The fifteen great American inventions  
 of world-wide adoption are: (1) The  
 cotton-gin, (2) the planing machine, (3)  
@@ -3785,7 +3689,7 @@ larsre scale. (14) the electric magnet and J
   
 its practical application, (15) the telephone.  
 i  
-His
+His 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887100501:0078/pct:30.481946,83.033419,15.078258,8.204799/!600,600/0/default.jpg"/>
 </td>
@@ -3799,7 +3703,7 @@ His
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- paper.  
+paper.  
 The fifteen great American in­  
 ventions of world-wide adoption  
 are: (l)The cotton-gin: (2) theplan-ing-machine;  
@@ -3816,7 +3720,7 @@ artificial ice-making on a large
 scale; (14) the electric magent and  
 its practical application; (lo) the  
 telephone.  
-Tca
+Tcaa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1887100601:0426/pct:34.284074,78.298701,12.308576,12.740260/!600,600/0/default.jpg"/>
 </td>
@@ -3830,7 +3734,6 @@ Tca
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The fifteen great Ani&#x27;-riean invention i  
 nf world wide adoption are: (1) The  
 cotton-gin, (-2) th t pla-iiug-m i ihiti.s, (5)  
@@ -3845,7 +3748,7 @@ vator, (13) arlili.tial ic nuking on a
 large scabs &#x27; 14) the electric; magnet and j  
 its practical application, (15) the. tele- &#x27;  
 phone. j  
-While 
+While J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197280:1887100601:0519/pct:26.657682,80.777299,9.501348,6.050569/!600,600/0/default.jpg"/>
 </td>
@@ -3859,7 +3762,6 @@ While
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l  
 the contents of the tomb it was the  
 only thing that remained for which  
 men care or find use to-day.  
@@ -3880,7 +3782,8 @@ gage lathe, (12) the grain elevator,
 (13) artificial ice-making on a large  
 scale, (14) the electric magnet and its  
 practical application, (15) the tele­  
-phone.
+phone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159221:1887100601:0155/pct:75.803982,85.006649,9.522484,8.964982/!600,600/0/default.jpg"/>
 </td>
@@ -3894,7 +3797,7 @@ phone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—The fif­  
+The fif­  
 teen great inventions of world wide  
 adoption atv • 1, the cotton gin: ’-i.  
 the planing machine; :t, the grass  
@@ -3910,7 +3813,7 @@ j valor; IJ, artificial ice lurking on a
 . am! its p aeiieai application ; and. to,  
 j the telephoc .  
 1 c c.v ,l i not company, and faces  
-hat.iga
+hat.igai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:00415625650:1887100701:0162/pct:48.256321,83.662281,10.999709,8.848684/!600,600/0/default.jpg"/>
 </td>
@@ -3924,7 +3827,7 @@ hat.iga
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sent abroad. In the matter of  
+sent abroad. In the matter of  
 drills, augurs and boring machinery of  
 every kind, the world may be said to be  
 dependent on America.”   
@@ -3950,7 +3853,7 @@ scale.
 14. The electrical magnet and its  
 practical application.   
 15. The telephone.   
-Ther
+There
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415210A:1887100701:0530/pct:61.994609,71.861250,10.902965,13.209864/!600,600/0/default.jpg"/>
 </td>
@@ -3974,7 +3877,6 @@ Ther
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Our Fifteen Grent Inventions.  
 [Safety Valvo.1  
 The fifteen great Arnericat, inven­  
@@ -3992,7 +3894,7 @@ tor; (13) artificial ice making on a
 large scale; (1.1) the electric magnet  
 t and its practical application; (15) the  
 telephone.  
-Withdra
+Withdraw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101040:1887100801:0499/pct:80.899332,62.674400,14.968604,11.882740/!600,600/0/default.jpg"/>
 </td>
@@ -4016,7 +3918,6 @@ Withdra
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 —The fifteen great American invent­  
 tions of the world-wide adoption are:—1, the  
 cotton-gin; 2, the planting-machine; 3, the  
@@ -4028,7 +3929,8 @@ shoes ; 10, the sandblast for carving; 11, the
 gauge lathe ; 12, the grain elevator; 13, artificial  
 ice making on a large Beale; 14, the electric  
 magnet and its practical application, and 15, the  
-telephone.
+telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glycine_ver01:data:sn89053987:print:1887101201:0102/pct:6.921120,41.188022,17.379135,6.643757/!600,600/0/default.jpg"/>
 </td>
@@ -4042,7 +3944,6 @@ telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Fifteen American Inventions.  
 The fifteen great American inven  
 tions are: The cotton gin, tbe  
@@ -4056,7 +3957,7 @@ for carving, the eccentric lathe, the
 grun elevator, attificial ice making  
 one large scale, tbe electrical magnet  
 aud its practical applications, the  
-telephone, and tbe sixteenth i
+telephone, and tbe sixteenth is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556291:1887101301:0374/pct:55.545343,73.734824,10.033701,7.981729/!600,600/0/default.jpg"/>
 </td>
@@ -4070,7 +3971,7 @@ telephone, and tbe sixteenth i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The money value of a  
+The money value of a  
 ton of this manure would ba $3. 05,  
 calculating the nitrogen at 20 cents  
 per pound, the phosphine acid at 8  
@@ -4093,7 +3994,7 @@ net and its practical application; 15,
 the telephone. Chicago Xtxcs. &#x27;  
   
 A Ma eh Desired Seform.  
-To begin 
+To begin a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556837:1887101301:0696/pct:42.571255,7.101201,22.437841,87.478559/!600,600/0/default.jpg"/>
 </td>
@@ -4107,7 +4008,7 @@ To begin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e.  
+.  
 Fifteen Famous American Inven­  
 tions.  
 The fifteen great American inven­  
@@ -4125,7 +4026,7 @@ gage lathe, (12) the grain elevator,
 scale, (14) the electric magnet and its  
 practical application, (15) the tele­  
 phone.  
-A Weal
+A Wealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1887101301:0685/pct:58.924042,68.724495,10.692831,9.511353/!600,600/0/default.jpg"/>
 </td>
@@ -4141,7 +4042,7 @@ A Weal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i AMERICAN INVENTIONS. - The  
+i AMERICAN INVENTIONS. - The  
 fifteen great American inventions of  
 world-wide adoption are : 1, the cotton-  
 gin : 2, tho planing maohine ; 8, the  
@@ -4156,7 +4057,7 @@ grain elevator ; 18, artificial ice-
 making&#x27; on a largo soale ; 14, the  
 olectrio magnet and its practical  
 application j and, 15, the telophone. i  
-Tw
+Two
 </td></tr></table>
 
 ---
@@ -4167,7 +4068,7 @@ Tw
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- behind the door, as I was ready  
+behind the door, as I was ready  
 for you with a knife.”—Bolton Post.  
 Great American Inventions.  
 The fiftoen great American inven­  
@@ -4199,7 +4100,7 @@ me as rich as mud before I’m eighty,
 and then I propose to take things easy  
 and enjoy life’’ — A&#x27;. F Bun  
 A Correct Diagnosis.  
-Young
+Young 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414212992:1887101901:0140/pct:84.284284,73.638259,11.177845,18.868908/!600,600/0/default.jpg"/>
 </td>
@@ -4213,7 +4114,7 @@ Young
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- behind tho door, as I was ready  
+behind tho door, as I was ready  
 for you with a knife.&quot;—Boston PosL  
   
 Great American Inventions.  
@@ -4253,7 +4154,7 @@ andcujay life.&quot;—-V. Y- Sun
   
 A Correct Diagnosis.  
   
-Young
+Young 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1887102701:0630/pct:81.507275,74.818947,10.744932,18.594637/!600,600/0/default.jpg"/>
 </td>
@@ -4267,7 +4168,6 @@ Young
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
 Great American Inventions.   
 The fifteen great American inven­  
 tions of world-wide adoption are: 1,  
@@ -4286,7 +4186,7 @@ the telephone. C’AiCujp New*.
   
 BITUMINOUS COAL.   
 Same of the Wuuderfm Produute Obtain- I  
-able in 
+able in a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1887102701:0380/pct:66.915964,5.816135,19.540386,90.343229/!600,600/0/default.jpg"/>
 </td>
@@ -4300,7 +4200,6 @@ able in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 was the  
 Times.  
 comforting  
@@ -4319,7 +4218,7 @@ ing, (11) the gauge lathe, (12) the grain
 elevator, (13) artificial ice-making on a  
 large scale. (14) the electric magnet and  
 its practical application, (15) the tele­  
-phone. f Carl S
+phone. f Carl Sc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BurCN22n_ver01%2Fdata%2F1887102801%2F0594.jp2/pct:1.969012,82.058166,15.284054,13.154362/!600,600/0/default.jpg"/>
 </td>
@@ -4333,7 +4232,7 @@ phone. f Carl S
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; 2, the planing-machine;  
+2, the planing-machine;  
 3, the grass mower and reaper; 4, tho  
 rotary printing press; 6, navigation by  
 steam; 6, the hot-air engine; 7, the sew­  
@@ -4341,7 +4240,7 @@ ing machine; 8, the India rubber in­
 dustry; 9, the machine manufacture ol  
 horsehoes; 10, the sand-blast for carv­  
 ing; 11, the gauge lathe; 12, the grain  
-elevator; 13, artificial ice makin
+elevator; 13, artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn88051124:00516990776:1887102801:0171/pct:78.844383,79.048387,13.627993,5.161290/!600,600/0/default.jpg"/>
 </td>
@@ -4355,8 +4254,6 @@ elevator; 13, artificial ice makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The 15 great American inventions  
 of world-wide adoption are (1) Tbe  
 cotton-gun, (2) the planing machine,  
@@ -4370,7 +4267,8 @@ sand-blast for carving, (11) the gauge
 lathe, (12) the grain elevator, (13) ar­  
 tificial ice-making on a large scale.  
 (14) the electric magnet and its prac­  
-tical application, (15) the telephone.
+tical application, (15) the telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1887102801:0360/pct:30.942731,86.367369,10.378855,6.706816/!600,600/0/default.jpg"/>
 </td>
@@ -4384,7 +4282,7 @@ tical application, (15) the telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; 2. tho planing machine;  
+2. tho planing machine;  
 8, the grass mower and reaper; 4, ihe  
 rotary printing press; 5, navigation by  
 steam. 6. the hot-air engine; 7. tha  
@@ -4399,7 +4297,7 @@ the telephone. Chicago Ntws.
   
 A Kueh Desired Reform.  
 . To begin and carry on to a successful com­  
-pletio
+pletion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_incadove_ver01:data:sn84021912:00211104697:1887102901:0226/pct:44.837172,3.763286,25.694996,93.134157/!600,600/0/default.jpg"/>
 </td>
@@ -4413,8 +4311,6 @@ pletio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Fifteen American Inventions.  
 Dayton Democrat.  
 The fifteen great American inventions  
@@ -4433,7 +4329,8 @@ ing, (11) the gauge lathe, (12) the grain
 elevator, (13) artificial ice making on a  
 large scale, (14) the electric magnet and  
 its practical application, (15) the tele­  
-phone.
+phone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175033270:1887103001:0720/pct:13.743114,1.346617,59.002609,97.065908/!600,600/0/default.jpg"/>
 </td>
@@ -4447,7 +4344,7 @@ phone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, (2) the planing ms­  
+(2) the planing ms­  
 cuine, (8) the grass mower ancrreap­  
 «i&#x27;. (4) the rotary printing press, (5)  
 navigation by steam, (6) the hot-air  
@@ -4456,7 +4353,7 @@ the india-rubber industry, (9) the ma­
 chine manufacture of horseshoes, (10)  
 the sand-blast for carving, (il) the  
 8ag« lathe,. (12) the grain elevator,  
-(13) artificial ice-makin
+(13) artificial ice-making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1887110301:0502/pct:2.535473,86.334125,14.654571,5.368171/!600,600/0/default.jpg"/>
 </td>
@@ -4470,7 +4367,7 @@ the sand-blast for carving, (il) the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- up.  
+up.  
 The fifteen great American in  
 ventions of world-wide adoption  
 are: 1, the cotton gin; 2, the plan  
@@ -4483,7 +4380,7 @@ dustry; C, the machine manufact
 ure of horseshoes; 10, the sand  
 blasts for carving; 11, tho gauge  
 lathe; 12, the grain elevator; 13,  
-artificial ice-makin
+artificial ice-making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_deserttortoise_ver01:data:sn94050557:00202192841:1887110901:0530/pct:68.589228,52.809482,11.856913,9.174715/!600,600/0/default.jpg"/>
 </td>
@@ -4499,7 +4396,7 @@ artificial ice-makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Ihe 15  
+Ihe 15  
 great American inventions of world-wide  
 adoption are: — 1, the cotton-gin $? 2,  
 the planing-macbine ; 3, the grass-mower  
@@ -4513,7 +4410,7 @@ blast for carving ; 11, the gauge Jathe
 artificial icemakinp on a large scale ;_  
 14, the electric magnet and its  
 practical application; 15, the  
-telephone.
+telephone. 
 </td></tr></table>
 
 ---
@@ -4524,7 +4421,6 @@ telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Fifteen American Inventions,  
 The fifteen great American inventions of  
 world wide adoption are: 1, the cotton gin;  
@@ -4538,7 +4434,7 @@ the gauge latlo; 17, she grain elevator; 18,
 artificial ice making on a large scale; 14, the  
 electric magnet and its practical application;  
 and 15, the teleplione.--Frank Leslie&#x27;s.  
-Dr. H. 
+Dr. H. O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:0029587580A:1887112401:0514/pct:58.902414,51.639225,12.110584,6.979455/!600,600/0/default.jpg"/>
 </td>
@@ -4552,7 +4448,7 @@ Dr. H.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ing.  
+ng.  
 The fifteen great American inven­  
 tions of world-wide adoption are: 1,  
 the cotton gin; 2, the planing machine;  
@@ -4567,7 +4463,7 @@ grain elevator; 13, artificial ice-making
 on a large scale; 14, the electric mag­  
 net and its practical application; 15,  
 the telephone.  
-A farme
+A farmer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1887113001:0087/pct:80.250740,51.217989,9.381603,6.858214/!600,600/0/default.jpg"/>
 </td>
@@ -4581,7 +4477,7 @@ A farme
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;.&quot;  
+.&quot;  
 The 15great American inventions of world  
 wide adoption are. 1. The cotton gin. 2  
 The 3. Ths grass mow  
@@ -4594,7 +4490,8 @@ blast for carving 11 The gauge lathe 12
 The grain elevator. 13 Artificial ice mak  
 in;, on a large scale, 14 The electric magnet  
 and its practical applictUon, and 15,  
-the telephone.
+the telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206533833:1887121301:0436/pct:22.840729,23.853211,14.243265,8.748837/!600,600/0/default.jpg"/>
 </td>
@@ -4608,7 +4505,7 @@ the telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- there are fifteen great  
+there are fifteen great  
 American inventions which have had  
 a world-wide adoption. There are as  
 follows: (1) The cotton-gun, (2) the  
@@ -4625,7 +4522,7 @@ ing on a large scale. (14) the electric
 magnet aud its practical application-,  
 (15) the telephone.  
   
-A larg
+A large
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347737:1887121401:0464/pct:26.522974,32.594126,10.906040,9.185886/!600,600/0/default.jpg"/>
 </td>
@@ -4639,7 +4536,6 @@ A larg
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 fifteenth day of September.&quot;  
   
 In reply to a correspondent we will  
@@ -4660,7 +4556,7 @@ ing on a large scale. (14) the electric
 magnet and its practical application^  
 (15) the telephone.  
   
-A large stoc
+A large stock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347737:1887121401:0465/pct:26.350309,31.540126,10.879630,10.464201/!600,600/0/default.jpg"/>
 </td>
@@ -4674,7 +4570,6 @@ A large stoc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Thk fifteen great American inven­  
 tions of the world-wide adoption are:  
 1, the cotton-gin ; 2, the plaining ma­  
@@ -4686,7 +4581,7 @@ India rubber industry; 9, the machine
 manufacture of horseshoes; 10, the  
 sand blast for carving ; 11, the gauge  
 lathe; 12, the grain elevator; 13, arti­  
-ficial ice-makin
+ficial ice-making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291116:1887121601:0151/pct:37.582006,82.570652,10.559200,6.657207/!600,600/0/default.jpg"/>
 </td>
@@ -4700,7 +4595,7 @@ ficial ice-makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he sewing nachine, 8, the India­  
+e sewing nachine, 8, the India­  
 rubber industry; 9, the machine man­  
 ufacture of horseshoes; 10, the sand  
 blasts for carving; 11, the gauge lathe,  
@@ -4709,7 +4604,7 @@ es moking on a large scale; 14, the
 elecirte magnet and its practical ap­  
 electric magnet  
 plication; 15, the telephone.  
-o
+of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_episky_ver01:data:sn84038114:00271765484:1887122201:0622/pct:20.680301,90.412304,10.872287,4.662958/!600,600/0/default.jpg"/>
 </td>
@@ -4725,7 +4620,7 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- me. The inspection is being made on  
+me. The inspection is being made on  
 foot. It is anticipated that tenders for  
 the work of construction will be called  
 about the second week in January,  
@@ -4743,7 +4638,7 @@ gatspe lathe; 12. The grain elevator;
 13. Artificial ice-making on a large  
 scale ; 14. The e&#x27;eciiic msgntt aiid its  
 practical application; 15. The  
-telephone. 
+telephone. A
 </td></tr></table>
 
 ---
@@ -4756,7 +4651,7 @@ telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The 18 great American  
+The 18 great American  
 inventions of worldwide adoption are—l.  
 The cotton gin; 2. Pbuifig-iEachnie; a  
 The giro-mower ana reaper; 4. The rotary  
@@ -4769,7 +4664,7 @@ carving; lL The f&quot; 5?? M* 6* 12- The
 (ftvn elevator; 13. Artificial lee-  
 mafcinjf on a large scale; 14. The  
 electric magnet and its practical  
-application; 15. He telephone
+application; 15. He telephone.
 </td></tr></table>
 
 ---
@@ -4790,7 +4685,6 @@ application; 15. He telephone
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 the ago are American: 1, the cotton gin  
 2, the planing machine 3, the grass  
 mower and reaper 4, the rotary print­  
@@ -4802,7 +4696,8 @@ the machine manufacture of horseshoe*
 gauge lathe 22, the grais elevator 13,  
 artificial ice making on a &#x27;large scale  
 14, the electric magnet and Us practical  
-application 15, the teleplaone.
+application 15, the teleplaone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888011301:0452/pct:68.224864,84.427141,14.245416,7.258065/!600,600/0/default.jpg"/>
 </td>
@@ -4816,7 +4711,6 @@ application 15, the teleplaone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The fifteen great American in­  
 ventions of world-wide adoption  
 are: (1) The cotton gin; (2) the  
@@ -4833,7 +4727,7 @@ tor; (13) artificial ice making on a
 large scale; (14) the electric mag­  
 net and its practical application;  
 (15) the telephone.  
-LIST OF I.
+LIST OF I.E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lapras_ver01:data:2013271051:00295873966:1888011401:0331/pct:41.878284,18.920676,12.302977,11.492198/!600,600/0/default.jpg"/>
 </td>
@@ -4849,7 +4743,7 @@ LIST OF I.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The fifteen  
+The fifteen  
 great American inventions of world wide  
 adoption are ; 1, the cotton gin j 2 the  
 planing machine ; 3, the grass mower and  
@@ -4863,7 +4757,7 @@ lathe; 12, the grain elevator; 13,
 artifical ice-making on a large scale ;  
 14, the electric magnet and its  
 practical application; 15, the  
-telephone.
+telephone. 
 </td></tr></table>
 
 ---
@@ -4876,7 +4770,6 @@ telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ins ingratitude. • ; &quot; : The .fifteen  
 great American inventions of world-wide  
 adoption are : 1, the cotton gin ; , 2,  
@@ -4891,7 +4784,7 @@ curving ;■ 11, tho . g&#x27;lagd lath J .12,
 tho grain cicrntoi&#x27; ; 13, artificinlioc-  
 making on a large sealo; 11, the  
 elecrlio magnet and its practical  
-application j;and lo, tho.tclephono. j 
+application j;and lo, tho.tclephono. j t
 </td></tr></table>
 
 ---
@@ -4902,7 +4795,6 @@ application j;and lo, tho.tclephono. j
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 Great Am erican Inventions.  
   
 Base  
@@ -4933,7 +4825,8 @@ old to enjoy wealth.”
 •‘And rich, of course?’*  
 “No, I’m a poor man yet; but I’ve  
 got a scheme in view that will make  
-i me as rich as mud before J’m eighty,
+i me as rich as mud before J’m eighty,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_harneycountylibrary_20210813ClayCthuluHarvestingAmaranth_ver01%2Fdata%2Fsn96088250%2Fprint%2F1888032801%2F0003.jp2/pct:18.822171,6.488095,11.431871,67.232143/!600,600/0/default.jpg"/>
 </td>
@@ -4947,7 +4840,7 @@ i me as rich as mud before J’m eighty,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the Grand Army at  
+of the Grand Army at  
 Washington.&quot;-Sallie B. Mor  
 gan in State Ledger.  
 O  
@@ -4970,7 +4863,7 @@ lath; (12) the grain elevator;
 large scale; (I4) the electric mag­  
 net and its practical application;  
 (15) the telephone.  
-The Republica
+The Republican
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn85034447:00199917286:1888042801:0274/pct:17.446996,28.116798,12.566254,64.616142/!600,600/0/default.jpg"/>
 </td>
@@ -4984,7 +4877,7 @@ The Republica
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- by  
+by  
 this machine.  
   
 FIFTEEN great American inventions of worldwide  
@@ -4996,7 +4889,8 @@ industry ; 9, the machine manufacture of horseshoes;
 10, the sand blast for carving; 11, the gauge lathe; 12,  
 the grain elevator; 13, artificial ice making on a large  
 scale; 14, the electric magnet and its practical applica-  
-tion; 15, the telephone.
+tion; 15, the telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_industry-week_1888-05-03_21_19%2Fsim_industry-week_1888-05-03_21_19_jp2.zip%2Fsim_industry-week_1888-05-03_21_19_jp2%2Fsim_industry-week_1888-05-03_21_19_0010.jp2/pct:61.542056,49.441057,25.911215,11.856369/600,/0/default.jpg"/>
 </td>
@@ -5012,7 +4906,6 @@ tion; 15, the telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-]  
 Fifteen groat American iuycutiQiw o{  
 world&#x27; wide adoption are Ij tho cotton-  
 gin; 2, the planing machinc; 3, the  
@@ -5027,7 +4920,7 @@ grain elevator; 13, artificial ice
 making on a large scale: 14, the  
 electric magnet and its practical  
 application; 1.1, the telephone. So  
-pleased is th
+pleased is the
 </td></tr></table>
 
 ---
@@ -5038,8 +4931,6 @@ pleased is th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 —The fifteen great American inven­  
 tions of world-wide adoption are: 1.  
 The cotton-gin; 2. The planting-machine;  
@@ -5053,7 +4944,7 @@ The gauge-lathe; 12. The grain-elevator;!
 13. Artificial ice-making on a large scale;!  
 14. The electric magnet and its practical  
 application; 15. The telephone.  
-—A collec
+—A collect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glycine_ver01:data:sn89053987:print:1888082201:0447/pct:2.601010,26.636569,17.954545,9.222831/!600,600/0/default.jpg"/>
 </td>
@@ -5069,7 +4960,9 @@ application; 15. The telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; 2, the planing machine: 3,  
+INVENTIONs.-The fifteen great American  
+inventions of world-wide are:1, the  
+cotton-gin ; 2, the planing machine: 3,  
 the grass mower and reaper ; 4, the  
 rotary printing press; 5, navigation by  
 steam; : 6, the hot-air engine ; 7,the  
@@ -5078,7 +4971,10 @@ industry; 9, the machine manufacture of
 horseshoes; 10,&#x27; the sandblast for  
 carving; 11, &#x27;the gauge lathe; 12, the  
 grain elevator ; 13, artificial ice-  
-makin
+making on a large scale; .14, the:  
+electric, magnet and its  
+practical&#x27;application ; and, 15, the  
+telephone.
 </td></tr></table>
 
 ---
@@ -5099,7 +4995,6 @@ makin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The fifteen great American inven­  
 tions of world-wide adoption are: I  
 The cotton-gin; 2. The planting ma­  
@@ -5115,7 +5010,7 @@ The gauge-lathe; 12. The
 large scale; 14. The electric magnet  
 and its practical application; 15. The  
 telephene  
-At a ball a
+At a ball at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105112:1888092901:0093/pct:19.603025,61.887922,12.060491,10.146899/!600,600/0/default.jpg"/>
 </td>
@@ -5129,7 +5024,7 @@ At a ball a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- cos.  
+cos.  
 The fifteen great American inven­  
 tions of world-wide adoption are : 1.  
 The cotton-gin. 2. The planting ma-  
@@ -5144,7 +5039,7 @@ blast&#x27;for carving. 11. The gauge-lathe.
 ico-making on a largo scale. 14. The  
 electric magnet and its practical appli  
 cation. 15. The telephone.  
-I
+In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539616:1888093001:0748/pct:44.495413,58.135687,12.544107,7.473800/!600,600/0/default.jpg"/>
 </td>
@@ -5158,8 +5053,6 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The fifteen great American inventions of world  
 wide adoption are: 1, The cotton-gin; 2, The  
 planting machine; 3, The grass mower and reap¬  
@@ -5170,7 +5063,8 @@ chine manufacture of horseshoes; 10, The sand¬
 blast for carving; 11, The gauge-lathe; 12, The  
 grain elevator; 13, Artifictal ice-making on a large  
 scale; 14, The electric magnet and its practical  
-application; 16, The telephone.
+application; 16, The telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1888-10-04_59_40%2Fsim_evangelist-and-religious-review_1888-10-04_59_40_jp2.zip%2Fsim_evangelist-and-religious-review_1888-10-04_59_40_jp2%2Fsim_evangelist-and-religious-review_1888-10-04_59_40_0007.jp2/pct:23.967890,75.989673,13.331422,5.453959/600,/0/default.jpg"/>
 </td>
@@ -5184,7 +5078,6 @@ application; 16, The telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The fifteen great American invention r  
 world-wide adoption are: I. Tbe cotton  
 gin; 2. The planting machine; 3. The  
@@ -5197,7 +5090,7 @@ Tbe sand blast tor carving ; 11. Tbe gauge
 lathe; 12. The gram elevator; 13. Arti­  
 ficial ice making on a Urge scale ; 14. Tbe  
 electric magnet and its practical applica­  
-tion ; 16. The telephone
+tion ; 16. The telephone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86053634:0021247776A:1888103101:0276/pct:23.488701,76.628499,9.477401,6.348601/!600,600/0/default.jpg"/>
 </td>
@@ -5211,7 +5104,6 @@ tion ; 16. The telephone
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 2. The planting machine.  
 3. The grass mower and reaper.  
 4. The rotary printing press.  
@@ -5225,7 +5117,7 @@ shoes.
 10. The sand blast for carving.  
 11. Toe gauge lathe.  
 12. The&#x27;grain elevator.  
-13. Artificial ice makin
+13. Artificial ice making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237280842:1888103101:0054/pct:38.154042,58.140172,10.910248,5.822230/!600,600/0/default.jpg"/>
 </td>
@@ -5239,7 +5131,7 @@ shoes.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. v*  
+v*  
 world-wide adoption aro: 1. The cotton gin.  
 8. The planting machine. 3. The grass  
 mower and reaper. 4. The rotary printing  
@@ -5250,7 +5142,8 @@ manufacture of horse shoes. 10. Tho sand
 blast for carving. 11. The gauge lathe. 12.  
 The grain elevator. 13. Artificial ice making  
 on a large scale. 14. The electric magnet and  
-Its practical application. 15. The telephone.
+Its practical application. 15. The telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685130:1888111201:0872/pct:3.992231,86.609775,14.005179,6.470132/!600,600/0/default.jpg"/>
 </td>
@@ -5264,8 +5157,6 @@ Its practical application. 15. The telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 The fifteen great American inven­  
 tions of world wide adoption are: 1.  
 The cotton gin 2. The planting ma­  
@@ -5284,7 +5175,7 @@ phone.
   
 THE NE|S^RESUME.  
   
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89064939:0020653798A:1888111401:0374/pct:4.390888,5.997320,29.630241,89.591244/!600,600/0/default.jpg"/>
 </td>
@@ -5298,7 +5189,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The fifteen great American in­  
 ventions of world-wide adoption  
 are: 1. The cotton gin 3. The  
@@ -5313,7 +5203,7 @@ gangs lathe 13. grain elevator;
 scale; 14. The electrio magnet  
 and its practical application; IS.  
 The telephone.  
-ricb v
+ricb vr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaJoNB4n_ver01%2Fdata%2F1888112701%2F0502.jp2/pct:35.200523,32.332956,14.167393,10.588901/!600,600/0/default.jpg"/>
 </td>
@@ -5327,7 +5217,6 @@ ricb v
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The fifteen great American inven.  
 tions of world-wide adoption are: 1,  
 The cotton gin; 2, The planting?&#x27;ma­  
@@ -5342,7 +5231,8 @@ The gauge lathe; 12, The grain eleva­
 tor; 13, Artilicial ice making on a  
 large scale; 14, The electric magnet  
 and its practical application; 15, The  
-telephone.
+telephone.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767845:1888113001:0198/pct:51.181625,29.729213,12.041954,8.544637/!600,600/0/default.jpg"/>
 </td>
@@ -5356,7 +5246,6 @@ telephone.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Fifteen Great American Inventions.  
 The fifteen great American in ventions  
 of world- wide adoption are: 1. The  
@@ -5372,7 +5261,7 @@ grain-elevator; 1. Artificial ice-making
 on a large scale; 14. The electric mag­  
 net and its practical application; 15.  
 the telephone.  
-In Trouble An
+In Trouble Any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156724:1889010301:0009/pct:32.298224,78.174098,12.379354,10.318471/!600,600/0/default.jpg"/>
 </td>
@@ -5388,7 +5277,7 @@ In Trouble An
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The fifteen great American  
+The fifteen great American  
 inventions of world-wide adoption are :  
 1. The cottongin; 2. The planting  
 machine; 3. The grass mower and reaper;  
@@ -5402,7 +5291,7 @@ lathe; 12. The grain elevator ; 13.
 Artificial icemaking on a large scale ;  
 14. The electric magnet and its  
 practical application; 15. The  
-telephone
+telephone.
 </td></tr></table>
 
 ---
@@ -5413,7 +5302,7 @@ telephone
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; 2, the planing machine; 3, the grass  
+2, the planing machine; 3, the grass  
 mower and reaper, 4, the rotary printing  
 press; 5, navigation by steam; 6, the hot­  
 air engine; 7, the sewing machine; 8, the  
@@ -5421,7 +5310,7 @@ India ruber industry; 9, the machine
 manufacture of horse-shoes; 10, the sand­  
 blast for carving; 11, the gauge lathe; 12,  
 the grain clevator. I, artiticlal lee mat  
-o
+on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_icecream_ver01:data:sn83025010:00295864746:1891012201:0234/pct:39.153439,54.666130,10.377197,3.740949/!600,600/0/default.jpg"/>
 </td>

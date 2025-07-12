@@ -1,7 +1,7 @@
 
 # From _Sheffield Independent_
 
-### 517 reprints from 1842-01-30 to 1896-11-10
+### 481 reprints from 1842-01-30 to 1896-11-10
 
 ## [From _Sheffield Independent_](https://link-gale-com.ezproxy.lib.ryerson.ca/apps/doc/R3212004854/BNCN?u=rpu_main&sid=bookmark-BNCN&xid=846d399a.)
 
@@ -399,16 +399,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Northern Star_
-
-#### 1842-09-24 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _The Era_
 
 #### 1842-09-25 &middot; [London, England](http://dbpedia.org/resource/London)
@@ -462,16 +452,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _The Era_
 
 #### 1842-10-02 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1842-10-08 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -611,7 +591,7 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 #### From _Northern Star_
 
-#### 1842-10-29 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
+#### 1842-10-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -652,16 +632,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Northern Star_
 
 #### 1842-10-29 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1842-11-05 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -731,7 +701,17 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 #### From _Northern Star_
 
-#### 1842-11-19 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
+#### 1842-11-12 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
+#### From _Liverpool Mercury_
+
+#### 1842-11-18 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -782,16 +762,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Northern Star_
 
 #### 1842-11-19 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1842-11-26 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -889,9 +859,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Northern Star_
+#### From _Manchester Times_
 
-#### 1842-12-10 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
+#### 1842-12-17 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -969,9 +939,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
+#### From _Northern Star_
 
-#### 1843-01-07 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+#### 1843-01-07 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1069,9 +1039,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
+#### From _Northern Star_
 
-#### 1843-02-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+#### 1843-02-11 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1159,16 +1129,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Caledonian Mercury_
-
-#### 1843-03-02 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1843-03-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -1239,6 +1199,16 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
+#### From _Northern Star_
+
+#### 1843-03-11 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
 #### From _Trewman's Exeter Flying Post_
 
 #### 1843-03-16 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
@@ -1252,16 +1222,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Liverpool Mercury_
 
 #### 1843-03-17 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-03-18 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1369,29 +1329,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Caledonian Mercury_
-
-#### 1843-03-30 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1843-04-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-04-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1519,16 +1459,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Caledonian Mercury_
-
-#### 1843-04-13 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1843-04-15 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -1559,26 +1489,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Northern Star_
-
-#### 1843-04-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Morning Chronicle_
-
-#### 1843-04-20 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Liverpool Mercury_
 
 #### 1843-04-21 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
@@ -1592,26 +1502,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Caledonian Mercury_
 
 #### 1843-04-22 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Caledonian Mercury_
-
-#### 1843-04-22 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Leeds Mercury_
-
-#### 1843-04-22 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1669,29 +1559,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Caledonian Mercury_
-
-#### 1843-04-29 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1843-04-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-04-29 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1789,29 +1659,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Caledonian Mercury_
-
-#### 1843-05-13 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1843-05-13 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-05-13 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -1912,26 +1762,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Trewman's Exeter Flying Post_
 
 #### 1843-05-25 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Caledonian Mercury_
-
-#### 1843-05-27 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-05-27 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2129,16 +1959,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Leeds Mercury_
-
-#### 1843-06-17 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1843-06-17 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -2199,26 +2019,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Trewman's Exeter Flying Post_
-
-#### 1843-06-22 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Trewman's Exeter Flying Post_
-
-#### 1843-06-22 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Freeman's Journal_
 
 #### 1843-06-23 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
@@ -2252,16 +2052,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Freeman's Journal_
 
 #### 1843-06-24 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-06-24 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2369,29 +2159,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Northern Star_
-
-#### 1843-07-01 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Freeman's Journal_
 
 #### 1843-07-03 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Freeman's Journal_
-
-#### 1843-07-04 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -2422,16 +2192,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Caledonian Mercury_
 
 #### 1843-07-08 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-07-08 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2512,16 +2272,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Manchester Times_
 
 #### 1843-07-15 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Northern Star_
-
-#### 1843-07-15 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
 
 [This text is not available under an open license.]
 
@@ -2841,16 +2591,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 #### From _Freeman's Journal_
 
-#### 1843-08-25 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Freeman's Journal_
-
 #### 1843-08-28 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
@@ -2929,29 +2669,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Liverpool Mercury_
-
-#### 1843-09-08 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Caledonian Mercury_
 
 #### 1843-09-09 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-09-09 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3147,26 +2867,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ---
 
-## STOCKPORT.
-
-#### From _Manchester Times_
-
-#### 1843-09-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## STOCKPORT.
-
-#### From _Manchester Times_
-
-#### 1843-09-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
 ## Advertisements & Notices
 
 #### From _Northern Star_
@@ -3202,6 +2902,16 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Freeman's Journal_
 
 #### 1843-10-03 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
+#### From _Freeman's Journal_
+
+#### 1843-10-05 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
 
 [This text is not available under an open license.]
 
@@ -3302,16 +3012,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Caledonian Mercury_
 
 #### 1843-10-14 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-10-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3519,16 +3219,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1843-11-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Northern Star_
 
 #### 1843-11-04 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
@@ -3592,16 +3282,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 #### From _Caledonian Mercury_
 
 #### 1843-11-11 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-11-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3799,26 +3479,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1843-12-02 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1843-12-08 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Caledonian Mercury_
 
 #### 1843-12-09 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
@@ -3879,9 +3539,9 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
+#### From _Caledonian Mercury_
 
-#### 1844-02-03 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+#### 1844-01-22 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
 
@@ -3893,8 +3553,6 @@ May be had of the authors, 60, Newman-street, Oxford-street, London; and sold by
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s  
-  
 THE NINTH EDITION  
 Just published, price 2s. 6d. and sent free, on reccipt of a Post-office  
 Order, for 3s. 6d.  
@@ -3944,6 +3602,7 @@ on minutely describing their case, and enclosing the usual fee of 1/. for
 advice.  
   
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-02-10_1_24%2Fsim_economist_1844-02-10_1_24_jp2.zip%2Fsim_economist_1844-02-10_1_24_jp2%2Fsim_economist_1844-02-10_1_24_0022.jp2/pct:9.597156,57.237325,39.099526,32.035268/,600/0/default.jpg"/>
@@ -3968,8 +3627,6 @@ advice.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 THE NINTH EDITION.  
 Just published, price 2s. 6d. and sent free, on receipt of a Post-office  
 Order, for 3s. 6d.  
@@ -4020,6 +3677,7 @@ five till eight in the evening, at their residence, No. 60 Newman street,
 Oxford street, London; and country patients may be successfully treated  
 on minutely describing their case, and enclosing the usual fee of 1/. for  
 advice,  
+  
   
   
 
@@ -4085,16 +3743,6 @@ advice,
 #### From _Northern Star_
 
 #### 1844-03-23 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Trewman's Exeter Flying Post_
-
-#### 1844-03-28 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4255,16 +3903,6 @@ advice,
 #### From _Caledonian Mercury_
 
 #### 1844-05-06 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Trewman's Exeter Flying Post_
-
-#### 1844-05-09 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -4475,16 +4113,6 @@ advice,
 #### From _Northern Star_
 
 #### 1844-06-29 &middot; [Leeds, England](http://dbpedia.org/resource/Leeds)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-07-06 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4756,7 +4384,7 @@ advice,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; W. Howell, 75 Dale street, Liverpool; W.  
+W. Howell, 75 Dale street, Liverpool; W.  
 Wood, 78 High street, Birmingham; W. and H. Robin-  
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.  
@@ -4778,7 +4406,7 @@ Messrs Lucas and C 0. are to be consulted from ten till
 two, and from five till eight in the evening, at their resi-  
 dence, No. 60 Newman street, Oxford street, London,  
 and country patients may be successfully treated on mi-  
-nutely describing their case
+nutely describing their case,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-10-05_1_58%2Fsim_economist_1844-10-05_1_58_jp2.zip%2Fsim_economist_1844-10-05_1_58_jp2%2Fsim_economist_1844-10-05_1_58_0022.jp2/pct:56.792559,23.405851,24.154453,14.066017/600,/0/default.jpg"/>
 </td>
@@ -4792,7 +4420,7 @@ nutely describing their case
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the&#x27;^&#x27;n  
+the&#x27;^&#x27;n  
 affording a remedy. It shows how ‘ Manly Vigour ’ tempor«rlls  
 and mmul and physical emasculatbn, produced by uncontrollri inlii  
 genceof the pauiont, can be restored; how the sufferer, who  
@@ -4804,7 +4432,8 @@ courage.”—The New Ball’s Weekly Messenger.
 Messrs Lucas and Co. are to be consulted from 10 till 2. and frm. a.:,,  
 8 in the evening, at their retidence. No 60 Newman street. Oxfords^&#x27;  
 London, and country patients may he succewfally treated, on minkwv  
-describing their case, and enclosing the usual fee of U. for advice. ^
+describing their case, and enclosing the usual fee of U. for advice. ^  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-10-05_1914%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1844-10-05_1914_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1844-10-05_1914_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1844-10-05_1914_0013.jp2/pct:67.032285,30.120798,26.324503,5.606618/600,/0/default.jpg"/>
 </td>
@@ -4848,8 +4477,6 @@ describing their case, and enclosing the usual fee of U. for advice. ^
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 ‘The best of all friends is the Professional Friend : and  
 in no shape can he be consulted with greater safety and  
 secresy than in ‘ Lucason Manly Health.’ The initiation  
@@ -4863,7 +4490,7 @@ trolled indulgence of the passions, can be restored; how
 the sufferer, who has pined in anguish at the consequences  
 of early indiscretion—afraid almost to encounter his fel-  
 low-man, can regain the vigour of health and moral  
-courage.”—The Ne
+courage.”—The New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-10-12_1_59%2Fsim_economist_1844-10-12_1_59_jp2.zip%2Fsim_economist_1844-10-12_1_59_jp2%2Fsim_economist_1844-10-12_1_59_0022.jp2/pct:61.583991,42.329332,24.210823,8.589647/600,/0/default.jpg"/>
 </td>
@@ -4887,12 +4514,12 @@ courage.”—The Ne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; W. Howell, 75 Dale street, Liverpool; W.  
+W. Howell, 75 Dale street, Liverpool; W.  
 Wood, 78 High street, Birmingham ; W./and H. Robin-  
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.  
   
-* The bes
+* The best
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-10-19_1_60%2Fsim_economist_1844-10-19_1_60_jp2.zip%2Fsim_economist_1844-10-19_1_60_jp2%2Fsim_economist_1844-10-19_1_60_0022.jp2/pct:34.019166,87.921980,24.182638,3.057014/600,/0/default.jpg"/>
 </td>
@@ -4946,7 +4573,7 @@ street, Dublin; and all booksellers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; W. Howell, 75 Dale street, Liverpool; W.  
+W. Howell, 75 Dale street, Liverpool; W.  
 Wood, 78 High street, Birmingham; W.’and H. Robin-  
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.  
@@ -4964,7 +4591,7 @@ trolled indulgence of the passions, can be restored ; how
 the sufferer, who has pined in anguish at the consequences  
 of early indiscretion—afraid almost to encounter his fel-  
 low-man, can regain the vigour of health and moral  
-courage.”— The Ne
+courage.”— The New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-10-26_1_61%2Fsim_economist_1844-10-26_1_61_jp2.zip%2Fsim_economist_1844-10-26_1_61_jp2%2Fsim_economist_1844-10-26_1_61_0022.jp2/pct:9.667418,76.356877,25.479143,11.617100/600,/0/default.jpg"/>
 </td>
@@ -4988,12 +4615,12 @@ courage.”— The Ne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; W. Howell, 75 Dale street, Liverpool; W.  
+W. Howell, 75 Dale street, Liverpool; W.  
 Wood, 78 High street, Birmingham; W. and H. Robin-  
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.  
   
-“The bes
+“The best
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-11-02_1_62%2Fsim_economist_1844-11-02_1_62_jp2.zip%2Fsim_economist_1844-11-02_1_62_jp2%2Fsim_economist_1844-11-02_1_62_0022.jp2/pct:63.162345,38.654525,25.084555,3.196432/600,/0/default.jpg"/>
 </td>
@@ -5027,12 +4654,12 @@ street, Dublin; and all booksellers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; W. Howell, 75 Dale street, Liverpool; W.  
+W. Howell, 75 Dale street, Liverpool; W.  
 Wood, 78 High street, Birmingham; W. and H. Robin-  
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers.  
   
-**The bes
+**The best
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-11-09_1_63%2Fsim_economist_1844-11-09_1_63_jp2.zip%2Fsim_economist_1844-11-09_1_63_jp2%2Fsim_economist_1844-11-09_1_63_0022.jp2/pct:57.807215,40.435109,24.069899,3.038260/600,/0/default.jpg"/>
 </td>
@@ -5076,7 +4703,7 @@ street, Dublin; and all booksellers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; W. Howell, 75 Dale street, Liverpool; W.  
+W. Howell, 75 Dale street, Liverpool; W.  
 Wood, 78 High street, Birmingham; W. and H. Robin-  
 son, 11 Greenside street, Edinburgh; T. Price, 93 Dame  
 street, Dublin; and all booksellers  
@@ -5094,7 +4721,7 @@ trolled indulgence of the passions, can be restored; how
 the sufferer, who has pined in anguish at the consequences  
 of early indiscretion—afraid almost to encounter his fel-  
 low-man, can regain the vigour of health and moral  
-courage.”— The Ne
+courage.”— The New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-12-21_1_69%2Fsim_economist_1844-12-21_1_69_jp2.zip%2Fsim_economist_1844-12-21_1_69_jp2%2Fsim_economist_1844-12-21_1_69_0022.jp2/pct:33.702153,33.847584,25.568182,10.929368/600,/0/default.jpg"/>
 </td>
@@ -5119,6 +4746,22 @@ courage.”— The Ne
 #### 1844-12-23 &middot; [Edinburgh, Scotland](http://dbpedia.org/resource/Edinburgh)
 
 [This text is not available under an open license.]
+
+---
+
+## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-01-04_1927/page/n12/mode/1up?view=theater)
+
+#### 1845-01-04 &middot; [London, England](http://dbpedia.org/resource/London)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+(}. Mansell, 3 King street, .Southwark | C. WeaUrton, 13 Park side,  
+our Graci ui (Jueen and the leveral Sovereigns of Eun&gt;pe, &#x27;oge- Knighuhridge; Hiiett, 37 Princes street, Leicester square, London: T,  
+h the Beauties whUh adorn the circles of Princely and Regal .vuw.er. Courier (office, 4 St Ann&#x27;s square, Manchester: W. Howell, 73
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-01-04_1927%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-01-04_1927_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-01-04_1927_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-01-04_1927_0012.jp2/pct:39.003103,64.443277,49.437548,1.470588/600,/0/default.jpg"/>
+</td>
+</tr></table>
 
 ---
 
@@ -5278,11 +4921,12 @@ courage.”— The Ne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; W. Howell, 73  
+W. Howell, 73  
 Dale street, Liverpool; W. Wood, 78 High street, Birmingham; W.and  
   
 H. Bobinsoo, 11 (freeiiside street, Edinburgh ; &#x27;i&#x27;. Price, 93 Dame street;  
-Dublin ; and all Booksellers.
+Dublin ; and all Booksellers.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-23_1960_0013.jp2/pct:66.435918,55.055147,26.325158,1.995798/600,/0/default.jpg"/>
 </td>
@@ -5336,9 +4980,10 @@ Dublin ; and all Booksellers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-! W. Howell, 75 Dale street* Liverpool; W.  
+W. Howell, 75 Dale street* Liverpool; W.  
 Wood, 78 High street, Kirmlnvham; W. and H. Robinson, 11 Graentide  
-st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
+st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1846-02-07_1984_0013.jp2/pct:69.001429,62.460938,26.771493,1.523438/600,/0/default.jpg"/>
 </td>
@@ -5392,12 +5037,13 @@ st^, Edinburgh ; T. Price, 98 Dame street, Dublin; and all Booksellen.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- King-street,  
+King-street,  
 Southwark; Huett, S7 Princes-street, Lcieester-aquare, Loudon. T.  
 Bowler, Courier (Mftoc, Manchester; W. HoweU, 75 Dale-street, Liver¬  
 pool ; W. Wood, 78 High Btreet, Birmingham ; W. and 11. Hubinaon, 11  
 Qreenside street, Edinburgh ; T. Price, 93 Dame street, Dublin, and all  
-Booksellera
+Booksellera  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-15_2011_0013.jp2/pct:42.295597,51.718750,26.650943,2.877604/600,/0/default.jpg"/>
 </td>

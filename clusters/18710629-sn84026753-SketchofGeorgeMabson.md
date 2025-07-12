@@ -54,7 +54,6 @@ From dark ignorance to Liberty’s shining light.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Sketch of the Hon. Geo. I*. Mabgon.  
 of llorth Carolina.  
 BY OEOiaB V. ARNOLD.  
@@ -185,7 +184,7 @@ From dark ignorance to Liberty&#x27;s shining light.&quot;
 Ths Future of Che Negro In  
 America  
   
-I 
+I T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:5.556191,12.299098,15.525323,65.483455/!600,600/0/default.jpg"/>
 </td>
@@ -199,7 +198,7 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- enli  
+enli  
 Ns GEORGs n. A3omea.  
 reti  
 The first colored man that has 186  
@@ -291,7 +290,7 @@ setR **Te lrrtscaof orgeL&amp; Mab­
 isoearsn, the colored member from this  
 snB eizifty.ia b nosst5.gislatsewbrp  
 .ng has beein making apphalcaio for  
-Ik M ss
+Ik M sse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_umbrella_ver01:data:sn83016631:00200299693:1871071301:0247/pct:28.190299,24.836519,15.485075,66.008551/!600,600/0/default.jpg"/>
 </td>
@@ -305,7 +304,7 @@ Ik M ss
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as  
+as  
 nor sekhas a3q -.  
   
 &#x27;Taking into asa raMh a , arg  
@@ -367,7 +366,7 @@ light&quot;
 New National Era. th  
 n of  
 T THf1E Wil WILL UVIERITAIII IT. M  
-
+t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_umbrella_ver01:data:sn83016631:00200299693:1871071301:0247/pct:30.335821,13.405433,26.865672,84.054326/!600,600/0/default.jpg"/>
 </td>
@@ -381,11 +380,11 @@ T THf1E Wil WILL UVIERITAIII IT. M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- man tr­  
+man tr­  
 ken from the slone pen to the ballot­  
 box, from the whipping post to the  
   
-school house; fro
+school house; from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CEraR2n_ver01%2Fdata%2F1872020801%2F0064.jp2/pct:82.651992,63.864650,14.517820,2.084545/!600,600/0/default.jpg"/>
 </td>
@@ -399,9 +398,9 @@ school house; fro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- from the slone pen. to the, ballot­  
+from the slone pen. to the, ballot­  
 box, from the whipping post to the  
-school house,&#x27; fro
+school house,&#x27; from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EraRal4n_ver01%2Fdata%2F1872020801%2F0130.jp2/pct:84.488491,56.982681,12.672634,1.511663/!600,600/0/default.jpg"/>
 </td>

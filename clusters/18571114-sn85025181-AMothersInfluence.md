@@ -1,7 +1,7 @@
 
 # A Mother's Influence
 
-### 230 reprints from 1856-12-23 to 1899-06-24
+### 218 reprints from 1856-12-23 to 1899-06-24
 
 ## [A Mother's Influence](https://chroniclingamerica.loc.gov/lccn/sn85025181/1857-11-14/ed-1/seq-1/)
 
@@ -25,7 +25,7 @@ Hon. Thomas H. Benton, in a speech in New York, turned to the ladies, and referr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e New world to  
+ New world to  
 the Old. One of them was a weed that no animal of the  
 brute creation will touch, dry or green, net even the  
 browring goats or rooting hogs, nor the mule who feede  
@@ -45,7 +45,7 @@ crink and I took a resolution of total abstinence long before
 a socloty for that parpose was formed. In fact, I was the  
 tole constituent member of my own body. (Laughter,)  
 I do sot make much account of the lords of creation in  
-rairing up men. I look to the mothers
+rairing up men. I look to the mothers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856122301:1444/pct:48.935462,80.627460,15.640940,7.951105/!600,600/0/default.jpg"/>
 </td>
@@ -59,7 +59,7 @@ rairing up men. I look to the mothers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- My mother asked me never to  
+My mother asked me never to  
 use the weed, and I have never touched it from that to  
 the present day.  
 And now to something more serious: She asked m.  
@@ -77,7 +77,7 @@ before a society fir that purpose was formed. In fact, I
 wis the solo constituent member of my own nody.  
 [Laughter ]  
 I do not make much account of the lords of creation  
-in raising up men. I look to the mothers
+in raising up men. I look to the mothers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678252:1856122501:0505/pct:1.281313,33.659800,12.669162,7.801418/!600,600/0/default.jpg"/>
 </td>
@@ -91,7 +91,7 @@ in raising up men. I look to the mothers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in New York, Col. Thomas H. Ben-  
+in New York, Col. Thomas H. Ben-  
   
 ton said :  
   
@@ -125,7 +125,7 @@ and that I have adhered to it through all time, I owe to my mother.”
   
   
   
-Some of the illusions of life are kept up to a great age, a
+Some of the illusions of life are kept up to a great age, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_forresters-boys-and-girls-magazine_january-december-1857_19-20%2Fsim_forresters-boys-and-girls-magazine_january-december-1857_19-20_jp2.zip%2Fsim_forresters-boys-and-girls-magazine_january-december-1857_19-20_jp2%2Fsim_forresters-boys-and-girls-magazine_january-december-1857_19-20_0237.jp2/pct:19.860406,47.517123,64.244924,34.674658/600,/0/default.jpg"/>
 </td>
@@ -139,7 +139,7 @@ Some of the illusions of life are kept up to a great age, a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e now to the remarks of another speaker, who  
+now to the remarks of another speaker, who  
 has given us a notice, very properly, of two tilings  
 which were carried from the new world to the old.  
 I join him heartily, with a limitation in one of  
@@ -168,7 +168,7 @@ nence, long before societies for that purpose were
 formed. I was an abstinent society when I was  
 the sole constituent member of my own body ; and  
 that I have adhered to it through all time, I owe  
-to my mother.
+to my mother. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_selene_ver01:data:sn84031524:print:1857010201:5447/pct:19.669481,48.154495,14.693731,14.263116/!600,600/0/default.jpg"/>
 </td>
@@ -182,7 +182,7 @@ to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- whs h weed which no animal of  
+whs h weed which no animal of  
 the brute creation will touch, dried 01  
 green — which aot ev&lt; n the brow sing  
 goat * r the rooting hog. or the mule that  
@@ -201,7 +201,7 @@ that ran be played. She admonished
 m« too agaim-t haid drink; and whatever  
 capacity for endurance I may have at  
 p:esent, and whatever usefulness 1 » 5 *y  
-a’.iaiM in life, I attribute to having co
+a’.iaiM in life, I attribute to having com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt78cz322z45%2Fxt78cz322z45_jp2.zip%2Fxt78cz322z45_jp2%2Fxt78cz322z45_0001.jp2/pct:21.185525,61.183866,12.098299,11.042431/,600/0/default.jpg"/>
 </td>
@@ -215,8 +215,6 @@ a’.iaiM in life, I attribute to having co
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 and even light a fire under his nose to heat it; which can be found in Congress boarding-houses.  
 with. My mother asked me never to use the| I carried my curiosity so far as to ask the mis-  
 weed, and I have never touched it from that| tress to take me into the cooking department,  
@@ -279,7 +277,7 @@ THE OPEN ARCTIC SEA.
   
 The Boston Traveller publishes the following  
   
-summary of a Lecture by Lieutenant Maury, o
+summary of a Lecture by Lieutenant Maury, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-review-a-religious-journal_1857-01-03_10_17%2Fsim_friends-review-a-religious-journal_1857-01-03_10_17_jp2.zip%2Fsim_friends-review-a-religious-journal_1857-01-03_10_17_jp2%2Fsim_friends-review-a-religious-journal_1857-01-03_10_17_0012.jp2/pct:9.327462,12.173484,86.349079,23.040907/600,/0/default.jpg"/>
 </td>
@@ -303,7 +301,7 @@ summary of a Lecture by Lieutenant Maury, o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-sk the  
+k the  
 Minister to take me into the cooking depart-­  
 ment that I might see the cooking going on.  
   
@@ -313,7 +311,7 @@ She said I had taken her aare an  o e o ai i e e oi
 her that as u at  ad desire a  a e i e oe e e e a e o  
 e o e te o e eea oe oo ei e a o o i a  
 living. She opened the door and let eintoe o ae i e e o e  
-the kitchen, which was cleanly and nea
+the kitchen, which was cleanly and neat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857010801:0623/pct:42.034825,54.040787,25.960570,4.493774/!600,600/0/default.jpg"/>
 </td>
@@ -327,13 +325,7 @@ the kitchen, which was cleanly and nea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mit he went singing bis Chihk a de de:  
-  
-A AfOTHER!S LcV.E&#x27;L;UVkdE.  
-  
-In a speich . ..tdeliiered. by &#x27;Col; Beaten i Eng., nine gallons ; a . ellrith, sixteen ;  
-(Old  
-Arc In Preece Bullion) at the A nniversary D i nner lot Carlisle, twenty-four; at,i 4 hesrei, Mini­  
+Bullion) at the A nniversary D i nner lot Carlisle, twenty-four; at,i 4 hesrei, Mini­  
 , • , . Itor r i • tie.reder is us 4  
 of the New England Society, at .thri Astor , &#x27; • &#x27; • &#x27;  
 •• - 1&#x27;427 to 1,000 compared with the unporial  
@@ -385,9 +377,9 @@ has ever produced, owed - his position . to !equal to one hundred and • ninery
 the principles , inculcated .in his breast in ; ces avoirdupois. ,- All precious metals aro  
 i butig,ht, and sold by, Troy, weight.  
 childhood by her who gave him birth.  
-I
+I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002399%2F1857010901%2F0004.jp2/pct:28.962668,41.846429,25.270298,24.332143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002399%2F1857010901%2F0004.jp2/pct:28.962668,44.460714,25.270298,21.717857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +391,7 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- these things waa a weed which no animal  
+these things waa a weed which no animal  
 of the brute creation will touch, dried or  
 green which not even the browsing goat or  
 the rooting hog, or the mule thnl feeds upon  
@@ -425,7 +417,7 @@ before societies for that purpose were form­
 ed. I waa an abstinent society at a time  
 when I wns the sole constituent member of  
 my own body; and that I have adhered to it  
-through all time, I owe to my mother
+through all time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1857011601:0675/pct:32.375834,12.251023,12.379540,13.274216/!600,600/0/default.jpg"/>
 </td>
@@ -449,7 +441,7 @@ through all time, I owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- fire-un­  
+fire-un­  
 der his nose. to heat it,with it. My  
 mother asked me never to use the  
 weed,. &#x27;and I have never touched it  
@@ -473,7 +465,7 @@ ties for that purp,ose.were formed.
 as the stile constituent nsertMer of  
 my own body ; and that I have adhere !  
 to it through all thee, I owe to my  
-another
+another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caca_ver01%2Fdata%2Fsn83032194%2F000002011%2F1857012901%2F0016.jp2/pct:10.446623,60.531634,13.763617,17.829939/!600,600/0/default.jpg"/>
 </td>
@@ -487,7 +479,7 @@ another
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s of  
+of  
   
 another speaker, who has given us a notice  
 very properly of two things which were  
@@ -522,7 +514,7 @@ that purpose were formed. I was an absti­
 nent society at a time when I was the sole  
 constituent member of my own body; and  
 that I have adhered to it through all time,  
-I owe to my mother
+I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1857021301:0034/pct:4.509044,4.775146,22.937123,91.862435/!600,600/0/default.jpg"/>
 </td>
@@ -536,7 +528,7 @@ I owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. In a speech  
+In a speech  
 delivered by Col. Benton (Old Bullion,) at  
 the Anniversary Dinner ol the New Eng  
 land Society, at (he Astor House, Now  
@@ -576,7 +568,7 @@ life. Almost every great man the world
 has ever produced, owed his position to the  
 principles inculca&#x27;ed in his breast in child­  
 hood by her who gave him birth.  
-K7
+K7 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1857022801%2F0392.jp2/pct:33.746678,66.492221,13.950399,25.049505/!600,600/0/default.jpg"/>
 </td>
@@ -590,8 +582,6 @@ K7
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 A Mother’s Influence.  
 In a speech delivered by Col. Benton  
 (Old Bullion,) at the anniversary dinner of  
@@ -631,7 +621,8 @@ Almost every great man.the world has ever
 produced, owed his position to the principles  
 inculcated in his breast in childhood by her  
 W’ho gave him birth.  
-Discipline in Childhood.
+Discipline in Childhood.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanhart_ver01:data:sn89053987:print:1857031401:0044/pct:30.883312,40.847712,12.793351,23.080770/!600,600/0/default.jpg"/>
 </td>
@@ -645,8 +636,6 @@ Discipline in Childhood.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 be your  
 lan ;  
 e fop  
@@ -706,7 +695,8 @@ the principles inculcated in his breast in child-
 hood by her who gave him birth—Ger. Ref.  
 Mess.  
   
-THE PRINCESS AND THE TUTOR.
+THE PRINCESS AND THE TUTOR.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1857-05-07_31_19%2Fsim_youths-companion_1857-05-07_31_19_jp2.zip%2Fsim_youths-companion_1857-05-07_31_19_jp2%2Fsim_youths-companion_1857-05-07_31_19_0003.jp2/pct:26.185458,9.942815,16.859852,27.209002/,600/0/default.jpg"/>
 </td>
@@ -740,7 +730,7 @@ THE PRINCESS AND THE TUTOR.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- not long since, Col.  
+not long since, Col.  
 Benton said :  
   
 „My mother asked me never to use to-  
@@ -765,6 +755,7 @@ formed. I was an abstinent society at a
 time when I was the sole constituent of  
 my own body; and that I have adhered to  
 it through all time, I owe to my mother.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1857-08-13_6_34%2Fper_the-pacific_the-pacific_1857-08-13_6_34_jp2.zip%2Fper_the-pacific_the-pacific_1857-08-13_6_34_jp2%2Fper_the-pacific_the-pacific_1857-08-13_6_34_0001.jp2/pct:26.470017,16.648426,17.096837,13.307153/,600/0/default.jpg"/>
@@ -779,23 +770,6 @@ it through all time, I owe to my mother.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ugh, perhaps too much.  
-It relieves his home of dullness and  
-sameness. Nay, it accompanies him to  
-his next day&#x27;s work, and gives him some­  
-thing to think of besides the mechanical  
-drudgery of his every day occupation;  
-something he can enfoy while absent,  
-and look forward to with pleasure. If I  
-were to pray for a taste which would  
-stand by me under every variety of cir­  
-cumstances, and be a source of happi­  
-ness and cheerfulness to me through life,  
-and a shield against all tis ills, however  
-things might go amiss, and the world  
-frown upon me, it would be a taste for  
-reading.--Sir JohN HerschELL.  
-  
 A Mother&#x27;s InfluEnce.  
   
 Hon. Thomas H. Benton, in a speech  
@@ -821,9 +795,9 @@ stituent member of my own body, and
 that I have adhered to it through all  
 time, I owe to my mother.&quot;  
   
-Ever
+Every
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1857102901:0139/pct:30.042992,19.976498,12.089424,22.444183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1857102901:0139/pct:30.042992,28.867998,12.072227,13.552683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,22 +809,7 @@ Ever
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ons; turn from us the judgments  
-which we feel to fear; and give us wisdom  
-to discern, and courage to attempt, and  
-taithfulness to do, and patience to endure  
-whatsoever shall be well pleasing in thy  
-sight, that so thy chastenings may yield  
-the peaceable fruits of righteousness, and  
-that at the last we may rejoice in thy sal-  
-vation, through Jesus Christ our Lord.  
-Amen.&quot;  
-&quot;O Lord, we beseech thee, mercifully  
-hear our prayers, and spare all those who  
-confess their sins unto thee; that they  
-whose consciences by sin are accused, by  
-thy merciful pardon may be absolved,  
-through Christ our Lord. Amen.&quot;  
+&quot;  
 A Mother&#x27;s InfluEncE.  
 Hon. Thomas H. Benton, in a speech in  
 New York, turned to the ladies, and re  
@@ -873,37 +832,9 @@ nence society at a time when I was the
 sole constituent member of my own body,  
 and that I have adhered to it through all  
 time, I owe to my mother.&quot;  
-W There is a world where no storms  
-intrude--a heaven of safety against the  
-tempests of life-a little world of joy and  
-love, of innocence and tranquility. Sus­  
-picions are not there, nor the venom of  
-slander. When a man entereth it, he  
-forgets his sorrows and cares, and disap­  
-pointments--he openeth his heart to con­  
-fidence and pleasures, not mingled with  
-remorse. This world is the home of a  
-virtuous, and amiable 
+W 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857111401:0461/pct:70.263104,37.809984,13.032837,32.785829/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The New York herald._](https://www.loc.gov/resource/sn83030313/1857-12-01/ed-1/?sp=4)
-
-#### 1857-12-01 &middot; [New York [N.Y.]](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-­  
-NEW ORIEANS, Nov. 28, 1857.  
-Cotton market dull; prices irregular, and declined igc  
-sales to day 3,500 bales at 117c, a 112e, for middling  
-Flour active at $5 25. Meas pork $18, and market bar
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857120101:0746/pct:84.610814,21.553492,15.011073,1.700414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857111401:0461/pct:70.405874,46.312399,12.828880,17.359098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,18 +846,7 @@ Flour active at $5 25. Meas pork $18, and market bar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-common to good Ohio $5 25 a  
-5 70; exiti Genesee $5 70 a 5 77,closing with a strong ten­  
-dency downward. Wheat nearly nominal; sales 13 000  
-bush; Chicago Spring reported at $1; R?d Indiana $115;  
-Red Illinois $1 15f. Corn firmer; hsKh 6000bmh; mix  
-ed Western 9dc; While Southern 92 a 94. Pork lower.  
-Beef heavy. Lard Lower. Whisky drooping; sales 250  
-bbl*, Ohio 23i a 25c.  
-New Orkaus Market.  
-New Orleans, Nov. 28.—The Cotton maket is dull,  
-prices irregular and declined; sales today 30500 bales, at  
-1H ®HI for middling. Flour active at $5 20. Mess  
+Mess  
 Pork $lB, and market bare.  
 How “Old Bullion” was Made.—Thomas  
 H. Benton, in a speech in New York, turned  
@@ -943,9 +863,9 @@ at present, and whatever usefulness I may at­
 tain in life, 1 attribute to having complied  
 with her pious and earnest wishes.”  
 The grand jury of New Orleans have  
-found tru
+found true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857120101:1078/pct:44.913441,58.859206,12.429488,13.184116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857120101:1078/pct:44.971795,63.191336,12.371134,8.851986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,19 +887,7 @@ found tru
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-time he walked 1100 miles in as  
-many hours—one mile an hour.  
-Reuben Hitchcock and wife, of North Corn­  
-wall, celebrated their golden wedding on the  
-7tb, and it is not a little singular that three  
-of their eight children, (all of whom were  
-present on the occasion,) should have mar­  
-ried into the family of Elias Hart of the same  
-place, the fiftieth anniversary of whose marriage  
-occurred but a few days later.  
-The manufacturing establishment of T. A. Hol­  
-comb &amp; Son, at Branford, was destroyed by fire  
-last Wednesday night; loss about $5,000, partly  
+loss about $5,000, partly  
 covered by insurance.  
 How “Old Bullion” was Made.—Thomas  
 H. Benton, in a speech in New York, turned to  
@@ -994,9 +902,9 @@ hard drink; and whatever capacity forendurance
 1 may have at present, and whatever usefulness  
 I may attain in life, I attribute to having com­  
 plied with her pious and earnest wishes.”  
-Lif
+Life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83020847:00517171475:1857120501:0388/pct:19.825939,72.923588,14.243260,13.138025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83020847:00517171475:1857120501:0388/pct:19.825939,78.178798,14.179580,7.882815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +916,7 @@ Lif
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—lion. Thomas H. Benton, in a  
+lion. Thomas H. Benton, in a  
 speech in New York, turned to the ladies, and  
 referring to his mother, said :—“ Mv mother  
 asked me never to use tobacco, and I have  
@@ -1027,7 +935,7 @@ of total abstinence. I formed au abstinence
 society at a time when I was the sole constit­  
 uent member of my own body, ai d that I have  
 adhered to it through all time, I owe to toy  
-mother
+mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857121001:0615/pct:64.591580,77.194997,14.519611,10.681470/!600,600/0/default.jpg"/>
 </td>
@@ -1041,7 +949,7 @@ mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!&quot;  
+&quot;  
 A Mother&#x27;s Influence.  
 Hon. T. H. Benton, in a speech in N.  
 Y. turned to the ladies, and refering to his  
@@ -1062,7 +970,7 @@ and earnest wishes. When seven years of
 hody and thet I I  
 my own body, and that I have adhered to  
 through all time, I owe to my mother.&quot;  
-t
+te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857121201:0478/pct:83.316461,73.685057,12.836607,16.728326/!600,600/0/default.jpg"/>
 </td>
@@ -1076,7 +984,7 @@ t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to live.  
+to live.  
 How &quot;Ond BuLLION&quot; Was MADE.  
 Thomas H. Bentonin a speech in New York.  
 turned to the ladies, and referring to hi  
@@ -1093,7 +1001,7 @@ plied with her pious and earnest wishes.
  e i    
 REPlExIsHine ThE SAnls oF LIEE.The  
 eee e e ee ee  
-following lettr, itended for th
+following lettr, itended for the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1857121201:0201/pct:4.296763,52.061332,12.918934,9.656783/!600,600/0/default.jpg"/>
 </td>
@@ -1107,7 +1015,7 @@ following lettr, itended for th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- one of  
+one of  
 the eminent divines of our , country.-  
 &#x27;: OMNIUM GATHERUM.  
 Influence of a Mother. The Hon.  
@@ -1123,7 +1031,7 @@ whatever capacity for endurance I-irmy
 have at present, and whatever usefulness 1  
 may attain in life. I atlrilute to having  
 complied with her pious and- earnest wish  
-ea
+ea.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm8n_ver01%2Fdata%2F1857121901%2F0492.jp2/pct:14.939577,58.693755,13.036254,9.909012/!600,600/0/default.jpg"/>
 </td>
@@ -1137,7 +1045,7 @@ ea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, deserves to be written in letters  
+deserves to be written in letters  
 of gold, and placed in the hat of every young  
 man in the country :  
 My mother asked me never to use tobacco,  
@@ -1154,7 +1062,7 @@ wishes.
 Hap nls OwN Way.—Franklin Holden, a  
 good looking merchant of Penn Yan, (N.  
 Y.) has been sentenced, at Albany, to five  
-years in the State Prison fo
+years in the State Prison for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:0051701543A:1857121901:0553/pct:36.025017,48.905885,14.287700,10.664967/!600,600/0/default.jpg"/>
 </td>
@@ -1168,7 +1076,6 @@ years in the State Prison fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 A MothEr&#x27;S INflUENcE.  
 Hon. Thos. H. Benton, in a speech in  
 New York, turned to the ladies, and refer-  
@@ -1190,7 +1097,7 @@ of total abstinence. I formed an agstin­
 ence society at a time when I was sole  
 constituent member of my own body, and  
 that I have adheared to it through all  
-time I owe to my mother
+time I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1858011901:0180/pct:69.587137,33.801609,12.154244,12.010724/!600,600/0/default.jpg"/>
 </td>
@@ -1204,7 +1111,6 @@ time I owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 How Old Bcixiox&quot; was Made. Thomas H.  
 Benton, in a speech in New York, turned to the  
 ladies, and referring to his mother, said : My  
@@ -1218,7 +1124,7 @@ capacity for endurance I may have at present, and
 whatever usefulness I may attain in life, I attribute  
 to bavine complied with her&#x27; pious and earnest  
 wishes.&quot;  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1858012801:0126/pct:13.544974,50.374552,12.910053,6.101400/!600,600/0/default.jpg"/>
 </td>
@@ -1232,7 +1138,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-arity  
+rity  
 How &quot;Old Bullion&quot; was Made.  
 Thomas H. Benton, in a speech in New  
 York, turned to the ladies, and, referring to  
@@ -1250,7 +1156,7 @@ may attain to in life, I attribute to having
 complied wilh her pious and earnest wishes.  
 03&quot; In treating diseases of the mind,  
 music is not sufficiently valued. In rais  
-ing th
+ing the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn83025129%2F00000002043%2F1858030601%2F0617.jp2/pct:67.124212,44.559219,14.266427,13.103156/!600,600/0/default.jpg"/>
 </td>
@@ -1264,7 +1170,7 @@ ing th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of Commons.  
+of Commons.  
 A Motheb’s T,  
 tt. Benton j in a speech in New York,  
 furne&#x27;d to the ladies, and referring to his  
@@ -1290,7 +1196,7 @@ have adhered to it through all time 1
 owe to my mother.  
 A Flight of FaAssembly man  
 bis spe.cch on the Vigilance  
-questio
+question
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557499:1858031201:0573/pct:3.746136,55.651071,12.875068,16.319053/!600,600/0/default.jpg"/>
 </td>
@@ -1304,7 +1210,7 @@ questio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. and yoa will give the best positive proof of  
+and yoa will give the best positive proof of  
 Chrarthteity. -  
 lry mother asked me never to use tobacco, and I  
 a never touched it from that time to the present  
@@ -1315,7 +1221,8 @@ dAonidheii me, too, against hard drink; and what­
 er capacity fcr endurance I may have at present.  
 Wd whatever usefulness I may attain in life, I attri­  
 tat3 to having complied with her pious and earnest  
-wiea- T. II. Benton.
+wiea- T. II. Benton.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1858040801:0165/pct:3.044619,79.738350,12.532808,5.276246/!600,600/0/default.jpg"/>
 </td>
@@ -1329,8 +1236,6 @@ wiea- T. II. Benton.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 A Motuex’s IriU ENt e. —IT -;-., Thomas II  
 bent- ;j. in a speech in New York, turned *0 ILO  
 ladies, and referring to Lis n. ther, said ;  
@@ -1350,7 +1255,7 @@ me not to drink, and i made then a resolut. .
 s. vieiv at a time when 1 was the s le constitu­  
 ent member i; my own body; and tha&#x27; I ha. ;  
 adi.e;eil to it through all past Ume, 1/ to  
-my mother
+my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1858041301:0898/pct:82.981170,28.254300,12.749748,9.007438/!600,600/0/default.jpg"/>
 </td>
@@ -1364,7 +1269,6 @@ my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Mother&#x27;s Influence.—lion,  
 rhomas H. Benton, in a speech in New  
 York, turned tc* he ladies, and refer­  
@@ -1387,7 +1291,7 @@ tion of total abstinence society at a timt
 when 1 was the sole constituent membei  
 of my own body, and that 1 have adher­  
 ed to it through all time I owe to my  
-mother.
+mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858041501:0041/pct:5.852018,52.204375,12.286996,15.481887/!600,600/0/default.jpg"/>
 </td>
@@ -1401,7 +1305,7 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 A MOTHER&#x27;S INFLUENCE.- Hon. Thos. H.  
 Benton, in a speech in New York, turned to  
 the ladies, and referring to his mother, said:  
@@ -1420,99 +1324,10 @@ wishes. When seven years of age she
 asked me not to drink, and I made then a  
 resolution of total abstinence at a time when  
 I was the sole constituent member of my  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1858050101:0736/pct:84.319690,88.287083,10.660951,8.180096/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The eastern clarion._](https://www.loc.gov/resource/sn84020047/1858-08-14/ed-1/?sp=1)
-
-#### 1858-08-14 &middot; [Paulding, Miss.](http://dbpedia.org/resource/Paulding%2C_Mississippi)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-this city  
-The total weight of this Agave is about  
-o tho and ninethundred and sixty  
-It is about to bloom, and has  
-forown uip a stem which has already  
-reached the neiguce wenty-nve feet.  
-Afriend living af Mushulaville, re-  
-ates to us the follotieg very singular  
-otoIts  
-Mr. Adams, residing near that place  
-has a number of trained hounds to hunt  
-deer. Like most dogs reared to the  
-chase, they will often steal away private  
-ly and hunt their game, and a few eve­  
-nings since one of them returned home  
-with a young fawn trotting along by  
-its side, too young to know the dange­  
-rous company it was keeping. Macon  
-BeacoN.  
-Home.--There is a world where no  
-storms intrude, a haven of safety against  
-the tempests of life. A little world of  
-joy and love, of innocence and tran  
-quility. Suspicions are not there, nor  
-jealousies, nor falsehood with her double  
-tongue, nor the venom of slander.  
-Pence embraces it with outspread  
-wings. Plenty broodeth there. tnen  
-a man entereth it, he forgeteth his sor­  
-rows, and cares, and disappointments;  
-he openeth his heart to confidence,  
-and to pleasure not mingled with re  
-morse. This world is the well-ordered  
-home of a virtuous and amiable woman  
-Kicr THAT EDrTor OuT!--In reply to  
-Mr
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1858081401:0184/pct:54.154016,72.940122,9.674303,14.695626/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The globe._](https://panewsarchive.psu.edu/lccn/sn83032114/1858-08-25/ed-1/seq-1/)
-
-#### 1858-08-25 &middot; [Huntingdon, Pa.](http://dbpedia.org/resource/Huntingdon%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ppressed lie, the poi­  
-sonous insinuation, the malignant inuendo,  
-are adroitly arranged to injure your reputa­  
-tion, or to embitter your friends against you,  
-by those who, were they not dead to all sense  
-of gratitude, would pronounce your mane  
-only to invoke blessings upon your pathway.  
-  
-Such is sometimes life. But there is  
-another side to the picture. It is better to  
-suffer than to do wrong. The coals of fire  
-on the head of an enemy will not fail, sooner  
-or later, to melt the ice surrounding, and  
-soften and purify the heart. Then the ene- -  
-my is slain ; a friend is created.  
-  
-THE Two IVoaLns.—There is a World  
-where no storms intrude—a heaven of safety  
-against the tempest of life, a little world of  
-joy and love, of innocence and tranquility.  
-Suspicions are not there, nor jealousies; nor  
-falsehood, with their double - longue, nor the  
-venom of slander. Peace embracing there.  
-&#x27;When a man entered&#x27; it, he forgets his sor­  
-rows, and cares, and disappointments; he  
-opens his heart to confidence, and to pleasure  
-not mingled with remorse. This world is the  
-home of a virtuous and amiable woman.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001945%2F1858082501%2F0129.jp2/pct:78.818067,58.365073,14.717815,14.413175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1339,6 @@ home of a virtuous and amiable woman.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
   
 Sow (boohing the tribute of tho Hon. T. H. I  
 Benton* to his mother’s influence:— &#x27;  
@@ -1541,7 +1355,7 @@ I may attain in life, 1 attribute to having com- * Ponn Street,
 plied with her pious and correct wishes. When i n-n* opposite THE ST. CLAIR HOTEI^  
 I was seven years fit age she asked me not to I B“lT«.fcrCoM»aptloi., Aathn..,  
 drink, and I then made a resolution of total ah- , &quot; d *&quot; ° tl, &#x27; r Chronic Complain.,  
-stinooce, at atio.eWhenl was the sole constl- 
+stinooce, at atio.eWhenl was the sole constl- i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fides_ver01%2Fdata%2Fsn84026382%2F000002614%2F1858082801%2F0094.jp2/pct:33.509887,7.577953,19.019244,5.346302/!600,600/0/default.jpg"/>
 </td>
@@ -1555,7 +1369,7 @@ stinooce, at atio.eWhenl was the sole constl-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; 1  
+1  
 How touching the tribute of the Hon. T. H. Ben­  
 ton to his mother’s influence:  
 “ My mother asked me never to use tobacco, and  
@@ -1574,7 +1388,7 @@ constituent-meml«er of my own body, and that I
 have adhered to it through all time, I owe to my  
 mother.”  
   
-NEWS B
+NEWS BY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858090201:0144/pct:50.209038,9.647345,20.545491,84.407512/!600,600/0/default.jpg"/>
 </td>
@@ -1588,7 +1402,7 @@ NEWS B
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- that noble statesman, Thomas  
+that noble statesman, Thomas  
 Benton, says of his mother, and go thou and  
 do likewise&quot; :  
 &quot; My mother asked me never to use tobacco,  
@@ -1605,7 +1419,7 @@ asked me not to drink, and I then made a reso­
 lution of total abatinence, at a time whea I  
 the sola constituent member of my own body  
 and that I have adhered to it through all time  
-owe to my mother
+owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775721:1858090201:0326/pct:30.419715,88.074910,12.244898,8.028091/!600,600/0/default.jpg"/>
 </td>
@@ -1629,10 +1443,7 @@ owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the easy and useless  
-occupation of a small man, who cannot take  
-in at one view the whole circumference of a  
-large one.--Arnott&#x27;s Illustration of Proverbs.  
+erbs.  
 A MoTHeR&#x27;s INFLUENcE.- How touching  
 the tribute of thr Hon. T. H. Benton, to his  
 mother&#x27;s influence:  
@@ -1653,9 +1464,9 @@ abstinence, at a time when I was the sole
 constituent member of my own body, and  
 that I have adhered to it thro ugh all time, I  
 owe to my mother.  
-The SAINT
+The SAINT 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858091001:0573/pct:81.359223,37.426192,12.718447,13.111279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858091001:0573/pct:81.359223,38.909917,12.718447,11.627555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1667,7 +1478,7 @@ The SAINT
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-TE TO HIS  
+E TO HIS  
 MOTHER.  
 How touching the tribute of the Hon.  
 T. H. Benton, to his mother’s influence: —  
@@ -1688,35 +1499,9 @@ total abstinence, at a time when I was the
 sole constituent member of my own body,  
 and that I have adhered to it through all  
 time, I owe to my mother.&quot;  
-A DA
+A DAR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858091801:0359/pct:16.837851,76.178960,12.375821,12.535268/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Opelousas courier._](https://www.loc.gov/resource/sn83026389/1858-10-09/ed-2/?sp=2)
-
-#### 1858-10-09 &middot; [Opelousas, La.](http://dbpedia.org/resource/Opelousas%2C_Louisiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- suspicions never enter­  
-ed, nor jealousies, nor falsehood with her double  
-tongue, nor the venom of slander, is alas bereft of  
-its tutelary genius. Who ever entered within its  
-threshold, but forgot in the cheerful and affectionate  
-greeting of its departed hostess, his sorrows and  
-cares and disappointments, and whose heart did  
-not expand with that confidence and delight and  
-pleasure she could so thappily inspire ho  
-Often and again has the writer, in the cordial  
-and unreserved relations long and intimately sus­  
-tained towards that family, thought, in viewing  
-the happy lot of hi
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212475063:1858100902:0168/pct:72.110630,48.471055,12.978986,5.672269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1728,7 +1513,7 @@ the happy lot of hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o Herald.  
+Herald.  
 A MoTHER&#x27;s INFLUENCE.--How touch­  
 ing the tribute of the Hon. T. H. Ben­  
 ton, to his mother&#x27;s influence:  
@@ -1750,7 +1535,7 @@ total abstinence, at a time when I was
 the sole constituent members of my own  
 body, and that I have adhered to it  
 through all time, I owe to my mother.  
-A La
+A Lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1858110301:0284/pct:16.799877,75.186522,10.513372,13.922984/!600,600/0/default.jpg"/>
 </td>
@@ -1764,7 +1549,7 @@ A La
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e  oe  
+e  oe  
 years longer.  
 How touching the tribute of the  
 Hon. Thomas I1. Benton, to his moth­  
@@ -1788,30 +1573,9 @@ resolution of then made a total absti­
 nence, at a time when I was the sole  
 constituent member of my own body,  
 and that I have adhered to it through  
-all time, I owe to my mother.
+all time, I owe to my mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1858111101:0582/pct:72.690924,54.935906,13.274690,16.069777/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Daily progress._](https://newspapers.digitalnc.org/lccn/sn92072912/1858-11-20/ed-1/seq-1/)
-
-#### 1858-11-20 &middot; [Newbern, N.C.](http://dbpedia.org/resource/New_Bern%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-And there upon her bended knee she ceased at . r  
-1 once to pray and live  
-1  
-fnrrrotn his Korrows. and cares and disappoint  
-ments : he opens his heart to confidence and ple-t  
-sirred not mingled with remorse. This world is; ;  
-tle home of a virtnous an amiabl
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg2n_ver01%2Fdata%2F1858112001%2F0265.jp2/pct:73.890578,89.316783,18.328267,6.142584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1587,7 @@ tle home of a virtnous an amiabl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- when  
+when  
 we want to obtain any recognition Jn  
 European society.&#x27;  
 ;&#x27;;  
@@ -1851,7 +1615,8 @@ drink, and a J resolution I then made of
 total abstinence, at a lime when I was  
 ice sole constituent member of my own  
 body, and thstI have adhered toit through  
-all time, I owe Jp my mother.&quot;
+all time, I owe Jp my mother.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IExState1n_ver01%2Fdata%2F1858120301%2F0002.jp2/pct:41.866159,7.406243,12.500000,14.655353/!600,600/0/default.jpg"/>
 </td>
@@ -1865,7 +1630,7 @@ all time, I owe Jp my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the Hon. Thorn-  
+of the Hon. Thorn-  
 s H. Benlon, to his mothers i&#x27;lfliience : i  
 &quot;.My inoihcr u.M.ed me never to use tobacco,  
 , , , .. r .. . . i  
@@ -1883,7 +1648,7 @@ ed me not lo drink and a resolution of then
 made a total abstinence, at a time when I was  
 the sole constituent member of my own body,!  
 and that I have adhered to it through nil tiin,!  
-owe to my mothe
+owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296527:1858120801:0189/pct:3.602687,58.328221,14.492164,10.153374/!600,600/0/default.jpg"/>
 </td>
@@ -1897,22 +1662,6 @@ owe to my mothe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-se in which he resides. When hoe  
-entered the lecture-room the students all rose to  
-receive him, and he acknowledged their attention  
-with a polite bow. He wore a black dress-coat and  
-white pantaloons. Liebig is a fine, intellectual-  
-looking man, tall though not broad ; has iron-gray  
-hair, which has fallen off from his broad and pro-  
-jecting forehead ; he wears no beard. He lectures  
-m &amp; very conversational manner, part of the time  
-sitting ; makes many gestures, and good ones too.  
-His face is expreesive. He is, indeed, a good deal  
-of an orator, and perhaps the best popular lecturer  
-in Germany.  
-  
-  
-  
 A MOTHER’S INFLUENCE.  
   
 (Hon. Thomas H. Benton, in a speech in New York, turned to  
@@ -1939,9 +1688,9 @@ mother.
 SPEECHES.  
   
 Mr. Jererson said he had been in deliberative  
-bo
+bod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_independent_1858-12-30_10_526%2Fsim_independent_1858-12-30_10_526_jp2.zip%2Fsim_independent_1858-12-30_10_526_jp2%2Fsim_independent_1858-12-30_10_526_0005.jp2/pct:52.696335,27.474832,12.761780,16.778523/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_independent_1858-12-30_10_526%2Fsim_independent_1858-12-30_10_526_jp2.zip%2Fsim_independent_1858-12-30_10_526_jp2%2Fsim_independent_1858-12-30_10_526_0005.jp2/pct:52.774869,33.798238,12.683246,10.455117/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1953,7 +1702,6 @@ bo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 jj  
 A Mother&#x27;.* Influence.?Hon. Thomas I j  
 &#x27; II. licnton, in a speech in New York, turn-1&#x27;  
@@ -1976,25 +1724,9 @@ ige, she asked rue not to drink, and I made
 an abstinence society at a time when I  
 vas the sole constituent member of my own  
 &gt;ody; and that I ha,Fe adhered to it through i  
-ill the past time, owe to my mother
+ill the past time, owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1859012701:0152/pct:30.457919,3.910068,27.405125,95.972630/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Bellows Falls times._](https://www.loc.gov/resource/sn84022549/1859-02-04/ed-1/?sp=1)
-
-#### 1859-02-04 &middot; [Bellows Falls, Vt.](http://dbpedia.org/resource/Bellows_Falls%2C_Vermont)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-He is, ind. ed,  
-a good deal of an orator, and perhaps the  
-best popular lecturer in Germany.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859020401:0054/pct:78.303872,88.975224,14.583333,1.656649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2006,25 +1738,6 @@ best popular lecturer in Germany.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ffee for you.&quot;  
-&quot;Doctor, that was too much. I could  
-ndure it no longer, and I rosolved from  
-that moment that I would never touch  
-another drop as long as I lived, and I  
-never will. It was a heavy trial of my  
-wife&#x27;s putioucc; but sho fairly conquered  
-me.&quot;  
-lie held to his resolution, and lived  
-and died, practising total abstinence  
-from all intoxicating drinks, in a village  
-where intemperance has ravaged as  
-much as any other in tho State.  
-That man was my father, and that wo­  
-man my mother. The facts above rela­  
-ted I received from the Doctor himself,  
-whilo on a visit to my village, not long  
-since.  
-  
 A Mother&#x27;s Influence.  
   
 Hon. Thomas II. Benton, in a speech  
@@ -2054,7 +1767,7 @@ AN OLD STORY
 IN A NEW DRESS.  
   
 A very long time ago, in tho western  
-part of England, thero lived nn ngo
+part of England, thero lived nn ngod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1859021001:0415/pct:6.207250,17.060988,24.623803,80.034175/!600,600/0/default.jpg"/>
 </td>
@@ -2068,23 +1781,6 @@ part of England, thero lived nn ngo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-re making ready the breakfast,  
-they have no fear of the churn-dasher, or the  
-clothes pounder, but lay hold of them with  
-good will and to some effect when by doing  
-so they can help along the housewerk with-  
-out hindering their own, they are the handiest  
-of all helpers in “ hog killing time,” and will  
-even put up the clothes line in a stormy day  
-without threats of committing suicide.—  
-Honor to those who have patience in small  
-matters as well as courage in great. These  
-are the men who have made Michigan homes  
-what they are, and whose descendants will  
-improve upon the examples of their fathers.  
-  
-  
-  
 A Mother&#x27;s Influence.—Hon. Thomas H.  
 Benton, in a speech in New York, turned to  
 the ladies, and referring to his mother, said:  
@@ -2113,7 +1809,7 @@ plenty of dishes! the family and dining| kitchen and porch He then raised a swee
 rooms are eonvenient to the kitchen, the par-  
   
 or usually across the hall, but it is like going  
-nto the frigi
+nto the frigid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_michigan-farmer_1859-02-12_1_7%2Fsim_michigan-farmer_1859-02-12_1_7_jp2.zip%2Fsim_michigan-farmer_1859-02-12_1_7_jp2%2Fsim_michigan-farmer_1859-02-12_1_7_0005.jp2/pct:25.638051,44.985632,33.546017,48.017241/,600/0/default.jpg"/>
 </td>
@@ -2127,7 +1823,7 @@ nto the frigi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- estar  
+estar  
 i How touching the tribute of the Hon.  
 H. Benton to his mother&#x27;s influence:  
 mother asked mi never to use tobacco, and  
@@ -2152,7 +1848,7 @@ olution of total abstinence, at a time when I
 was the sole constituent member of my own  
 body, and that I have adhered to it through  
 all time, I owe to my mother.&quot;   
- A cute
+ A cuter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027133:1859033001:0476/pct:4.282964,13.899363,22.569779,82.290989/!600,600/0/default.jpg"/>
 </td>
@@ -2166,8 +1862,6 @@ all time, I owe to my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
-  
 A Morner’s InvLveNcE.— * My mother  
 asked me never to use: tobacco, and 1 have  
 never touched it from that time to the pres­  
@@ -2179,7 +1873,7 @@ in life, 1 owe to havindg yielded to her wishes,
 When seven years old, she asked me not to  
 drink, and I made then &amp; resolution of total  
 abstinence. 1 formed an abstinence society  
-at a time when I was the onl
+at a time when I was the only
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:00517015441:1859060401:0291/pct:4.526692,87.897762,14.584480,6.702936/!600,600/0/default.jpg"/>
 </td>
@@ -2193,17 +1887,7 @@ at a time when I was the onl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h Territory.  
-  
-hem so as to express hi  
-  
-ideas. His manners and peculinritis  
-of thought and speech remain much  
-as thev were thirtv-fivc or fortv vear  
-  
-ago.  
-  
-Xif How touching the tributeof tho  
+How touching the tributeof tho  
 Hon. T. H. Benton, to his mouther&#x27;s  
 influence:  
 &quot;31 v mother asked me never to me  
@@ -2225,9 +1909,9 @@ uent member of mv bodv. and that I
 have adhered to it through all time, I  
 owe to mv mother.&quot;  
   
-Where it
+Where it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859061601:0320/pct:73.901809,12.420893,20.025840,18.386634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859061601:0320/pct:73.901809,15.467049,20.025840,15.340478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2239,15 +1923,14 @@ Where it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 A Itlotn«r*« Influence.  
 &quot;My mother asked me never to nse to­  
 bacco, and have never touched it from that  
 time to the present day,&quot; aaid the Hon. Thos.  
 H. Benton. &quot;She asked me not to game,  
 and I never gamed. She warned me against  
-hard drink
+hard drink  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859070601:0971/pct:22.721013,88.221639,14.307353,4.047235/!600,600/0/default.jpg"/>
 </td>
@@ -2261,7 +1944,6 @@ hard drink
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 he at the time mentioned.  
 A MoTHER&#x27;s INFlUENCE.  How touching the  
 tribute of the Hon. T. I. Benton, to his mother&#x27;s  
@@ -2281,7 +1963,7 @@ rosolution of total abstinence, at a time when I
 was sole constituent member of my own body and  
 that I have adhered to it through all time, Iowe  
 to my mother.  
-ANea Y
+ANea Yn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859092201:0168/pct:17.814634,78.272138,14.619512,10.644348/!600,600/0/default.jpg"/>
 </td>
@@ -2295,7 +1977,7 @@ ANea Y
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- m the  
+m the  
 forenoon.&quot;  
 A Mother&#x27;s IxrUEM E.?How touching  
 the tribute of the Hon. T. II. Benton, to his  
@@ -2315,7 +1997,7 @@ years of age she asked me not to drink, and
 then 1 made a resolution of total abstinence,  
 at a time when 1 was sole constituent meinber  
 of m v own body, and that I have adhered to  
-it through all time, 1 owe to my motlier
+it through all time, 1 owe to my motlier.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663481:1859092301:0046/pct:3.484169,58.306156,14.139078,11.078272/!600,600/0/default.jpg"/>
 </td>
@@ -2329,11 +2011,6 @@ it through all time, 1 owe to my motlier
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-acted trial, the jury rendered a verdict  
-for plaintiff for six hundred dollars.   
-  
-of  
-  
 A MotHeR&#x27;s IneLUEnCe.-How touching  
 the tribute of the Hon, T. H. Benton to his  
 mother&#x27;s influence:  
@@ -2354,9 +2031,9 @@ at a time when I was sole constituent mnem
 ber of my own body, and that I have ad  
 hered to it through all time, I owe it to my  
 mother. gow tol  
-ThE IRISH ExILes. 
+ThE IRISH ExILes.  
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859100101:0154/pct:62.056969,34.790632,14.851055,30.660043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859100101:0154/pct:62.644053,36.210078,14.263970,10.560681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2368,7 +2045,6 @@ ThE IRISH ExILes.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Mother&#x27;s ISFLCENCE.IIow touching tho :  
 tribute of the Hon. T. II. Benton to his mother&#x27;s  
 Influence: . &#x27; .&#x27;?&#x27;l,v;;: &#x27;&quot;-&#x27; . -&#x27;. : &#x27;  
@@ -2386,7 +2062,7 @@ fears of age she asked roe not to drink, and . then
 made a resolution of total abstinence, at a time  
 when I was sole constituent member of my own  
 bodyi and that I have adhered to it through all  
-time, I owe it to my mother.
+time, I owe it to my mother. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewProg4n_ver01%2Fdata%2F1859100201%2F0318.jp2/pct:77.339901,17.994164,18.165025,9.888685/!600,600/0/default.jpg"/>
 </td>
@@ -2400,8 +2076,6 @@ time, I owe it to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 A Mot hkr&#x27;s Isru.KKcc How touching the tribute  
 ol tlie Hou. T. II. Bentou to his mother&#x27;s influence :  
 &quot; My mother asked me never to use tobacco 1 1 have  
@@ -2419,7 +2093,8 @@ ahked me not to drink, and then I mudc a resolution of
   
 total ulwtinence, t a time when I was sole constituent  
 member of my own body, aud tbat I have adhered t it  
-through all time, I owe it to my mother.&quot;
+through all time, I owe it to my mother.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm29n_ver01%2Fdata%2F1859100301%2F0974.jp2/pct:42.953985,53.109500,17.995070,7.808724/!600,600/0/default.jpg"/>
 </td>
@@ -2433,7 +2108,6 @@ through all time, I owe it to my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Mother&#x27;s Influence.—How touching the  
 tribute of tbe Hod. T. U. Benton, to his moth­  
 er’s influeoce:  
@@ -2454,7 +2128,7 @@ member of my own body, and that I have ad­
 hered to it throngh all time, I owe to my moth­  
 er.”  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1859100401:0345/pct:69.923016,77.905779,12.463499,9.309731/!600,600/0/default.jpg"/>
 </td>
@@ -2468,7 +2142,7 @@ er.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-cements.  
+ements.  
 A Mother&#x27;s Influence How touching the tribute  
 of tbe Hon. T. H. Benton to his mother&#x27;s influence :  
 &quot; My mother asked me never to use tobacco ; I have  
@@ -2483,7 +2157,7 @@ and correct wishes. When I was seven vears of ae she
 afcked me not to drink, and then I made a resolution of  
 total abstinence, at a time when I waa sole constituent  
 member of my own body, and that I have adhered to it  
-through all time, I owe it to my mother.
+through all time, I owe it to my mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1859100701:0584/pct:51.862693,86.803779,15.313997,7.941350/!600,600/0/default.jpg"/>
 </td>
@@ -2497,7 +2171,6 @@ through all time, I owe it to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 a aiotheh b influence.—how touching the  
 tribute of the Hon. T. II. Benton to his moth- help  
 s influence : .  
@@ -2516,7 +2189,7 @@ a S e &quot; bo ask0d &quot; 10 1101 &quot;&gt; , d «&quot; k , »&quot;&#x27;*
 mode a resolution of total abstinence, who,, 1 ; way  
 was sole constituent member of my own  
 ody, and that I have adhered to it through j »imply  
-time, I owe it to my mother.&quot;
+time, I owe it to my mother.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_lumos_ver01:data:sn88053053:00271741662:1859100801:0104/pct:40.209790,81.661891,13.111888,8.130372/!600,600/0/default.jpg"/>
 </td>
@@ -2530,9 +2203,6 @@ time, I owe it to my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r. Walker his heir, was Mr. Richard Aubrey,  
-of Devonshire, England.?Charleston  
-Mercury.  
 How touching the tribute of the Hon.  
   
 Thomas fcl. .Benton to nis moiner b lUllUUUCU. |  
@@ -2556,7 +2226,7 @@ that I have adhered to it through all time,
   
 For the Yorkvllle Enquirer.  
 LEISURE SKETCHES.  
-BY 
+BY J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1859101301:0298/pct:-0.197489,4.719388,26.971364,95.094192/!600,600/0/default.jpg"/>
 </td>
@@ -2580,7 +2250,7 @@ BY
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- present.  
+present.  
 A Mother&#x27;s Influence.  
 How touching the tribute pf the Hon. T.  
 II. Benton, to his mother&#x27;s influence :  
@@ -2609,7 +2279,7 @@ ble, nor go into evil company. Therefore,
 let every young man consider himselfadmon-  
 lslied and forewarned against the vices of  
 drinking and gambling, as coming from his  
-mother.
+mother. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_IExState1n_ver01%2Fdata%2F1859102101%2F0173.jp2/pct:31.181015,53.840534,12.720751,15.946566/!600,600/0/default.jpg"/>
 </td>
@@ -2623,7 +2293,6 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A MOTHER&#x27;s INFLUENCE. How touchin;  
 he tribute of the Hon. T. H. Benton, to  
 his ther&#x27;s influence:  
@@ -2643,7 +2312,7 @@ of age she asked me not to drink, and then
 I made a resolution of total abstinance, at a  
 time when I was sole constitute member of  
 my own body; and that I have adhered to  
-it through all time, I own to my mother
+it through all time, I own to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021945:1859102801:0667/pct:34.916164,49.396211,12.394366,10.170727/!600,600/0/default.jpg"/>
 </td>
@@ -2657,7 +2326,6 @@ it through all time, I own to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Mother&#x27;s Ikfluence. — How  
 touching the tibute of the Hon. T. H.  
 Beuton to his mother&#x27;s influence :  
@@ -2680,7 +2348,7 @@ abstinence, at a time when I was sole
 constituent member of my own body,  
 and that I have adhered to it through all  
 time.  
-CF&quot; Dobbs says that 
+CF&quot; Dobbs says that a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:0029587398A:1859102801:0072/pct:65.325203,70.342582,14.207317,17.199887/!600,600/0/default.jpg"/>
 </td>
@@ -2694,17 +2362,6 @@ CF&quot; Dobbs says that
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-kind  
-caused. This is one of the most remarkable es­  
-capes of the kind ever recorded.  
-The man owes his life entirely to the peculiar!  
-mhanner in which two large stones caught against  
-each other and against the sides of the well,  
-forming an arch over his head. But for a smaller  
-rock which pressed against his middle, and an­  
-other which held his feet, he would have been  
-entirely free in his underground place of du­  
-    
 How touching the tribute of the Hon. T. I.  
 Benton to his mother&#x27;s influence:  
 My mother asked me never to use tobacco. I have  
@@ -2720,9 +2377,9 @@ cars of age, ane anaed te non to rinss aint then a
 made a resolution of total abstinence, at a time when  
 I was sole constituent member of my own body, and  
 that I have adhertd to it through all time, I owe it to  
-my mother
+my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859103101:0130/pct:48.057971,50.664987,12.579710,10.709786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859103101:0130/pct:48.135266,55.816884,12.251208,5.557889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2734,7 +2391,6 @@ my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A MorHER&#x27;s INELUENCE.How touch.  
 ing the tribute of the Hon. T. I. Benton  
 to his mother&#x27;s influence.  
@@ -2756,24 +2412,9 @@ of total abstinence, at a time when
 I was sole constituent member of my own  
 body, and that I have adheared to it through  
   
-all time, I owe it to my mother.&quot;  
-LAvoneen.Laughter is as healthful  
-to the body as gladness is to the mind;  
-and there is not a more beautiful spectacle  
-than a smiling face, when you know it is  
-the true index of the soul within. We do  
-not speak of that species of idiotic laughter  
-which is sure to follow the exhibition of  
-an o ic or the ttean o  
-  
-ae t   eane o an  
-coarse jest; but that genial outhurst that  
-enlivens the social circle when men, like  
-true philosophers, forget their past cares,  
-and put off till the morrow all apprehensions  
-regarding the future.
+all time, I owe it to my mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1859110501:0951/pct:50.552666,55.022256,17.024274,21.294197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1859110501:0951/pct:50.552666,55.022256,17.024274,12.723608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2785,8 +2426,6 @@ regarding the future.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Moruer’s INFLuENcE.—How touching  
 the tribute of the Hon. T&#x27;. H. Benton to his  
 mother’s influence:— ;  
@@ -2805,29 +2444,9 @@ not to drink, and then I made a reso.ution
 of total abstinence, at a time when I was  
 sole constituent member ¢f my own body,  
 and that I bave adhered to it through alll  
-time, I owe it tomy mother.
+time, I owe it tomy mother. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023814:00517015325:1859110701:0394/pct:22.494033,82.910000,17.497017,11.940000/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Manitowoc pilot._](https://www.loc.gov/resource/sn85033139/1859-11-18/ed-1/?sp=1)
-
-#### 1859-11-18 &middot; [Manitowoc, Wis.](http://dbpedia.org/resource/Manitowoc%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-most remarkable  
-escapes of the kind over recorded &#x27;1 he  
-man owes his life entirely to the peculiar  
-manner in which two large stones caught  
-against each oilier and against the sides  
-of the well, forming an arch over his head  
-—Boston Traveller, Oc
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1859111801:0073/pct:54.981959,49.177063,12.517347,3.616731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2839,7 +2458,6 @@ of the well, forming an arch over his head
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Mother&#x27;s sflukxce. How touching ihe i  
 tribute of the Hon. T. II. Benton, to his mother&#x27;s !  
 influence:  
@@ -2865,7 +2483,8 @@ her sons would not drink, gamble, nor go into evil I
 company. Therefore, let every young man consid- &#x27;  
 cr himself admonished and forewarned against the  
 Ticca of drinking and eanibltns, as coming from ,  
-his mother.
+his mother.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859112201:0611/pct:6.542316,52.641426,15.047327,14.175655/!600,600/0/default.jpg"/>
 </td>
@@ -2879,7 +2498,7 @@ his mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- exclaimed the father of  
+exclaimed the father of  
 the bride.  
   
 A Mother’s Influence. —My mother asked  
@@ -2897,7 +2516,7 @@ of age she asked me not to drink, and then I
 made a resolution of total abstinence, at a time  
 when I was sole constituent of my own body,  
 and that I have adhered to it through all, time,  
-I owe to my mother
+I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001739%2F1859112401%2F0185.jp2/pct:31.325245,79.377897,12.229117,8.810110/!600,600/0/default.jpg"/>
 </td>
@@ -2911,7 +2530,7 @@ I owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Cornwell.  
+Cornwell.  
 AMorhER&#x27;s INFLUENcE. How  
   
   
@@ -2935,7 +2554,7 @@ mäde a resolution of total absti-
 nence, at a time when I was sole con­  
 stituent member of my own body, and  
 that I have adhered to it through all  
-time, I owe it to mry mother.
+time, I owe it to mry mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157376:1859112801:0524/pct:5.561459,81.644659,13.766383,14.018172/!600,600/0/default.jpg"/>
 </td>
@@ -2949,7 +2568,7 @@ time, I owe it to mry mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Monthly.  
+Monthly.  
   
   
   
@@ -2973,6 +2592,7 @@ tion of total abstinence, at a time when I was sole
 constituent member of my own body, and that I  
 have adhered to it through all time, I owe it to my  
 mother.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1859-11-30_30_47%2Fsim_zions-herald_1859-11-30_30_47_jp2.zip%2Fsim_zions-herald_1859-11-30_30_47_jp2%2Fsim_zions-herald_1859-11-30_30_47_0000.jp2/pct:78.272827,77.072811,10.863586,9.353956/,600/0/default.jpg"/>
@@ -2987,8 +2607,6 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A MOTlttlell INFLUENCE.—IIow  
 touching that tribute of the non. T. H.  
 Benton to hie mother&#x27;s influence:  
@@ -3012,7 +2630,7 @@ time when I was sole constituent, mem­
 ber of my own body, and that I have ad­  
 hereij to it through all tittle, I  
 owe it to  
-my motrier.
+my motrier.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001968%2F1859120701%2F0196.jp2/pct:5.468468,69.758865,12.004505,12.280142/!600,600/0/default.jpg"/>
 </td>
@@ -3060,7 +2678,7 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_ _ _  
+_ _  
   
 A MOTHER’S FOM ER.  
   
@@ -3079,7 +2697,8 @@ correct wishes. When I was seven years of age,
 she asked me not to drink, and then I made a  
 resolution of total abstinence, at a time when I  
 was sole constituent member of my own body,  
-and that I have adhered to it through all time, I
+and that I have adhered to it through all time, I  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24%2Fsim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24_jp2.zip%2Fsim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24_jp2%2Fsim_ballous-pictorial-drawing-room-companion_1859-12-10_17_24_0015.jp2/pct:72.789784,78.326036,20.088409,11.569552/600,/0/default.jpg"/>
 </td>
@@ -3093,7 +2712,6 @@ and that I have adhered to it through all time, I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Motih&#x27;.p.&#x27;.s Inflcknck. How touching  
 the tribute of the Hon. T. II. Ronton to his  
 mother&#x27;s influence:  
@@ -3111,7 +2729,7 @@ nsked me not to drink, and then I made a res­
 olution of total abstinence, nt a time when I  
 was sole constituent member of my own body,  
 and that I havo adhered to it through all time,  
-I owe it to my mother
+I owe it to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1860010701:0651/pct:82.618110,39.226773,12.716535,8.908924/!600,600/0/default.jpg"/>
 </td>
@@ -3135,7 +2753,7 @@ I owe it to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- somsthing. Bear your  
+somsthing. Bear your  
 own load.&quot;  
 A Morner&#x27;s Inrluence. How touching  
 the tribute of the Hon. T. H. Benton to his  
@@ -3155,6 +2773,7 @@ me not to drink, and then I made a resolu-
 tion of total abstinence, and that I have  
 adhered to it through all time, I owe it te  
 my mother.&quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1860012701:0427/pct:82.373528,68.429680,12.461555,12.253670/!600,600/0/default.jpg"/>
@@ -3179,7 +2798,7 @@ my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in no  
+in no  
 event to become liable for the satisfaction  
 of any debts contracted prior to the issue  
 of the patent.--eW JorE AewS, 16 iNSt.  
@@ -3205,7 +2824,7 @@ sole consistent of my own body, and that
 I have adhered to it through all time  
 owe to my mother.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1860032201:0025/pct:69.163731,68.774592,12.367884,14.502530/!600,600/0/default.jpg"/>
 </td>
@@ -3219,8 +2838,6 @@ owe to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 MorHer&#x27;s INFLUENcE. How touch-­  
 ing the tribute of the Hon. T. I. Ben-­  
 ton to his mother&#x27;s influence:My  
@@ -3229,129 +2846,10 @@ I have never touched it from that time­
 to this, and I have never gambled,  
 and I cannot tell who is winning and  
 who is losing in games that can be  
-played. She admonished
+played. She admonished  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1860032901:0687/pct:24.061033,83.991789,9.967136,4.299326/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Ladies' Repository; a Monthly Periodical, Devoted to Literature, Art and Religion (1849-1876)_](https://archive.org/details/sim_ladies-repository-a-monthly-periodical-devoted-to_1860-08_20_29/page/n57/mode/1up?view=theater)
-
-#### 1860-08-01 &middot; [Cincinnati](http://dbpedia.org/resource/Cincinnati)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- fiercely, ‘‘ You may deride my misfortunes,  
-  
-tiness, “I agree with your observation: I did not laugh at  
-  
-| your misfortune, but at a reflection that just occurred to my  
-  
-  
-  
-Timur, but remember they may have happened to yourself. |  
-  
-The disposal of kingdoms is in the hands of God, and their  
-  
-mind—bew little value thrones and scepters possess in the  
-judgment of God; who has taken a kingdom from a man  
-with one eye, to give it to another with one leg.”  
-  
-LAUGHTER AND ITS Usrs.—The following paragraph  
-reminded us of the old theological professor, who  
-exercised his pupils one hour daily in laughing:  
-  
-Laughter is as healthful to the body as gladness is to the  
-mind; and there is not a more beautiful spectacle than a  
-smiling face when you know it is the true index of the soul  
-within. We do not speak of that species of idiotic laughter  
-which is sure to follow the exhibition of any low trick, or the  
-utterance of a coarse jest—but that genial outburst that en-  
-livens the social circle when men, like true philosophers, for-  
-get their past cares, and put off till the morrow all appre-  
-hensions regarding the future.  
-  
-ToraL ABSTINENCE AMONG MINISTERS.—The minis-  
-ters of Jesus Christ have ever been the right arm of  
-the temperance reformation. It is now no time for  
-them to withhold their influence. A large number  
-of the clergy of England in an appeal to their brother  
-ministers, say:  
-  
-We abstain ourselves because we believe tha
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ladies-repository-a-monthly-periodical-devoted-to_1860-08_20_29%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1860-08_20_29_jp2.zip%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1860-08_20_29_jp2%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1860-08_20_29_0057.jp2/pct:16.163476,22.788712,70.434462,63.931705/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [THE USES OF LAUGHTER.](http://search.proquest.com/docview/127569786/fulltext/)
-
-#### From _Prairie farmer._
-
-#### 1860-08-23 &middot; [Chicago, Ill.](http://dbpedia.org/resource/Indianapolis)
-
-[This text is not available under an open license.]
-
----
-
-## [From _The River Falls journal._](https://www.loc.gov/resource/sn86086437/1860-09-19/ed-1/?sp=1)
-
-#### 1860-09-19 &middot; [River Falls, Pierce County, Wis.](http://dbpedia.org/resource/River_Falls%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-k­  
-ing. Yours,  
-P. V. WISE.  
-Prescott, Sept. 12. 1860.  
-  
-The Uses of Laughter.—Laugh­  
-ter is healthful to the body, ns gladness  
-is to the mind; and there is not a more  
-beautiful spectacle than a smiling face,  
-when you know it is a true iudex to the  
-soul within. We do not speak of that  
-species of idiotic laughter which is sure  
-to follow the exhibition of any low trick,  
-or the utterance of a coarse jest—-but  
-the genial outburst that enlivens the so­  
-cial circle, where men, like true philoso­  
-phers, forget their past cares, and put off  
-till to-morrow all apprehensions concern­  
-ing the future
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860091901:0233/pct:18.095373,70.877193,12.091967,10.241228/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Lady's Home Magazine (1857-1860)_](https://archive.org/details/sim_arthurs-home-magazine_1860-11_16/page/n17/mode/1up?view=theater)
-
-#### 1860-11-01 &middot; [Philadelphia](http://dbpedia.org/resource/Philadelphia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- to me at the time?”  
-“You were sleepy, so I thought I would wait  
-awhile.”’  
-  
-  
-  
-LAUGHTER AND ITS USES.  
-  
-The following paragraph reminded us of  
-the old theological professor, who exercised his «And you have been waiting ever since!—  
-pupils one hour daily in laughing: What did you say your matches were?”’ I in-  
-  
-Laughter is healthful to the body as gladness owe suddenly, as I ran my eyes over his  
-is to the mind; and there is not a more beaut
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_arthurs-home-magazine_1860-11_16%2Fsim_arthurs-home-magazine_1860-11_16_jp2.zip%2Fsim_arthurs-home-magazine_1860-11_16_jp2%2Fsim_arthurs-home-magazine_1860-11_16_0017.jp2/pct:18.561873,69.291339,72.240803,9.336333/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3363,9 +2861,8 @@ is to the mind; and there is not a more beaut
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 A MOTHER&#x27;S ISFCKSCK.—How touching the  
-tribute of the Hon. T. H. Benton
+tribute of the Hon. T. H. Benton 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860110801:0499/pct:78.435176,85.226873,14.791465,1.055223/!600,600/0/default.jpg"/>
 </td>
@@ -3379,7 +2876,7 @@ tribute of the Hon. T. H. Benton
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to his moth­  
+to his moth­  
 er&#x27;s influence : &quot; My mother asked me never  
 to nse tobacco. I have never touched it from  
 that time to this, and I have never gambled,  
@@ -3395,7 +2892,7 @@ drink, and then I mado a resolution of total
 abstinence, at a time when I was sole  
 constituent member of niy own body, and that  
 I have adhered to it through ail time, I owe  
-it to my mother 
+it to my mother &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860110801:0499/pct:78.435176,85.813108,14.856127,9.766678/!600,600/0/default.jpg"/>
 </td>
@@ -3409,7 +2906,7 @@ it to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. D. Regs,  
+ D. Regs,  
   
 BENTON’S MOTHER.  
   
@@ -3436,7 +2933,7 @@ time, I owe it to my mother.”’
   
   
   
-Tne Piannina or Cit
+Tne Piannina or Citi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_independent_1860-11-15_12_624%2Fsim_independent_1860-11-15_12_624_jp2.zip%2Fsim_independent_1860-11-15_12_624_jp2%2Fsim_independent_1860-11-15_12_624_0005.jp2/pct:48.445802,40.521179,12.964931,8.264120/600,/0/default.jpg"/>
 </td>
@@ -3460,7 +2957,7 @@ Tne Piannina or Cit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- HIS MOTHER.  
+HIS MOTHER.  
   
 How touching the tribute of Hon. T. H.  
 Benton to his mother’s influence :  
@@ -3487,39 +2984,10 @@ drink, and then I made a resolution of total
 abstinence, at.a time when I was sole constitu  
 ent member of my own body ; and that I have  
 sient it through all time, I owe it to my  
-mother.”’
+mother.”’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1860-11-29_34_48%2Fsim_youths-companion_1860-11-29_34_48_jp2.zip%2Fsim_youths-companion_1860-11-29_34_48_jp2%2Fsim_youths-companion_1860-11-29_34_48_0003.jp2/pct:46.090535,11.036364,32.073045,82.200000/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Spirit of the age._](https://www.loc.gov/resource/sn84026561/1860-12-05/ed-1/?sp=1)
-
-#### 1860-12-05 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- 1 -  
-Laughter is as healthful to the body as  
-gladness is to the mind ; and there is not a  
-more beautiful spectacle than a smiling face,  
-when you know it is the true index of the  
-soul within. We do not speak of that species  
-cf idiotic lantrbter which is sure to follow tVi  
-  
-exhibition ofany low trick, or the uiurw v  
-&#x27; toct but that eenal outbun-t  
-  
-that enlivens . the social circle when men,  
-like true philosophers, forget their past  
-carts, and put off till the morrow all appre­  
-hensions regarding the future,  
-  
-10r
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1860120501:0290/pct:70.189841,87.157633,25.410467,6.435549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3531,7 +2999,6 @@ hensions regarding the future,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-“  
 How touching the tribute of lion. T.  
 11. Benton to his mother’s influence:  
 “My mother asked me never to use to­  
@@ -3552,7 +3019,7 @@ I \\. s solo constituent member of my cwn
 | body; and that 1 have adhered to it thro’  
 all lime, I owe it to my mother.”  
 What tiie Slaves Think.—The St.  
-Bonis Democrat says th
+Bonis Democrat says the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1860120801:0160/pct:19.069026,60.211606,13.370070,12.610880/!600,600/0/default.jpg"/>
 </td>
@@ -3566,8 +3033,6 @@ Bonis Democrat says th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Benton&#x27;s Mother.  
   
 How touching the tribute of Hon.  
@@ -3596,21 +3061,12 @@ my own body; and that I have adhered
 to it through all time, I  
 mother.&quot;  
   
-it
+it  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860122001:0300/pct:77.919286,83.561101,13.783653,11.931075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [Article 8 -- No Title](http://search.proquest.com/docview/136067585/fulltext/)
-
-#### From _Merry's Museum, Parley's Magazine, Woodworth's Cabinet, and the Schoolfellow (1858-1866)_
-
-#### 1861-01-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -3620,8 +3076,6 @@ it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 eon oo oin tee e o eo e e  
 ibute of Hon. Thos  enton to hisi e e o o a tat te  
 oe ie  e o i e e eo o e  
@@ -3649,7 +3103,7 @@ time whon I was sole constituent momber
 of my own body; and that I have adhered  
 to it through all time, I owe it to my moth-  
 eF.  
-A late number of the V
+A late number of the Va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1861011701:0396/pct:71.098196,70.871668,25.681075,13.184103/!600,600/0/default.jpg"/>
 </td>
@@ -3663,7 +3117,7 @@ A late number of the V
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t  
+  
   
 BExToN&#x27;s MothEr. How touching the  
   
@@ -3705,7 +3159,7 @@ that I have adhered to it, though all lite
 time, I owe it to my mother.&quot;  
   
 E-Mr. H---and B---were wall-  
-ing upon the mai
+ing upon the main
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861022101:0382/pct:57.042657,71.598732,12.782708,12.654355/!600,600/0/default.jpg"/>
 </td>
@@ -3719,7 +3173,7 @@ ing upon the mai
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-int or the Southern military school.  
+nt or the Southern military school.  
   
 BENTON&#x27;S MOTHER.  
   
@@ -3743,7 +3197,7 @@ constituent member of my own body, and
 that I have adhered to it through all time,  
 I owe it to my mother.  
   
-One of the deacons of a certni
+One of the deacons of a certnin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1861033001:0541/pct:58.864531,76.484047,11.669477,12.046100/!600,600/0/default.jpg"/>
 </td>
@@ -3757,7 +3211,7 @@ One of the deacons of a certni
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. How touch­  
+How touch­  
 ing the tribute of Hon. jthos. H Benton  
 to Ui niotlior&#x27;s iQfluencj), v  
 r ly mother asked mo never to use to­  
@@ -3779,56 +3233,9 @@ body, and -that I have&#x27; adhered to jt
 through, all tiinc, I ?we it to my wjhcr.  
   
 SallabarT-.  
-- Is the Srntb right? Can he 
+- Is the Srntb right? Can he f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CFlagCon1n_ver01%2Fdata%2F1861043001%2F0010.jp2/pct:29.934030,7.573333,24.766355,86.997333/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Harper's new monthly magazine_](https://archive.org/details/sim_harpers-magazine_1861-05_22_132/page/n132/mode/1up?view=theater)
-
-#### 1861-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-ness is to the mind; and  
-  
-  
-  
-beautiful spectacle than a smiling face, when you  
-know it is the true index of the soul within. We  
-do not speak of that species of idiotic laughter which  
-is sure to follow the exhibition of any lo  
-the utterance of but that genial out  
-burst that e1 social circle when men, li  
-true philosophers, forget their past cares, and put oft  
-till the morrow all apprehensions regarding the fu-  
-ture.”  
-  
-Thus discourses some unknown philosopher—un-  
-  
-  
-  
-w trick, or  
-a coarse jest ;  
-  
-livens the ke  
-  
-  
-  
-known as the author of these wise words, which the  
-  
-Drawer takes as its text. It asserts the principle  
-on which the Drawer is filled and emptied once a  
-month. No one knows the names of the good and  
-the gifted, the wise, learned, distinguished, as well  
-as the illiterate and obscure, who contribute these  
-incidents tha
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1861-05_22_132%2Fsim_harpers-magazine_1861-05_22_132_jp2.zip%2Fsim_harpers-magazine_1861-05_22_132_jp2%2Fsim_harpers-magazine_1861-05_22_132_0132.jp2/pct:48.454064,49.042793,35.114841,19.256757/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3840,7 +3247,6 @@ incidents tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A MOTHER’S INFLUENCE.  
 How touching the tribute of Hon. T. H. Benton to his moth-  
   
@@ -3858,6 +3264,7 @@ rect wishes. When I was seven years of age, she asked me not
 to drink, and I made a resolution of total abstinence, at the  
 time when I was sole constituent member of my own body, and  
 that I have adhered to it through all time, I owe it to my mother.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_southern-teacher_1861-05_2_10%2Fsim_southern-teacher_1861-05_2_10_jp2.zip%2Fsim_southern-teacher_1861-05_2_10_jp2%2Fsim_southern-teacher_1861-05_2_10_0019.jp2/pct:20.209581,13.099520,67.415170,26.288969/600,/0/default.jpg"/>
@@ -3872,7 +3279,7 @@ that I have adhered to it through all time, I owe it to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i  
+i  
   
 Benton&#x27;s Mother.—How toucuiug the trib­  
 ute of Thomas H. Benton, to his mother’s influ­  
@@ -3890,7 +3297,7 @@ years of age she asked me not to drink, and then
 I made a resolution of total absthence, at a time  
 when I was sole constituent member of my own  
 body; and that 1 have adhered to it through all  
-time, I owe it ail to my mother
+time, I owe it ail to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861050401:0002/pct:67.984537,6.084557,12.651555,91.782712/!600,600/0/default.jpg"/>
 </td>
@@ -3904,7 +3311,7 @@ time, I owe it ail to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ers.  
+rs.  
 BexTton’s MotrEß. How touching the tribute  
 of Hon. T. H. Benton to his mother’s influence :  
 “My mother asked me never to use tobacco. I  
@@ -3921,7 +3328,7 @@ she asked me not to drink, and I made a
 resolution of total abstinence at a time when I was  
 sole constituent member of my own body; and  
 that I have adhered to it through all time, I owe it  
-to my mother
+to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868533:1861072701:0120/pct:16.811638,15.875154,12.732454,8.341754/!600,600/0/default.jpg"/>
 </td>
@@ -3935,7 +3342,7 @@ to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-wards  
+ards  
 the Jewish people. ]  
   
 BENTON’S MOTHER.  
@@ -3965,7 +3372,7 @@ soldier attend, as from time immemorial |
   
 riests wandered  
   
-of Protestantism t
+of Protestantism to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1861-08-17_31_33%2Fsim_presbyterian_the-presbyterian_1861-08-17_31_33_jp2.zip%2Fsim_presbyterian_the-presbyterian_1861-08-17_31_33_jp2%2Fsim_presbyterian_the-presbyterian_1861-08-17_31_33_0001.jp2/pct:82.381833,48.999384,11.437137,45.771757/,600/0/default.jpg"/>
 </td>
@@ -3979,7 +3386,7 @@ of Protestantism t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-efuse to it  
+fuse to it  
 allegiance, strike not at the Government,  
 but at the people.  
   
@@ -4004,7 +3411,7 @@ constituent member of my own body; ai
 that I have adhered to it through all time,  
 owe to my mother.  
   
-4 i he following is a spic
+4 i he following is a spicy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7t7659dq32%2Fxt7t7659dq32_jp2.zip%2Fxt7t7659dq32_jp2%2Fxt7t7659dq32_0000.jp2/pct:51.176471,77.411820,14.655462,13.396403/,600/0/default.jpg"/>
 </td>
@@ -4018,7 +3425,7 @@ owe to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- River.  
+River.  
 Benton&#x27;s Motheb. How touching the tri  
 bute of Hon. T. H. Benton to his mother&#x27;s  
 influence :  
@@ -4037,7 +3444,7 @@ me not to drink, and I made a resolution of
 total atstinence at a time when I was sole  
 constituent member of my own body; and  
 mat i cave aanereu to it turouga all time, 1  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1861093001:0133/pct:21.239099,69.761905,12.281977,10.140056/!600,600/0/default.jpg"/>
 </td>
@@ -4051,7 +3458,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; &#x27; 7  
+&#x27; 7  
   
 Bestos&#x27;s Mother. 1Iot touching the  
 tribute of lion. T. II. Benton to his moth­  
@@ -4068,7 +3475,8 @@ amid drinking j and whatever capacity foi
 endurance L have at preseut, and whatever  
 usefulness I muy attain in life, I have at­  
 tributed to haix:j complied whh her pious  
-1ml p.irrLct vriaiies. When 1 was seven
+1ml p.irrLct vriaiies. When 1 was seven  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1861101001:0021/pct:4.289373,64.154955,23.767606,16.522972/!600,600/0/default.jpg"/>
 </td>
@@ -4082,7 +3490,7 @@ tributed to haix:j complied whh her pious
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ssage.  
+sage.  
   
 BF.NTON&#x27;S MOTHER : How touching  
 the tribute of Hon. T. Benton to his  
@@ -4106,6 +3514,7 @@ a time when I was sole constituent
 member of my own body; and that I  
 have adhered to it through all time, I  
 owe to my mother.&quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_averruncus_ver01%2Fdata%2Fsn88080881%2F000001991%2F1861101201%2F0041.jp2/pct:23.968750,69.094697,12.791667,14.655303/!600,600/0/default.jpg"/>
@@ -4120,7 +3529,7 @@ owe to my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- slavery.&quot;  
+slavery.&quot;  
 Bestos a Mother. How touclnVg the trib-  
 bute of Hon. T. li. Benton to his mother&#x27;s influ­  
 ence :  
@@ -4138,7 +3547,7 @@ a&#x27;ked me not to drink, and I made a resolution
 of total abstinance at a time when I was sole  
 constituent member f roy own body ; and that  
 have adhered to it through all time, I owe to  
-my mother
+my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861101601:0589/pct:59.352837,84.992051,13.031915,9.242183/!600,600/0/default.jpg"/>
 </td>
@@ -4152,9 +3561,8 @@ my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 fuse to it allegiance, strike not at the Gov-  
-ernment, but at the beopl
+ernment, but at the beople
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294567:1861101701:0256/pct:6.071205,78.021874,12.292317,1.103186/!600,600/0/default.jpg"/>
 </td>
@@ -4168,8 +3576,6 @@ ernment, but at the beopl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I have at present, and whatever  
 no aon an  usue  ma aain in ie   
 ee ae o ai o­  
@@ -4178,7 +3584,7 @@ containing a letter from Missouri wishes. When I was seven years
 dated Sept. 21, in which the of age she asked me not to drink;  
 writer--an eye witness, gives and I made a resolution of total  
 ie ooun of the en atinene a a ti en  a  
-th
+the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191319:1861101701:0208/pct:69.832033,66.803710,24.547018,5.354240/!600,600/0/default.jpg"/>
 </td>
@@ -4192,13 +3598,13 @@ th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- fire.  
+fire.  
 BETON&#x27;S MOTHER.How  
 touching the tribute of Hon. T  
  peete bis athete ta  
 and who is losing in games that  
 are played. She admonished me,  
-whatever capacit
+whatever capacity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191319:1861101701:0208/pct:82.264251,56.372502,12.088348,10.402524/!600,600/0/default.jpg"/>
 </td>
@@ -4212,7 +3618,7 @@ whatever capacit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- aud  
+aud  
 sent to their respective regiments  
 stEVTon&#x27;s MoTKSit. Hoa tuiichiag tti  
 tribute of lion. T. Benton I&quot; h.s mothers  
@@ -4239,7 +3645,7 @@ the Provost Marshal to leave the city.
   
 A ao! her Kxplolt of Julius Jen he  
 A Den of counterfeit Telegraphers  
-Broken up The
+Broken up The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021982:1861101801:0409/pct:21.155084,5.715031,25.112613,88.935282/!600,600/0/default.jpg"/>
 </td>
@@ -4253,7 +3659,6 @@ Broken up The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Bextox&#x27;s Mother. How touching the  
 tribute of Hon. T. H. Benton to his mother&#x27;s  
 influence:  
@@ -4272,7 +3677,7 @@ she asked me not to drink, and I made a
 resolution of total abstinence at a time when  
 I was sole constituent member of my own  
 body; and that I have adhered, to it through  
-all time, I owe to my mother.
+all time, I owe to my mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1861101801:0199/pct:45.375723,52.521715,11.940029,9.512468/!600,600/0/default.jpg"/>
 </td>
@@ -4286,7 +3691,7 @@ all time, I owe to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- W. E. Stinebach,  
+W. E. Stinebach,  
 13th regiment.  
 Martial law has been proclaimed in Hender  
 son, Kentucky, and a pass is now required from  
@@ -4294,7 +3699,7 @@ the Provost Marshal to leave the city.
 Banister CoruiHou, of New Albany, has been  
 appointed Major in Col. Dunham&#x27;s regiment.  
 Secretary Cameron has promi.-ed to have  
-
+j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861102301:0201/pct:57.810907,31.463415,11.850153,4.517073/!600,600/0/default.jpg"/>
 </td>
@@ -4308,7 +3713,6 @@ Secretary Cameron has promi.-ed to have
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 eNToN&#x27;s Morher. How touching the  
 tribute of Hon. T. I. Benton to his mother&#x27;s  
 influence:  
@@ -4328,6 +3732,7 @@ resolution of total abstinenon at a time
 when I was sole constituent member of my  
 own body; and that I have adhered to it  
 I through all time, I owe my mother.&quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861102501:0175/pct:68.287244,84.249234,12.583011,11.045284/!600,600/0/default.jpg"/>
@@ -4342,7 +3747,7 @@ I through all time, I owe my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; “  
+“  
   
 Bgnlon’t Mariam—How touching&#x27;the tri‘  
 bute of [he Hon. T. H. Benwn to his mo.  
@@ -4365,7 +3770,7 @@ ent member of my own body; and that l
 have adhered to it through all time. I owe«  
 to my mother.&quot; &#x27;  
   
-Cambium! Wa
+Cambium! Wat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_trumanhs_ver01%2Fdata%2Fsn85055100%2F000001893%2F1861111101%2F0177.jp2/pct:67.785714,80.085160,12.147619,12.878682/!600,600/0/default.jpg"/>
 </td>
@@ -4379,7 +3784,6 @@ Cambium! Wa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Benton&#x27;s Mother. How touching is  
 the tribute of Hon. T. II. Benton to Lis  
 mother&#x27;s influence:  
@@ -4399,7 +3803,7 @@ to drink, and I made a resolution of tnial
 abstinence, at a tima when I was sole con­  
 stituent member oil my own body; and  
 that I havo adhered to it Chrouh all timo  
-I owo my mother.&quot;. ;
+I owo my mother.&quot;. ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861112801:0149/pct:4.918801,82.592152,14.928170,12.473246/!600,600/0/default.jpg"/>
 </td>
@@ -4413,7 +3817,7 @@ I owo my mother.&quot;. ;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Howtoo&#x27;chii gtho tribute  
+Howtoo&#x27;chii gtho tribute  
 \of Hon; T. 11. Benton I to Lis mother&#x27;s influ­  
 ence. &#x27;  
 •j My mother naked me never to use-tobacco,  
@@ -4430,7 +3834,7 @@ drink, and I madea resolution of tofe 1 abstin­
 ence Ht a time when J was sole constituent  
 member of my own body ;mnd that I have ad­  
 hered tb it through all lime, li owe to iny  
-mother. ,
+mother. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001707%2F1861120401%2F0182.jp2/pct:48.262202,87.020725,15.001056,10.092524/!600,600/0/default.jpg"/>
 </td>
@@ -4444,7 +3848,7 @@ mother. ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- digested.  
+digested.  
   
 Bextos&#x27;s MornrR. How touching the tribute of  
   
@@ -4465,7 +3869,7 @@ asked me not to drink, and I made a resolution of
 total abstinence at a time when I was sole constitu­  
 ent member of my own body; and that I have ad­  
 nered,to it through all time, I owe to my mother.&quot;  
-&quot;Scviom 
+&quot;Scviom i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:0021247423A:1861121901:0463/pct:5.441640,72.847070,12.460568,7.386429/!600,600/0/default.jpg"/>
 </td>
@@ -4479,7 +3883,6 @@ nered,to it through all time, I owe to my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A MoTHER&#x27;s INFLUENeE. How touch  
 ing the tribute of the Hon. T. H. Bons  
 ton, to his mother&#x27;s influence;  
@@ -4500,7 +3903,7 @@ drink and then I made a resolution of
 tofal abstinence at a time when I was  
 sole constituent member of my own  
 body and that I have adhere to it through  
-all that, I owe to my mother
+all that, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193754:1862030601:0011/pct:50.557158,7.486444,16.111694,13.455484/!600,600/0/default.jpg"/>
 </td>
@@ -4514,7 +3917,7 @@ all that, I owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- I  
+I  
 Benton’s Mother.—How touching}  
 the tribute of Hon. T. ii. Denton to &lt;  
 his mother’s influence :  
@@ -4537,7 +3940,7 @@ abstinence at a time when I was sole i
 constituent member of my own body  
 and that I have adhered to it through \
 all lime, 1 owe to rny mother,  
-A youn
+A young
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1862032201:0624/pct:63.975648,75.226740,13.618317,15.978804/!600,600/0/default.jpg"/>
 </td>
@@ -4551,7 +3954,6 @@ A youn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Benton s Mother.—How touching the  
 tribute of Hon. T. H. Benton to his moth­  
 er&#x27;s influence:  
@@ -4572,7 +3974,7 @@ at a time when 1 was sole constituent
 member of ray own body; and that I  
 have adhere 1 to it through all time I owe  
 to my mother.&quot;  
-T* i
+T* is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1862040201:0857/pct:58.575273,83.826905,11.952981,10.606061/!600,600/0/default.jpg"/>
 </td>
@@ -4586,7 +3988,6 @@ T* i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ilea. Thomas H. Benton&#x27;s Mother.  
 How touchins the tribute of the Hon  
 Thomas II. Benton to his mother&#x27;s in-!  
@@ -4613,7 +4014,7 @@ i i .1 a1 A T hnna n si K orad : . ... -
   
 my own uouy, anu umi. i  
 to.it through,all. time, I owe to my &#x27;  
-motber
+motber.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1862040401:0078/pct:3.971813,69.094208,23.398463,11.377478/!600,600/0/default.jpg"/>
 </td>
@@ -4637,7 +4038,6 @@ motber
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 BENTON&#x27;S MOTHER.  
 How touching the tribune of T. H. Benton  
 to his mother&#x27;s influence:  
@@ -4656,7 +4056,8 @@ not to drink, and I made a resolution of total
 abstinence at a time when I was sole consti­  
 tuent member of my own body, and that I  
 have adhered to it through all time, I ogre to  
-iny mother.
+iny mother.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029208:1862082901:0354/pct:3.975583,76.637527,11.081546,9.248701/!600,600/0/default.jpg"/>
 </td>
@@ -4670,7 +4071,6 @@ iny mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 BBNTOS&#x27;II MOTHEE.—HOW touching tbe tribute  
 of Hon. T. U. Benton to his mother&#x27;s influence:  
 &quot;My mother asked ma never to use tobacco. I  
@@ -4687,7 +4087,7 @@ drink, and I made it resolution of total sbstinenca
 at a time when I v.as sola constituent member o;  
 my ;cwn bodj; and that I bave adhered to it  
 through all time, 1 owe to my mother.&quot;  
-TsaTaoni
+TsaTaonii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn84026707:00296029944:1862112101:0019/pct:21.839800,40.305257,14.539007,9.115319/!600,600/0/default.jpg"/>
 </td>
@@ -4701,7 +4101,6 @@ TsaTaoni
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 How touching is this tribute of Hon. T.  
 H. Benton to his mother’s influence:  
 “My mother asked mo never to use tobac­  
@@ -4718,7 +4117,7 @@ wishes. When I was seven years of ago
 she asked me not to drink, and then I made  
 a resolution of total abstinence, and that I  
 have adhered to it through all time, I owe to  
-my mother
+my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:0051717435A:1865110901:0028/pct:82.055241,39.900184,12.300566,8.116627/!600,600/0/default.jpg"/>
 </td>
@@ -4742,7 +4141,6 @@ my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 many of the French Canadians.  
 A MOTHEr&#x27;s INFLUENCE.-How touch­  
 ing is this tribute of Hon. T. H. Benton  
@@ -4763,9 +4161,11 @@ age she asked me not to drink, and then I
 made a resolution of total abstinence, and  
 that I have adhered to it through all time,  
 I owe to my mother.  
-The society 
+The society of Friends located in Balti­  
+more, must be a very humorous set of gen­  
+tlemen. They have sent a petition to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1866010401:0215/pct:69.109076,78.284924,12.525277,12.733979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1866010401:0215/pct:69.061496,78.284924,12.572856,13.840479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4787,7 +4187,7 @@ The society
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.A Mother&#x27;s Inexuence. How touching is this  
+A Mother&#x27;s Inexuence. How touching is this  
 ribute of Hon. T. H. Benton to his mother&#x27;s in  
 fluence&#x27;:  
 &quot; My mother asked me never to use tobacco : I  
@@ -4802,7 +4202,7 @@ attributed to having complied with her pious and
 correct wishes. When I was seven years of age  
 she asked me not to drink, and then I made a res­  
 olution of total abstinence.  
-hexed to it through all time I owe to xny mothe
+hexed to it through all time I owe to xny mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1866020801:0464/pct:65.032845,87.367911,15.032845,7.794474/!600,600/0/default.jpg"/>
 </td>
@@ -4816,7 +4216,7 @@ hexed to it through all time I owe to xny mothe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-) and it is devoutly hoped tliat the moral  
+and it is devoutly hoped tliat the moral  
 -oj vte place ar uprovmg;--iiinury tiitnnrr.  
 i place ar  
 MoTBEB,  
@@ -4840,7 +4240,7 @@ to my mother.&quot;&#x27; . &#x27; - - -:
 A bill for codifying the law of the United  
 &quot;ptateji will -IflOB be Kported&#x27; to the 8nte.  
 &#x27; Three commissioner sr to labour for, three  
-yean at it, the salary o
+yean at it, the salary of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaiSenRal2n_ver01%2Fdata%2F1866021401%2F0154.jp2/pct:5.417025,77.368582,15.477214,13.019560/!600,600/0/default.jpg"/>
 </td>
@@ -4854,7 +4254,6 @@ yean at it, the salary o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
   
 eateci a e ee i e o e o e e ee   
   
@@ -4886,7 +4285,7 @@ to my mother.&quot;
 UNired states Direct tax,  
 coUNTY OF OrANGE, N. C.  
 Office U. S. Direct Tar Commissioners, for the  
-Slate of North Car
+Slate of North Caro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1866021401:0955/pct:3.290415,50.706071,65.593705,33.512884/!600,600/0/default.jpg"/>
 </td>
@@ -4900,7 +4299,6 @@ Slate of North Car
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Mother&#x27;s Influence.?How touching  
 is Lbia tribute of Hon. T. H, Benton  
 in hit mntho/a inflnanAA #  
@@ -4924,7 +4322,7 @@ resolution of total abstinence, and tflit I
 bavo adhered to it through all time I owe  
 to my mother.&quot;  
 ?,  
-Why shoul
+Why should
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1866030201:0135/pct:80.858411,56.761816,17.053116,14.494619/!600,600/0/default.jpg"/>
 </td>
@@ -4938,7 +4336,7 @@ Why shoul
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, or whether  
+or whether  
 it was ‘traled in the dust’  
 It is evident that the colored boys were  
 loyal and were willing to fight for the  
@@ -4965,9 +4363,54 @@ that I have advered to it through all
 time I owe to my mesher.’  
   
 A private Telegram from ‘the Father  
-of his country’ t
+of his country’ to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_longview_ver01:data:sn82016224:00220720378:1866031701:0003/pct:17.466478,69.949550,17.889908,19.423119/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The southerner._](https://www.loc.gov/resource/sn90052434/1866-03-17/ed-1/?sp=2)
+
+#### 1866-03-17 &middot; [Tarboro', Edgecombe Co., (N.C.)](http://dbpedia.org/resource/Tarboro%2C_North_Carolina)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+A Mothers Influence. How touch­  
+ing is this tribute of Hon. T. H. Ben  
+ton to his mother&#x27;s influence :  
+OIy mother asked me never to use  
+tobacco. I have never touched it from  
+that time to the present day. She ask­  
+ed me not to game, and I never gam  
+bled, and cannot tell who is losing itr  
+games that are being played. She ad  
+tuonished me, too, against hard driuk  
+ing; and whatever capacity for endu  
+ranee I have at present, and whatevo  
+usefulness I may have attained in life.  
+I have attributed to having complie  
+&#x27;ith her pious and correct wishes  
+When I was seven years of age sh­  
+aaked me not to drink, and then I mad  
+x resolution of total abstinence, an  
+that I have adherol to it throng  
+all time I owe to my mother.&quot;  
+  
+  
+i  
+  
+  
+  
+  
+THE DEFEATED AMENDMENT.  
+In the late vote in the United States  
+Senate on the Constitutional amend­  
+ment, previously passed by the House,  
+relative to
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023127:1866031701:0041/pct:53.034521,7.120452,26.781737,89.052698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4989,7 +4432,7 @@ of his country’ t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A Mor&amp;sa&#x27;s LtirLUKxe. Hon Tbos, H. Ben­  
+A Mor&amp;sa&#x27;s LtirLUKxe. Hon Tbos, H. Ben­  
 ton; in a speech in New York,&#x27; turned to the la­  
 die i, and, referring to his mother,1 said i U ;. -i  
 My mother asked me never to use to&#x27;  
@@ -5009,7 +4452,7 @@ ed an abstinence society at a time when
 I was the sole constituent member of my  
 own body: and that I have adhered to  
 it through all .past time, I owe . to my  
-mother.&#x27;&#x27;&quot;
+mother.&#x27;&#x27;&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1867020201:0850/pct:57.833975,83.298164,12.245739,11.025533/!600,600/0/default.jpg"/>
 </td>
@@ -5023,7 +4466,7 @@ mother.&#x27;&#x27;&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as he acn; but all his business,  
+as he acn; but all his business,  
 by the way, is to make himselfe and  
 others happy. Take him all in two  
 words, he is a Christian.&quot;  
@@ -5062,7 +4505,7 @@ stinence, at a time when I was the
 sole constituent member of my own  
 body, and that I have adhered to it  
 through all time, I owe to my moth-­  
-er.
+er.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058351:00279529388:1869010801:0414/pct:75.745497,57.147904,12.164157,12.804208/!600,600/0/default.jpg"/>
 </td>
@@ -5076,7 +4519,7 @@ er.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-for the  
+or the  
 winter.  
 His Mother’s Influence.  
 The late Thomas H Benton thus r*  
@@ -5100,6 +4543,7 @@ I made a resolution of total abstinence.
 a time when I was sole constituent o  
 own body, and that I have adhered to i;  
 through all time, I owe to my noth#-  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086770:00271769799:1870020301:0787/pct:80.304728,81.919521,16.020614,14.586732/!600,600/0/default.jpg"/>
@@ -5124,7 +4568,7 @@ through all time, I owe to my noth#-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of  
+of  
 this country since the organization of  
 the Government.  
 Tho late Thomas H. Denton thus re­  
@@ -5149,7 +4593,8 @@ made a resolution of total abstinence,
 at a time when I was solo constituent  
 of my own body, and that I have ad  
 hered to it through all time, I owe to  
-my mother.
+my mother.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1870022201:0522/pct:6.236413,68.008352,12.255435,14.290686/!600,600/0/default.jpg"/>
 </td>
@@ -5163,7 +4608,7 @@ my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rea­  
+ea­  
 tion of man.  
 Iiis mother&#x27;s Influence.  
 The late Thomas II. Benton thus re­  
@@ -5187,7 +4632,7 @@ drink, and then I made a resolution of
 total abstinence, at a time when I was  
 sole constituent, of my own body and that  
 I have adhered to it through all time, I  
-owe to mv rnnt
+owe to mv rnnth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:00295876141:1870022601:0040/pct:68.189103,70.394134,12.291667,13.794684/!600,600/0/default.jpg"/>
 </td>
@@ -5201,7 +4646,7 @@ owe to mv rnnt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- touching the tribute of Hon. T. A. Benton to  
+touching the tribute of Hon. T. A. Benton to  
 his mother’s influence:  
   
 ‘“‘My mother asked me never to use tobacco—I  
@@ -5217,7 +4662,8 @@ When I was seven years of age she asked me not to
 drink, and then I made a resolation of total absti-  
 nence, at a time when I was sole constituent of my  
 own body; and that I have adhered to it through all  
-time, I owe to my mother.”
+time, I owe to my mother.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1870-02-26_25_8%2Fsim_flag-of-our-union_1870-02-26_25_8_jp2.zip%2Fsim_flag-of-our-union_1870-02-26_25_8_jp2%2Fsim_flag-of-our-union_1870-02-26_25_8_0013.jp2/pct:57.419479,78.337696,16.449387,10.471204/600,/0/default.jpg"/>
 </td>
@@ -5231,7 +4677,7 @@ time, I owe to my mother.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;Here is the record that the Honorable  
+Here is the record that the Honorable  
 Thomas H. Benton left behind him of  
 a mother&#x27;s influence : &quot;My mother  
 asked me never to use tobacco, f have  
@@ -5249,7 +4695,7 @@ wishes. When I was seven years of age
 she asked me not to drink ; and then I  
 made a resolution of totp abstinence  
 that I have adhered to through all hiy  
-life. Whatdolnot owe to my mothe
+life. Whatdolnot owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1870040701:0299/pct:26.415405,21.735148,11.471363,8.270086/!600,600/0/default.jpg"/>
 </td>
@@ -5263,7 +4709,7 @@ life. Whatdolnot owe to my mothe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- er an te ar ic er te­  
+er an te ar ic er te­  
 a a o oin i  caacter  
 ee oe ae e ee o  oa  
 o o an  a ee oe o e a  
@@ -5281,7 +4727,7 @@ age she asked me not to drink, and then I
 made a resolution of total abstinence, at a  
 time when I was sole constituent of my  
  o o an a  a ae o i  
-throagh all time, I owe to my mothe
+throagh all time, I owe to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555134:1870041301:0382/pct:42.714361,88.760951,14.536209,9.173967/!600,600/0/default.jpg"/>
 </td>
@@ -5295,7 +4741,7 @@ throagh all time, I owe to my mothe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- here  
+here  
 in winter. G. C. H.  
   
 those witness&quot; agree to take each oth­  
@@ -5318,7 +4764,7 @@ me not to drink; and then I made a
 resolution of total abstinence that I  
 have adhered to through all my life.  
 What do I not owe to my mother?&quot;  
-Troy
+Troy 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1870041301:0536/pct:35.337880,83.792400,19.172350,11.922979/!600,600/0/default.jpg"/>
 </td>
@@ -5332,7 +4778,7 @@ Troy
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and line  
+and line  
 to the farmer.  
 a  
 he  
@@ -5358,7 +4804,7 @@ total abstinence that I have adhered to
 through all my life. What do I not  
 owe to my mother?&quot;  
 3T One of the ancients, it is said,  
-died of chagrin at not being able t
+died of chagrin at not being able to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775356:1870082501:0136/pct:71.779141,59.099193,12.116564,25.097631/!600,600/0/default.jpg"/>
 </td>
@@ -5382,7 +4828,7 @@ died of chagrin at not being able t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-G.  
+.  
 THE SOUNDS OF THE SABBATH-BELLS.  
 nh no there is no flaming hell!  
 V ji th? Universalist bell;  
@@ -5529,7 +4975,7 @@ meuce, at a time when I was
 I&#x27;d ?nstituent niember of my own body,  
 Ci;11 nat I ha  
 Ple tinio T i n  
-hvc yield&#x27;ed to go a mile
+hvc yield&#x27;ed to go a mile 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83045232:00415661976:1878012701:0164/pct:0.645069,10.545528,14.592890,81.829244/!600,600/0/default.jpg"/>
 </td>
@@ -5543,8 +4989,6 @@ hvc yield&#x27;ed to go a mile
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &#x27;  
   
 tr  
@@ -5615,7 +5059,7 @@ These paths that lead through earthly dross,
 All meet at last beneath the cross.  
 The Christian does not fear the knell,  
 As angels toll the funeral bell.  
-Written for the Sunday S
+Written for the Sunday Se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191599:1878013001:0072/pct:3.195489,13.338097,15.789474,70.906276/!600,600/0/default.jpg"/>
 </td>
@@ -5629,7 +5073,7 @@ Written for the Sunday S
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-O J j.  
+J j.  
   
 THE 80UKD3 OF THE SABBATH-BELLS.  
   
@@ -5776,7 +5220,7 @@ total abstinence, at a time when I was
 sole constituent member of my own body,  
 and that I have adhered to it through  
 all the time, I owe to my mother.&quot;  
-Many
+Many 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1878013001:0473/pct:12.155219,4.768055,17.103840,91.421806/!600,600/0/default.jpg"/>
 </td>
@@ -5790,8 +5234,6 @@ Many
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The sounds of the sabbath Hells.  
   
 Oh, no, there is no flaming hell!  
@@ -5838,7 +5280,7 @@ This is the church--not hailt on sands,
 And wed hig hers-c ans worship hure;  
 acel in taith and works, excel  
  himed the hocepanant  
-ooh down, ye saints, in heaven an
+ooh down, ye saints, in heaven and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1878020301:0742/pct:86.907021,74.587361,12.998102,17.635688/!600,600/0/default.jpg"/>
 </td>
@@ -5852,7 +5294,6 @@ ooh down, ye saints, in heaven an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 it Of THE COLON KL.  
 HOtXDs OF tSABBATH-BElXS.  
 Oh, no, there Is no naming hell!  
@@ -5918,7 +5359,7 @@ These paths that lead through earthly dross,
 All meet at last beneath the cross.  
 The christian does not fear the knell,  
 Aa angels toll the funeral belL  
-la a Pari
+la a Paris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779544:1878020301:0112/pct:55.124755,23.905829,9.124266,21.603402/!600,600/0/default.jpg"/>
 </td>
@@ -5932,8 +5373,6 @@ la a Pari
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
-  
 The Sounds of the Sabbath Bells.  
   
 Oh, no, there is no flaming hell !  
@@ -6001,7 +5440,7 @@ All meet at last beneath the Cross,
 The Christian does not fear the knell,  
 As angels toll the funeral bell-  
   
-The Sounds of the Sabbath Bell
+The Sounds of the Sabbath Bells
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775253:1878021401:0036/pct:4.318937,35.256003,11.395349,28.242917/!600,600/0/default.jpg"/>
 </td>
@@ -6025,7 +5464,7 @@ The Sounds of the Sabbath Bell
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-TICE. Poetry.  
+ICE. Poetry.  
   
 SOUNDS OF THE SABBATH BELLS.  
   
@@ -6092,6 +5531,7 @@ These paths that lead through earthly dross,
 All meet at last beneath the Cross,  
 The Christian does not fear the knell,  
 As aiiL&#x27;els toll the funeral bell.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1878022101:0388/pct:38.529922,4.142326,37.228968,87.838555/!600,600/0/default.jpg"/>
@@ -6106,7 +5546,6 @@ As aiiL&#x27;els toll the funeral bell.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 j to the while rose i had stood beside the  
 evening before.  
 A Motiii.u’s Inku&#x27;knck.—The late  
@@ -6132,7 +5571,7 @@ made a resolution of total abstinence,
 at a time when I was sole constituent  
 member of mine nnn liody, and that 1  
 have adhered to it through all time I owe  
-to rny mother
+to rny mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1878022201:0588/pct:68.501021,63.971825,12.844740,15.885198/!600,600/0/default.jpg"/>
 </td>
@@ -6146,7 +5585,6 @@ to rny mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-at kind ef service.  
 A Mother&#x27;s Influence.  
 The late Thomas H. Benton, who  
 was so long in public life and sure­  
@@ -6170,9 +5608,10 @@ then I made a reselution of total abe­
 stinence, at a time when I was sole  
 constituent member of mine own body.  
 and that I have adhered to it through  
-all time I owe to my mother.
+all time I owe to my mother.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1878030201:0539/pct:68.804415,57.910177,12.966418,18.519309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1878030201:0539/pct:68.804415,59.168978,12.966418,17.260508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6184,7 +5623,7 @@ all time I owe to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, to  
+to  
 repeat the operation if he could secure  
 any news or smelt a chance for another  
 letter.&quot;  
@@ -6212,7 +5651,8 @@ a resolution of total abstinence, at a
 time when I was sole constituent mem­  
 ber of mine own body, and that I have  
 adhered to it through all time I owe to  
-my mother.&quot;
+my mother.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878030501:0217/pct:83.389667,71.755912,11.121841,11.947065/!600,600/0/default.jpg"/>
 </td>
@@ -6236,7 +5676,6 @@ my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
   
 SOINDS OF THE SARRATH REIIS.  
 Oh, no, there is no flaming hell!  
@@ -6304,7 +5743,7 @@ The Christian does not fear the knell,
 As angels toll the funeral bell.  
   
 Cash vs. Credir.  Many farmers seem  
-to think that there 
+to think that there i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1878030901:0661/pct:29.920054,16.461003,12.434087,29.093498/!600,600/0/default.jpg"/>
 </td>
@@ -6318,7 +5757,6 @@ to think that there
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 he sounds of the sannarh  
 BEIIS.  
 Oh, no, there is no flaming dell!  
@@ -6385,7 +5823,7 @@ All meet at ast beneath the Gross;
 The Christian does not fear the knell,  
 a toll the funeral bell.  
   
-SAN Jua
+SAN Juan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553895:1878031201:0239/pct:3.697906,12.607921,11.372530,26.096341/!600,600/0/default.jpg"/>
 </td>
@@ -6399,7 +5837,7 @@ SAN Jua
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,e  
+e  
 hope in Christ where hope began;  
 ell? do well! do well! do well!  
 the Unitarian bell.  
@@ -6450,7 +5888,8 @@ alvary and Palestine:
 e pathe that lead through earthly dross,  
 meet at last beneath the Cross;  
 Christian does not fear the kuell  
-ngels toll the funeral bell  e
+ngels toll the funeral bell  e  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_karma_ver01:data:sn88064118:00280761783:1878031301:0115/pct:34.119311,16.423358,15.916058,30.126078/!600,600/0/default.jpg"/>
 </td>
@@ -6464,7 +5903,7 @@ ngels toll the funeral bell  e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ere are no ore, no friends to blight  
+re are no ore, no friends to blight  
 Tt. e hope within tho h.mrt lira&#x27;s riuht;  
 No hell I no belli no hell 1 no hell I  
 ltttry out the L&#x27;nivcrftftlist be)&#x27;.  
@@ -6525,7 +5964,7 @@ All meet at last beneath tt le cross.
 The Christian docs not lea r tho knell,  
 A s angels toll the funeral bell.  
   
-Edison&#x27;s riioiKigraph
+Edison&#x27;s riioiKigraph.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1878031301:0006/pct:38.150943,14.936571,9.886792,27.213204/!600,600/0/default.jpg"/>
 </td>
@@ -6572,13 +6011,13 @@ While
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-oly day,  
+ly day,  
 Attend this church and learn the way; -  
 There are no fires, no fiends to blight  
 The hope within the heart that’s right;  
 No hell! no hel&#x27;! no hell! no hell!  
 Do well! do well! do well! do well!  
-Said the Unitarian
+Said the Unitarian 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868697:1878031401:0087/pct:2.028047,19.474211,11.736785,2.871839/!600,600/0/default.jpg"/>
 </td>
@@ -6592,7 +6031,7 @@ Said the Unitarian
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- well!  
+well!  
 #uid tae Unitarian bell.  
 Look down, ﬁa saints, in heaven that dwell!  
 Shouted the Roman Catholic bell;  
@@ -6609,7 +6048,7 @@ Of Calvary and Palestine;
 - These paths that lead through earthly dross,  
 All meet at last beneath the Cross;  
 The Christian does not fear the knell  
-As angels toll the funeral bell
+As angels toll the funeral bell.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84022957:00542868697:1878031401:0087/pct:1.833873,23.860552,12.944984,7.301043/!600,600/0/default.jpg"/>
 </td>
@@ -6623,7 +6062,7 @@ As angels toll the funeral bell
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- price.  
+price.  
   
 Mommasaechnnen  
   
@@ -6695,7 +6134,7 @@ Genuine
 Sin zanz Life Raguliz,  
 or Medicine.  
 Look for clean, neat white Wrapper  
-wit
+with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206535970:1878031501:0112/pct:27.558007,7.535411,20.730316,86.133144/!600,600/0/default.jpg"/>
 </td>
@@ -6709,8 +6148,6 @@ wit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The Sounds of The Sabbath Bells.  
 Oh, no. there is no A imiag hell !  
 fid the CnireraalUt bell ;  
@@ -6758,7 +6195,21 @@ Its torm and rules and rights revere
 And worship here come worship here ;  
 Excel in faith and works, excel !  
 Chimed the Episcopalian bell.  
-Look down, ye saints, in heaven that dwell !  
+Look down, ye saints, in heaven that 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1878031601:0582/pct:4.019251,18.558839,10.301769,22.426128/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Pacific commercial advertiser._](https://www.loc.gov/resource/sn82015418/1878-03-16/ed-1/?sp=1)
+
+#### 1878-03-16 &middot; [Honolulu, Hawaiian Islands](http://dbpedia.org/resource/Honolulu)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+dwell !  
 Shouted the Roman Catholic bell ;  
 Lean o&#x27;er the battlement of bliss,  
 And deign to bless a world like this ;  
@@ -6774,9 +6225,9 @@ These paths that lead through earthly dross.
 All meet at last beneath the Cross ;  
 The Christian does not fear the knell  
 As ange&#x27;s toll the funeral bell.  
-OA j
+OA jo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1878031601:0582/pct:4.019251,18.558839,10.301769,29.548989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1878031601:0582/pct:4.058273,40.622084,9.144121,7.485744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6788,8 +6239,6 @@ OA j
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THE SOUNDS OF THE SABBATH BELLS.  
 Oh. no, there U no flaming Iiell !  
 Said the UnlTeruIbt 111;  
@@ -6854,7 +6303,7 @@ Of Calvary and l&#x27;ak.st!ne ;
 Theie paths that lead through earthly drons.  
 All meet at last beneath the Croas;  
 TbeChristain dues not fear the kuell.  
-As angels toll the funeral bell
+As angels toll the funeral bell.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1878032101:0298/pct:4.368576,19.773387,12.096182,23.918751/!600,600/0/default.jpg"/>
 </td>
@@ -6868,8 +6317,6 @@ As angels toll the funeral bell
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-but gone before.  
-  
 A Mother&#x27;s Influence.-—The late Thos. H.  
 Benton, who was so long in public life and  
 surrounded by temptations, paid the follow-  
@@ -6889,7 +6336,7 @@ and correct wishes. When I was seven years
 of age she asked me not to drink, and then I  
 made a resolution of total abstinence, at a  
   
-Fo
+For
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friend-a-religious-and-literary-journal_1878-04-06_51_34%2Fsim_friend-a-religious-and-literary-journal_1878-04-06_51_34_jp2.zip%2Fsim_friend-a-religious-and-literary-journal_1878-04-06_51_34_jp2%2Fsim_friend-a-religious-and-literary-journal_1878-04-06_51_34_0003.jp2/pct:40.371926,9.791004,48.590282,79.940936/,600/0/default.jpg"/>
 </td>
@@ -6903,7 +6350,7 @@ Fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- W &#x27;of the above  
+W &#x27;of the above  
   
 CREEDS OF THE BELLS.  
 Oh, no, there is no flaming hell I  
@@ -6936,7 +6383,21 @@ Life Is a boon, to mortal given,
 And there la nothing true but heaven ;  
 Do not provoke the avenging rod  
 Come here and learn the will of God ;  
-Farewell! farewell! base world, farewell !  
+Farewell! farewell! 
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194394:1878040801:0054/pct:6.010017,14.643198,18.308292,61.435691/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Orleans County monitor._](https://www.loc.gov/resource/sn84022871/1878-04-08/ed-1/?sp=1)
+
+#### 1878-04-08 &middot; [Barton, Vt.](http://dbpedia.org/resource/Barton%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+base world, farewell !  
 Cried out the Presbyterian bell.  
 We toll the truth ! we tell! we tell !  
 Shouted the Methodist bell ;  
@@ -6971,9 +6432,9 @@ All meet at last beneath the cross.
 The Christian doos not fear the knell,  
 A angels toll the funeral bell.  
   
-Crocusscs ar
+Crocusscs are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194394:1878040801:0054/pct:6.010017,14.643198,18.308292,61.435691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194394:1878040801:0054/pct:14.607679,29.381826,9.181970,16.488177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6985,7 +6446,7 @@ Crocusscs ar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Ferry.  
+Ferry.  
 A Mother&#x27;s Influence. The late  
 Thomas 11. lienton, who was so long in  
 public life and surrounded by temptations,  
@@ -7007,7 +6468,7 @@ of total abstinence, at it time when I wil
 sole constituent member of my own body,  
 and that 1 have adhered to it through ai  
 he time, I owe to my mother.  
-Sat No
+Sat No 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1878091101:0114/pct:63.316024,74.861990,11.053412,11.229299/!600,600/0/default.jpg"/>
 </td>
@@ -7021,7 +6482,7 @@ Sat No
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-here  
+ere  
 is one animal invulnerable so far as the  
 rattlesnake is concerned, and that is the  
 hog. The hog wages war upon all  
@@ -7048,7 +6509,8 @@ made a resolution of total abstinence, at
 a time when I was sole constituent mem­  
 Ikt of my own body, and that I have  
 adhered to it through all the time I owe  
-to my mother.&quot;
+to my mother.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1878100301:0399/pct:80.419957,80.566298,14.016511,14.433702/!600,600/0/default.jpg"/>
 </td>
@@ -7062,7 +6524,7 @@ to my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- them in.  
+them in.  
 Scribner,  
   
 The late Inomias H, Beaton, who was  
@@ -7084,7 +6546,8 @@ made a resolntion of total abstinence, at
 a time when I was sole constitunent mem­  
 ber of my own boiy, and that I have  
 adhered to it througk 21l the time I owe  
-to my mother.”
+to my mother.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1878100501:0322/pct:26.979472,86.299952,11.133222,11.224327/!600,600/0/default.jpg"/>
 </td>
@@ -7098,7 +6561,6 @@ to my mother.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A HI other&quot; Influence.  
 The lato Thomas II. Benton, who  
 was so long in public life and sur­  
@@ -7124,7 +6586,7 @@ abstinence, at a time when I was
 sole constituent member of my own  
 body, and that I have adhered to it  
 through all the time I owo to my  
-mother.
+mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:206539239:1878100901:0028/pct:14.245653,25.963078,10.642176,12.688080/!600,600/0/default.jpg"/>
 </td>
@@ -7138,7 +6600,6 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 « My mother asked me never to use  
 any tobacco, and I never touched it  
 from that time to the present day; she  
@@ -7158,7 +6619,7 @@ of total abstinence, at a time when I
 was sole constituent member of my  
 own body, and that I have adhered  
 to it, through all the time, I owe to  
-to my mother
+to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991422:1878101201:0050/pct:29.078660,17.285199,12.272396,11.682310/!600,600/0/default.jpg"/>
 </td>
@@ -7172,7 +6633,7 @@ to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 50  
+50  
 A Mother&#x27;* Influence.  
 The late Tbotnn&#x27;t H. Benton, who was  
 so long in public life and surrounded by  
@@ -7193,7 +6654,8 @@ ma&lt;Je a resolution of total abstinence, at
 a time when I was sol-9 constituent mem­  
 ber of my own body, and that I have  
 adhered to it through all the time I owe  
-i to my mother.&quot;
+i to my mother.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1878101701:0255/pct:14.605144,86.923394,9.693680,9.616969/!600,600/0/default.jpg"/>
 </td>
@@ -7207,7 +6669,6 @@ i to my mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Mothera Influence  
 The lato Thomas II Benton who was so  
 long in public lifo and surrounded by temp  
@@ -7231,7 +6692,7 @@ total abstinencd nt a timo when I was solo
   
 constituent member of my own body nnd  
 thnt I havo ndhercd to it through all tho  
-time I owo to my mothe
+time I owo to my mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069309:00100481807:1878110601:0063/pct:30.518764,61.375807,12.141280,12.714541/!600,600/0/default.jpg"/>
 </td>
@@ -7245,7 +6706,6 @@ time I owo to my mothe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 Thomas H. Benton, who was so long in  
 public life and consequently surrounded  
 by many temptations, in the following  
@@ -7269,7 +6729,7 @@ abstinence, at a time when I was sole
 constituent member of my own body,  
 and that I have adhered to it through  
 all the time, I owe tojmy mother.&quot;  
-«
+« 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878112601:0369/pct:60.796646,71.479479,10.901468,10.395675/!600,600/0/default.jpg"/>
 </td>
@@ -7283,8 +6743,6 @@ all the time, I owe tojmy mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 A Mother&#x27;s Influence.  
   
 The late Thomas H. Benton, who  
@@ -7312,7 +6770,7 @@ stituent member of my own body, and
 that I have adhered to it through all the  
 time, I oivo to my mother.&quot;  
   
-N
+NO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1879011101:1217/pct:34.957671,66.221840,14.206071,14.291864/!600,600/0/default.jpg"/>
 </td>
@@ -7326,7 +6784,7 @@ N
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’s late  
+s late  
 Thomas H. Benton, who was so long  
 in public life and surrounded by tempt-  
 ations, paid the following tribute tg his  
@@ -7346,7 +6804,7 @@ made a resolution of total abstinence,
 and that I have adhered to it through  
 all the time I owe to my mother.”  
   
-POLITENESS I
+POLITENESS It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1879-01-23_28_4%2Fper_the-pacific_the-pacific_1879-01-23_28_4_jp2.zip%2Fper_the-pacific_the-pacific_1879-01-23_28_4_jp2%2Fper_the-pacific_the-pacific_1879-01-23_28_4_0006.jp2/pct:35.123086,24.265398,13.562060,11.965530/,600/0/default.jpg"/>
 </td>
@@ -7360,7 +6818,7 @@ POLITENESS I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-\ motnen&#x27;s Infiaknce.?The late Thom a- 11  
+motnen&#x27;s Infiaknce.?The late Thom a- 11  
 ! Benton, who was so long in public life and sur  
 rounded by temptations, paid the followin:  
 tribute to his mother:?&quot;My mothera^ked in  
@@ -7378,7 +6836,7 @@ a?ked me not to drink, and then 1 made a reso
 lution of total abstinence, at a time when l wa  
 sole constituent member of my own body, an  
 tliai l adhered to it through all tlm? I owe te  
-my mother.&#x27;&quot;
+my mother.&#x27;&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654504:1879012701:0617/pct:70.835112,88.352604,13.373168,7.319402/!600,600/0/default.jpg"/>
 </td>
@@ -7392,7 +6850,6 @@ my mother.&#x27;&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Nother&#x27;s infinenes.  
   
 The late Thomas H. Henton.  
@@ -7425,7 +6882,7 @@ to having complied with her
     ea e e  
 member of my own body, and that I  
 adhered to it through all tinie I owe to  
-my mother
+my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1879020601:0614/pct:32.805336,86.928105,10.379325,9.225329/!600,600/0/default.jpg"/>
 </td>
@@ -7439,7 +6896,7 @@ my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-) Register.  
+Register.  
 A Mother&#x27;s Influence.  
 The late Thomas H. Benton, who was  
 so long in public life and surrounded by  
@@ -7463,7 +6920,7 @@ I was sole constituent member of my
 own body, and that I adhered to it  
 through all time I owe to my mother.&quot;  
   
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556072:1879020801:0144/pct:14.391447,4.444153,12.467105,91.557420/!600,600/0/default.jpg"/>
 </td>
@@ -7477,7 +6934,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Times.  
+Times.  
   
 A Mother’s Inki.uence.—The late Thom­  
 as II. lienton, who was so long iu public life  
@@ -7498,7 +6955,8 @@ drink, and then I made a resolution of total
 abstinence, at a time when I was sole constit­  
 uent member of my own body, and that I ad­  
 hered to it through all time I owo to my :  
-mother.&quot;
+mother.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1879021201:0425/pct:55.301598,66.551151,12.562296,12.586637/!600,600/0/default.jpg"/>
 </td>
@@ -7512,7 +6970,7 @@ mother.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ulturist.  
+lturist.  
   
 The late Thomas H. Benton, who  
 was so long in public lite and surround­  
@@ -7535,7 +6993,8 @@ resolution of total abstinence, at a
 time when I was sole constituent  
 member of my own body, and that I  
 adhered to it through all time I owe  
-to my mother.&#x27;
+to my mother.&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1879030601:0051/pct:23.658097,76.223776,14.230943,14.558169/!600,600/0/default.jpg"/>
 </td>
@@ -7549,7 +7008,6 @@ to my mother.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Moth ans Influence. —The late  
 Tin s. H. Benton, who was s»» long in  
 I public life surrounded by temptations,  
@@ -7573,7 +7031,7 @@ ber of my own body, and that 1 adhered
 to it through all time I owe to my  
 mother.&quot;  
 S  
-p
+po
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_accio_ver01:data:sn82014805:00271740360:1879031301:0263/pct:40.567010,6.865722,15.670103,20.765857/!600,600/0/default.jpg"/>
 </td>
@@ -7587,7 +7045,7 @@ p
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- any larger. Now they are  
+any larger. Now they are  
 called together every Sabbath by the  
 sweet-toned bell they have bought,  
 which sings out over the hills,—  
@@ -7597,7 +7055,8 @@ which sings out over the hills,—
 None need be lost by land or Sea,  
   
 Repent, believe, have hope and then  
-Be saved, and praise the Lord, Amen.”
+Be saved, and praise the Lord, Amen.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1879-03-13_56_11%2Fsim_zions-herald_1879-03-13_56_11_jp2.zip%2Fsim_zions-herald_1879-03-13_56_11_jp2%2Fsim_zions-herald_1879-03-13_56_11_0005.jp2/pct:31.464461,27.958015,11.749387,4.071247/600,/0/default.jpg"/>
 </td>
@@ -7611,8 +7070,6 @@ Be saved, and praise the Lord, Amen.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Hother&#x27;s Influence.  
   
 The late Thomas II. Benton, who  
@@ -7659,6 +7116,7 @@ my own body, and that I adhered
 to it through all time I owe to my  
   
 mother.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879032001:0471/pct:57.214402,30.327588,9.528966,12.156147/!600,600/0/default.jpg"/>
@@ -7673,7 +7131,7 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- earth it  
+earth it  
 gloom; a little cortege to the tomb.  
 But after all these scenes are past, a  
 glorious day shall come at last, when  
@@ -7704,7 +7162,7 @@ abstinence, and that T have adhered to
 it through all the time I owe to my  
 mother.”  
 j The Stream to the Mill.  
-**f notice,” said the stream to th
+**f notice,” said the stream to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879040301:0264/pct:84.251447,64.520921,11.050455,17.640505/!600,600/0/default.jpg"/>
 </td>
@@ -7718,7 +7176,7 @@ j The Stream to the Mill.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-).  
+.  
 Oh! what a virtue il is t be silen&#x27;.  
 Header, hfw i- it with you? Have you  
 been silent ?  
@@ -7744,7 +7202,7 @@ t have adhered to it fJirough all the
 time I ewe to my mother.&quot; ,  
 . A special meeting of Wnu O.  
 Hill Ixxiire will be held in the new  
-Mawsale llall in th
+Mawsale llall in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs72n_ver01%2Fdata%2F1879040601%2F0327.jp2/pct:17.131148,72.516758,12.295082,14.767418/!600,600/0/default.jpg"/>
 </td>
@@ -7758,7 +7216,7 @@ Mawsale llall in th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- paid the following tribute to his  
+paid the following tribute to his  
 mother: &quot;My mother asked mo never to  
 I use tobacco, and I have never touched it  
 from that time to the present day. Sbo  
@@ -7774,7 +7232,7 @@ When I was seven years of age she asked
 me not to drink, and then I made a resolution  
 of total abstinenoe, at a timo when I  
 was sole constituent, adhered to it through  
-all timo, 
+all timo, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn84026918:00295861411:1879041101:0364/pct:70.564981,81.217309,18.003624,10.817879/!600,600/0/default.jpg"/>
 </td>
@@ -7788,7 +7246,7 @@ all timo,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tu New York World.  
+tu New York World.  
 A Mother&#x27;s Influence.?Thomas II.  
 Benton paid the following tribute to his  
 mother: &quot;My mother asked me never to  
@@ -7809,7 +7267,7 @@ me not to drink, and then I made a resolution
 of total abstinence, at a time when I  
   
 was sole constituent, adhered to it through  
-all time, I owe to my mother.
+all time, I owe to my mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026918:00295862087:1879041102:0341/pct:76.424772,80.291877,19.927812,13.457316/!600,600/0/default.jpg"/>
 </td>
@@ -7823,7 +7281,6 @@ all time, I owe to my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Mother’s Influence.  
 The late Thomas 11. Benton, who was  
 so long in public life and surrounded by  
@@ -7846,7 +7303,7 @@ E jßtion of total abstinence, at a time when
 ngMI was sole constituent member of my  
 er- ; own body, and that I adhered to it i  
 through all time I owe to my mother.”  
-n£ No
+n£ No 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688155:1879041701:0293/pct:0.945225,79.145299,19.583131,14.814815/!600,600/0/default.jpg"/>
 </td>
@@ -7860,7 +7317,7 @@ n£ No
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in Raleigh Observer.  
+in Raleigh Observer.  
 A Mother&#x27;s Influence  
 The late Thomas II. Benton, who was so  
 long in public life and surrounded by temp­  
@@ -7881,7 +7338,7 @@ and that I have adhered to it through all
 the time I owe to my mother.&quot;  
 Thos. II. Benton was a native of Orange  
 county, North Carolina, and represented  
-Missouri in th
+Missouri in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1879041801:0272/pct:65.257761,46.083634,14.550998,13.468478/!600,600/0/default.jpg"/>
 </td>
@@ -7895,10 +7352,7 @@ Missouri in th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
-A Mother&#x27;s Influence.  
-Thomas II. Bentou paid the follow­  
-ing tribute to bis mother: &quot;My  
+tribute to bis mother: &quot;My  
 mother asked mo never to use tobac­  
 .co, and I have never touched it from  
 ?that time to the present day. She  
@@ -7919,9 +7373,9 @@ of total abstinence, at u time when&#x27;7
 througli&#x27;all lime, I oyvc to my moth­  
 Forget Me Not.  
 Tho beautiful little flower bearing  
-this namo derived i
+this namo derived it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1879041801:0073/pct:2.408759,53.877268,13.795620,18.733387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1879041801:0073/pct:2.408759,55.483647,13.795620,17.127008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7933,7 +7387,6 @@ this namo derived i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 A Mother’s Influence.—The late Thos.  
 H. Benton, who was so long in public life  
 surrounded by temptations, paid the fol­  
@@ -7954,7 +7407,7 @@ tion of total abstinence, at a time when I
 was sole constituent member of my own  
 body, and that I adhered to it through all  
 time I owe to my mother.”  
-Thre
+Three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529595:1879050101:0075/pct:84.856775,70.766179,11.200515,11.244731/!600,600/0/default.jpg"/>
 </td>
@@ -7968,8 +7421,6 @@ Thre
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
-  
 A Mothers Influence.  
   
 The late Thomas H. Benton who was so  
@@ -7995,7 +7446,7 @@ constituent member of my own body, and
 that I have adhered to i: through all the  
 time, I owe to my mother.”  
   
-oo
+ooo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1879-05-03_47_23%2Fsim_maine-farmer_1879-05-03_47_23_jp2.zip%2Fsim_maine-farmer_1879-05-03_47_23_jp2%2Fsim_maine-farmer_1879-05-03_47_23_0003.jp2/pct:27.861320,74.118965,10.582011,9.075168/,600/0/default.jpg"/>
 </td>
@@ -8011,7 +7462,7 @@ oo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A Mo0THERS&#x27; LcrLUEcE. - T hei late  
+A Mo0THERS&#x27; LcrLUEcE. - T hei late  
 Thsmas H. Benton, who was so long in  
 public life, and surrounded by  
 temptations, paiid thse followeing  
@@ -8031,46 +7482,8 @@ of age she iskecd ce hot to drink and
 then I scads a resolution of total  
 abstinence; and thact I have adhered  
 toit through all the ticces I owe to my  
-motcer.
+motcer.&quot;
 </td></tr></table>
-
----
-
-## [From _The Florida agriculturist._](https://www.loc.gov/resource/sn96027724/1879-06-04/ed-1/?sp=2)
-
-#### 1879-06-04 &middot; [DeLand, Fla.](http://dbpedia.org/resource/Jacksonville%2C_Florida)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-A Mothers Influence.  
-The lite of lion. T. H. Benton con­  
-tains the following beautiful testimony  
-to his mother&#x27;s influence over both in  
-childhood and manhood. Mark it  
-well, all ye whom it may concern :  
-“ My mother asked me never to use  
-tobacco; I have never touched it  
-from that time to the present day.  
-She asked me not to gamble, and I  
-have never gambled ; I cannot tell  
-who is loosing the games that are be­  
-ing played. She admonished me too,  
-against hard drinking, an.i whatever  
-capacity of endurance I have at pres­  
-ent, and whatever usefulness I have  
-attained through life, I attribute to  
-having complied with her pious aud  
-correct wishes. When I was seven  
-years old she asked me not to drink,  
-and then 1 made a resolution of total  
-abstinance; and that I have adhered  
-to i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1879060401:0426/pct:41.880156,57.216876,15.154147,15.292376/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -8080,7 +7493,6 @@ to i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 A Mother&#x27;s Influence.  
 The late Thomas H. Benton, who was so  
 long in public life and surrounded by temp  
@@ -8101,7 +7513,7 @@ and then I made a resolution of total absti
 nence, at a time when I was sole constituent  
 member of my own bedy, and that I bave  
 adhered to it through all the time, I owe to  
-my mother.
+my mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879062501:0212/pct:66.170635,52.929380,14.325397,9.654777/!600,600/0/default.jpg"/>
 </td>
@@ -8115,7 +7527,7 @@ my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; a motheWluence.  
+a motheWluence.  
 The late Thou. II. Denton, who was (a  
 long in public lile and surrounded by  
 temptations, paid the following tribute to  
@@ -8139,7 +7551,7 @@ ol my on body, and that I have adbi-rtd
 tn it ih&#x27;ougb all the time, I owe to cuy  
 mother.&quot;  
 ONEB0OK.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WelRN9n_ver01%2Fdata%2F1879062601%2F0278.jp2/pct:21.203554,18.971680,12.500000,13.788837/!600,600/0/default.jpg"/>
 </td>
@@ -8163,7 +7575,7 @@ ONEB0OK.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ng.  
+g.  
 W HAT A MOTIIElt CAN DO. ,  
 The late Hon. Thomas II. Ben­  
 ton, for thirty years a United  
@@ -8187,7 +7599,7 @@ tal abstinence; and that I have
 adhered to it through all the  
 time, I owe to my mother.&quot;­  
 The Watchword.  
-A TEMPERA
+A TEMPERAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn85033395:00212470399:1880031101:0674/pct:51.933551,23.067447,10.838780,15.183246/!600,600/0/default.jpg"/>
 </td>
@@ -8201,7 +7613,7 @@ A TEMPERA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- go.  
+go.  
 What a Mother can Do.—The late  
 Hon. Thomas H. Benton, for thirty years  
 a United States Senator, said: &quot; Mv  
@@ -8219,7 +7631,7 @@ she asked me not to drink, and then I
 made a resolution of total abstinence; and  
 that I have adhered to it through all the  
 time, I owe to my mother.”  
-The Faithful Word.—A gentlema
+The Faithful Word.—A gentleman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver02:data:sn82004649:0051701610A:1880052001:0287/pct:44.170448,75.111881,12.033932,10.480728/!600,600/0/default.jpg"/>
 </td>
@@ -8233,7 +7645,7 @@ The Faithful Word.—A gentlema
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- cows.  
+cows.  
 The late Thomas H. Benton, who  
 was so long in public life and surround­  
 ed by temptations, paid the following  
@@ -8255,7 +7667,7 @@ and then I made a resolution of total
 abstinence, at a time when I was sole  
 constituent member of my own body,  
 and that I adhered to it through all  
-time I owe to my mother
+time I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295867504:1881062401:0088/pct:73.167155,78.494520,11.302542,12.497597/!600,600/0/default.jpg"/>
 </td>
@@ -8269,7 +7681,7 @@ time I owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, by the  
+by the  
 late Thomas H. Benton, who was long in  
 public life and exposed to many temptations,  
 shows the value of the influence which she  
@@ -8290,7 +7702,7 @@ of age she asked me not to drink, and then I
 made a resolution of total abstinence, at a  
 time when I was sole constituent member of  
 my own body, and that I have adhered to it  
-through all the time, I owe to my mother
+through all the time, I owe to my mother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friend-a-religious-and-literary-journal_1884-10-18_58_11%2Fsim_friend-a-religious-and-literary-journal_1884-10-18_58_11_jp2.zip%2Fsim_friend-a-religious-and-literary-journal_1884-10-18_58_11_jp2%2Fsim_friend-a-religious-and-literary-journal_1884-10-18_58_11_0001.jp2/pct:10.331325,12.443541,28.433735,22.154472/,600/0/default.jpg"/>
 </td>
@@ -8304,24 +7716,7 @@ through all the time, I owe to my mother
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-glass, and that is sweeter; he  
-keeps drinking and drinking, until the  
-barrel is empty, and the last glass is the  
-sweetest of all, and then heis ready to  
-tap a new barrel. You can no more tell  
-when sweet cider becomes sour than you  
-can tell when a boy becomes a man, or  
-whena pig becomes a hog.  
-The man who commences with sweet  
-cider is likely to proceed to sour cider,  
-and finish off with rum, gin, brandy,  
-whiskey, and all the catalogue of alco­  
-holic poisons which ruin mankind and  
-desolate the world.  
-  
-‘What a Mother Can Do.  
-The late Hon. Thomas H. Benton, for  
-thirty years a United States senator,said :  
+said :  
 My mother asked me never to use to­  
 ‘bacco, and I never touched it from that  
 ‘time to the present day; she asked me  
@@ -8335,9 +7730,9 @@ pious and correct wishes. When I was
 seven years of age she asked me not to  
 drink, and then I made a resolution of  
 totaljabstinence ; and that I have adherad  
-to it through all the time, 
+to it through all the time, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020381:00542868363:1887033101:0514/pct:56.359735,23.157745,12.660944,15.660940/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020381:00542868363:1887033101:0514/pct:56.359735,31.421269,12.582911,7.397416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8349,7 +7744,7 @@ to it through all the time,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is mother&#x27;s love.  
+is mother&#x27;s love.  
   
 The Hon. Thomas H. Benton, who  
 was so long in public life and surround­  
@@ -8384,7 +7779,7 @@ member of my own body, and that
   
 adhered to it through all time I owe to  
   
-my mother.
+my mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556837:1887111701:0737/pct:10.896675,27.144657,12.143705,12.541519/!600,600/0/default.jpg"/>
 </td>
@@ -8398,7 +7793,7 @@ my mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- wife.”  
+wife.”  
 The late Thomas H. Benton who was  
 so long in public life and surrounded hy  
 temptations, paid the following tribute to  
@@ -8420,7 +7815,8 @@ drink, and then I made a resolution of
 total abstinence, at a time when I was  
 sole constituent member of iny own body,  
 and that 1 have adhered to it through all  
-time I owe to my mother.”
+time I owe to my mother.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867092:1892021001:0230/pct:81.200118,74.544278,12.695832,15.694100/!600,600/0/default.jpg"/>
 </td>
@@ -8434,7 +7830,7 @@ time I owe to my mother.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the risk of their words.  
+the risk of their words.  
   
 Tbo late Thonras II. Benton who  
 was so long in publie life and sur­  
@@ -8461,7 +7857,8 @@ nence, at a time when I was sole
 constituent member of my own  
 body, and that I havo adhered to it  
 through all time I owe to my  
-mother.”
+mother.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187195:1892030401:0236/pct:72.902204,61.327922,11.058336,16.037049/!600,600/0/default.jpg"/>
 </td>
@@ -8475,7 +7872,7 @@ mother.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- . . -.. . ;  
+. . -.. . ;  
 The late T. H. Benton, who.&#x27; was  
   
 so long in publie life and surrounded  
@@ -8499,7 +7896,8 @@ age she asked me not - to drink, and
 then I ?made a resolution of &#x27; total  
 abstinence, at a; time when :T) was  
 eole constituent member of my own  
-body; and that I.have adhered to it
+body; and that I.have adhered to it  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RockPD13n_ver01%2Fdata%2F1892052601%2F0277.jp2/pct:46.481028,7.121763,12.622399,15.368015/!600,600/0/default.jpg"/>
 </td>
@@ -8513,7 +7911,6 @@ body; and that I.have adhered to it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Mother&#x27;s Influence.  
 The late T. II. Benton, who was  
 so long in public life and surrounded  
@@ -8539,7 +7936,7 @@ abstinence, at a time when I was
 sole constituent member of my own  
 body, and that I have adhered to it  
 through all time I owe to my  
-mother.
+mother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA19n_ver01%2Fdata%2F1892070601%2F0213.jp2/pct:3.486239,23.423328,14.724771,18.171272/!600,600/0/default.jpg"/>
 </td>
@@ -8553,7 +7950,7 @@ mother.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, Thomas  
+Thomas  
 H. Benton, attributed his success to  
 the influence of hiB mother, and in a  
 speech made in New York thus spoke of  
@@ -8569,7 +7966,7 @@ may attain in life, I attribute to having
 complied with hor highest and earnest  
 wishes.&quot;  
 That silver-voiced orator, Henry  
-Clay, who seemed to wake a
+Clay, who seemed to wake at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:0017503173A:1894032701:1043/pct:17.472402,17.275927,16.140084,9.071216/!600,600/0/default.jpg"/>
 </td>
@@ -8583,7 +7980,7 @@ Clay, who seemed to wake a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- senator. When making a  
+senator. When making a  
 speech in New-York once, he turned to the  
 ladies present and spoke thus about his mother:  
 “ My mother asked me never to use tobacco,  
@@ -8595,7 +7992,7 @@ I made a resolution of total abstinence. That
 resolution I have never broken. And now  
 whatever service I may have been able to ren­  
 der to my country or whatever honor I may  
-have gained I owe it t
+have gained I owe it to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894100401:0424/pct:72.234273,34.919543,21.179255,7.949388/!600,600/0/default.jpg"/>
 </td>
@@ -8609,11 +8006,11 @@ have gained I owe it t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. “My mother asked me not  
+“My mother asked me not  
 to use tobacco, and I have never  
 touched it from that time to the  
 present day. She asked me not to  
-game, and I have no
+game, and I have not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glycine_ver01:data:sn89053987:print:1898101201:0747/pct:29.147389,16.048825,21.546596,4.656420/!600,600/0/default.jpg"/>
 </td>
@@ -8627,7 +8024,6 @@ game, and I have no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A MOTHER&#x27;S INFLUENCE.  
 The following tribute to bis mother, by the  
 late Thomas H. Benton, who was long in pub­  
@@ -8650,7 +8046,7 @@ made a resolution of total abstinence, at a time
 when I was sole constituent member of my  
 own body, and that I have adhered to it through  
 all the time, I owe to my mother.”  
-The
+The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899051801:0552/pct:50.813648,74.741614,20.997375,13.889393/!600,600/0/default.jpg"/>
 </td>
@@ -8664,7 +8060,7 @@ The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of life, and in the same momant  
+of life, and in the same momant  
 passed out of our sight. Ile rests safe in  
 the hand of God.  
   
@@ -8688,7 +8084,7 @@ ber of my own body, and that T have ad­
 hered to it through all the time, I owe to  
 my mother.””  
   
-The
+The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899062401:0767/pct:30.799936,49.096417,20.134121,19.137157/!600,600/0/default.jpg"/>
 </td>

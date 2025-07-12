@@ -1,7 +1,7 @@
 
 # Household Economy
 
-### 197 reprints from 1852-01-20 to 1882-07-27
+### 194 reprints from 1852-01-20 to 1882-07-27
 
 ## [Household Economy](https://chroniclingamerica.loc.gov/lccn/sn84023200/1852-02-05/ed-1/seq-4/)
 
@@ -38,7 +38,7 @@ To the poor, the weekly newspaper is a precious boon. They cannot afford books, 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ut&#x27; of this; we shall  
+t&#x27; of this; we shall  
 have steamers, in a few years, that will as cer­  
 tainly surpass the speed of the present steam­  
 ers crossing the Atlantic, as tho yacht Ameri­  
@@ -83,7 +83,7 @@ exhibiting a moro cxtensivo knowledge upon a
 greater variety of subjects, and expressing their  
 viows with greater flueucy, clearness and cor­  
 rectness in the use of language,  
-Tho f
+Tho fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852012001:0117/pct:76.766894,53.133966,16.646001,28.470536/!600,600/0/default.jpg"/>
 </td>
@@ -186,7 +186,7 @@ scale of humanity.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ing in importance, are  
+ng in importance, are  
 increasing every day. We are sure the removal of  
 the Charlotte Mint would subject the whole of Wes­  
 tern North Carolina to serious inconvenience.  
@@ -226,7 +226,7 @@ the lead in the debating society, exhibiting a more
 extensive knowledge upon a greater variety of sub  
 Meets, and expressing their views with greater fluen  
 &#x27;cy, clearness and correctness in the use ot language.&quot;  
-Origin or Cbrtain Words. Th
+Origin or Cbrtain Words. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1852021101:0475/pct:30.811966,26.872698,15.783476,19.914040/!600,600/0/default.jpg"/>
 </td>
@@ -240,7 +240,7 @@ Origin or Cbrtain Words. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Family. A school teacher,  
+Family. A school teacher,  
 wbo has been engaged a long time in his profession,  
 and witnessed the influence of a newspaper upon the  
 minds of a family of children, writes the editor of  
@@ -276,7 +276,7 @@ extensive knowledge upon a greater variety of sub
 jects, and expressing their views with greater fluen-  
 ley. clearness and correctness in the use ot language.&quot;  
 Origin or Certain Words. The bayonet tells  
-
+i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:00296022718:1852021101:0051/pct:32.559227,29.529052,15.741895,17.957187/!600,600/0/default.jpg"/>
 </td>
@@ -290,7 +290,7 @@ Origin or Certain Words. The bayonet tells
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- teaches, who has been engaged a  
+teaches, who has been engaged a  
 longtime in his profession, and witnessed the  
 influence of a newspaper on the minds of a  
 family of children, writes as follows:.  
@@ -326,7 +326,7 @@ iting a more extensive knowledge upon a great­
 er variety ol subjects, and expressing their  
 views with greater fluency, clearness and cor­  
 rectness, in the use of language.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1852030201:0108/pct:79.147264,46.416526,14.406286,19.540472/!600,600/0/default.jpg"/>
 </td>
@@ -340,7 +340,6 @@ rectness, in the use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 IN A  
   
 •cfcool teacher, who bts been engaged a  
@@ -359,7 +358,8 @@ pared with those who do not.are,
 ciation and emphasis, and cooaequeutlv  
 read more understanding!)&#x27;.  
 2d, They are better spellers, snd define  
-words with greater esse and accuracy.
+words with greater esse and accuracy.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852030401:0532/pct:5.458221,55.880523,12.567385,9.657747/!600,600/0/default.jpg"/>
 </td>
@@ -373,7 +373,6 @@ words with greater esse and accuracy.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 pressed.  
 6th, Tboft young men who have for  
 years been readers of the newspapers, are  
@@ -382,7 +381,7 @@ ting society, exhibiting a more extensive
 knowledge upon a greater variety of sub  
 jeets, and expressing their views with  
 gTeater fluency,clearness and correctness  
-in the use of languag
+in the use of language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852030401:0532/pct:5.475067,74.822651,12.803235,4.803983/!600,600/0/default.jpg"/>
 </td>
@@ -396,7 +395,7 @@ in the use of languag
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- five  
+five  
 iU construction with greater accuracv. minutes, and spitting on the iron to nscer­  
 5lb, They write better compositions,  
   
@@ -404,7 +403,7 @@ t#i
   
 belter language, containing moreiThis ironing machine has a long handle,  
   
-more clearly and connectedly e
+more clearly and connectedly es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852030401:0532/pct:5.508760,72.134412,25.421159,2.588675/!600,600/0/default.jpg"/>
 </td>
@@ -418,7 +417,7 @@ more clearly and connectedly e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.A  
+A  
 school teacher, who has been engaged a long  
 time in his profession, and witnessed the in­  
 fluence of a newspaper upon the minds of a  
@@ -460,7 +459,7 @@ edge upon a greater variety of suljects, and
 expressing their views with greater fluency,  
 clearness and correctuess in the use of lan  
 guage.  
-Kossuth at The Wes
+Kossuth at The West
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852031701:0470/pct:75.508637,34.777864,11.113244,20.046765/!600,600/0/default.jpg"/>
 </td>
@@ -474,7 +473,6 @@ Kossuth at The Wes
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 cester county, Mass., some of tho man­  
 ufacturers employing upwards of lifty  
 hundi.  
@@ -525,7 +523,7 @@ extensive knowledge upon a greater
 variety of subjects, and expressing  
 &#x27;heir views with greater clearness and  
 eoirectness in the u&amp;o of language.  
-Wort
+Worth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1852051301:0075/pct:43.789641,13.933528,26.612051,81.135866/!600,600/0/default.jpg"/>
 </td>
@@ -549,7 +547,7 @@ Wort
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- there  
+there  
 was but three, of us after all,&quot; 1  
   
 Scholars and Newspapers. An intelli­  
@@ -593,7 +591,7 @@ knowledge upon a greater variety of sub
 jects, and expressing their views with greater  
 fluency, clearness and correctness in the use  
 of language.&quot; M-  
-The Upas Tree of th
+The Upas Tree of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RepNB4n_ver01%2Fdata%2F1852070601%2F0176.jp2/pct:4.794692,7.130257,29.469204,88.301922/!600,600/0/default.jpg"/>
 </td>
@@ -607,7 +605,7 @@ The Upas Tree of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the law against all such, and W I  
+the law against all such, and W I  
 the magistrate refuses to act, then the con­  
 stable is of make the returns to Court.—  
 The Judge remarked that it is the duty of  
@@ -659,7 +657,8 @@ ways found leading debating societies, ex­
 hibiting a more extensive knowledge upon  
 a greater variety of subjects, and expres­  
 sing their views. ith greater clearness and  
-correctness in the use of language.
+correctness in the use of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002318%2F1852070801%2F0103.jp2/pct:65.386099,53.491578,14.981100,33.674999/!600,600/0/default.jpg"/>
 </td>
@@ -673,7 +672,7 @@ correctness in the use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of a pipe,” or some such shad  
+of a pipe,” or some such shad  
 nwv, though not altogether indefinite phrase  
 W hy may not time, in like manner, tie mea­  
 sured hy two shirts it A gentleman with a  
@@ -721,7 +720,8 @@ taking the lead in the debating society, ex­
 hibiting a more c£lenitive knuWh dge upon a  
 creater variety of subjects, and expressing  
 their views with greater fluency, clearness  
-and correctness in the use of language.
+and correctness in the use of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852072801:0295/pct:55.445900,45.822327,13.350081,26.567496/!600,600/0/default.jpg"/>
 </td>
@@ -735,7 +735,7 @@ and correctness in the use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Family.  
+Family.  
 A school teacher, who hus been  
 pnrntror! a Inner tim in Vli Tirofoaaioit.  
 and witneifaotf tho effects of a new-l  
@@ -777,7 +777,7 @@ ing a more extensive knowledge upon
 a greater variety of subjects, and ex­  
 pressing their views with greater flu  
 3ncy, clearness, and correctness in tli0  
-ueo of language. - . 
+ueo of language. - . w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn90068762:00296026876:1852080601:0158/pct:36.383538,49.338683,14.251313,26.021697/!600,600/0/default.jpg"/>
 </td>
@@ -791,7 +791,7 @@ ueo of language. - .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- at when.:-tonpared: &#x27;  
+at when.:-tonpared: &#x27;  
 those who have . .  
   
 •  
@@ -830,7 +830,8 @@ fond of taking_the lead &#x27;ha the
 ty. exhibiting a more extensive knowledge . pr.  
 on a .greater. variety- of !inbjeete,- and -&#x27;expree­  
 iring theii views with&#x27;greater flueney,elearneas  
-1 nod correctness In the nee of language,
+1 nod correctness In the nee of language,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002367%2F1852081901%2F0116.jp2/pct:20.245998,78.994864,12.431667,15.597946/!600,600/0/default.jpg"/>
 </td>
@@ -874,8 +875,6 @@ iring theii views with&#x27;greater flueney,elearneas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A school-teacher, who has been engaged&#x27;  
 a long time in his profession, and witnessed  
 the influence of a newspaper on the minds&#x27;  
@@ -929,6 +928,7 @@ edge upon a greater variety of subjects, and
 expressing their views with greater clear­  
 ness and correctness in the use of the lan­  
 guage.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001978%2F1852100601%2F0141.jp2/pct:75.930060,24.265171,21.694303,22.882427/!600,600/0/default.jpg"/>
@@ -943,7 +943,7 @@ guage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- FAMILY.  
+FAMILY.  
 A school teacher, who has been engaged  
 long time in his profession, and witnessed  
 the influence of a newspaper on the mind  
@@ -986,7 +986,7 @@ their views, with greater clearness and cor
 rectness in the use of the langnage.  
 THE LATE BISHOP CHASE.  
 Letters from Robin&#x27;s Nest, Peoria County  
-Illinois, confirm th
+Illinois, confirm the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1852100901:0576/pct:80.589849,17.418649,12.122771,25.635767/!600,600/0/default.jpg"/>
 </td>
@@ -1000,7 +1000,7 @@ Illinois, confirm th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- among their  
+among their  
 kindred, without in either case being able to communicate  
 to them any information respecting  
 their affairs, either in California or here. They  
@@ -1045,7 +1045,7 @@ extensive knowledge upon a greater variety of
 subjects, and expressing their views with greater^  
 fluency, clearness, and correctness in their use o  
 language.  
-It
+It 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852101201:0154/pct:60.216832,58.705647,24.347666,29.423553/!600,600/0/default.jpg"/>
 </td>
@@ -1059,7 +1059,6 @@ It
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Newsparkn 1 A Faminy.~A school  
 teacher, who has beenengnged o long time io  
 bis profession, and witnessed the influence of  
@@ -1104,6 +1103,7 @@ hibiting a more extensive knowledge upon a
 gieater variely of subjects, and expressing  
 threir views with greater fluency, clearness and  
 correctness in their use of language.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1852101301:1060/pct:31.822315,31.206401,12.676971,19.829709/!600,600/0/default.jpg"/>
@@ -1118,7 +1118,7 @@ correctness in their use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-S.  
+.  
 The IVwpapci&#x27; iu a Family.  
 A school teacher, who has been enga­  
 ged a long time in his profession, and  
@@ -1168,7 +1168,7 @@ i , P , . . 5 J
 and expressing their views with greater  
 i , , ? , .  
 1 fluency-, clearness and correctness in their  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1852101401:0465/pct:79.339378,29.355791,15.090674,32.319808/!600,600/0/default.jpg"/>
 </td>
@@ -1182,7 +1182,7 @@ i , , ? , .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and is giving rise  
+and is giving rise  
 to an increasing feeling of uncasiness under  
 the cuarse which slavery has entailed upon  
 them. Could the question—How is the sys­  
@@ -1235,7 +1235,7 @@ rectness in their use of language.”
 ‘““MY WIFE IS THE CAUSE OF IT.”  
 It is now more than forty years ago that Mr.  
 I.—— called at the house of Dr. B———, one  
-very cold morning, o
+very cold morning, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1852102001:0528/pct:45.647482,18.220565,12.194245,24.387320/!600,600/0/default.jpg"/>
 </td>
@@ -1249,7 +1249,6 @@ very cold morning, o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Takes this meth­  
 od to inform the pub­  
 lic, that he has just  
@@ -1260,7 +1259,7 @@ brought to Allen­
 town. He has purl  
 chased fore/kali and  
 is consequently able  
-to sell cheaper tha
+to sell cheaper than
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001978%2F1852102701%2F0156.jp2/pct:14.613045,64.913875,6.244757,6.289507/!600,600/0/default.jpg"/>
 </td>
@@ -1274,7 +1273,7 @@ to sell cheaper tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- en inland sea and not onthe Red  
+en inland sea and not onthe Red  
 River or the Seaboard and it was passed over, leaving  
 the Lim ted shipping of this lake to the constant dangne  
 of destruction [or the want of this triing amount,  
@@ -1327,7 +1326,8 @@ edge upcn a greater variety of subjects, and
 ing their views with greater fluency, clearness cor:  
 rectuess in their use of langunges,  
   
-atau
+atau  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver02:data:sn83030213:0020653039A:1852110301:0239/pct:82.921425,49.994111,15.868417,18.407726/!600,600/0/default.jpg"/>
 </td>
@@ -1351,7 +1351,6 @@ atau
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The Newspaper in a Family.  
 A school teacher, who has been en­  
 gaged a long time in his profession, and  
@@ -1393,7 +1392,8 @@ always taking the lead in debating socie­
 ties, exhibiting a inure extensive knowl­  
 edge on a greater variety of subjects, and  
 expressing their views with clearness and  
-accuracy in the use of language.
+accuracy in the use of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895655:1852110401:0559/pct:5.616338,56.189451,12.509117,22.658773/!600,600/0/default.jpg"/>
 </td>
@@ -1407,7 +1407,7 @@ accuracy in the use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.?A school teochcr  
+?A school teochcr  
 vho has been engaged a long time in bis profeaion.and  
 witneased the influence of a newspaper  
 ipon the minds of a family of children, writes to  
@@ -1441,7 +1441,7 @@ caders of the newspapers, arc always taking tho
 ead in the debating society, exhibiting a more exensive  
 knowledge upon a greater variety of subsets,  
 and expressing their views with greater flumcy,  
-clearness and correctness in their uje of language
+clearness and correctness in their uje of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852110601:0464/pct:82.794954,33.391628,14.820463,15.772216/!600,600/0/default.jpg"/>
 </td>
@@ -1455,7 +1455,7 @@ clearness and correctness in their uje of language
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-him.  
+im.  
 Newspaper Reaping.—lt is a universal fact,  
 that those scholars of both sexes and all ages,  
 who have had access to newspapers at home,  
@@ -1481,7 +1481,7 @@ AxTtQnTY.—Recent discoveries in Hercula­
 neum, Nineveh, and elsewhere, are conclusively  
 proving that the people of antiquity were ac­  
 quainted with many things in the arts of which  
-the moderns thought they
+the moderns thought they 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1852110601:0247/pct:70.422291,68.321580,12.564901,12.750353/!600,600/0/default.jpg"/>
 </td>
@@ -1495,7 +1495,7 @@ the moderns thought they
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--apir.—A school  
+apir.—A school  
 {richer, who ha* been engaged a Sour time in  
 fcia profession, and witnessed (he luOuence of a  
 wwspaper upon (he minds of a family of chil-  
@@ -1541,7 +1541,7 @@ rectness in their use of languages.
   
 Fatal Accident.—List evening, as usti&#x27;il  
 »fter an election, there was a great firing of  
-crackers. Abom 
+crackers. Abom 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190911:1852110601:0426/pct:7.094714,7.696215,14.153955,21.323343/!600,600/0/default.jpg"/>
 </td>
@@ -1555,7 +1555,7 @@ crackers. Abom
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- schoolteacher  
+schoolteacher  
 who boa been angiced s long time in his pro•  
 twain, and witnessed the if =toe of s news­  
 papa upon the minds of s family of children,  
@@ -1585,7 +1585,7 @@ verthementh to the fbiiehed and claisical oration
 of the statesman, they more readily eromPreitend  
 the meaning of the text, and consequently sina­  
 lyre Its constructlon with accuracy.  
-6.4 bay write trotter composidons, usin
+6.4 bay write trotter composidons, using
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fides_ver01%2Fdata%2Fsn84026382%2F000002545%2F1852110801%2F0025.jp2/pct:70.839608,24.754489,9.360881,10.076459/!600,600/0/default.jpg"/>
 </td>
@@ -1599,7 +1599,7 @@ lyre Its constructlon with accuracy.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t no distant  
+no distant  
 date China might prove to be to America what India is to  
 England.  
   
@@ -1636,7 +1636,7 @@ bating society, exhibiting a more extensive knowledge
 upon a greater variety of subjects, and expressing their  
 views with greater fluency, clearness, and correctness in  
 their use of language.  
-Iron Shivs.—As a good deal of attention h
+Iron Shivs.—As a good deal of attention ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678173:1852110801:0167/pct:78.165801,50.706778,15.400346,18.231243/!600,600/0/default.jpg"/>
 </td>
@@ -1650,7 +1650,7 @@ Iron Shivs.—As a good deal of attention h
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nesses.” 1 he priest was done  
+esses.” 1 he priest was done  
 and the marriage was valid.  
   
 INFLUENCE OF A NEWSPAPER.  
@@ -1694,7 +1694,7 @@ ter variety of subject*, and expressing their
 views with greater flue: cy, clearness and cor­  
 rectness in their use of languages._i  
   
-Adams
+Adams 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215889:1852111001:0511/pct:7.413279,37.024485,12.607236,22.271407/!600,600/0/default.jpg"/>
 </td>
@@ -1718,7 +1718,7 @@ Adams
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-resting occasion.?Bait.  
+esting occasion.?Bait.  
 Sun,  
 Influence ok a Newspaper.?A school teach­  
 er who has been engcged a long time in his pro­  
@@ -1758,47 +1758,9 @@ tensive knowledge upou a greater variety of sub­
 jects and expressing their views with greater fluen­  
 cy, clearness and correctness in their use of lan­  
 guage.  
-M
+Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190522:1852111101:0280/pct:29.423539,54.254476,13.911129,19.648233/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _New York Evangelist (1830-1902)_](https://archive.org/details/sim_evangelist-and-religious-review_1852-11-11_23_46/page/n3/mode/1up?view=theater)
-
-#### 1852-11-11 &middot; [New York](http://dbpedia.org/resource/New_York_City)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-Sentinel as follows:  
-  
-I have found it to be a universal fact, without  
-exception, that those scholars of both sexes and of  
-all ages, who have had access to newspapers at home,  
-when compared with those who have not, are  
-1. Better readers, excelling in pronunciation  
-  
-the proceedings is, and must be, that «the denomi- j Tun iHariHATioR or xun Soriptorbs, and other and emphasis, and consequently read more under-  
-  
-national spirit,” so earnestly disapproved in some  
-  
-quarters, iL at least « fair a prospect of Ufe and H. Fletcher. . . .^ witii «eLlr&quot;eLTd^c^^^^^^^^^^  
-  
-g r ow th among  
-  
-elsewhere. It appears to have been the eonscious- Carson s reply to Bis p i„,r.i».tiA« almost half the time it requires others, as  
-  
-p,. ....new™,,, m.«. .hem Snili.,-i.h’.b.  
-  
-~ ^ __ .Ait ** remsmbsrsd that Dr. w. in nis iLtnoenees, ©f the imporuntplaces, nations, theirgov-  
-  
-adppted by the Convration, on the Character and ^ theory of inspiration similar to Aat pro- ernments and doings on the globe.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1852-11-11_23_46%2Fsim_evangelist-and-religious-review_1852-11-11_23_46_jp2.zip%2Fsim_evangelist-and-religious-review_1852-11-11_23_46_jp2%2Fsim_evangelist-and-religious-review_1852-11-11_23_46_0003.jp2/pct:3.109221,12.829980,38.360351,5.953480/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1810,7 +1772,7 @@ adppted by the Convration, on the Character and ^ theory of inspiration similar 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y was settled is,  
+was settled is,  
 therefore, presumed-to be unfounded.  
 Influence of a Nf.wspapek. A school teacher  
   
@@ -1821,7 +1783,8 @@ the Ogdensburg Sentinel as follows :
 j I have found it to be a universal fact, without ex­  
 ception, that those scholars of both sexes and of all  
   
-ages, wno nave had access to newspapers at Home,
+ages, wno nave had access to newspapers at Home,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852111201:0435/pct:16.522241,42.228242,15.251300,5.203748/!600,600/0/default.jpg"/>
 </td>
@@ -1835,8 +1798,6 @@ ages, wno nave had access to newspapers at Home,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 5 They write better compositions, using better  
 language, containing more thoughts, more clearly  
 and connectedly expressed.  
@@ -1848,7 +1809,7 @@ jects, and expressing their views with greater flu
   
 ency, clearness and correctness in their use of lan­  
 uap;e.O O  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852111201:0435/pct:16.926632,56.405915,14.962449,5.666554/!600,600/0/default.jpg"/>
 </td>
@@ -1862,7 +1823,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; And the Church can  
+And the Church can  
 do no wrong.  
 . Influence or a Newspaper. A school  
 teacher who ha been engaged a long time in  
@@ -1904,7 +1865,7 @@ er variety, of subjects, and expressing their
 view with greater f lnency, clearness and cor­  
 rectness ia their use ol language. - -  
 11 ,&#x27;i 1 &#x27; 1 ,&quot; &#x27;.&quot;. V; &#x27;  
-Some English people were visitin
+Some English people were visiting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn90068762:00296026876:1852111201:0221/pct:76.971477,65.750351,13.338926,19.523142/!600,600/0/default.jpg"/>
 </td>
@@ -1918,7 +1879,7 @@ Some English people were visitin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, in all matters touching our foreign and  
+in all matters touching our foreign and  
 domestic relations, the cherished creed of  
 the American people !  
 Alexandria Gazette.  
@@ -1972,6 +1933,7 @@ j and expressing their views with greater
 nuency, clearness and correctness in their  
   
 use of language.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC2n_ver02%2Fdata%2F1852111301%2F0174.jp2/pct:48.556942,68.799519,37.896516,16.497844/!600,600/0/default.jpg"/>
@@ -1986,7 +1948,7 @@ use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- .  
+.  
 A school leacher*wh httii been engaged n  
 long time in his prof &quot;ion, and witnessed  
 the i influence of a new per upon, the minds  
@@ -2030,7 +1992,7 @@ greater variety of subjects, and expressing
 their views&#x27; with greater fluency, clearness  
 an. correctness in their use Of language.  
   
-N
+NO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002341%2F1852111301%2F0179.jp2/pct:76.920635,12.386980,16.369048,16.075949/!600,600/0/default.jpg"/>
 </td>
@@ -2044,7 +2006,6 @@ N
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 InpLUEnCE oF A NEWeP APER--A school teacher  
 who has been engaged a long time in his profession,  
 and witressed the influence of a newspaper upon the  
@@ -2077,7 +2038,7 @@ the lead in the debating cocieties, exhibiting a mors
 extensive knowledge upon a greaser variety of sube­  
 jeets, and expressing their views with greator  
 fluency, clearness, and corrcotness in their use of  
-languag
+language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852111301:0908/pct:50.706445,84.496652,15.791762,14.413801/!600,600/0/default.jpg"/>
 </td>
@@ -2091,7 +2052,7 @@ languag
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l line, lias gone  
+line, lias gone  
 ito (ut eul.ind to get the north pole lo  
 ’draw cistern water with.  
   
@@ -2143,7 +2104,7 @@ j subjects and expressing (heir views with
 greater fluency, clearness and correct­  
 ness in their use of language  
 A Fortvme in View.—’Ve learn from  
-the Hoslon Advertiser, tha
+the Hoslon Advertiser, that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624463:1852111301:0276/pct:64.545658,11.861744,29.962045,83.000786/!600,600/0/default.jpg"/>
 </td>
@@ -2157,7 +2118,7 @@ the Hoslon Advertiser, tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- vessel which had her flag at  
+vessel which had her flag at  
 half mast off the port of Erie.--Det. Adv.  
 INFLUENCE OF A NEWSPAPER.A school tea  
 cher who has been engaged a long time in his  
@@ -2196,7 +2157,7 @@ king the lead in the debating socioty, exhibit­
 ing a mote extensive knowledge upon a great­  
 er variety of subjects, and expressing their  
 viows with greater fluency, clearness and cor­  
-rectness in their use of language
+rectness in their use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1852111601:0252/pct:35.984793,70.409582,14.402690,21.067266/!600,600/0/default.jpg"/>
 </td>
@@ -2230,8 +2191,6 @@ rectness in their use of language
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I&#x27; PLCEYCK OF A SKWSMPEH.  
 A school tcacker who has been engaged a :  
 long time in his profession, and witnessed the  
@@ -2271,7 +2230,8 @@ j taking the lead in the debating society, ex­
 ; hibitiag a more extensive knowledge upon a  
 greater variety of *ubv**ts, and expressing  
 their views with grsster uuenev, clearness and  
-I correctness iu the use of language.
+I correctness iu the use of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852111701:0355/pct:53.973453,29.962244,13.118428,21.992988/!600,600/0/default.jpg"/>
 </td>
@@ -2285,8 +2245,6 @@ I correctness iu the use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y  
-  
 A Newspaper in a Family.  
 A lobool-teacher, who has been engaged a long time  
 ia his profession, and witnessed tbe influence of a news­  
@@ -2322,7 +2280,7 @@ debating societies, exhibiting a more extensive know­
 ledge upon a greater variety of subjects, and expressing  
 their views, with greater clearness and correctness in  
 the ose of the language.  
-t7 A
+t7 Aa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191629:1852111801:0455/pct:7.312566,75.154321,14.347941,15.853909/!600,600/0/default.jpg"/>
 </td>
@@ -2336,7 +2294,7 @@ t7 A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the  
+the  
  cholera in its worst form had broken out on deck. On  
 going below, they found that the castor oil was doing  
 its work; the bag lay exposed, and a large pot tull of  
@@ -2368,7 +2326,7 @@ per is as much like the circle as glory. Throw it
 in a paper and it keeps spreading until it has expand­  
 ed itself far beyond where it first commenced. Un  
 like the circle in the water which does no good fare  
-ther than that o
+ther than that of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:00383347221:1852111801:0147/pct:42.929293,80.193184,12.847222,14.955502/!600,600/0/default.jpg"/>
 </td>
@@ -2382,7 +2340,7 @@ ther than that o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the influence of a newspaper up­  
+the influence of a newspaper up­  
 on the minds of a family, writes to the ed­  
 itor of the Ogdensburg St-ntinel as follows :  
   
@@ -2423,7 +2381,7 @@ jerta, and expressing their views with greater flu­
 ency, dearness and correctness in the use of lan­  
 guage.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002394%2F1852111901%2F0139.jp2/pct:28.482307,48.547434,12.292902,16.345877/!600,600/0/default.jpg"/>
 </td>
@@ -2447,7 +2405,6 @@ guage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 inSmemee of a NewspapeF.  
 A school teacher who has been engaged  
 a long time in his profession, and witnessed  
@@ -2490,7 +2447,7 @@ hibiting a more extemsive kwowledge upon
 a grester variety of subjects and express  
 ing their vhswa wiih groster bueny, cloar.  
 nouss and corsectness in their sse of lan-  
-guage
+guage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:00200290148:1852112001:0630/pct:58.336565,67.819660,12.214036,21.226903/!600,600/0/default.jpg"/>
 </td>
@@ -2504,7 +2461,7 @@ guage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and camel&#x27;s milk.  
+and camel&#x27;s milk.  
 Then comes a second waste, which can be  
 crossed in fifteen days after which occur the  
 first oases which belong to tho Mountains  
@@ -2532,7 +2489,7 @@ clearly and connectedly expressed. 6th. They
 exhibit more extensive views on a variety of  
 subj ctf, and express their views with a greater  
 fluency, clearness and correctness in tho use of  
-language,
+language, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852112401:0287/pct:60.028427,66.050885,17.166772,21.106195/!600,600/0/default.jpg"/>
 </td>
@@ -2546,8 +2503,6 @@ language,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Influence of a Newspaper.  
 A school teacher, who has been engaged  
 a long time in his profession, and witnessed  
@@ -2597,7 +2552,7 @@ more clearly and connectedly expressed.
   
 . Those young men whe na e e  
   
-A circular has been
+A circular has been 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1852112501:0397/pct:67.682597,75.080861,24.634806,17.986219/!600,600/0/default.jpg"/>
 </td>
@@ -2611,8 +2566,6 @@ A circular has been
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 The Newspaper la at FaBttily.  
 A school teacher, who hat been engaged a  
 long time ia his profession, and witnessed ihe  
@@ -2656,7 +2609,7 @@ er fluency, clearness and correctness in their
 general use of language.  
 The Wronff of H oun u.  
 To ask for money is one of them very an  
-il tyin
+il tying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1852112601:0919/pct:49.728682,12.801433,15.058140,23.701254/!600,600/0/default.jpg"/>
 </td>
@@ -2670,7 +2623,7 @@ il tyin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ny tlie declarations to wlucli wo  
+ny tlie declarations to wlucli wo  
 have alluded.&quot; .  
 &quot; &#x27; Influence of a Newspaper. A school  
 teacher who lias been engaged a long time in  
@@ -2711,7 +2664,8 @@ taking thu lead in the-debating society, ex­
 hibiting a more extensive knowledge upon u  
 greater variety of subjects, nnd expressing  
 their views with greater fluency, clearness  
-uud correctness in their use of language
+uud correctness in their use of language  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1852112601:0418/pct:2.750000,20.490368,14.229167,23.044367/!600,600/0/default.jpg"/>
 </td>
@@ -2725,7 +2679,6 @@ uud correctness in their use of language
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Influence of a Newspaper.  
 A school teacher who has been engaged  
 long time in his profession, and witnessed the  
@@ -2764,7 +2717,7 @@ more extensive knowledge, upon a greater va­
 riety of subjects, and expressing their views  
 with greater fluency, clearness and correctness  
 in their use of language.  
-L Presidential ElecTION. The follo
+L Presidential ElecTION. The follow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1852112601:0617/pct:82.009386,52.305516,12.271858,20.268741/!600,600/0/default.jpg"/>
 </td>
@@ -2788,8 +2741,6 @@ L Presidential ElecTION. The follo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A school teacher who has been engaged a long  
 time in his profesNion, and witnessed the .ntluence  
 of a newspaper, upon the minds of a family of  
@@ -2833,7 +2784,8 @@ readers of the newspapers, are af says tali ing„
 tiad in the debating socie:y;ethit , itin2 a more er­  
 icrisive knoWledge °pan a great variety of , iitietnr  
 and expressing, their views with greater fittency , ,  
-cletantess and correctness in their use (.1&#x27; tangnage.
+cletantess and correctness in their use (.1&#x27; tangnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001787%2F1852112701%2F0177.jp2/pct:76.403868,69.561217,13.750465,21.634820/!600,600/0/default.jpg"/>
 </td>
@@ -2847,7 +2799,7 @@ cletantess and correctness in their use (.1&#x27; tangnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ved.  
+ed.  
   
 The Newspaper in a Family.—A school  
 teacher, who had been engaged a. long time in  
@@ -2894,7 +2846,7 @@ their use of language.
 California.—It appears from a table publish­  
 ed in the New York Herald of the 6th inst.,  
 that the appropriations made at the last session  
-of Congress exclusively for California, amoun
+of Congress exclusively for California, amount
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1852112701:0260/pct:73.439391,3.212172,22.375929,93.941955/!600,600/0/default.jpg"/>
 </td>
@@ -2908,8 +2860,6 @@ of Congress exclusively for California, amoun
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Influence of a Newspaper  
 A school teacher who has been en­  
 gaged a long time in his profession, and  
@@ -2933,7 +2883,8 @@ edge of geography, in almost half the
 time it requires others, as the newspa­  
 pers has made them familiar with the  
 location of the important places, nations,  
-their governments and doings on the
+their governments and doings on the  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852112701:0412/pct:48.789174,20.085174,14.544160,16.836684/!600,600/0/default.jpg"/>
 </td>
@@ -2947,7 +2898,7 @@ their governments and doings on the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- mead any thing belonging to the  
+mead any thing belonging to the  
   
 4. They are better grammarians, for  
 having become so faniilliar with every  
@@ -2986,7 +2937,7 @@ with greater fluency, clearness and cor-
   
 Expcnsivc Hoarding.  
 In an article relating to the Metro­  
-politan Hotel, New York, the
+politan Hotel, New York, the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852112701:0412/pct:5.740741,26.275131,72.236467,69.713776/!600,600/0/default.jpg"/>
 </td>
@@ -3000,8 +2951,7 @@ politan Hotel, New York, the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
- Infivence of a Newspaper.  
+Infivence of a Newspaper.  
 A school teacher who has been engaged in  
 a long time in his profession, and witnessed  
 the influence of a newspaper, upon the minds  
@@ -3044,7 +2994,7 @@ hibiting a more extensive knowledge upon a
 greater variety of subjects, and expressing  
 their views with groater deane e  
 litcicy, cicarness  
-and correctness in their use of language
+and correctness in their use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296217:1852112701:0405/pct:18.804619,40.866511,13.576779,24.111135/!600,600/0/default.jpg"/>
 </td>
@@ -3058,7 +3008,7 @@ and correctness in their use of language
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- rises onward to the highest  
+rises onward to the highest  
 thrones of power. Work on, and in the  
 language of the true poet, bo  
 A glorious man, anil thy renown elinll !&gt;?  
@@ -3108,7 +3058,7 @@ exhibiting a more extensive knowledge
 upon a greater variety of subjects,, and ex­  
 pressing their views with greater fluency,  
 clearness and correctness in their uso of  
-language
+language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852120101:0228/pct:70.104185,44.966047,13.808935,29.805137/!600,600/0/default.jpg"/>
 </td>
@@ -3122,7 +3072,6 @@ language
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 INFLUENCE OF A NEWSPAPjER?f;OT  
 A school teacher who has been engage!  
 a long time in his profession&#x27;,&#x27; and, witneur  
@@ -3161,7 +3110,7 @@ more clearly and connectedly expressed. ,
 6.&#x27; Those young . men&#x27; who have tor  
 years been readers 6f newspapers, are. al  
 and expressing . tbeir views with , greater  
-fluency ; clearness, and correctness ia tb
+fluency ; clearness, and correctness ia tb5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1852120801:0074/pct:80.092967,67.435823,15.299111,25.093741/!600,600/0/default.jpg"/>
 </td>
@@ -3175,7 +3124,7 @@ fluency ; clearness, and correctness ia tb
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--.  
+.  
 The Newspaper In a Family,  
 A school teacher who had been enga  
 ed a long time in his profession, and  
@@ -3205,7 +3154,7 @@ Int) i/I ..»».v, «•,—v,;ti..
 c mmon place advertisement to the fin­  
 ished anti classical oration «*f the states­  
 man, they more readily comprehend the  
-m
+me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1852121101:0184/pct:66.318041,38.144141,12.526741,17.054832/!600,600/0/default.jpg"/>
 </td>
@@ -3219,7 +3168,6 @@ m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 years been readers of newspapers, are al  
 ways taking the lead in tho debating so­  
 ciety, exhibiting a more extensive know­  
@@ -3227,7 +3175,7 @@ ledge upon a greater vuiiety of subjects,
 ■ nd expressing their views with greniei  
 lluenov, clearness and correctness in their  
 use of language.  
-Manv
+Manv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1852121101:0184/pct:66.603280,56.372639,12.217732,4.694663/!600,600/0/default.jpg"/>
 </td>
@@ -3241,7 +3189,7 @@ Manv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- feeling;  
+feeling;  
 of vour husband. . -  
 Influence of a Xetcspo-pcr A school teach­  
 er who has been engaged a long time in his pro­  
@@ -3279,7 +3227,7 @@ in the debating society, exhibiting A more exten­
 sive knowledge upon agreatcr variety of subjects,  
 and expressing their views with greater Cuency,  
 clearness and correctness in their use of lanjrua-  
-A Wom
+A Woma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1852121101:0020/pct:76.256814,42.335058,13.537250,20.094868/!600,600/0/default.jpg"/>
 </td>
@@ -3303,7 +3251,6 @@ A Wom
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 was restored to the loved one. — The pr’  
 was answered. Anna Harriett  
   
@@ -3326,7 +3273,8 @@ Ogdensburg Sentinel as follows:
   
 was so homesick I thought I could not stay  
   
-I have found it to be a universal
+I have found it to be a universal  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1852-12-23_26_35%2Fsim_youths-companion_1852-12-23_26_35_jp2.zip%2Fsim_youths-companion_1852-12-23_26_35_jp2%2Fsim_youths-companion_1852-12-23_26_35_0001.jp2/pct:55.858531,85.688274,41.144708,8.758194/600,/0/default.jpg"/>
 </td>
@@ -3340,8 +3288,6 @@ I have found it to be a universal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 without exception, that those scholars of  
   
 both sexes, and of all ages, who have had  
@@ -3385,7 +3331,8 @@ societies, exhibiting a muvre_ extensive
 knowledge upon a greater variety of sub-  
 jects and expressing their views with great-  
 er fluncy, clearness and correctness, in  
-their use of language.
+their use of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1852-12-23_26_35%2Fsim_youths-companion_1852-12-23_26_35_jp2.zip%2Fsim_youths-companion_1852-12-23_26_35_jp2%2Fsim_youths-companion_1852-12-23_26_35_0002.jp2/pct:5.777538,5.535324,21.922246,28.022578/,600/0/default.jpg"/>
 </td>
@@ -3399,7 +3346,6 @@ their use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 qnirea ofliara. a. the new.par liae mnle.  
 Ihcm. familiar with the location of llie iinpor-  
 unt pUrea, iiationa, their Govrmirirnts and  
@@ -3421,7 +3367,7 @@ been readers of newspapers, arc always tak-
 ing the lead in the &#x27;debating society, exhibiting i  
 a more rciiMiL-&#x27;e ,n,nnwledie upon a ureati-r.  
 variety ot&quot; aiiftieelaniiM exprcxiiiir their views :  
-with greaip
+with greaipi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal6n_ver01%2Fdata%2F1853011201%2F0856.jp2/pct:31.518219,16.144799,12.975709,10.905758/!600,600/0/default.jpg"/>
 </td>
@@ -3445,7 +3391,7 @@ with greaip
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* the editor of the Ogdcnsburg, (N. &quot;V  
+the editor of the Ogdcnsburg, (N. &quot;V  
 ^&#x27;Sentinel a* follows:  
 I have found it to be a universal fa  
 without exception that those scholars  
@@ -3484,7 +3430,7 @@ edge upon a greater variety of subjec
 and expressing their views with greal  
 fluency, clearness and correctness in th&lt;  
 use of language.  
-It is 
+It is a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1853012601:0206/pct:2.540620,1.621302,14.431315,23.751479/!600,600/0/default.jpg"/>
 </td>
@@ -3498,7 +3444,7 @@ It is
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- newspaper upon the minds of his ig the opinion that “they really had the Old  
+newspaper upon the minds of his ig the opinion that “they really had the Old  
   
 children, writes to the editor of the Ogdens. | Harry in them!”  
   
@@ -3507,7 +3453,7 @@ burg Sentinel as follows: ‘Wonders of the At ,
  Thave found it to be a universal fact, with-  
 out exception, that those scholars of both sex-- ‘The atmosphere rises above us with its ca-  
 es, and of all ages, who have had access to; thedral dome arching toward the heavens, of  
-newspapers at home, when. compared with) which it is the mos
+newspapers at home, when. compared with) which it is the most
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1853-02-04_2_72%2Fper_the-pacific_the-pacific_1853-02-04_2_72_jp2.zip%2Fper_the-pacific_the-pacific_1853-02-04_2_72_jp2%2Fper_the-pacific_the-pacific_1853-02-04_2_72_0003.jp2/pct:11.553605,73.339107,27.238108,4.029957/600,/0/default.jpg"/>
 </td>
@@ -3521,8 +3467,6 @@ newspapers at home, when. compared with) which it is the mos
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 vertisements to the finished and classical ora-  
 _ tien of the statesman, they more readily com-  
 peshend the meaning of the text, and conse-  
@@ -3534,7 +3478,8 @@ midre y and expressed.
 _ @&amp; Those young men who have for years  
 been readers of newspapers, are always  
 taking the lead in the debating society, exhib-  
-iting a more extensive knowledge upon a great-
+iting a more extensive knowledge upon a great-  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1853-02-04_2_72%2Fper_the-pacific_the-pacific_1853-02-04_2_72_jp2.zip%2Fper_the-pacific_the-pacific_1853-02-04_2_72_jp2%2Fper_the-pacific_the-pacific_1853-02-04_2_72_0003.jp2/pct:10.850061,85.612390,14.135416,6.725087/600,/0/default.jpg"/>
 </td>
@@ -3548,8 +3493,6 @@ iting a more extensive knowledge upon a great-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Influence of a Newspaper.  
 A school teacher who has been engaged  
 a long time in his profession, an witnessed  
@@ -3582,7 +3525,8 @@ sical oration of the statesman, they mnere
 readily comprehend the meaning of the  
 tert, and consequently analyze its construc  
 tion with accuracy.  
-5. They write better compositions, using
+5. They write better compositions, using  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85025647:00296026670:1853020901:0510/pct:5.150369,37.060235,12.641815,16.191365/!600,600/0/default.jpg"/>
 </td>
@@ -3596,7 +3540,7 @@ tion with accuracy.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; ing the Monroe doctrine-  
+ing the Monroe doctrine-  
   
 Newspapers and Testimony of a School­  
 master. I have found it to bo a universal  
@@ -3634,7 +3578,7 @@ ty, exhibiting a more extensive knowledge
 upon a greater variety of aubjects, and ex­  
 pressing their views with greater fluency.  
 clearness, and correctness in the use of lan­  
-guage
+guage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853022501:0099/pct:59.752438,14.996564,27.381845,77.841924/!600,600/0/default.jpg"/>
 </td>
@@ -3648,7 +3592,6 @@ guage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A school teacher who has been engaged a  
 long time in his prefession, and wiknessed  
 the influence of a newspaper upon the mindsa  
@@ -3688,7 +3631,7 @@ hibiting a more extensive knowledge upon
 a greater variety of subjects and expressing  
 their views with greater fluency, elearness  
 and correctness in their use of lauguages.  
-7 A negr
+7 A negro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853032401:0035/pct:80.893761,44.929364,13.039629,19.112639/!600,600/0/default.jpg"/>
 </td>
@@ -3702,7 +3645,7 @@ and correctness in their use of lauguages.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y. e  
+. e  
   
 INFLUENCE OF A NEWSPAPER. A schoo­  
 teacher, who has been engaged a long tim­  
@@ -3745,6 +3688,7 @@ hibiting a more extensive knowledge upon a
 greater variety of subjects, and expressing  
 their views with greater fuency, elearnee  
 and correctness in their use of languages.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853032601:0113/pct:33.541844,16.494497,29.684390,76.173115/!600,600/0/default.jpg"/>
@@ -3761,7 +3705,7 @@ and correctness in their use of languages.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Times. INFLUENCE OP A  
+Times. INFLUENCE OP A  
 NEWSPAPER.-A school-teacher, who has  
 been engaged a long time in his  
 profession, and witnessed the influence  
@@ -3784,7 +3728,7 @@ almost half the time it requires others,
 as the newspaper has made them familiar  
 with the location of the important  
 places, nations, \their governments aud  
-doings, on the globe
+doings, on the globe.
 </td></tr></table>
 
 ---
@@ -3795,21 +3739,7 @@ doings, on the globe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- that event we  
-desire to draw a veil. And now, before the robes  
-of mourning had been exchanged; before the deep  
-fouutain of grief had been dried up, death, insa­  
-tiate and almost cruel, has prostrated the form of a  
-mother. The grave has closed over her, and she  
-too, sleeps in eternal repose by the side of him  
-who went before her.  
-The mourner!, in their youth and beauty, have  
-now gone. The ocean -s to separate them from the  
-sacred spot or home. They have bid a farewell to  
-Whatever was dear, never more to return. Such is  
-the phase of lire?more of shadows than of sun­  
-shine.?Boston Paper.  
-Pafkrs.?To the poor, the weekly newspaper is &#x27;  
+To the poor, the weekly newspaper is &#x27;  
 a precious boon. They cannot afford books, and  
 indeed, would have but a little lime to read them.  
 But for the merest trifle, hardly to be missed, a  
@@ -3819,9 +3749,9 @@ cuss the contents of his newspaper at the break­
 fast table, w:th his wife and children; and go forth  
 to his labor supplied with material for thought  
 which cannot fail to make him wiser and better,  
-and elevate faun in the scale of humanity
+and elevate faun in the scale of humanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190546:1853102201:0323/pct:29.199401,75.768886,14.029181,11.988653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190546:1853102201:0323/pct:29.218107,82.636608,14.010475,5.120932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3833,8 +3763,6 @@ and elevate faun in the scale of humanity
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
-  
 To the poor, ft* weekly newspaper (• a  
 precious boon They cannot afford hooka,  
 and indeed, would have but a little time to  
@@ -3846,7 +3774,7 @@ newspaper st the breakfast table, with bis
 wife and children, and go forth to his labor  
 supplied with material for thought wbieb  
 cannot fell to make him wiser aad bettor, sod  
-elevate him in tbo scale of humanity
+elevate him in tbo scale of humanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853102601:0547/pct:69.371449,11.782603,12.695312,7.979533/!600,600/0/default.jpg"/>
 </td>
@@ -3860,7 +3788,7 @@ elevate him in tbo scale of humanity
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the sooner  
+the sooner  
 the better.  
   
 PAnzits, = To the poor, the weekly newspaper  
@@ -3874,7 +3802,7 @@ per at the breakfast table, with hie wife and
 children, and go forth to his labor supplied  
 with material for thought which cannot fail to  
 make him wiser and better, and elevate him in  
-the scale of humanity
+the scale of humanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001829%2F1853110201%2F0125.jp2/pct:80.700469,58.503949,11.679367,7.666715/!600,600/0/default.jpg"/>
 </td>
@@ -3888,7 +3816,7 @@ the scale of humanity
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and doubtless is, the desire of every  
+and doubtless is, the desire of every  
 true patriot in our land.  
   
 Papers. To the poor, the weekly newspaper  
@@ -3901,7 +3829,7 @@ discuss the contents of his newspaper at the break­
 fast table, with his wife and children, and go forth  
 to his labor supplied with material for thought  
 which cannot fail to make him wiser and better,  
-and elevate him in the scale of humanity
+and elevate him in the scale of humanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001733%2F1853111001%2F0160.jp2/pct:23.133227,61.204945,13.509986,7.631029/!600,600/0/default.jpg"/>
 </td>
@@ -3915,7 +3843,6 @@ and elevate him in the scale of humanity
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 INFLUENCE OF A NEWSPAPER.  
 A school tcacher, who has been en­  
 gaged a long time in his profession, and  
@@ -3952,7 +3879,7 @@ inalyze its construction with accuracy.
 nore cleariy and osimectedly expressed.  
 li, Those young men who have for  
 rears been readers of the newspapers,  
-always taking the lead in the deba
+always taking the lead in the debat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854021801:0182/pct:84.468147,75.901368,14.070719,19.954414/!600,600/0/default.jpg"/>
 </td>
@@ -3966,7 +3893,7 @@ always taking the lead in the deba
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,. i- t  
+. i- t  
 Influence of a Newspaper. A school teach  
 er, who has been engaged a long time in his pro­  
 fession, and witnessed tho influence of a news­  
@@ -4006,7 +3933,7 @@ moro extensive knowledge upon n greater vari-&#x27;
 ety of subjects, and expressing their views with  
 greater fluencyr clearness and correctness in the&#x27;  
 uso of their language.&#x27; ; -:, r.., :  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1854030801:0556/pct:77.242991,65.884127,17.149533,24.176179/!600,600/0/default.jpg"/>
 </td>
@@ -4020,8 +3947,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 INFLUENCE OF A NEWSPAFEH* j  
 A school-teacher, who boa been engaged  
 a loop time in his profession, and witnessed  
@@ -4064,7 +3989,7 @@ greater vsriety of subject*, and expressing
 their views with greater fluency clearness  
 and correctness in their uso of language.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854032401:0031/pct:68.832630,56.179329,12.967651,21.265622/!600,600/0/default.jpg"/>
 </td>
@@ -4078,7 +4003,6 @@ and correctness in their uso of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 INFLUENCE OF A NEWSPAPER,  
   
 A scHoo7 teacher, who has been a long time engag-  
@@ -4089,7 +4013,7 @@ follows :
   
 ception, that those scholars of both sexes and of all  
 ages, who have had access to mewapepere at home,  
-oe compared with those who have not, 
+oe compared with those who have not, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_watchman-examiner_1854-04-13_35_15%2Fsim_watchman-examiner_1854-04-13_35_15_jp2.zip%2Fsim_watchman-examiner_1854-04-13_35_15_jp2%2Fsim_watchman-examiner_1854-04-13_35_15_0003.jp2/pct:24.203314,57.026398,11.687380,4.684265/600,/0/default.jpg"/>
 </td>
@@ -4103,7 +4027,7 @@ oe compared with those who have not,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-viting bute.  
+iting bute.  
   
 2. They are better spellers, and define words with  
 ease and accuracy.  
@@ -4131,7 +4055,8 @@ re. + Fae of the newspapers, aré always taking the lead |
   
 knowledge upon a greater variety of subjects, and  
 expressing their views with great fluency, clearness  
-and correctness in their use of language.
+and correctness in their use of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_watchman-examiner_1854-04-13_35_15%2Fsim_watchman-examiner_1854-04-13_35_15_jp2.zip%2Fsim_watchman-examiner_1854-04-13_35_15_jp2%2Fsim_watchman-examiner_1854-04-13_35_15_0003.jp2/pct:13.870300,62.726449,22.171765,32.349896/,600/0/default.jpg"/>
 </td>
@@ -4145,7 +4070,7 @@ and correctness in their use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- from  
+from  
 their perilous enterprise.  
 The attempt, however, was not without  
 its effect. The frigate moved down the  
@@ -4196,7 +4121,7 @@ and expressing their views with greater
 fluency, clearnesss and correctness in the  
 use of their language.  
   
-One of The JurYMen. They hav
+One of The JurYMen. They have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1854042001:0117/pct:81.231910,38.957906,12.866317,29.177919/!600,600/0/default.jpg"/>
 </td>
@@ -4210,7 +4135,7 @@ One of The JurYMen. They hav
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!-—lndepen­  
+-—lndepen­  
 dent.  
 { INFLUENCE OF A NEWSPAPER.  
 , A school-teacher, who has been engaged a  
@@ -4253,13 +4178,9 @@ fluency, clearness and correctness in the use of
 their language.  
   
 HOME.  
-| Here is one of Montgomery&#x27;s delightful creatiuns—a fit  
-| subject for reflection in this age of artificialities. Read it,  
-| ye who geek in vain abroad for llmoe&#x27;uua_ncg&#x27;.d pleasures  
-| which are found alone amid the genial iufluences of the  
-| bome-cirele
+| Here is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1854042601:0836/pct:19.814072,50.220736,12.869121,22.461538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1854042601:0836/pct:19.814072,50.220736,12.869121,21.137124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4271,7 +4192,7 @@ HOME.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s  
+s  
   
 A school teacher, who has been a long  
 time engaged in his profession, and wit  
@@ -4337,7 +4258,7 @@ subjects, and expressing their views with
 great fluency, clearness and correctnes  
   
 in then use of language.  
-A CaRE fOR I
+A CaRE fOR IT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1854042801:0146/pct:30.009307,64.547858,21.779019,32.268641/!600,600/0/default.jpg"/>
 </td>
@@ -4351,7 +4272,7 @@ A CaRE fOR I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-STED.  
+TED.  
 Influence of a Newspapor.  
 A school teacher, who has been a long  
 time engaged in his profession, and witnessed  
@@ -4395,80 +4316,10 @@ greater variety of subjects, and by expressing
 their views with great fluency, Crlathess ang  
 e  i e ae cearness  
 wws awttsswss i thict e Of finguage  
-n language.
+n language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854042801:0050/pct:37.102621,39.363450,14.793642,22.464066/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Delaware herald._](https://www.loc.gov/resource/sn88053068/1854-05-31/ed-1/?sp=1)
-
-#### 1854-05-31 &middot; [Smyrna, Del.](http://dbpedia.org/resource/Smyrna%2C_Delaware)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-Igpl  
-; -. ^  
-&lt;**«.­  
-n  
-; &#x27;**  
-:  
-n  
-■ i  
-p ..-f  
-». V  
-w *1  
-r  
-•&gt;  
-r?  
-?  
-t 1- - •&lt;■.  
-.. j,  
-;&gt;i  
-•Tl »J MS#  
-edj «to  
-^»*1  
-to* «iny  
-I )  
-■  
-Kit »  
-• 3  
-ÏV  
-K!v  
-l9u  
-* I u  
-*&gt; w  
-Y%k  
-U ii w  
-OJC  
-Tfj-*  
-&lt;v  
-—  
-——  
-—  
-~ ~ - — ,  
-Jfmilg |l&lt;ipcr, Dttotè to Ccrapcnmcc, fftoviilitn, éïmtaüon, &#x27;ïtteratart, Agriculture, mft êeneral Intelligente.  
-*UK a!  
-t it«* &#x27;  
-—----.  
-•AT  
-SMYRNA, DEL., WEDNESDAY, MAY 31, 1854.  
-WHOLE NO., IG7.  
-VOLUME IV.-—NO. 11.  
-I*.  
-  
-—­  
-Thc following is one of Montgomery&#x27;s de­  
-lightful creation»—a fit subject for reflection  
-in this age of artificialities. Read it, ye who  
-seek in vain abroad for those unalloyed plea­  
-sures which are found alone amid tire genial in­  
-fluences of the home circle:  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn88053068:00383342910:1854053101:0048/pct:3.907355,4.694718,90.240453,30.940192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4480,7 +4331,7 @@ fluences of the home circle:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sit the &amp;lois of the Omni :la the .  
+sit the &amp;lois of the Omni :la the .  
 State afro, - and let ,the, intrudes Ainse stop  
 the people ? &#x27; .  
   
@@ -4530,30 +4381,9 @@ a greater variety of subjects, and expressing
 their views with greater fluency; and clear­  
 :less in their use of language. •  
   
-TIL
+TILE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002343%2F1854061001%2F0091.jp2/pct:25.352747,9.415215,9.625488,18.628288/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Clearfield Republican._](https://panewsarchive.psu.edu/lccn/sn83032199/1854-06-14/ed-1/seq-4/)
-
-#### 1854-06-14 &middot; [Clearfield, Pa.](http://dbpedia.org/resource/Clearfield%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-The following is ono of Montgomery’s delightful  
-creations—a fit subject for reflection in.tliis-ngo of  
-artificialities. Bead it yo who seek lu.vnin abroad,  
-for thoso unalloyed pleasures’ which aro found  
-nlono amidst tho genial influences of the honie  
-oircl
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fortuna_ver01%2Fdata%2Fsn83032199%2F000002722%2F1854061401%2F0070.jp2/pct:25.658144,45.293079,13.446970,3.368644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4565,8 +4395,6 @@ oircl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 style in the newspaper, from the common  
   
 place advertisement to the finished and clas­  
@@ -4591,7 +4419,8 @@ hibiting a more extensive knowledge upon
 a greater variety of subjects, and expressing  
 their views with greater fluency, and clear.  
   
-ness in their use of language.
+ness in their use of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854062401:0938/pct:68.512111,32.613333,12.748133,8.853333/!600,600/0/default.jpg"/>
 </td>
@@ -4605,7 +4434,6 @@ ness in their use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 In fuence of Newspapers.  
 A school teacher, who has been eni  
 gaged a long time in his profession and  
@@ -4650,7 +4478,7 @@ viriety of subjects, and oxpressing
 their views with greater fluency,  
 clearness and correctness in their use  
 of language.  
-A FiN
+A FiNE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288464:1854062801:0151/pct:15.825416,48.745969,15.503761,28.783912/!600,600/0/default.jpg"/>
 </td>
@@ -4664,7 +4492,7 @@ A FiN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, but as they are  
+ but as they are  
 onvictions of true policy, we have no  
 hesitation in making them.  
 Influence of Newspapers.  
@@ -4712,7 +4540,7 @@ vriety of subjects, and expressing
 their views with greater fluency,  
 clearness and correctness in their use  
 of language.  
-A FiN
+A FiNE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288464:1854062801:0152/pct:16.371132,46.726427,13.674067,30.734899/!600,600/0/default.jpg"/>
 </td>
@@ -4726,8 +4554,6 @@ A FiN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 INFLUENVE tiF A NEwsesPER.—A school­  
 teacher&#x27; who had been engaged a long time  
 in his profession, and was witnessing the in­  
@@ -4764,7 +4590,7 @@ with greater fluency, calmness, and correct­
 ness in the use of language.&quot;  
   
 t&#x27;on Irish boy trying hard to get a  
-place, denied that, he, Was
+place, denied that, he, Was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001830%2F1854091301%2F0156.jp2/pct:24.849565,65.295809,16.163361,22.222679/!600,600/0/default.jpg"/>
 </td>
@@ -4788,8 +4614,6 @@ place, denied that, he, Was
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A school teacher who had beeii enga•  
 gcd along time inns profession. and was  
 witnessing the influence of a newspaper  
@@ -4829,7 +4653,7 @@ of Subjects, andexpressing b their views with
 a greater fluency, calmness, and correct­  
 ness in the ,use of language.&quot;  
   
-CONFIDENCE IN Os i ts hen 
+CONFIDENCE IN Os i ts hen a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002396%2F1854092901%2F0115.jp2/pct:41.110209,58.228571,12.614167,19.878571/!600,600/0/default.jpg"/>
 </td>
@@ -4843,7 +4667,7 @@ CONFIDENCE IN Os i ts hen
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ove found it to be the universal fact, with  
+ve found it to be the universal fact, with  
 O&#x27;t exception, that those scholars of both  
 sexes and of all ages, who have had access to  
 j newspapers nt home, when compared with  
@@ -4866,7 +4690,7 @@ vertisement to the finished and classical ora­
 tion of the statesman, they more readily coin­  
 nrehnd the mn.mine of the text, and conse-  
 &#x27; &quot; -&#x27; i  
-more cie&#x27;Tiy anu e&#x27;
+more cie&#x27;Tiy anu e&#x27;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn84028570:00280774790:1854101901:0078/pct:62.561475,57.075337,13.565574,13.076482/!600,600/0/default.jpg"/>
 </td>
@@ -4880,7 +4704,7 @@ more cie&#x27;Tiy anu e&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—To the pool, the weekly news­  
+To the pool, the weekly news­  
 &#x27;paper is a precious boon. They cannot af­  
 ford books; and indeed, would have but a  
 little time to read them. But for the merest  
@@ -4892,7 +4716,7 @@ fast table, with his wife and children, and
 | go forth to his labor supplied with material  
 for thought which cannot fail to make him  
 wiser and better, and elevate him in theacale  
-(of humanity
+(of humanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562427A:1854121401:0322/pct:79.212738,37.895431,14.433142,7.743849/!600,600/0/default.jpg"/>
 </td>
@@ -4906,7 +4730,7 @@ wiser and better, and elevate him in theacale
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- they would not have been  
+they would not have been  
 expelled from the blooming garden of Eden.  
 The jury brought in a vordict-pf “guil­  
 ty” as to one half of hist, body from the  
@@ -4950,7 +4774,8 @@ iu construction with accuracy.
 6. They Write bettor composition, using  
 better language, containing more thoughts  
 more cleaSy and correctly expressed.&#x27;&#x27;  
-6. Those young men who have for
+6. Those young men who have for  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855010101:0010/pct:18.585497,67.049399,12.820054,25.807744/!600,600/0/default.jpg"/>
 </td>
@@ -4984,7 +4809,7 @@ more cleaSy and correctly expressed.&#x27;&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ly such as  
+y such as  
 le-Mit lo ihe aid ol secret oalhs, are peculiarly  
 ■it war with the gumus of r&lt; publican guvein­  
 ineul.  
@@ -5033,6 +4858,7 @@ knowl-dge upon a greater v i irty ofsub­
 jects, and expressing their views w ith gica­  
 tcr tluency, clearness and correctness in  
 their use of language.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855020301:0204/pct:69.397810,61.205731,13.156934,26.453095/!600,600/0/default.jpg"/>
@@ -5047,7 +4873,7 @@ their use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
---Philadelphia Ledger  
+-Philadelphia Ledger  
 Iufluence of a Newspaper.  
 A school teacher who has been engag  
 ed a long time in her profession and wit  
@@ -5087,7 +4913,7 @@ cieties, exhibiting a more extensive knowl
 edge upon a greater variety of subjects  
 and expressing their views with greate  
 fluency, clearness and correctness in their  
-use of language
+use of language.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032801:0589/pct:58.269720,61.706731,12.453226,22.836538/!600,600/0/default.jpg"/>
 </td>
@@ -5101,8 +4927,6 @@ use of language
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 INFLUENCE OF A NEWSPAPER.  
   
 to  
@@ -5156,7 +4980,7 @@ ex
 dear  
 bed  
 te ted da of   
-had day o
+had day of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1855032901:0457/pct:19.317566,70.281300,25.112836,27.240927/!600,600/0/default.jpg"/>
 </td>
@@ -5170,8 +4994,6 @@ had day o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Influence of a Newspaper.  
   
 A school teacher who has been engaged a  
@@ -5214,6 +5036,7 @@ iting a more extensive knowledge upon a great­
 er variety ot subjects, and expressing their  
 views with greater fluency, clearness and cor­  
 rectness in their use of language.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1855110201:0208/pct:63.089046,17.057014,14.515366,23.018689/!600,600/0/default.jpg"/>
@@ -5228,8 +5051,6 @@ rectness in their use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Influence of a Newspaper.  
 A fichol teacher, who has been engagsl a  
 long time in his profession, and witnessed th  
@@ -5268,7 +5089,7 @@ ing a more extensive knowledge upon s greater
 variety of suljicts, and expressing thIr  
 views with greater fluency, and clearness la  
 their se of language.  
--
+- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1855120501:0274/pct:81.437700,18.859811,14.664537,23.897285/!600,600/0/default.jpg"/>
 </td>
@@ -5282,7 +5103,7 @@ their se of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l to the soul.”  
+to the soul.”  
 Influence of a Newspaper.—A school  
 teacher, who has been engaged a long time  
 in his profession, and witnessed the influ­  
@@ -5315,7 +5136,7 @@ with accuracy.
 They write better compositions, using  
 better language, containing more thoughts’,  
 more clearly and connectedly expressed.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052972:00279557256:1855122001:0212/pct:79.533404,59.597715,14.810887,20.921281/!600,600/0/default.jpg"/>
 </td>
@@ -5329,7 +5150,7 @@ more clearly and connectedly expressed.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Hough Xotr?.  
+Hough Xotr?.  
 Influence of a Newspaper. A school­  
 teacher, who has been engaged a long tima  
 in his profession and witnessed the influ­  
@@ -5351,7 +5172,7 @@ geography, in almost half the time it re­
 quires others, as the newspaper has made  
 them familiar with the location of the impor-  
   
-of our land spring
+of our land springs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1856020601:0212/pct:56.950845,41.085854,38.325653,16.795040/!600,600/0/default.jpg"/>
 </td>
@@ -5365,7 +5186,6 @@ of our land spring
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ing become so familiar with every variety of  
 style in the newspaper, from thc common  
 place advertisement to the finished and clas­  
@@ -5383,6 +5203,7 @@ hibiting a more extensive knowledge upon a
 greater variety of subjects, and expressing  
 their views with greater fluency, clearness  
 and correctness in their use of language.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1856020601:0212/pct:82.834101,51.972572,12.570405,7.721210/!600,600/0/default.jpg"/>
@@ -5397,7 +5218,7 @@ and correctness in their use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- u has bees found to be &#x27;a&#x27;-universal  
+u has bees found to be &#x27;a&#x27;-universal  
 : fact, without &#x27; exception, &#x27; that those  
 scholars, of both sexes, and all ages, whp  
 Juaye access to newspapers at home, when  
@@ -5434,7 +5255,7 @@ and expressing their views with great
 fluency, clearness,&quot; and correctness&#x27; in the  
 use 0: language.  
 In-view; of these facts, who jvill be so  
-penurious, fur th
+penurious, fur the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1856022601:0185/pct:7.694342,39.343723,12.559492,25.043898/!600,600/0/default.jpg"/>
 </td>
@@ -5448,7 +5269,7 @@ penurious, fur th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- fact, without exception, that those  
+fact, without exception, that those  
 scholars of both sexes, and all ages, who have  
 -  
 .had access to newspapers at; home; when corn- .  
@@ -5478,7 +5299,7 @@ ety of subjects, and express their views with
 greater fluency, clearness, and correctness in  
 the use of languages.  
   
-Our young friend and &quot; brothe
+Our young friend and &quot; brother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001982%2F1856030501%2F0038.jp2/pct:24.121094,6.289507,14.507378,18.848767/!600,600/0/default.jpg"/>
 </td>
@@ -5494,7 +5315,7 @@ Our young friend and &quot; brothe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--It is a  
+It is a  
 universal fact without exception that  
 those scholars, of both sexes, and all  
 ages, who have had access to newspapers  
@@ -5529,7 +5350,7 @@ debating society exhibiting a more
 extensive knowledge on a greater variety  
 of subjects, and expressing their views  
 with greater fluency, clearness and  
-correctness in the use of language
+correctness in the use of language.
 </td></tr></table>
 
 ---
@@ -5540,7 +5361,7 @@ correctness in the use of language
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-corded.  
+orded.  
 Influence of a Newspaper. A school  
 teacher, who has been engaged s long time  
 in his profession, and witnessed the influence  
@@ -5562,7 +5383,7 @@ words with ease and accuracy,
 geography, and in almost half the time it re-  
 . . o - -  
 quires others, ns the newspaper has made  
-mem laminar wim tne location or the impo
+mem laminar wim tne location or the impor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1856032101:0514/pct:57.307122,35.069207,12.333086,11.333425/!600,600/0/default.jpg"/>
 </td>
@@ -5576,7 +5397,7 @@ mem laminar wim tne location or the impo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-k Mercury  
+ Mercury  
   
 Influence of a Newspaper.  
 A school teacher, who has been  
@@ -5630,7 +5451,7 @@ more extensive knowledge upon a
 greater variety of subjects, and ex­  
 pressing their views with greater flu  
 ency and clearness in their usv of lan­  
-guage &quot; &#x27; . -
+guage &quot; &#x27; . - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856040301:0257/pct:62.152983,22.015701,32.235676,74.763334/!600,600/0/default.jpg"/>
 </td>
@@ -5644,7 +5465,7 @@ guage &quot; &#x27; . -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Saturday nite.  
+Saturday nite.  
 Influence of a Newspaper.— A school  
 ■ teacher, who has been engaged a long time iu  
 j in his profession, and witnessed the influence  
@@ -5683,7 +5504,8 @@ king the lead in the debating society, exhibit­
 ing a more extensive knowledge upon a great­  
 er variety of subjects, and expressing their  
 views with greater fluency aud clearness iu their  
-use of language.
+use of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856041201:0301/pct:44.952852,22.533137,14.685423,22.635097/!600,600/0/default.jpg"/>
 </td>
@@ -5697,7 +5519,7 @@ use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s ion on the Sth inst.  
+ion on the Sth inst.  
   
 Influence of a Newspaper.  
 A school teacher who has been en­  
@@ -5755,7 +5577,7 @@ r&#x27;l
 iews with greater fluency and clear­  
 ia their use of language.  
 ...j  
-&#x27;
+&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065089:00212470478:1856041201:0043/pct:26.720000,7.585201,41.760000,87.839809/!600,600/0/default.jpg"/>
 </td>
@@ -5769,7 +5591,7 @@ ia their use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- after,  
+after,  
 tho butcher having somo curiosity as to tho  
 success of tho operation, asked tho chap how  
 ho got along.  
@@ -5814,7 +5636,8 @@ ing the lead in the debating society, exhibit­
 ing a more extensive knowledge upon a great­  
 er variety of subjects, and expressing their  
 views with greater fluency and clearness iu  
-their uso of language.
+their uso of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1856061101:0992/pct:78.285714,50.862441,17.460317,30.929280/!600,600/0/default.jpg"/>
 </td>
@@ -5838,7 +5661,7 @@ their uso of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t.  
+.  
 lu uence of a Newspaper.  
 A schol teacher, who has been engaged a  
 long time in his- profession and witnessed  
@@ -5870,7 +5693,7 @@ more readily comprehend the meaning of the
 text, and consequently analyza its construc­  
 tion with accuracy;, i. &#x27;.  
 Or The Montreal (Cannda) Commercia  
-Advertiser, io speaking of th
+Advertiser, io speaking of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856070301:0650/pct:68.172414,62.196396,12.137931,20.723426/!600,600/0/default.jpg"/>
 </td>
@@ -5884,14 +5707,14 @@ Advertiser, io speaking of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 1  
+1  
 2 They&#x27; are better spellers and de-  
 fine words with ease and accuracy. .v  
 3. They obtain a practical knowl  
 location of the most important places,  
 nations, their governments and doings,  
 on the globe.1 ; f  
-
+4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856090601:0054/pct:68.996840,51.371571,12.638231,6.234414/!600,600/0/default.jpg"/>
 </td>
@@ -5915,7 +5738,6 @@ on the globe.1 ; f
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l  
 in proportion as the senses are wrought  
 upon by eternal objects. . -. .  
 INF L HENCE OF A KEWSPAPE2.  
@@ -5952,7 +5774,7 @@ oration of the statesman; they more
 readily comprehend the meaning of the  
 text, and consequently . annalyze . its  
 construction with accuracy. : . ..  
-
+T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856112201:0090/pct:68.151042,46.313614,12.760417,23.939364/!600,600/0/default.jpg"/>
 </td>
@@ -5966,7 +5788,6 @@ construction with accuracy. : . ..
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 ferent from those grown in the lowlands as are  
 hardy mountaineers different from effeminate  
 counter jumpers.-Life Hllustroted  
@@ -5999,7 +5820,7 @@ the newspaper, from, the commonplace adver-
 tisement to the finished and classical oration ofoe o e   eo io  
 the statesman, they more readily comprehendie e oe o e i oter on  
 the moaning of the text, and consequenly anai ee e aia eof te er  
-lyse its construction with accuracy.e o ioan e o t
+lyse its construction with accuracy.e o ioan e o te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1856112201:0784/pct:43.503214,69.303167,26.262626,17.683258/!600,600/0/default.jpg"/>
 </td>
@@ -6013,7 +5834,7 @@ lyse its construction with accuracy.e o ioan e o t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--A shool  
+A shool  
 teasher who has been engaged a long time  
 in his profession and witnessed the influence  
 of a newspaper on the minds of a family of  
@@ -6042,7 +5863,7 @@ advertisement to the finished and classical
 oration of the statesman, they more readily  
 comprehend the meaning of the text, and  
 consequently analyze its construction with  
-accuracy
+accuracy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856112901:0450/pct:50.232427,75.925719,11.057895,13.245329/!600,600/0/default.jpg"/>
 </td>
@@ -6056,7 +5877,6 @@ accuracy
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Saturday, December IS, 1856.  
   
 Influence of Newspapers.—A school  
@@ -6100,7 +5920,8 @@ always taking the lead in the debating
 society, exhibiting a more extensive  
 knowledge upon a greater variety of sub­  
 jects and expressing their view&#x27;s with  
-great correctness in their use of languages.
+great correctness in their use of languages.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1856121301:0053/pct:8.321580,5.791096,14.104372,26.160876/!600,600/0/default.jpg"/>
 </td>
@@ -6114,7 +5935,6 @@ great correctness in their use of languages.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Iiifltieucc of a Newspaper.  
 A school teacher who has been engaged  
 a long time in bis profession and wit­  
@@ -6129,7 +5949,7 @@ had access to newspapers at home w hen
 compared with those who have not,  
 ie: -a ,  
 1. Better readers, exceMing in pronun­  
-ciation, an
+ciation, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295894:1856121801:0058/pct:7.246016,73.631252,12.064243,8.296340/!600,600/0/default.jpg"/>
 </td>
@@ -6153,8 +5973,6 @@ ciation, an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r  
-  
 INFLUENCE OP A NEWSPAPER.  
 A school teacher, who has been engaged a  
 long time in his profession, and witnessed the  
@@ -6184,7 +6002,7 @@ tisement to the finished and classical oration
 of the statesman, they more readily compre­  
 hend the meaning of the text, and conse­  
 quently analyze its construction with accuracy.  
-PAINE, TII
+PAINE, TIIE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857012901:0075/pct:31.054391,7.645990,12.397448,15.598728/!600,600/0/default.jpg"/>
 </td>
@@ -6198,7 +6016,6 @@ PAINE, TII
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 2 They are better spellers and define Wordiei  
 witkease and accuracy.  
   
@@ -6214,7 +6031,7 @@ become ao familiar with every &#x27;variety in this
 to the finished , and ,classical oration of the  
 statesman, they more readily comprehend the  
 meaning of the text, and emissiquently analyse,  
-its construction with acenracis
+its construction with acenracis 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002399%2F1857013001%2F0013.jp2/pct:77.572559,74.175000,14.121169,8.232143/!600,600/0/default.jpg"/>
 </td>
@@ -6228,7 +6045,7 @@ its construction with acenracis
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Obt.  
+Obt.  
   
 NEWSPAPER.—A  
   
@@ -6253,7 +6070,7 @@ derstandingly.
 words with ease and accuracy.  
 3. They obtain a practical knowledge  
   
-ished and classical oration of the stat
+ished and classical oration of the state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1857013101:0034/pct:67.444148,12.434783,15.006323,67.804348/!600,600/0/default.jpg"/>
 </td>
@@ -6267,8 +6084,6 @@ ished and classical oration of the stat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 of geography in almost half the time it p0Wrer) never attempted in behalf of any  
 requires others, as the newspaper has  
 made them familiar with the location of  
@@ -6277,7 +6092,7 @@ governments and doings, on the globe.
 4. They are better grammarians, for  
 having become so familiar with every va­  
 riety of style in the newspaper, from the  
-common place advertisement to the fi
+common place advertisement to the fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1857013101:0034/pct:69.832795,25.054348,25.572573,5.956522/!600,600/0/default.jpg"/>
 </td>
@@ -6291,7 +6106,7 @@ common place advertisement to the fi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of merit. While their senti-  
+of merit. While their senti-  
 ment is correct, they have natural poetic language,  
 an easy versification, and evince great tenderness  
 of feeling.  
@@ -6331,6 +6146,7 @@ nished and classical oration of the statesman, they
 more readily comprehend the meaning of the text,  
 and consequently analyze its construction with ac-  
 curacy.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-a-monthly-journal_1857-02_9_2%2Fsim_new-england-farmer-a-monthly-journal_1857-02_9_2_jp2.zip%2Fsim_new-england-farmer-a-monthly-journal_1857-02_9_2_jp2%2Fsim_new-england-farmer-a-monthly-journal_1857-02_9_2_0007.jp2/pct:50.653846,49.187817,37.269231,35.558376/,600/0/default.jpg"/>
@@ -6345,7 +6161,6 @@ curacy.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 zens speaking their language.  
   
 Influence of a Newspaper.  
@@ -6372,7 +6187,7 @@ words with ease and accuracy. 5;
   
 8. They obtain a practical knowledge  
 of geography in almost balf the time it  
-requires others, as th
+requires others, as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1857-02-05_6_9%2Fper_the-pacific_the-pacific_1857-02-05_6_9_jp2.zip%2Fper_the-pacific_the-pacific_1857-02-05_6_9_jp2%2Fper_the-pacific_the-pacific_1857-02-05_6_9_0000.jp2/pct:62.800736,31.217009,10.359931,10.562072/,600/0/default.jpg"/>
 </td>
@@ -6386,7 +6201,7 @@ requires others, as th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. A School te&amp;cheT,  
+A School te&amp;cheT,  
 who has been engaged a long time in his profession  
 and witnessed the influence of a newspaper on the  
 minds of a fvmily of children, writes to the editor of  
@@ -6410,7 +6225,7 @@ paper, from, the common-place advertisement to the
 finished and classical oration of tha statesman, they  
 more readily comprehend the meaning of the text,  
 and consequently analyze its construction with ac­  
-curacy.
+curacy. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474228:1857021201:0166/pct:8.242358,77.774624,17.344432,12.233892/!600,600/0/default.jpg"/>
 </td>
@@ -6424,7 +6239,7 @@ curacy.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-on than the  
+n than the  
 President.himself.”  
 Ini DDE.vckor a Newspaper.—Ascliool­  
 tcucher who has bcou engaged a long  
@@ -6454,7 +6269,7 @@ from the commonplace advertisement to
 the finished and classical oration of the  
 statesman, they more readily comprehend  
 the meaning of tho text, and consequent­  
-ly analyze its construction more readily
+ly analyze its construction more readily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1857022001:0214/pct:75.090253,64.202683,11.119134,17.138599/!600,600/0/default.jpg"/>
 </td>
@@ -6468,7 +6283,7 @@ ly analyze its construction more readily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in gaining  
+in gaining  
 the confidence of his congregation.&quot;  
 Is pLeenCe oF A NeWePaPee- A school teacher who has  
 bren engaged a long time in his profession, and witnessed  
@@ -6490,7 +6305,7 @@ now spaper, from the commonplace advertisement to the
 finished and classical cration of the statesman, they more  
 readily comprehend the meaning of the text, and suble  
 quently analyse its construction more readily.&quot;  
-Me
+Men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857022301:0191/pct:4.444093,46.207303,12.794560,11.118963/!600,600/0/default.jpg"/>
 </td>
@@ -6514,8 +6329,7 @@ Me
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-aks for her­  
-self.&quot;Influence of a Newspaper A school  
+Influence of a Newspaper A school  
 teacher who has been engaged a long  
 time in hid profession, and witnessed  
 the influence of a newspaper, oh the  
@@ -6545,9 +6359,9 @@ ical oration of the statesman, they
 more readily comprehend the meaning  
 of the text, and subsequently analyze  
 its construction more readily.&quot;  
-lHoder
+lHodern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065087:00212470478:1857022701:0224/pct:36.104466,56.228773,15.430622,26.653987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065087:00212470478:1857022701:0224/pct:36.104466,58.334465,15.430622,24.548295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6559,7 +6373,7 @@ lHoder
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—A_ achool-  
+A_ achool-  
 teacher who has been engaged a long time in  
 his profession, and witnessed the influence of a  
 newspaper on the minds of a family of children,  
@@ -6588,6 +6402,7 @@ ing of the text, and consequently analyze its
 construction with accuracy.”’  
   
 |  
+  
   
   
   
@@ -6627,7 +6442,7 @@ construction with accuracy.”’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* A school teacher who has been engag­  
+A school teacher who has been engag­  
 ed a long t. me in his profession,and witness&#x27;d  
 the influence of a newspaper on the minds  
 a family of children, writes the editor of the  
@@ -6653,7 +6468,7 @@ n«.w&lt;paper from the common-place adver­
 tisement to the hashed and classical oration  
 of the statesmen, they more rapidly compre­  
 hend the meaning of the text,and cons ‘que.fc  
-ly unnalizo its construction with accuracy
+ly unnalizo its construction with accuracy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn91054100:00514151003:1857031401:0314/pct:47.373712,55.241787,13.722041,18.050941/!600,600/0/default.jpg"/>
 </td>
@@ -6667,8 +6482,6 @@ ly unnalizo its construction with accuracy
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 J&#x27;îflu-ienceof a Newspaper —A school teach­  
 er who has ttsen engaged a long time in his  
 profession, ana witnessed the influence of a  
@@ -6697,7 +6510,7 @@ they more readily comprehend the meaning
 of the text, and consequently analyze its con­  
 struction with accuracy.  
   
-Educa
+Educat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn88064476:00295876074:1857032101:0259/pct:12.379032,5.738636,31.653226,89.900568/!600,600/0/default.jpg"/>
 </td>
@@ -6711,7 +6524,7 @@ Educa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, earth into heaven.  
+ earth into heaven.  
 Influence of a Newspaper.  
 A school, teacher who has been engaged a  
 long time in his profession, and witnessed tho  
@@ -6741,7 +6554,7 @@ of the statesman, they more readily-comprehend
 the meaning of the text, and conso­  
 queiitly analyze its construction with .accu­  
 racy. The Testimony of an Opponent  
-The Washington correspo
+The Washington correspon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1857032501:0183/pct:79.444444,34.690782,14.534535,19.288215/!600,600/0/default.jpg"/>
 </td>
@@ -6755,7 +6568,7 @@ The Washington correspo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Ep.  
+Ep.  
   
 Inrivence or A Newspaper. A school teacher  
 who has been engaged a long time in his profes-  
@@ -6779,7 +6592,8 @@ come so familiar with every variety in the news-
 paper, from the commonplace advertisement to  
 the finished and classical oration of the states-  
 man, they more readily comprehend the meaning  
-of the text, and consequently analyze its con-
+of the text, and consequently analyze its con-  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1857-04-02_25_15%2Fsim_maine-farmer_1857-04-02_25_15_jp2.zip%2Fsim_maine-farmer_1857-04-02_25_15_jp2%2Fsim_maine-farmer_1857-04-02_25_15_0000.jp2/pct:56.512605,81.681034,12.316176,13.813629/,600/0/default.jpg"/>
 </td>
@@ -6793,7 +6607,6 @@ of the text, and consequently analyze its con-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 era.  
   
 INFLUENCE OF A NEWSPArER.  
@@ -6823,7 +6636,7 @@ statesman, they more readily comprehend the
 meaning of the text, and consequent! y analyse  
 its construction with accuracy.”  
   
-A s
+A su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:00517174518:1857042301:0469/pct:77.398436,36.653786,14.609956,16.545012/!600,600/0/default.jpg"/>
 </td>
@@ -6837,7 +6650,6 @@ A s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Influence of a Newspaper.  
 A school teacher who has been engaged a long  
 time in his profession, and witnessed the influ­  
@@ -6866,7 +6678,7 @@ ment to the finished and classical oration of the
 statesman, they more readily comprehend the  
 meaning of text, and consequently analyze its  
 construction with accuracy.  
-W. 
+W. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190595:1857042301:0393/pct:29.251148,44.407539,13.714614,14.417581/!600,600/0/default.jpg"/>
 </td>
@@ -6880,7 +6692,7 @@ W.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a new scent.&quot; , .  
+a new scent.&quot; , .  
   
 NFLtf ENCE&#x27; OF A NEWSPAPER.  
   
@@ -6900,7 +6712,7 @@ fine words witn ease arrd accuracy, d.
 They obtain a practical knowledge of geo­  
 graphy in almost half the time it requires  
 ethers, as the newspaper has made them  
-familiar with the location of the
+familiar with the location of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm8n_ver01%2Fdata%2F1857050201%2F0132.jp2/pct:18.452022,5.716444,24.426675,92.634097/!600,600/0/default.jpg"/>
 </td>
@@ -6914,7 +6726,7 @@ familiar with the location of the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- . The 5erspapcr as an Edacator.  
+. The 5erspapcr as an Edacator.  
 t Alschool teacher Jwh&#x27;o had &#x27;been engaged a  
 long time in his profession, and witnessed the  
 influence of a newspaper on the minds of a fam­  
@@ -6941,7 +6753,7 @@ the newspaper,&#x27; from the common place adver
 tisament to. the finished and classical oration of  
 the statesman thay more readly comprehend  
 the. meaning of the text; and consequently ana­  
-lyze its construction with accuracy.- 
+lyze its construction with accuracy.- i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal12n_ver01%2Fdata%2F1857051401%2F0272.jp2/pct:34.479038,43.154075,15.721332,16.243264/!600,600/0/default.jpg"/>
 </td>
@@ -6955,7 +6767,6 @@ lyze its construction with accuracy.-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 THE NEWSPAPER As AN EDUCATOR.  A school  
 teacher who had been engaged a long time  
 in his profession, and witnessed the influence  
@@ -6984,7 +6795,7 @@ the newspaper, from the common place ad­
 vertisement to the finished and classical ora­  
 tion of the statesman, they more readily com­  
 prehend the meaning of the text, and conse­  
-quently analyze its construction with a
+quently analyze its construction with ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1857052001:0497/pct:32.768131,57.762963,14.586313,16.488889/!600,600/0/default.jpg"/>
 </td>
@@ -6998,7 +6809,6 @@ quently analyze its construction with a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 INFLUENCE OF A NEWSPAPER.Aschool  
 teacher who has been engaged a long  
 time in his profession, and witnessed the  
@@ -7031,6 +6841,7 @@ and classical oration of the statesman,
 they more readily comprehend the mean­  
 ing of text, and consequently analyze its  
 construction with accuracy.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1857052101:0771/pct:27.653897,74.270819,12.578616,18.571227/!600,600/0/default.jpg"/>
@@ -7045,7 +6856,6 @@ construction with accuracy.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 INFLUENCE OF A NEWSPAPER  
 &#x27; A school teacher who has bceD engag  
   
@@ -7095,7 +6905,8 @@ having become so familiar with every
   
 variety id the newspaper, from the com  
   
-mon place advertisement to the finished
+mon place advertisement to the finished  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1857061001:0202/pct:63.715380,62.809602,10.710077,17.007494/!600,600/0/default.jpg"/>
 </td>
@@ -7109,14 +6920,14 @@ mon place advertisement to the finished
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- be attached to the reputa­  
+be attached to the reputa­  
 tion and qualifications of tins witness In testi­  
 fying to the salutary influence of a newspaper  
 on the minds ot a family ofchildrcn, with whom  
 ho has much to do. We see it staled that a  
 school teacher writes to the editor of the Og­  
 densburg Sentinel, the following observations  
-derived tro
+derived trom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00383342922:1857061701:0070/pct:33.093903,71.728737,14.418360,4.718168/!600,600/0/default.jpg"/>
 </td>
@@ -7130,7 +6941,7 @@ derived tro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; 1 have found it to be the universal fact,  
+1 have found it to be the universal fact,  
 without exception, that those scholars, ot both  
 sexes and all ages, who have had access to  
 newspapers at home when compared with those  
@@ -7151,7 +6962,7 @@ statesman, they mure readily comprehend Ihe
 meaning ot the text, and consequently analy  
 its construction with accuracy.&quot;  
 zo  
-The Suga
+The Sugar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00383342922:1857061701:0070/pct:33.128942,76.673377,14.540995,11.197786/!600,600/0/default.jpg"/>
 </td>
@@ -7165,7 +6976,7 @@ The Suga
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Wo forbear making tho appli  
+Wo forbear making tho appli  
 cation.  
 Influence or a Newspaper. A school  
 teachor who has been engaged a long time  
@@ -7194,7 +7005,7 @@ men, they muro readily comprehend tho mean
 ing of llie text, and consequently analyze Ils  
 construction with accuracy.  
 MinoLttrWRY CoiLtoE, Commencement at  
-this iiistitmliin occurs o
+this iiistitmliin occurs on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1857071801:0120/pct:17.772041,77.969729,12.748213,17.199205/!600,600/0/default.jpg"/>
 </td>
@@ -7208,8 +7019,6 @@ this iiistitmliin occurs o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Education.  
   
 oe  
@@ -7242,7 +7051,7 @@ analyze its construction with accuracy.
   
   
   
-Epucatio
+Epucation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_connecticut-common-school-journal-annals-of-education_1857-09_4_9%2Fsim_connecticut-common-school-journal-annals-of-education_1857-09_4_9_jp2.zip%2Fsim_connecticut-common-school-journal-annals-of-education_1857-09_4_9_jp2%2Fsim_connecticut-common-school-journal-annals-of-education_1857-09_4_9_0020.jp2/pct:18.324125,10.538642,66.022099,40.661593/600,/0/default.jpg"/>
 </td>
@@ -7256,7 +7065,7 @@ Epucatio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r.  
+.  
 INFLUENC OF a NEWSPApEr.  
   
 A school teacher who has been engaged a  
@@ -7304,7 +7113,7 @@ greater variety of subjects, and expressing
 their views with greater fluency clearness and  
 correctness in their use of language.  
   
-THE DUTCHMAN AND TH
+THE DUTCHMAN AND THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1857102401:0465/pct:4.708029,53.967810,12.956204,21.133660/!600,600/0/default.jpg"/>
 </td>
@@ -7318,8 +7127,6 @@ THE DUTCHMAN AND TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 INFLUENCE OF A NEwspParer.—A school  
 teacher who has been engaged a long time in  
 his profession, and witnessed the influence of  
@@ -7350,7 +7157,7 @@ tion of statesmen, they more readily compre­
 hend the meaning of the text, and conse­  
 quently analyze its construction wich accura­  
 cy.  
-Muce I
+Muce IN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:0051701543A:1857121901:0554/pct:79.841733,69.983154,14.507844,17.719520/!600,600/0/default.jpg"/>
 </td>
@@ -7364,8 +7171,6 @@ Muce I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Influence of a Newspaper.—A  
 school teacher who has been engaged a  
 long time in his profession, and witnessed  
@@ -7395,7 +7200,8 @@ mon place advertisement to the finished
 and classical oration of statesmen, they  
 more readily comprehend the meaning of  
 their text, and consequently annalyze its  
-construction with more rapidity.
+construction with more rapidity.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1858010201:0284/pct:30.991217,75.271219,12.519169,17.315465/!600,600/0/default.jpg"/>
 </td>
@@ -7409,7 +7215,6 @@ construction with more rapidity.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 INFLUENCE OF A NEWSPAPER.—A school  
 teacher who has been engaged a Ion? time in  
 his profession, and witnessed the influence of  
@@ -7438,7 +7243,7 @@ paper. from the common place advertisement
 to tiie finished and cla-ieal oration of the states­  
 man, they more readily comprehend the mean­  
 ing of the text, and consequently analyze its  
-construction with accuracy
+construction with accuracy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1858012101:0661/pct:45.807963,30.692734,14.785324,16.103515/!600,600/0/default.jpg"/>
 </td>
@@ -7452,7 +7257,7 @@ construction with accuracy
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;a.  
+a.  
 Influrnre of a Newspaper  
 A school teacher who bas been engaged a long time  
 in bis profession, and witnessed the influence of a good  
@@ -7476,7 +7281,7 @@ so familiar with every variety of sttle in the newspa­
 per, Ironi the commonplace advertisement to the fin­  
 ished and classical oration of the statesman, they more  
 readily comprehend the nieaninuof the text, and con  
-sequ
+seque
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858021101%2F0323.jp2/pct:33.293020,20.937869,15.117484,13.161697/!600,600/0/default.jpg"/>
 </td>
@@ -7490,14 +7295,14 @@ sequ
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- more dually and correctly express­  
+more dually and correctly express­  
 ed ideas. &#x27;  
 0. &#x27;those young men who have for years been read  
 ers of the newsiKipera, axe alwavs taking the lead in  
 the debating society, exhibiting a more extensive  
 knowledge upon a greater variety of subjects, and ex­  
 pressing their views with greater fluency and clear­  
-ness i
+ness iu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858021101%2F0323.jp2/pct:33.275743,34.611848,14.961990,3.428346/!600,600/0/default.jpg"/>
 </td>
@@ -7511,7 +7316,6 @@ ness i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A school teacher who has been a long time en-  
 | gaged in his profession, and witnessed the influence of  
 |a newspaper upon the minds of a family of children,  
@@ -7541,7 +7345,7 @@ so familiar with every variety of style, in the news-
 paper, from the common place advertisement to the  
 finished and classical oration of the statesman, they  
 more readily comprehend the meaning of the text,  
-and con
+and cons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_pennsylvania-school-journal_1859-04_7_10%2Fsim_pennsylvania-school-journal_1859-04_7_10_jp2.zip%2Fsim_pennsylvania-school-journal_1859-04_7_10_jp2%2Fsim_pennsylvania-school-journal_1859-04_7_10_0020.jp2/pct:49.044586,20.529954,37.685775,26.566820/,600/0/default.jpg"/>
 </td>
@@ -7555,7 +7359,6 @@ and con
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d  
 in  
 to  
 his  
@@ -7595,7 +7398,7 @@ ing of the text, and consequently analyze it
 construction with accuracy.  
 A teacher wishing to explain to a little  
 girl the manner in which a lobster casts  
-his shell w
+his shell wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1859060301:0581/pct:62.072088,77.551315,12.678863,16.811217/!600,600/0/default.jpg"/>
 </td>
@@ -7609,7 +7412,6 @@ his shell w
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 in  
 to  
 in  
@@ -7649,7 +7451,7 @@ and classical oration of the stateaman,
 they more readily comprehend the mean­  
 ing of the text, and consequently anal­  
 yze its construction with accuracy.  
-A GREA
+A GREAT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1859080401:0527/pct:18.759637,28.323095,13.174576,42.086002/!600,600/0/default.jpg"/>
 </td>
@@ -7663,7 +7465,6 @@ A GREA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Influence of a W ewspaper.  
 A School Teacher who has been engaged a v  
 long lime in his profession and witnessed the  
@@ -7694,7 +7495,7 @@ tion of tho statesman, they more readily com­
 prehend the meaning of the text, and conse­  
 quently analyze the construction with accura- .  
 y-  
-gUwa
+gUwat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1859093001:0321/pct:82.078040,49.525356,11.494253,15.563328/!600,600/0/default.jpg"/>
 </td>
@@ -7708,8 +7509,6 @@ gUwa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A schoolmaster who had been engag­  
 ed a long time in his profession, and  
 witnessed the influence of a newspaper  
@@ -7738,7 +7537,7 @@ variely of reading.front the
 advertisements to the finish  
 ed and classical oration of the States  
 man, they more readily comprehend the  
-meaning of the tex
+meaning of the text
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860012601:0628/pct:17.325963,55.539222,12.143721,15.929440/!600,600/0/default.jpg"/>
 </td>
@@ -7752,7 +7551,6 @@ meaning of the tex
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Influence op a Newspaper. A school  
 teacher who has been engaged a long time in  
 his profession, and witnessed the influence of  
@@ -7782,7 +7580,7 @@ sequently analyze its construction with accu
 racy.  
 Wffc-The following is said to be the private  
 recipe ot a lunny editor &quot;out West: .  
-: . &quot;Take one pint of whisky, stir it well wit
+: . &quot;Take one pint of whisky, stir it well with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860022201:0241/pct:18.483343,68.881726,12.463472,15.150012/!600,600/0/default.jpg"/>
 </td>
@@ -7796,8 +7594,6 @@ recipe ot a lunny editor &quot;out West: .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 INFLUENCE OF A NEWSPAPER. A school­  
 teacher who has been engaged a long time  
 in his profession, and witnessed the influ­  
@@ -7826,7 +7622,8 @@ place advertisement to the finished and
 classical oration of the statesman; they  
 more readily comprehend the meaning of  
 the text, and consequently analyze its con  
-struction with aecuracy.
+struction with aecuracy.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1860040501:0036/pct:33.782086,57.089189,12.080416,16.098511/!600,600/0/default.jpg"/>
 </td>
@@ -7840,7 +7637,6 @@ struction with aecuracy.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 them familiar with the location of the im­  
 portant places, nations, their governments  
 and doings, on the globe.  
@@ -7862,7 +7658,8 @@ ciety, exhibiting a more extensive know­
 ledge upon a greater variety of subjects,  
 and expressing their views with greater  
 fluency, clearness and correctness in .their  
-use of language.
+use of language.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554188:1863111401:0123/pct:65.959151,40.494924,14.937926,11.675127/!600,600/0/default.jpg"/>
 </td>
@@ -7876,7 +7673,7 @@ use of language.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-practical knowledge of geog­  
+ractical knowledge of geog­  
 raphy in almost half the time it requires others,  
 as the newspaper has made them acquainted  
 with the location of the important places, na­  
@@ -7906,7 +7703,7 @@ procure employment themselves. This is cer­
 tainly an evidence that the colored man is able  
 to take care of himself, perhaps better able to  
 do so than the white men who are complaining  
-of his presence. It i
+of his presence. It is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777365:1865100601:0467/pct:81.319496,69.603588,12.008895,14.699074/!600,600/0/default.jpg"/>
 </td>
@@ -7920,8 +7717,6 @@ of his presence. It i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THEY CAH TAKE CABE OF THEMSELVES.  
   
 Some white men of the city were heard com¬  
@@ -7932,7 +7727,7 @@ dence that the colored man is able to take care of
 himself, perhaps better able to do so than the white  
 men who are complaining of his presence.  
   
-President, Hi
+President, His
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_freedmens-record_1865-11_1_11%2Fsim_freedmens-record_1865-11_1_11_jp2.zip%2Fsim_freedmens-record_1865-11_1_11_jp2%2Fsim_freedmens-record_1865-11_1_11_0019.jp2/pct:17.105263,16.331041,50.263158,10.584479/600,/0/default.jpg"/>
 </td>
@@ -7946,7 +7741,7 @@ President, Hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and con  
+and con  
 quently, read more understand  
 ingly.  
 And.  
@@ -7991,7 +7786,7 @@ their yews with greater fluency,
 clearness and correctness in their  
 use of language.  
   
-On 
+On a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1866011201:1316/pct:6.054812,20.209599,17.234969,30.693502/!600,600/0/default.jpg"/>
 </td>
@@ -8005,7 +7800,7 @@ On
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, when the dew was  
+when the dew was  
 on the gra.-:s seed neatly attired in  
   
 WOitf linen ;iiifs nn&#x27;I ri-n(- l.vM  
@@ -8046,7 +7841,7 @@ from the common place advertisement
   
 w 4UU umsueu anu classical oration ol  
 the statesman, they more readily com­  
-prehend the meaning
+prehend the meaning 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1868041601:0065/pct:61.648045,15.718388,21.787709,31.617569/!600,600/0/default.jpg"/>
 </td>
@@ -8060,7 +7855,7 @@ prehend the meaning
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; and consequently they  
+and consequently they  
 read more understandingly  
 2. They are better speakers, and de­  
 fine words with ease and accuracy.  
@@ -8092,7 +7887,7 @@ subjects, and expressing their views
 with greater fluency, clearness and  
 correctness in the use of language.  
   
-Yout
+Youth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283648:1868122401:0443/pct:26.701571,59.568604,10.425008,16.536848/!600,600/0/default.jpg"/>
 </td>
@@ -8108,7 +7903,15 @@ Yout
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
+of the; important. :places, nations, -  
+their government and doings on the  
+globe. &#x27;They are better grammarians, for  
+haying become so familiar with every  
+variety of style in the newspaper, from  
+the common-place advertisement to the  
+finished and classical oration of the  
+statesman, they more readily  
+comprehended the meaning of the text.&#x27;  
 They write better compositions, using  
 better. language, containing more  
 thought, more clearly and connectedly  
@@ -8119,7 +7922,7 @@ society, exhibiting a more extensive
 knowledge upon a greater variety, of  
 subjects, and expressing their views  
 with greater fluency, clearness, and |  
-correctness.
+correctness. 
 </td></tr></table>
 
 ---
@@ -8132,7 +7935,7 @@ correctness.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the important places,  
+of the important places,  
 nations, their government and domgs on  
 the globe. They are better grammarian-,  
 lor having become so familiar with every  
@@ -8151,7 +7954,7 @@ society, exhibiting a more extrndve
 knowledge upon a greater variety of  
 subjects, and expres sing their views  
 with greater fluency, clearness, and  
-correctness. Printed by th
+correctness. Printed by the
 </td></tr></table>
 
 ---
@@ -8164,7 +7967,6 @@ correctness. Printed by th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 They write better compositions, using  
 better lanpunge, containing more  
 thought, more clearly and connectedly  
@@ -8176,7 +7978,7 @@ knowledge upon a greater variety of
 subjects, and expressing their views  
 with a greater fluency, clearness, and  
 correct. ness. The debate on the report  
-of the Land
+of the Lands
 </td></tr></table>
 
 ---
@@ -8187,7 +7989,7 @@ of the Land
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Thomson.  
+Thomson.  
 Influence of Newspapers.  
 A school teacher who has boen engaged for  
 a long time in his profession and witnessed  
@@ -8211,7 +8013,7 @@ places of nations, their government and doings
 on tho globe.  
 4th. They nro bettor grammarians for  
 having become so familiar with every variety  
-of style iu th
+of style iu the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1874050501:0075/pct:70.350877,45.314788,13.333333,14.465593/!600,600/0/default.jpg"/>
 </td>
@@ -8225,7 +8027,6 @@ of style iu th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 5th. They write better compositions, using  
 better language and containing more thoughts,  
 more clearly and connectedly expressed.  
@@ -8235,7 +8036,8 @@ taking the lead in the debating societies, ex­
 hibiting a more extensive knuwledgo upon a  
 greater variety of subjects and expressing  
 their views with greater fluency, clearness,  
-and correctness.
+and correctness.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1874050501:0075/pct:70.368421,61.756955,13.368421,5.505124/!600,600/0/default.jpg"/>
 </td>
@@ -8249,7 +8051,7 @@ and correctness.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. There  
+There  
 is not a better educator than the newspa- j  
 per.  
 A school teacher who Ins been engaged  
@@ -8297,7 +8099,7 @@ I The Wheat Trade.—The movement
 and is chiefly from points where it has ac­  
 cumulated during the winter. A later and  
 more careful investigation, with a view to  
-learn th
+learn the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:00542867218:1874052101:0295/pct:19.883917,39.102138,15.090807,28.449993/!600,600/0/default.jpg"/>
 </td>
@@ -8311,7 +8113,7 @@ learn th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- teacher, who has been  
+teacher, who has been  
 engaged a long lime in his pro­  
 fession, and witnessed the influ  
 cnee of a newspaper upon the  
@@ -8346,7 +8148,7 @@ ed and classical oration of the
 statesman, they more readily com­  
 prehend the meaning of the text,  
 and constantly aualize its con  
-struction wit
+struction with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876040601:0242/pct:2.984511,39.333427,11.843597,20.306567/!600,600/0/default.jpg"/>
 </td>
@@ -8360,7 +8162,6 @@ struction wit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 tion, and consequently, read more understand­  
 ingly.  
 2d. They are better spellers, and define  
@@ -8378,7 +8179,7 @@ oration of the statesman, they more readily
 comprehend the meaning of the text, and  
 onsequently analyze the construction with  
 ccuracy.  
-It is certainly encouraging to notice th
+It is certainly encouraging to notice the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299565:1877063001:0133/pct:11.760870,58.677118,16.086957,10.203520/!600,600/0/default.jpg"/>
 </td>
@@ -8392,7 +8193,7 @@ It is certainly encouraging to notice th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- advertisement to the finished and classical oration  
+advertisement to the finished and classical oration  
 of the statesman, — they more readily comprehend the  
 meaning of the text, and consequently analyze its con-  
 struction with accuracy. They write better composi-  
@@ -8405,7 +8206,7 @@ ing society, exhibiting a more extensive knowledge upon
   
 a greater variety of subjects, and expressing their views  
 with greater fluency, clearness, and correctness, in their  
-use of language, than those whoar
+use of language, than those whoare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_journal-of-education_1878-11-14_8_194%2Fsim_journal-of-education_1878-11-14_8_194_jp2.zip%2Fsim_journal-of-education_1878-11-14_8_194_jp2%2Fsim_journal-of-education_1878-11-14_8_194_0002.jp2/pct:5.810724,21.654040,55.586413,70.596591/,600/0/default.jpg"/>
 </td>
@@ -8419,7 +8220,7 @@ use of language, than those whoar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- those  
+those  
 scholars of both sexes, who have ac­  
 cess to jaevvspApers pit hpme, when  
 compared wtn ,tlfosf jvho &#x27;have not,  
@@ -8457,7 +8258,7 @@ ing societies, exhibiting a more ex­
 tensive knowledge upon a greater  
 variety of subjects, and .expressing  
 their viess a-ith greater fluency,  
-clearness and correctness:
+clearness and correctness: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead4n_ver01%2Fdata%2F1879021801%2F0334.jp2/pct:61.337039,20.277932,11.439438,20.377988/!600,600/0/default.jpg"/>
 </td>
@@ -8471,7 +8272,6 @@ clearness and correctness:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 1. Bi tter readers, excellent In pro­  
 nunciation and con-eiieiitly read  
 more ami and understanding!)-.  
@@ -8503,7 +8303,8 @@ taking tbe lead in debating societies,
 exhibiting a more extensive knowledge  
 npOU X grWtel variety of subjects, ami  
 expressing their views w ith greater  
-fluency, Clearness and correctness.
+fluency, Clearness and correctness.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1879030601:0508/pct:31.991672,12.482085,11.589174,18.032573/!600,600/0/default.jpg"/>
 </td>
@@ -8517,7 +8318,7 @@ fluency, Clearness and correctness.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- I have found  
+I have found  
 it to be a universal fact, without  
 exception, that those scholars,  
 of both sexes aud all ages, who  
@@ -8563,7 +8364,7 @@ subjects, and express their views
 with greater fluency, clearness  
 and correctness.  
   
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:00516990508:1882072701:0710/pct:84.892723,44.605135,13.625304,33.457914/!600,600/0/default.jpg"/>
 </td>

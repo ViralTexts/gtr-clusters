@@ -1,7 +1,7 @@
 
 # A Canadian Phrase
 
-### 66 reprints from 1874-09-24 to 1882-03-10
+### 64 reprints from 1874-09-24 to 1882-03-10
 
 ## [A Canadian Phrase](https://chroniclingamerica.loc.gov/lccn/sn84038126/1875-10-23/ed-1/seq-2/)
 
@@ -52,7 +52,7 @@ A CANADIAN PHRASE.—Canada&#x27;s bright and sensible governer-general, Lord Du
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o the discussion on board ship when he was going to  
+the discussion on board ship when he was going to  
 Canada, and the case of the man who had * the misfortune to have  
 too many children.” ‘‘ Being called upon in my turn to address  
 the company, I alluded to this phrase, which had grated harshly  
@@ -65,7 +65,7 @@ too many children. Upon which I was greeted with an approv-
 ing thump on the back by a stalwart young emigrant, who cried  
 out, ‘ Right you are, Sir! That’s what I’ve been telling Emily.’”  
 In every line Lord Dufferin gives proof of the long-transmitted  
-and versatile genius of him ‘* wh
+and versatile genius of him ‘* who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1874-09-26_47_2413%2Fsim_spectator-uk_1874-09-26_47_2413_jp2.zip%2Fsim_spectator-uk_1874-09-26_47_2413_jp2%2Fsim_spectator-uk_1874-09-26_47_2413_0000.jp2/pct:46.184739,63.899233,38.755020,14.260679/600,/0/default.jpg"/>
 </td>
@@ -79,7 +79,7 @@ and versatile genius of him ‘* wh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s.  
+.  
 A Canadian Phbasr.—Canada&#x27;s bright and  
 sensible governor general, Lord Dufferiu, has  
 given the Dominion |&gt;e«&gt;ple a new by-word,  
@@ -107,7 +107,7 @@ befit t eUi an Fiaily,&quot; having had the auecdute
 made familiar by going the round us the papers,  
 ami one hears everywhere, &quot;That&#x27;s what I&#x27;ve  
 been telling Emily.&#x27;*—Harper&#x27;s Magazine for  
-Decembe
+December
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_eos_ver01:data:sn83021205:00517171785:1874111301:1080/pct:51.606696,5.850245,10.775447,10.370889/!600,600/0/default.jpg"/>
 </td>
@@ -121,7 +121,7 @@ Decembe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ttached,  
+tached,  
 were found. This led to the arrest of McMas  
 hon, who was held to answer. Great excite.­  
 ment prevails in the neighborhood.  
@@ -153,7 +153,7 @@ ramiliar by going the round of the papers, and
 one hears every where, &quot;Thot&#x27;s what I&#x27;se&#x27;  
 telling EmiTp.IS4stor&#x27;s Druwer, Ta Harper&#x27;s  
 Mapasine for  
-A PEctLia
+A PEctLiar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654012:1874111601:0286/pct:84.036505,38.307002,13.693148,13.636622/!600,600/0/default.jpg"/>
 </td>
@@ -167,19 +167,7 @@ A PEctLia
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, when, through the  
-outskirts of the town, with stealthy  
-tread, stole a muffled figure. Along  
-the level, and down the grade, passed  
-a form, with a speed to which that of  
-bearer of the fiery cross, at the com-  
-mand of Roderick Dhu, was but a  
-snail&#x27;s pace. The wheezing of an im-  
-mense pair of lungs heralded its ap­  
-proach; the retreating sound of  
-ponderous footsteps announced its  
-transit. The inmates of wayside  
-houses, started by the unwonted  
+started by the unwonted  
 sounds, hastened to the doors only to  
 hear the last, fading echoes.  
 It was Obadiah Fuller, fleeing from  
@@ -220,9 +208,9 @@ Ye e    as
 alyo oss odote ae do eilses Is  
 the round of the papers, and one hear  
 every where, &quot;That&#x27;s what Ive beer  
-folli
+follin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1874111801:0337/pct:84.376763,45.533482,12.633954,36.166294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1874111801:0337/pct:84.376763,53.861334,12.521151,27.838442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,18 +232,7 @@ folli
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n to providing them with the means  
-of living. _ The little camp is, in its way  
-royal—as Eastern people understand royalty.  
-The menagerie costs, in feeding, £SOO a  
-month. The grounds are beautifully kept,  
-and employ 300 gardeners, who, of course,  
-must be paid. The people employed are  
-moje than feudal retainers; they belong to  
-the cx-King, body and soul; and if an order  
-had been given for the Snake Chief, with  
-bis grim, surly face and bis well-knit limbs,  
-to spring upon Col. Thomson and throttle  
+and throttle  
 him on the spot, the man would at least  
 have tried to obey. Such is the life of one  
 ot our ex-Kings.  
@@ -290,9 +267,10 @@ anecdote made familiar by going the round
 of the papers, and one hears every where,  
 “That’s what I’ve been telling Emily.”—  
 EtUbjfs Drawer, In Harper&#x27;s Magazine for  
-December,
+December,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83021219:00517171426:1874112001:1108/pct:16.587767,75.905119,10.888089,18.282702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_iris_ver01:data:sn83021219:00517171426:1874112001:1108/pct:16.587767,80.135941,10.888089,14.051880/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,23 +282,6 @@ December,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-achelor friend was  
-preaching on the sinner&#x27;s excuses. &quot;I  
-have bought a piece of ground, and  
-wish to go and see it, said one. Here  
-is want of inclination to attend to di­  
-ine things said the preacher.An  
-said, &quot;I have bought five yoke of  
-oxen, and must needs go and prove  
-them. This seems a case of necessity.  
-A third said, &#x27;I have married a wife,  
-and therefore I can not come.&quot; Here i­  
-a case of natural impossibility, from  
-which we may infer,&quot; continued our  
-bachelor preacher, &quot;that one woman  
-will pull a man further from the Lord  
-than fen steers.&quot; Editor&#x27;s Drawer, in  
-Harper&#x27;s lagasine for December.  
 A CANADian PHrAse. Canada&#x27;s  
 bright and sensible Governor-General,  
 Lord Dufferin, has given the Dominion  
@@ -354,9 +315,10 @@ having had the anecdote made familiar
  by going the round of the papers, and  
 one hears every where, &quot;That&#x27;s what  
 &#x27;ce been telling Emily.&quot;Editor&#x27;s Draw­  
-er, in Harper&#x27;s laqusine for December.
+er, in Harper&#x27;s laqusine for December.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874112001:0180/pct:82.256108,57.816204,11.419165,23.957607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874112001:0180/pct:82.256108,65.904337,11.419165,15.869474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,22 +330,6 @@ er, in Harper&#x27;s laqusine for December.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-melodious preludo has awakened  
-from their slumbers tho adorata, the  
-eerenader now strikes all the strings in  
-a peculiar manner yoipeando, tapi ing  
-the sound-board at the same time w.th  
-the hand for two or thrro minutes in the  
-most hilarious style. But now the rais­  
-ing of tho lower half of the jaltmrte in  
-an upper room, through which a faint  
-beam of light appears, once more awa­  
-kens the soft arprgyioH of the instru­  
-ct nt. aocompanving the touching and  
-imploring tr.guidillaa according as the  
-theme is required to bo affectionately  
-tender or simply joyous, and with that  
-the serenade terminates.&quot;  
 A Canadian Phrase.  
 Canada&#x27;s bright and sensiblegovernor-general,  
 Lord Dufferin, has given  
@@ -417,9 +363,9 @@ had the anecdote made familiar by go
 ing tho round of the papers, aud one  
 hears every where, &quot;That&#x27;s what I&#x27;ve  
 been telling Emily.&quot; Harper&#x27;.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874112701:0411/pct:76.029963,71.197447,9.871589,22.132952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874112701:0411/pct:76.029963,78.527405,9.791332,14.802994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,18 +377,7 @@ been telling Emily.&quot; Harper&#x27;.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ded and prostrate as he was, he escaped from  
-his Indian captors and made his way through the  
-wilderness of prairie on our frontiers, able only to  
-drag himself along alone, without the moans of pro­  
-tection or sustenance, starving and suffering with  
-his wounds, until he reached the settlements, and  
-found friends who believed him dead aud mourned  
-his loss. He is an Irishman by birth, and his name  
-is Daniel Lynam. There is no discount on his pluck,  
-and the soul within him is as big as a continent. His  
-parents live in Liverpool, but he has relatives in New  
-Jersey to whom he is going.  
+ he is going.  
 “That’s What I’ve Been Telling  
 Emily.”—Canada’s bright and sensible * Governor-  
 General, Lord Dufferin, has given to the Dominion  
@@ -471,9 +406,10 @@ The Canadians have got up the slUng phrase:
 “ That’s what I’ve been telling Emily,” having had  
 the anecdote made familiar by going the rounds of  
 the newspapers, and now one hears everywhere:  
-“ That’s what I’ve been telling Emily.”
+“ That’s what I’ve been telling Emily.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110223:1874112901:0006/pct:69.884887,69.769261,12.309692,13.766132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110223:1874112901:0006/pct:69.884887,73.367227,12.309692,10.168166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +421,6 @@ the newspapers, and now one hears everywhere:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Canapa’s bright and sensible Governor-Gen- |  
   
 eral, Lord Dufferin, has given the Dominion |  
@@ -502,7 +437,8 @@ nadians have got up the slang phrase, ‘‘ That&#x27;s
 what I’ve been telling Emily,” having had the  
 anecdote made familiar ‘by going the round of  
 the papers, and one hears every where, ‘‘ That&#x27;s  
-what I&#x27;ve been telling Emily.”
+what I&#x27;ve been telling Emily.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1874-12_50_295%2Fsim_harpers-magazine_1874-12_50_295_jp2.zip%2Fsim_harpers-magazine_1874-12_50_295_jp2%2Fsim_harpers-magazine_1874-12_50_295_0148.jp2/pct:11.430678,10.614669,66.297935,70.041322/,600/0/default.jpg"/>
 </td>
@@ -516,13 +452,12 @@ what I&#x27;ve been telling Emily.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 this phrase, which had grated harshly on his | ored to convince her that she was mistaken. All  
 ears: ‘* He had the misfortune to have too many | his efforts proving unavailing, he desired her to  
 children.” Lord D. said: ‘‘I remarked that call the next day, and in the mean time he would  
 perhaps no better idea could be given of the dif- | consider her case. On the morrow the unhappy  
 ferences between the old country and their new | woman was punctual in her attendance. His  
-home than by the fact that whereas in England | electrica
+home than by the fact that whereas in England | electrical
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-magazine_1874-12_50_295%2Fsim_harpers-magazine_1874-12_50_295_jp2.zip%2Fsim_harpers-magazine_1874-12_50_295_jp2%2Fsim_harpers-magazine_1874-12_50_295_0148.jp2/pct:11.467552,85.201446,66.703540,6.998967/600,/0/default.jpg"/>
 </td>
@@ -536,7 +471,6 @@ home than by the fact that whereas in England | electrica
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 NO.24  
 A CAnRDIAn PHraae.  
 Canada&#x27;s bright and sensible Gov-  
@@ -576,7 +510,7 @@ contry an thel ew nolies than t
   
 going the round of the papers and i an e ee in i  
 one hears every where, &quot;That&#x27;s what they rarely fail. Regarding death as  
-I&#x27;ve been telling Emilytae 
+I&#x27;ve been telling Emilytae e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776452:1874120201:0505/pct:74.163515,11.725293,21.355834,18.525963/!600,600/0/default.jpg"/>
 </td>
@@ -590,7 +524,7 @@ I&#x27;ve been telling Emilytae
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-et even in a a er the other way. During  
+t even in a a er the other way. During  
   
 A CANADIAN PHiAsE. Canada&#x27;s bright  
   
@@ -640,7 +574,7 @@ up the slang phrase. T ta e
 been telling Emily,&quot; having had the anee­  
 dote made familiar by going the round of  
 the papers, and one hears every where.  
-That&#x27;s wchat Ire been telling Kmily.
+That&#x27;s wchat Ire been telling Kmily.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1874120201:0401/pct:61.493432,60.064287,33.380925,32.886278/!600,600/0/default.jpg"/>
 </td>
@@ -656,7 +590,7 @@ That&#x27;s wchat Ire been telling Kmily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and  
+and  
 remarked that-; -perhaps q0 better idea  
 oould be given of. the dif- ; )  
 foreribes. .between the old:country and  
@@ -671,7 +605,7 @@ children. -&#x27;. .&#x27;(Cheers- ^arid, laugh-;&#x27;
 .greeted with an&#x27; approving thump on the  
 back by a stalwart young!^emigrant, who  
 oried put, &#x27; Right you are, sir,  
--&#x27;that&#x27;s what I&#x27;ve beon tolling Emily.
+-&#x27;that&#x27;s what I&#x27;ve beon tolling Emily.&#x27;
 </td></tr></table>
 
 ---
@@ -682,39 +616,6 @@ oried put, &#x27; Right you are, sir,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-bilt oviseiirht  
-dollars ha har jast loft for Daltimors,  
-or woa&#x27;t be homs from Na Oricans  
-untill wesk after next.  
-  
-Thesy men are sotall ov them une  
-skrupulus; some bv their kompounds  
-are to simple too do any hurt or good,  
-ann the worst perhaps that han boised  
-of them it thas they raowingly oprac-­  
-tiss upon the eredulity &quot;ov human  
-natur.  
-  
-The vegitabel bitfers man is a kun-­  
-ning critter, full of pompesity, f­  
-quently ackumalates a sortune, but  
-never kan entirely lotatllre a certain  
-kind ov rubarb and kathlb smell that  
-scents his reputashun  
-  
-that&#x27;e whas  
-es  
-  
-Among the  
-  
-  
-  
-tolling  
-  
-Miasg  
-  
-ight an  
-  
 Canada&#x27;s bright and sensible Gov  
 g  
 en the Dominionpeople a sew  
@@ -753,9 +654,9 @@ been telling Emily,&quot; having had the
 annecdote made familiar by going the  
 round of the papers, and ona hears  
 everywhere, &quot;That&#x27;s what I&#x27;va been  
-telling Emily
+telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1874120301:0636/pct:55.545868,65.957120,10.326005,24.766556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1874120301:0636/pct:55.667172,74.812631,10.204701,14.528812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +668,7 @@ telling Emily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n Tell­  
+Tell­  
 InG  
 EtItY.&quot;The above sentence has  
 become a by-word in Canada, having  
@@ -809,7 +710,7 @@ oftentimes irrelevant exclamation:
 Emily!&quot;  
   
 Idleness is the source of a great  
-deal o
+deal of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1874120301:0617/pct:16.726722,24.354473,11.499295,20.035111/!600,600/0/default.jpg"/>
 </td>
@@ -823,8 +724,6 @@ deal o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Emily  
 Lord Duft&#x27;erin on reaching home  
 repeated the anecdote, and the quaint  
@@ -834,7 +733,7 @@ oftentimes irrelevant exclamation
 &quot;That&#x27;s just what I&#x27;ve been telling  
 Emily!&quot;  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1874120401:0340/pct:75.992939,87.879487,9.914681,5.044442/!600,600/0/default.jpg"/>
 </td>
@@ -848,8 +747,6 @@ Emily!&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 TELI»-  
   
 ixr. Emu.t.&quot;—The above sentence  
@@ -881,7 +778,8 @@ igrant was so delighted at the sen*
 tence that he greeted the speaker  
 with an approving thump 011 the  
 back, exclaiming in triumphant tones  
-&quot;That&#x27;s fust what Foe been tellim/
+&quot;That&#x27;s fust what Foe been tellim/  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1874120401:0340/pct:75.845837,73.057832,10.120624,14.867829/!600,600/0/default.jpg"/>
 </td>
@@ -895,21 +793,7 @@ back, exclaiming in triumphant tones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ild, unearthly yowl, which shocked  
-Simpson&#x27;s nerves so much that he  
-dropped the trap-door and fell down the  
-step-ladder on the head of Mrs. Simpson,  
-who was standing below, dressed in a  
-thing with a frill on it, and armed with a  
-palm-leaf fan and a bed slat, determined  
-to protect Simpson to the death  
-Mr. Simpson has since sold the house  
-to a man who makes sausage and fur tip­  
-pets. He keeps the concrete soft and  
-sticky all the year round by means of  
-fires in the garret, and it is whispered  
- around Tuckahoe that his actual gains  
-average forty dollars a night.  
+ight.  
 ThefS MheF TEE SEEN TEHTING NOITN.  
   
 Canada&#x27;s bright and sensible Governor  
@@ -935,9 +819,10 @@ phrase, &quot;That&#x27;s what I&#x27;ve been telling
 Emily,&quot; having had the anecdote made  
 familiar by going the rounds of the news­  
 papers, and now one hears everywhere,  
-&quot;That&#x27;s what I&#x27;ve been telling Emily.&quot;
+&quot;That&#x27;s what I&#x27;ve been telling Emily.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1874120401:0600/pct:63.438896,36.168852,10.921640,25.487688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1874120401:0600/pct:63.459196,43.604093,10.901340,18.052446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,18 +834,7 @@ papers, and now one hears everywhere,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ich it opened, and immediately  
-proceeded to disseminate the melancholy intel­  
-ligence. As soon as the story was fairly set  
-agoing it travelled in all directions, and under­  
-went all sorts of modifications. In one of its  
-forms it reached the ears of Rome credulous  
-correspondents, and thus obtained a wide circu­  
-lation ail over the country.&quot; The Times, which  
-long has been famous for it3 early, full and  
-well-written obituary memoirs, may be the pa­  
-per hinted at in the above gossip, but other  
-London journals have lately competed with it  
+it  
 iu this respect.  
 &quot;That&#x27;s What I&#x27;ve Been Telling Emi­  
 i.y. &quot;--Canada&#x27;s bright and sensible Governor  
@@ -993,9 +867,9 @@ The Canadians have got up the slang phrase:
 ing had the aoecdote made familiar by going  
 the rouuds of the newspapers, aud now one  
 hears everywhere:  
-&quot;That&#x27;s what I&#x27;ve been telling Emily.
+&quot;That&#x27;s what I&#x27;ve been telling Emily.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663742:1874120501:0543/pct:2.678446,66.909263,15.734119,23.487713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663742:1874120501:0543/pct:2.678446,72.514178,15.734119,17.882798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +881,6 @@ hears everywhere:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;That&#x27;s What I&#x27;ve Been Telling Emily.&quot;—  
 Canada&#x27;s brignt and sensible Governor General,  
 Lord Dufferin, lias given to the Dominion people  
@@ -1036,7 +909,7 @@ The Canadians have got up the slang phrase,
 had the anecdoto made familiar by going tho  
 rounds of the newspapers, and now one hears  
 everywhere, &quot;That&#x27;s what I&#x27;ve been tellin&quot;  
-t mily
+t mily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_jigglypuff_ver01:data:sn86079018:00295874892:1874120601:0378/pct:62.093796,82.677268,14.475628,12.382690/!600,600/0/default.jpg"/>
 </td>
@@ -1060,7 +933,6 @@ t mily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-I  
 A CaNadIaN PhraNE.  
 Canada&#x27;s bright and sensible Gov­  
 ernor General, Lord Dufferin, ha  
@@ -1098,7 +970,7 @@ what l&#x27;ve been telling Emily,&quot; having
 had the anecdote made familiar by  
 going the round of the papers, and  
 one hears everywhere, &quot;That&#x27;s what  
-I&#x27;ce been telling Emily.
+I&#x27;ce been telling Emily.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776452:1874120901:0509/pct:75.314236,13.026477,11.692488,16.903139/!600,600/0/default.jpg"/>
 </td>
@@ -1112,7 +984,6 @@ I&#x27;ce been telling Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 “That’s What I’ve 13 he a&#x27; Telling  
 Emily ’’—Canada’s bright and sensible  
 Governor General, Lord Dufferin, has  
@@ -1147,7 +1018,8 @@ phrase:
 having had the anecdote made .ainiiiar by  
 going the rounds of the newspapers, and  
 : now one hears everywhere:  
-“That’s what I’ve been telling Emily.”
+“That’s what I’ve been telling Emily.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874121101:0395/pct:71.423890,42.133649,11.584467,15.732702/!600,600/0/default.jpg"/>
 </td>
@@ -1161,24 +1033,6 @@ going the rounds of the newspapers, and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ocence and purity look outward from  
-Within none the lees do vice, intempcrauco,  
-and debauchery make their indelible im­  
-pressions upon it. Idiocy, rage, cowardice  
-and passion leave deeper marks even than  
-the virtues of modesty, truth, chastity and  
-hope. Even beauty grows more beautiful  
-from the pure thoughts that arise within it  
-At one of the ritualistic churches in the  
-suburbs of London, certain of the lad)  
-from 6 A. M. to II F. M., and durinj  
-every hour of that period one of them hai  
-to be In the ohureh praying and watching  
-  
-VOL. X.-NO. 8.  
-  
-Mit and Jmmor.  
-&quot;That&#x27;s whatl’B been telling tolly.&quot;  
 Canada&#x27;s bright and sensible Gevernor-  
 General, Lord Daferla, has given the  
 Dominion people a new by-word, which  
@@ -1210,9 +1064,9 @@ familiar by going the round of the papers,
 and one hears every where, “ Tkat t zohat  
 I&#x27;ve here telling Emily.&quot;—Harper&#x27; Mag­  
 azine.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874121201:0267/pct:72.911188,8.695652,21.788388,88.256387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874121201:0267/pct:83.208578,13.118183,11.490997,18.810698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,8 +1078,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 idea could be given&#x27;ofjthe difference 1  
   
 between the old country ana tbeir new  
@@ -1243,7 +1095,8 @@ laughter, when I was further! greeted
 by an approving thump- on the back  
 by a stalwart young emigrant, who  
   
-cried out:
+cried out:  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm67n_ver01%2Fdata%2F1874121301%2F0481.jp2/pct:13.053479,5.081454,13.024727,7.832560/!600,600/0/default.jpg"/>
 </td>
@@ -1257,8 +1110,6 @@ cried out:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 called up by the emigrants to address  
 them, he alluded to this phrase, which  
   
@@ -1266,21 +1117,12 @@ bad grated harshly on his ear:..
 &quot;He had the misfortune of haying  
 too man r children.? &#x27; ?  
 Lord Duff erin said: v , r ; , &#x27;  
-&quot;I remarked that perhaps no better
+&quot;I remarked that perhaps no better  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm67n_ver01%2Fdata%2F1874121301%2F0481.jp2/pct:2.731455,90.160751,12.133410,3.916280/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## "tiger Dan"
-
-#### From _Daily evening bulletin._
-
-#### 1874-12-15 &middot; [San Francisco [Calif.]](http://dbpedia.org/resource/San_Francisco)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -1290,8 +1132,6 @@ Lord Duff erin said: v , r ; , &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Lord Dufferin bas given the Do­  
 minion people a new by-word, which  
 bas spread with electric rapidity from  
@@ -1323,7 +1163,7 @@ I&#x27;ve been telling Emily,&quot; having had
 the anecdote made familiar by going  
 the round of the papers, and one hears  
 everywhere, &quot;That&#x27;s what I&#x27;ve been  
-telling Emily,
+telling Emily,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1874121701:0345/pct:59.932280,79.128166,8.930587,11.609958/!600,600/0/default.jpg"/>
 </td>
@@ -1337,7 +1177,7 @@ telling Emily,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Emily.  
+Emily.  
 Cuucda’ii bright and uoimlblo Govomor-Gun­  
 oral, Lord Dulfoiin, liah given to tlio Dominion  
 people a new by-word, which luih spread with  
@@ -1366,7 +1206,7 @@ Tho Canadians have got up tho along phruao,
 had tbo amvdoto wadn familiar bv‘going the  
 irmnd;i of tho nnwapupors, and now one ncaia  
 cuerywhoro, “TJmt’n what I’vo boon tolling  
-Emily
+Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874121801:0002/pct:84.084507,85.233015,12.816901,12.502340/!600,600/0/default.jpg"/>
 </td>
@@ -1380,7 +1220,6 @@ Emily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 That’s What I’ve Been Telling Emily.  
 Canada&#x27;s bright and son ibic &lt; . nor  
 General, Lord Dufferin. hat giver- U) tho  
@@ -1414,7 +1253,7 @@ Emily,” having had the anecdote made
 familiar by going tho roundsofthe news­  
 papers, and now one hears everywhere.  
 “ That’s what I’ve been telling Emily.”  
-—Harper Magazine far
+—Harper Magazine far 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1874121801:0818/pct:79.157175,63.365443,11.693242,18.859121/!600,600/0/default.jpg"/>
 </td>
@@ -1428,21 +1267,6 @@ papers, and now one hears everywhere.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nking of the lady, looked a  
-litte surprised. &#x27;She didn&#x27;t kick!&#x27; was the  
-next interrogation, and a decisive &#x27;No&#x27; was  
-ahe answer. *She didn&#x27;t rar up or kick  
-over the traces, or putlherlhind feet through  
-the dashboard, or try to run away, or act  
-ugly, or&#x27;--the witness was boiling over  
-with indignation by this time, and interrupt­  
-ed. the lawyer wit)h, &#x27;Do you mean the  
-horse or the lady?&#x27; &#x27;1 mean the mare we&#x27;re  
-talking about,&#x27; thundered the counsel.  
-*Oh!&#x27; was the response, &#x27;I thought you  
-meant the gal.&#x27; And with explanation the  
-pursuit of justice was resumed.  
-&quot;Thalfa What I&#x27;ve Been Telling Emily.&#x27;  
 Canada&#x27;s bright and sensible Governor­  
 General, Lord Dufferin, has given tLe Do­  
 minion people a new by-word which has  
@@ -1463,9 +1287,9 @@ r going mean could sae rsly:hde toa many
 chaldsan. Hrer I was appiaded lustily,  
 witbhasherl au sugaImmntco laughter  
 l&lt; a wes, E I :sea ei er getod iSt. an  
-appreng hmp , +ito e b
+appreng hmp , +ito e by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_lynx_ver01:data:sn84038125:00294554841:1874121801:0214/pct:50.425969,74.477807,12.000588,18.255004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_lynx_ver01:data:sn84038125:00294554841:1874121801:0214/pct:50.425969,81.853786,12.000588,10.879025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1487,7 +1311,6 @@ appreng hmp , +ito e b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Canada Story.  
 Canada&#x27;s (Jovernor-General. . Lord T)nf.  
   
@@ -1533,7 +1356,7 @@ having had the anecdote made familiar by
   
 going the rounds of the newspapers, and now  
   
-hav
+have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou1n_ver01%2Fdata%2F1874122501%2F0435.jp2/pct:18.911099,55.441133,13.321936,38.647391/!600,600/0/default.jpg"/>
 </td>
@@ -1547,23 +1370,7 @@ hav
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gent a  
-messenger to the Duke to request of him  
-the nse of one of the staterooms which  
-had been secured for one of his servants.  
-With true French courtesy, he refused.  
-and the beautiful Duchess, wrapped in a  
-waterproof cloak, sat- in the pouring  
-rain during the whole of the two hours&#x27;  
-voyage. The Bonapartist principles of  
-the lady were probably the cause of the  
-gentleman&#x27;s refusal to oblige her, but it  
-is hard to unagine a state of party feel­  
-ing in the United States which would  
-lead an American gentleman to so treat  
-a woman, and a beautiful one at that.&quot;  
-That&#x27;s What I&#x27;ve Been Tellino  
-F.MILY. Canada&#x27;s bright and sensible  
+Canada&#x27;s bright and sensible  
 Governor-General, Lord Dufferin, has  
 given to the Dominion people a new by  
 word, which has spread with electrio  
@@ -1596,9 +1403,9 @@ hiiiilv. having had tne anecdote made
 familiar by going the rounds of the  
 newspapers, aud now one hear every  
 where, &quot;That s what 1 ve been telling  
-Emily.&quot; Harper&#x27;
+Emily.&quot; Harper&#x27;a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1874122501:0475/pct:83.240141,36.764008,9.446733,20.643400/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1874122501:0475/pct:83.269570,43.720323,9.417304,13.687085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1622,7 +1429,6 @@ Emily.&quot; Harper&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 &#x27;On my voyage out, being called on by  
 the entrants to address them, I alluded  
 to this phrrRc, which liad grated  
@@ -1647,7 +1453,7 @@ slam; phrase, &#x27; That&#x27;s what IVd been
 telling Kmlly,&#x27; having had the anecdote  
 nude familiar by going the round of tho  
 papers, and one hears everywhere &#x27;  
-That&#x27;ll what I&#x27;ve been Idling Kmlly.&#x27; 
+That&#x27;ll what I&#x27;ve been Idling Kmlly.&#x27; A
 </td></tr></table>
 
 ---
@@ -1658,7 +1464,7 @@ That&#x27;ll what I&#x27;ve been Idling Kmlly.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; Governor-Oeneral, Lord Duf­  
+Governor-Oeneral, Lord Duf­  
 ferin, has given to the Dominion ieople a  
 neAV by-word, which has spread witli electric  
 rapidity from, one end of Canada to the  
@@ -1694,7 +1500,7 @@ pnru!M : , !
 having had the anecdote made familiar &quot;by  
 going thej-ouuds of the newspapers, and now  
 one hears, everywhere :  
-&quot; That&#x27;s what I&#x27;ve been telling Emily.
+&quot; That&#x27;s what I&#x27;ve been telling Emily.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou2n_ver01%2Fdata%2F1875010801%2F0004.jp2/pct:17.839540,45.628551,12.568456,18.951251/!600,600/0/default.jpg"/>
 </td>
@@ -1708,14 +1514,11 @@ one hears, everywhere :
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- head be. Canadas brignt and sensible Governor late member ciet  the w  
-  
-fore his sweetheart?--enough to render him General ord ulerin has gien to the o ee e e ee e  
-speechless? Ye gods! But the letter! Shall minion people a new by word, which has Webster havin fir entere onre    
+minion people a new by word, which has Webster havin fir entere onre    
 we hear it? Remember this was the dawn e i ei ai o o e o e o o aen i a e a o oo  
-ing of peace and goodwill loward iren!&quot; Canada to the other. On his voyage out
+ing of peace and goodwill loward iren!&quot; Canada to the other. On his voyage out,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1875010901:0804/pct:34.480078,73.042776,45.597668,2.502018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1875010901:0804/pct:34.499514,73.863331,45.578231,1.681464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1727,7 +1530,7 @@ ing of peace and goodwill loward iren!&quot; Canada to the other. On his voyage 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; and then it  
+and then it  
 could be said we have returned to the gov­  
 ernment of our fathers.  
   
@@ -1745,7 +1548,7 @@ also, when I was further greeted with an ini ara bo shi oso a o ie a
   
 not utterly dispise me, that you will think as oin te on te a e a aar boken backed roling pin and a mournl  
 kindly of me as you may, believing that my young emigrant, who cried out &quot;Right you look in his eyes. &quot;Why, whats the matter,  
-temptation was great, and my punishmentare, sir; that&#x27;s what I&#x27;ve been telling Emily.&quot; Peter
+temptation was great, and my punishmentare, sir; that&#x27;s what I&#x27;ve been telling Emily.&quot; Peter 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1875010901:0804/pct:34.616132,76.863062,45.500486,7.506053/!600,600/0/default.jpg"/>
 </td>
@@ -1759,7 +1562,7 @@ temptation was great, and my punishmentare, sir; that&#x27;s what I&#x27;ve been
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- TaaT&#x27;s WHAT I&#x27;vE BEEN TELLING EM­  
+TaaT&#x27;s WHAT I&#x27;vE BEEN TELLING EM­  
 -ILy.”—Canada’s bright and sensible Gover­  
 nor-General, Lord Dufferin, has given to the  
 Dominion a new by-word, which has spread  
@@ -1790,7 +1593,7 @@ ly,” having had the anecdote made familiar
 by going the rounds of the newspapers, and  
 now one hears everywhere, ‘That&#x27;s what  
 T&#x27;ve been telling Emily.”—Harper&#x27;s Maga­  
-zine
+zine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_hale_ver01:data:sn84020392:00517016044:1875011401:0005/pct:73.263790,77.658912,11.431838,12.889489/!600,600/0/default.jpg"/>
 </td>
@@ -1804,7 +1607,6 @@ zine
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Canadlaa Pnraee.  
 Canada&#x27;s bright and sensible Governor-  
 General, Lord Dufferin, has given the  
@@ -1837,7 +1639,7 @@ what I&#x27;ve been telline Emilv.&quot;&#x27; havinir
 bad the nedote made familiar by going  
 the round of tl.a papers, and one hears  
 everywhere, &#x27; &quot; That I whu J&#x27;v been  
-telling L.raily
+telling L.raily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875011801:0057/pct:20.809485,61.924973,12.510221,16.073384/!600,600/0/default.jpg"/>
 </td>
@@ -1851,12 +1653,12 @@ telling L.raily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, crying out; “ Right you are, sir! That’s  
+crying out; “ Right you are, sir! That’s  
 what I&#x27;ve been telling Emily,”  
   
 This is what gave rise to the phrase, and  
 now one hears it everywhere. ‘‘That’s what  
-I’ve been telling Emily
+I’ve been telling Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_school-journal_1875-02-06_6_207%2Fsim_school-journal_1875-02-06_6_207_jp2.zip%2Fsim_school-journal_1875-02-06_6_207_jp2%2Fsim_school-journal_1875-02-06_6_207_0013.jp2/pct:7.809168,43.118401,21.295309,3.582202/600,/0/default.jpg"/>
 </td>
@@ -1872,7 +1674,7 @@ I’ve been telling Emily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, &quot;on my voyage out, being called on  
+&quot;on my voyage out, being called on  
 by the emigrants to address them, I  
 alluded to this phrase, which had grated  
 harshly on my ears--&#x27; he had the  
@@ -1897,7 +1699,7 @@ slang phrase &quot;that&#x27;s what I&#x27;ve been
 tolling Emily,&quot; having had the aneodote  
 made familiar by going the round of the  
 papers, and one hears everywhere,  
-&quot;that&#x27;s what I&#x27;ve been telling Emily.
+&quot;that&#x27;s what I&#x27;ve been telling Emily.&quot;
 </td></tr></table>
 
 ---
@@ -1908,24 +1710,6 @@ papers, and one hears everywhere,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-over twenty.”  
-  
-“That might lie a wise taw.  
-“I can&#x27;t go to Lansin’,” he went on,  
-•but you kin help me. Put it in your  
-iapei—git up an excitement about it.  
-iVill you do this! Look at me, boy—  
-ook me all over! See how I ve suffered!  
-See how hot my head is 1”  
-“I’ll help you all I can.”  
-“Do! Write to him! Write to him  
-five times a day! I&#x27;m goin&#x27; hum to meet  
-her, and he pounded around and sassed  
-and jawed, but it’ I know you re gettin  
-a law through I’ll go to the grave feclin’  
-good!”  
-And he put on his mittens, took up his  
-cane and was gone.—Detroit I1 re/ 1 re/9.  
 That&#x27;s What I’ve Been Telling Emily.  
 Canada’s bright and sensible Governor­  
 General, Lord Dufferin, lias given to tin  
@@ -1957,9 +1741,9 @@ been telling Emily,” having bad the anec­
 dote made familiar by going  
 of the newspapers, and now one hears  
 i everywhere, &quot;That’s what I’ve been tell­  
-l ing Emily
+l ing Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554619:1875021401:0407/pct:81.514312,55.491170,11.394275,25.648455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554619:1875021401:0407/pct:81.828255,64.459161,11.080332,16.680464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1971,11 +1755,11 @@ l ing Emily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 pidity from one end of Canada to the other. on  
 his voyage ot being called upon by the e  
   
-grants to address them, he alluded to this
+grants to address them, he alluded to this  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:00211108861:1875021701:0200/pct:14.446494,83.051558,14.575646,1.606818/!600,600/0/default.jpg"/>
 </td>
@@ -1991,7 +1775,7 @@ grants to address them, he alluded to this
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-j &quot; That&#x27;s what IVe been  
+&quot; That&#x27;s what IVe been  
 telling Emily,&quot; is the introduction  
 given In Harper&#x27;s Vagazint to the  
 following paragraph :—&quot;Canada&#x27;s bright  
@@ -2025,7 +1809,7 @@ I&#x27;ve been telling Bmily,&#x27; having had the
 anecdote made famffiar by going the  
 round* of the newspaper*, and now one  
 heart everywhere, &#x27; Tbafs what IVe  
-btentelling Emily.&#x27;&quot;
+btentelling Emily.&#x27;&quot; 
 </td></tr></table>
 
 ---
@@ -2038,7 +1822,7 @@ btentelling Emily.&#x27;&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; them, he alluded to  
+them, he alluded to  
 Jfiis;&#x27;&#x27; phwise^.whicli )|u&amp;- grated  
 harshly on his (irs^&#x27;H.Q&#x27;jhad&#x27;  
 &quot;thb.-mlsfortuue to have too iany-1  
@@ -2065,7 +1849,7 @@ teliin&#x27; Emily,&#x27; havirig had the anecdote
 made familiar&#x27; m going the round of the  
 papers, and one hears everywhere/1  
 .&quot;ThatV wnat I&#x27;ve&#x27; been teliin&#x27; Emily.V  
-&#x27;
+&#x27;-
 </td></tr></table>
 
 ---
@@ -2078,7 +1862,7 @@ papers, and one hears everywhere/1
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- That&#x27;s  
+That&#x27;s  
 what I&#x27;ve been Tellin&#x27; Emily I —  
 Canada&#x27;s bright and sensible  
 GovernorGeneral, Lord Dufferin, has  
@@ -2110,7 +1894,7 @@ slang phrase, &#x27; That&#x27;s what I&#x27;ve been
 tellin&#x27; Emily,&#x27; having had tbe anecdote  
 made familiar by going the round of the  
 papers, and one hears everywhere, &#x27;  
-That&#x27;s what I&#x27;ve been tellin&#x27; Emily
+That&#x27;s what I&#x27;ve been tellin&#x27; Emily.
 </td></tr></table>
 
 ---
@@ -2123,7 +1907,7 @@ That&#x27;s what I&#x27;ve been tellin&#x27; Emily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-— &quot; That&#x27;s what I&#x27;ve been  
+&quot; That&#x27;s what I&#x27;ve been  
 telling Emily&quot; is the introduction given  
 in Harper&#x27;s Magazine to the following  
 paragraph :—&quot; Canada&#x27;s bright and  
@@ -2153,7 +1937,7 @@ I was further greeted with an approving
 | thump on , the back by a. stalwart  
 young ! I .emigrant, who cried out &quot;  
 Eight you are fair; . that&#x27;s what I&#x27;vo  
-been telling Emily
+been telling Emily.
 </td></tr></table>
 
 ---
@@ -2166,7 +1950,7 @@ been telling Emily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; c That&#x27;s what I&#x27;ve been  
+c That&#x27;s what I&#x27;ve been  
 telling Emily, &#x27; is the introduction  
 given in Harper&#x27;s Magazine to the  
 following -paragraph : — &#x27;Canada&#x27;s  
@@ -2200,7 +1984,7 @@ Canadians have got up the slang phrase,
 having had the anecdote made familiar by  
 going the rounds of the newspapers, and  
 now one hears everywhere, &#x27; That&#x27;s what  
-IVe been telling Emily
+IVe been telling Emily.
 </td></tr></table>
 
 ---
@@ -2211,7 +1995,7 @@ IVe been telling Emily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;That&#x27;s What 1&#x27;vk Be&#x27;.v Ttxi.iso  
+That&#x27;s What 1&#x27;vk Be&#x27;.v Ttxi.iso  
 Emii.y&quot; Canada&#x27;s biiulit ami sensitde  
 Governor General, Lord DufTerin, I a  
 given to th Domini- n peop a new  
@@ -2243,7 +2027,7 @@ telln g Emily.&#x27;&#x27; having had the anecd.ite
 made familiar by g-iing t!.e rounds of  
 01 the newspapers, and now one Io a s  
 everywhere, &quot;lba.&#x27;s what I&#x27;ve bjeu tiling  
-Emily.
+Emily.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1875030501:0246/pct:34.777585,80.313938,11.539573,15.637909/!600,600/0/default.jpg"/>
 </td>
@@ -2257,23 +2041,6 @@ Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-th. But his health, which  
-had been failing for some time, rap­  
-idly declined, and he died on Sun­  
-day morning, the 14th inst. He  
-had all the grace and consolation of  
-receiving all the sacraments of the  
-church before his death.  
-Warm hearted and generous, the  
-ever faithful friend of the poor, the  
-outeast and the orphan, in his last  
-hours Mr. McKenna forgot not those  
-whom he had always assisted during  
-life, as his bequests to the Infant  
-Orphan asylum and the House of  
-Good Shepherd, in his last will and  
-testament--New Orleans Morning  
-Star, 20th ult, aid to na  
 That&#x27;s Whatl I&#x27;ve Been Teiling  
 EmIly.&quot;  
 Canada&#x27;s bright and sensible gov­  
@@ -2314,9 +2081,9 @@ Emily,&quot; having had the aneedote
 made familliar by going the rounds  
 of the newspapers, and now one  
 hears everywhere, &quot;That&#x27;s what  
-I&#x27;ve heen telling Emily.
+I&#x27;ve heen telling Emily.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297544:1875030501:0661/pct:32.488575,63.083849,12.401329,31.077659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297544:1875030501:0661/pct:32.488575,73.157006,12.401329,21.004502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2330,7 +2097,7 @@ I&#x27;ve heen telling Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- That&#x27;s  
+That&#x27;s  
 what i&#x27;ve been tellin &#x27; Emily !  
 —Canada&#x27;s -bright and sensible  
 GovernorLord Dufferin, has given tbe  
@@ -2362,7 +2129,7 @@ Canadians have got up the slang phrase,
 having had the anecdote made familiar by  
 going the round of the papers, and one  
 hears everywhere, &quot; That&#x27;s what I&#x27;ve  
-beeu tellin &#x27; Emily.
+beeu tellin &#x27; Emily.&quot;
 </td></tr></table>
 
 ---
@@ -2373,7 +2140,7 @@ beeu tellin &#x27; Emily.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.rin ll.H! iriv&#x27;..ll to tllH!  
+rin ll.H! iriv&#x27;..ll to tllH!  
 Dominion people a new oye-wuiu, wmcn ;  
 has spread with electric rapidity from one ;  
 end of Canada to the other. On his voj--,  
@@ -2404,7 +2171,7 @@ iinrl no7 one hears everv-i weiitnc, xi-i, . .. &#x27;
   
 where &quot; Thats&#x27; what I&#x27;ve been telling  
 Emily.&quot;  
-Wiiktiier
+Wiiktiier 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_joshuatree_ver01:data:sn82014896:0021110465A:1875030601:0328/pct:40.692446,73.362963,35.678957,15.925926/!600,600/0/default.jpg"/>
 </td>
@@ -2420,23 +2187,7 @@ Wiiktiier
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-miles from  
-Koroit, where there is a tract of  
-country from Woolsthorpe or Hawkesdale  
-to Mount Rouse, a stretch of 25 miles,  
-all owned by five or six proprietors,  
-where you can see miles upon miles of  
-fencing, enclosing fine grass paddocks,  
-and scarcely a human being to be found  
-there in.&quot; A lad named James Taylor, 12  
-years old, was amusing himself with a  
-pistol, at Kyneton, a few days ago, when  
-the trigger went off unexpectedly, and  
-inflicted in the left arm a wound of  
-such severity as to cause locklaw. He  
-was taken to the Kyneton Hospital, but  
-the prospect of his recovery is entirely  
-hopeless. Canada&#x27;s bright and Sensible  
+Canada&#x27;s bright and Sensible  
 GovernorGeneral, Lord Dufferib, has  
 given the Dominion people a new by-word,  
 which, has spread with electric rapidity  
@@ -2466,7 +2217,7 @@ Canadians hare got up the slang phrase.
 having the anecdote made familiar by  
 going the rounds of the papers, and one  
 hears everywhere, &quot; That&#x27;s what I&#x27;ve  
-been tellin&#x27; Emily.&quot; W
+been tellin&#x27; Emily.&quot; We
 </td></tr></table>
 
 ---
@@ -2477,25 +2228,7 @@ been tellin&#x27; Emily.&quot; W
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mittee of the  
-Delaware diocese have taken the same  
-action.  
-BurLINGTON, N. J., March 6.-The  
-standing committees of the diocese of  
-New Jersey refuse to consent to Jag-  
-ger&#x27;s consecration. The DeKoven  
-papers have not been received.  
-NEW ORLEANS, March 6.-General  
-Sheridan and Col. Forsythe, of his  
-staff, left this afternoon for the west  
-via the Jackson railroad.  
-NEw York, March 6. Loans,  
-decrease, $500,000; spocie, decrease,  
-500,000, legal tenders, decrease, 9400,  
-000; deposits, decrease, $3,500,000; cir-  
-culation, decrease, $1,000,000; reserves,  
-decrease, $6,500,000.  
-&quot;That&#x27;s What I&#x27;ve Been Telling  
+That&#x27;s What I&#x27;ve Been Telling  
 Canada&#x27;s bright and sensible gov  
 ernor general, Lord Dufferin, has  
 given to the dominion people a new  
@@ -2531,32 +2264,9 @@ Emily,&quot; having had the anecdote
 made familliar by going the rounds  
 of the newspapers, and now one  
 hears everywhere, &quot;That&#x27;s what  
-I&#x27;ve been telling Emily.
+I&#x27;ve been telling Emily.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1875031301:0688/pct:39.105839,48.908538,10.985401,27.397071/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Dallas weekly herald._](https://www.loc.gov/resource/sn84022279/1875-03-13/ed-1/?sp=4)
-
-#### 1875-03-13 &middot; [Dallas, Tex.](http://dbpedia.org/resource/Dallas)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-life, as his bequests  
-to the infant  
-Orphan asylum and the House of  
-Good Shepherd, in his last will and  
-testament- New Orleans Morning  
-Star, 20th ult.  
-George Washington&#x27;s Family.  
- St. Louis Republican.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1875031301:0688/pct:50.018248,83.531362,10.875912,3.840840/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1875031301:0688/pct:39.105839,57.198121,10.857664,19.107488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2570,7 +2280,7 @@ George Washington&#x27;s Family.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--Canada&#x27;s  
+Canada&#x27;s  
 bright dansenibl&#x27; love?i6r-Genieal&quot;(Lord  
 Dufferin) has given : . the Dominion  
 people a&#x27;new by.word, which: has Ispread  
@@ -2603,7 +2313,7 @@ up&#x27; the slang phraso, l&#x27;ThhhT&#x27;whlsat
 anecdoteo mado faiiliar .by&#x27; gboig&#x27;tbo  
 round of the paporeiand  
 in&quot;&#x27;hoarS?erywhere, &quot;&#x27;That&#x27;se :wlatI&#x27;ve  
-been telling Emly
+been telling Emly.
 </td></tr></table>
 
 ---
@@ -2614,13 +2324,13 @@ been telling Emly
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of Lord  
+of Lord  
 Dufferin, uttered in September last, toa band of Canadian emigrants.‘ Whereas, said  
 the noble lord, “in England a struggling man might be overweighed in the battle of lite  
 by a numerous family, in the land to which they were going a man could scarcely hav¢  
 too many children.’” Upon which, said the noble speaker, I was greeted with an approv-  
 ing thump on the back by a stalwart young emigrant, who cried out “ Right you are,  
-sir! that’s what I&#x27;ve just been telling my Emily
+sir! that’s what I&#x27;ve just been telling my Emily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322%2Fsim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322_jp2.zip%2Fsim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322_jp2%2Fsim_jewish-chronicle_the-jewish-chronicle_1875-05-28_322_0017.jp2/pct:57.947368,72.998179,35.578947,4.714026/600,/0/default.jpg"/>
 </td>
@@ -2634,7 +2344,7 @@ sir! that’s what I&#x27;ve just been telling my Emily
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and fractured his arm.  
+and fractured his arm.  
 And now ftrewell, old Juditlh,  
 We may never see you more,  
 For the Carroll route&#x27;s gone nup lthe pou t  
@@ -2669,7 +2379,8 @@ tellig lEmily.&#x27; &quot; The Canadians have got
 up tle slang phrase, That&#x27;s what I&#x27;ve been  
 telling Emily,&quot; haing had the anecdote  
 miliar by going the rounds of the  
-p esand one hears everywhere, &quot;That&#x27;3
+p esand one hears everywhere, &quot;That&#x27;3  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_moose_ver01:data:sn84038126:00212476997:1875102301:0098/pct:75.851305,65.545267,17.281498,30.267490/!600,600/0/default.jpg"/>
 </td>

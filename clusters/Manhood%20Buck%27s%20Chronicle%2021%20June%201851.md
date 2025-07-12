@@ -1,7 +1,7 @@
 
 # From _Bucks Chronicle and Bucks Gazette_
 
-### 217 reprints from 1850-08-24 to 1855-12-08
+### 218 reprints from 1850-08-24 to 1855-12-08
 
 ## [From _Bucks Chronicle and Bucks Gazette_](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002197/18510621/003/0001)
 
@@ -9,7 +9,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Disinfecting Lotion for the prevention of all Secret Disorders.  
+isinfecting Lotion for the prevention of all Secret Disorders.  
   
 At home for consultation daily, from ten till three, and six to eight.  
   
@@ -25,7 +25,7 @@ See also a thrilling and harrowing chapter in “Rush, on Diseases of the Mind;�
   
 Published by the Author, sold also in sealed envelopes, by Strange, 21, Paternoster-row; Hannay, 63, Oxford-street; Mann, 39, Cornhill, London; Heywood, Oldham-street, and Armstrong, 23, Bond street, Manchester; Howell, 6, Church-street, Liverpool; Campbell, 136, Argyle-street, Glasgow; Robinson, 11, Greenside street, Edinburgh; Berry and Co., Capel-street, Dublin; and all the Booksellers and Chemists in the United Kingdom.  
   
-Sold also by Mr. W.W. Walker, Hair-dr
+Sold also by Mr. W.W. Walker, Hair-dre
 </td></tr></table>
 
 ---
@@ -46,14 +46,13 @@ Sold also by Mr. W.W. Walker, Hair-dr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Published by the author ; sold also in sealed envelopes, by Strange, 21, Paternoster-  
 row; Hannay, 63, Oxford-street; Mann, 39, Cornhill, London ; Heywood, Oldham-street,  
 and Armstrong, 23, Bond-street, Manchester; Howell, 6, Church-street, Liverpool ;  
 Campbell, chemist, 136, Argyle-street, Glasgow ; Robinson, 11, Greenside-street, Edin-  
 burgh ; Berry and Co., Capel-street, Dublin; and by all booksellers and chemists in the  
 United Kingdom.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1850-09-21_20_787%2Fsim_mining-journal_1850-09-21_20_787_jp2.zip%2Fsim_mining-journal_1850-09-21_20_787_jp2%2Fsim_mining-journal_1850-09-21_20_787_0001.jp2/pct:8.115942,67.805416,28.140097,2.770781/600,/0/default.jpg"/>
@@ -78,8 +77,6 @@ United Kingdom.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Published by the author ; sold also in sealed envelopes, by Strange, 21, Paternoster-  
 row; Hannay, 63, Oxford-street; Mann, 39, Cornhill, London ; Heywood, Oldham-street,  
 and Armstrong, 23, Bond-street, Manchester ; Howell, 6, Church-street, Liverpool ;  
@@ -87,7 +84,7 @@ Campbell, chemist, 136, Argyle-street, Glasgow ; Robinson, 11, Greenside-street,
 burgh; Berry and Co., Capel-street, Dublin; and by all booksellers and chemists in the  
   
 United Kingdom.  
-D
+DR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1851-02-15_21_808%2Fsim_mining-journal_1851-02-15_21_808_jp2.zip%2Fsim_mining-journal_1851-02-15_21_808_jp2%2Fsim_mining-journal_1851-02-15_21_808_0001.jp2/pct:4.836381,61.231203,28.753609,3.618421/600,/0/default.jpg"/>
 </td>
@@ -101,14 +98,15 @@ D
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’clock.  
+clock.  
   
 Published by the author ; sold also in sealed envelopes, by Strange, 21, Paternoster-  
 row; Hannay, 63, Oxford-street; Mann, 39, Cornhill, London ; Heywood, Oldham-street,  
 and Armstrong, 23, Bond-street, Manchester; Howell, 6, Church-street, Liverpool ;  
 Campbell, chemist, 136, Argyle-street, Glasgow ; Robi , Gr ide-street, Edin-  
 burgh; Berry and Co., Capel-street, Dublin; and by all booksellers and chemists in the  
-United Kingdom. 41
+United Kingdom. 41  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1851-02-22_21_809%2Fsim_mining-journal_1851-02-22_21_809_jp2.zip%2Fsim_mining-journal_1851-02-22_21_809_jp2%2Fsim_mining-journal_1851-02-22_21_809_0001.jp2/pct:5.858245,65.648496,28.688525,3.477444/600,/0/default.jpg"/>
 </td>
@@ -1446,6 +1444,28 @@ United Kingdom. 41
 
 ---
 
+## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1852-01-03_10_436/page/n28/mode/1up?view=theater)
+
+#### 1852-01-03 &middot; [London, England](http://dbpedia.org/resource/London)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+Fortunate for a cc  
+  
+untry would it be did its youth put  
+into practice the philanthropic and scientific maxims here  
+Jaid down. One cause of natrimonial misery might the  
+be banished from our land, and the race of the enervate be  
+succeeded by a renewal of the hardy, vigorous spirits of  
+the olden time.’’—-CHRONICLE.  
+Published by the author: sol
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1852-01-03_10_436%2Fsim_economist_1852-01-03_10_436_jp2.zip%2Fsim_economist_1852-01-03_10_436_jp2%2Fsim_economist_1852-01-03_10_436_0028.jp2/pct:6.831228,82.335551,25.746269,4.360680/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## Advertisements & Notices
 
 #### From _Reynolds's  Newspaper_
@@ -2128,16 +2148,6 @@ United Kingdom. 41
 
 ## Advertisements & Notices
 
-#### From _Derby Mercury_
-
-#### 1853-06-22 &middot; [Derby, England](http://dbpedia.org/resource/Derby)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Liverpool Mercury_
 
 #### 1853-09-13 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
@@ -2216,14 +2226,22 @@ United Kingdom. 41
 
 ---
 
+## Advertisements & Notices
+
+#### From _Hull Packet_
+
+#### 1855-02-23 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The Economist 1843-2016_](https://archive.org/details/sim_economist_1855-12-08_13_641/page/n25/mode/1up?view=theater)
 
 #### 1855-12-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 * Fortunate for a country would it be did its youth pat  
 into practice the philanthropic and scientific maxims here  
 laid down. One cause of matrimonial misery might they  
@@ -2246,7 +2264,7 @@ the United Kingdom.
   
   
   
-sold also b
+sold also by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1855-12-08_13_641%2Fsim_economist_1855-12-08_13_641_jp2.zip%2Fsim_economist_1855-12-08_13_641_jp2%2Fsim_economist_1855-12-08_13_641_0025.jp2/pct:67.061611,82.862454,27.428910,9.869888/600,/0/default.jpg"/>
 </td>

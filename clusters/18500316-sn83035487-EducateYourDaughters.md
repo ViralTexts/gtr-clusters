@@ -1,7 +1,7 @@
 
 # Educate Your Daughters
 
-### 183 reprints from 1849-07-28 to 1870-06-15
+### 179 reprints from 1849-07-28 to 1870-06-15
 
 ## [Educate Your Daughters](http://chroniclingamerica.loc.gov/lccn/sn83035487/1850-03-16/ed-1/seq-4/)
 
@@ -25,8 +25,6 @@ EDUCATE YOUR DAUGHTERS.—When I lived among the Choctaw Indians, I held a consu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d to merit and  
-chronology.--Whipple&#x27;s Essays.  
 AN INDIAN&#x27;S IDEA or A MoThEN&#x27;s IN.  
 FLueNce.When residing among the Choc.  
 taw Indians, I held a conversation with one  
@@ -50,9 +48,9 @@ tion can become fully and permanently
 civilised and enlightened where the mothers  
 are not, to a good degree, qualified to dis  
 charge the duties of the &quot;home work of  
-educution.&quot; -REr. S. Dyer
+educution.&quot; -REr. S. Dyer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849072801:0450/pct:19.166267,62.121384,13.001118,14.634146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849072801:0450/pct:19.166267,63.823029,12.985146,12.932501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,19 +72,6 @@ educution.&quot; -REr. S. Dyer
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-usky Co., O.&#x27;  
-  
-The Free Colored population of Norfolk, &quot;Virgin  
-  
-ia, is increasing rapidly. The number now exceeds  
-two thousand, more than one-fifth of the entire  
-white population Each revolving court natural  
-  
-izes many ol them,- conferring on them the legiti­  
-mate right of citizenship.  
-  
-An Indian&#x27;s Idea of a mother&#x27;s Influence.  
-  
 When residing among the Choctaw Indians I  
   
 held a convesation with one of their principal chiefs  
@@ -123,31 +108,9 @@ Rev. S. Dyer.
   
 It seems from the above narative. that the poor  
   
-Indian arrived at once at a point to
+Indian arrived at once at a point to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068958:00296027017:1849102001:0010/pct:52.512385,26.548043,14.667374,17.807829/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Portage sentinel._](https://www.loc.gov/resource/sn83035101/1849-10-22/ed-1/?sp=4)
-
-#### 1849-10-22 &middot; [Ravenna, Ohio](http://dbpedia.org/resource/Ravenna%2C_Ohio)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-- (L?The Free Colored, population of Nor­  
-folk, V a., is increasing rapidly. The num-  
-ber now exceeds two thousand, more than  
-onefifth -of the entire white population.  
-Each revolving court naturalizes many of  
-i:,cirl, conferring upon them the legitimate j  
-pfivileges of cilizensliio  
-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1849102201:0275/pct:5.418455,90.841482,12.750358,3.952624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068958:00296027017:1849102001:0010/pct:52.547771,32.669039,14.631989,11.686833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,8 +132,6 @@ pfivileges of cilizensliio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 EDUCATE YOUR DAUGHTERS.  
 When residing among the Choctaw Indians,  
 I held a conversation with one of their princi­  
@@ -194,7 +155,7 @@ to a good degree, qualified to discharge the du­
 ties of “ the home-work of education.&quot;-—Rev.  
 S. Dyer.  
 A MOTHER’S MEMORY.  
-I have b
+I have be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1850011801:0015/pct:34.969995,78.857607,14.493544,14.293449/!600,600/0/default.jpg"/>
 </td>
@@ -208,7 +169,7 @@ I have b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. At this juncture Captain Norton, the  
+At this juncture Captain Norton, the  
 Captain of the boat, came forward and told the  
 owner of the slaves that he would not take him  
 on his boat, and sent the whole party ashore, and  
@@ -240,7 +201,7 @@ degree, qualified to discharge the duties of the
   
 In thy silent wishing, thy voiceless unuttered  
 prayer, let the desire be not cherished that afflic-  
-tions may not visit thee
+tions may not visit thee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_independent_1850-02-07_2_62%2Fsim_independent_1850-02-07_2_62_jp2.zip%2Fsim_independent_1850-02-07_2_62_jp2%2Fsim_independent_1850-02-07_2_62_0003.jp2/pct:61.596859,64.288721,10.667539,13.646886/,600/0/default.jpg"/>
 </td>
@@ -254,8 +215,6 @@ tions may not visit thee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 EflflcATE your Daughters. —W&#x27;hen living  
 among the Choctaw Indiana. 1 held s con¬  
 sultation with one of their principal cl.iefs  
@@ -278,7 +237,7 @@ lolly and permanently civilized and enhghien-
   
 in the Union.  
   
-Mr. Seward gave notice that be wop
+Mr. Seward gave notice that be wopM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_frederick-douglass-paper_1850-02-08_3_7%2Fsim_frederick-douglass-paper_1850-02-08_3_7_jp2.zip%2Fsim_frederick-douglass-paper_1850-02-08_3_7_jp2%2Fsim_frederick-douglass-paper_1850-02-08_3_7_0002.jp2/pct:22.401909,36.632231,45.241251,8.605372/600,/0/default.jpg"/>
 </td>
@@ -302,7 +261,6 @@ Mr. Seward gave notice that be wop
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 EnucATR vour Dauoiiters. When  
 lived among the Choctuw Indians, I held  
 consultation with one of their principal  
@@ -327,7 +285,7 @@ ly civilized aud enlightened, when
 mothers are not. to a good degree, qualifi­  
 ed to discharge the duties of the homo work  
 ol educution. IUv. S. Dyer.  
-It has been remarked that &#x27; th
+It has been remarked that &#x27; the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1850031601:0051/pct:52.712072,79.612258,13.805057,12.945591/!600,600/0/default.jpg"/>
 </td>
@@ -351,8 +309,6 @@ It has been remarked that &#x27; th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 MOTHER’S INFLUENCE.  
   
 When residing among the Choctaw Indians,  
@@ -376,6 +332,7 @@ permanently civilized and enlightened where
 the mothers are not to a good degree qualified  
 to discharge the duties of the “ home work of  
 education.”—Rev. S. Dyer.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1850-03-21_23_47%2Fsim_youths-companion_1850-03-21_23_47_jp2.zip%2Fsim_youths-companion_1850-03-21_23_47_jp2%2Fsim_youths-companion_1850-03-21_23_47_0003.jp2/pct:54.825462,26.901408,20.636550,15.845070/,600/0/default.jpg"/>
@@ -390,7 +347,7 @@ education.”—Rev. S. Dyer.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Sharp.  
+Sharp.  
 Educate Your Daughters.—When j lived  
 among the Choctaw Indians, 1 held a consulta­  
 tion with one of their principal chiefs respecting  
@@ -411,7 +368,7 @@ is true. No nation can become fully and perma­
 nently civilised and enlightened, when the  
 mothers are not, to a good degree, qualified  
 to discharge the duties of the home work of  
-education
+education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205958174:1850061601:0001/pct:66.505879,74.112085,9.722641,8.821494/!600,600/0/default.jpg"/>
 </td>
@@ -425,7 +382,7 @@ education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-S- &quot; -,  
+- &quot; -,  
 Edooatc trovn Dahohtefs. When resi­  
 ding among the Choctaw Indians, I held a  
 conversation with one of their principal chiefs  
@@ -462,7 +419,7 @@ What is love, Kate T&#x27; said a young
   
 man to his bright particular, the other  
   
-n
+ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1851022101:0109/pct:4.934823,75.222450,16.201117,16.307324/!600,600/0/default.jpg"/>
 </td>
@@ -476,7 +433,6 @@ n
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-1  
 Educate You it Dauuhtkrs When 1  
 lived-among the Choclnw Indians I held a  
 consultation with. one oftheir principal chiefs  
@@ -500,7 +456,7 @@ nntiiuVean become fully and permanently
 civilized and enlightened when the- mothers  
 are not to a good degree qualified to dis-  
 charge the duties of the home work of edu-  
-rnf inn 
+rnf inn -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth80817/m1/3/pct:36.000000,5.851570,14.333333,12.511893/!600,600/0/default.jpg"/>
 </td>
@@ -514,7 +470,6 @@ rnf inn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 -« • •­  
 Edixati: Yocb Dacgutebs.—A writer  
 snvs:—&quot; \\ In n I livs &lt;1 among&quot; the Choctaw  
@@ -540,7 +495,7 @@ are not, to a good degree, qualified to dis­
 charge tlie duties of the home work of ed­  
 ucation.’  
   
-Western
+Western 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851031301:0018/pct:38.129633,59.771592,11.556738,12.405425/!600,600/0/default.jpg"/>
 </td>
@@ -554,7 +509,6 @@ Western
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 EDUoATE YOUR DAUGHTERs.-WhenI  
 I lived among the Choctaw Indians I  
 held a consultation with one of their  
@@ -584,7 +538,7 @@ ktaism.
 Ti Turks exemplify this, their cher­  
 ished doctrine, in all their habits and- ac­  
 tions. MAHOMET owed much of the in­  
-vincibility of his soldiers to hi
+vincibility of his soldiers to his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288282:1851041001:0005/pct:56.599852,19.541097,26.948775,77.097921/!600,600/0/default.jpg"/>
 </td>
@@ -598,8 +552,6 @@ vincibility of his soldiers to hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 EDUCATE YOUR DAUGHTERS.  
   
 A writer says:—When [ lived among the Choc-  
@@ -622,6 +574,7 @@ the point, and it is true. No nation can become
 fully and permanently civilized and enlightened,  
 when the mothers are not, to a good degree, quali-  
 fied to discharge the duties of home education.  
+  
   
   
 
@@ -658,7 +611,6 @@ fied to discharge the duties of home education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 EpucaTe your Daucurers.—A writersays:  
 When I lived among the Choctaw Indians, held  
 a consultation with one of their chief respecting  
@@ -682,6 +634,7 @@ to a good degree, qualified to discharge the du-
 ties of home education.  
   
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_colmans-rural-world_1851-06_3_6%2Fsim_colmans-rural-world_1851-06_3_6_jp2.zip%2Fsim_colmans-rural-world_1851-06_3_6_jp2%2Fsim_colmans-rural-world_1851-06_3_6_0030.jp2/pct:48.823925,67.041522,36.626344,21.561419/600,/0/default.jpg"/>
@@ -696,7 +649,7 @@ ties of home education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Chief. informed  
+Chief. informed  
 a white man who wae conversing with him, that  
 the Indians made a great misiake at fires, by send­  
 ing only their boys 10 school They became in­  
@@ -706,7 +659,7 @@ continaes ** ifwe could eduente any one classof vur
 children, we would choose the girls, for when they  
 beecome mother&#x27;s they would educate their sons.”  
 This is sound sense, for white people as well as  
-Indians ; and no educatio
+Indians ; and no education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851060401:0491/pct:71.303667,5.955335,12.606029,5.893300/!600,600/0/default.jpg"/>
 </td>
@@ -720,7 +673,6 @@ Indians ; and no educatio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Educate Tour Daughter. -  
 A writer says : &quot;When I lived among  
 the Choctaw Indians, I held a consultation  
@@ -755,7 +707,7 @@ home work of education.&quot;
 The Farmer.  
   
 extreme radicalLt, the conservative is a  
-knave the mere tool of a 
+knave the mere tool of a s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1851070201:0370/pct:28.194651,15.814489,64.338782,46.593691/!600,600/0/default.jpg"/>
 </td>
@@ -769,11 +721,6 @@ knave the mere tool of a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in the  
-, UlllCliU lOllll lb Ilii3 UUW 1U1 t&quot; UIOU nm  
-assumed by obtaining thc sanction of the  
-j Board of Health.  
-i -&quot;-  
 Educate your Daughters. A wri-  
 ! ter savs : &quot; When I lived among the.  
 ! Choctaw Indians, I held a consultation  
@@ -794,9 +741,9 @@ mothers they would educate their sons.&#x27;
 j This is to the point, and it is true. No  
 nation can become fully and permanent-  
 ly civilized and enlightened, when the  
-1 things he informed me a
+1 things he informed me at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1851070301:0205/pct:64.974779,57.939115,15.321564,15.965834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1851070301:0205/pct:64.974779,61.005256,15.321564,12.899693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,8 +755,6 @@ ly civilized and enlightened, when the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 EDUCATE YOU it D\uc.HTEita.—4 Wfiter  
 says:—When I lived among the Choctaw  
 Indians, I held a consultation with one of  
@@ -835,7 +780,7 @@ civilized and enlightened, when the moth­
 era aro uot, to a good degree, qualified to  
 discharge the duties of home education.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1851071001:0395/pct:83.596578,71.193265,13.540638,13.933626/!600,600/0/default.jpg"/>
 </td>
@@ -849,23 +794,6 @@ discharge the duties of home education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-me if I have killed her.  
-Here the prisoner became thought­  
-ful, nnd the conversation ceased. On  
-being removed for the purpose of  
-conveving him to Rrooklyti.be said :  
-&quot;There is no use for you to handcuff  
-me; 1 do not wish to leave you. 1  
-only wish to die. There will be no  
-necessity to try me by a jury; it will  
-he only putting the State to expense  
-1 have committed the murder, and 1  
-want to die as soon as possible.&quot;  
-The girl. Elizabeth Conroy, who he  
-stabbed whilst she was attempting to  
-shield his wife from him. is severely  
-wounded, but the physicians do not  
-consider her in a dangerous condition.  
 Educate your Daughters.-When  
 I lived among the Choctaw  
 Indians. I held n consultation with  
@@ -893,9 +821,9 @@ lightened, when the mothers are not,
 to a good decree, qualified to dis­  
 charge the duties of the home woik  
 of education.  
-Cab ages. Ther
+Cab ages. There
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851071801:0306/pct:20.104603,46.727326,13.933054,29.131200/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851071801:0306/pct:20.104603,57.939536,13.933054,17.918990/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,43 +835,7 @@ Cab ages. Ther
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-after the police. In the meantime, Williams had fal-&#x27;  
-!en in with Mr. Ponder, near the City Hotel, and of-;  
-f,.rPrf tn coll h.m tl,o irl f.r St A I ft Ho inHn him i  
-to go and look at her, and was attempting, as we be­  
-fore slated, to dispose of her, when the officers arrived  
-and arrested him. W. stated to officer Johnson that  
-he bought the negro from Mr. Royster, but didn&#x27;t  
-take a bill of sale, as he did not expect to see him  
-again. He afterwards remarked that he designed  
-. . .... . r i- j j  
-rning to the vicinity in which Mr. R. lived, and ,  
-,. ,. ;  
-rem  
-when reminded of his preceding- declaration, appear  
-ed somewhat confused. He accounted for disguising  
-the girl, by stating that he could not obtain girl&#x27;s  
-clothes when he started, and those she had on at the  
-time were unfit to travel in, &amp;c. The mayor contin­  
-ued the further examination of the case unlii the Gth  
-of August ; when it is expected more evidence will  
-be adduced. The prisoner is a ruddy faced man,  
-about 24 or 25 years of age, and did not appear to be  
-much affected by the proceedings against him.  
-Richmond Republican.  
-GREELY FOR STANLY!  
-The last number of that infamous Abolition, agra­  
-rian print, the New York Tribune, contains the fol­  
-lowing :  
-&quot; Perhaps the bitterest contest in these States is  
-that against Edward Stanly, in the Eighth Distric  
-of North Carolina. All the resources of personal  
-hostility and public prejudice are employed against  
-Hm, but though our good wishes would be of little  
-service we earnestly trust Mr. Stanly may be success­  
-UU though the vote must be a close one.&quot;  
-Comment is unnecessary.  
+sary.  
 Educate your Daughters. When I lived among  
 the Choctaw Indians, I held a consultation with one  
 l their principal chiefs respecting the successive  
@@ -962,16 +854,9 @@ His ia to the point, and it is true. No nation can
 fu&quot;y and permanently civilized and enlight­  
 n i&#x27;fiWj en lJ,e mother8 are not, to a good degree  
 quaiined to discharge the duties of the home work of  
-education.  
-Jmportast- fin 90 rS Tin rrrrt&#x27;nr,o Dn . a m  
-&quot; America, we learn that the Sultan of Turkey has  
-5nS! noUc.,that the Hungarian refuges, 700 in  
-number, will be furnished with 5, and Jiven a free  
-passage to the United States. Kossuth will be sent  
-riiies lhere handed OTer t0 the British autbo-  
-at v
+education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851080601:0363/pct:1.038111,62.082805,14.931741,30.291508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851080601:0363/pct:1.123436,78.326996,14.590444,9.516265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,48 +868,6 @@ at v
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-conceal them  
-under the steps, where they were afterwards found.  
-Mrs. C. assisted the negro in putting on the curtailed  
-dress, and was then requested by Williams to permit  
-the girl to remain there until he could find a purchas­  
-er for her. She objected, and W. then obtained the  
-consent of her neighbor. Mrs. Stevenson, for the girl  
-to remain upon her lot, but suspecting that all was  
-not right, after a conversation with Mrs. C. she sent  
-alter the police. In the meantime. Williams had fal  
-len in with Mr. Ponder, near the Oily Hotel, and of­  
-fered to sell him the girl for $410. He induced him  
-to go and look at her, and was attempting, as we be­  
-fore stated, to dispose of her, when the officers arrived  
-and arrested him. W. stated to officer Johnson that  
-he bought the negro from Mr. Royster&#x27;, but didn&#x27;t  
-take a bill of sale, as he did not expect to see him  
-&quot;gain. He afterwards remarked that he designed  
-returning to the vicinity in which Mr. R. lived, and  
-when reminded of his preceding declaration, appear­  
-ed somewhat confused. He accounted for disguising  
-the girl, by statin that he could not obtain girl&#x27;s  
-clothes when he started, and those she had on at the  
-&quot;&quot;i6 Wer&quot; nfit 10 ,ravel &amp;c The ,ni,yr contin­  
-ued the further examination of the case until the Cth  
-of August; when it is expected more evidence will  
-be adduced. The prisoner is a ruddy faced man,  
-about 21 or 25 years of age, and did not appear to be  
-much affected by the proceedings against him.  
-Richmond Republican.  
-GREELY FOrTsTVNLY !  
-The last number of that infamous Abolition, agra­  
-rian print, the New York Tribune, contains the folr  
-lowing : .....  
-&quot; Perhaps the bitterest contest in these States is  
-that against Edward Stanly, in the Eighth Distric  
-of North Carolina. All the resources of personal  
-hostility and puhlic prejudice are employed against  
-nim, but though our good wishes would be of little  
-service we earnestly trust Mr. Stanly maybe success­  
-ful, though the vote must be a close one.&quot;  
-Comment is unnecessary.  
 Educate voua Dacghtbbs. When I lived among  
 tne Choctaw Indians, 1 held a consultation with one  
 ot their principal chiefs respecting the successive  
@@ -1037,23 +880,9 @@ zea w,veS; anu the uniform result was, that the chil­
 li hi! 6 . hk.elha mother; and 80011 tha father  
 now&quot; nDeKe8t..ln,bolh wife and children. &quot;And  
 of oil, t!fi ,f we cou,d educate only one class  
-?he bi &quot;&#x27;T&quot; Would choo8e Ae girl. ; for when  
-become full P,nt&#x27; aDd it is true, v No nation can  
-&quot;y.?nd Permanently isivilized &quot; i  
-qualified r.lKur! &quot; nH ?  
-rge the duties of the home work of  
-education  
-er w7NT-e W f Hungarians. By the steam­  
-CTZt rhetrD,thlhe Sulun of Turkey has  
-numbeT wi bVaI, -thKHu,gar&#x27;,an tuges,700  
-Passat to X. i&quot;?&quot;.&quot; witn d given a free  
-to V.JJm,?d States. Kossuth will be sent  
-rities,  
-mere handed over to the British autho  
-P -T  
-at Ne
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851080601:0324/pct:1.188966,57.942170,14.505390,34.597572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851080601:0324/pct:1.268231,79.133809,14.362714,5.883089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +894,6 @@ at Ne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_  
 Educate your Daughters.—A writer  
 soys:—When I lived among the Choctaw  
 j Indians, I held a conversation with one of  
@@ -1088,21 +916,11 @@ become permanently and truly civilized and
 enlightened, when the mothers are not L  
 a &quot;ood degree, quaked to discharge the du­  
 ties #f the home work of education.  
-*■ ’•
+*■ ’• 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0330/pct:71.598198,83.793506,13.197762,11.928835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Arrest of a Slave Abductor
-
-#### From _The Boston daily Atlas._
-
-#### 1851-08-08 &middot; [Boston [Mass.]](http://dbpedia.org/resource/Boston)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -1112,20 +930,7 @@ ties #f the home work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to “ look not upon the wine,”  
-nor let that look on us.1 If you look at it, you  
-may drink—at the last, it bitetli and holds like a  
-sepent.  
-Moderate drinker l as you draw the intoxicating  
-liquor into your mouth, think of the snake and  
-the toad. As you swallow that, so is the snake  
-swallowing you. Every glass that goes down puts  
-you lower. You may think it easy getting away.  
-But ask the poor drunkard if it is easy. No-! it  
-is not easy. Now escape for your life. Wait not  
-till you get where that poor drunkard was/Shd,  
-as you see a poor toad in the mouth of a serpent,  
-—cry out, That’s me, That&#x27;s me.  
+s me.  
 Educate your Daughters. When I lived  
 among the Choctaw Indians, I held a consultation  
 with one of their principal chiefs respecting the  
@@ -1148,34 +953,9 @@ degree qualified to discharge the duties of the
 home work of education.  
 “ Nose too Pretty to Die.” A devoted min­  
 ister, who formerly resided in Vermont, was one  
-day seated in a room where two of hi
+day seated in a room where two of his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1851081301%2F0450.jp2/pct:55.019685,18.216522,16.555118,24.202168/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Republican and patriot._](https://newspapers.digitalnc.org/lccn/sn91068540/1851-08-14/ed-1/seq-1/)
-
-#### 1851-08-14 &middot; [Goldsboro, N.C.](http://dbpedia.org/resource/Goldsboro%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- .  
-Greelt for Stanly I The Iat number  
-of that abolition, agrarian print, the N. Y.  
-Tribune, contains the following :  
-a Perhaps the bitterest contest in these  
-States is that against Edward Stanly, in the  
-Eighth District of North Carolina. , All the  
-resources of personal hostility and public prej­  
-udice are empiyd against him, bat though  
-nnr muni vw isiim n uuiu uo u&amp; .iiliid cwbw ilu .  
-inp en.rns.sllv trust Mr. Slant v mav be succesr ,  
-fuly though the vote must be a close&#x27; one
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RepNB4n_ver01%2Fdata%2F1851081401%2F0021.jp2/pct:80.267768,80.373657,14.677177,6.576366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1851081301%2F0450.jp2/pct:55.019685,26.294091,16.417323,16.124599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,21 +967,6 @@ fuly though the vote must be a close&#x27; one
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd proiit.  
-Idleness also produces rest, but no profit;  
-but it a nut a who has been working half the  
-day, and is fatigued, sits down to his lapstone  
-Jhe other, he bt comes equally rested, and nt  
-&quot; (hfi ;ame time makes a pair of shoes. Soil  
-i in tins lespeet, very much like man; it be  
-foiiics resled by a enange of crop, and yet  
-Joses no time.  
-It, is therefore, a great advantage to have  
-. jwm that will produce the greatest variety of  
-crops. Upland is also better for fruit. For  
-grass, it is frequently as good as bottom land,  
-, o.vy if. requires more and better preparation,  
-- U&#x27;cy,Vc Agriculturist.  
 Educate Your Daughters,  
 A writer says:  
 &quot; -hr-n I lived among the Choctaw Indians  
@@ -1225,9 +990,9 @@ rs. lTney would educate their sons. This
 become fully and permanently civilized and  
 f nlightened, when the mothers are not, to a  
 good degree, qualified to discharge the du­  
-ties oihome education
+ties oihome education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1851082701:0155/pct:3.900446,44.193122,13.595840,23.915344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1851082701:0155/pct:3.974740,53.862434,13.521545,14.246032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,8 +1004,7 @@ ties oihome education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Manches­  
-ter, U.) Democrat.  
+rat.  
 Educate your Daughters.—A writer  
 says:—“When I lived among the Choctaw  
 Indians, I held a consultation with one of  
@@ -1264,9 +1028,9 @@ mothers are not, to a good degree, qualified
 to discharge the duties of the homework of  
 education; since the right direction of that  
 department is of vastly more importance than  
-th
+the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851101901:0004/pct:34.186610,42.191751,9.739473,9.130482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851101901:0004/pct:34.186610,42.539993,9.739473,8.782240/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,8 +1042,6 @@ th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 EDUCATE YOUR DAUGHTFRS-A wri­  
 ter says: &quot;When I lived among the  
 Choctaw Indians, I held a consulation  
@@ -1309,7 +1071,7 @@ work of education.&quot;
 Col. Fitzhenry Warren, Second As.  
 sistant P. M. General, will, after the  
 15th inst., exchange situations with  
-Gen. Jncohs, the presen
+Gen. Jncohs, the present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1851111301:0593/pct:5.756180,77.439417,12.522911,18.475231/!600,600/0/default.jpg"/>
 </td>
@@ -1323,9 +1085,9 @@ Gen. Jncohs, the presen
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Col. Fitzhenry Warren, Second Assis­  
-tant!&quot;. M. General, will, after the 15th inst.,
+tant!&quot;. M. General, will, after the 15th inst.,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1851111401:0398/pct:70.238718,41.101098,12.284370,0.957477/!600,600/0/default.jpg"/>
 </td>
@@ -1339,7 +1101,6 @@ tant!&quot;. M. General, will, after the 15th inst.,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 I lived among-the ChXJCtaw Indiana, I  
   
 held a consultation jiJffith.ione -of their  
@@ -1353,7 +1114,7 @@ first start they mil in to a great mistake, -tliey
 only I sent their boys tor sclibbl-  
 they became intelligent, men, but . they  
   
-married--iaieducated-and nnciYilizud4 o
+married--iaieducated-and nnciYilizud4 on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen12n_ver01%2Fdata%2F1851111501%2F0147.jp2/pct:3.144836,35.407240,13.920946,5.837104/!600,600/0/default.jpg"/>
 </td>
@@ -1367,7 +1128,6 @@ married--iaieducated-and nnciYilizud4 o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 .  
 EDtCATE FOUR DAHTERs.A wri-  
 ter says:-&quot;When I lived among the  
@@ -1409,7 +1169,7 @@ the home-work education; since the
 right direction of that department is  
 O.  
 stly more amportance  
-hent training of th
+hent training of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1851120201:0187/pct:6.147837,70.454284,12.454795,20.460035/!600,600/0/default.jpg"/>
 </td>
@@ -1423,7 +1183,7 @@ hent training of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-perate man.  
+erate man.  
 EDUCATE YOUR DAUGHTERS.-A wri­  
 ter says: &quot;When I lived among the  
 Choctaw Indians, I held a consultation  
@@ -1447,7 +1207,7 @@ is true. No nation can become fully and
 permanently civilized and enlightened -;  
 when their mothers are not, to a good  
 degree, qualified to diischarge the duties  
-of the home work of education.
+of the home work of education.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288282:1851120401:0146/pct:83.502387,61.664125,15.975537,15.269005/!600,600/0/default.jpg"/>
 </td>
@@ -1471,7 +1231,6 @@ of the home work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 EDUCATE YOUR DAUGHTERS.  
   
 A writer in the Farmer and Pianter says :—  
@@ -1486,7 +1245,8 @@ first start they fell intoa mistake—they only sent
 | ized wives ; and the result was that the children  
 were all like the mother, and soon the father lost  
 his interest in both wife and children. ‘  
-| now,’ said he, ‘if we could educate only one class
+| now,’ said he, ‘if we could educate only one class  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1855-01-06_10_1%2Fsim_flag-of-our-union_1855-01-06_10_1_jp2.zip%2Fsim_flag-of-our-union_1855-01-06_10_1_jp2%2Fsim_flag-of-our-union_1855-01-06_10_1_0001.jp2/pct:61.003717,78.460100,12.788104,6.935786/600,/0/default.jpg"/>
 </td>
@@ -1500,7 +1260,7 @@ his interest in both wife and children. ‘
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, -indicate the true lady.; r  
+-indicate the true lady.; r  
 k A writer in4he Farmer ai.d Planter says :  
 i4When I lived among the, Choctaw In­  
 disns.I held a consultation witBonTof their  
@@ -1524,7 +1284,7 @@ could educate only one class of our children,
 oium euucnie vuiv one vna vt uur vunurcu,  
 wa wM Mmn tli irirlt fnr when, thee  
 become motherathey would, eduotte their  
-sons.&quot;&#x27;
+sons.&quot;&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_bonanza_ver01%2Fdata%2Fsn84022662%2F22222222223%2F1855022401%2F0010.jp2/pct:49.899112,37.964718,25.665860,11.823881/!600,600/0/default.jpg"/>
 </td>
@@ -1538,8 +1298,6 @@ sons.&quot;&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_  
-  
 FEMALE EDUCATION.  
   
 “ Like mother, like children.” The Rev. S.  
@@ -1563,7 +1321,7 @@ is to the point, and it is true. No nation can
 become fully and permanently civilized and  
 enlightened where the mothers are not, toa  
 good degree, qualified to discharge the duties  
-of the home work of education
+of the home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1855-06-14_29_8%2Fsim_youths-companion_1855-06-14_29_8_jp2.zip%2Fsim_youths-companion_1855-06-14_29_8_jp2%2Fsim_youths-companion_1855-06-14_29_8_0003.jp2/pct:53.128286,9.450355,20.846477,16.294326/,600/0/default.jpg"/>
 </td>
@@ -1577,7 +1335,6 @@ of the home work of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 FENALE EDUCATION.&quot;Like mother, like child.­  
 ren. The Rev.S. Dyersay: &quot;When residing among  
 the Choctaw Indians, I held a conversation with  
@@ -1599,7 +1356,7 @@ fully and permanently civilized and enlightened
 where the mothera are not, to a good degree, qual.­  
 ified to discharge the duties of the home work of  
 education.&quot;  
-CoNGREsSIoN
+CoNGREsSIoNa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:0020219056A:1855090101:0088/pct:17.193948,85.055740,13.730595,10.684694/!600,600/0/default.jpg"/>
 </td>
@@ -1613,7 +1370,6 @@ CoNGREsSIoN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_  
 FEMALE EDUCATION.  
 •Like mother, like children/ The Rev. S.  
   
@@ -1639,7 +1395,7 @@ manently civilized and enlightened where the
 mothers arc not, to a good degree, qualified to  
 discharge the duties of the home work of  
 education.&#x27;  
-In Abyssini
+In Abyssinia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855090701:0707/pct:80.787789,41.191856,12.525849,12.731514/!600,600/0/default.jpg"/>
 </td>
@@ -1653,7 +1409,6 @@ In Abyssini
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-9  
 A writer in the Farmer andj Planter says  
 &quot; When I lived among the Choiiaw Indiana. 1  
 held a consultation with one of  
@@ -1673,7 +1428,7 @@ of our children j we would choose
 the cirls : for  
 when they become mothers, thav  
 would educate  
-Mr. fiUmore.&#x27; Th
+Mr. fiUmore.&#x27; The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat23n_ver01%2Fdata%2F1856012501%2F0219.jp2/pct:65.104712,32.020619,14.895288,10.608247/!600,600/0/default.jpg"/>
 </td>
@@ -1687,8 +1442,6 @@ Mr. fiUmore.&#x27; Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 FEMALE EDUCATION.—&#x27;Like mother,  
 like children.* The Rev. S. Dyer says:—  
 When residing among the Choctaw In­  
@@ -1709,7 +1462,8 @@ if we could educate only one class of our
 children, we would choose the girls, for  
 when they become mothers they would  
 educate their sons.* This is to the point,  
-and it is true.
+and it is true.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1856020901:0009/pct:18.852580,68.125870,13.869585,11.645082/!600,600/0/default.jpg"/>
 </td>
@@ -1723,8 +1477,6 @@ and it is true.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 FEMALK EDUCATION.—&#x27;Like mother,  
 like children.* The Rev. S. Dyer says:—  
 When residing among the Choctaw In­  
@@ -1744,7 +1496,8 @@ wife and children. &#x27;And now,&#x27; said he,
 children, we would choose the girls, for  
 when they become mothers they would  
 educate their sons.&#x27; This is to the point,  
-and it is true.
+and it is true.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1856020901:0010/pct:18.809981,67.749866,13.834342,11.694281/!600,600/0/default.jpg"/>
 </td>
@@ -1758,7 +1511,7 @@ and it is true.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ved and repaired.  
+ed and repaired.  
 A writer in the Farmer and Planter  
 says: &quot;When I lived among the Choctaw  
 j Indians, I held a consultation with one of their  
@@ -1777,7 +1530,7 @@ educate ouly oue class of our children,we would
 choose the girls, for when they become mothers,  
 tbcj would educate their sous.  
 It is stated American priuted muslin de  
-laines are coming int
+laines are coming into
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856032701:0654/pct:43.781557,3.535726,26.415094,91.455330/!600,600/0/default.jpg"/>
 </td>
@@ -1791,7 +1544,6 @@ laines are coming int
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i  
 weeks in succession for getting drunk, coolly  
 proposed to the judge that they should take  
 him by the year at a reduced rate.  
@@ -1812,7 +1564,8 @@ lost his interest in both wife and children.
 &quot;And now,&quot; said he, &quot;if we could educate only  
 ope class of our children, we would choose the  
 girls; for when they become mothers, they  
-would educate their sons.&quot;
+would educate their sons.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1856040301:0090/pct:79.381898,79.678942,12.160202,9.834750/!600,600/0/default.jpg"/>
 </td>
@@ -1826,7 +1579,7 @@ would educate their sons.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 3ee wain  
+3ee wain  
 EDUCATE YOUR DAUGHTERS.A writer in  
 the Farmer and Planter, says: When I  
 lived among the Chocktaw Indians, I held a  
@@ -1843,7 +1596,7 @@ and soon the father lost in both wife and chil­
 dren. &quot;And now, said he, &#x27;if we could edu­  
 cate only one class of our children, we would  
 choose the girls; for when they become moth­  
-ers, they would educate the sons.
+ers, they would educate the sons.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1856040801:0926/pct:65.072464,63.929369,13.710145,10.073396/!600,600/0/default.jpg"/>
 </td>
@@ -1857,7 +1610,6 @@ ers, they would educate the sons.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A writer in the Farmer and Planter  
 r r  
 ..! T I&#x27; I f i  
@@ -1879,7 +1631,7 @@ our children, we would choose the girls, for
 when they become mothers, they would edu  
 cate their sons. - ,  
 The Aoa of a Horse. A man, who  
-wanted to buy a hors
+wanted to buy a horse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshNMF1n_ver01%2Fdata%2F1856041001%2F0433.jp2/pct:33.772379,63.068129,15.217391,13.934964/!600,600/0/default.jpg"/>
 </td>
@@ -1893,8 +1645,6 @@ wanted to buy a hors
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 EDUCATE YOUR DAUGHTERS. A  
 writer in the Farmer and Planter says:  
 &quot;When I lived among the Choctaw In­  
@@ -1917,7 +1667,7 @@ girls, for when they become mothers,
 they would educate their sons.&quot;  
 CAN&#x27;T YoUTHROW ALITTIaO That  
 in- Can you take off my baird here?&quot;  
-said a grave
+said a grave,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn88064473:00295872445:1856041701:0219/pct:60.078278,65.813442,16.780822,17.163945/!600,600/0/default.jpg"/>
 </td>
@@ -1941,7 +1691,7 @@ said a grave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. —A writer in  
+—A writer in  
 the Former and Planter says ; &quot;When I lived  
 among tho Choctaw Indians, I held a consul­  
 tation with one of their principal chiefs re­  
@@ -1960,7 +1710,7 @@ for when they become mothers, they would ed­
 ucate their sons.’ &quot;  
   
 (£7&quot; A week or so ogo, the jail at Spartans­  
-burg, S. C., had one tenan
+burg, S. C., had one tenant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001736%2F1856050801%2F0065.jp2/pct:32.493898,67.997187,11.715110,9.095305/!600,600/0/default.jpg"/>
 </td>
@@ -1974,7 +1724,6 @@ burg, S. C., had one tenan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Educate your Daughters.-:  
 Farrner and Planter says :  
 &quot; When I lived among the&#x27;  
@@ -1998,7 +1747,7 @@ thers they would educate their sons.&quot;
 Prejudice Broken -Down. The mosque of pmar  
 at Jerusalem, built on&#x27; the site of the temple, which  
 has until recently been closed against foreigners, i.v  
-now open to travelers. Th
+now open to travelers. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW9n_ver01%2Fdata%2F1856063001%2F0599.jp2/pct:60.668418,36.436498,17.775832,11.323469/!600,600/0/default.jpg"/>
 </td>
@@ -2022,8 +1771,6 @@ now open to travelers. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ?W lien I lfredatnonff the Choctaw  
 Uuiana, I told a consultation with .one  
 of their respectable ehieft respecting  
@@ -2043,7 +1790,7 @@ class of our children, we should choose i
 the girls, tor when they become moth- ]  
 Mrs, they would educate their sons.&quot;  
 A stout red faced gentleman, in t  
-jvhite beaver, bluo coa
+jvhite beaver, bluo coat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85027003:00415620111:1856071001:0396/pct:34.268666,5.287328,16.674730,14.198833/!600,600/0/default.jpg"/>
 </td>
@@ -2059,7 +1806,6 @@ jvhite beaver, bluo coa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 EDUCATE YOUR DAuaiiTiäns.-A writer in  
 the Farmer and Planter says:-&quot; When I  
 lived among the Ohoctaw Indians I held n  
@@ -2079,7 +1825,7 @@ both wife and children. &#x27;And now,&#x27; said
 he, &#x27;if «e could educate only one class  
 of our childien we fbould choose the  
 girls for whon they become mothers they  
-would educato their son-«.&#x27; 
+would educato their son-«.&#x27; &quot;
 </td></tr></table>
 
 ---
@@ -2090,7 +1836,6 @@ would educato their son-«.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 &#x27;•When I heed among the Choctaw Wine, I  
 held a consultation with one of their chicfs re­  
 specting tho i.oceessive stages of their progress  
@@ -2110,7 +1855,8 @@ point, and it is true. No nation can become fol­
 ly and permanently civilized and enlightened,  
 when the mothers are not in a good degree  
 qualified to discharge the duties of the home  
-work of education.
+work of education.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fides_ver01%2Fdata%2Fsn84026382%2F000002596%2F1857021101%2F0033.jp2/pct:60.870536,50.282881,9.428571,6.682641/!600,600/0/default.jpg"/>
 </td>
@@ -2124,7 +1870,7 @@ work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; indeed,  
+indeed,  
 it i ptesuied her entire dress and adorn  
 merits could not have fallen short of ffty  
 thousand dtJUirs? And yet in tjhis very city ,  
@@ -2153,7 +1899,7 @@ the point aid&#x27;,k is true. N iai n can
 become fully and pennanc-ritly civilized and  
 enlightened;-, when the piotiirs arc. not in a  
 good degree tfjualiaV 1 -tn discharge the da­  
-ties of the homo work ,fr educatiou
+ties of the homo work ,fr educatiou.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1857021701%2F0022.jp2/pct:62.453482,56.945713,12.998405,17.026890/!600,600/0/default.jpg"/>
 </td>
@@ -2167,8 +1913,6 @@ ties of the homo work ,fr educatiou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 thelr  
   
 boys to  
@@ -2196,7 +1940,8 @@ No nation can become fully
 enlightened,  
   
  when the mothers are not in a good degree  
-qualified to discharge the duties of the home
+qualified to discharge the duties of the home  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528645:1857021701:0886/pct:17.415365,88.297872,15.462240,6.551329/!600,600/0/default.jpg"/>
 </td>
@@ -2210,7 +1955,7 @@ qualified to discharge the duties of the home
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iles!&quot;  
+les!&quot;  
 EDUCATE YOUr DAUGHters.  Awriter  
 says: &quot;When I lived among the Choctaw  
 Indians I held a consultation with one of  
@@ -2236,46 +1981,9 @@ work of education.
 MILITIA OF THE UNITEd STATES.-An ex­  
 hibit of the militia of the several States and  
 Territories, taken from the latest returns that  
-have been received at the War Department,  
-has been communicated by that Department  
-to Congress. The returns are by no means
+ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857022001:0241/pct:41.650410,73.876447,12.719469,15.752292/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Daily Louisville Democrat._](https://archive.org/details/xt7cfx73vq0h/page/n1/mode/1up?view=theater)
-
-#### 1857-02-22 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-. ; &lt;*«. ^ -«*. .**. «,&gt; «»  
-  
-nn hour; aud ev#n after some days sexposure to j 6 .. I most sumptuous fare that could possibly be im-  
-  
-the air, the phosphorescence is still exhibited. MrioU8 Winston, as to the whereabout, of , ;igined  
-  
-Some time miv, therefote, elapse, and vet the lbo iUlin,al and the flte of lhe • un *** aud con ‘ J l ‘ e MUsis^ippi water is most horribly muddy,  
-.... — tents, h* retraced his steps homeward. Upon i *™ I refused to drink it without accompama-  
-  
-JEW AND DESIRABLE GOODS RE- }{»•&gt;«»&gt; -  
-  
-\ wived daily at MAKTW * PESV)^, No. W s&#x27;iodie &#x27;  
-  
-process will b« effectual.  
-  
-L7“ An exhibit of the militia of the several  
-Stales and Territories, taken from the last re-  
-urns that have been received at the War De-  
-partment, has been communicated by that De-  
-partment to Congress. Thc returns are by no  
-  
-accompania-
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7cfx73vq0h%2Fxt7cfx73vq0h_jp2.zip%2Fxt7cfx73vq0h_jp2%2Fxt7cfx73vq0h_0001.jp2/pct:4.418408,60.498714,55.321852,8.490006/600,/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857022001:0241/pct:41.650410,73.876447,12.699961,14.790320/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2287,7 +1995,6 @@ accompania-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 3uCAPE YOUR DAUGHTERS. A writer says; when  
 Ilived amina the thotfan inttaedbt coet  
 tation with one of their chiefs respecting the suc  
@@ -2302,7 +2009,7 @@ soon lost all his interest in both wife and children.
 And now; sid be, we shoud thoose the irls for  
 when they become mothers they would edua tie  
 sons.&quot; This is the point, and it is true. No nation  
-an become ully a
+an become ully an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857022301:0222/pct:57.643581,82.521985,13.302365,6.783920/!600,600/0/default.jpg"/>
 </td>
@@ -2316,7 +2023,6 @@ an become ully a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 EDUCATe YOcR DAu  
 ays:When I lived among the Choctaw  
 Indians, I held a consultation with oneof  
@@ -2342,7 +2048,8 @@ ae e  oee ee  a
 e, when the motsiors are notme ood de  
 gree qualified to discharge the duties of th  
 home work of education.  
-bor iss tss ss
+bor iss tss ss  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021908:1857022401:0077/pct:6.423895,78.261738,15.043644,12.147852/!600,600/0/default.jpg"/>
 </td>
@@ -2356,8 +2063,6 @@ bor iss tss ss
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Educate your Daughters.—A renowned  
 writer says :  
 “ When I lived among the Choctaw Indians,  
@@ -2387,7 +2092,8 @@ in Allegany. He has become the property of
 James McArthur, timber-dealer, in Omial.  
 The recent intensely cold weather has kept this j  
 large, black, shaggy animal in high spirits. I  
-When they take him into the forest among the
+When they take him into the forest among the  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857030501:0456/pct:50.377741,54.743210,15.238622,16.591582/!600,600/0/default.jpg"/>
 </td>
@@ -2401,7 +2107,6 @@ When they take him into the forest among the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 les.  
   
 Educate Your Daughters. A  
@@ -2427,7 +2132,8 @@ and it is true. No nation cun become
 fully and permanently civilized and en­  
 lightened, when the mothers are not in a  
 good degree qualified to discharge the du­  
-ties of the home work of education.
+ties of the home work of education.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_escalus_ver03:data:sn83016847:00517012300:1857030601:0492/pct:8.835182,70.549339,11.436873,13.631740/!600,600/0/default.jpg"/>
 </td>
@@ -2441,7 +2147,6 @@ ties of the home work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 E UoATE YOUN DAC OurEES. A  
 writer says. &quot;When I lived among the  
 Choctaw indians, I held a consuetation  
@@ -2469,7 +2174,7 @@ mothers are not in a good degree
 qualified to discharge the duties of the  
 home work of education.  
   
-o
+ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857030701:0288/pct:13.991081,10.514996,12.775920,13.139762/!600,600/0/default.jpg"/>
 </td>
@@ -2483,13 +2188,12 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Dr. Kane’s Dog.—The Arctic dog brought  
 home hy Er Kano has strayed a wav oft’ in Alleghany. He  
 has become tho property of James McArthur, timber deal­  
 er, in Oramel. The recently interne cold weather has kept  
 this large, black, shaggy animal in high spirits When  
-they take him into the forest among tbe
+they take him into the forest among tbe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857030801:0007/pct:30.813953,32.862323,12.121212,1.988246/!600,600/0/default.jpg"/>
 </td>
@@ -2503,7 +2207,6 @@ they take him into the forest among tbe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 EDECATE VOUR DAUOHTERS-A wri-  
 ter says: &quot;When I lived among the  
 Choctaw Indians, I held a consultation  
@@ -2530,7 +2233,7 @@ are not in a good degree qualified to
 discharge the duties of the home work of  
 education.  
 ThE PoOR BLACKS. Dr. Livingston,  
-th
+the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857031801:0648/pct:84.404786,57.208202,12.249037,15.646688/!600,600/0/default.jpg"/>
 </td>
@@ -2544,8 +2247,6 @@ th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Educate Your I&gt;au*hters.  
 A writer says: when I lived among the  
 Ciioctaw Indians, 1 he d a consultation with  
@@ -2567,7 +2268,8 @@ I and it is true. No nation can become tul&#x27;y
 1 and permanently civilized and enlightened  
 when tbe mothers are not in a good degree  
 qualified to di-cliarge the duties of the home  
-work ofeduca&#x27;ion.
+work ofeduca&#x27;ion.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn88064476:00295876074:1857032101:0259/pct:27.721774,13.934659,16.290323,12.556818/!600,600/0/default.jpg"/>
 </td>
@@ -2591,7 +2293,7 @@ work ofeduca&#x27;ion.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and OUU Ken.aeky Man, .tortured T«l*eeo for mU by!  
+and OUU Ken.aeky Man, .tortured T«l*eeo for mU by!  
 llized wives, und the mi.lorm result was, K. UUP.GE, «t No. 37 u Main atreet, between Saventli  
 tho children were all like the mother. dud £,ghth - 10f) boxM Ponnds .  
   
@@ -2604,7 +2306,7 @@ hundred. permanently civilized aud enlightened, when
   
 An interesting revival has taken place at the mothers are not in a good degree qualified  
 Georgetown, Ky., recently. The Baptist Record- to discharge the duties of the home work of  
-ero
+erof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7t4b2x4c86%2Fxt7t4b2x4c86_jp2.zip%2Fxt7t4b2x4c86_jp2%2Fxt7t4b2x4c86_0002.jp2/pct:31.895701,47.161528,38.181818,5.876484/600,/0/default.jpg"/>
 </td>
@@ -2618,7 +2320,7 @@ ero
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a  
+a  
 Indians, I held a consultation with  
 one of their chiefs respecting the suc-  
 cessive stages of their progress in the  
@@ -2646,7 +2348,7 @@ eee
 qualified to discharge the duties of  
 the home-work of education.  
 The health of Genr Cass is failing.  
-so th
+so the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857041701:0303/pct:71.993931,54.598628,13.946137,13.937071/!600,600/0/default.jpg"/>
 </td>
@@ -2670,7 +2372,7 @@ so th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n told.  
+told.  
 The Mother Moulds the Max. That it  
 is tho mother who moulds tho man is a  
 sentiment beautifully illuatrated by the  
@@ -2698,7 +2400,7 @@ become fully enlightened whon tho moth­
 ers are not, in a g i l d &#x27;gree, qu tlified to  
 discharge tho duties of the home-work of  
 education.  
-A number of nit&#x27;ss will soon l
+A number of nit&#x27;ss will soon le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:0020029452A:1857042301:0256/pct:44.128878,74.785847,13.042959,20.074488/!600,600/0/default.jpg"/>
 </td>
@@ -2712,7 +2414,6 @@ A number of nit&#x27;ss will soon l
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 &quot;When I lived among the Choctaw Indians, I  
 held a consultation with oue of their principal  
 chiefs respecting the successive stages of their pro­  
@@ -2728,7 +2429,7 @@ we could educate only one class of our children,
 we would choose the girls; for when they become  
 mothers, they would educate their sons.&quot;  
 And this reminds me that there is one most im­  
-portant item in the education o
+portant item in the education of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857052901:0517/pct:46.937631,27.513068,11.983181,6.735022/!600,600/0/default.jpg"/>
 </td>
@@ -2742,7 +2443,7 @@ portant item in the education o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o-  
+-  
   
 Educate your Daughters-  
 A writer nays &quot;When I lived among the  
@@ -2770,7 +2471,7 @@ children, we should cliooso the girls, for i Macon and the Light House, and spen
   
 when thev become mothers they would edu- a pleasant evening in batning in tne surt ana  
   
-and attention to guests, 1. L. Hall i
+and attention to guests, 1. L. Hall is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857070101:0459/pct:3.676471,37.028302,51.148091,12.981132/!600,600/0/default.jpg"/>
 </td>
@@ -2784,14 +2485,13 @@ and attention to guests, 1. L. Hall i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 cato their eons.&quot; This u to the point, and  
 is truo. No nation can become fully and  
 permanently civilized and enlightened, when  
   
 tho uiothcru are not in a good degrea quali­  
 fied to discharge the dutien of the homo work  
-of education
+of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857070101:0459/pct:3.934469,50.141509,12.448400,3.207547/!600,600/0/default.jpg"/>
 </td>
@@ -2805,7 +2505,6 @@ of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-|  
 tilt.  
   
 The Mother Moulds the Man.—That  
@@ -2833,7 +2532,8 @@ the point and it is true. No nation can
 become fully enlightened when mothers  
 are not in a good degree, qualified to  
 discharge the duties of the home-work of  
-education.
+education.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857070401:0109/pct:41.364540,32.772036,12.880526,16.420857/!600,600/0/default.jpg"/>
 </td>
@@ -2847,7 +2547,7 @@ education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Clerk.  
+Clerk.  
   
 The Mother Moulds the Man —That &lt;t is  
 who moulds t^e man, is a -cntrment  
@@ -2874,7 +2574,7 @@ ei&gt; are not. in a good degree, qualified to dis- 1
 charge the duties of (he home-work of educa  
 tion &quot;  
   
-ETDr Jo
+ETDr Jon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7f4q7qr46k%2Fxt7f4q7qr46k_jp2.zip%2Fxt7f4q7qr46k_jp2%2Fxt7f4q7qr46k_0002.jp2/pct:5.861647,80.295397,14.508724,13.613465/,600/0/default.jpg"/>
 </td>
@@ -2898,7 +2598,6 @@ ETDr Jo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 TUr Mnl/irr MnuUh the J/nti?That it is Mic  
 mother who moulds the man, is n sentiment illustrated  
 hy the f&lt;dlowing recorded observation  
@@ -2923,7 +2622,7 @@ true. N?&gt; nation can become fully enlightened
 when mothers are not, in n good degree, qualified  
 to discharge the duties of the home work of  
 education.&quot;  
-The Slave
+The Slave 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857090301:0662/pct:56.576885,67.363072,16.075246,11.236589/!600,600/0/default.jpg"/>
 </td>
@@ -2937,7 +2636,7 @@ The Slave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- visit I  
+visit I  
 Tns Mother Moulds the Man.—That it is  
 the mother who moulds the mao, is a sentiment  
 illustrated by the following recorded observation  
@@ -2961,7 +2660,7 @@ is the point, and it is true. No nation can be­
 come fully enlightened when mothers are not, in  
 a good degree, qualified to discharge the duties  
 of the home-work of education.”  
-Oysters.—Th
+Oysters.—The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857090901:0343/pct:56.477652,44.024923,12.568379,11.624663/!600,600/0/default.jpg"/>
 </td>
@@ -2975,7 +2674,6 @@ Oysters.—Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 Thot it is the jnotitor wlio mouldn tho man, j  
 in 11 sentiment illustrated bv tlu\ following  
 recorded observation of a shreyrd writer :  
@@ -3002,7 +2700,7 @@ No nation can beconio fully enlightened
 when mother* are not, in a good degree,  
 qualified to discharge the duties of the  
 homework of education.&quot;  
-A
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1857091201:0513/pct:49.908683,5.847226,32.973601,91.639711/!600,600/0/default.jpg"/>
 </td>
@@ -3016,7 +2714,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The Mother Moulds tbe Man. That it  
   
 is the mother who moulds the man, is a Ben-  
@@ -3055,7 +2752,7 @@ nation can become fully enlightened when
 mothers are not m a good degree, qualified  
 to discharge the duties of the home work of  
   
-education.&#x27; ,
+education.&#x27; , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1857091601:0729/pct:43.951613,82.349416,12.480799,11.102787/!600,600/0/default.jpg"/>
 </td>
@@ -3069,7 +2766,6 @@ education.&#x27; ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The Morneu Mowts he Mas,  
 That it is the mother who moulds the  
 man, is a sentiment illustrated by the  
@@ -3097,7 +2793,8 @@ This is the point, and it is true. No na
 tion can be folly enlightened when moth  
 are not, in a good degree, qualifled to  
 discharge the duties of the home work of  
-education.&quot;
+education.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1857091601:0365/pct:17.987642,77.275659,15.671678,15.799659/!600,600/0/default.jpg"/>
 </td>
@@ -3111,7 +2808,6 @@ education.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-T  
 The iMOTuea Moulds tub Max. That  
 it is the mother who moulds the man. is a  
 sentiment illustrated by the folio ioff re  
@@ -3136,7 +2832,8 @@ they educate their sons. .This is the point.
 and it is true. : &#x27;No nation can become en  
 lightened whett f mothers are not in a erood  
 degree, qualified to discharge the duties of  
-tue home work of tducition,&#x27;
+tue home work of tducition,&#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1857092201%2F0148.jp2/pct:21.886947,83.176036,12.971054,13.120640/!600,600/0/default.jpg"/>
 </td>
@@ -3150,8 +2847,6 @@ tue home work of tducition,&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ack.  
-  
 THE MOTHER MOULDS THE MAN.-.,That it  
 is the mother who moulds the man, is 4 sen­  
 timent illastrated by the following recorded  
@@ -3175,9 +2870,10 @@ they educate their sons. This is theo ut
 and it is traie No nation can become fally  
 enlightened bhen mothers are not, itikood  
 degree, qualifedtodischlrge the duties of the  
-home-work of edaeition.&quot;
+home-work of edaeition.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212475051:1857092602:0367/pct:57.321208,73.758278,12.854501,13.836329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212475051:1857092602:0367/pct:57.321208,74.680700,12.854501,12.913907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3189,7 +2885,7 @@ home-work of edaeition.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, says :  
+says :  
 “ When I lived among the Choctaw Indians, I held a con­  
 sultation with one of their chiefs respecting tbe successive  
 stages of their progress in the arts or civilized life ; and  
@@ -3206,7 +2902,7 @@ This is the point, and it is true. No nation can become
 fully enlightened when mothers are not, in a good degree,  
 qualified to discharge the duties of the home work of edu­  
 cation.”  
-If it be not th
+If it be not the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857100401:0003/pct:17.895290,21.664795,12.011907,5.753151/!600,600/0/default.jpg"/>
 </td>
@@ -3220,7 +2916,7 @@ If it be not th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- rhenother noulds the han  
+rhenother noulds the han  
   
 That it is the mother that moulds the man,  
 is a sentiment illustrated by the following  
@@ -3253,7 +2949,7 @@ ad Wo nation can become tully en
 lightaned when mothers are not, in a wood  
 qualisied to discharge the duties to  
   
-ed in the same clear voic
+ed in the same clear voice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1857111901:0950/pct:2.955579,73.752908,24.833858,21.568881/!600,600/0/default.jpg"/>
 </td>
@@ -3267,7 +2963,6 @@ ed in the same clear voic
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-is deadliest  
 ThE MOTHER MOUlDS THE MAN. That  
 it is the mother that moulds the man, is a  
 sentiment illustrated by the following re  
@@ -3295,7 +2990,7 @@ work of education,&quot;
   
   
   
-Take Care o
+Take Care of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857121201:0478/pct:70.074914,17.741676,24.498886,79.025253/!600,600/0/default.jpg"/>
 </td>
@@ -3309,7 +3004,6 @@ Take Care o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A writer who had lived among the Choctaw Indians  
 held a consultation with one of their chiefs in respect of  
 the successive stages of their progress in the arts of civil-  
@@ -3327,7 +3021,7 @@ would become fully and permanently civilized, its mothers
 must be qualified to discharge the duties of the home-  
 work of education. However competent for any special  
 work in the intellectual field of human existence woman  
-may b
+may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_universalist-quarterly-and-general-review_january-october-1858_15%2Fsim_universalist-quarterly-and-general-review_january-october-1858_15_jp2.zip%2Fsim_universalist-quarterly-and-general-review_january-october-1858_15_jp2%2Fsim_universalist-quarterly-and-general-review_january-october-1858_15_0238.jp2/pct:16.931217,15.187891,66.137566,29.070981/600,/0/default.jpg"/>
 </td>
@@ -3341,7 +3035,7 @@ may b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to  
+o  
 the rescue.  
   
 Tue Morugz-MouLps THE Man.—That it is  
@@ -3368,7 +3062,8 @@ This is the point and its true. No nation
 can become fully enlightened when mothers  
 are Mot, in a good degree qualified to dis­  
 charge the duties of the home work of edu­  
-cation.”’
+cation.”’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:00517015441:1858010201:0001/pct:65.483782,55.162273,14.236207,16.006722/!600,600/0/default.jpg"/>
 </td>
@@ -3392,7 +3087,6 @@ cation.”’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The Mother Moulds the .Van. That it U the  
 mother who moulds the man, is a sentiment beau­  
 tifully illustrated by the following recorded ob­  
@@ -3414,7 +3108,7 @@ girls, for when they become mothers &#x27;they educate
 their sons&#x27;&quot; This is the point, and it is true.  
 No nation can become .fully enlightened .when  
 mothers are not iu a good degree qualified to dis­  
-charge the duties of the home work of education
+charge the duties of the home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF15n_ver01%2Fdata%2F1858032901%2F0050.jp2/pct:52.516882,39.152443,15.085942,12.430842/!600,600/0/default.jpg"/>
 </td>
@@ -3428,7 +3122,7 @@ charge the duties of the home work of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, that if Napoleon is ever called  
+that if Napoleon is ever called  
 upon to surrender the alliance or the dynasty, he  
 will not be long in coming to a conclusion.  
   
@@ -3452,7 +3146,7 @@ for when they become mothers they educate their
 sons.&quot;&quot; This is to the point, and it is true No na­  
 tion can become fully enlightened when its moth­  
 ers are not in a good degree qualified to discharge  
-the duties of the home work of education
+the duties of the home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191022:1858040301:0320/pct:5.236751,49.913756,12.616285,9.371856/!600,600/0/default.jpg"/>
 </td>
@@ -3466,7 +3160,7 @@ the duties of the home work of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.of their progres  
+of their progres  
 1g in the arts of civilized life; and among other  
 D- things he informed me that, at their start, they  
 fell into a great mistake-they only sent their  
@@ -3483,7 +3177,7 @@ r, educate their sons.&#x27;&quot; This is to the point, and
 0 it is true. No nation can become fully enlight­  
 - ened when its mothers are not in a good degree  
 - qualified to discharge the duties of the home  
-work of education
+work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288257:1858041401:0189/pct:68.728332,19.852144,14.131188,8.782652/!600,600/0/default.jpg"/>
 </td>
@@ -3497,7 +3191,7 @@ work of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- - , ,  
+- , ,  
 Educate your Daughters.—A writer says:  
 hen I lived among the Choctaw Indians, I  
 held a consultation with one of their chiefs re.  
@@ -3521,7 +3215,7 @@ when the mothers are not in a good drgr e
 qualified to discharge the duties of-the home  
 work of education.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858041501:0063/pct:79.197851,67.712401,14.699674,13.222028/!600,600/0/default.jpg"/>
 </td>
@@ -3535,7 +3229,6 @@ work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 When I lived among the Choctaw in  
 dians, I held a consultation with one of their  
 chicts respecting the successive stagrs of  
@@ -3555,7 +3248,7 @@ but one class of our children, we should
 chotse the girls, for when they  
 methers they educate their sous. This is  
 to the point, and it is true. No nation can  
-become full
+become fully
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1858043001:0740/pct:29.336834,45.022598,13.958576,10.986209/!600,600/0/default.jpg"/>
 </td>
@@ -3569,7 +3262,6 @@ become full
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 THE MOTHER MOULDS&#x27; THE ?&amp;N.  
 That it is the mother that mouldy the  
 man is a sentiment illustrated by th-fol-  
@@ -3595,7 +3287,7 @@ and it is true. No nation can becOne, ftl­
 ly enlightened when the mothers are in.  
 a good degree qualified to dlschife &#x27; the  
 daties of the home work of educationS-  
-How many fon
+How many fond
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1858050401%2F0271.jp2/pct:70.935190,73.808329,14.312109,16.317110/!600,600/0/default.jpg"/>
 </td>
@@ -3609,7 +3301,7 @@ How many fon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of sacred rest.  
+of sacred rest.  
   
 THE MOTHER 3101 EDS THE MAN.  
 That it is the mother who moulds the man,  
@@ -3635,7 +3327,7 @@ ed when mothers are not in a good degree qualifi­
 ed to discharge tlie duties of the home work of  
 education.  
   
-ICP*The world is for th
+ICP*The world is for the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1858051401:0630/pct:4.157480,76.198426,14.818898,15.001192/!600,600/0/default.jpg"/>
 </td>
@@ -3649,7 +3341,6 @@ ICP*The world is for th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The MoTHER MoPlDs ThE Man. That it  
 is the mother who moulds the man, is a sen­  
 timent beautifully illustrated by the follow-  
@@ -3676,7 +3367,7 @@ degree qualified to discharge the dutiss of
 the home work of education.  
   
 From the Bainridge Argus.  
- TH
+ THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1858051901:0697/pct:33.047809,14.751531,27.211155,76.491528/!600,600/0/default.jpg"/>
 </td>
@@ -3700,12 +3391,11 @@ From the Bainridge Argus.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THE MoPHER MOulDs The MAn. That  
 it is the mother that moulds the man is a  
   
-sentiment illustrated by the following re-
+sentiment illustrated by the following re-  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858052701:0772/pct:71.773130,77.718869,12.756736,1.536161/!600,600/0/default.jpg"/>
 </td>
@@ -3719,7 +3409,7 @@ sentiment illustrated by the following re-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- live liard on board  
+live liard on board  
   
 their progress in the art of civilized life, gate, nor a bed chamber made at too  
 and among other things he informed me great oost. These things if they are  
@@ -3739,7 +3429,7 @@ dine sparingly, and sleep little to behold
 Ret not the empasis of hostility lie in hed  
 nd bourd; but let truth and love and hon  
   
-or and courtesy ffow in all they do
+or and courtesy ffow in all they do.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858052701:0772/pct:59.657057,81.470908,38.044093,12.112561/!600,600/0/default.jpg"/>
 </td>
@@ -3753,7 +3443,7 @@ or and courtesy ffow in all they do
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, Oonnes­  
+Oonnes­  
 amoked out a living lizard from the  
   
 ssesMsaawss  ast ineasea  
@@ -3771,7 +3461,7 @@ This is the point, and is true. No nation
 can become fully enlightened when th  
 mnthers are not in a good degree qualified  
   
-to discharge the duties of the home work stomach of 
+to discharge the duties of the home work stomach of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858052701:0772/pct:71.886188,85.209353,25.777275,5.247417/!600,600/0/default.jpg"/>
 </td>
@@ -3795,7 +3485,7 @@ to discharge the duties of the home work stomach of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in  
+in  
 any village ; but rather let the Btrari-  
 ger see, a he will, in your looks, ac­  
 cent and behavior, your hoart und  
@@ -3807,7 +3497,7 @@ and have little to behold. Let not
 the emphasis of hospitality rest in  
 tho bed and. board; but let truth,  
 and love,-and , honor, and courtesy,  
-How in all you do
+How in all you do.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn95063180:00212472852:1858070101:0120/pct:20.862218,12.611483,14.276430,8.361204/!600,600/0/default.jpg"/>
 </td>
@@ -3821,7 +3511,7 @@ How in all you do
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- satisfy me. I  
+satisfy me. I  
 That it is the mother who moulds the man  
 entiment beantifully illustrated by the  
 following recorded observation of a shrewd  
@@ -3850,7 +3540,7 @@ and it is true. No nation can become fully
 and permanently civilized and enlightened  
 when the mothers are not, in a good degree,  
 qualified to dischirge the duties of the home.  
-work of education.
+work of education.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1858092201:0769/pct:78.669911,58.944028,14.862125,16.358915/!600,600/0/default.jpg"/>
 </td>
@@ -3864,7 +3554,6 @@ work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 When I lived among the Choctaw Indians I held  
 a consultation with one of their chiefs respecting  
 the successive changes of their progress in the arts  
@@ -3882,7 +3571,7 @@ girls, for when they Iwcorae mothers they educate
 their sons.&quot; This is to the point, and it is true  
 no nation can fail to become fully enlightened when  
 its mothers are in a good degree qualified to dis­  
-charge the duties of the home work of education
+charge the duties of the home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858100201:0523/pct:64.796248,76.302083,14.957956,9.079072/!600,600/0/default.jpg"/>
 </td>
@@ -3896,13 +3585,13 @@ charge the duties of the home work of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sixty bushels, and the  
+sixty bushels, and the  
   
 Notiie wie an the or eu a  
   
 I know that the children were all like their mothers  
   
-Thus the father soon tot aintere to orlen the a oa e tunded and 
+Thus the father soon tot aintere to orlen the a oa e tunded and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1858102001:0119/pct:34.451533,85.565313,55.114221,2.291438/!600,600/0/default.jpg"/>
 </td>
@@ -3916,7 +3605,6 @@ Thus the father soon tot aintere to orlen the a oa e tunded and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
   
 THE PRESBYTERIAN.  
   
@@ -3950,7 +3638,7 @@ work of education.
   
 SINGULAR ILLUSIONS.  
   
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1859-05-14_29_20%2Fsim_presbyterian_the-presbyterian_1859-05-14_29_20_jp2.zip%2Fsim_presbyterian_the-presbyterian_1859-05-14_29_20_jp2%2Fsim_presbyterian_the-presbyterian_1859-05-14_29_20_0003.jp2/pct:38.677447,2.775333,19.864589,16.025475/,600/0/default.jpg"/>
 </td>
@@ -3964,7 +3652,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The Mother; Blouldi the Man  
 . That it is the mother who moulds the man, is  
 a sentiment Deautituiiy illustrated by the follow  
@@ -3981,7 +3668,8 @@ And now said he, &#x27; if we would educate but!
 one class of out chiUren,&#x27; we should cliooss the J  
 girls,&quot; for when they become mothers iney edu­  
 cate their scsa.&quot;- &#x27;- Th-3 is the ooint and it u tru3.  
-llbxiiica cm iccc-a fly c-lr-htcrl vjhea
+llbxiiica cm iccc-a fly c-lr-htcrl vjhea  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal13n_ver01%2Fdata%2F1859052601%2F0284.jp2/pct:20.582151,85.249597,15.809693,11.443908/!600,600/0/default.jpg"/>
 </td>
@@ -4035,7 +3723,7 @@ llbxiiica cm iccc-a fly c-lr-htcrl vjhea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in the dust the perished heart may lie,  
+in the dust the perished heart may lie,  
 But that which warmed it once can never die.’&#x27;  
 Tin; Motiiku Morons the Max.—IThat  
 it is the mother who moulds the man  
@@ -4064,7 +3752,7 @@ when mothers are not in a good degree ,
 qualified to discharge tlio duties of the  
 home-work of education.  
   
-“ Is T
+“ Is Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859062401:0579/pct:40.505872,62.680895,11.002710,16.079521/!600,600/0/default.jpg"/>
 </td>
@@ -4078,8 +3766,6 @@ home-work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 TnE Mother Molds toe Mas. That  
 it is the mother who molds the man, is a  
 sentiment beautifully illustrated by the fol­  
@@ -4104,6 +3790,7 @@ This is the point, and it is true. No nation
 can become fully enlightened, when mothars  
 are not in a good degree qualified to dis­  
 charge the duties of the home work ofeducation.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859071401:0015/pct:18.200147,52.800872,12.408358,13.207033/!600,600/0/default.jpg"/>
@@ -4118,7 +3805,7 @@ charge the duties of the home work ofeducation.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-» the flesh and spirit  
+the flesh and spirit  
 are heirs to.  
 The Mother Moulds the Man.—  
 That it is the mother who moulds the  
@@ -4148,7 +3835,7 @@ and it is true. No nation can bee-me
 fully enlightened when mothers are  
 rsot in a good degree qualified to dis­  
 charge the duties ol&#x27;ihe home work ol  
-education.
+education.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:0029587398A:1859072901:0025/pct:22.402597,36.800112,14.224838,17.455207/!600,600/0/default.jpg"/>
 </td>
@@ -4156,13 +3843,13 @@ education.
 
 ---
 
-## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1859-07-30_1_5/page/n2/mode/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1859-07-30_1_5/page/n2/mode/1up?view=theater)
 
 #### 1859-07-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in  
+in  
 this view, but trom the facts which have been elicited  
 thus far, we think cur conclusion a very reasonable one.  
   
@@ -4194,6 +3881,7 @@ mothers are not in a good degree qualified to discharge
   
   
 the duties of the home-work of education.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_scientific-american_1859-07-30_1_5%2Fsim_scientific-american_1859-07-30_1_5_jp2.zip%2Fsim_scientific-american_1859-07-30_1_5_jp2%2Fsim_scientific-american_1859-07-30_1_5_0002.jp2/pct:34.431940,68.131224,26.580922,22.554189/,600/0/default.jpg"/>
@@ -4208,7 +3896,6 @@ the duties of the home-work of education.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 The Mother 3IoIds tUc Man.  
 That it is the mother who molds the  
 man, is a sentiment beautifully illustrated  
@@ -4236,6 +3923,7 @@ and it is true. No nation can become
 fully enlightened, when mothers are not  
 in a good degree qualified to discharge  
 the duties of the home work ofeducation,&quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1859080401:0035/pct:41.479401,78.015356,12.881220,14.986879/!600,600/0/default.jpg"/>
@@ -4250,7 +3938,6 @@ the duties of the home work ofeducation,&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Thn MoTHir moldS THe Man  
 That it is the mother who molds the man, is  
 a sentiment beautifully illustrated by the fol  
@@ -4281,7 +3968,7 @@ the duties of the home work of education.
 a  
 VOL. ALII.  
 THe Deseren  
-Or
+Or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1859080501:0293/pct:5.577508,8.439451,21.656535,87.390762/!600,600/0/default.jpg"/>
 </td>
@@ -4295,8 +3982,6 @@ Or
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 Tint Mother Molds th. Maw. That it  
 is the mother who molds the man, is a sen­  
 timent beautifully illustrated by the follow­  
@@ -4321,7 +4006,7 @@ TLia is the poiut, and it is true. Jfo nation
 t a ttoouie fully enlightened, when nioth­  
 t&#x27; are not iu a good degree qualified to  
 ?.. &#x27;C&#x27;.jpe the duties of the beme work of  
-
+s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1859080601:0250/pct:4.200680,80.084746,12.636054,13.228284/!600,600/0/default.jpg"/>
 </td>
@@ -4335,8 +4020,6 @@ t&#x27; are not iu a good degree qualified to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 ThE MOTHER MOLDS THR MAN.-That it  
 is the mother who molds the man, is a sen-  
 timent beautifully lilustrated by the follow  
@@ -4360,7 +4043,7 @@ mothers they educate their sons.&quot; This is
 the point, and it is true. No nation can  
 become fully enlightened, when mothors  
 are not in a good degree qualified to dis­  
-charge the duties of the home-work of ed
+charge the duties of the home-work of edu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859081201:0132/pct:44.026718,73.343109,12.461832,11.568915/!600,600/0/default.jpg"/>
 </td>
@@ -4374,7 +4057,6 @@ charge the duties of the home-work of ed
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The Mother Molds tdi: Man: Tha  
 it is the mother who molds the man is a  
 sentiment beautifully illustrated by the  
@@ -4400,7 +4082,7 @@ and it is true. No nation can become fully
 enlightened when mothers are uot iu a  
 good degree qualified to discharge the  
 dutieB of the home-work of education. &quot;  
-mother; &quot;you kuow th
+mother; &quot;you kuow the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth81400/m1/1/pct:62.466667,72.258065,18.400000,15.322581/!600,600/0/default.jpg"/>
 </td>
@@ -4414,7 +4096,6 @@ mother; &quot;you kuow th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The Mother Molds the Man  
 it is the mother who molds the man, is a  
 nt beautifully illustrated by the follow­  
@@ -4443,7 +4124,7 @@ come mothers they educate their sons.&quot; This
 is the point, and it is true. No nation can be­  
 come fully enlightened, when mothers are not  
 in a good degree qualified to discharge the du­  
-ties of the home work of education
+ties of the home work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859081401:0151/pct:24.198167,40.570776,8.863116,7.271689/!600,600/0/default.jpg"/>
 </td>
@@ -4457,7 +4138,6 @@ ties of the home work of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
 MoTHER MOULDS THE MAN.  
 That it is the  
 man is a sentiment beautifully illustrated  
@@ -4485,7 +4165,7 @@ lightened when mothers are not in a
 good degree qualified to discharge the  
 duties of the home work of education.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1859082701:0005/pct:37.517602,48.413715,14.624824,16.375018/!600,600/0/default.jpg"/>
 </td>
@@ -4499,8 +4179,6 @@ duties of the home work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-%  
-  
 THE MOTHER MOULDS THE MAN.  
   
 That it is the mother who moulds the man, is a  
@@ -4524,7 +4202,7 @@ can become fully enlightened, when mothers are
 not in a good degree qualified to discharge the  
 duties of the home work of education.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_arthurs-home-magazine_1859-09_14%2Fsim_arthurs-home-magazine_1859-09_14_jp2.zip%2Fsim_arthurs-home-magazine_1859-09_14_jp2%2Fsim_arthurs-home-magazine_1859-09_14_0040.jp2/pct:11.565836,57.630411,36.699288,28.773585/,600/0/default.jpg"/>
 </td>
@@ -4538,7 +4216,6 @@ duties of the home work of education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Tiik MoniikK Molobtuk Man :?That  
 it is the mother who molds the man, is a  
 sentiment beautifully illustrated by the  
@@ -4567,7 +4244,7 @@ tied to discharge the duties of the home*
 work of education.&#x27;  
   
 &amp;miiiiuj IMiug, i  
-K:oia th
+K:oia the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859090701:0783/pct:42.144453,14.044495,26.775875,81.289218/!600,600/0/default.jpg"/>
 </td>
@@ -4581,7 +4258,7 @@ K:oia th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- CLAy.  
+CLAy.  
 ee That it is the mother who moulde  
 the man, is a sentiment butifully illustra  
 ted by the following observations of a  
@@ -4605,7 +4282,7 @@ mothers they educate their sons.&quot; This
 is the point and it is true. No nation can  
 become fully enlightned when mothers are  
 not in a good degree qualified to discharge  
-the house work o
+the house work of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859092201:1050/pct:57.705893,73.687798,12.678937,13.701431/!600,600/0/default.jpg"/>
 </td>
@@ -4619,8 +4296,6 @@ the house work o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
   
 THE MOTHER MOULDS THE MAN.  
   
@@ -4647,7 +4322,7 @@ educate their sons.” This is the point, and it is
 true. No nation can become fully enlightened,  
   
 celebrated in physics for the invention of the! when mothers are not in a good degree quali-  
-thermometer, held it as a principle that a healthy | fied to discharge the duties of the hom
+thermometer, held it as a principle that a healthy | fied to discharge the duties of the home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-intelligencer_1859-09-24_16_28%2Fsim_friends-intelligencer_1859-09-24_16_28_jp2.zip%2Fsim_friends-intelligencer_1859-09-24_16_28_jp2%2Fsim_friends-intelligencer_1859-09-24_16_28_0013.jp2/pct:16.757812,12.966418,75.273438,27.332090/600,/0/default.jpg"/>
 </td>
@@ -4661,7 +4336,7 @@ thermometer, held it as a principle that a healthy | fied to discharge the dutie
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-na Hep.  
+a Hep.  
   
 EDI&#x27;CATK DAUGHTERS  
   
@@ -4691,7 +4366,7 @@ the mothers are not in a good degree
 qualified to discharge the duties of the  
 home work of education.  
   
-THOUGH th
+THOUGH the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1859120301:0293/pct:69.846777,74.509587,12.561434,16.735011/!600,600/0/default.jpg"/>
 </td>
@@ -4715,7 +4390,7 @@ THOUGH th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- fn the silent party, j  
+fn the silent party, j  
   
 The Mothxk Moulds the Man.—That it is this  
 mother who moulds the man, is a sentiment  
@@ -4739,7 +4414,7 @@ they become mothers, they educate their sons.&quot;
 become fully enlightened when mothers are not  
 in agood degree qualified to discharge the duties  
 | of the home work of education.  
-Comports as o
+Comports as ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860022301:0035/pct:24.252492,6.956626,19.174181,89.991590/!600,600/0/default.jpg"/>
 </td>
@@ -4753,7 +4428,6 @@ Comports as o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The Mother Molds the 51 ax.—T’  
 it is the mother who moulds the man ■  
 sentiment beautifully illustrate 1 bv t1 *  
@@ -4776,7 +4450,7 @@ the girls,* for when they become mothers
 they educate their sons.” This is tho  
 point, and it is true. No nation ran l e­  
 eoni ■ fully enlightened w ;i mothers aro  
-not in 
+not in a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1860030701:0015/pct:83.865499,43.446809,10.977677,10.436170/!600,600/0/default.jpg"/>
 </td>
@@ -4790,8 +4464,9 @@ not in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s proud of me&#x27;dren; &quot;and now,&quot; said he, &quot;if we would edu­  
-and Mary&#x27;s pretty lip curled scornfully. Life cate but one class of our children, we would
+dren; &quot;and now,&quot; said he, &quot;if we would edu­  
+and Mary&#x27;s pretty lip curled scornfully. Life cate but one class of our children, we would  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860033001:0264/pct:55.748373,91.526117,25.451916,1.206174/!600,600/0/default.jpg"/>
 </td>
@@ -4805,10 +4480,9 @@ and Mary&#x27;s pretty lip curled scornfully. Life cate but one class of our chi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 I  
 ThE MOTHER MOULDS THE MAN.That  
-it is the mother who moulds
+it is the mother who moulds 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860033001:0264/pct:68.618944,82.653583,12.480116,1.891035/!600,600/0/default.jpg"/>
 </td>
@@ -4822,7 +4496,7 @@ it is the mother who moulds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the man is a  
+the man is a  
 sentiment beautifully illustrated by the fol-  
 e e     
 When I lived among the Choctaw Indians,  
@@ -4844,7 +4518,7 @@ mothers are not in a good degree qualified to
 discharge the duties of the home work of  
 education  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860033001:0264/pct:68.054953,4.783809,25.422993,91.199019/!600,600/0/default.jpg"/>
 </td>
@@ -4868,7 +4542,7 @@ education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-of moment in our eyes.”  
+f moment in our eyes.”  
   
 THE MOTHER MOULDS THE MAN-  
 That it is the mother who moulds the man, is  
@@ -4893,7 +4567,7 @@ become fully enlightened when mothers are not
 in a good degree qualified to discharge the, duties  
 of the home-work of education.  
   
-LADY MORGAN AND YOUN
+LADY MORGAN AND YOUNG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002737%2F1860042601%2F0056.jp2/pct:31.246212,11.627976,12.113636,13.020833/!600,600/0/default.jpg"/>
 </td>
@@ -4907,7 +4581,7 @@ LADY MORGAN AND YOUN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ut it.  
+t it.  
 The Mother Moulds the Man.  
 That it is the mother who moulds the man,  
 is a sentiment beautifully illustrated by the  
@@ -4935,7 +4609,7 @@ discharge the duties of the home-work of
 education.  
   
 CUMBERLAND COUNTY COURTS.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860051201:0286/pct:4.818436,2.944752,25.139665,91.868162/!600,600/0/default.jpg"/>
 </td>
@@ -4949,9 +4623,9 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; butthe children were all like their mothers.  
+butthe children were all like their mothers.  
 he was a fine specimen of &quot;nature&#x27;s no e ate on o a intee in o  
-blamen:&quot; &quot;Hallo! Mr. Page,&quot; growled wife and children; and now, said he, if w
+blamen:&quot; &quot;Hallo! Mr. Page,&quot; growled wife and children; and now, said he, if we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078725:00296028034:1860051701:0087/pct:68.014996,39.521210,25.710339,1.609968/!600,600/0/default.jpg"/>
 </td>
@@ -4965,7 +4639,7 @@ blamen:&quot; &quot;Hallo! Mr. Page,&quot; growled wife and children; and now, s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;I should like to know if would educate but one class of our children,  
+I should like to know if would educate but one class of our children,  
 all the people at I ast Hanover go barewe should thoose the girls, for when they  
 foot?&quot; &quot;Part on em o, and the rest on become mothers, they would educate their  
 em mind their own business,&quot; was theon  
@@ -4973,7 +4647,7 @@ em mind their own business,&quot; was theon
 rather settling reply.i is the oin an it is ta o  
 e  e ee o o ao a e o e i e e  
 o The New York Post of May 3d has mothers are not in a good degree quslified  
-th
+the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078725:00296028034:1860051701:0087/pct:68.093923,41.089178,25.730071,4.535909/!600,600/0/default.jpg"/>
 </td>
@@ -4987,8 +4661,6 @@ th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &#x27; TIIS MOTHER MOULDS THE MAS.  
 . That it is the. mother who moulds the man.  
   
@@ -5031,6 +4703,7 @@ the Pop-THoa of-ilindZr 1 . No-tlon can,
 It is  
   
 . i . j 8iore3 . worK oi education,&quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen2n_ver01%2Fdata%2F1860052601%2F0164.jp2/pct:44.563356,80.483221,53.167808,14.053691/!600,600/0/default.jpg"/>
@@ -5045,7 +4718,7 @@ It is
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in the meads, and birds  
+in the meads, and birds  
 are singing by.  
 Tbe Motdir Molds the Man. Tbat it is  
 mother who molds the man, is a sentiment beauti-  
@@ -5073,7 +4746,7 @@ a eons.&#x27; This i. the point, and it is true. No
 can become fully enlightened, wben mothers  
 tha not in a cood detree Qualified to discharge  
 ago.&#x27; duties of the homework of education.&#x27;  
-
+C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860052601:0059/pct:37.336094,68.401237,14.406487,14.602662/!600,600/0/default.jpg"/>
 </td>
@@ -5087,7 +4760,7 @@ ago.&#x27; duties of the homework of education.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rothers  
+others  
 and sisters 7  
   
 The Mother Moulds the Mau.  
@@ -5120,7 +4793,7 @@ ened when mothers are not in aped devree
 qualified to discharge the duties of the  
 home-work - of education. -•  
   
-Morning Thoughts for a Littl
+Morning Thoughts for a Little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_carmentes_ver01%2Fdata%2Fsn88086163%2F000002039%2F1860061601%2F0060.jp2/pct:32.502008,17.928571,11.497992,15.241071/!600,600/0/default.jpg"/>
 </td>
@@ -5134,8 +4807,6 @@ Morning Thoughts for a Littl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Tins Moriii.it Mouuis iuu Man—That  
 it is the mother who moulds the man, is a  
 sentiment beautifully illustrated by the fol­  
@@ -5164,7 +4835,7 @@ ened when mothers are not in a good de­
 gree q lulitied to discharge the duties of the  
 home-work of education.&#x27; .  
 A Cheat Siarr.su an anii a Conserva­  
-tor
+tor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1860061601:0085/pct:83.824239,56.367154,13.165942,15.854396/!600,600/0/default.jpg"/>
 </td>
@@ -5178,7 +4849,7 @@ tor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- eS  
+eS  
 THe Motuer Moutps THE Man.—That it is the  
 who molds the man, is a sentiment beautifully illustrates  
   
@@ -5212,7 +4883,8 @@ nation can become fully enlightened, when mothers Te nyt
 gence.  
   
 in a good degree qualified to discharge the duties of %  
-homework of education.’
+homework of education.’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_national-principia_1860-06-16_1_31%2Fsim_national-principia_1860-06-16_1_31_jp2.zip%2Fsim_national-principia_1860-06-16_1_31_jp2%2Fsim_national-principia_1860-06-16_1_31_0007.jp2/pct:41.964286,11.671470,51.926692,22.370317/600,/0/default.jpg"/>
 </td>
@@ -5226,7 +4898,7 @@ homework of education.’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tonic.  
+tonic.  
 The Mother Moulds the Man. —That ills  
 the mother who moulds (he man, is a sentiment  
 beautifully illustrated by tho following record­  
@@ -5250,7 +4922,7 @@ nation esn become fully enlightened when mo­
 thers are not, in a good degree, qualified to dis­  
 charge the duties of tho home-work of educa­  
 tion.  
-•
+• 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00383342934:1860071901:0083/pct:48.946295,68.758510,14.225017,13.083302/!600,600/0/default.jpg"/>
 </td>
@@ -5264,12 +4936,12 @@ tion.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- only. They became intelli­  
+only. They became intelli­  
 gent men, but married uneducated and  
 uncivilized wives. The result was, that  
 the children were all like the mother.?  
 Soon the father lost his interest in both  
-wife and children
+wife and children.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860072701:0304/pct:69.800817,40.786822,14.029445,3.601157/!600,600/0/default.jpg"/>
 </td>
@@ -5283,7 +4955,6 @@ wife and children
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 The Mother Moulds the Man.—  
 That it is the mother who moulds the man  
 is a sentiment beautifully illustrated by  
@@ -5308,7 +4979,8 @@ girls; for when they become mothers they
 educate their sons. This is the point, and  
 it is true. No nation can become enlight­  
 ened when mothers are not in a good de­  
-gree qualified to discharge the duties of
+gree qualified to discharge the duties of  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860082901:0550/pct:68.045388,55.818380,13.177160,13.907015/!600,600/0/default.jpg"/>
 </td>
@@ -5322,7 +4994,6 @@ gree qualified to discharge the duties of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The Mother Molds the Man.  
 That it is ilie mother who molds the  
 man, is a sentiment beaulifullv illtisira-  
@@ -5350,7 +5021,8 @@ and it is true. No nation can become
 fully enlightened, when moihcis arc  
 not in a good degree qualified to dis­  
 charge the duties of the home work of  
-cduca&#x27;ian.
+cduca&#x27;ian.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1860090501:0032/pct:34.541985,46.115256,12.751561,16.092102/!600,600/0/default.jpg"/>
 </td>
@@ -5364,7 +5036,7 @@ cduca&#x27;ian.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-was dead.  
+as dead.  
 Educate your Daughters.?A writer  
 says:  
 When I lived among the Choctaw In­  
@@ -5388,7 +5060,7 @@ sons.&#x27; This is to the point and it is true.
 No nation can become fully and perma?  
 nently civilized and enlightened, when the  
 mothers are not, to a good degree, quali?  
-fied to discharge the duties of hom
+fied to discharge the duties of home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1860092501:0028/pct:50.097276,69.086232,16.083009,18.801029/!600,600/0/default.jpg"/>
 </td>
@@ -5402,7 +5074,6 @@ fied to discharge the duties of hom
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 “ When I lived among the Choctow Indians, I  
 held a consultation writh one of their chiefs re­  
 specting the successive stages of their progress  
@@ -5420,7 +5091,7 @@ choose the girls, for when they become mothers,
 they educate their sons. ,s  
   
 The item is not intended to convey the im­  
-pression that i
+pression that it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001715%2F1860110801%2F0171.jp2/pct:27.698538,34.910630,12.259891,8.457623/!600,600/0/default.jpg"/>
 </td>
@@ -5434,7 +5105,7 @@ pression that i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Mauld, the Man,  
+Mauld, the Man,  
 Thet it is the mother who moulds the mih.I  
 a sontiment beautifully illustrated by the follow­  
 ing recorded observation of a shrewd writer,  
@@ -5460,7 +5131,7 @@ ADy EETiSEMENT
 DENTISTRY.  
 J.M. BrADSHAW, M.D.  
 is locatad in the City of Santa F, for the pirpose of prac  
-DNTITY
+DNTITY.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1861010501:0072/pct:80.752754,40.700614,15.055080,15.781871/!600,600/0/default.jpg"/>
 </td>
@@ -5474,8 +5145,6 @@ DNTITY
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Tiif. Mother M»»i lds the Man.— T hat it  
   
 is the mother w ho moulds the man, in a  
@@ -5503,7 +5172,8 @@ Tliis is tin- point, and it is true No nation
 can become fully enlightened when moth-  
 ers a rr not in a good degree qualified to  
 discharge the duties of the home work of  
-education.
+education.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt734t6f2g5n%2Fxt734t6f2g5n_jp2.zip%2Fxt734t6f2g5n_jp2%2Fxt734t6f2g5n_0001.jp2/pct:25.229730,76.498213,9.405405,8.688106/,600/0/default.jpg"/>
 </td>
@@ -5517,7 +5187,6 @@ education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Tiik Motiikk Moi i.iih tiik Max.—That it in the  
 mother moulds the man, is a sentiment well illus­  
 trated hy the following recorded observation  
@@ -5538,7 +5207,7 @@ choose the girls, lor wheu they become mothers,
 they educate their sons.” This is the point, and  
 il is true. No nation can become fully enlight­  
 ed, when the mothers are not in a good degree  
-quulilied to discharge the home work o
+quulilied to discharge the home work of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861032301:0285/pct:62.353164,78.948752,14.759379,9.697766/!600,600/0/default.jpg"/>
 </td>
@@ -5552,7 +5221,7 @@ quulilied to discharge the home work o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to the small and narrow views of many others:  
+to the small and narrow views of many others:  
 Motbf.es akd M ex. That it is the mother who  
 moulds the man is a sentiment beaotifully illustrated by  
 the following recorded observation of a shrewd writer :  
@@ -5573,7 +5242,7 @@ This is the point, and it is true. No nation can become
 fully enlightened when mothers are not in a good degree  
 qualified to discharge the duties of the home-work of  
 education.  
-1
+17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1861060801:0229/pct:36.332924,82.038944,14.726658,10.564011/!600,600/0/default.jpg"/>
 </td>
@@ -5589,7 +5258,7 @@ education.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-lustrated hy the  
+ustrated hy the  
 following re-corded observations of a  
 shrewd w mer -&quot;V ben I. lived among the  
 Choctaw Indian», I held a consultation  
@@ -5613,7 +5282,7 @@ is tht point, and it is true. No nation
 can become enlightened when mothers are  
 not in a good degree qualified to  
 discharge the duties of the home-work ol  
-education
+education.
 </td></tr></table>
 
 ---
@@ -5626,7 +5295,7 @@ education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- observes .- — &#x27; When I lived  
+observes .- — &#x27; When I lived  
 among the Choctaw Indians I held a  
 consultation with one of their chiefs  
 respecting the successive stages of  
@@ -5646,7 +5315,7 @@ we should choose the girls, for when
 they become mothers they educate their  
 sons.&#x27; This is the point, and it is  
 true. No nation can become fully  
-enlightened when mothers are no
+enlightened when mothers are not
 </td></tr></table>
 
 ---
@@ -5657,7 +5326,7 @@ enlightened when mothers are no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:—  
+—  
 “When I lived among the Choctaw Indians, I held a con-  
 sultation with one of their chiefs, respecting the successive  
 stages of their progress in the arts of civilised life; and,  
@@ -5669,7 +5338,7 @@ the children were all like their mothers! The father soon lost
 all his interest, both in wife and children. ‘ And now,’ said  
 he, ‘if we would educate but one class of our children,  
 we would choose the girls; for when they become mothers,  
-they educate their sons.’ This is the point, and it is true
+they educate their sons.’ This is the point, and it is true.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31%2Fsim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31_jp2.zip%2Fsim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31_jp2%2Fsim_twice-a-week-an-illustrated-london-journal_1862-08-20_1_31_0007.jp2/pct:39.702309,56.037489,27.460510,8.260680/600,/0/default.jpg"/>
 </td>
@@ -5683,7 +5352,7 @@ they educate their sons.’ This is the point, and it is true
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- chiefs respecting  
+chiefs respecting  
 &#x27; the successive etazes of their progress in the arts  
 of their civilized life ; and, among other things,  
 he informed me that at their start they made a  
@@ -5699,7 +5368,7 @@ when they become mothers they educate their
 90ns.&quot; This is the point, and it is true. No  
 nation can become fully enlightened when moth­  
 ers are not in good degree qualified to discharge  
-the duties of the home-work of education
+the duties of the home-work of education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474241:1863091001:0233/pct:20.978204,46.520875,14.686040,8.328974/!600,600/0/default.jpg"/>
 </td>
@@ -5713,7 +5382,7 @@ the duties of the home-work of education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- one of their chiefs respecting  
+one of their chiefs respecting  
 the stages of their progress in the arts of civilized  
 life, and among other things he informed me that  
 at their start they made a great mistake—they  
@@ -5728,7 +5397,7 @@ educate but one class of our children, we should
 choose the girls, for when they become mothers,  
 they educate their sons. This is the point, and it  
 is true. No nation can become fully enlightened  
-when mothers are no
+when mothers are not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_phrenological-journal-and-science-of-health_1864-12_40_6%2Fsim_phrenological-journal-and-science-of-health_1864-12_40_6_jp2.zip%2Fsim_phrenological-journal-and-science-of-health_1864-12_40_6_jp2%2Fsim_phrenological-journal-and-science-of-health_1864-12_40_6_0009.jp2/pct:67.419738,51.984877,23.900119,15.808129/600,/0/default.jpg"/>
 </td>
@@ -5742,7 +5411,6 @@ when mothers are no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 Don’t Fokoet Yolk Giuls.—When I  
 lived among the Choctaw Indians, says a  
 traveler, I held a consultation with one of  
@@ -5768,7 +5436,7 @@ education. Parents! give your daughters,
 as well as your eons, the best education  
 in your power.  
   
-Jones and Brows were talkin
+Jones and Brows were talking
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1865012101:0636/pct:79.776557,75.342466,12.346147,12.739726/!600,600/0/default.jpg"/>
 </td>
@@ -5792,7 +5460,7 @@ Jones and Brows were talkin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- I helda  
+I helda  
 with one of their chiefs res­  
 pecting the stages of their progress in  
 the arts of civilized life, and among  
@@ -5811,7 +5479,8 @@ children, we should chooze the girls, for,
 when they become mothers, they edu­  
 cate their sons. This is the point, and  
   
-it is true. No nation can become fully
+it is true. No nation can become fully  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022044:1865021001:0496/pct:6.368732,24.061538,10.464030,8.196923/!600,600/0/default.jpg"/>
 </td>
@@ -5825,7 +5494,7 @@ it is true. No nation can become fully
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- one of their chiefs respecting the sta­  
+one of their chiefs respecting the sta­  
 ges of their progress in the arts of civilized life,  
 and among other things he informed me that at their  
 start they made a great mistake—they only sent  
@@ -5838,7 +5507,7 @@ now, said he, if we would educate but one class of,
 our children we should choose the girls. for, when  
 they become mothers, they educate their sons. This  
 is the point, and it is true. No nation can become  
-fully enlightened when mothers are no
+fully enlightened when mothers are not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1865021001:0450/pct:7.816712,67.960392,14.697955,7.637150/!600,600/0/default.jpg"/>
 </td>
@@ -5852,7 +5521,6 @@ fully enlightened when mothers are no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Don&#x27;t Fonorr YociHisia—When I lived  
 among the Choctaw Indians, say? a traveller,  
 i I held a consultation with one of their chiefs  
@@ -5874,7 +5542,7 @@ enlightened when mothers are not qualified to
 discharge the duties of the home work of cdu  
 cation. Parents ! give your daughters as well  
 as your sons, the best education in your power.  
-Franklin&#x27;s Toast.—Long after Washin
+Franklin&#x27;s Toast.—Long after Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86076422:00279557372:1865021101:0237/pct:85.141368,53.242678,13.555244,11.625822/!600,600/0/default.jpg"/>
 </td>
@@ -5888,7 +5556,7 @@ Franklin&#x27;s Toast.—Long after Washin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-) I held a consultation with one of  
+I held a consultation with one of  
 their chiefs respecting the stages of their pro­  
 gress in the arts of civilized life, and among  
 other things he informed me that at their start  
@@ -5904,7 +5572,7 @@ we would choose the girls, for when they be­
 come mothers, they educate their sons. This  
 is the point, and it is trne. No nation can  
 become fully enlightened when mothers are  
-no
+not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1865030301:0909/pct:29.249557,35.248162,12.724050,8.685662/!600,600/0/default.jpg"/>
 </td>
@@ -5918,7 +5586,7 @@ no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-) 1 held a consultation with  
+1 held a consultation with  
 one of thoir chiefs respecting the stages et&#x27;  
   
 their progress in the arts of; uivilized life,­  
@@ -5935,7 +5603,7 @@ if we would educate but one class of our
 children, we would choose the girlsk for  
 when they become mothers, they educate  
 their sous. This is the poiut, aud, it is  
-true. No nation can become full
+true. No nation can become fully
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197425:1865030801:0071/pct:78.173575,53.365938,15.414508,12.701381/!600,600/0/default.jpg"/>
 </td>
@@ -5949,7 +5617,6 @@ true. No nation can become full
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 one of their chiefs .reipecting the stages  
 of their progress in the arts of civilized  
 lire and among other things he inform­  
@@ -5969,7 +5636,7 @@ should•choose , the girls, for when they
 beteome methers they educate their eons.  
 This iilhe point and it is true.—No na­  
 tion can become fully enlightened when  
-mothers are no
+mothers are not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_averruncus_ver01%2Fdata%2Fsn88080881%2F000001995%2F1865031801%2F0037.jp2/pct:78.216667,51.719697,13.905556,11.579545/!600,600/0/default.jpg"/>
 </td>
@@ -5983,7 +5650,7 @@ mothers are no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, I held a consultation with one of  
+I held a consultation with one of  
 ! their chiefs respecting the stages of their  
 progress in the arts of civilized life, and  
 among things he informed nie that at  
@@ -5998,7 +5665,7 @@ And ,tow, said he, if we would educate but
 one class of our children, we should choose  
 the girls, for when they become - filo:hers, I  
 they educate their sons. This is the point,  
-and it is true. No nation can become full
+and it is true. No nation can become fully
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cybele_ver01%2Fdata%2Fsn84026518%2F000002097%2F1865032201%2F0039.jp2/pct:29.682765,30.676259,13.063447,10.212230/!600,600/0/default.jpg"/>
 </td>
@@ -6012,7 +5679,7 @@ and it is true. No nation can become full
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- one of their chiefs re-  
+one of their chiefs re-  
 specting the stages of their progress  
 the arts of civilized life, and among  
 ather things he informed mo that of  
@@ -6036,7 +5703,7 @@ nation can become fully enlightened
 when mothers are not qualified to  
 discharge the duties of the home work  
 education. Parents, give your  
-daughters, a
+daughters, as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1865092001:0026/pct:27.291211,84.267241,11.370034,11.194923/!600,600/0/default.jpg"/>
 </td>
@@ -6050,7 +5717,7 @@ daughters, a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- one of their  
+one of their  
 chiefs respecting the stages of their  
 gress in the arts of civilized life, among oth­  
 er things he informed me that at their start  
@@ -6070,7 +5737,8 @@ enlightened when mothers are not qualined
 to discharge the duties of the home  
 of education. Parents, give your daugh  
 ters, as well as your sons, the best education  
-your power.a
+your power.a  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1865093001:0547/pct:57.086614,54.286092,12.701130,11.042134/!600,600/0/default.jpg"/>
 </td>
@@ -6094,7 +5762,6 @@ your power.a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 witer says, While I lived among  
 the Choctaw Indians I held a con  
 sultation with one of their chiefs  
@@ -6126,7 +5793,7 @@ often begin to talk in the German
 language, the tongue of their chil  
 eoo ato te ae ee te  
 een     
-atogeter to av or gotten it 
+atogeter to av or gotten it t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_empath_ver01:data:sn86053712:00280762143:1867051501:0431/pct:14.085866,60.388769,15.227529,18.066955/!600,600/0/default.jpg"/>
 </td>
@@ -6140,7 +5807,6 @@ atogeter to av or gotten it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 When I lived among the Choctaw In­  
 dians, says a writer, &quot;I held a connate.  
 thin with one of their Chiefs respecting  
@@ -6175,7 +5841,7 @@ war the multitude of questions the
   
 will be put to her by her Inquisitive  
 child on art, science, literature and re­  
-ligion, and tins t
+ligion, and tins to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver01%2Fdata%2Fsn84026384%2F000002015%2F1867111901%2F1094.jp2/pct:17.025105,45.871998,8.813202,11.217249/!600,600/0/default.jpg"/>
 </td>
@@ -6189,7 +5855,6 @@ ligion, and tins t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 When I lived among the Choctaw In­  
 dians, says a writer, &quot;I held a connate.  
 thin with one of their Chiefs respecting  
@@ -6224,7 +5889,7 @@ war the multitude of questions the
   
 will be put to her by her Inquisitive  
 child on art, science, literature and re­  
-ligion, and tins t
+ligion, and tins to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_caelus_ver02%2Fdata%2Fsn84026384%2F000002015%2F1867111901%2F1094.jp2/pct:17.025105,45.871998,8.813202,11.217249/!600,600/0/default.jpg"/>
 </td>

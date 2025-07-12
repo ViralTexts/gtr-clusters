@@ -1,7 +1,7 @@
 
 # A Philosophical Darkey
 
-### 285 reprints from 1862-03-21 to 1898-10-01
+### 284 reprints from 1862-03-21 to 1898-10-01
 
 ## [A Philosophical Darkey](https://chroniclingamerica.loc.gov/lccn/sn85033429/1872-06-20/ed-1/seq-1/)
 
@@ -11,7 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-**A Philosophical Darkey**  
+A Philosophical Darkey**  
   
 An elderly darkey, with a very philosophical and retrospective cast of countenance, was squatting upon his bundle on the hurricane deck of one of the Western river steamers, toasting his shins against the chimney, and apparently plunged in a state of profound meditation. His dress and appearance indicated familiarity with camp life, and it being soon after the siege and capture of Fort Donelson, I was inclined to disturb his reveries, and on interrogation found that he had been with the Union forces at that place, when I questioned further. His philosophy was so much in the Falstaffian vein that I will give his views in his own words as near as my memory will serve me:  
   
@@ -66,7 +66,7 @@ It is safe to say that the darkey corpse of that African will never darken the f
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-8.  
+.  
 A PHILOSOPHIC NEGRO.  
 A correspondent of the Cincinnati Gazette, writing from  
 the Cumberland river, gives a humorous account of a col­  
@@ -107,7 +107,7 @@ bref out. ob him ? Self reserbashun am de fust law wid me.”
 It is safe to say that the dusky corpse of that African will  
 never darken the field of carnage.  
   
-thir
+thirt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678367:1862032101:0088/pct:6.777812,4.788631,24.291056,90.374970/!600,600/0/default.jpg"/>
 </td>
@@ -121,8 +121,6 @@ thir
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-I  
-  
 I noticed upon the hurricane deok to day  
 an elderly darkey with a very philosophl  
 cal and retrospective cast of countenance,  
@@ -193,7 +191,8 @@ nigga--but I&#x27;d missed myself, and dat was
 de pint wid me.&quot;  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage.
+carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775642:1862032201:0596/pct:13.888406,13.425672,11.281071,32.857926/!600,600/0/default.jpg"/>
 </td>
@@ -207,7 +206,7 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 I noticed upon the hurricane deck today an  
 elderly darkie with a very philosophical and re­  
 trospective cast of countenance, squatted upon  
@@ -273,7 +272,7 @@ I&#x27;d a missed myself and dat was de pint wid me.&quot;
 It is safe to say that the dusky corpse of that  
 African will never darken the field of carnags.  
   
-CircuMSTaNTIal EvidE
+CircuMSTaNTIal EvidEN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1862032401:1047/pct:44.751381,11.186390,22.611009,85.591689/!600,600/0/default.jpg"/>
 </td>
@@ -287,8 +286,6 @@ CircuMSTaNTIal EvidE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 .1 noticed upon the hurricane deck to  
 day an elderly darkic with a very philo  
 sophical and retrospective cast of counte  
@@ -361,7 +358,7 @@ pint wid me.
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
 carnage.  
-
+X
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1862032601:0536/pct:8.286951,28.966610,11.038961,36.400195/!600,600/0/default.jpg"/>
 </td>
@@ -375,7 +372,11 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hurricane deck to-day  
+writing from.the Cum­  
+berland river gives a bumorons account of  
+a colloquy with &#x27;ft philosophic African. He  
+says :  
+1 noticed upon the hurricane deck to-day  
 an elderly darkey, with a very philosophic­  
 al and retrospectivo cast of countenance,  
 squatted upon his bundle toasting: himself  
@@ -414,9 +415,10 @@ highly?&quot; &#x27; &#x27;
 ?mere dan a million ob dallors, sa ; for  
 what would dat be worth to.rman wid de  
 bref out ob him? Self prescrbashun am  
-de fust law wid me.&quot;
+de fust law wid me.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862032601:0277/pct:55.825137,62.759568,14.273224,20.422173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862032601:0277/pct:55.825137,60.185344,14.273224,22.996396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +430,7 @@ de fust law wid me.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-LER;  
+ER;  
   
 A COLORED FALSTATF.  
 I noticed upon the hurricane deck to­  
@@ -502,7 +504,7 @@ niggJi but I&#x27;d a missed myself, and dat
 war de pint wid mo.&quot;  
 It is safe to say that the dusky corpse  
 of that A moan will never darken the  
-field of carnage. J. 
+field of carnage. J. G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028848:1862032801:0209/pct:14.659326,15.259914,16.379904,79.501608/!600,600/0/default.jpg"/>
 </td>
@@ -516,7 +518,7 @@ field of carnage. J.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-..  
+.  
 A Philosophic \egpo.  
 A correspondent of the Cincinnati Gazette,  
 writing from the Cnmherhwd riv-p, gir. s a  
@@ -566,7 +568,7 @@ to you /”
 among de vanities.”  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnag
+carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862032901:0360/pct:81.203148,15.831097,12.837331,22.595679/!600,600/0/default.jpg"/>
 </td>
@@ -580,7 +582,7 @@ carnag
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the present week.  
+of the present week.  
 A Philosophic Darkey. — A corre­  
 spondent of the Cincinnati Gazette, writing  
 from the Cumberland river, gives the follow­  
@@ -654,7 +656,7 @@ It is safe to say that the dusky corpse of that
 African will never darken the field of carnage.  
 A Troy Female acting as a Lieuten­  
 ant on the Potomac. It seems from a private  
-correspondence that one of the compan
+correspondence that one of the compani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862033001:0006/pct:69.023508,49.581646,12.025316,32.982456/!600,600/0/default.jpg"/>
 </td>
@@ -668,7 +670,7 @@ correspondence that one of the compan
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, 35  
+35  
   
 A Philosophical Darkey■  
   
@@ -750,7 +752,8 @@ wid me.”
   
 It is eafe to say that the dusky corpse of  
 that African will never darken the field of car­  
-nage.
+nage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862040101:0003/pct:37.559809,1.472518,17.188075,97.740195/!600,600/0/default.jpg"/>
 </td>
@@ -764,8 +767,6 @@ nage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A COLORED FALSTAFF  
   
 A Western correspondent on one of the  
@@ -855,7 +856,8 @@ was de pint wid me.&#x27;
   
 It is safe to say that the dusky corpse  
 of that African will never darken the field  
-of carnage.
+of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aura_ver01%2Fdata%2Fsn83032227%2F000001971%2F1862040201%2F0056.jp2/pct:5.747748,4.524823,11.936937,43.053191/!600,600/0/default.jpg"/>
 </td>
@@ -869,7 +871,6 @@ of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A PHILOSOPHIC NEOIIO—A corres­  
 pondent of the Cincinnati Gazette,writ­  
 ing from tho Cumberland river, gives a  
@@ -929,7 +930,7 @@ It is safe to say that the dusky corpse
 of that Afrioan will never darken the  
 field of carnage.  
   
-TAKING IT BAST.—
+TAKING IT BAST.—O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1862040301:0113/pct:83.555803,31.505084,12.995921,36.689102/!600,600/0/default.jpg"/>
 </td>
@@ -943,8 +944,6 @@ TAKING IT BAST.—
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I noticed upon the hurricane deck to­  
 day an elderly darkie with a very philos­  
 ophical and retrospective cast of counte-  
@@ -971,7 +970,7 @@ jact. His philosphy was so much in the
   
 Falst flian vein that I will give his own  
   
-words as near as my memory a rves m
+words as near as my memory a rves me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862040301:0487/pct:6.000760,39.257624,12.476263,8.086105/!600,600/0/default.jpg"/>
 </td>
@@ -985,8 +984,7 @@ words as near as my memory a rves m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
- i  
+i  
   
 &quot;Were you in the figh?&quot;  
 Had a little taste of it, s  
@@ -1101,7 +1099,7 @@ It is safe to say that the dusty corps
 of that African will never darken the field  
   
 of carnage  
-aien toatat
+aien toatate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862040301:0487/pct:6.190657,44.018214,19.293581,34.152063/!600,600/0/default.jpg"/>
 </td>
@@ -1115,8 +1113,6 @@ aien toatat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A PHILOSOPHIC DARKEY.  
 A correspondent of the Cincinnati Ga­  
 zette, writing from the Cumberland river,  
@@ -1193,7 +1189,8 @@ dead nigga but I&#x27;d a missed myself, and
 dat was de pint wid me.&#x27;  
 It is safe to say that the dusty corpse  
 of that African .will never darken the  
-field of carnage.
+field of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862040301:0106/pct:63.595779,16.724305,14.955357,47.835109/!600,600/0/default.jpg"/>
 </td>
@@ -1207,8 +1204,6 @@ field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I noticed upon the hurricane deck to-  
 iy darkey with a very philo-  
 sophical and retrospective cast of coun-  
@@ -1282,7 +1277,8 @@ n ggn--but I&#x27;d missed myself, and dat was
 de pint wid me.&quot;  
 bas safe to say that the dusky corpse of  
 that African will never darken the field of  
-carhage.
+carhage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1862040401:0081/pct:84.441539,13.406172,11.878969,35.848221/!600,600/0/default.jpg"/>
 </td>
@@ -1306,7 +1302,7 @@ carhage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i  
+i  
 I noticed nponthe huiricane, toolny  
 in elderly de:hie-with a very philosophical  
 and. retrospective east Of Counten;oo,sqiiisit •  
@@ -1325,7 +1321,7 @@ irords. as neapas my teemoty saves me: •
 • Were you itithe fight r :  
 a.Had a little.mste of it,ta.&quot; • . .  
 Stood.your groundedid Ion?&quot; •  
-
+&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002351%2F1862040501%2F0056.jp2/pct:6.685954,18.716794,10.371750,7.871333/!600,600/0/default.jpg"/>
 </td>
@@ -1339,7 +1335,6 @@ Stood.your groundedid Ion?&quot; •
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 I aties.,-inare dan all. die wind  
 —more an a million ob. dollars se; for what,  
 would dat&#x27;bo truth &#x27;to a man wid de href out  
@@ -1374,7 +1369,7 @@ much to dem sojers, list alone a dead. nigga
 pint wid Truer -  
 It is safe - to say that - the dusky corpse , . of  
 :tluttAfricia will tiara&#x27; darken the field - of  
-carnage, -
+carnage, - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002351%2F1862040501%2F0056.jp2/pct:6.741439,32.166782,10.692771,13.955301/!600,600/0/default.jpg"/>
 </td>
@@ -1388,8 +1383,6 @@ carnage, -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Do yoe copelder pour life worth more  
 than other peeple&#x27;s ?&quot;  
 &quot;it&#x27;s wuf more to me, sa.&quot;  
@@ -1402,7 +1395,7 @@ law wid me.&quot;
   
   
   
-southward ho
+southward hot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1862040501:0459/pct:56.311921,32.767162,23.319484,4.108673/!600,600/0/default.jpg"/>
 </td>
@@ -1416,8 +1409,6 @@ southward ho
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
-  
 But why should yow act upon a different  
 rule from other mse?  
 Because different men set different val­  
@@ -1462,7 +1453,7 @@ wid me.&quot;
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
 carnags.  
-Asorhe
+Asorhea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1862040501:0459/pct:67.636092,36.765747,11.984660,14.598569/!600,600/0/default.jpg"/>
 </td>
@@ -1476,8 +1467,6 @@ Asorhe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A PHILOSOPHIC NEGRO.  
   
 A correspondent of the Cincinnati Gazette,  
@@ -1534,7 +1523,8 @@ him’ Self preecrbashun am de fust law
 Then patriotiew and honor are nothing to  
   
 * Nuffin  
-ww de vanities
+ww de vanities  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1862-04-05_2123%2Fsim_saturday-evening-post_1862-04-05_2123_jp2.zip%2Fsim_saturday-evening-post_1862-04-05_2123_jp2%2Fsim_saturday-evening-post_1862-04-05_2123_0007.jp2/pct:8.180820,33.930540,14.037335,29.740904/,600/0/default.jpg"/>
 </td>
@@ -1568,8 +1558,6 @@ ww de vanities
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Philosophic Darkey. &#x27;  
 A correspondent of tho Cincinnati Ga  
   
@@ -1647,7 +1635,7 @@ was do pint wid mo.&quot;
 It is safe to say lhat the dusky corps  
 of that African will never darken the field  
 of carnage.  
-To Youn
+To Youno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862040901:0591/pct:76.674560,14.216612,14.073072,47.734781/!600,600/0/default.jpg"/>
 </td>
@@ -1661,7 +1649,6 @@ To Youn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A COLORED FALSTAFF.  
 A Western correspondent on one of  
 the Mississippi gun-boats gives the f fl­  
@@ -1741,11 +1728,9 @@ was de pint wid me.”
 It is safe to say that the dusky corpse  
 of that African will never darken the  
 field of carnage,  
-A Livery stable keeper, named Spurr,  
-would never let a horse go out without  
-requesting the la
+A Liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1862040901:0188/pct:6.717649,42.321549,12.670565,47.410493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1862040901:0188/pct:6.717649,42.321549,12.670565,46.284621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1777,7 +1762,6 @@ requesting the la
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 hear  
   
 A Colored FalRtalV.  
@@ -1853,7 +1837,7 @@ dead mgga—but I’d a missed mysuK,
 and dat was de pint wid me.*’  
 It is safe to say that the dusky corpse  
 of that African will never darken the  
-field of carnage
+field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151052:1862041001:0008/pct:69.995334,14.930016,25.641624,80.870918/!600,600/0/default.jpg"/>
 </td>
@@ -1867,7 +1851,7 @@ field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_.l  
+.l  
   
 A Western correspondent on one of the  
 Mississippi gun-boats gives tho;foilowing ac­  
@@ -1913,7 +1897,7 @@ life &quot;i - :
   
 &quot;Then you &#x27;twit value it&#x27;vory  
 • &quot;Yea, sa, I does---Thoro don all:dis wuld—  
-&#x27;bore don 
+&#x27;bore don a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002419%2F1862041101%2F0041.jp2/pct:65.118790,56.313748,14.706460,22.737394/!600,600/0/default.jpg"/>
 </td>
@@ -1927,7 +1911,7 @@ life &quot;i - :
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* moat ei.utitly bfhav- l an 1 heav\
+moat ei.utitly bfhav- l an 1 heav\
 io.-ing r-pi i.cut- at the ! i.t P &gt;n • —ai  
 butt, tnd part of wh a w ahoar 1, 1  
 beg in to int-rrogate hiai up-u tn • -u •­  
@@ -1999,7 +1983,7 @@ j tion,
 Hon. Emerson Etheridge, Clerk of the  
 House of Representatives, having return­  
 ed to his homo in Tennessee in company  
-
+i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1862041101:0480/pct:16.794047,15.974441,26.206758,82.326459/!600,600/0/default.jpg"/>
 </td>
@@ -2013,7 +1997,7 @@ ed to his homo in Tennessee in company
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. I noticed on the  
+I noticed on the  
 hurricane deck to-day an elderly darkee with  
 a very philosophical and retrospective cast of  
 countenance, squatted upon his bundle toast.  
@@ -2082,7 +2066,7 @@ have missed you if you had been killed?&quot;eir memor interwin an the sentimen
 much to dese sojers, let alone a dead nigga e  
 but I&#x27;d a missed myself, and dat was de pint The ma contractors who have arrie at  
 e e e o eainon o ene e a a e  
-If is sate to say that the dusky corpse of State will probably accept the plan of ema
+If is sate to say that the dusky corpse of State will probably accept the plan of eman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1862041101:0293/pct:18.278932,62.321240,25.736894,32.936926/!600,600/0/default.jpg"/>
 </td>
@@ -2096,8 +2080,6 @@ If is sate to say that the dusky corpse of State will probably accept the plan o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?  
 No, sa, I runs.&quot;  
@@ -2107,7 +2089,7 @@ No, sa, I runs.&quot;
 had  
   
 of one man, and him a secessionist. Great  
-God, on what a slender threa
+God, on what a slender thread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1862041101:0058/pct:66.836216,33.756861,25.039965,4.086196/!600,600/0/default.jpg"/>
 </td>
@@ -2121,11 +2103,10 @@ God, on what a slender threa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &quot;Because different men set different values my boot  
   
-upon dar lives--mine is not in de market.&quot;
+upon dar lives--mine is not in de market.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296242:1862041101:0058/pct:66.269438,50.091482,15.419270,1.107949/!600,600/0/default.jpg"/>
 </td>
@@ -2139,7 +2120,6 @@ upon dar lives--mine is not in de market.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I noticed upon the hurricane deck to-day  
 an elderly darkle with a very philosophical  
 and retrospective cast of countenance,  
@@ -2213,7 +2193,7 @@ It is safe to say that the dusky corpse
 of thet African will never darken the field  
 of courage.  
 It should be a startling thought,  
-that G and may take th
+that G and may take the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768710:1862041101:0384/pct:2.824680,19.441548,13.239703,48.870351/!600,600/0/default.jpg"/>
 </td>
@@ -2237,7 +2217,7 @@ that G and may take th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- at figures.  
+at figures.  
 A Philosophic Xegro.  
 A correspondent of the Cincinnati Ga  
 zi-tte. writii!: from the Cumberland river,  
@@ -2289,7 +2269,7 @@ among de vaneties.&quot;
 It is 6afe to say that the dusky corpse  
 of that African will never darken the  
 field of carnage,  
-&quot;Them&quot; Sabdiket. Not a grea
+&quot;Them&quot; Sabdiket. Not a great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1862041201:0123/pct:51.900826,57.304870,10.840220,24.305092/!600,600/0/default.jpg"/>
 </td>
@@ -2303,7 +2283,7 @@ field of carnage,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tended  
+ended  
 his obsequies.  
   
 A PHILOSOPHIC NEGRO.  
@@ -2378,7 +2358,7 @@ carnage.
 IMPORTANCE OF ANIMALCULES.  
   
 M. Pasteur, speaking of the wonderful  
-power possessed by th
+power possessed by the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1862-04-12_32_15%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_jp2.zip%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_jp2%2Fsim_presbyterian_the-presbyterian_1862-04-12_32_15_0003.jp2/pct:29.571984,19.565887,10.773745,28.499589/,600/0/default.jpg"/>
 </td>
@@ -2402,8 +2382,6 @@ power possessed by th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A IirSGIEW FALSTAFF.  
 •  
 A Western correspondent on one of the  
@@ -2506,7 +2484,7 @@ It is safe to say that the dusky corpse
 of that African will never darken the field  
 of carnage.  
   
-HUMOROUS
+HUMOROUS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_camenae_ver02%2Fdata%2Fsn85054562%2F000002022%2F1862041601%2F0352.jp2/pct:38.541667,10.313773,16.278176,47.148676/!600,600/0/default.jpg"/>
 </td>
@@ -2520,8 +2498,6 @@ HUMOROUS
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Western correspondent on one of  
 the Missi sippi gunboats gives the fol­  
 lowing account of a spicy conversation  
@@ -2599,15 +2575,9 @@ and dat was de pint wid me.&quot;
 It is safe to say that the dusky corpse  
 of that African will never darken the  
 field of carnage.  
-  
-I O N A VESSELS  
-  
-The rebellion, and narrow escape  
-from war with England, have brought  
-the subject of an iron-clad navy—in  
-vincible, the greatest in the world,an
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn89064562:00212472591:1862041601:0037/pct:56.106870,16.174531,12.731734,46.930492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn89064562:00212472591:1862041601:0037/pct:56.106870,16.174531,12.731734,43.318113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2619,7 +2589,7 @@ vincible, the greatest in the world,an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. I wot iced  
+I wot iced  
 upon the nnrrieaao deek to-day an el­  
 derly darkie with a very philosophical  
 and retrospective east of countenance,  
@@ -2692,7 +2662,7 @@ aln 1 nn,CD 10 tnese &quot;jers, let alone a
 dead nigger but I&#x27;d a missed myself,  
 aDd dst WM d P!nl wiJ roe&quot;  
 Il is 8afe to that tfce dustJ corpse  
-ui no
+ui not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1862041701:0233/pct:46.223958,6.531752,12.183780,41.060712/!600,600/0/default.jpg"/>
 </td>
@@ -2706,7 +2676,6 @@ ui no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I noticed upon the hurricane deck to-day  
 an elderly darkie with a very philosophical  
 and restrospective cast of countenance, squat­  
@@ -2777,7 +2746,7 @@ pint wid me.&quot;
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
   
-carnage.Cor of
+carnage.Cor of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1862041901:1047/pct:4.707170,24.391601,13.081554,33.041302/!600,600/0/default.jpg"/>
 </td>
@@ -2801,7 +2770,7 @@ carnage.Cor of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- he belonged with the 9th Illinois,  
+he belonged with the 9th Illinois,  
 one of the most gallant and heavy losing  
 regiments in the recent battle, he began to  
 talk with him about the fight.  
@@ -2861,7 +2830,7 @@ de pint wid me.&quot;
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
 carnage.  
-A Shrar Yourn
+A Shrar Yourn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1862042201:0271/pct:71.264184,51.791411,11.251398,27.104294/!600,600/0/default.jpg"/>
 </td>
@@ -2875,7 +2844,7 @@ A Shrar Yourn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. J. M,  
+J. M,  
 A Philosophical Dathey.  
 [Correspondence Cincinnati Gazette ]  
 I noticed upon th hurricane deck, to­  
@@ -2949,7 +2918,7 @@ mgga—but 1 and missed myself, and dat was
 de pint wid me.”  
 It is safe to say that the dusky corpse1  
 of that African will never darken the  
-li Id of carnage
+li Id of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1862042301:0868/pct:66.724916,34.517357,12.479977,37.515857/!600,600/0/default.jpg"/>
 </td>
@@ -2973,7 +2942,7 @@ li Id of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the 7imu.  
+of the 7imu.  
 a i mm  
 A Philosophic iiikey.  
 A correspondent of the Cincinnati Guzelte  
@@ -3046,7 +3015,7 @@ will me.&quot;
 It is safe to say that tha dusky corpse of  
 that African will never darken the field . of  
 carnage.  
-,
+, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1862043001:0504/pct:32.903464,15.969728,12.232867,33.940482/!600,600/0/default.jpg"/>
 </td>
@@ -3060,7 +3029,6 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I noticed upon the hurricane deck to-day  
 an elderly darkie with a very philosophical  
 and retrospective cast of countenance, squat­  
@@ -3129,7 +3097,8 @@ but I&#x27;d missed myself an dat was de pint wid
 me.&quot;  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage.
+carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1862050201:0491/pct:69.167458,23.112945,12.778305,41.613706/!600,600/0/default.jpg"/>
 </td>
@@ -3143,7 +3112,6 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 e eeee ee  
 A PhilOsOPHic DarkEy.  
 A correspondent of the Cincinnati Gazatte,  
@@ -3215,7 +3183,8 @@ much to dese sogers, let alone a dead nigga
 but I&#x27;d missed myself, and dat was de pint  
 wid me.&quot;  
 It is safe to say the dusky corpse of that  
-African will never darken the field of carnage.
+African will never darken the field of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1862050601:1067/pct:5.178257,50.844218,12.701640,37.697781/!600,600/0/default.jpg"/>
 </td>
@@ -3229,8 +3198,6 @@ African will never darken the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A ITEGEO FAISTAPF.  
   
 A Western correspondent of one of the  
@@ -3315,7 +3282,7 @@ nigga—but I’d a missed myself, and dat
 was de pint wid me.” r  
 It is safe to say that the dusky corpse  
 of that African will never darken the field  
-of carnage. ■
+of carnage. ■ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001717%2F1862050801%2F0061.jp2/pct:73.462702,16.027778,12.642809,44.340278/!600,600/0/default.jpg"/>
 </td>
@@ -3329,7 +3296,7 @@ of carnage. ■
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; A Philosophic Darkej.  
+A Philosophic Darkej.  
 A correspondent of the Cincinnati  
 Gazelle,&#x27;, writing from the Cumberland  
 rivergives the following humorous ccb-  
@@ -3394,7 +3361,7 @@ than other people&#x27;s?&quot; &quot; -&#x27; &quot;
 wurldmore&quot; dan a million cb dollars,  
   
 sab; fcr-what &quot;would dat be wuth to a.  
-man wid de brcf out cb him? Self-pre
+man wid de brcf out cb him? Self-pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862050801:0591/pct:79.601311,45.498711,13.667395,24.687686/!600,600/0/default.jpg"/>
 </td>
@@ -3408,7 +3375,7 @@ man wid de brcf out cb him? Self-pre
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- de fust law,  
+de fust law,  
   
 uBut why should you act upon  
   
@@ -3449,7 +3416,7 @@ of that American will ever darken the
   
 field of carnage.  
   
-A livi
+A livin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470594:1862050801:0591/pct:79.410158,70.265715,13.312398,19.482451/!600,600/0/default.jpg"/>
 </td>
@@ -3463,7 +3430,7 @@ A livi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-is the greatest  
+s the greatest  
 of modern battles.”  
   
 A PHILOSOPHIC NEGRO.  
@@ -3529,7 +3496,8 @@ missed you if you had been killed?”
 dese sogers, let alone a dead nigga—but I’d a missed  
 mvself, and dat was de pint wid me.”  
 It is safe to say that the dusky corpse of that Af­  
-rican will never darken the field of carnage.
+rican will never darken the field of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_selene_ver01:data:sn84031524:print:1862050901:6576/pct:79.800321,64.321214,14.708504,32.644520/!600,600/0/default.jpg"/>
 </td>
@@ -3543,12 +3511,10 @@ rican will never darken the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 | A Western corrvspondent of one of the |  
 | Mississippi gun-boats, gives the following |  
 | account of a spicy conversation with a phi |  
-losophic
+losophics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1862051501%2F0196.jp2/pct:55.818540,23.310944,11.715976,1.830633/!600,600/0/default.jpg"/>
 </td>
@@ -3562,7 +3528,6 @@ losophic
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ical and retrospective cast of countenance,  
 squatted upon his bundle, toasting his shins  
 against the chimney, and apparently pluag-  
@@ -3657,7 +3622,7 @@ Ttis safe to say that the dusky corpse of
 that Afri an will never darken the field of  
 carnage.  
   
-i
+it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1862051501%2F0196.jp2/pct:55.818540,26.221520,11.577909,32.464112/!600,600/0/default.jpg"/>
 </td>
@@ -3671,7 +3636,6 @@ i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-•  
 A Weliefe.ewrikeihkept• —r OfrOite ofll*  
 iiiiftrisi/PlkikEnn•htlaW gives &#x27;the folloW,iog  
 PeklonPlit dr a spicy conversation ?With a phi,.  
@@ -3754,7 +3718,8 @@ ESE
   
 It is safe to) say that the dusky corpse. of  
 that African will never darken the field of  
-carnage.
+carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001920%2F1862051501%2F0065.jp2/pct:52.262790,14.111933,16.812418,46.870702/!600,600/0/default.jpg"/>
 </td>
@@ -3768,7 +3733,7 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- up and sold fur  
+up and sold fur  
 old iron.  
   
 A Philisophical Darkey.  
@@ -3839,7 +3804,7 @@ hut I’d misled myself, and dal was the pint
 wid mo.”  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1862051701:0296/pct:47.948902,12.932750,29.596977,80.912588/!600,600/0/default.jpg"/>
 </td>
@@ -3853,7 +3818,6 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-RTS REVEALED.  
 A correspondent of the Cincinnati Gazette, writ­  
 ing from the Cumberland River, gives a humor­  
 ous account of a colloquy with a philosophic Afri­  
@@ -3897,9 +3861,9 @@ preserbashun am de fust law wid me.’
 ¢ Nuffin whatever, sa—l regard dem as mong  
 de vanities.” . :  
 It is safe to say that the dusky corpse of that  
-African will never darken the field of carnage
+African will never darken the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868533:1862051701:0288/pct:17.580766,70.782123,12.967693,19.586592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868533:1862051701:0288/pct:17.580766,71.240223,12.967693,19.128492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3911,8 +3875,6 @@ African will never darken the field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Philosophic Negro.—A correspondent  
 of the Cincinnati Gazette, writing from the  
 Cumberland river, gives a humorous account  
@@ -3951,7 +3913,7 @@ or are nothing to you?’ ‘Nuffin, whatever,
 sa—I regard dem as among de vanities.’ It  
 is safe to say that the dusky corpse of that Af­  
 rican will never darken the field of carnage.”  
-Artemus Ward as a
+Artemus Ward as an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862052201:0482/pct:69.874975,49.455241,12.323874,18.168433/!600,600/0/default.jpg"/>
 </td>
@@ -3965,7 +3927,7 @@ Artemus Ward as a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s Macbethan Dread- &quot;The  
+s Macbethan Dread- &quot;The  
 ghost of Bank-owe.&quot;  
   
 A PHILOSOPHIC NEGdRO. A correspon  
@@ -4045,7 +4007,7 @@ but I&#x27;d a missed myself and dat was de pint
 wid me.  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnag
+carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1862052301:0750/pct:68.877756,6.360321,26.693387,90.401167/!600,600/0/default.jpg"/>
 </td>
@@ -4059,7 +4021,6 @@ carnag
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Philosophical Usrkey,  
   
 I notice! upon tlie hurricane deck an  
@@ -4132,7 +4093,7 @@ nigga, but I&#x27;d missed myself, and dat was
 the pint wid me.”  
 It is safe fu sa/ that the dusky corpse  
 of that African will never darken the Held  
-of carriage.
+of carriage. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862052401:0085/pct:16.519746,37.883375,11.442172,33.842306/!600,600/0/default.jpg"/>
 </td>
@@ -4146,8 +4107,6 @@ of carriage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 A PHILOSOPHIC NEGRO.  
   
 A corresPonpenT of The Cincinnati Gazeite,  
@@ -4192,7 +4151,8 @@ eae nine sa
 ’ © Yes, sa, I does—more dan a Gatosnies  
 dan a million ob dollars, sa ; for what would  
   
-be worth to aman-wid-de-bref-out ob him?
+be worth to aman-wid-de-bref-out ob him?  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_independent_1862-05-29_14_704%2Fsim_independent_1862-05-29_14_704_jp2.zip%2Fsim_independent_1862-05-29_14_704_jp2%2Fsim_independent_1862-05-29_14_704_0005.jp2/pct:74.764398,72.998366,13.206806,17.973856/,600/0/default.jpg"/>
 </td>
@@ -4206,8 +4166,6 @@ be worth to aman-wid-de-bref-out ob him?
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Pumosorme NreGro.—A correspondent of the Cincin-  
 nati Gaztte, writing fiom the Cvmberland rivcr, gives a humorous  
 account of a collcquy with a philosophic Airican. He says:  
@@ -4259,7 +4217,7 @@ him? £el:-preserbeshun :m de fust law wid me.’ 4
 “Ttis safe to say that the dusky corpse of the Africen will never  
 darken the field of carnage.”  
   
-Tu
+Tur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_leslies-weekly_1862-05-31_14_346-347%2Fsim_leslies-weekly_1862-05-31_14_346-347_jp2.zip%2Fsim_leslies-weekly_1862-05-31_14_346-347_jp2%2Fsim_leslies-weekly_1862-05-31_14_346-347_0010.jp2/pct:37.760181,15.385802,26.742081,15.956790/600,/0/default.jpg"/>
 </td>
@@ -4273,7 +4231,7 @@ Tu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Street, New York.  
+Street, New York.  
   
   
   
@@ -4390,7 +4348,7 @@ It is safe to say that the dusky corpse of that
 African will never darken the field of car-  
 nage,  
   
-+a o
++a oe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_phrenological-journal-and-science-of-health_1862-06_35_6%2Fsim_phrenological-journal-and-science-of-health_1862-06_35_6_jp2.zip%2Fsim_phrenological-journal-and-science-of-health_1862-06_35_6_jp2%2Fsim_phrenological-journal-and-science-of-health_1862-06_35_6_0017.jp2/pct:42.896010,56.330869,57.103990,32.624769/600,/0/default.jpg"/>
 </td>
@@ -4404,7 +4362,7 @@ nage,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. I notluoil  
+I notluoil  
 iiH)n the hurricane deck In day mi elderly  
 datkej with u very philosophical nnd retro­  
 sjieotlvo cast of cotiutenutirr, f(itatteil iivii  
@@ -4487,7 +4445,7 @@ wld mc.&quot;
 It Is safe to roy that Iho dusky corpse of  
 th.it Afrit-mi will never darkwi the field of  
   
-carnuge
+carnuge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_bravo_ver01%2Fdata%2Fsn84022657%2F00033872215%2F1862060701%2F0374.jp2/pct:67.627709,45.658466,13.680341,41.924747/!600,600/0/default.jpg"/>
 </td>
@@ -4501,7 +4459,7 @@ carnuge
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  a e   
+a e   
 aponn dar Hven smine in not ta da nere  
 afBut if you lost it you wecee hame e  
   
@@ -4520,7 +4478,7 @@ I&#x27;d missed
 It is safe to say that the dusky corpse of that   
 African will never darken the field of carnage  
 5 N.  
-Soene on 
+Soene on a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1862061201:0841/pct:80.112432,34.824415,15.288913,14.457915/!600,600/0/default.jpg"/>
 </td>
@@ -4534,7 +4492,6 @@ Soene on
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A PHILOSOPHIC NEGRO.  
 A correepondent of the Cincinnati Ga­  
 zette; writing from the Cumberland River,  
@@ -4585,7 +4542,7 @@ NuSn whatever; saI) regard dem as
 among de vanities..  
 EaT Method of Killing Insects.  
 For all moths, and beetle that fly at night,  
-use fire to trap them.
+use fire to trap them. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1862061401:0550/pct:38.095238,46.912453,14.657738,30.087890/!600,600/0/default.jpg"/>
 </td>
@@ -4601,7 +4558,7 @@ use fire to trap them.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—A correspondent of  
+A correspondent of  
 the Cincinnati Gazette, writing from the  
 Cumberland River, gives a humorous  
 account of a colloquy with a philosophic  
@@ -4645,7 +4602,7 @@ nothing to you?&#x27; *N_t_u whatever,
 &amp;—li*t*_f_ deni as among de vanities.*  
 It is safe to say that the dusky corpse  
 of that Ah-jaavrill never darken the  
-field of eantas
+field of eantase
 </td></tr></table>
 
 ---
@@ -4658,7 +4615,7 @@ field of eantas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A  
+A  
 correspondent of the &#x27;Cincinnati  
 Gazette,1 writing from the Cumberland  
 River gives a humorous account of a  
@@ -4701,7 +4658,7 @@ to you?&#x27; &#x27;NnfTin whatever Sa— I regard
 dem ns among de vanities.&#x27; It is safe to  
 say that the dusky corpse of that  
 African will uovcr darkeu tho field of  
-carnage
+carnage.
 </td></tr></table>
 
 ---
@@ -4712,7 +4669,7 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a philosophic darkey :  
+a philosophic darkey :  
 ! iced upon the hurricane deck to-day an  
 e&lt;e &#x27; ■&gt; darkey with a very philosophical and  
 relros pecuve cast of countenance, squatted  
@@ -4799,7 +4756,8 @@ much to dette sogers, let alone a dead nigga —
 but I&#x27;d a mi»»ed myself, and dat was dep ot  
 wid me.&quot;  
 |i I« a»fe to tny that the dusky corpse of that  
-u j
+u j  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00383342934:1862061901:0486/pct:76.764200,18.857425,14.870912,36.218622/!600,600/0/default.jpg"/>
 </td>
@@ -4815,7 +4773,7 @@ u j
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-] A  
+A  
 correspondent of the Cincinnati Gazette,  
 wvriting from tho Coumberland River,  
 gives a humorous nocount of n colloquy  
@@ -4845,7 +4803,7 @@ woitlld hove rue sousos, lsai I htniio
 it Illnr ciolil&#x27; &#x27; Why, hlli t wlh nllt  
 ve&#x27;&#x27;ry J?rudlluiihi to your ico iira .&#x27;  
 &#x27; hIt IllI&#x27;tl Ii soy lie, lii-eisis toy  
-&quot; ,olsobin&#x27; s
+&quot; ,olsobin&#x27; s 
 </td></tr></table>
 
 ---
@@ -4858,7 +4816,7 @@ ve&#x27;&#x27;ry J?rudlluiihi to your ico iira .&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- es, hl,,,t r lo ?m, o sal oifp&#x27;l  
+es, hl,,,t r lo ?m, o sal oifp&#x27;l  
 h) wulF 1 ?(?,w thJn n million of  
 dollars, Sa; for what would dat be 1  
 worth to a man wid do brof out of him?  
@@ -4868,7 +4826,7 @@ nothing toa y&#x27;ou ? &#x27; &#x27; Nuflin whatever,
 Sa-I regard dlem as among de vanities.&#x27;  
 It is safe to say that the dtlusky  
 colrpse of that African will never  
-dlarklen tihe field of carnage.&quot;
+dlarklen tihe field of carnage.&quot; 
 </td></tr></table>
 
 ---
@@ -4881,7 +4839,7 @@ dlarklen tihe field of carnage.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. A Philosophic Negro.—A  
+A Philosophic Negro.—A  
 correspondent of the Cincinnati Gazcitc,  
 writing from the Cumberland Biver, gives  
 a humorous account of a colloquy with a  
@@ -4925,7 +4883,7 @@ to you?&#x27; &#x27;Nufiin whatever, Sa—I regard
 deni as among de vanities.&#x27; It is safe  
 to say that the dusky corpse of that  
 African ■ will never darken the field of  
-carnage.&quot; 
+carnage.&quot; i
 </td></tr></table>
 
 ---
@@ -4938,8 +4896,7 @@ carnage.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-the newspapers, A correspondent of the  
+A correspondent of the  
 Cincinnati Gazette, writing from the  
 Cumberland River, gives a humorous  
 account of a colloquy with a philosophic  
@@ -4984,7 +4941,7 @@ nothing to you ?&#x27; &#x27; Nuffin whatever,
 Sa-I regard dem as among de vanities.&#x27; ,  
 It is safe to bay that the dusky corpse  
 of that African will never darken the  
-field of carnage.&quot; - M
+field of carnage.&quot; - Mr
 </td></tr></table>
 
 ---
@@ -4995,7 +4952,7 @@ field of carnage.&quot; - M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hurricane deck  
+hurricane deck  
 to-day an elderly darkey, with a very  
 philosophic and retrospective cast of  
 countenance, squatted upon his bundle,  
@@ -5041,7 +4998,8 @@ bashun am de first law wid me.&quot;
 thing to vou?&quot;  
 &quot;Nuffin whatever, sa--I regard dem  
 as among de vanities.&quot;  
-Special No tices
+Special No tices  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1862062801:0302/pct:72.492297,27.710377,12.615543,29.414042/!600,600/0/default.jpg"/>
 </td>
@@ -5055,8 +5013,6 @@ Special No tices
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-^  
-  
 A HULOlUi&#x27;HIO uahkit.  
 A correspondent of Hie Cincinnati &lt;**»-  
 saetle, writing from the Cumberland river;  
@@ -5131,7 +5087,7 @@ jr»r_but I’d a missed myself, uud dut was
 de pint wid me.”  
 It is safe to saylhal the dusky corps of  
 that African will never darken the Held of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557220:1862070101:0937/pct:8.999572,27.060957,17.421975,46.171014/!600,600/0/default.jpg"/>
 </td>
@@ -5147,7 +5103,7 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. A  
+A  
 philosophic .Necjro. — A correspoudent  
 of the Cincinnati Gazette, writing from  
 the Cumberland Kiver. gives a humorous  
@@ -5192,7 +5148,7 @@ whatever, Sa-I regard dem ns among de
 vanities.&#x27; It la safe to say that the  
 dusky corpse of that African will never  
 darken the field of carnage.&#x27;  
-Politeness.
+Politeness. 
 </td></tr></table>
 
 ---
@@ -5205,7 +5161,7 @@ Politeness.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-— A correspondent  
+A correspondent  
 of the Cineumalti Gazette, writing from  
 Cumberland Bivcr, gives a humorous  
 account of &amp; colloquy with a philosophic  
@@ -5250,7 +5206,7 @@ to you?&#x27; &#x27;Xuffin whatever. Sa— I regard
 them as among de vanities.&#x27; It is safe  
 to say that the dusky corpse of that  
 African will never ^fflylrpn die field  
-of carnage
+of carnage.
 </td></tr></table>
 
 ---
@@ -5263,7 +5219,7 @@ of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. A  
+A  
 Philosophic Negbo. — A correspondent of  
 the Cincinnati Gazette, writing from the  
 Cumberland River, gives a humorous  
@@ -5308,7 +5264,7 @@ are nothing to you &#x27;Nuffin whatever, Sa—
 I, regard dem -as among de .vanities;&#x27;  
 It is safe io say that the duBky -  
 corpse of that African will  
-neverdarkenthefield of carnage.
+neverdarkenthefield of carnage.&#x27;
 </td></tr></table>
 
 ---
@@ -5321,7 +5277,6 @@ neverdarkenthefield of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 correspondent of the Cincinnati Gazette,  
 writing from the Cumberland River, gives  
 a humorous ac-count of a colloquy with a  
@@ -5374,7 +5329,7 @@ lorces to do that kind of buBiness for
 us It is not long since nearly all the  
 women of every nation, and a great  
 number of the men, spent hours of every  
-day in nlying th
+day in nlying the
 </td></tr></table>
 
 ---
@@ -5387,7 +5342,7 @@ day in nlying th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r.&#x27;— Tbe correspondent  
+.&#x27;— Tbe correspondent  
 of the Cincinnati Gazette, writing from  
 the Cumberland River, gives a humorous  
 account of a colloquy with a philosophic  
@@ -5433,7 +5388,7 @@ is safe to say that the dutky corj-Ee of
 that African will never darken the liild  
 of carnage.&#x27; Sai.aiues in Public  
 Offices.— An account has been issued of  
-every increase and diminution
+every increase and diminution 
 </td></tr></table>
 
 ---
@@ -5444,8 +5399,6 @@ every increase and diminution
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 It  
 A correspondent of the Cincinnati G­  
 rette, writing from Cumberland river, gives  
@@ -5505,7 +5458,7 @@ All
 to  
 the  
 S0  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1862070901:0933/pct:14.142379,51.723301,11.896799,45.024272/!600,600/0/default.jpg"/>
 </td>
@@ -5521,7 +5474,6 @@ S0
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 — A correspondent of the Cincinnati  
 Gazette, writing from tbo Cumberland  
 River, gives a humorous account of a  
@@ -5565,7 +5517,7 @@ and honour aro nothing to you?&#x27; &#x27; Nuffin
 whatever, Sa — I regard deni as among do  
 vanities.&#x27; It is safe to say that the  
 dusky corpse of that African will never  
-darken the field of carnage.
+darken the field of carnage.&#x27;
 </td></tr></table>
 
 ---
@@ -5578,7 +5530,7 @@ darken the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-) A correspondent of the  
+A correspondent of the  
 &#x27;Cincinnati Gazette,&#x27; writing from the  
 Cumberland River, gives a humorous  
 account of a colloquy with a philosophic  
@@ -5622,7 +5574,7 @@ nothing to you?&#x27; &#x27;Nuffin whatever, Sa —
 I regard dem as among the vanities.&#x27; It  
 is safe to say that the dusky corpse of  
 that African will never daiken the field  
-of carnage.
+of carnage.&#x27;
 </td></tr></table>
 
 ---
@@ -5635,7 +5587,7 @@ of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- correspondent of tho  
+correspondent of tho  
 Cincinnatti Gazette, writing from the  
 Cum-berland Uiver, gives a-humorous  
 account of a colloquy with a philosophic  
@@ -5681,7 +5633,7 @@ honour are .nothing to y on Pl.*&#x27;
 &quot;NiiiBn whatever, SL&#x27;J&#x27;regard dem- as  
 among de . vanities &quot; It is safe tb say  
 that :tho dusky corpse of that i African  
-will never darkon the field of carnage
+will never darkon the field of carnage.
 </td></tr></table>
 
 ---
@@ -5694,7 +5646,7 @@ will never darkon the field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- men and Sit I.) wea  
+men and Sit I.) wea  
 tuen.. A PnitosoMiic Nrnso.-A  
 eorn*)&gt;orid. m -of the iknatMoti Gaulle,  
 writing from tin Oomberbuid Uiver.  
@@ -5720,7 +5672,7 @@ io «be %ht ?&#x27; . Had a littl «aste of it,
 Ba.&quot; &#x27;Stood sour ground, di ?JouT -No.  
 fia, % tana&#x27; &quot;lion at the firs ?fire,  
 did you? &#x27; * Ves, Sa, and would h av ton  
-anona, bad I kn
+anona, bad I kno
 </td></tr></table>
 
 ---
@@ -5733,7 +5685,7 @@ anona, bad I kn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-«.o. — A correspondent  
+.o. — A correspondent  
 of the Cincinnati Gazette, writing, frcm  
 the Cumberland River, gives a humorous  
 account ofacolloquy with a philosophic  
@@ -5779,7 +5731,8 @@ safe to say that the dusky corpse of
 that African will never darken the field  
 of carnage.&#x27;  Equalization of the Sugar.  
 Duties. — There has juet been printed  
-for the House of Commons, on the motion
+for the House of Commons, on the motion  
+
 </td></tr></table>
 
 ---
@@ -5790,7 +5743,7 @@ for the House of Commons, on the motion
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Lytto Bulwer.  
+Lytto Bulwer.  
 A Philosophic Darkey.  
 A correspondent of the Cincinnati Gazette, writ­  
 ing from the Cumberland river, gives the following  
@@ -5854,7 +5807,7 @@ to dese soger. let alone a dead nigga but I&#x27;d a
 missed myself, and dat was de pint wid me.&quot;  
 It is safe to say thai the dusky corpse of that  
 African will never darken the field of carnage.  
-sparge) Earapea
+sparge) Earapeaa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1862082301:0489/pct:6.222843,25.711734,15.068281,34.364184/!600,600/0/default.jpg"/>
 </td>
@@ -5868,8 +5821,6 @@ sparge) Earapea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A COLORED FALSTAFF  
   
 A Western correspondent on one of  
@@ -5962,7 +5913,8 @@ nigga—but I&#x27;d a ,Inissed myself, and dat
 was de pint wid me.&quot;  
 It is safe to say that the dusky corpse  
 of that African will never darken the field  
-of carnage.
+of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001838%2F1862103101%2F0169.jp2/pct:81.258253,15.669655,12.186380,39.811572/!600,600/0/default.jpg"/>
 </td>
@@ -5976,7 +5928,7 @@ of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eeping ducts in perfect order by means of fre  
+eping ducts in perfect order by means of fre  
   
 quent bathings eec oputar Sctentine Reblete.  
   
@@ -6055,7 +6007,7 @@ me,&quot;8a13ad nad bluigiiy
 It is safe to say that the dusky cory so of that  
 Afrioan will never darken the field of a arnage.  
   
-W. R
+W. R.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863110601:0449/pct:51.588125,10.388175,29.748806,86.185937/!600,600/0/default.jpg"/>
 </td>
@@ -6069,7 +6021,7 @@ W. R
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e city.  
+ city.  
 A Philosophic Darkey.  
 A correipotident of the Cincinuati Ga­  
 zette , writing from the Cumberland river,  
@@ -6150,7 +6102,7 @@ It is safe to say that the dusky cor^e ot
 that African will never darken the field of  
 carnage.  
   
-The St
+The St.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660583:1863110701:0215/pct:44.282494,43.690693,21.202104,45.184737/!600,600/0/default.jpg"/>
 </td>
@@ -6164,8 +6116,6 @@ The St
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- illustration of [IY  
-  
 “Were you in the fight  
   
 «Had = little taste of it ?  
@@ -6246,9 +6196,10 @@ wid me,”
 It is safe to say that the dusky corpse of  
 that African will never darken the fleld of  
 carnage.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1863112001%2F0476.jp2/pct:29.788054,30.543106,14.894027,27.432112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1863112001%2F0476.jp2/pct:33.680154,30.543106,11.001927,27.432112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6260,7 +6211,6 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 odrresp . nude! t&quot;of, the Chicaned Grrette  
 writing trim the Cumberland river, gives  
 1/ 0111 0 1 :111111dUmidums_0011Apor_tlItin  
@@ -6361,7 +6311,7 @@ The more we&#x27; effect upon the result&#x27; of
 the recent eleotion the better we&#x27; are, in  
 some respects, satiated with it. It may in  
 the end prove. thil beat&#x27; that Jiidge Wood­  
-wa
+war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001921%2F1863112001%2F0169.jp2/pct:30.168933,16.806020,12.574373,48.586957/!600,600/0/default.jpg"/>
 </td>
@@ -6375,7 +6325,7 @@ wa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- os kilteria.  
+os kilteria.  
   
 A Negro Philosopher.  
   
@@ -6396,7 +6346,7 @@ then battle, and a part of which was aboard,
 1 began to interrogate him upon the subject.  
 Bis philosophy was so much in the Falstaffi­  
 an vein that 1 will give his   
-
+v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863112101:0003/pct:33.502921,26.175480,9.873752,7.690054/!600,600/0/default.jpg"/>
 </td>
@@ -6410,7 +6360,6 @@ an vein that 1 will give his
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 “ Were you in the fight?’*  
 “ Q&amp;d a little taste of it, ea,”  
 “Stood your ground. did you?”  
@@ -6459,7 +6408,7 @@ out resistance.”
   
 “Yee.aa; darwouldbave been no help for  
 ii; wouldn’t put my lite in the BCola ’gilnst  
-any goverrment that ever existed, for n
+any goverrment that ever existed, for no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863112101:0003/pct:33.371019,33.924125,9.967967,14.647722/!600,600/0/default.jpg"/>
 </td>
@@ -6473,8 +6422,6 @@ any goverrment that ever existed, for n
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A PHHLOSOPHIC DARIEy.  
   
 A correspondent of the Cincinnati Ga­  
@@ -6563,7 +6510,7 @@ sippi which have no rival on earth
 rock,-forests--sky and waters blended  
 in a magnificent fragment of beauty which  
 fairly saddens the poet or painter with  
-the conviction that neither words no
+the conviction that neither words nor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863112601:0825/pct:7.006484,46.253844,12.608069,45.401174/!600,600/0/default.jpg"/>
 </td>
@@ -6577,7 +6524,7 @@ the conviction that neither words no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l desired no better.  
+desired no better.  
 A NEgTO PhILOsOPHER.  
 A correspondent of the Cincinnatti Ca­  
 zette, writing from the Cumberland river,  
@@ -6652,7 +6599,7 @@ aae 4 tHGs
 It is safe to say that the dusk cornss of  
 that African will never darken the feld of  
 ShARP PrACTiCE. Many years ago at a  
-dinner party i
+dinner party in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471628:1863120101:0190/pct:38.075253,41.926412,10.911722,35.680806/!600,600/0/default.jpg"/>
 </td>
@@ -6666,7 +6613,7 @@ dinner party i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a  
+a  
 A. IVcgro PIiileMopEaer.  
 A correspondent of the Cincinnati Ga  
 zette, writing from tbe Cumberland riv  
@@ -6747,7 +6694,7 @@ of that African will never darken the
 field of carnage.  
 We were accidentally a listener, not  
 long ago, to a Methodist Minister labor­  
-in
+ing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555626:1863120301:0037/pct:53.506444,43.818279,13.381350,44.977351/!600,600/0/default.jpg"/>
 </td>
@@ -6761,7 +6708,7 @@ in
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- replied John. And  
+replied John. And  
 he went to help the ringers.  
 &#x27; How merciful has God been to me  
 this night!&quot;&#x27; was the concluding thought  
@@ -6850,7 +6797,7 @@ was de pint wid me.&#x27;
 It is sale to say that the dusky corps  
 of that African will never darken the  
 field of carnage.  
-. 
+. 4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1863120901:0101/pct:68.104478,39.118457,25.014925,45.550365/!600,600/0/default.jpg"/>
 </td>
@@ -6864,7 +6811,6 @@ field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Cumberland River correspondent  
 givS a humorous account of a eoloqny  
 with a philosephie &quot; contraband&#x27;&#x27; whom  
@@ -6915,7 +6861,7 @@ ing to you.&quot;
 among de vanities.&quot;  
 It is safe to predict that the dusky  
 corpse of that African will never darken  
-the field of carnage
+the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1863122401:0407/pct:5.482325,49.855173,11.099461,23.357664/!600,600/0/default.jpg"/>
 </td>
@@ -6929,8 +6875,6 @@ the field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Necro Pattosopner.—A correspondent of  
 the Cincinnati Gazette, writing from the Cum-  
 berland River, gives the following humorous col-  
@@ -7024,6 +6968,7 @@ I’d missed myself, and dat was the pint wid me.’’
   
 It is safe to say that the dusky corpse of that  
 African will never darken the field of carnage.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_living-age_1863-12-26_79_1021%2Fsim_living-age_1863-12-26_79_1021_jp2.zip%2Fsim_living-age_1863-12-26_79_1021_jp2%2Fsim_living-age_1863-12-26_79_1021_0026.jp2/pct:11.919643,47.822398,75.267857,42.929864/600,/0/default.jpg"/>
@@ -7038,13 +6983,13 @@ African will never darken the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 writing from the Cumberiand River,  
 the following humorous colloquy with  
   
 losophic darkey  
 I noticed upon the hurricane dock to  
-an elderly darkey, with
+an elderly darkey, with  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1864010101:0779/pct:82.961804,6.646324,9.716247,2.556818/!600,600/0/default.jpg"/>
 </td>
@@ -7058,7 +7003,7 @@ an elderly darkey, with
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sh  
+sh  
 the chimney and apparently plun  
 state of profound meditation. Findt  
 inquiry, that he belonged to the 3th Illisess.  
@@ -7107,7 +7052,7 @@ wid me.&quot;
   
 But why should you act upon  
 rule from other men  
-Because different men set d
+Because different men set di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1864010101:0779/pct:82.961804,9.627525,12.049711,17.287458/!600,600/0/default.jpg"/>
 </td>
@@ -7121,8 +7066,6 @@ Because different men set d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 of knowing that youd died  
   
 your country.&quot;  
@@ -7191,7 +7134,7 @@ It is safe to
   
 Say  
   
-tha
+that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1864010101:0779/pct:72.120106,27.809343,21.987572,11.083053/!600,600/0/default.jpg"/>
 </td>
@@ -7205,7 +7148,7 @@ tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n hands.&quot;  
+hands.&quot;  
   
 A PHILOSOPHIC DARKEY.  
   
@@ -7293,7 +7236,7 @@ but I&#x27;d missed myself, an&#x27; dat was de pint wid
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
   
-carnag
+carnage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cacus_ver01%2Fdata%2Fsn86081591%2F000002013%2F1864011201%2F0005.jp2/pct:40.894444,15.693182,33.833333,80.049242/!600,600/0/default.jpg"/>
 </td>
@@ -7307,7 +7250,7 @@ carnag
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. (Cheers.)  
+(Cheers.)  
   
 A PHILOSOPHIC DArKEY.  
 A correspondent of the Cincinnati  
@@ -7420,7 +7363,7 @@ self, an dat was the pint wid me.&quot;
 of that African will never darken the  
 field of carnage.  
   
-
+a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1864011501:0893/pct:67.269960,9.980985,29.458123,84.282073/!600,600/0/default.jpg"/>
 </td>
@@ -7444,7 +7387,7 @@ field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t i to e uede o e ee e e e  
+i to e uede o e ee e e e  
   
 sette writting from the Cumberland River  
   
@@ -7458,7 +7401,7 @@ his shins against the chimney, and appaand there along the coast, and at other
   
 rently plunged into a state of prolound points within our lines, have accepted the Kon tp J. B. Walters, Graham tp,  
 meditation. Finding, upon inquiry, that terms offered by the Presidents proclama On oon the orer oa o a­  
-he belonged to the 9th Iliinois, one of the tion of amnesty, and taken the oath gers at
+he belonged to the 9th Iliinois, one of the tion of amnesty, and taken the oath gers ate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864012001:1085/pct:8.914894,38.419350,88.468085,8.578259/!600,600/0/default.jpg"/>
 </td>
@@ -7472,8 +7415,6 @@ he belonged to the 9th Iliinois, one of the tion of amnesty, and taken the oath 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 me:  
   
 &quot;Were you in the fight?&quot;  
@@ -7484,7 +7425,7 @@ me:
   
 doubt. Yet, notwithstanding all this, we osen a   ora i oed to torete ooe e oa  
 have no doubt that many citizens residingei oton o a e e e i oni o oiion be een en et of Ario ae  
-within our line, a
+within our line, as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864012001:1085/pct:9.063830,50.738293,76.638298,4.528196/!600,600/0/default.jpg"/>
 </td>
@@ -7498,8 +7439,6 @@ within our line, a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 out ob him? Self-preserbashum  
   
 am de fust law wid me.&quot;  
@@ -7507,7 +7446,8 @@ am de fust law wid me.&quot;
 &quot;But why should you act upon a differ­  
 ent rule from other men?&quot;  
 &quot;Because different men set different val­  
-acs apor dar liver; mine is not in de mark
+acs apor dar liver; mine is not in de mark  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864012001:1085/pct:8.829787,67.557306,15.446809,4.373506/!600,600/0/default.jpg"/>
 </td>
@@ -7521,7 +7461,7 @@ acs apor dar liver; mine is not in de mark
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-re trans­  
+e trans­  
 ferred to the secret calendar.  
 A TMlotophlp Varkty.  
 A newspaper correspondent from tbe Cumberland  
@@ -7583,7 +7523,7 @@ myself, sah, and dat&#x27;s de pint wid me.&quot;
   
 xs-Jias. piiuttesAN is prepared to give  
   
-bstruction on th
+bstruction on the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm12n_ver01%2Fdata%2F1864012201%2F1012.jp2/pct:73.840770,62.418854,23.053368,33.305109/!600,600/0/default.jpg"/>
 </td>
@@ -7597,7 +7537,7 @@ bstruction on th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. and would hub run so Ber had  
+and would hub run so Ber had  
 j I knotted it Wat fciimniin.”  
 I “Why, that wasn’t, very creditable to  
 i your cdurtigo  
@@ -7646,7 +7586,7 @@ ain t much to dese sogers : let alone a dead
 i &quot;igger, but I’d a missed myself, sa, aud  
 jckts de pint wid me.”  
 | Collection of the Tax in Kind.  
-| Agreeably to a resolution of th
+| Agreeably to a resolution of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864012901:0088/pct:67.906411,22.647150,12.645388,26.966292/!600,600/0/default.jpg"/>
 </td>
@@ -7660,7 +7600,7 @@ jckts de pint wid me.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ex  
+ex  
 traordinary credits demanded by the Government.  
   
 A PhilOsophic Darkey. A Yankee newspaper  
@@ -7718,7 +7658,7 @@ to dese sogers, let alone a dead nigger; but I&#x27;d a
 missed myself, sa, and dat&#x27;s de pint wid me.&quot;  
 CAse of DesperATION.An old lady went to the  
 passenger depot in Allanta, a few days since, with  
-a bundle of clothes and a little bag of snga
+a bundle of clothes and a little bag of sngar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778011:1864020501:0065/pct:41.779653,42.246669,12.764889,22.884217/!600,600/0/default.jpg"/>
 </td>
@@ -7732,7 +7672,7 @@ a bundle of clothes and a little bag of snga
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i SL  
+i SL  
 Darkey- A newspaper  
   
 porrespondentj from:, the Cumberland &#x27;River  
@@ -7763,7 +7703,8 @@ reputation?,,
 &quot;Reputation is  
 ob life.&quot;  
   
-nuthin to me by de sjde
+nuthin to me by de sjde  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyNCF1n_ver01%2Fdata%2F1864020601%2F0029.jp2/pct:77.012338,46.721051,16.554054,14.546032/!600,600/0/default.jpg"/>
 </td>
@@ -7777,7 +7718,7 @@ nuthin to me by de sjde
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and  
+and  
 sfand or saif tree--Contederate.  
 A PHIOSOPHIC DARKEY. A newspaper  
 correspondent from the Cumberland Rivert  
@@ -7836,7 +7777,7 @@ ae  o   o o eoe   e e e e eo
   o e ee e e e  
 but l&#x27;d a mnissed mysell, sa, and dats de  
 pint wid me.&quot;  
-A Sriemish neAr SmIthtiel
+A Sriemish neAr SmIthtield
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91068137:00415667310:1864021001:0009/pct:68.940974,37.054096,13.032274,33.045864/!600,600/0/default.jpg"/>
 </td>
@@ -7850,7 +7791,6 @@ A Sriemish neAr SmIthtiel
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Plsiiosopliic EJarkey.  
 . A newspaper correspondent fronrthe Cum­  
 berland river gives the following humorous  
@@ -7903,7 +7843,7 @@ have missed you&#x27;if you had been killed ?&quot;
 &quot;May be not, sa, A dead white man ain&#x27;t  
 much to dese Soger*, let alone a dead nigger;  
 but I&#x27;d a .missed myself, sa, awl data de pint  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_barbaro_ver01:data:sn84025980:00280762210:1864021901:0292/pct:10.193571,32.398615,16.391405,34.364875/!600,600/0/default.jpg"/>
 </td>
@@ -7917,7 +7857,7 @@ but I&#x27;d a .missed myself, sa, awl data de pint
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, defenseive and  
+defenseive and  
 conservative.  
   
 A Negro Philosopher.—A correspond­  
@@ -7991,7 +7931,7 @@ but I&#x27;d missed myself, and dat was de pint
 wid me.&#x27;  
 It is safe to say that the dusty corpse of  
 that African will never darken the field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_bronte_ver01:data:sn89055016:00295869446:1864030501:0104/pct:20.583468,5.554083,36.750405,91.794804/!600,600/0/default.jpg"/>
 </td>
@@ -8005,7 +7945,6 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 N  
   
 A Philosophic Darkey.  
@@ -8072,7 +8011,7 @@ ain&#x27;t much to dese sogers; let alone a deed
 nieeer. bat I&#x27;d a missed myself, sa, aDd  
   
 data de pint wid me.&quot; 4  
-&#x27;? -..IT
+&#x27;? -..IT 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1864050401:0077/pct:73.403665,12.607087,26.762909,84.647586/!600,600/0/default.jpg"/>
 </td>
@@ -8086,7 +8025,7 @@ data de pint wid me.&quot; 4
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-4 philosophic Darkey.  
+ philosophic Darkey.  
 * correspondent of the Cincinnati Gazette,  
 •rttinc from tire Cumberland river, gives the  
 following humorous account of the coll jqily  
@@ -8150,7 +8089,8 @@ have missed you if you had been killed ?
 much to dese sogers’ let alone a dead nigga—  
 but Id a missed myself, aud dat was de pint  
 It is safe to say that the dusky corps of that  
-Amcau will never darken the field ot carnage.
+Amcau will never darken the field ot carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1864112401:0193/pct:5.142155,2.079676,12.688663,31.600270/!600,600/0/default.jpg"/>
 </td>
@@ -8164,7 +8104,6 @@ Amcau will never darken the field ot carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A PHILOSOPHIC DARKEY.  
 A newspaper correspondent from the  
 Cumberland river gives tho following hu­  
@@ -8229,7 +8168,7 @@ ain&#x27;t much to dese sogers: let alone a
 dead nigger, but I&#x27;d missed myself, sa, and  
 dats depint with me.  
 How a Mak vebls With his Hkao orv. It is  
-considered do all sides that the b
+considered do all sides that the bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1865021701:0443/pct:52.211538,44.758539,14.567308,36.207303/!600,600/0/default.jpg"/>
 </td>
@@ -8243,7 +8182,6 @@ considered do all sides that the b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 A PHILOSOPHIC .DARKEY. :  
 A&#x27; newspaper correspondent from .the  
 Cumberland river gives tlie following hu­  
@@ -8306,7 +8244,7 @@ killed ? &#x27; -&#x27; , . , ; .
 ain&#x27;t much to dese&#x27; Bogers: let alons a  
 dead nigger, but I&#x27;d missed myself, sa, and  
 dats depint with me.  
-. -.
+. -. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1865022201:0616/pct:51.302083,43.392353,15.643601,37.079805/!600,600/0/default.jpg"/>
 </td>
@@ -8320,7 +8258,7 @@ dats depint with me.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s.  
+.  
   
 A Philosophical parkey.  
   
@@ -8398,7 +8336,7 @@ wid me.
   
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002422%2F1865030301%2F0032.jp2/pct:81.321023,17.028454,14.813312,39.773394/!600,600/0/default.jpg"/>
 </td>
@@ -8412,7 +8350,6 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 I noticed upon tbe hurricane deck to­  
 day an elderly darkey with a very philo­  
 sophic^ and retrospective cast of counten­  
@@ -8482,7 +8419,8 @@ much to dcee sogers, let alone a dead nig­
 do pint wid me.&quot;  
 It is safe to say that tbo dusky corpse of  
 that African will never darken the field of  
-carnage.
+carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190753:1865031701:0233/pct:3.604180,20.083472,13.755598,35.242070/!600,600/0/default.jpg"/>
 </td>
@@ -8496,7 +8434,7 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- PHILOSOPHIC DARKEY  
+PHILOSOPHIC DARKEY  
   
 A correspondent ofthe Cincinmti&#x27; Ga­  
 2cm, writing from the Cumberland river,  
@@ -8541,7 +8479,7 @@ me.&quot; . -
 than nllwr people’s 7&quot;  
 “It’s worth moreto me, 5m.”  
 &quot;&#x27;l‘xhen ynu must value it. very highly ‘3”  
-“Yrs, sn, 1 does—more dan ul
+“Yrs, sn, 1 does—more dan ull
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_trumanhs_ver01%2Fdata%2Fsn85055100%2F000001897%2F1865032701%2F0049.jp2/pct:43.289284,18.376756,12.801982,18.651200/!600,600/0/default.jpg"/>
 </td>
@@ -8555,8 +8493,6 @@ than nllwr people’s 7&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I noticed upon the hurricane de&amp;k an el­  
 derly darkey with a very philosophical and  
 retrospective oast of countenance, squatted  
@@ -8580,7 +8516,7 @@ words as near ns my memory will serve mb. 1 :
 knov/ed ; it was&#x27;Oumin.&#x27;’, j&quot;.&#x27; ~ . 1 ‘‘ ■  
 ~ ‘ by, that wasn’t vary qfeditable tb.yiur  
 oourngo.’f ■&#x27; &#x27;.T‘; &#x27; j[ ; i  
-‘Da’tjsn&#x27;t.ih my linlf, si
+‘Da’tjsn&#x27;t.ih my linlf, si—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001745%2F1865033001%2F0049.jp2/pct:44.179389,18.516750,11.423119,10.931531/!600,600/0/default.jpg"/>
 </td>
@@ -8594,7 +8530,7 @@ oourngo.’f ■&#x27; &#x27;.T‘; &#x27; j[ ; i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. no regard for&#x27;your re­  
+no regard for&#x27;your re­  
 putationl?’;&#x27; ■&#x27;.; &#x27; 1 &#x27; ■■ . &#x27;;  
 4 lleputatipii’a puffin tOTno fiekide Of &#x27;life.’ !  
 , . ‘ Do you consider your life worth morejjban  
@@ -8608,7 +8544,7 @@ oh him T abide fust law
 wid me  
 ’’&#x27;■But why should,you&#x27;o(ft ,uptfh&#x27;&#x27;&#x27;a different  
 &quot;rule from other men ?1  
-v ßeciVuse setsdifferent valu
+v ßeciVuse setsdifferent value
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001745%2F1865033001%2F0049.jp2/pct:44.047619,29.848663,11.532170,6.868939/!600,600/0/default.jpg"/>
 </td>
@@ -8622,7 +8558,6 @@ v ßeciVuse setsdifferent valu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A PhiLOsOpHiC DArkEY.  
 A correspondent of the Cincinnati  
 Gazette, writing from the Cumberland  
@@ -8688,7 +8623,7 @@ dat was de pint wid me.
 eIt is safe to say that the dusky corpse of  
 that African will never darken the field  
 of carnage.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022056:1865040101:0062/pct:7.397343,29.970725,11.594203,37.313979/!600,600/0/default.jpg"/>
 </td>
@@ -8702,7 +8637,7 @@ of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| fare.  
+fare.  
   
 A Philosophic Darkey.  
 A correspondent of the Cincinnati  
@@ -8782,7 +8717,7 @@ was de pint wid me&quot;
 It is safe to say that the dusky corpse  
 of that African will never darken the  
 field of carnage. .  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1865040501:0296/pct:43.311258,13.952798,24.862819,81.430904/!600,600/0/default.jpg"/>
 </td>
@@ -8796,9 +8731,6 @@ field of carnage. .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 A COWARD’S ESTIMATE OF LIFE.  
 The following from the Cincinnati Gazette illus-  
 trates the feelings not of one person, but of a whole  
@@ -8887,6 +8819,7 @@ myself, and dat was de _ wid me.”
   
 It is safe to say that the dufky corpse of that Afri-  
 can will never darken the field of carnage.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1865-04-05_36_14%2Fsim_zions-herald_1865-04-05_36_14_jp2.zip%2Fsim_zions-herald_1865-04-05_36_14_jp2%2Fsim_zions-herald_1865-04-05_36_14_0000.jp2/pct:79.198370,31.890638,12.554348,25.413640/,600/0/default.jpg"/>
@@ -8901,7 +8834,7 @@ can will never darken the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ion.  
+on.  
   
 The 1&#x27;hilosophicitl Dinkey.  
 n ( )f iced.upon the hurricane rick an elder­  
@@ -8951,7 +8884,7 @@ try. &quot;
 j  
 I  
 . . «». lor what  
-, would dat be wuth to a man wid d
+, would dat be wuth to a man wid de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894924:1865042001:0093/pct:65.502329,19.146153,25.382568,73.623499/!600,600/0/default.jpg"/>
 </td>
@@ -8965,7 +8898,6 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 i  
 &quot;What satisfaction would dat be to me when  
 de power of feeling was gone ?  
@@ -8986,7 +8918,7 @@ j &quot;May be not, sa —a dead white
 i me.  
 j It is safe to say that the dusky  
 j that African will never dark et tit  
-carnage.— Cor. Vi
+carnage.— Cor. Via
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00332894924:1865042001:0093/pct:76.713240,37.899869,14.204923,11.784992/!600,600/0/default.jpg"/>
 </td>
@@ -9000,8 +8932,6 @@ carnage.— Cor. Vi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 A COWARD&#x27;S ESTIMATE OF LIFE.  
   
 The following, from the Cincinnati Ga­  
@@ -9088,7 +9018,8 @@ much to dese sogers, Jet alone a dead nigga
 pint wid me.&quot;  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage.
+carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002750%2F1865042701%2F0027.jp2/pct:21.273632,26.708513,14.104478,44.796464/!600,600/0/default.jpg"/>
 </td>
@@ -9102,8 +9033,6 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A PHILOSOPHIC DAREtV ;;  
 A newspaper correspondent frO the I  
   
@@ -9174,7 +9103,7 @@ nigger, but I&#x27;d a missed myself, sa, and
 dat&#x27;s do pinf wid me&quot; K  
 A crusty old bachelor savs he thinks it&quot;1  
 is woman, and not her wrongs, that ought  
-t
+to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyStan5n_ver01%2Fdata%2F1865050201%2F0027.jp2/pct:62.572254,14.522777,15.361272,38.796095/!600,600/0/default.jpg"/>
 </td>
@@ -9188,7 +9117,7 @@ t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Gctz.  
+Gctz.  
   
 A PHII^)SOPHIC DARKKT.—A correspon­  
 ded. o -the Cincinnati itazelte, writing from  
@@ -9270,7 +9199,8 @@ dc pint wid ine.&quot;
   
 It is safoto say that the dnsky oorpsa of  
 that African will never darken the fleid of  
-carnage.
+carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668922:1865060301:0139/pct:47.737781,54.626697,14.580581,35.045249/!600,600/0/default.jpg"/>
 </td>
@@ -9284,13 +9214,26 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A PHILOSOPHIC DARKEY. Acor-  
 respondent of the Cincinnati Cazette,  
 writing from the Cumberland river,  
 gives the following humerous account  
 of a colloquy with a philosophic dar­  
 key:  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1865061301:0800/pct:67.652746,47.902783,12.316319,3.384294/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Manchester journal._](https://www.loc.gov/resource/sn83025668/1865-06-13/ed-1/?sp=1)
+
+#### 1865-06-13 &middot; [Manchester, Vt.](http://dbpedia.org/resource/Bennington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
 I noticed upon the hurricane deck  
 to-day an elderly darkey with a vory  
 philosophical and retrospective cast of  
@@ -9364,9 +9307,9 @@ a dead nigga--but I&#x27;d a missed my­
 self, and dat was de pint wid me.&quot;  
 It is safe to say that the dusky  
 corpse of that African will never dark­  
-en the field of carnage
+en the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1865061301:0800/pct:67.614076,47.902783,12.470998,44.858226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1865061301:0800/pct:67.614076,51.352411,12.470998,41.408598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9378,7 +9321,7 @@ en the field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. &#x27;Were you in the  
+&#x27;Were you in the  
 fight?&#x27; &#x27;Had a llUIo taste of it sn.&#x27;?  
 &#x27;Stood your ground, did you? 4No sn, I  
 runs.&#x27; &#x27;Run at the first fire, did you ?&#x27;  
@@ -9397,7 +9340,7 @@ than all dis wuld?more dan a million
 ob dollars, sa; for what would dat be  
 worth to a man wid tho href out of  
 him? Kelf-prcscrbashun am de first law  
-wid me.&#x27;
+wid me.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026844:00202190765:1865092701:0293/pct:73.781227,20.794348,12.515159,8.191713/!600,600/0/default.jpg"/>
 </td>
@@ -9411,7 +9354,7 @@ wid me.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- an’ free.”  
+an’ free.”  
   
 The compiler of “Old Abe’s Jokes” gives the following as a  
 story told by the President. It is, however, far more charac-  
@@ -9496,7 +9439,7 @@ e
 dead nigga—but I’d a missed myself, and dat was de pint wid me.’”  
   
 This venerable disciple of Hudibras was evidently not “ one  
-of th
+of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_united-states-service-magazine_1865-10_4_4%2Fsim_united-states-service-magazine_1865-10_4_4_jp2.zip%2Fsim_united-states-service-magazine_1865-10_4_4_jp2%2Fsim_united-states-service-magazine_1865-10_4_4_0049.jp2/pct:19.313910,44.975933,64.379699,41.305656/,600/0/default.jpg"/>
 </td>
@@ -9510,7 +9453,6 @@ of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 ‘‘ Were you in the fight ?”  
 “ Had a little taste of it, sa.”  
 “ Stood your ground, did you ?”  
@@ -9534,7 +9476,8 @@ than other people’s ?”
 will5 — more dan a million of dollars, sa.;  
 for what would dat he worth to a man  
 wid de href out ob him ? Self-preserba­  
-slmn am de first law wid me.”
+slmn am de first law wid me.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685257:1865101201:0398/pct:35.435685,32.712843,13.921162,13.737374/!600,600/0/default.jpg"/>
 </td>
@@ -9548,7 +9491,6 @@ slmn am de first law wid me.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 “Were you in the fight ?”  
 “Had a little taste of it, sa.”  
 “Stood your ground, did you?”  
@@ -9578,7 +9520,7 @@ you?”
   
 “Noffin whatever, sa—I regard dem as  
 among de vanities.”  
-There is another kin
+There is another kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865101301:0604/pct:3.025890,77.133452,10.938511,11.686503/!600,600/0/default.jpg"/>
 </td>
@@ -9592,7 +9534,6 @@ There is another kin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Philosophical Sambo.—l noticed,  
 upon the hurricane deck, today, an el­  
 derly darkey, with a very philosophical  
@@ -9665,7 +9606,7 @@ dead nigga—but I’d missed mVself and |
 dat was de pint wid me.”  
 it is safe to say that the dusky corpse  
 of that African will never darken the  
-field of carnage
+field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688064:1866021001:0005/pct:20.711462,15.241299,35.079051,78.936473/!600,600/0/default.jpg"/>
 </td>
@@ -9679,7 +9620,6 @@ field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 With a philosophical and retrospective cast  
 of countenance, he squatted down on his  
 little bundle, toasting himself against the  
@@ -9714,7 +9654,8 @@ to you ?”
 “Nuffin&#x27; whatever, sa—I regard dem as  
 among de vanities.&quot;  
   
-“ Hb’il Never Sit tbr Temse ok Fire.”
+“ Hb’il Never Sit tbr Temse ok Fire.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991288:1866052501:0068/pct:59.138733,7.110162,35.209200,86.466280/!600,600/0/default.jpg"/>
 </td>
@@ -9728,7 +9669,6 @@ among de vanities.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 &quot;Were you in the fight ?&quot;  
 &quot;Had a little taste of it, sa.&quot;  
 &quot;Stood your ground, did you?&quot;  
@@ -9783,7 +9723,7 @@ But I&#x27;d miss myself, and dat was de pint
 wid me.&quot;  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1868013001:0226/pct:3.131607,63.734025,15.314482,29.440637/!600,600/0/default.jpg"/>
 </td>
@@ -9797,7 +9737,6 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 &quot;Were you in the fight?  
 &#x27; Had a little taste of it. a.&quot;  
 &#x27; Stood your ground, did you V  
@@ -9826,7 +9765,7 @@ ent .rule from other men?&#x27;&#x27; , -
 &quot; Because diflrent-men set dtiTerent val­  
 iien upon.lar; livrt .mine ip uot- in Ibe  
 market.&quot; -  
-&quot; But ifyou Iftt, it. you would hava die
+&quot; But ifyou Iftt, it. you would hava died
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022301:0190/pct:18.077837,8.599399,10.843731,12.526421/!600,600/0/default.jpg"/>
 </td>
@@ -9840,7 +9779,7 @@ market.&quot; -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; for  
+for  
 no goberment could replace dfrlbsa to.me.&quot;  
 &quot; Do you think any of your cotnyany  
 would have minted you if you had, been  
@@ -9852,7 +9791,7 @@ me.&#x27;
 It is safe, tossy that thediiskv cornsn of  
   
 that African will never darken the field of  
-carnage. 
+carnage. 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022301:0190/pct:18.092692,26.309934,10.739750,5.083992/!600,600/0/default.jpg"/>
 </td>
@@ -9866,7 +9805,7 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; tie:  
+tie:  
 &quot; Were vou in the ht?&quot;  
 &quot; Hal ahttle taste cf it, &#x27;tt  
 &quot;Stood your gn.und, did you?&quot;  
@@ -9923,7 +9862,7 @@ But I&#x27;d miss myself and dat&#x27;a de. pint wii
 me. ? .  
 It is safe to say that the dusky corpse, of  
 that African. will never darken tho field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1868022901:0687/pct:83.274648,9.321754,12.378115,25.634825/!600,600/0/default.jpg"/>
 </td>
@@ -9937,7 +9876,6 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A PHILOSOrniCAL DARKEY..  
 An elderly darkey, with . a very  
 philosophical and retrospective cast  
@@ -10019,7 +9957,7 @@ alone a dead nigga, but I&#x27;d a missed
 myself, and dat was de pint wid me.&quot;  
 It is safe to say that the dusky  
 corpse of that African will never  
-darken the field of carnage
+darken the field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028824:1868052101:0085/pct:61.208577,30.848029,10.899935,41.973548/!600,600/0/default.jpg"/>
 </td>
@@ -10033,7 +9971,7 @@ darken the field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- interest it should be earning, and  
+interest it should be earning, and  
 why is it not credited to the Treasury,  
 even if not reserved for the claimant? A  
 reply is now in order.  
@@ -10100,7 +10038,7 @@ nigga. But I&#x27;d miss myself, and dat was
 de pint wid me.&quot;  
 It is safe to say that the dusky corpse of  
 that negro will never darken the field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555134:1868070101:0010/pct:43.407459,0.944359,26.545264,95.622767/!600,600/0/default.jpg"/>
 </td>
@@ -10114,7 +10052,7 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 4 JORDAN&#x27;S  
+4 JORDAN&#x27;S  
   
 A Sable Philosopher-  
 Ihe correspondent of a Noilhei it news-  
@@ -10166,7 +10104,8 @@ than otlF* ^&gt;e 6 £le’»?’ Our Stock of
 m ore’ll a million dollars, sa; for what &quot; -•  
   
 would dat be wuth to a man wid de lire 1  
-knocked out uv him? Self-presscrwasliun
+knocked out uv him? Self-presscrwasliun  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt734t6f2c27%2Fxt734t6f2c27_jp2.zip%2Fxt734t6f2c27_jp2%2Fxt734t6f2c27_0003.jp2/pct:3.649635,4.616725,25.310219,20.455865/,600/0/default.jpg"/>
 </td>
@@ -10180,7 +10119,7 @@ knocked out uv him? Self-presscrwasliun
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-! vatKC. Oil accounts not p i d wilhiu one iroutli  
+vatKC. Oil accounts not p i d wilhiu one iroutli  
   
 VERY LOWEST PRICES!  
   
@@ -10233,7 +10172,7 @@ wid me.’
 It is safe to say that the dusky corpse  
 of that negro will never daiken the field ol  
   
-MAI
+MAIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt734t6f2c27%2Fxt734t6f2c27_jp2.zip%2Fxt734t6f2c27_jp2%2Fxt734t6f2c27_0003.jp2/pct:3.412409,16.013357,51.113139,31.300813/600,/0/default.jpg"/>
 </td>
@@ -10257,7 +10196,7 @@ MAI
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t Donaldson.  
+Donaldson.  
   
 &quot;Were you in the fight, Sam r  
 &quot;Had a little taste of it, sa.&quot;  
@@ -10327,7 +10266,7 @@ was- de pint wid me,&quot;
 There is a mysterious feeling of sad­  
 ness that frequently passes like a cloud o­  
 ver the spirit, It comes on the soul in  
-the busy bustle o
+the busy bustle of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fecunditas_ver01%2Fdata%2Fsn84026572%2F000002429%2F1871122801%2F0099.jp2/pct:83.992806,53.060113,12.788231,32.568608/!600,600/0/default.jpg"/>
 </td>
@@ -10341,7 +10280,7 @@ the busy bustle o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- tho present product of their  
+tho present product of their  
 father&#x27;s farm. So shall we stem the tide of  
 debt that sets steadily against our shores,  
 and cease to be visited and annoyed by  
@@ -10400,9 +10339,27 @@ killed?&quot; .
 ain&#x27;t much to deso tojers, let alone a nig­  
 ga but I&#x27;d a missed myself, and dat was  
 de pint wid me.&quot;  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1872010901:0022/pct:76.222685,55.392810,17.872008,40.496005/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Canton weekly register._](https://www.loc.gov/resource/sn84038367/1872-01-26/ed-1/?sp=4)
+
+#### 1872-01-26 &middot; [Canton, Ill.](http://dbpedia.org/resource/Canton%2C_Illinois)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+■  
+There is a mysterious feeling of sadness i  
+that frequently passes like a cloud over the &#x27;  
+spirit. It comes on the soul in the busy j
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151131:1872012601:0369/pct:39.020084,86.449684,11.741337,2.175357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10414,7 +10371,6 @@ de pint wid me.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A PHILOSOPHICAL DARKEY.  
 A. FALSTATHAN VIEW OF XVA.R.  
 An elderly darkey, with a very philosophical  
@@ -10490,7 +10446,7 @@ It is safe to say that the darkey corpse of
 that African will never darken the field of  
 carnage. . ... .  
 A BROTHER’S SACRIFICE.  
-An Unusual Scene tn a Court R
+An Unusual Scene tn a Court Ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872060901:0003/pct:57.258808,25.208574,12.304003,28.905147/!600,600/0/default.jpg"/>
 </td>
@@ -10504,34 +10460,6 @@ An Unusual Scene tn a Court R
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ux of  
-Miiuru - The chief of the  
-the Uppe  
-v- &#x27; TWhnld made  
-near Fort liertnold, made  
-band, now  
-atmK on tbo  
-97tK nit. to his hostile  
-I braves, telling them that war  
-had been  
-r 3 rihrt everv one of the Sioux  
-ucviAicu, , ,t,  
-i chiefe would sUnd ry me ueciuu v.  
-council that made the declaration. - He  
-further said tbat Fort liertnoia wouia u  
-the scene of the opening of hostilities, and  
-Fort Buford would next receive attention.  
-Somebody - askei  
-Paris editor  
-. intelligencer  
-w - J o- -  
-From the Daners.&#x27;  
-t it?.. From other ptpem  
-I . Tt.it. -mrhn ? th first author 01 it  
-  
-  
-  
-Purpose and Equal Rights to all  
 A Philosophical Darkey.  
 An elderly darkey, with a very philoso­  
 phical and restrospective cast ot counten­  
@@ -10608,9 +10536,9 @@ was de pint wid nie.
 . It is safe to say that the darkey corpse  
 of that African will never darken the  
 field of carungc.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1872062001:0385/pct:24.742547,8.854896,23.780488,85.284929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1872062001:0385/pct:36.734417,11.666487,11.788618,38.026500/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10622,27 +10550,6 @@ field of carungc.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e and his gentle wife.  
-&quot;Tommy, my son, what are you go­  
-ing to do with that club?&quot;  
-&quot;Send it to the editor, of course.&quot;  
-&quot;But what are you going to send it  
-to the editor for?&quot;  
-&quot;Cause he says if anybody will send  
-him a club he will send them a copy  
-of his paper.&quot;  
-The mother came pretty near faint­  
-ing, but retained consciousness to ask,  
-&quot;But, Tommy, dear, what do you sup­  
-pose he wants with a club?&quot;  
-&quot;Well, I don&#x27;t know,&quot; replied the  
-hopeful urchin, &quot;unless it is to knock  
-down subscribers as don&#x27;t pay for  
-their paper.  
-Never run down your opponent&#x27;s  
-goods in public. Let him do his own  
-advertising.  
-  
 A PhilOsophical Darkey.  
 An elderly darkey with a very phil  
   
@@ -10722,9 +10629,10 @@ dead nigga; but I&#x27;d a missed myself,
 and dat was de pint wid me.  
 It is safe to say that the dusky  
 cornse of that African will never  
-darken the field of carnage.
+darken the field of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1872062501:0382/pct:56.222751,13.826816,26.040428,81.828057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1872062501:0382/pct:69.540230,13.826816,12.722949,47.299814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10736,27 +10644,6 @@ darken the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ur conver­  
-sation falls into a deep chasm, and  
-is lost from sight by its depth and  
-darkness. They will sometimes sur­  
-prise with a few words, that go to  
-the mark like a gunshot, and then  
-they are silent again, as if they were  
-reloading. Such men are sale coun­  
-sellors, and true friends where thev  
-j.rofem to bo such. To them truth  
-is more valuable than gold, while  
-pretension is too gauzy to deceive  
-them. Words without point, to  
-them, are like titles without merit,  
-only betraying tho weakness of the  
-blinded dupes who are.ver Used as  
-promoters ot other mure schemes.  
-  
-St&amp;ta LibrarUa  
-  
-JULY (, 1872.  
 A Philosophical Darkey.  
 An elderly darkey, with a very­  
 philosophical and retrospective cast  
@@ -10842,9 +10729,9 @@ darken the field of carnage,
 Tho Coming 71 a iu .  
 The poetic machine of a friend  
 says the Lanreusville (S. C) Iterate,  
-brought int
+brought into
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1872070601:0173/pct:49.565103,4.329343,18.173432,91.128762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1872070601:0173/pct:58.856089,8.468509,8.882446,34.892046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10856,8 +10743,6 @@ brought int
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 A PHILOSOPHICAL UAUKEY,  
   
 An elderly darkey, with&#x27;a very philoso  
@@ -10933,7 +10818,8 @@ nigga; but I’d a .. issed myself, and dal
 was de pint wid me.”  
 It is safe to say that the dark corpse of  
 that African will never darken the field of  
-carnage.
+carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556690:1872072001:0327/pct:35.368421,9.865348,13.244019,41.398736/!600,600/0/default.jpg"/>
 </td>
@@ -10947,26 +10833,7 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- very light suppers  
-or better still, none at all. Fifth, keep a  
-clean skin. Sixth, get plenty of sleep at  
-night. Seventh, keep cheerful and re­  
-spectable company. Eighth, keep out of  
-debt. Ninth, don&#x27;t set your mind on  
-things you don&#x27;t need, Tenth, mind your  
-own business. Eleventh, don&#x27;t set up to  
-be a sharp of any kind. Twelfth, sub­  
-due curiosity.  
-  
-how terrible to die unprepared. Yet,  
-every tick of the clock,and one soul some­  
-where is launched into eternity.  
-  
-Old truths are always new to us, if they  
-come with the smell of heaven upon them.  
-  
-The last dead lock—the door of a I)ur­  
-ial vault.  
+lt.  
   
 A Philosophical Darkey.  
   
@@ -11055,9 +10922,10 @@ dead nigga : but I&#x27;d a missed myself,and
 dat was de pint with me.  
 It is sane to say that the darkey corpse  
 of that African will never darken the field  
-of carnage.
+of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fecunditas_ver01%2Fdata%2Fsn84026572%2F000002430%2F1872072501%2F0113.jp2/pct:56.949715,13.717776,26.086338,83.591876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fecunditas_ver01%2Fdata%2Fsn84026572%2F000002430%2F1872072501%2F0113.jp2/pct:58.069260,13.717776,24.966793,83.591876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11069,7 +10937,6 @@ of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Dark View of War.  
 An elderly darkey, with a vory philosoph  
 ical and retrospective cast of countenance,  
@@ -11145,7 +11012,7 @@ It is safe to say that the darkey corpse of
 that African will sever darken the field of  
 carnage.  
 Stamp Fetder.  
-C. P. Stafford-h
+C. P. Stafford-he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105495:1872072701:0336/pct:63.908118,52.857887,15.245437,39.396148/!600,600/0/default.jpg"/>
 </td>
@@ -11159,7 +11026,7 @@ C. P. Stafford-h
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ent.  
+nt.  
 A PHILOSOPHICAL DARKEY.  
 An elderly darkey, with a very philosophical  
 and retrospective cast of countenance, was  
@@ -11228,40 +11095,9 @@ have missed you if you had been killed ?&quot;
 much wid dese sogers, let alone a dead nigga;  
 but I&#x27;d a missed myself, and dat was de piut  
 wid me.&quot;  
-&quot;ALL HANDS B
+&quot;ALL HANDS BE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862749:1872080101:0146/pct:1.292597,3.821138,16.921269,36.169828/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Albany register._](https://www.loc.gov/resource/sn84022643/1872-08-02/ed-1/?sp=8)
-
-#### 1872-08-02 &middot; [Albany, Or.](http://dbpedia.org/resource/Albany%2C_Oregon)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-, 1872.37  
-&quot;Tommy, my son, what are you  
-going to do with that club?&quot;  
-&quot;Send it to the editor, of course.&quot;  
-&quot;But what are you going to send it  
-to the editor for?&quot;  
-Cause he says if anybody will  
-send him a club, he will send them a  
-copy of his paper.  
-The mother came pretty near faint  
-ing, but retained consciousness enough  
-to ask:  
-ih ommy dons what tlo  
-suppose he wants with a club?&quot;  
-&quot;Well, I don&#x27;t know,&quot; replied the  
-hopeful urchin, &quot;unless it is to knock  
-down subscribers as dont pay for their  
-paper.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1872080201:0245/pct:41.804741,47.973995,13.612032,10.250983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11273,7 +11109,7 @@ paper.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-kinds.  
+inds.  
 F PHEFOSGPHEICIE DFMKWI.  
 An elderly darkey, with a very philoso  
 phical and retrospective cast of countenance,  
@@ -11347,7 +11183,7 @@ nigga; but I&#x27;d a missed myself, and dat
 was de pint wid me.  
 It is safe to say that the darkey corpse of  
 that African will never darken the field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777377:1872080201:0106/pct:50.375516,31.889941,10.833646,37.663509/!600,600/0/default.jpg"/>
 </td>
@@ -11371,7 +11207,6 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Darker 7* View cl War*  
 An elderly darkey, with a very philoso­  
 phical and retrospective cast of countenance,  
@@ -11448,7 +11283,7 @@ It is safe to say that the corpse of that
 African will never darken the field of earn­  
 age* m  
 Chinese Salad*  
-From th
+From tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872080501:0005/pct:49.069940,51.931883,11.290923,26.903263/!600,600/0/default.jpg"/>
 </td>
@@ -11462,8 +11297,6 @@ From th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A PHILOSOPHICAL DABKEY.  
 An elderly darkey, with a very philo­  
 sophical and retrospective cast of coun­  
@@ -11502,7 +11335,7 @@ I I&#x27;iit t m nu une. b3i* , **cuukii) s m\
 1 \v 0 n,&quot; but you have no regard for  
 _ üllr reputat j&#x27; n »  
 - K oputa,i..u! uuffiu to me by do side  
-.. lfl . , •.
+.. lfl . , •. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn82015407:00295869471:1872081501:0549/pct:26.661074,4.576731,19.278523,24.447456/!600,600/0/default.jpg"/>
 </td>
@@ -11516,7 +11349,7 @@ _ üllr reputat j&#x27; n »
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• , ,  
+, ,  
 then you must value it verv highly,  
 Vll&gt;1 * . | ... , ,, ,* b  
 les, sa, ldoes, more dan a dis world;  
@@ -11548,7 +11381,7 @@ might have broken up the tioVernmenti
 without resistance.  
 ^ es, sa; «1er would hab !&gt;een no help!  
 for it. I wouldn&#x27;t put inv life indes  
-
+f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn82015407:00295869471:1872081501:0549/pct:26.291946,30.859049,18.825503,18.734362/!600,600/0/default.jpg"/>
 </td>
@@ -11562,7 +11395,6 @@ for it. I wouldn&#x27;t put inv life indes
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 n uattime mam his hatndle ton  
 the hurriemmesficek of one of the Westerr  
 river steamers, toasting his shins agamist  
@@ -11587,7 +11419,8 @@ h. I runs.&quot;
 had I knoved it was comin&#x27;.&quot;  
 &quot;Why, that wasn&#x27;t very creditable to  
 your courage?&quot;  
-&quot;Dat ien&#x27;t in my line, sah--cookin&#x27;s my
+&quot;Dat ien&#x27;t in my line, sah--cookin&#x27;s my  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1872081501:0434/pct:5.699626,53.255771,9.610318,12.860572/!600,600/0/default.jpg"/>
 </td>
@@ -11601,7 +11434,7 @@ your courage?&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a difforent  
+a difforent  
 rent men sets lifferent  
  i i o i  
 &quot;Butif you lost it you would have  
@@ -11627,7 +11460,7 @@ killed.
  sah. A dead white man  
 ain&#x27;t muel to dese sogers, let alone a dead  
 ze7ut I&#x27;d missed niyself and dat was  
-osale t
+osale to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1872081501:0434/pct:5.852170,73.425669,9.762862,15.844875/!600,600/0/default.jpg"/>
 </td>
@@ -11641,7 +11474,7 @@ osale t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;S VIEW OF THE WAR.  
+S VIEW OF THE WAR.  
 An elderly darkey, with a very philo­  
 sophical and retrospective cast of coun­  
 tenance, was squatting upon his bundle  
@@ -11720,7 +11553,7 @@ a dead nigga; but I&#x27;d missed myself,
 and dat was de pint wid me.”  
 It is safe to say that the corpse of  
 that African will never darken the field  
-of carnage.—
+of carnage.— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_kearsarge_ver01:data:sn84023142:00517015982:1872081701:0650/pct:67.309687,34.513533,14.623522,44.476957/!600,600/0/default.jpg"/>
 </td>
@@ -11734,8 +11567,6 @@ of carnage.—
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A Philosophical darkey o  
 FighTIHg.  
 An elderly darkey with a very philosophi-  
@@ -11810,7 +11641,7 @@ de pint wid me.
 It is perfectly safe to say that the corpse of  
 that African will never dar en the fieid of  
 carnage.  
-The St
+The St.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84038123:00212477321:1872082901:0227/pct:6.607351,38.741289,13.550175,41.909843/!600,600/0/default.jpg"/>
 </td>
@@ -11824,7 +11655,7 @@ The St
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the Honorable Speaker Blaine.  
+the Honorable Speaker Blaine.  
 A DARKEY&#x27;S VIEW OF TBS WAR.  
 An elderly darkey, witj a very  
 philosophical and retrospective cast  
@@ -11906,27 +11737,10 @@ alone a dead nigga; but I&#x27;d missed
 myself, and dat was de pint wid-rae.&quot;  
 It is safe to say that the corpse of  
 that African&quot; will never darken the  
-field of carnage. &#x27;
+field of carnage. &#x27;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1872083001:0508/pct:84.718900,50.697845,11.019737,43.768364/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Catoctin clarion._](https://www.loc.gov/resource/sn84026688/1872-09-14/ed-1/?sp=1)
-
-#### 1872-09-14 &middot; [Mechanicstown, Md.](http://dbpedia.org/resource/Thurmont%2C_Maryland)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-. burial vault.  
-1; How terrible to die unprepared.—  
-, Yet, every tick of the clock, and one  
-“soul somewhere is launched into ot&lt;*r-  
-L nitv.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1872091401:0279/pct:33.941236,89.721999,14.366768,2.940390/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11940,7 +11754,7 @@ L nitv.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, an elderly  
+an elderly  
 darkey, with a very philosophical and  
 retrospective cast of countenance,  
 squatted upon his bundls. toasting his  
@@ -11970,7 +11784,7 @@ have missed you if you had been killed
 P&quot;—&quot; Maybe not, sa i a dead white man  
 ain&#x27;t much to date sogers. Ist alone a  
 dead nigga j but I&#x27;d a missed myself,  
-and dat was de pint wid me.
+and dat was de pint wid me.&quot;
 </td></tr></table>
 
 ---
@@ -11983,7 +11797,7 @@ and dat was de pint wid me.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, an elderly  
+an elderly  
 darkey, with a very philosophical and  
 retrospective east of countenance,  
 squatted, upon his bundle, toasting his  
@@ -12014,7 +11828,7 @@ if&#x27;you had been killed ?&quot;-&quot; Maybe not
 sa; a dead white man ain&#x27;t much to dese  
 sogers, let alone a dead nigger; but I&#x27;d  
 a missed myself, and dat was de pint wid  
-me.&quot;
+me.&quot; 
 </td></tr></table>
 
 ---
@@ -12025,7 +11839,6 @@ me.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Darkey’s View of War.  
 An elderly darkey, with a very  
 philosophical and retrospective cast  
@@ -12107,7 +11920,8 @@ alone a dead nigga; but I’d misH
 myself, and dat was do pint wid me.’  
 It is safe to say that tho corpse  
 of that African will never darken  
-the field of carnage.
+the field of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1872112601:0590/pct:71.438074,15.517596,10.576028,41.315085/!600,600/0/default.jpg"/>
 </td>
@@ -12123,13 +11937,13 @@ the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, an j elderly  
+an j elderly  
 darkey, with a very philosophical! - and  
 retrospective cast of countenance,j  
 equaited upon hi3 bundle, toasting his  
 shins against the chimnay, and  
 apparently plunged in a state of  
-profound meditatio
+profound meditation
 </td></tr></table>
 
 ---
@@ -12140,25 +11954,6 @@ profound meditatio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-orld in a hurry, are gener­  
-ally careless of their diet, might learn  
-something from the Englishman, the  
-Frenchman and the GermaD, and even  
-the stolid Indian from the Far West.  
-Better methods of cooking, less haste in  
-eating, and smaller consumption of un­  
-wholesome articles of food, would not  
-only lengthen the average term of life  
-in this country, but also, by giving the  
-American stomach better treatment than  
-it now rceives, improve the quality of  
-the American brain. We therefore wel­  
-come the antidyspeptic cook as one of tlic  
-most useful of our public instructors..  
-  
-EDUCATION IN ARTS  
-TRADES.  
-  
 A PHILOSOPHICAL DARKEY.  
   
 An elderly darkey, with a very philo  
@@ -12236,9 +12031,9 @@ and dat was de pint wid me.
 It is safe to say that the dark corpse  
 of that African will never darken the  
 field of carnage.  
-A
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1872123001:0216/pct:71.842394,14.486859,22.295442,81.727159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1872123001:0216/pct:82.688083,14.486859,11.449753,47.288277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12270,7 +12065,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- lire  
+lire  
   
 A Philosophienl Darkey.  
 An elderly darkey, with a very philoso­  
@@ -12327,7 +12122,7 @@ when der power offeelin’ was gone 2
 Then patriotism and honor arc nothing  
 to you ?  
 Nuffin whatever, sa—l regard dem as  
-among the varieties
+among the varieties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625492:1873040401:0275/pct:67.421962,11.755567,18.237997,78.806318/!600,600/0/default.jpg"/>
 </td>
@@ -12341,7 +12136,7 @@ among the varieties
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- these studleatheir ’speeialtv I  
+these studleatheir ’speeialtv I  
   
 W\i and gmnor.  
 i A Darkey s Philosophy.  
@@ -12417,7 +12212,7 @@ nigga, but I&#x27;d miss myself, and dst was
 r de pint wid me.&quot;  
 It is safe to say that the corpse of that  
 African will never darken the field of  
-carnage.—
+carnage.— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873040501:0065/pct:75.153878,10.835049,19.306524,86.636283/!600,600/0/default.jpg"/>
 </td>
@@ -12433,7 +12228,7 @@ carnage.—
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, an elderly  
+an elderly  
 darkey, with a very philosophical and  
 retrospective cast of countenance,  
 squatted upsn his bundle, toasting his  
@@ -12450,7 +12245,7 @@ the fight?&quot; &quot;Hadalittlotasteofit,8a.&quot;
 &quot;Stood your ground, did you ?&quot; &quot; No, sa  
 ; I runs &quot; &quot; Kims at the first fire, did  
 you.&quot; &quot; Yes sa ; and would ha run Boona,  
-bad I knowd i
+bad I knowd it
 </td></tr></table>
 
 ---
@@ -12463,7 +12258,7 @@ bad I knowd i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;.&quot; &quot; If our soldiers  
+.&quot; &quot; If our soldiers  
 were like you, traitors might have  
 broken up the government without re-  
 sistance.&quot; &quot; Yes sa ; dar would hab been  
@@ -12476,7 +12271,7 @@ you if you had been killed ?&quot; &quot; Maybe
 not sa ; a dead white man ain&#x27;t much to  
 dose sogers, let alone a dead nigga; but  
 I&#x27;d a missed myself, and dat was de pint  
-wid me.&quot; 
+wid me.&quot; i
 </td></tr></table>
 
 ---
@@ -12489,22 +12284,7 @@ wid me.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-els heavy and miserable ; Mr. S.  
-because he&#x27;s married; Mr. T. because he  
-isn&#x27;t; Mr. V. because he likes to s=e  
-his friends around him ; Mr. W. because  
-he&#x27;s got no friends ; Mr. X. because his  
-uncle left him a legacy ; Mr. Y. because  
-his aunt cut him off with a shilling ;  
-Mr. Z— we should be happy to inform our  
-readers what*Mr. Z.&#x27;s reasons are for  
-drinking, but, on putting the question  
-to him, he was found to be totally  
-unable to answer. Tas Point with Him  
-—The followimg story is Attributed to  
-Mr. Lincoln, the late President of the  
-United States. &#x27; Upon the hurricanedeck  
-of one of our gunboats an elderly  
+an elderly  
 darkey, with a very philosophical and  
 retrospective cast of countenance,  
 squatted upon his bundle, toasting his  
@@ -12514,7 +12294,7 @@ meditation. Finding, upon7 enquiry, that
 he belonged to the Ninth Illinois, one  
 of the most gallantly behaved and  
 heavily losing regiments at the Fort  
-Donelson bittle, and par
+Donelson bittle, and part
 </td></tr></table>
 
 ---
@@ -12527,7 +12307,7 @@ Donelson bittle, and par
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;If our  
+If our  
 soldiers were like you, traitors might&#x27;  
 have broken up the Government without  
 resistance.&#x27; * Yes, sa; dar would hab  
@@ -12542,7 +12322,7 @@ much to dese sogers, let alone a
 deadnigga; but I&#x27;d a miseed myself, and  
 dat was de pint wid me den.&#x27; &#x27; Scotch  
 Caution.— One day at Blair Athol the  
-Duk
+Duke
 </td></tr></table>
 
 ---
@@ -12553,7 +12333,7 @@ Duk
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nkets.  
+kets.  
 A PHILOSOPHICAL DAKKKV.  
 An elderly darkey with a very phil­  
 osophical and retrospective cast of  
@@ -12633,7 +12413,7 @@ a dead uigga; but I&#x27;d missed myself,
 and dat was de piut wid me.&quot;  
 Colored men iu tbe Southern States  
 are beginning to mortgage their prem­  
-ises to raise means to purchase wate
+ises to raise means to purchase water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027170:1873071701:0030/pct:81.739812,56.886228,10.642633,35.720396/!600,600/0/default.jpg"/>
 </td>
@@ -12647,7 +12427,7 @@ ises to raise means to purchase wate
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Philosopher.  
+Philosopher.  
   
 An elderly darkey, with a very philoso­  
 phical and retrusperpeciive cast of coun­  
@@ -12735,7 +12515,8 @@ nigga; but I&#x27;d a missed myself, and dat
 Was de pint wid  
 It is gale to say that the darkey corpse  
 of that African will never darken the  
-field of carnage.
+field of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002386%2F1873092401%2F0153.jp2/pct:55.734804,36.511920,11.875520,39.640841/!600,600/0/default.jpg"/>
 </td>
@@ -12749,7 +12530,7 @@ field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’ ‘If our sol-  
+‘If our sol-  
 diers were all like you, traitors might have broken  
 up the government without resistance.’ ‘ Yes, sa ;  
 dar would hab been no help for it. I wouldn’t  
@@ -12760,7 +12541,7 @@ missed you if you had been killed?’ ‘Maybe not,
 sa; a dead white man ain’t much to dese sogers, let  
 alone a dead nigga; but I’d ha’ missed myself, and  
 dat was de pint wid me!’ Mr Planché’s Irish  
-coachman took much the same view o
+coachman took much the same view of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512%2Fsim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512_jp2.zip%2Fsim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512_jp2%2Fsim_chambers-journal-of-popular-literature-science-and-arts_1873-10-18_10_512_0001.jp2/pct:51.235585,22.489083,36.573311,13.264192/600,/0/default.jpg"/>
 </td>
@@ -12784,7 +12565,7 @@ coachman took much the same view o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it eotnin&#x27;.&quot; &quot;If our soldier were all like jmi,  
+it eotnin&#x27;.&quot; &quot;If our soldier were all like jmi,  
 traitor might have broknn up tho Government  
 w ithout refiistance.&#x27;&#x27; &quot;es, sn : dsr would huli  
 been no help for it. I wouldn&#x27;t put my lifo in  
@@ -12793,7 +12574,7 @@ have missed you ifyou had been killed?&#x27; &#x27;&#x27;May­
 be not, sa ; a dead white man ain&#x27;t much todeso  
 sogers, lot alone a doad niggft ; but I&#x27;d ha&#x27; miss­  
 ed myself, and dat was dc pint wid mo !&quot; Mr.  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293575:1873121001:0416/pct:42.264065,12.364563,16.878403,4.859783/!600,600/0/default.jpg"/>
 </td>
@@ -12807,7 +12588,7 @@ ed myself, and dat was dc pint wid mo !&quot; Mr.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;.&quot; &quot;If our soldiers were all  
+.&quot; &quot;If our soldiers were all  
 like you, traitors might have broken  
 up the Government without resist-­  
 ance.&quot; &quot;Yes, sa; dar would iab  
@@ -12823,7 +12604,7 @@ aln&#x27;t much to these sogers, let alone a
 dead nigser; but I&#x27;d ha&#x27; missed my-­  
 self, and dat was de pint wid me.&quot;  
 Mr. Blanche&#x27;s Irish coachman took  
-much the same view o
+much the same view of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1873121101:0405/pct:16.871795,43.826956,10.964103,7.997942/!600,600/0/default.jpg"/>
 </td>
@@ -12837,7 +12618,7 @@ much the same view o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of Chemittry.  
+of Chemittry.  
   
 A PBILOSOPliri&#x27;AZ VAltKKT.  
 An elderly darkey, with a very philosophical  
@@ -12911,7 +12692,8 @@ but I’d a missed myself, and dat was de pint
 wid me.”  
 It is safe to say that the dusky corpse of  
 that African will never darken the field of  
-carnage.*
+carnage.*  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1874031101:0310/pct:67.273966,41.303155,12.463817,42.812071/!600,600/0/default.jpg"/>
 </td>
@@ -12925,7 +12707,7 @@ carnage.*
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--Were you in the fight?  
+Were you in the fight?  
 Soldier- Had a little taste of it, ash.  
 C.Stood your ground, did you?  
 S.-No, ash; I runs.  
@@ -12977,7 +12759,7 @@ ain&#x27;t much to dese sojers, let &#x27;lone a dend
 niggah; but I&#x27;d a miss myself, and dat  
 was de pint wid me.  
 The dusty corpse of that soldier will  
-ever darken the field o
+ever darken the field of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_connolly_ver01:data:sn86079068:00200299498:1874040401:0227/pct:41.805766,45.816378,15.952200,31.574262/!600,600/0/default.jpg"/>
 </td>
@@ -12991,7 +12773,7 @@ ever darken the field o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- DARKEY.  
+DARKEY.  
 a itey hatar wtha woy ph  
 and setrespative cast of counte  
 was squatting upon his bundle on  
@@ -13068,7 +12850,7 @@ nigga; but I&#x27;d miss myself, and dat was
 de pint wid me.&quot;  
 It is safe to say that the darkey corpse  
 of that African will never darken the  
-field of carnage
+field of carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665209:1875020501:0121/pct:13.721275,32.786461,14.437791,34.689428/!600,600/0/default.jpg"/>
 </td>
@@ -13082,7 +12864,7 @@ field of carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-1 When the late Joseph Glenn, one of the prin­  
+When the late Joseph Glenn, one of the prin­  
 cipal proprietors of the Gazette, was following  
 , tho army m the South, during the war, chiefly  
 to indulge, his curiosity to see a battle, and writ­  
@@ -13168,7 +12950,7 @@ It is safe to say that the darkey corpse of that
 African will never darken the field of carnage.  
 A GHOSTLY SELL.  
 AN ILLINOIS GHOST TURNS OUT  
-TO BE A H
+TO BE A HU
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110223:1875020701:0006/pct:56.929323,52.861997,12.677616,33.468374/!600,600/0/default.jpg"/>
 </td>
@@ -13182,7 +12964,6 @@ TO BE A H
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 When the late Joseph Glenn, one of  
 the principal proprietors of the Gazette,  
 was following the army in the South,  
@@ -13282,7 +13063,7 @@ of that African will never darken the
 field of carnage. ? Cincinnati Guzcltt.  
   
 Useless Wobky. ? Life lias groat  
-troubles in store for all of u
+troubles in store for all of us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1875021301:0439/pct:52.457673,10.784602,18.364282,55.098443/!600,600/0/default.jpg"/>
 </td>
@@ -13296,7 +13077,7 @@ troubles in store for all of u
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the  
+of the  
 Cincinnati Gazette, writing from the Cum-  
 berland river, gives the following humorous  
 colloquy with a philosophic darkey :  
@@ -13347,7 +13128,7 @@ rule from other men?”
 ues upon their lives; mine is not in de mark-  
 et.”  
   
-Anecdote of Jones o
+Anecdote of Jones of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1875-03-27_43_17%2Fsim_maine-farmer_1875-03-27_43_17_jp2.zip%2Fsim_maine-farmer_1875-03-27_43_17_jp2%2Fsim_maine-farmer_1875-03-27_43_17_0003.jp2/pct:38.629202,57.276715,10.425420,18.680223/,600/0/default.jpg"/>
 </td>
@@ -13361,7 +13142,6 @@ Anecdote of Jones o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A PhII. &gt;S 3PIU0AL Cot^)RKI&gt; M A*  
 — An elderly polorcd man with a very  
 • liksophical and retr«»speetivc cast  
@@ -13421,7 +13201,8 @@ were?*
   
 Then patriotism and honor a,*­  
 &#x27;..•thing to you ?”  
-&quot;&gt;ni!in’ wrlmteber, sa; I regu*i
+&quot;&gt;ni!in’ wrlmteber, sa; I regu*i  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn84026801:00340582123:1875041501:0261/pct:6.713427,6.095159,11.365588,31.595315/!600,600/0/default.jpg"/>
 </td>
@@ -13435,7 +13216,7 @@ Then patriotism and honor a,*­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- existing on the globe 1 ”  
+existing on the globe 1 ”  
   
 a raitoaorazvAt colored mas.  
 The elderly colored man, with a very philo­  
@@ -13507,7 +13288,7 @@ much wid dese sojers, let alone a dead uigga ; i
 but I&#x27;d a missed myself, nud dat w.n do pint  
 wid me.&quot; !  
   
-The Spe
+The SpeI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1875050501:0548/pct:57.816757,13.607854,23.671662,81.442596/!600,600/0/default.jpg"/>
 </td>
@@ -13521,7 +13302,7 @@ The Spe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d  
+  
 the chair.  
   
 a  
@@ -13614,6 +13395,7 @@ me.”
   
 Tt is safe to say that the corpse of that African  
 will never darken the field of carnage.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1875-05-20_48_20%2Fsim_youths-companion_1875-05-20_48_20_jp2.zip%2Fsim_youths-companion_1875-05-20_48_20_jp2%2Fsim_youths-companion_1875-05-20_48_20_0005.jp2/pct:54.461279,23.013493,21.576880,39.692654/,600/0/default.jpg"/>
@@ -13638,7 +13420,6 @@ will never darken the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A SclGsti Philosopher,  
 Colored people are not all .impulsive  
 and hot headed, if. the philosopher, de­  
@@ -13707,7 +13488,8 @@ nin-t nraen to dese sogers, let alone a
 dat was do pint wid me&quot;&quot; . &#x27;  
 It is safe to say that the corpse of  
 that Afiican will never darken the field  
-of carnage. -
+of carnage. -  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1875060101:0311/pct:51.190476,62.890037,10.742972,31.923822/!600,600/0/default.jpg"/>
 </td>
@@ -13731,7 +13513,7 @@ of carnage. -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-at the  
+t the  
 same time.   
   
 A Selfish Philosopher.   
@@ -13802,7 +13584,7 @@ It is safe to say that the corpse of
 that African will never darken the field  
 of carnage.   
 A Perilous Mistake.   
-Last winter a go
+Last winter a goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1875061001:0037/pct:66.571854,4.488259,29.337668,93.777866/!600,600/0/default.jpg"/>
 </td>
@@ -13816,7 +13598,6 @@ Last winter a go
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 4 Were JOB in the lign&#x27;  
 &quot;I had a little taste Ox it, ah.&quot;  
 &quot;Istood vour gfondt did you &quot;  
@@ -13876,7 +13657,7 @@ dat was de pint wid me. &quot;
 It is safe to say that the corps- ol  
 thai African will never darken the Deld  
 of carnage.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875061101:0911/pct:79.223676,12.506428,14.455681,30.751826/!600,600/0/default.jpg"/>
 </td>
@@ -13890,7 +13671,6 @@ of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A ScllUh riiiiooiliT.  
 Colored people are not all impulsive and  
 hot-headed, if the philosopher described by  
@@ -13953,7 +13733,7 @@ It is safe to sav that the corpse nf that Af­
 rican will never darken the field of car-  
 a aire.  
 Willing to 1Si lnati&#x27;il.  
-Not long since I met Jack Spo
+Not long since I met Jack Spoo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471525:1875061901:0991/pct:4.705655,50.907393,15.007746,31.798772/!600,600/0/default.jpg"/>
 </td>
@@ -13967,7 +13747,7 @@ Not long since I met Jack Spo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- be sever  
+be sever  
   
 A Selhsh Philosopher.  
   
@@ -14041,7 +13821,7 @@ myself, and dat was de pint wid me.&quot;
 It is safe to say that the corpse of  
 that African will never darken the  
 field of carnage.  
-A Little Gir
+A Little Girl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1875062301:0541/pct:68.378936,12.176303,14.003614,83.426699/!600,600/0/default.jpg"/>
 </td>
@@ -14055,7 +13835,7 @@ A Little Gir
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- no  
+no  
 historic record of volcanic eruption any  
 where in the world compares with this,  
 either in territory over which it extends, the  
@@ -14142,7 +13922,7 @@ ain&#x27;t much wid dese sojers, let alone a
 dead nigga; but I&#x27;d missed myself, and  
 dat was de pint wid me.&quot;  
 &quot;They Also Serve, Who Only Stand and  
-Wai
+Wait
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292509:1875062401:0221/pct:59.803503,6.838082,33.810337,86.865879/!600,600/0/default.jpg"/>
 </td>
@@ -14156,7 +13936,6 @@ Wai
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Philosophical Negro.  
 An elderly colored man, with a very  
 philosophical and retrospective cast of  
@@ -14228,7 +14007,7 @@ killed?”
 ain’t much wid dose sojers, let alone a  
 dead nigga: but I&#x27;d a missed myself,  
 aud dat was de pint wid me.”  
-Impolite Tiunu
+Impolite Tiunus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342399:1875062501:0929/pct:7.493834,22.676077,12.635174,39.405316/!600,600/0/default.jpg"/>
 </td>
@@ -14242,7 +14021,7 @@ Impolite Tiunu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and  
+and  
 historic record of volcanic eruption any  
 where in the world compares with this,  
 either in territory over which itextend?,the  
@@ -14333,7 +14112,7 @@ deadnigga: but I&#x27;d missed myself, and
 dat was de pint wid me.&quot;  
 They Also Serve, Who Only Stand  
 Wait.&quot;  
-an
+and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292388:1875062501:0209/pct:59.949573,5.891034,34.658650,88.783667/!600,600/0/default.jpg"/>
 </td>
@@ -14357,7 +14136,7 @@ an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Colored Nan  
+Colored Nan  
 An elderly colored amn,  
   
   
@@ -14435,7 +14214,7 @@ been killed?&quot;
 &quot;Maybe not, sa. A dead white man  
 ain&#x27;t much wid dese sojers, let alone  
 dead nigga; but I&#x27;d missed myself,  
-and dat was de pint wid me.
+and dat was de pint wid me.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn85034469:00295878800:1875070301:0300/pct:67.729831,25.260649,13.508443,52.680965/!600,600/0/default.jpg"/>
 </td>
@@ -14449,34 +14228,6 @@ and dat was de pint wid me.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-The far-seeing, careful portion of the  
-Democratic party is in a sea of trouble  
-and worry. They know Mi-. Taylor is  
-not such a man as should represent their  
-party in Wisconsin, and yet they know  
-that if an attempt is made to set the old  
-gentleman aside he will roar like a hurt  
-lion, as will a few of his backers. They  
-pass by the cage and look at William R.  
-and wish the old fellow were exchanged  
-for a better breed, bnt for the life of  
-them they dare not stir the animal np  
-with their canes. If something only  
-could happen to get Mr. Taylor out of  
-the way, how that portion of the party  
-would rejoice. Had they supposed  
-therejwas any.chance cf securing nn elec­  
-tion in 1873, Mr. Taylor is about the  
-last man they would have hit upon.  
-They really want Colonel Robinson, or  
-a good many of them do ; bnt they shut  
-their teeth together and groan, knowing  
-full well that any movement toward  
-keeping William R. Taylor out of a re­  
-nomination would kick np a disturbance  
-in their little camp.—Fond dn Lac  
-Commonwealth. 1  
   
 | A PHILOSOPHICAL COLORED MAN.  
 An elderly colored man, with a very  
@@ -14553,9 +14304,9 @@ and dat was de pint wid me.”
   
 Portrait or Pocahontas.—The Rich­  
 mond Journal says that Dr. James Beale  
-has deposited in the Stat
+has deposited in the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875070801:0313/pct:49.624881,14.389717,22.016096,80.616540/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875070801:0313/pct:60.782976,14.389717,10.858000,43.681037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14567,7 +14318,7 @@ has deposited in the Stat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,I I  
+I I  
 A PHILOSOPHICAL COLORED MAN.  
 An elderly-colored man, with a very  
 philesophical and retrospective cast of  
@@ -14640,7 +14391,7 @@ ain&#x27;t much wid dese sojers, let alone a
 dead nigga; but I&#x27;d missed myseif,  
 and dat was de pint wid me.&quot;  
 THE ICEBERGS IN THE NORTH.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875071501:0121/pct:6.805375,26.138101,19.187979,43.477238/!600,600/0/default.jpg"/>
 </td>
@@ -14654,55 +14405,12 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 philosophy was so peculiar, that I will  
 give his views in his oin words, as  
-near as memory will kerve mefl (4
+near as memory will kerve mefl (4  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875071501:0121/pct:6.848721,36.278085,10.504262,1.552758/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Grant County herald._](https://www.loc.gov/resource/sn85033133/1875-07-15/ed-1/?sp=1)
-
-#### 1875-07-15 &middot; [Lancaster, Wis.](http://dbpedia.org/resource/Lancaster%2C_Wisconsin)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-.  
-—The far seeing, careful portion of  
-the Democratic party is in a sea of  
-trouble and worry. They know Mr.  
-Taylor is not such a man as should  
-represent their party in Wisconsin,  
-and yet they know if an attempt is  
-made to set the old gentleman aside  
-he will roar like a hurt lion, as will a  
-few of his backers. They pass by the  
-cage and look at Williom R. and wish  
-the old breed were exchanged for a  
-better breed, but for the life of them  
-they dare not stir the animals up with  
-their canes. If something only hap­  
-pen to get Mr. Taylor out of the way,  
-how that portion of the party would  
-rejoice. Had they supposed there  
-was any chance of securing an elec­  
-tion in 187 S, Mr Taylor is about the  
-last man they would have hit upon.  
-They really want Colonel Robinson,  
-or a good many of them do; hut they  
-shut their teeth together and groan,  
-knowing full well that any movement  
-toward keeping Wm. R. Taylor out of  
-a renomination would kick up a dis­  
-turbance in their camp.—Fond du  
-Lac Commonwealth.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1875071501:0312/pct:70.724170,15.148972,10.788660,13.921527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14724,7 +14432,6 @@ Lac Commonwealth.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 at  
 A Philosophical Colored Man.  
 An elderly colored man, with a very philo­  
@@ -14795,7 +14502,7 @@ killed?&quot;
 &quot;May-be not, sah. A dead white man ain t  
 much wid dose sojers, let alone a dead nigga;  
 but I&#x27;d a missed myself, and dat was de pint  
-wid me
+wid me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_harrier_ver01:data:sn84036143:00295860662:1875082601:0278/pct:58.778858,19.814149,17.952612,76.568745/!600,600/0/default.jpg"/>
 </td>
@@ -14809,7 +14516,6 @@ wid me
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Philosophical Colored Man.  
 An elderly colored man, with a very phil­  
 osophical and retrospective cast of counte­  
@@ -14877,7 +14583,8 @@ killed?&quot;
 &quot;Maybe not sa. A dead white man ain&#x27;t  
 much wid dese sojers, let alone a dead nigga;  
 but I&#x27;d a missed myself, and dat was de pint  
-wid me.&quot;
+wid me.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875090301:0380/pct:4.302956,61.753781,11.876858,36.057310/!600,600/0/default.jpg"/>
 </td>
@@ -14891,7 +14598,7 @@ wid me.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, do you suppose vou would  
+do you suppose vou would  
 have been missed much, if you had  
 Deen Allied ?&quot;  
 &#x27; May be not sah, a dead white  
@@ -14900,7 +14607,7 @@ alone a dead nigger, but id amissed
 myself, and data ue pint wid me, aud  
 1 runs nail ebery time.&quot;  
 Now the pint with me has been all  
-along, that 
+along, that I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs66n_ver01%2Fdata%2F1875112801%2F0511.jp2/pct:38.064165,37.291136,11.065797,4.592232/!600,600/0/default.jpg"/>
 </td>
@@ -14914,7 +14621,6 @@ along, that
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A PHILOSOPHICAL COLORED MAN. At  
 at Au elderly colored man, with a very sol  
 ) philosophical and retrospective cast of  
@@ -14973,7 +14679,7 @@ if you had been killed?&quot; &quot;Maybe not, as.
 A dead white man ain&#x27;t much wid dese so­  
 jers, let alone a dead nigga, but I&#x27;d a miss­  
 ed myself, and dat was de nint wid me &quot; Ma  
-..
+.. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1876122401:0992/pct:15.689547,41.601761,18.506155,34.100914/!600,600/0/default.jpg"/>
 </td>
@@ -15191,7 +14897,7 @@ myself, and dat was de piutwid me.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-) Air elderly coloured  
+Air elderly coloured  
 man, with a very philosophical and  
 retrospective cast of countenance, was  
 squatting upon his bundle on the  
@@ -15253,7 +14959,7 @@ killed?&quot; :,. ..^v.^:...^-.; ; &quot; Maybe
 not, sah. Aidead white man ain&#x27;t much  
 wid the Bojfflrs, let alone a dead  
 nigga&gt;; but rd&quot;a miesed my8elJ^ end dat  
-wab de pint wid me
+wab de pint wid me.
 </td></tr></table>
 
 ---
@@ -15264,7 +14970,6 @@ wab de pint wid me
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-m  
 An elderly colored man, with a very  
 philosophical and restrospective cast of  
 countenance, was squatting upon his  
@@ -15344,7 +15049,7 @@ dat was the pint wid me.&quot;
   
 19 WHITEVALE STREeT, GLAsW,  
 May 27th, 1878.  
-Dea
+Dear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763189:1878062001:0211/pct:66.431171,13.585645,24.898309,81.031363/!600,600/0/default.jpg"/>
 </td>
@@ -15358,7 +15063,7 @@ Dea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: An elderly colored  
+An elderly colored  
 ‘man, with a very philosophical and ret-  
 rospective cast of countenance, was  
 squatting upon his bundle on the hurri-  
@@ -15462,7 +15167,7 @@ An educational journal thus describes
 the trouble a Frenchman had with the  
 verb “break” :  
   
-“I begfn to understand your languag
+“I begfn to understand your language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1878-06-27_27_26%2Fper_the-pacific_the-pacific_1878-06-27_27_26_jp2.zip%2Fper_the-pacific_the-pacific_1878-06-27_27_26_jp2%2Fper_the-pacific_the-pacific_1878-06-27_27_26_0005.jp2/pct:37.047663,27.948478,13.314207,51.944349/,600/0/default.jpg"/>
 </td>
@@ -15486,7 +15191,6 @@ verb “break” :
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 a PHIlOsOPHICat COIOreD MaN.  
 An elderly colored man, with a very  
 philosophical and retrospective cast of  
@@ -15583,7 +15287,7 @@ and dat was de pint wid me.&quot;
 change.  
 The  
 Tongue is Migltier tha  
-the SaoR
+the SaoRd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1879071101:0084/pct:38.649081,31.268044,10.778044,38.951810/!600,600/0/default.jpg"/>
 </td>
@@ -15597,7 +15301,6 @@ the SaoR
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 4 PhHOsoPhTEOl COFORED MAN.  
 An elderly colored man, with a very  
 philosophical and retrospective cast of  
@@ -15689,7 +15392,7 @@ Lighting the tupitof bg EleefrIeite
   
 The arrangements for lighting the  
   
-capitol building with a ne
+capitol building with a new
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn84038328:00280763779:1879071801:0135/pct:7.655407,10.217941,10.853488,47.915351/!600,600/0/default.jpg"/>
 </td>
@@ -15703,7 +15406,6 @@ capitol building with a ne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 upon inquiry that he belonged to the  
 Ninth Illinois one of the mot heavy  
 losing regiments at Fort Dooelson and  
@@ -15734,7 +15436,7 @@ Self preserbashun am da fn3t law wid
 me Then patriotism and honor aro  
 nothing to you Nuffin whatever  
 sa I regard dem as mong do vanities  
-It is safe t
+It is safe to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533638:1880060401:0063/pct:80.107998,33.694660,10.318155,15.073026/!600,600/0/default.jpg"/>
 </td>
@@ -15748,7 +15450,7 @@ It is safe t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is nuffin to me, by de  
+is nuffin to me, by de  
 i o ie  
 &quot;Well, if you lost your life you wouldd  
   
@@ -15771,7 +15473,7 @@ ment dat ever existed, for no gubern­
 ment could replace de loss to me. I  
 &#x27;spect, though, dat de gubernment  
 would be safe nuff if all de soldiers were  
-like me, cos den dere couldn&#x27;
+like me, cos den dere couldn&#x27;t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880121101:0565/pct:10.434406,4.223615,23.889931,92.799644/!600,600/0/default.jpg"/>
 </td>
@@ -15785,7 +15487,6 @@ like me, cos den dere couldn&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 did you  
 &quot;No, aa, I runs J&quot;  
   
@@ -15811,7 +15512,7 @@ dead nigga but I&#x27;d ha&#x27; missed myself,
 and dat was de p&#x27;int wid me  
   
 Mr. Planche s Irish couchman took  
-much the same view o
+much the same view of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1881042801:0083/pct:16.923849,80.283055,10.738929,9.480419/!600,600/0/default.jpg"/>
 </td>
@@ -15825,7 +15526,7 @@ much the same view o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’.”  
+.”  
 “If our soldiers were all like yon  
 traitors might have broken up the Gov­  
 ernment without resistance.”  
@@ -15841,7 +15542,7 @@ ain’t much to these sogers, let alone a
 dead nigga; but I’d ha’ missed myself,  
 and dat was de p’int wid me !”  
 Mr. Planche’s Irish coachman took  
-much the same view o
+much the same view of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881050601:0367/pct:39.441204,81.851438,10.552014,7.387461/!600,600/0/default.jpg"/>
 </td>
@@ -15855,7 +15556,6 @@ much the same view o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Philoaophical Colored Man.  
 An eldorly colored aian, with a very  
 philosophic*! aßd retrospective cast of  
@@ -15929,7 +15629,7 @@ dead nigga; but I&#x27;d missed myself, and
 dat was de pint wid me.&quot;  
 A Louisville dispatch say*: During  
 a terrible thunder ttorro that visited  
-thi
+this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1881051201%2F0384.jp2/pct:62.177594,35.259948,12.935617,44.220157/!600,600/0/default.jpg"/>
 </td>
@@ -15943,7 +15643,7 @@ thi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it war comin&#x27;.&quot;  
+it war comin&#x27;.&quot;  
 &quot;If our soldiers were all like you, traitors  
 might have broken up the Government without  
 any resistance.&quot;  
@@ -15957,7 +15657,7 @@ ed you if you had been killed?&quot;
 much to these sogers, let alone a dead nigga; but  
 I&#x27;d a missed myself, an&#x27; dat was de pint wid me.&quot;  
 Mr. Planche&#x27;s Irish coachman took much the  
-same view o
+same view of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881060201:0273/pct:3.212924,25.311601,11.036486,5.300644/!600,600/0/default.jpg"/>
 </td>
@@ -15973,7 +15673,7 @@ same view o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and part of  
+and part of  
 which was aboard, I began to interrogate  
 him upon the subject : u Were you in the  
 fight ?&#x27; &#x27; Had a little taste of it,  
@@ -16021,7 +15721,7 @@ a dead nigga ; but I&#x27;d a missed myself,
 and dat was de pint wid me.&#x27; _ &#x27;Got any  
 medicine?&#x27; asked a boy, entering a drug  
 store the other day. &#x27; Yes, lots of it.  
-What d
+What do
 </td></tr></table>
 
 ---
@@ -16032,7 +15732,7 @@ What d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, If you lost your  
+If you lost your  
   
 life you would have the satisfaction  
   
@@ -16066,7 +15766,7 @@ though, that de government would
   
 be safe &#x27;nulf If all de soldiers were  
   
-like me, cos den dere couldn&#x27;
+like me, cos den dere couldn&#x27;t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1881080601:0543/pct:75.499168,66.236100,9.636717,8.457823/!600,600/0/default.jpg"/>
 </td>
@@ -16080,7 +15780,6 @@ like me, cos den dere couldn&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 “If oar soldiers were all like von,  
 traitors might have broken np the gov­  
 ernment without resistance.”  
@@ -16101,7 +15800,7 @@ A Wager in the Pulpit.
 ■  
 Not many years since there was a fa­  
 mous preacher of the old Puritan school  
-i
+in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1881090101:0523/pct:4.094541,70.902804,10.003329,8.398172/!600,600/0/default.jpg"/>
 </td>
@@ -16115,7 +15814,6 @@ i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 in&#x27;.&quot;  
 &quot;If our soldiers were all like  
 you, traitors might have broken  
@@ -16136,7 +15834,7 @@ let alone a nigga, but I would
 bab missed mysef, An&#x27; dat was  
 de pint wid me !&quot;  
   
-W orthy of 
+W orthy of G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn86053659:00295874399:1881090201:0249/pct:78.326446,39.635473,14.524793,17.709467/!600,600/0/default.jpg"/>
 </td>
@@ -16150,7 +15848,7 @@ W orthy of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;.&quot;  
+.&quot;  
 &quot;If our soldiers all like you, traltors  
 might have broken up the Government  
 withont resistance.&quot;  
@@ -16176,7 +15874,7 @@ EeaIl MOdOee tons
 e  
 Have the Largest  
   
-countr
+country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85026955:00200293526:1881102501:0749/pct:42.226380,5.690952,46.623012,90.782992/!600,600/0/default.jpg"/>
 </td>
@@ -16190,21 +15888,7 @@ countr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ich his poetical  
-essays were contributed.  
-A number of physicians and other citi­  
-zens of Boston have united in a circular  
-addressed to the teachers of that city, urg­  
-ing them to use all their influence and  
-authority to suppress the use ef tobacco  
-among the children in their schools. There  
-is no doubt that this habit is becoming  
-more and more prevalent among children,  
-to whom it is eqnally certain to be injuri­  
-ous. The makers of cheap cigarettes are  
-largely responsible for tbis unfortunate  
-condition of affairs, which is attracting  
-i much anxious consideration on both sides  
+ration on both sides  
 I of the Atlantic.  
   
 A PHILOSOPHICAL DARKEY.  
@@ -16283,6 +15967,7 @@ was de pint wid me.&quot;
 It is safe to say that the dark corpse of  
 that African never darkened the field of  
 carnage.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_grimes_ver01:data:sn82014381:00175037986:1882082601:0107/pct:70.142602,4.901961,24.741533,90.234276/!600,600/0/default.jpg"/>
@@ -16297,7 +15982,7 @@ carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. “Had a little  
+“Had a little  
 taste of it, sah.&quot; Stood your ground,  
 did you ?&quot; “No, sah; I run.&quot; “Run  
 at the first fire, did you?&quot; “Yes,  
@@ -16310,7 +15995,8 @@ you no regard for your reputation?&quot;
 “Reputation is nothing to me by the  
 aide ob life.&quot; “Do yon consider your  
 life worth more than other people&#x27;s?&quot;  
-•*It la worth more to we, sah.&quot;
+•*It la worth more to we, sah.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582585:1882082601:0335/pct:5.942317,70.192926,17.652909,8.794212/!600,600/0/default.jpg"/>
 </td>
@@ -16324,8 +16010,6 @@ life worth more than other people&#x27;s?&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 A rlii&#x27;osopliieal Warter  
   
 . An elderly darkey, wi h a very j  
@@ -16437,7 +16121,7 @@ It is safe to say that the dark
 corpse of that African never dark­  
 ened the field of carnage.  
   
-
+t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_deserttortoise_ver01:data:sn87062082:00202192907:1882090801:0521/pct:76.464036,41.611374,16.565882,54.529452/!600,600/0/default.jpg"/>
 </td>
@@ -16451,7 +16135,7 @@ ened the field of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;.&quot;  
+.&quot;  
 &quot; If our soldiers &#x27; were all like yon  
 traitors might have broken up the Gov­  
 ernment without resistance.&quot;  
@@ -16465,7 +16149,7 @@ have missed you if you had been killed?&quot;
 &quot; Maybe not, sa; a dead white- man  
 ain&#x27;t much to these sogers, let alone a  
 dead nigga; but I&#x27;d ha&#x27; missed myself,  
-and dat was de p&#x27;int wid m
+and dat was de p&#x27;int wid me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BurCN3n_ver01%2Fdata%2F1883061601%2F0047.jp2/pct:78.258222,71.809964,14.113886,7.662392/!600,600/0/default.jpg"/>
 </td>
@@ -16479,7 +16163,7 @@ and dat was de p&#x27;int wid m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- rates than  
+rates than  
 Willcox ca it&#x27;ih nfitr.  
 ; f Ii HI M)T1 MiN  
   
@@ -16533,7 +16217,7 @@ Caufjc, sail, different men sets a
 .different value upon deceives; &#x27;my  
 life is not in do market, sah.&quot; &#x27;js  
 t &quot;&#x27;13ut if you lost itj you wonldrjiave  
-&#x27; vthefSatitaction ot KnvlnE&#x27;tlia
+&#x27; vthefSatitaction ot KnvlnE&#x27;tliat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_falcon_ver01:data:sn84021913:00211106293:1883061601:0148/pct:17.690513,13.608885,24.708398,82.974835/!600,600/0/default.jpg"/>
 </td>
@@ -16547,7 +16231,7 @@ t &quot;&#x27;13ut if you lost itj you wonldrjiave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;If oiirLso&#x27;ldicr5,s-gKtrTdu? J.trai­  
+If oiirLso&#x27;ldicr5,s-gKtrTdu? J.trai­  
 &#x27;tors might, have brolreti&#x27;upAour Uov-  
 einment withoutx&#x27;ii?cei&#x27;X&#x27;f r  
 &quot;Yes, sah; der woiSHIiab, been no  
@@ -16568,7 +16252,7 @@ dead nigger; but I&#x27;d a missed .&#x27;myself,
 and dat was do pintyyl?m.&quot;  
 It is siifo-to&quot;E.iy thatfthe-dink corpse  
 of that&#x27; African never &#x27;darkened Hhe  
-field ot callage.&quot; &quot;
+field ot callage.&quot; &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_falcon_ver01:data:sn84021913:00211106293:1883061601:0148/pct:29.801711,50.597498,12.577760,12.877829/!600,600/0/default.jpg"/>
 </td>
@@ -16584,7 +16268,7 @@ field ot callage.&quot; &quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-RANK CONFESSION. Dr. W. W. Hall, in  
+ANK CONFESSION. Dr. W. W. Hall, in  
 his admirable little book, &quot;How to Live  
 Long,&quot; records the following refreshing  
 exhibition of primitive frankness of  
@@ -16638,7 +16322,7 @@ but I&#x27;d a missed myself, and that was
 the p&#x27;int wid me.&quot; &quot;Then patriotism and  
 honour are nothing to you ?&quot; &quot;Nufin&#x27;  
 whatever, sa; I consider dem as among do  
-vanities
+vanities.
 </td></tr></table>
 
 ---
@@ -16730,7 +16414,7 @@ tiettiug a Wife
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
 The Contraband&#x27;s Patriotism,  
 An elderly colored man, with a very  
@@ -16762,7 +16446,7 @@ had I knowed it was comin&#x27;.&quot;
 your courage.”  
 &quot;Dat isn&#x27;t in my line, sah; cookin&#x27;s  
 my profession.&quot;  
-
+W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1886102101:0508/pct:42.396812,6.272229,11.784799,15.954642/!600,600/0/default.jpg"/>
 </td>
@@ -16776,7 +16460,7 @@ my profession.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s nuffin to me by the  
+s nuffin to me by the  
 side of lie e ae­  
 &quot;Do you consider your life worth  
 more than other people&#x27;s?&quot;  
@@ -16817,7 +16501,7 @@ dead niggah; but I&#x27;d a missed myself,
 and dat was de p&#x27;int wid me.From  
 Eli Perkins&#x27; &quot;Wit and Humor of the  
   
-A Prayer fo
+A Prayer for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1886102101:0508/pct:42.328494,22.590903,11.984059,18.737186/!600,600/0/default.jpg"/>
 </td>
@@ -16831,7 +16515,7 @@ A Prayer fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&amp;m  
+m  
   
 The Contraband&#x27;s Patriotism.  
 An elderly colored man, with a very  
@@ -16907,7 +16591,7 @@ dead niggah but I&#x27;d a missed myself,
 and dat was de p&#x27;int wid me.&quot;—From  
 Eli Perkins&#x27; &quot;Wit and Humor of the  
   
-A Prayer fo
+A Prayer for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479238:1886102201:0405/pct:39.502019,6.957929,17.442799,90.442961/!600,600/0/default.jpg"/>
 </td>
@@ -16921,7 +16605,6 @@ A Prayer fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An elderly colored man, with a very  
 philosophical and retrospective cast  
 of countenance, was squatting with  
@@ -16991,7 +16674,7 @@ dead niggah but I&#x27;d a missed myself,
 and dat was de p&#x27;int wid me.&quot;—From  
 Eli Perkins&#x27; &quot;Wit and Humor of the  
   
-A Prayer fo
+A Prayer for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096040:00199917936:1886102201:0512/pct:42.629273,5.867381,11.884312,35.874079/!600,600/0/default.jpg"/>
 </td>
@@ -17005,7 +16688,6 @@ A Prayer fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An elderly colored man, with a very  
 philosophical and retrospective cast  
 of countenance, was squatting with  
@@ -17074,7 +16756,7 @@ you had been killed?&quot;
 &quot;Maybe not, sah a dead white man  
 aint much wid dese sojers, let alone a  
 dead niggah but I&#x27;d a missed myself,  
-and dat vras de p&#x27;int wid me
+and dat vras de p&#x27;int wid me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886102801:0975/pct:44.295763,6.370705,12.283411,33.860045/!600,600/0/default.jpg"/>
 </td>
@@ -17090,7 +16772,7 @@ and dat vras de p&#x27;int wid me
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and Mohammedans.&#x27;  
+and Mohammedans.&#x27;  
 -Dr. W« W. Hall, in his admirable little  
 book, -&#x27;How to Live Long,&#x27; records the  
 following refresh- : ing exhibition of  
@@ -17146,7 +16828,7 @@ missed it myself, and dat was the p&#x27;int
 wid me.&#x27; &#x27; Then patriotism, and honour  
 are nothing to you f &#x27; &#x27;N uffin&#x27;  
 whatever, sa; 1 consider dem as among de  
-vanities.&#x27; 
+vanities.&#x27; T
 </td></tr></table>
 
 ---
@@ -17157,7 +16839,6 @@ vanities.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An elderly colored man, with a very  
 philosophical and retrospective cast  
 of countenance, was squatting with  
@@ -17231,7 +16912,7 @@ and dat cas de p&#x27;int wid me.&quot;—From
 Eli Perkins&#x27; &quot;Wit and Humor of the  
 Age.&quot;  
   
-A Prayer fo
+A Prayer for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886110401:1249/pct:43.778281,6.149637,12.217195,35.208755/!600,600/0/default.jpg"/>
 </td>
@@ -17247,7 +16928,7 @@ A Prayer fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Ifall, in his  
+Ifall, in his  
 work &quot; How to Live Long,&quot; records the  
 following refreskhing exli! bitiou of  
 primitive frankness of character. A  
@@ -17302,7 +16983,7 @@ myself aiid that was the pint willd me.&quot;
 &quot; Then patriotism and l onlor are  
 nothing &quot;to you ?&#x27; Nuflin,&#x27; whateser, sa  
 I consider dent as ailong dle vanities.&quot;  
-A
+At
 </td></tr></table>
 
 ---
@@ -17313,7 +16994,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Philosophical Darliy.  
   
 BY DAVID STONER.  
@@ -17409,6 +17089,7 @@ and dat was de pint wid me, sah.&quot;
 It is safe to say that the dusky corpse  
 of that African will never darken the  
 field of&quot; carnage.&quot;—Ohiaago Ledger,  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623240:1888080901:1099/pct:24.658972,10.970069,11.245191,39.337253/!600,600/0/default.jpg"/>
@@ -17423,13 +17104,11 @@ field of&quot; carnage.&quot;—Ohiaago Ledger,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 It is safe to say that the dusky corpse  
 of that African will never darken the  
 field of carnage.&quot;—Chicago Ledger.  
   
-A
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888081701:0714/pct:38.361535,61.934499,14.465539,2.567305/!600,600/0/default.jpg"/>
 </td>
@@ -17443,7 +17122,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 *t  
   
 N elderly darky,  
@@ -17531,7 +17209,7 @@ dead nigga but I&#x27;d &#x27;a missed myself,
 and dat was de pint wid me, sah.&quot;  
   
 E were camped  
-a
+at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888081701:0714/pct:38.175815,2.789342,15.579860,63.141826/!600,600/0/default.jpg"/>
 </td>
@@ -17545,7 +17223,7 @@ a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, one of the most gal.  
+one of the most gal.  
 lantly behaved and heavy loosing regi-  
 ments at the Fort Donaldson battle, I  
 began to interrogate him upon the sub-  
@@ -17631,7 +17309,8 @@ dead nigga; but I&#x27;d miss myself. and
   
 | dat’s the pint wid me.”  
   
-ab been no
+ab been no  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362145%2F1889121901%2F00007.jp2/pct:48.219373,14.259834,13.817664,28.933747/!600,600/0/default.jpg"/>
 </td>
@@ -17645,7 +17324,7 @@ ab been no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
 with the bref out er him, sahl  
   
@@ -17683,7 +17362,7 @@ sah, an&#x27; dat war de pint wid me.&quot;
   
 It is safe to say the dusky corpse of  
   
-SiSHY vA
+SiSHY vAR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1891123101:0410/pct:32.628399,5.979813,22.507553,34.774329/!600,600/0/default.jpg"/>
 </td>
@@ -17697,8 +17376,6 @@ SiSHY vA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ject:  
 &quot;Wero you In that fight?&quot; I inquired.  
 &quot;Had a little taste of It, sab!&quot;  
@@ -17759,7 +17436,7 @@ dead niggah! but I&#x27;d a missed myself,
 sah, an&#x27; dat war de pint wid me.&quot;  
 It is safe to say the dusky corpse of  
 that African never darkened the field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282796:1892010201:0377/pct:18.061396,21.947520,14.486964,32.064311/!600,600/0/default.jpg"/>
 </td>
@@ -17773,14 +17450,13 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An elderly colored man. with a very philo­  
 sophical and retrospective cast of con:*nance,  
 was squatting with his bundle upon the hurri  
 cane deck of one of the western river steamers,  
 casting his sains against the chimney and  
 apparently plunged In a state of profound medi­  
-tation, says Eli Perkins’ &quot;Wit an
+tation, says Eli Perkins’ &quot;Wit and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892021001:0894/pct:58.050925,6.361008,12.438175,2.918904/!600,600/0/default.jpg"/>
 </td>
@@ -17794,7 +17470,7 @@ tation, says Eli Perkins’ &quot;Wit an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’ His dress and appearance indicated  
+His dress and appearance indicated  
 familanty with camp life, and. it 1 eing soon  
 after th * selge and capture of Fort Donaldson. I  
 was inclined to disturb his reveries, and on inter­  
@@ -17847,7 +17523,7 @@ much wid dese sojers, let alone a dead nigeah
 But I’d a missed myself, and dat was de D&#x27;int  
 wid me.”  
 Hie Curiosity was Satisfied.  
-In an elevate
+In an elevated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1892021001:0894/pct:57.886060,9.307449,12.548086,21.010602/!600,600/0/default.jpg"/>
 </td>
@@ -17861,7 +17537,7 @@ In an elevate
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;Were you in that fight?&quot; I inquired.  
+Were you in that fight?&quot; I inquired.  
 &quot;Had a little taste of it sab!&quot;  
 &quot;Stood your ground, did you?&quot;  
 &quot;No, sah! I runs!&quot;  
@@ -17898,7 +17574,7 @@ gone?&quot;
 &quot;Then patriotism and honor are noth­  
 ing to you!&quot; if  
 &quot;Nufiin, whatevah, sah. Dey&#x27;s &#x27;raong  
-d
+de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629266:1892021801:0493/pct:19.825142,22.643916,14.768431,21.878488/!600,600/0/default.jpg"/>
 </td>
@@ -17912,7 +17588,7 @@ d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- like you,  
+like you,  
 traitors might break up our government  
 with very little resistance.&quot;  
 &quot;Yes, sah! dar would be no help foh  
@@ -17929,7 +17605,7 @@ dead niggah! but I&#x27;d a missed myself,
 sah, an&#x27; dat war de pint wid me.&quot;  
 It is safe to say the dusky corpse of  
 that African never darkened the field of  
-carnage
+carnage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629266:1892021801:0493/pct:19.848771,44.665923,14.697543,10.094084/!600,600/0/default.jpg"/>
 </td>
@@ -17943,7 +17619,6 @@ carnage
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Were you in the fight?&quot;  
 &quot;Had a little taateof it, ea.&quot;  
 &quot;Stood your ground, did you?&quot;  
@@ -17993,7 +17668,7 @@ killed ?&quot;
 &quot;Maybe not, sa; a dead white man  
 ain&#x27;t much use, yer know, let alone a dead  
 nigga, but I&#x27;d miss myself, and dat was de  
-pint wid me
+pint wid me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191551:1892041301:0191/pct:42.454395,51.416877,12.437811,23.467674/!600,600/0/default.jpg"/>
 </td>
@@ -18007,7 +17682,7 @@ pint wid me
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hurricane deck to day  
+hurricane deck to day  
 an elderly darkey, with a very philosoph­  
 ical and retrospective cast of countenance,  
 squatted upon his bundle, toasting bis  
@@ -18077,7 +17752,8 @@ ga;but rd missed inyself, and dat was
 the pint wid me.  
 It is safe to say that the dnsky corpse  
 of that Africa* will sever darken the deld  
-of carnage.
+of carnage.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_iles_ver01:data:sn86091095:00279550936:1893072201:0537/pct:18.385850,60.581841,12.871581,35.208866/!600,600/0/default.jpg"/>
 </td>
@@ -18091,7 +17767,6 @@ of carnage.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ho Han.  
 To the Elitor of the Intellioenter.  
 Sin; During the war I heard the fole  
@@ -18155,7 +17830,7 @@ Joun T. Lisros,
 Late of Company B, Fourteenth West  
 Virginia Voluntears.  
 Abrichisile, B. TA. Tt.2.  
-Rerlval in the Fairmont M1. 
+Rerlval in the Fairmont M1. E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193614:1894022801:0406/pct:18.255889,5.374131,16.069700,31.956641/!600,600/0/default.jpg"/>
 </td>
@@ -18169,7 +17844,7 @@ Rerlval in the Fairmont M1.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-/ndependent.  
+ndependent.  
   
 ‘* WERE you in the fight ?” asked an officer of an elderly negro on a steamer after  
 taking a fort.  
@@ -18198,7 +17873,7 @@ taking a fort.
   
 re:  
   
-Not long ago a resident of one of the small tow
+Not long ago a resident of one of the small town
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_life_1894-10-25_24_617%2Fsim_life_1894-10-25_24_617_jp2.zip%2Fsim_life_1894-10-25_24_617_jp2%2Fsim_life_1894-10-25_24_617_0013.jp2/pct:5.120482,5.244917,74.006024,37.638632/600,/0/default.jpg"/>
 </td>
@@ -18212,7 +17887,6 @@ Not long ago a resident of one of the small tow
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Were you in tic littht&#x27;.&#x27;&quot; u-l.- I u;  
 officer of an elderly m-grj eti u ivB-;i  
 after taking a fort.  
@@ -18235,7 +17909,7 @@ more than other prupl;:&#x27;-:&quot;
 &quot;It&#x27;s worth moro tome, fesh. &quot; Ex­  
 change.The Statk Journal&#x27;s Want and  
 cellaneons columns reach each wor  
-day in the week more tha
+day in the week more than
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871258:1894103101:0228/pct:80.196629,80.910853,14.202949,13.455150/!600,600/0/default.jpg"/>
 </td>
@@ -18249,7 +17923,7 @@ day in the week more tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Independence.  
+Independence.  
 Some ool Kcasous.  
 &quot;Were you in the fight?&quot; asked  
 an officer of an elderly negro on a  
@@ -18271,7 +17945,7 @@ your reputation?&quot;
 the side of life.&quot;  
 &quot;Do you consider your life worth  
 more than any other people&#x27;s?&quot;  
-&quot;It&#x27;a, worth more to me, sah
+&quot;It&#x27;a, worth more to me, sah.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556989:1894110101:0611/pct:16.709594,77.040111,10.028976,13.529486/!600,600/0/default.jpg"/>
 </td>
@@ -18285,7 +17959,7 @@ more than any other people&#x27;s?&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-“Were you iu the fight asked an  
+Were you iu the fight asked an  
 officer of hu elderly negro oa a steamer  
 after takiug a fort  
 Had a little taste of it sah ”  
@@ -18304,7 +17978,7 @@ side of life ’ ’
 “Do you consider your life worth  
 more than other peoples  
 It’s worth more to mo sail —•Ex-  
-change     
+change     i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth984671/m1/2/pct:44.533333,29.152863,15.000000,12.399432/!600,600/0/default.jpg"/>
 </td>
@@ -18318,7 +17992,7 @@ change
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mplexion, sleeping drafts, tinctures,  
+plexion, sleeping drafts, tinctures,  
 and that largo bottlo is plain ammonia,  
 but wo must mark them all so that iu  
 caso n juvenile in tho family should  
@@ -18359,7 +18033,8 @@ rk&#x27;LJ&#x27;J
 &quot;Grandpa, what doos &#x27;D. F. &#x27;mean?&quot;  
 &quot;Nowadays, my boy, it means a young  
 man who Is quite &#x27;btnart&#x27; &quot; Life.  
-A (&quot;line Call.
+A (&quot;line Call.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206534163:1894110601:0950/pct:21.396055,61.091103,14.207132,31.225824/!600,600/0/default.jpg"/>
 </td>
@@ -18373,7 +18048,7 @@ A (&quot;line Call.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mplexios, sleeping drafts, tinctures,  
+plexios, sleeping drafts, tinctures,  
 and that large bottle is plain ammonia,  
 but we must mark them all so that in  
 case a juvenile in the family should  
@@ -18403,7 +18078,8 @@ perfeshun.&quot;
 your reputation?&quot;  
 side of life.&quot;  
 a e  e  
-It&#x27;s with min tn
+It&#x27;s with min tn  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:00280760341:1894110601:0391/pct:15.210101,61.003116,13.296508,19.097789/!600,600/0/default.jpg"/>
 </td>
@@ -18417,7 +18093,6 @@ It&#x27;s with min tn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Were you In the fight?” asked an  
 officer of an elderly negro on a steamer  
 after taking a fort.  
@@ -18437,7 +18112,7 @@ your reputation?”
 side of life.”  
 “Do you consider your life worth more  
 than other people’s?”  
-“It’s worth more to me, sah.
+“It’s worth more to me, sah.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186804:1894110901:0270/pct:55.499495,39.967719,12.685599,9.653990/!600,600/0/default.jpg"/>
 </td>
@@ -18451,8 +18126,6 @@ than other people’s?”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 ‘* Were you in the fight?” asked an officer of  
 an elderly negro on a steamer after taking a  
 fort.  
@@ -18494,6 +18167,7 @@ other people&#x27;s?
   
   
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-night_1894-11-10_7_51%2Fsim_saturday-night_1894-11-10_7_51_jp2.zip%2Fsim_saturday-night_1894-11-10_7_51_jp2%2Fsim_saturday-night_1894-11-10_7_51_0005.jp2/pct:58.688784,81.416322,15.699052,11.516854/600,/0/default.jpg"/>
@@ -18508,7 +18182,7 @@ other people&#x27;s?
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of incendiaries.  
+of incendiaries.  
 &quot;Were you in the fight?&quot; asked an  
 officer of an elderly negro on a steamer  
 after taking a fort.  
@@ -18531,7 +18205,8 @@ more than other peoples?&quot;
 &quot;Grandpa, what does T. F.&quot; mean?&quot;  
 &quot;Nowadays, my boy, it means a young  
 man who is quite &#x27;smart.&quot;&quot;-Life  
-A ClOsE Call.
+A ClOsE Call.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn86075022:00294550057:1894112101:1117/pct:50.000000,31.342593,14.383865,24.984568/!600,600/0/default.jpg"/>
 </td>
@@ -18545,7 +18220,7 @@ A ClOsE Call.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ury.  
+ry.  
   
 ‘*WERE you in the fight ?” asked an officer of an elderly negro on a steamer  
 after taking a fort.  
@@ -18578,6 +18253,7 @@ That
 is the 4 35S  
   
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_life_1895-01-03_25_627%2Fsim_life_1895-01-03_25_627_jp2.zip%2Fsim_life_1895-01-03_25_627_jp2%2Fsim_life_1895-01-03_25_627_0015.jp2/pct:23.085984,39.050752,68.875147,19.031955/600,/0/default.jpg"/>
@@ -18592,7 +18268,6 @@ is the 4 35S
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 “Had a iittlo taste of it, sah. ”  
 “Stood your ground, did you?”  
 “No, sah. I runs. ”  
@@ -18610,7 +18285,7 @@ side of life. ”
 “Do you consider your life worth  
 more than other peoples?”  
 “It’s worth more tome, sah.”—Ex­  
-chang
+change
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895010401:0685/pct:70.094906,64.382770,12.085997,9.280139/!600,600/0/default.jpg"/>
 </td>
@@ -18634,7 +18309,7 @@ chang
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Store.  
+Store.  
   
 ‘•Were you in the tight ?” asked an  
 officer of an elderly negro on a steam­  
@@ -18655,7 +18330,8 @@ your reputation?”*
 side of life.”  
 &quot;Do you consider your life worth  
 more than other people’s?”  
-“It&#x27;s worth more to me. sah.’’
+“It&#x27;s worth more to me. sah.’’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769386:1895022801:0488/pct:28.201016,31.262792,10.866079,10.345886/!600,600/0/default.jpg"/>
 </td>
@@ -18669,7 +18345,6 @@ more than other people’s?”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 ject: “Were you in the fight?” I asked. ‘Had a  
 little taste of it, sah.” “Stood your ground, did  
 you?” “No, sah, I runs.” “Run at the first fire,  
@@ -18705,7 +18380,7 @@ would have missed you if you had been killed?”
 dese sogers, let alone a nigga; but I’d a missed  
 myself, and dat was de pint wid me.”  
   
-A Good Shot.—A good story is told of the lat
+A Good Shot.—A good story is told of the late
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_current-opinion_1898-10_24_4%2Fsim_current-opinion_1898-10_24_4_jp2.zip%2Fsim_current-opinion_1898-10_24_4_jp2%2Fsim_current-opinion_1898-10_24_4_0081.jp2/pct:50.249377,34.711286,36.159601,44.553806/,600/0/default.jpg"/>
 </td>

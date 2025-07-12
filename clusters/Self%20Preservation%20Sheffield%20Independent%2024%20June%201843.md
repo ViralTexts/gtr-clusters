@@ -1,7 +1,7 @@
 
 # From _Sheffield Independent_
 
-### 565 reprints from 1841-05-22 to 1896-11-10
+### 456 reprints from 1841-07-31 to 1896-11-10
 
 ## [From _Sheffield Independent_](https://link-gale-com.ezproxy.lib.ryerson.ca/apps/doc/R3212004854/BNCN?u=rpu_main&sid=bookmark-BNCN&xid=846d399a.)
 
@@ -33,7 +33,7 @@ Reviews of the Work.
   
 “The rapid and unprecedented sale of our large editions of this work, is the best test of public opinion in reference to the accuracy of its principles; and with a view to enhance its utility, the Author’s attention has been strongly directed to further the efforts in rendering it increasingly valuable. Long experience, in the treatment of a class of diseases hitherto neglected and most imperfectly understood by the great bulk of the medical profession, has enabled the writer to prove that there are concealed causes of indigestion, consumption, insanity, and Nervous Debility, in existence, where the mere routine practitioner would never dream of finding them; traceable to certain habits forming in the most secret, yet deadly, and fatal springs of domestic misery and premature mortality, the elements of social decline and national decay.” — Stafford Gazette.  
   
-Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are requested to be as minute as possible in the detail of their symptoms, age, general habits of living, and occupation in life. The communication must be accompanied by the usual Consultation Fee of £1, without which no notice whatever can be taken of their
+Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are requested to be as minute as possible in the detail of
 </td></tr></table>
 
 ---
@@ -42,56 +42,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 #### From _Manchester Times_
 
-#### 1841-05-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1841-05-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1841-06-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1841-07-09 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1841-07-17 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
 #### 1841-07-31 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
@@ -103,16 +53,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Manchester Times_
 
 #### 1841-07-31 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Morning Chronicle_
-
-#### 1841-08-07 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -162,26 +102,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 #### From _Liverpool Mercury_
 
-#### 1841-09-17 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1841-10-01 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
 #### 1841-10-01 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
@@ -203,16 +123,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Manchester Times_
 
 #### 1841-10-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1841-10-29 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -460,16 +370,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Liverpool Mercury_
-
-#### 1842-02-18 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1842-02-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -510,9 +410,9 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Liverpool Mercury_
+#### From _Jackson's Oxford Journal_
 
-#### 1842-03-11 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
+#### 1842-03-12 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
 
 [This text is not available under an open license.]
 
@@ -540,29 +440,9 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Bristol Mercury_
-
-#### 1842-03-26 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Jackson's Oxford Journal_
 
 #### 1842-03-26 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1842-03-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -630,16 +510,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Liverpool Mercury_
-
-#### 1842-04-15 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1842-04-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -663,26 +533,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Preston Chronicle_
 
 #### 1842-04-16 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Bristol Mercury_
-
-#### 1842-04-23 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Bristol Mercury_
-
-#### 1842-04-23 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -730,9 +580,9 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Liverpool Mercury_
+#### From _Manchester Times_
 
-#### 1842-04-29 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
+#### 1842-04-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -773,36 +623,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Preston Chronicle_
 
 #### 1842-05-07 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1842-05-13 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1842-05-13 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Bristol Mercury_
-
-#### 1842-05-14 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -940,6 +760,16 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
+#### From _Manchester Times_
+
+#### 1842-06-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
 #### From _Preston Chronicle_
 
 #### 1842-06-04 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
@@ -1060,16 +890,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Liverpool Mercury_
-
-#### 1842-06-24 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Jackson's Oxford Journal_
 
 #### 1842-06-25 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
@@ -1120,6 +940,16 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
+#### From _Manchester Times_
+
+#### 1842-07-02 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
 #### From _Preston Chronicle_
 
 #### 1842-07-02 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
@@ -1133,16 +963,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Preston Chronicle_
 
 #### 1842-07-02 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1842-07-08 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1230,16 +1050,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Liverpool Mercury_
-
-#### 1842-07-22 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Jackson's Oxford Journal_
 
 #### 1842-07-23 &middot; [Oxford, England](http://dbpedia.org/resource/Oxford)
@@ -1260,29 +1070,19 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
+#### From _Manchester Times_
+
+#### 1842-07-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
 #### From _Preston Chronicle_
 
 #### 1842-07-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1842-07-29 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1842-07-29 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1420,9 +1220,9 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Liverpool Mercury_
+#### From _Preston Chronicle_
 
-#### 1842-08-19 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
+#### 1842-08-13 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
 
 [This text is not available under an open license.]
 
@@ -1430,9 +1230,9 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Liverpool Mercury_
+#### From _Bristol Mercury_
 
-#### 1842-08-19 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
+#### 1842-08-20 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
 
 [This text is not available under an open license.]
 
@@ -1463,16 +1263,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Preston Chronicle_
 
 #### 1842-08-20 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Liverpool Mercury_
-
-#### 1842-08-26 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
 
 [This text is not available under an open license.]
 
@@ -1590,16 +1380,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Bristol Mercury_
-
-#### 1842-09-24 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1842-09-24 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -1683,16 +1463,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Preston Chronicle_
 
 #### 1842-10-01 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1842-10-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1780,16 +1550,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Bristol Mercury_
-
-#### 1842-10-29 &middot; [Bristol, England](http://dbpedia.org/resource/Bristol)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1842-10-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -1840,16 +1600,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1842-11-12 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1842-11-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
@@ -1863,16 +1613,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Preston Chronicle_
 
 #### 1842-11-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1842-11-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1883,16 +1623,6 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Preston Chronicle_
 
 #### 1842-11-19 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1842-11-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -1943,6 +1673,16 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 #### From _Manchester Times_
 
 #### 1843-01-07 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
+
+[This text is not available under an open license.]
+
+---
+
+## Advertisements & Notices
+
+#### From _Examiner_
+
+#### 1843-01-14 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -2078,13 +1818,23 @@ Mr. LaMert is to be consulted daily; and Country Patients, in their letters, are
 
 ---
 
+## Advertisements & Notices
+
+#### From _Preston Chronicle_
+
+#### 1843-03-04 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
+
+[This text is not available under an open license.]
+
+---
+
 ## [From _The Spectator 1828-2014_](https://archive.org/details/sim_spectator-uk_1843-03-04_16_766/page/n21/mode/1up?view=theater)
 
 #### 1843-03-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Bedford  
+Bedford  
 Square, London ; Matriculated Member of the University  
 of Edimburgh; Licentiate of Apothecaries’ Hall, Lon-  
 don, &amp;c.  
@@ -2101,7 +1851,8 @@ safety, to be placed in the hands of every youth whose
 appeaiauce indicates any teudency to vervous debility,  
 or premature decay. Mr. La’Mert, who is a regularly  
 educated member of the medical professi.n, has treated  
-the subject in a very scientific and intelligible manner.”
+the subject in a very scientific and intelligible manner.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-03-04_16_766%2Fsim_spectator-uk_1843-03-04_16_766_jp2.zip%2Fsim_spectator-uk_1843-03-04_16_766_jp2%2Fsim_spectator-uk_1843-03-04_16_766_0021.jp2/pct:63.835616,78.187919,26.198630,10.570470/600,/0/default.jpg"/>
 </td>
@@ -2185,7 +1936,7 @@ the subject in a very scientific and intelligible manner.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Bedfor  
+Bedfor  
 Square, London ; Matriculated Member of the University  
 of Edinburgh; Licentiate of Apothecaries’ Hall, Lon-  
 don, &amp;c.  
@@ -2201,7 +1952,7 @@ by all B okseilers.
 ‘* We consider this book really ought, as a matter of  
 safety, to be placed in the hands of every youth whose  
 appearance indicates any teudency to vervous debility,  
-or premature decay. Mr. La&#x27;Mert, who is a a
+or premature decay. Mr. La&#x27;Mert, who is a ae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-03-18_16_768%2Fsim_spectator-uk_1843-03-18_16_768_jp2.zip%2Fsim_spectator-uk_1843-03-18_16_768_jp2%2Fsim_spectator-uk_1843-03-18_16_768_0022.jp2/pct:61.404110,79.470199,26.027397,9.768212/600,/0/default.jpg"/>
 </td>
@@ -2305,7 +2056,6 @@ or premature decay. Mr. La&#x27;Mert, who is a a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 Licentiate of Apothecaries’ Hall, London, &amp;c.  
   
 Published by the Author; aud Sold by 8.  
@@ -2355,6 +2105,7 @@ West- |
   
 ford Street, Bedford Square, London; aud 21, Faulkner  
 Sireet, Manchester,  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-04-29_16_774%2Fsim_spectator-uk_1843-04-29_16_774_jp2.zip%2Fsim_spectator-uk_1843-04-29_16_774_jp2%2Fsim_spectator-uk_1843-04-29_16_774_0021.jp2/pct:37.910959,76.199187,33.184932,16.626016/600,/0/default.jpg"/>
@@ -2419,7 +2170,7 @@ Sireet, Manchester,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Manchester; Newron, 16, Church Street, ie  
+anchester; Newron, 16, Church Street, ie  
 pool; Warrs, Snow Hill, Birmingham; Davey, Broa  
 Street, Bristol; and by all B oksellers.  
   
@@ -2439,6 +2190,7 @@ and from Five till Eight; and all Letters immediately
 replied to, if contiining the fee of 1/. for advice—9, Bed-  
 ford Street, Bedford Square, London; aud 21, Faulkner  
 Street, Mauchester,  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-05-13_16_776%2Fsim_spectator-uk_1843-05-13_16_776_jp2.zip%2Fsim_spectator-uk_1843-05-13_16_776_jp2%2Fsim_spectator-uk_1843-05-13_16_776_0022.jp2/pct:35.376712,51.029654,25.821918,10.111203/600,/0/default.jpg"/>
@@ -2473,7 +2225,6 @@ Street, Mauchester,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 Licentiate of Apothecaries’ Hall, London, &amp;c.  
   
 Published by the Author; aud Sold by S. Gipert,  
@@ -2499,7 +2250,7 @@ and we are certainly amazed at the prevalence and the |
 consequences of those evils itis in his province to portray  
 aud alleviate.’— Vahkefield Journal.  
   
-A
+At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-05-20_16_777%2Fsim_spectator-uk_1843-05-20_16_777_jp2.zip%2Fsim_spectator-uk_1843-05-20_16_777_jp2%2Fsim_spectator-uk_1843-05-20_16_777_0022.jp2/pct:9.178082,45.616883,26.472603,12.926136/600,/0/default.jpg"/>
 </td>
@@ -2513,7 +2264,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Bedford Square, London;  
+Bedford Square, London;  
 Matriculated Member of the University of Edinburgh;  
 Licentiate of Apothecaries’ Hall, London, &amp;c.  
   
@@ -2536,7 +2287,7 @@ and we are certainly amazed at the prevalence aud the
 consequences of those evils itis in his province to portray  
 aud alleviate.’— Waketield Journal.  
   
-A
+At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-06-03_16_779%2Fsim_spectator-uk_1843-06-03_16_779_jp2.zip%2Fsim_spectator-uk_1843-06-03_16_779_jp2%2Fsim_spectator-uk_1843-06-03_16_779_0022.jp2/pct:32.534247,44.812092,25.890411,12.397876/600,/0/default.jpg"/>
 </td>
@@ -2550,7 +2301,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pool ;  
+ool ;  
 Warts, Snow Hill, Birmingham; Davey, Broad Sireet,  
 Biistol ; aud by all Booksellers.  
   
@@ -2591,7 +2342,7 @@ alleviate.”—WakkFikLp JOURNAL.
 At Home for Consultation Daily, from Nine till Two,  
 and from Five till Eight; and ail Letters immediately  
 replied to, if containing the fee of 1. for advice.—9. Bed-  
-ford Street, Bedford Square, London; and YZ1,
+ford Street, Bedford Square, London; and YZ1, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-06-10_16_780%2Fsim_spectator-uk_1843-06-10_16_780_jp2.zip%2Fsim_spectator-uk_1843-06-10_16_780_jp2%2Fsim_spectator-uk_1843-06-10_16_780_0022.jp2/pct:35.000000,51.493453,25.993151,8.060556/600,/0/default.jpg"/>
 </td>
@@ -2605,7 +2356,7 @@ ford Street, Bedford Square, London; and YZ1,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; Licentiate of  
+Licentiate of  
   
 Apothecaries’ Hall, London, &amp;c.  
   
@@ -2628,7 +2379,7 @@ and we are certainly amazed at the prevalence and the
 consequences of those evils itis in his province to portray  
 aud alleviate.’— Waketield Journal.  
   
-A
+At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-06-17_16_781%2Fsim_spectator-uk_1843-06-17_16_781_jp2.zip%2Fsim_spectator-uk_1843-06-17_16_781_jp2%2Fsim_spectator-uk_1843-06-17_16_781_0022.jp2/pct:62.465753,45.256515,25.924658,11.807818/600,/0/default.jpg"/>
 </td>
@@ -2642,15 +2393,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-medical prote  
-sion, lias treated th ubject in a very scic ce and intell gibl  
-manner, and we are certa ae mazed at the prevalence and the  
-consequences of those evils it is in his province to portray and |  
-  
-  
-  
-alleviate.”’—W akerirLy JOURNAL,  
-  
 Published by the Author; and Sold by 8. Ginpert, 52  
 Paternoier Row; Freip, 65, Quadrant, Regent Street ;  
 Jackson , 130, New Bond Street; Gorpon, i46, Leaden-  
@@ -2660,15 +2402,9 @@ hall Steet; Nosie, 109, Chancery Lane; Maunse&amp;.t,
 Knightsbridge, London; Courier Office, Mauchester ;  
 Newron, i6 { hurch Street, Liverpool; Waits. Snow  
 Hill, Birmingham; Davey, Broad Street,  
-by all Booksellers,  
-  
-At Home for Consultation Daily,  
-and from Five till Eight; and atl  
-replied to, if containing the fee of 1/. tor  
-ford Stieet, Ledford Square, London.  
-
+by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-07-01_16_783%2Fsim_spectator-uk_1843-07-01_16_783_jp2.zip%2Fsim_spectator-uk_1843-07-01_16_783_jp2%2Fsim_spectator-uk_1843-07-01_16_783_0022.jp2/pct:33.321918,79.917355,26.849315,10.227273/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-07-01_16_783%2Fsim_spectator-uk_1843-07-01_16_783_jp2.zip%2Fsim_spectator-uk_1843-07-01_16_783_jp2%2Fsim_spectator-uk_1843-07-01_16_783_0022.jp2/pct:33.390411,82.314050,26.130137,5.433884/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2416,7 @@ ford Stieet, Ledford Square, London.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&amp;c.  
+c.  
   
 ** We consider this book really ought, as a matter of safety, to  
 be placed in the hands of every youth whose « appearance indicates  
@@ -2689,7 +2425,8 @@ Mert, who is a regularly educated member of the medics al profes-
 sion, has treated the subject in a very scientific and intelligible  
 manner, and we ure certainly amazed at the prevalence and the  
 ee of those evils it is in his pro »vince to pc ortra ay and  
-alleviate.”—WakeFIELD JOURNAL,
+alleviate.”—WakeFIELD JOURNAL,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-07-29_16_787%2Fsim_spectator-uk_1843-07-29_16_787_jp2.zip%2Fsim_spectator-uk_1843-07-29_16_787_jp2%2Fsim_spectator-uk_1843-07-29_16_787_0021.jp2/pct:8.767123,52.871901,26.130137,4.359504/600,/0/default.jpg"/>
 </td>
@@ -2703,7 +2440,7 @@ alleviate.”—WakeFIELD JOURNAL,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-owuess  
+wuess  
 of Spirits, aud Iusanity; with Plain Directions for their  
 Treatment and Cure. By Samvent La’Mert, Surgeon,  
 %, Bedford Street, Bedford Square, London ; Matriculated  
@@ -2718,7 +2455,7 @@ be satisfactorily adjusted that admit of no appeal, even to the
 most confidential friend. To dissipate groundless alarm, and  
 point to the means of securing a happy old age, is no trifling re-  
 commendation of an effort directly ten ting to the social and moral  
-welfare of all classss of the community
+welfare of all classss of the community.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-08-26_16_791%2Fsim_spectator-uk_1843-08-26_16_791_jp2.zip%2Fsim_spectator-uk_1843-08-26_16_791_jp2%2Fsim_spectator-uk_1843-08-26_16_791_0022.jp2/pct:60.993151,49.250000,25.890411,8.083333/600,/0/default.jpg"/>
 </td>
@@ -2732,11 +2469,11 @@ welfare of all classss of the community
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* We consider this bo. k really ought, as a matter of safety, to  
+We consider this bo. k really ought, as a matter of safety, to  
 be placed in the bands of every youth whose appearance indicates  
 any t néency to nervous debility, or premature decay. r. La’-  
 Mert, who is « regularly educated member of the medical protes-  
-sion, has treated the subject in a
+sion, has treated the subject in a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-09-02_16_792%2Fsim_spectator-uk_1843-09-02_16_792_jp2.zip%2Fsim_spectator-uk_1843-09-02_16_792_jp2%2Fsim_spectator-uk_1843-09-02_16_792_0022.jp2/pct:33.287671,52.181208,25.821918,2.411913/600,/0/default.jpg"/>
 </td>
@@ -2750,7 +2487,7 @@ sion, has treated the subject in a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Bedford street, Bedford square, London ;  
+Bedford street, Bedford square, London ;  
 Matriculated Member of the University of Fdinburgh; Ho-  
 norary Member of the London Hospital Medical Society ;  
 Licentiate of Apothecaries’ Hall, London, &amp;c.  
@@ -2758,7 +2495,7 @@ Licentiate of Apothecaries’ Hall, London, &amp;c.
 Published by the Author; and sold in London by S. Gilbert,  
 51 and 52 Paternoster row; Field, 65 Quadrant ; Gordon, 146  
 Leadenhall street; Noble, 109 Chancery lane; and by all  
-Booksellers.
+Booksellers. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1843-09-09_1_2%2Fsim_economist_1843-09-09_1_2_jp2.zip%2Fsim_economist_1843-09-09_1_2_jp2%2Fsim_economist_1843-09-09_1_2_0015.jp2/pct:67.401669,31.458797,25.446961,4.194506/600,/0/default.jpg"/>
 </td>
@@ -2782,12 +2519,11 @@ Booksellers.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 “We consider this bo k really ought, as a matter of safety, to be plaeed  
 ia the bands of every youth whose appearance fndlcatos any tendsmy tn  
 nervous debility, or prematore decay. Mr La Mert, who is a rtgunriy  
-educated memte of^tbe medical profession, hat truted the sobject in a
+educated memte of^tbe medical profession, hat truted the sobject in a  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1843-09-16_1859%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1843-09-16_1859_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1843-09-16_1859_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1843-09-16_1859_0014.jp2/pct:58.181818,87.933298,27.541322,2.035189/600,/0/default.jpg"/>
 </td>
@@ -2801,7 +2537,7 @@ educated memte of^tbe medical profession, hat truted the sobject in a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-owness  
+wness  
 of Spirits, aud Iusanity; with Plain Directions for their  
 Treatment and Cure. By Samuen La’Merr, Surgeon,  
 9, Bedford Street, Bedford Square, London ; Matriculated  
@@ -2814,7 +2550,7 @@ tality would be awarded equally to all. To such among others
 this e-say addresses itself; and by its perusal many questions may  
 be satisfactorily adjusted that admit of no appeal, even to the  
 most confidential friend. To dissipate groundless alarm, and  
-poiut
+poiut 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spectator-uk_1843-09-16_16_794%2Fsim_spectator-uk_1843-09-16_16_794_jp2.zip%2Fsim_spectator-uk_1843-09-16_16_794_jp2%2Fsim_spectator-uk_1843-09-16_16_794_0023.jp2/pct:66.287625,68.539787,25.250836,6.911403/600,/0/default.jpg"/>
 </td>
@@ -2827,26 +2563,6 @@ poiut
 #### From _Manchester Times_
 
 #### 1843-09-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-09-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## STOCKPORT.
-
-#### From _Manchester Times_
-
-#### 1843-09-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -2896,27 +2612,7 @@ poiut
 
 #### From _Manchester Times_
 
-#### 1843-10-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
 #### 1843-10-28 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-11-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3026,26 +2722,6 @@ poiut
 
 #### From _Manchester Times_
 
-#### 1843-12-09 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-12-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
 #### 1843-12-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
@@ -3067,26 +2743,6 @@ poiut
 #### From _Preston Chronicle_
 
 #### 1843-12-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1843-12-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-01-06 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3178,8 +2834,6 @@ poiut
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 “We consider this book really ought, as a matter of safety, to be  
 placed in the hands of every youth whose appearance indicates any ten-  
 dency to nervous debility, or premature decay. M. La’Mert, who is a  
@@ -3188,7 +2842,7 @@ subject in a very scientific and intelligible manner, and we are certainly
 amazed at the prevalence and consequences of those evils it is in his pro-  
 vince to portray and alleviate.”— Wakefield Journal.  
   
-A
+At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-02-17_1_25%2Fsim_economist_1844-02-17_1_25_jp2.zip%2Fsim_economist_1844-02-17_1_25_jp2%2Fsim_economist_1844-02-17_1_25_0022.jp2/pct:10.130332,83.174137,38.803318,5.565760/600,/0/default.jpg"/>
 </td>
@@ -3222,8 +2876,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 &quot; We consider this bovk really ought, as a matter of safety, to he placed  
 in the hands of every youth whose ap|iearance indicates any tendency to  
 nervous debility, or premature decay. Mr La&#x27;Mert, who is a regularly  
@@ -3232,7 +2884,7 @@ very teientlfir and intelligible manner, and we are certainly amsiedat the
 prevalcAca and the cons^uences of those evils it ss his provlnoe to por¬  
 tray and alleviate &quot;—Wakefield Journal.  
   
-A
+At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1844-02-24_1882_0013.jp2/pct:67.354560,68.211660,25.589623,3.768382/600,/0/default.jpg"/>
 </td>
@@ -3392,16 +3044,6 @@ A
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1844-03-16 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Freeman's Journal_
 
 #### 1844-03-19 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
@@ -3435,16 +3077,6 @@ A
 #### From _Freeman's Journal_
 
 #### 1844-03-21 &middot; [Dublin, Ireland](http://dbpedia.org/resource/Dublin)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-03-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3476,8 +3108,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 “ We consider this book really ought, as a matter of safety, to be placed in the hands of  
 every youth whose appearance indicates any tendency to nervous debility or premature  
 decay. Mr. La’Mert, who is a regularly educated member of the profession, has treated  
@@ -3486,13 +3116,9 @@ prevalence and the consequences of these evils it is his province to portray and
   
 — Wakefield Journal.  
   
-At home for consultation daily, and immediate replies sent to all letters, if accompanied  
-by the consultation-fee of £1 for advice, &amp;c.—No. 9, Bedford Street, Bedford Square,  
-  
-London.  
-
+At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17_jp2.zip%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17_jp2%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17_0024.jp2/pct:10.732984,82.574032,65.401396,9.965831/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17_jp2.zip%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17_jp2%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-04_17_0024.jp2/pct:10.732984,82.574032,65.401396,7.659453/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3503,16 +3129,6 @@ London.
 #### From _The Era_
 
 #### 1844-04-14 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-04-20 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3543,26 +3159,6 @@ London.
 #### From _Manchester Times_
 
 #### 1844-05-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-05-04 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-05-11 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3612,26 +3208,6 @@ London.
 
 #### From _Manchester Times_
 
-#### 1844-05-25 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-06-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
 #### 1844-06-01 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
@@ -3670,29 +3246,9 @@ London.
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1844-06-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _The Era_
 
 #### 1844-06-23 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-06-29 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -3714,8 +3270,6 @@ London.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 ** We consider this book really ought, as a matter of safety, to be placed in the hands of  
 every youth whose appearance indicates any tendency to nervous debility or premature  
 decay. Mr. La’Mert, who is a regularly educated member of the profession, has treated  
@@ -3723,7 +3277,7 @@ the subject in a very scientific and intelligible manner, and we are certainly a
 prevalence and the consequences of these evils it is his province to portray and alleviate.”  
 — Wakefield Journal.  
   
-A
+At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17_jp2.zip%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17_jp2%2Fsim_british-and-foreign-review-or-european-quarterly-journal_1844-07_17_0020.jp2/pct:12.216405,43.594104,65.226876,7.568027/600,/0/default.jpg"/>
 </td>
@@ -3893,16 +3447,6 @@ A
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1844-09-14 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _The Era_
 
 #### 1844-09-15 &middot; [London, England](http://dbpedia.org/resource/London)
@@ -3963,16 +3507,6 @@ A
 
 ## Advertisements & Notices
 
-#### From _Trewman's Exeter Flying Post_
-
-#### 1844-10-03 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1844-10-05 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
@@ -4013,16 +3547,6 @@ A
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1844-10-12 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1844-10-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
@@ -4036,16 +3560,6 @@ A
 #### From _Preston Chronicle_
 
 #### 1844-10-12 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-10-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4057,8 +3571,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 ‘‘ We consider this book really ought, as a matter of  
 safety, to be placed in the hands of every youth whose  
 appearance indicates any tendency to nervous debility,  
@@ -4067,21 +3579,12 @@ educated member of the medical profession, has treated
 the subject in a very scientific and intelligible manner,  
 and we are certainly amazed at the prevalence and con-  
 sequences of those evils it is his province to portray  
-and alleviate.”— Wakefield Journal.
+and alleviate.”— Wakefield Journal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-10-19_1_60%2Fsim_economist_1844-10-19_1_60_jp2.zip%2Fsim_economist_1844-10-19_1_60_jp2%2Fsim_economist_1844-10-19_1_60_0022.jp2/pct:59.695603,74.868717,24.295378,5.607652/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1844-10-20 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -4101,8 +3604,6 @@ and alleviate.”— Wakefield Journal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 “ We consider this book really ought, as a matter of  
 safety, to be placed in the hands of every youth whose  
 appearance indicates any tendency to nervous debility,  
@@ -4111,21 +3612,12 @@ educated member of the medical profession, has treated
 the subject in a very scientific and intelligible manner,  
 and we are certainly amazed at the prevalence and con-  
 sequences of those evils it is his province to portray  
-and alleviate.”— Wakefield Journal.
+and alleviate.”— Wakefield Journal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1844-10-26_1_61%2Fsim_economist_1844-10-26_1_61_jp2.zip%2Fsim_economist_1844-10-26_1_61_jp2%2Fsim_economist_1844-10-26_1_61_0021.jp2/pct:40.586246,76.078067,24.633596,5.836431/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1844-10-27 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -4191,29 +3683,9 @@ and alleviate.”— Wakefield Journal.
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1844-11-03 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Trewman's Exeter Flying Post_
 
 #### 1844-11-07 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1844-11-10 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4251,16 +3723,6 @@ and alleviate.”— Wakefield Journal.
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1844-11-23 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1844-11-23 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
@@ -4291,26 +3753,6 @@ and alleviate.”— Wakefield Journal.
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1844-11-24 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Trewman's Exeter Flying Post_
-
-#### 1844-11-28 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Trewman's Exeter Flying Post_
 
 #### 1844-11-28 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
@@ -4326,36 +3768,6 @@ and alleviate.”— Wakefield Journal.
 #### 1844-11-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1844-11-30 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-11-30_1922/page/n12/mode/1up?view=theater)
-
-#### 1844-11-30 &middot; [London, England](http://dbpedia.org/resource/London)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-it of no appeal even to the most confidential  
-friend.&quot;— .‘Stafford Gatette.  
-  
-•• Long cxperleme in the treatment of arlase of diteases hitherto neg¬  
-lected and mutt imiwriectly understood by the greet bulk of the medical  
-profession, has enabled the writer to prove that there are concealed  
-cauect o
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1844-11-30_1922%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1844-11-30_1922_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1844-11-30_1922_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1844-11-30_1922_0012.jp2/pct:61.548913,58.114496,25.989907,2.862395/600,/0/default.jpg"/>
-</td>
-</tr></table>
 
 ---
 
@@ -4384,26 +3796,6 @@ cauect o
 #### From _Trewman's Exeter Flying Post_
 
 #### 1844-12-12 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Trewman's Exeter Flying Post_
-
-#### 1844-12-12 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1844-12-15 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4441,39 +3833,9 @@ cauect o
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1844-12-29 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Trewman's Exeter Flying Post_
 
 #### 1845-01-02 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Trewman's Exeter Flying Post_
-
-#### 1845-01-02 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-01-05 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4495,8 +3857,6 @@ cauect o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 member of the medical pri  
   
 regularly  
@@ -4510,7 +3870,7 @@ educated fession, has treated
 the subject in a very scientific and intelligible manner,  
 and we are certainly amazed at the prevalence and con-  
 sequences of those evils it is his province to pourtray and  
-alleviate. Wakefield Journ
+alleviate. Wakefield Journa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1845-01-11_3_2%2Fsim_economist_1845-01-11_3_2_jp2.zip%2Fsim_economist_1845-01-11_3_2_jp2%2Fsim_economist_1845-01-11_3_2_0023.jp2/pct:66.725352,74.579371,24.970657,3.584492/600,/0/default.jpg"/>
 </td>
@@ -4523,26 +3883,6 @@ alleviate. Wakefield Journ
 #### From _The Era_
 
 #### 1845-01-12 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-01-12 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1845-01-18 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
 
@@ -4564,7 +3904,7 @@ alleviate. Wakefield Journ
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, Exclaim, ‘In me behold a man!’”  
+Exclaim, ‘In me behold a man!’”  
 Just published, the Seventh Edition, ip gapeel eovelegn, poise 2s. 6d. ; or free by post  
 ir 33. 6d.  
   
@@ -4572,7 +3912,7 @@ to any address, fo:
   
 ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary habits, youthful excess,  
-or infection, and terminating i
+or infection, and terminating in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-01-18_15_491%2Fsim_mining-journal_1845-01-18_15_491_jp2.zip%2Fsim_mining-journal_1845-01-18_15_491_jp2%2Fsim_mining-journal_1845-01-18_15_491_0003.jp2/pct:6.868932,82.204198,27.912621,2.958015/600,/0/default.jpg"/>
 </td>
@@ -4616,8 +3956,6 @@ or infection, and terminating i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 ‘*We consider this book really ought, as a matter of  
 safety, to be placed in the hands of every youth whose  
 appearance indicates any tendency to nervous debility,  
@@ -4626,21 +3964,12 @@ educated member of the medical profession, has treated
 the subject in a very scientific and intelligible manner,  
 and we are certainly amazed at the prevalence and con-  
 sequences of those evils it is his province to pourtray and  
-alleviate.” — Wakefield Journal.
+alleviate.” — Wakefield Journal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1845-01-25_3_4%2Fsim_economist_1845-01-25_3_4_jp2.zip%2Fsim_economist_1845-01-25_3_4_jp2%2Fsim_economist_1845-01-25_3_4_0022.jp2/pct:34.712441,74.268471,25.176056,5.413314/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-01-26 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -4670,7 +3999,7 @@ alleviate.” — Wakefield Journal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of ev  
+of ev  
 appearance indicates any tendency to &#x27; erv  
   
 this as a matter of  
@@ -4689,7 +4018,8 @@ sequences of those evils it is his province to pourtray and
   
   
   
-alleviate.”— Wakefield Journal.
+alleviate.”— Wakefield Journal.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_economist_1845-02-01_3_5%2Fsim_economist_1845-02-01_3_5_jp2.zip%2Fsim_economist_1845-02-01_3_5_jp2%2Fsim_economist_1845-02-01_3_5_0022.jp2/pct:62.323944,73.329702,25.205399,5.301380/600,/0/default.jpg"/>
 </td>
@@ -4703,38 +4033,17 @@ alleviate.”— Wakefield Journal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Just published, the Seventh Edition, in a sealed envelope, price 2s. 6d.; oy free by post  
 A to any address, for 3s. 6d.  
 ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary habits, youthful excess,  
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 lJancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plain  
-directions for their treatment an
+directions for their treatment and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-02-01_15_493%2Fsim_mining-journal_1845-02-01_15_493_jp2.zip%2Fsim_mining-journal_1845-02-01_15_493_jp2%2Fsim_mining-journal_1845-02-01_15_493_0003.jp2/pct:4.002947,73.266539,28.217092,3.355598/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _Morning Chronicle_
-
-#### 1845-02-06 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1845-02-08 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -4772,36 +4081,6 @@ directions for their treatment an
 
 #### From _Manchester Times_
 
-#### 1845-02-15 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Examiner_
-
-#### 1845-02-22 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1845-02-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
 #### 1845-02-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
 
 [This text is not available under an open license.]
@@ -4813,16 +4092,6 @@ directions for their treatment an
 #### From _Preston Chronicle_
 
 #### 1845-02-22 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-02-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4870,29 +4139,9 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1845-03-02 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Trewman's Exeter Flying Post_
 
 #### 1845-03-06 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Examiner_
-
-#### 1845-03-08 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -4924,8 +4173,6 @@ directions for their treatment an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A hero lives, and justly can  
 Exclaim, ‘In me behold a man!’ ”  
 price 2s. 6d.; or free by post  
@@ -4948,21 +4195,11 @@ ELF-PRESERVATION: A Popular Essay on those concealed
 disorders of the generative system, originating in solitary habits, youthful excess,  
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 lancholy, incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with plain  
-directions for their treatment an
+directions for their treatment and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-03-08_15_498%2Fsim_mining-journal_1845-03-08_15_498_jp2.zip%2Fsim_mining-journal_1845-03-08_15_498_jp2%2Fsim_mining-journal_1845-03-08_15_498_0003.jp2/pct:4.268891,72.010178,28.949951,4.437023/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-03-09 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -5038,29 +4275,9 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1845-03-22 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1845-03-22 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-03-23 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5128,9 +4345,9 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _The Era_
+#### From _Trewman's Exeter Flying Post_
 
-#### 1845-03-30 &middot; [London, England](http://dbpedia.org/resource/London)
+#### 1845-04-03 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
 
 [This text is not available under an open license.]
 
@@ -5188,16 +4405,6 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1845-04-13 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Trewman's Exeter Flying Post_
 
 #### 1845-04-17 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
@@ -5238,16 +4445,6 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _Manchester Times_
-
-#### 1845-04-19 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1845-04-19 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
@@ -5278,36 +4475,6 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1845-04-20 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Hull Packet_
-
-#### 1845-04-25 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Manchester Times_
-
-#### 1845-04-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Manchester Times_
 
 #### 1845-04-26 &middot; [Manchester, England](http://dbpedia.org/resource/Manchester)
@@ -5331,16 +4498,6 @@ directions for their treatment an
 #### From _Preston Chronicle_
 
 #### 1845-04-26 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-04-27 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5388,26 +4545,6 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _Hull Packet_
-
-#### 1845-05-09 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-05-11 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _The Era_
 
 #### 1845-05-11 &middot; [London, England](http://dbpedia.org/resource/London)
@@ -5431,16 +4568,6 @@ directions for their treatment an
 #### From _Trewman's Exeter Flying Post_
 
 #### 1845-05-15 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Hull Packet_
-
-#### 1845-05-16 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -5461,16 +4588,6 @@ directions for their treatment an
 #### From _Preston Chronicle_
 
 #### 1845-05-17 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-05-18 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -5548,16 +4665,6 @@ directions for their treatment an
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1845-06-01 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Trewman's Exeter Flying Post_
 
 #### 1845-06-05 &middot; [Exeter, England](http://dbpedia.org/resource/Exeter)
@@ -5582,67 +4689,13 @@ directions for their treatment an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Hannay and Co. n3 Oxford stieet; Srarie, 28 I&#x27;ichborne street, Quadraoi]  
 (Tordon. 146 Leadcnhall street; Noble, 109 Chancery lane: Mansell, 3  
-King street, Southwark: Slat ter, Hi|fh street, tixford : Smith, Ca
+King street, Southwark: Slat ter, Hi|fh street, tixford : Smith, Cam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949_0013.jp2/pct:66.533546,71.021534,26.277955,1.483718/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949/page/n13/mode/1up?view=theater)
-
-#### 1845-06-07 &middot; [London, England](http://dbpedia.org/resource/London)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ugh the  
-4 14 6 follies and frailties of early indiscretions. To such, among others, this  
-essay addressed itself; and by iu perusal many questions may be saUsfac-  
-4 13 6 torily adjusted that admit of no appeal even to the moat couAdentiai  
-friexd.”—Stafford Gaxette.  
-  
-0 10 ” ikOng experience in the treatment of a class of diteaaea hitherto aeg&#x27;  
-  
-lected and most imperfectly understood by the great bulk of the medical  
-16 0 profeuion, has enabled the writer to prove that there are concealed  
-  
-1 12 u caueee of nervous debility in cxisunce, where the mere routine practl-  
-  
-2 18 0 tioner would never dream of Anding them; traceable to certain aahiu,  
-118 0 forming the most secret, yet deadly, and fatal tpriogi of domeello BltfVf  
-  
-3 3 0 and premature mort.ality.”—WaktAeld Journal.  
-  
-Published by the Author; and sold by S. Gilbert, 82 Patarnoster mw;
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-06-07_1949_0013.jp2/pct:63.019169,64.692752,30.071885,6.355042/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-06-08 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-06-08 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -5690,57 +4743,7 @@ Published by the Author; and sold by S. Gilbert, 82 Patarnoster mw;
 
 #### From _The Era_
 
-#### 1845-06-15 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
 #### 1845-06-22 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-06-22 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-06-29 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-07-06 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Hull Packet_
-
-#### 1845-07-11 &middot; [Hull, England](http://dbpedia.org/resource/Kingston_upon_Hull)
 
 [This text is not available under an open license.]
 
@@ -5772,7 +4775,6 @@ Published by the Author; and sold by S. Gilbert, 82 Patarnoster mw;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 LA’MERT ON DEBILITY, NERVOUSNESS, AND ALL DISORDERS ARISING  
 FROM EXC &amp;e.  
   
@@ -5783,7 +4785,7 @@ Jat pealieel, the Seven Disa, t&#x27;s See areee: price 2s. 6d. ;
 to; address, 5  
 ELF-PRESERVATION : A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
-terminating weakness, ner
+terminating weakness, nerv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-07-26_15_518%2Fsim_mining-journal_1845-07-26_15_518_jp2.zip%2Fsim_mining-journal_1845-07-26_15_518_jp2%2Fsim_mining-journal_1845-07-26_15_518_0001.jp2/pct:3.578384,82.029262,28.602726,4.468830/600,/0/default.jpg"/>
 </td>
@@ -5797,12 +4799,11 @@ terminating weakness, ner
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Just published, the Seventh Edition, in a sealed envelope, price 2s. 6d.; or free by post  
 to any address, for 3s. 6d.  
 ELF- PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
-es a oad terminating in local ete constitutional bap
+es a oad terminating in local ete constitutional bape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-08-02_15_519%2Fsim_mining-journal_1845-08-02_15_519_jp2.zip%2Fsim_mining-journal_1845-08-02_15_519_jp2%2Fsim_mining-journal_1845-08-02_15_519_0008.jp2/pct:5.990338,75.938295,28.115942,3.244275/600,/0/default.jpg"/>
 </td>
@@ -5820,44 +4821,13 @@ es a oad terminating in local ete constitutional bap
 
 ---
 
-## [From _Examiner, a Weekly Paper on Politics, Literature, Music, and the Fine Arts 1808-1881_](https://archive.org/details/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-09_1958/page/n13/mode/1up?view=theater)
+## Advertisements & Notices
 
-#### 1845-08-09 &middot; [London, England](http://dbpedia.org/resource/London)
+#### From _Morning Chronicle_
 
-<table style="width: 100%;"><tr><td style="width: 50%">
+#### 1845-08-06 &middot; [London, England](http://dbpedia.org/resource/London)
 
-y of  
-Edinburgh ; Licentiate of Apochecarics’ Hall, London, Ac.  
-  
-&quot;The vaiious poslthms of lover, husband, and parent, the Inherenk  
-Mivllagas of mankind, are frequently marred and pm-ented though tha  
-follies and frailties of early indiscretions. To such, among others, this  
-assay addressed itself; aad by itt perusal many quastioas may be cattstac-  
-Aorily adjuttad that admit of no appeal evan to the most coofldeotial  
-firiand.”—Stafford Gasetta.  
-  
-*• Long experience in the treatment of a claaa of diacasee hitherto neg-  
-lacted and moet Imperfectlr undarstood by the mat bulk of ih* medical  
-peofeeeion, has enabled the writer to prove that chert are cosscaalcd  
-cauaas of nwvous debility in existence, where th* mere routine pra^-  
-doner arould never dream of finding them; tracaablc to certain babita.  
-forming the most aacret, yat deadly. and fatal springt of domsatio miaary  
-and prematura mortality.**—Wakrflcld Journal.  
-  
-Published b|r and told by S. GUbert, » Patamostar rowi  
-  
-Haanay and Co. &lt;3 Oxf&lt;wd strset; Siaric.U IVlibama street. Uuadrant:  
-Oordoo. 140 Leadenhall street; Noble, 109 Cbancsry lane; MantcU, i  
-King etnat, tsauUiwark: SUttar, Hi^ etreac, Oxford: tolth. Cam-  
-brkiga; Courlar Office, Manchceter; Newton, Id t.’hurch street, Urer-  
-pool; Watts. SDowhUI. Blrmliwbam; Oavay, Broad street. Bristol.  
-P^ 9) Dam* etrsec, DubUn; Love and PauMi, Gla«ow ( aad by all  
-  
-oonsttltadon dailr, from Nina dll Tiro, and fVom Fiva
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-09_1958%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-09_1958_jp2.zip%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-09_1958_jp2%2Fsim_examiner-a-weekly-paper-on-politics-literature-music_1845-08-09_1958_0013.jp2/pct:9.473892,78.886555,26.344937,11.580882/600,/0/default.jpg"/>
-</td>
-</tr></table>
+[This text is not available under an open license.]
 
 ---
 
@@ -5867,8 +4837,6 @@ oonsttltadon dailr, from Nina dll Tiro, and fVom Fiva
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Just published, the Seventh Edition, in a sealed envelope, price 2s. 64.; or free by post  
 to any address, for 3s. 6d. :  
   
@@ -5876,21 +4844,11 @@ ELF-PRESERVATION: A Popular Essay on those concealed
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plain  
-directions for their treatment an
+directions for their treatment and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-08-09_15_520%2Fsim_mining-journal_1845-08-09_15_520_jp2.zip%2Fsim_mining-journal_1845-08-09_15_520_jp2%2Fsim_mining-journal_1845-08-09_15_520_0008.jp2/pct:7.163462,72.121501,28.197115,3.371501/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-08-10 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -5910,14 +4868,13 @@ directions for their treatment an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Just published, the Seventh Edition, in a sealed envelope, price 2s. 6d. ; or free by post  
 to any address, for 3s. 6d.  
 ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plain  
-directions for their treatment an
+directions for their treatment and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-08-16_15_521%2Fsim_mining-journal_1845-08-16_15_521_jp2.zip%2Fsim_mining-journal_1845-08-16_15_521_jp2%2Fsim_mining-journal_1845-08-16_15_521_0008.jp2/pct:5.930569,71.485369,28.134041,3.387405/600,/0/default.jpg"/>
 </td>
@@ -5935,30 +4892,19 @@ directions for their treatment an
 
 ---
 
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-08-24 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-08-30_15_523/page/n8/mode/1up?view=theater)
 
 #### 1845-08-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 Just published, the Seventh Edition, in a sealed envelope, price 2s. 6d. ; or free by post  
 to any address, for 3s. 6d.  
 ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 or infection, and terminating in local and Pesca wregmad = Prager me  
 Jancholy, inca , gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,  
-directions for thely iveatmnent und cur
+directions for thely iveatmnent und cure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-08-30_15_523%2Fsim_mining-journal_1845-08-30_15_523_jp2.zip%2Fsim_mining-journal_1845-08-30_15_523_jp2%2Fsim_mining-journal_1845-08-30_15_523_0008.jp2/pct:5.255545,75.031807,28.037608,3.594148/600,/0/default.jpg"/>
 </td>
@@ -5982,7 +4928,7 @@ directions for thely iveatmnent und cur
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. price 2s. 6d. ; or free by post  
+price 2s. 6d. ; or free by post  
   
 to any address, for 3s. 6d.  
 wi ELF-PRESERVATION: A Popular Essay on those concealed  
@@ -5990,7 +4936,8 @@ disorders of the generative system, originating in solitary hahits, youthful exc
 or in and terminating in local and constitutional weakness, nervous debility, me-  
 lancholy, incapacity, gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plain  
 directions for their treatment and cure. Illustrated with cases. SAMUEL LA T,  
-consulting surgeon, 9, Bedford-street, ry Member of the
+consulting surgeon, 9, Bedford-street, ry Member of the  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-09-06_15_524%2Fsim_mining-journal_1845-09-06_15_524_jp2.zip%2Fsim_mining-journal_1845-09-06_15_524_jp2%2Fsim_mining-journal_1845-09-06_15_524_0012.jp2/pct:4.903846,73.950382,27.716346,3.896310/600,/0/default.jpg"/>
 </td>
@@ -6024,7 +4971,6 @@ consulting surgeon, 9, Bedford-street, ry Member of the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Just published, the Seventh Edition, in a sealed envelope, price 2s. 6d.; or free by post  
 to any address, for 3s. 6d.  
   
@@ -6032,7 +4978,7 @@ ELF-PRESERVATION: A Popilar Essay on those concealed
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 &#x27; pore Loar mrp gonorrhea, syphilis, indigestion, insanity, consumption, &amp;c.,with plain  
-d
+di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-09-13_15_525%2Fsim_mining-journal_1845-09-13_15_525_jp2.zip%2Fsim_mining-journal_1845-09-13_15_525_jp2%2Fsim_mining-journal_1845-09-13_15_525_0010.jp2/pct:6.243902,70.356234,28.463415,3.530534/600,/0/default.jpg"/>
 </td>
@@ -6042,29 +4988,9 @@ d
 
 ## Advertisements & Notices
 
-#### From _The Era_
-
-#### 1845-09-14 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
 #### From _Preston Chronicle_
 
 #### 1845-09-20 &middot; [Preston, England](http://dbpedia.org/resource/Preston%2C_Lancashire)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-09-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6090,29 +5016,19 @@ d
 
 ---
 
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-10-05 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _Mining Journal 1835-2012_](https://archive.org/details/sim_mining-journal_1845-10-11_15_529/page/n8/mode/1up?view=theater)
 
 #### 1845-10-11 &middot; [London, England](http://dbpedia.org/resource/London)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Seventh Edition, in a sealed envelope, price 2s. 6d. ; or free by post  
+Seventh Edition, in a sealed envelope, price 2s. 6d. ; or free by post  
 to OW. AE or 3s. 6d.  
 ELF-PRESERVATION: A Popular Essay on those concealed  
 disorders of the generative system, originating in solitary hahits, youthful excess,  
 or infection, and terminating in local and constitutional weakness, nervous debility, me-  
 , incapacity, syphilis, indigestion, insanity, consumption, &amp;.,with plain  
-directions for their treatment an
+directions for their treatment and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1845-10-11_15_529%2Fsim_mining-journal_1845-10-11_15_529_jp2.zip%2Fsim_mining-journal_1845-10-11_15_529_jp2%2Fsim_mining-journal_1845-10-11_15_529_0008.jp2/pct:6.090998,70.069975,28.180039,3.419211/600,/0/default.jpg"/>
 </td>
@@ -6154,26 +5070,6 @@ directions for their treatment an
 
 #### From _The Era_
 
-#### 1845-11-02 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-11-09 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
 #### 1845-11-09 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
@@ -6204,26 +5100,6 @@ directions for their treatment an
 
 #### From _The Era_
 
-#### 1845-11-23 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _Morning Chronicle_
-
-#### 1845-11-28 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
 #### 1845-11-30 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
@@ -6235,46 +5111,6 @@ directions for their treatment an
 #### From _The Era_
 
 #### 1845-12-07 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-12-07 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-12-07 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-12-14 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1845-12-21 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
 
@@ -6314,26 +5150,6 @@ directions for their treatment an
 
 #### From _The Era_
 
-#### 1845-12-28 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1846-01-04 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
 #### 1846-01-04 &middot; [London, England](http://dbpedia.org/resource/London)
 
 [This text is not available under an open license.]
@@ -6346,28 +5162,18 @@ directions for their treatment an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Seventh Edition, in a sealed envelope, price 2s. 6d. ; or free by post »  
+Seventh Edition, in a sealed envelope, price 2s. 6d. ; or free by post »  
 to OW AP or 3s. 6d. :  
 ELF-PRESERVATION: A Popular Essay on those concealed .  
 disorders of the generativesystem, originating in solitary hahits, eXCeSS,  
   
   
   
-or infection, and terminating in local and constitutional weakness, nervous ,m
+or infection, and terminating in local and constitutional weakness, nervous ,me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1846-01-10_16_542%2Fsim_mining-journal_1846-01-10_16_542_jp2.zip%2Fsim_mining-journal_1846-01-10_16_542_jp2%2Fsim_mining-journal_1846-01-10_16_542_0011.jp2/pct:65.063477,72.462406,29.614258,2.521930/600,/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## Advertisements & Notices
-
-#### From _The Era_
-
-#### 1846-01-11 &middot; [London, England](http://dbpedia.org/resource/London)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -6387,11 +5193,12 @@ or infection, and terminating in local and constitutional weakness, nervous ,m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Seventh Edition, in a sealed envelope, price 2s. 6d. ; or free by post  
+Seventh Edition, in a sealed envelope, price 2s. 6d. ; or free by post  
   
 to ON A Bi or 3s. 6d.  
 ELF-PRESERVATION: A Popular Essay on those concealed  
-disorders of the generative system, originating in sol hahits,
+disorders of the generative system, originating in sol hahits,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_mining-journal_1846-01-24_16_544%2Fsim_mining-journal_1846-01-24_16_544_jp2.zip%2Fsim_mining-journal_1846-01-24_16_544_jp2%2Fsim_mining-journal_1846-01-24_16_544_0007.jp2/pct:67.425743,68.452381,27.722772,2.036341/600,/0/default.jpg"/>
 </td>

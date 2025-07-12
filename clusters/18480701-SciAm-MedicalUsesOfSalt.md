@@ -1,7 +1,7 @@
 
 # Medical Uses of Salt
 
-### 248 reprints from 1848-05-16 to 1897-07-15
+### 243 reprints from 1848-05-16 to 1897-07-15
 
 ## [Medical Uses of Salt](http://collections.library.cornell.edu/moa_new/index.html)
 
@@ -11,7 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-**Medical Uses of Salt**  
+Medical Uses of Salt**  
   
 In many cases of disordered stomach, a teaspoonful of salt taken three times a day is a certain cure. In the violent internal aching, termed cholic, add a tablespoonful of salt a pint of cold water, drink it and go to bed; it is one of the speediest remedies known.—The same will revive a person who seems almost dead from a heavy fall, &amp;c. In an apoplectic fit not time should be lost in pouring salt and water down the throat, if sufficient sensibility remain to allow swallowing; if not, the head must be sponged with cold water until the senses return, when salt and water will completely restore the patient from the lethargy. In the fit the feet should be placed in warm water, with mustard added, and the legs briskly rubbed, all bandages removed from the neck, &amp;c. and a cool apartment procured if possible. In many cases of severe bleeding at the lungs, when other remedies fail, Dr. Rush found two teaspoonfuls of salt completely stayed the flow of blood.—In cases of bite from a mad dog, wash the part with strong brine for an hour, then bind on some salt with a rag. In toothache, warm salt and water held to the part and renewed two or three times will relieve in most cases. If the gums be affected, wash the mouth with brine; if the teeth be covered with tartar, wash them twice a day with salt and water.—In swelled neck wash the part with brine, and drink it also, twice a day until cured.—Salt will expel worms if used in the food in moderate degree, and aids digestion, but salt meet is injurious if much used.   
   
@@ -30,14 +30,12 @@ It is reasonable to suppose that what is most plentiful on earth, is most essent
 
 ---
 
-## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/mode/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-07-01_3_41/page/n2/mode/1up?view=theater)
 
 #### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 certain cure. In the violent internal aching,  
 termed cholic, add a tablespoonful of salt to  
 a pint of cold water, drink it and go to bed ;  
@@ -79,7 +77,7 @@ the order of nature, placing the greatest va-
 lue on those things that are difficult to obtain  
 We burrow in the earth to obtain gold from  
   
-along with 
+along with t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_scientific-american_1848-07-01_3_41%2Fsim_scientific-american_1848-07-01_3_41_jp2.zip%2Fsim_scientific-american_1848-07-01_3_41_jp2%2Fsim_scientific-american_1848-07-01_3_41_0002.jp2/pct:31.306991,10.673207,26.114488,31.630582/,600/0/default.jpg"/>
 </td>
@@ -93,20 +91,6 @@ along with
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, bequeathes :o Harvard  
-University, for the purposes of the Observatory, the  
-munificent sum of $1(X),000. Mr. Phillips left  
-property, to tbe value of $900,000.  
-TiTf .ES and U mbrellas .—They are as fond of.  
-titles in the East as we are in the &quot; Great West.&quot;  
-Among his other high-sounding titles, the King of  
-Ava has that of &quot; Lord of Twenty-four i &#x27;mbrellas.&quot;  
-This looks as if .V had prepared himse&#x27;f for a long  
-reign.  
-A S courge .—Much of the country tri the north­  
-ward of tbe Island of Montreal, Canada, about St.  
-Eusiache, has been completely de\ p.st;tted by^tiu­  
-caterpillars and grass-hoppers.  
 M edical U ses of S alt .— In many cases of  
 disordered stomaeh, a &#x27; teaspoonfull of salt taken  
 three times a day is a certain cure. In the violent  
@@ -138,9 +122,9 @@ fully, and a vegetable diet ; if&#x27; he gums be affected,
 wash the month with brine; if &#x27;he teeth be covered  
 with tartar, wash them twice a day with salt and  
 water. In swelled riert, wash the j  
-and drink i
+and drink it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848071201:0040/pct:65.134529,66.284648,14.517937,22.041578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848071201:0040/pct:65.134529,74.053838,14.461883,14.272388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,8 +146,6 @@ and drink i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 adilrd, and the legs briskly nibuea, uanua- WAR DREgS  
   
 i gei removed from iho neck, &amp;c and a cool a- j af,Vm Archipeligo.-  
@@ -196,7 +178,8 @@ MAIN STREET, SALISBURY.
 wtcr held to the part and renewed two or three  
 times will relieve in most cases. If ihc guma  
 brj aflected, wash the mouth with brine ; if the  
-teth be covered wih tartar,; wash them twice
+teth be covered wih tartar,; wash them twice  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal7_ver01%2Fdata%2F1848072001%2F0532.jp2/pct:22.104247,7.435125,63.237728,12.333560/!600,600/0/default.jpg"/>
 </td>
@@ -210,57 +193,13 @@ teth be covered wih tartar,; wash them twice
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; nature, placing the greatest value on mose  
+nature, placing the greatest value on mose  
 i thlnjrs that are difficult to obtain. We burrow  
   
 in; the earth to obtain gold from its bosom and  
-consider i
+consider it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal7_ver01%2Fdata%2F1848072001%2F0532.jp2/pct:22.393822,24.647682,15.788748,2.429779/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Boston Cultivator (1839-1850)_](https://archive.org/details/sim_american-cultivator_1848-07-22_10_30/page/n3/mode/1up?view=theater)
-
-#### 1848-07-22 &middot; [Boston](http://dbpedia.org/resource/Boston)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-  
-TitLes any Umprev_vias.—They are as fond of  
-titles in the East as we are inthe great West.—  
-Among his other high sounding titles, the King of  
-Avahnas that of “ Lord of Twenty-four umbreilas.”  
-This looks as though he had prepared himself for a  
-long REIGN,  
-  
-A Feminine Joke.— Husband, I hope yo
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1848-07-22_10_30%2Fsim_american-cultivator_1848-07-22_10_30_jp2.zip%2Fsim_american-cultivator_1848-07-22_10_30_jp2%2Fsim_american-cultivator_1848-07-22_10_30_0003.jp2/pct:78.423041,49.877311,14.612842,3.975135/600,/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Columbia spy. and literary register._](https://panewsarchive.psu.edu/lccn/sn89077554/1848-07-29/ed-1/seq-1/)
-
-#### 1848-07-29 &middot; [Columbia, Pa.](http://dbpedia.org/resource/Columbia%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-They arc as fond of titles In the East, as we are  
-in the great West. Among his other high sound.  
-ing titles, the King of Ave has that of &quot; Lord of  
-Twenty-four umbrellas:* This looks as if he had  
-prepared himself for a lung reign  
-  
-=
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn89077554%2F000001870%2F1848072901%2F0043.jp2/pct:64.061467,69.498325,14.314827,3.063834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,20 +211,7 @@ prepared himself for a lung reign
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-utta  
-percha remains a perfect, flexible, second skin,  
-over the injured part, preserving it for weeks if  
-necessary, without the need of dressing, bandag­  
-es, or any other appliance, till there is no more  
-occasion for this admirable agent. When we  
-call to mind how much human pain will thus be  
-alleviated, how many cures effected where hith­  
-erto there have been danger and uncertainty, and  
-how a number of surgical operations will be sim­  
-plified, it may not be considered too much to rank  
-such inventions among the most valuable that  
-could be discovered and applied for the benefit of  
-mankind. - • ,  
+,  
   
 MEDICAL USES OF SALT.  
 In many cases of disordered stomach, a tea­  
@@ -323,9 +249,9 @@ salt and water. In swelled neck, wash the part
 with brine, and drink also, until cured. Salt  
 will expel worms, if used in the food in a mode­  
 erate degree, and aids digestion, but salt meal is  
-injurious if much used
+injurious if much used.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1848091501:0063/pct:35.872501,50.271370,14.550693,28.724559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1848091501:0063/pct:35.872501,57.408412,14.514677,21.587517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +263,6 @@ injurious if much used
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Medical use of gait.  
 In many cases of disordered stomach, ateaspoon--Tul  
 of salt taken three times a day is a certain euro,  
@@ -376,7 +301,7 @@ Salt will expel worms, if used in the food in a
 moderate degree, and aids digestion, but &quot;alt meat  
 .r u  
   
-STRO
+STROU
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1850022101:0547/pct:6.370773,12.137531,33.152174,84.403480/!600,600/0/default.jpg"/>
 </td>
@@ -390,7 +315,7 @@ STRO
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-partment.  
+artment.  
   
   
   
@@ -447,7 +372,7 @@ After they are taken out of the lime pit, they are
 shaved and well washed, and then stretched on a  
 frame made of upright and cross pieces strongly fas-  
 tened together, and the bars are perforated with a  
-series of holes to receive hard wood or iro
+series of holes to receive hard wood or iron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-a-monthly-journal_1850-03-02_2_5%2Fsim_new-england-farmer-a-monthly-journal_1850-03-02_2_5_jp2.zip%2Fsim_new-england-farmer-a-monthly-journal_1850-03-02_2_5_jp2%2Fsim_new-england-farmer-a-monthly-journal_1850-03-02_2_5_0010.jp2/pct:8.785822,16.151545,73.378582,74.277168/,600/0/default.jpg"/>
 </td>
@@ -455,14 +380,12 @@ series of holes to receive hard wood or iro
 
 ---
 
-## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1850-03-16_5_26/page/n1/mode/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1850-03-16_5_26/page/n1/mode/1up?view=theater)
 
 #### 1850-03-16 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
   
   
   
@@ -514,7 +437,7 @@ salt meat is injurious if used much.
 =  
 Keep this In Mind  
   
-Tha
+That
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_scientific-american_1850-03-16_5_26%2Fsim_scientific-american_1850-03-16_5_26_jp2.zip%2Fsim_scientific-american_1850-03-16_5_26_jp2%2Fsim_scientific-american_1850-03-16_5_26_0001.jp2/pct:68.794326,10.890233,19.655522,33.292999/,600/0/default.jpg"/>
 </td>
@@ -528,8 +451,6 @@ Tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Medical Use of Salt.  
   
 In many cases of disordered stomach, a  
@@ -580,7 +501,7 @@ ing was absorbed in the . intricaciew of business.
 A zealous friend of mankind entered the of.  
 fice.  
   
-&quot;I wan
+&quot;I want
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001827%2F1850032701%2F0045.jp2/pct:80.928854,41.642142,11.857708,26.169806/!600,600/0/default.jpg"/>
 </td>
@@ -594,8 +515,6 @@ fice.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Medical Use of Salt.  
 In many cses of disorded stomach, a tea­  
 spoonfull of salt is a certain cure. In the  
@@ -635,7 +554,7 @@ Salt will expel worms, if used in the food
 in a modernte degree, and rids digestion;  
 but salt meat is injurious if used much.  
 S.. AMer.  
-J To the Nervods an
+J To the Nervods anl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850032801:0035/pct:34.237844,22.966381,12.001457,21.595254/!600,600/0/default.jpg"/>
 </td>
@@ -649,7 +568,6 @@ J To the Nervods an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 vith brine; If the teethWoawa  
 - twtar,Vah them twice j;dayxth;isaltDr.  
   
@@ -660,7 +578,7 @@ j part withlbritte, and drink it also, twice a
 qay. until curea sail wu espeu worms,  
 if used in the food in &#x27;a moderate degree,  
 and aids digestion, but salt meat is injuri­  
-ous if much used
+ous if much used.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_MilMC2n_ver01%2Fdata%2F1850040401%2F0028.jp2/pct:7.648331,7.503624,35.506799,87.791281/!600,600/0/default.jpg"/>
 </td>
@@ -674,7 +592,7 @@ ous if much used
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, 9th inst.  
+9th inst.  
   
 JUedical Use of Salt.  
   
@@ -713,7 +631,7 @@ Salt will expel worms, if used in the food in a
 moderate degree, and aids digestion; but salt meat  
 is injurious if used much. —Scientific American.  
   
-“ THA
+“ THAT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002695%2F1850040901%2F0057.jp2/pct:20.342882,13.758251,16.032986,79.259488/!600,600/0/default.jpg"/>
 </td>
@@ -727,7 +645,7 @@ is injurious if used much. —Scientific American.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s Heaven!  
+Heaven!  
 ITCedical Use of Salt.  
 In many cases of disordered stomach, a tea  
 KDoonful of salt is a certain cure. In the violent  
@@ -764,7 +682,8 @@ In swelled neck, wash the part with brine, and
 drink it also twice a day until cured.  
 Salt will expel worms, if used in the food in a  
 moderate degree, and aids digestion ; but salt meat  
-is injurious if used much. Scientific American.
+is injurious if used much. Scientific American.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1850041101:0576/pct:6.600362,54.880218,17.555756,25.222304/!600,600/0/default.jpg"/>
 </td>
@@ -778,7 +697,6 @@ is injurious if used much. Scientific American.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Medical use of salt.—In many cases of  
 iisordered stomach, a teaspoonful of salt taken  
 hree times a day is a certain cure. In the vio­  
@@ -816,7 +734,7 @@ wice a day with Milt and water, la swelled
 neck, wash the port with brine, end drink it also,  
 twice a day until cured. Salt will expel worms,  
 tf used in the food in a moderate degree, and aide  
-digeation, but salt meat is inj urou* if muchused
+digeation, but salt meat is inj urou* if muchused.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1850041201:0063/pct:35.278130,4.726334,29.769886,92.978406/!600,600/0/default.jpg"/>
 </td>
@@ -830,7 +748,7 @@ digeation, but salt meat is inj urou* if muchused
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 0 math  
+0 math  
 the part with strong brine for an hour, Ann  
 hiPAPlnikoree /*visit a Mho* , .• •• , •_ l3 &#x27;  
 / o _, A 9 0 4 0 0, emai aelloaed.wateeritald&#x27;  
@@ -842,7 +760,8 @@ Ir.agh. theca ;Wale A day with silt ind.ws-
   
 ter. &#x27; ;.; I . : ;4:  
 In swelled neck, wash the part ;With  
-brine, and drink• it ohms siting tt-day dotal
+brine, and drink• it ohms siting tt-day dotal  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002392%2F1850042601%2F0049.jp2/pct:54.851282,28.027682,12.287179,6.268022/!600,600/0/default.jpg"/>
 </td>
@@ -856,7 +775,7 @@ brine, and drink• it ohms siting tt-day dotal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-f their lime in  
+their lime in  
 rainy weather. Is this economy? Yet such men  
 will carry their grain five miles farther to a market  
 where they can get two cents more on a bushel.  
@@ -898,7 +817,7 @@ named disease. When a horse has contracted this
 distemper, lie appears stupid, has a cough, discharg­  
 es at the nose, and in advanced stages of the disease,  
 swellings under the throat and on various other parts  
-of the body. For the relief o
+of the body. For the relief ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850050801:0075/pct:80.741953,64.917073,16.857610,23.151220/!600,600/0/default.jpg"/>
 </td>
@@ -912,7 +831,6 @@ of the body. For the relief o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Medical Use of Salt —In many cases of  
 disordered stomach a tea spoonful of salt is a  
 certain cure In the violent internal aching  
@@ -945,7 +863,7 @@ and drink it also twice a day until cured
 Salt will expel worms if used in the food in  
 a moderate degree and aids digestion but salt  
 meat is injurious if used much —Scientific  
-American
+American 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth874597/m1/4/pct:5.333333,64.092664,14.133333,17.374517/!600,600/0/default.jpg"/>
 </td>
@@ -959,8 +877,6 @@ American
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Medical Use of Salt.—In many C4*rs of diV&gt;r&gt;  
 dered stomach, a tea spoonful of anil i* a certain  
 cure. In the violent internal aching, termed cholic,  
@@ -992,7 +908,7 @@ In swelled neck, wash the part wilk brine, and
 drink it plso twice a day until teured. Salt expels  
 worms, if used in the food in a moderate degree,  
 and aids digestion; bat salt meat is injurious if used  
-much. [Seirati/f
+much. [Seirati/fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016479:00516990727:1850051701:0083/pct:42.792046,75.730664,12.738194,14.193444/!600,600/0/default.jpg"/>
 </td>
@@ -1016,14 +932,12 @@ much. [Seirati/f
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 sensibility remain to allow swallowing; if not  
 the head must be sponged with cold  
 until the sense return, when salt will com­  
 pletely restore the patient from the lethargr-  
   
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850052901:0473/pct:69.890699,75.824338,28.459476,3.164276/!600,600/0/default.jpg"/>
 </td>
@@ -1037,7 +951,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a  a e o an en oe ei o e  
+a  a e o an en oe ei o e  
   
 scribed since last report, will make $3300, the last . De Leland was therefore do. Rush found two teaspoonfuls of salt complett  
   
@@ -1054,7 +968,7 @@ proceedings of the Rowan meeting, mentionhe shipped from New Orleans in a few da
 ed that. Mecklenburg, by two gentlemen There being no matble in the State, the block teeth be covered with tartar, wash them ti  
 here this week, has also spoken; she has has been prepared of a light drab sandtone  e ee  
   
-susried , an e e 
+susried , an e e i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850052901:0473/pct:54.073005,82.404258,44.627758,6.491202/!600,600/0/default.jpg"/>
 </td>
@@ -1068,14 +982,13 @@ susried , an e e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Salt will expel worme, if used in the foet  
   
 in a moderate degree, and aids digestion  
 salt meat is injurious if used much.der  
   
-taße American.
+taße American.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850052901:0473/pct:84.409157,90.196658,14.250361,3.149490/!600,600/0/default.jpg"/>
 </td>
@@ -1089,7 +1002,7 @@ taße American.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. , . &#x27;  
+, . &#x27;  
 Meruit,, use of Salt. In &#x27; tnany &#x27;  
 cases of disordered stomach.a teaspoon  
 ful of salt is a certain cure. In the vio­  
@@ -1138,7 +1051,7 @@ extensively cultivated. The Dutch­
 man&#x27;s sour krout, and the boiled cab­  
 bage of the Yankee, are, it is true, very  
 favorite dishes among certain classes of  
-our population, but they are b
+our population, but they are by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn86074079:00295878502:1850053001:1047/pct:77.830189,24.587750,15.363881,32.597173/!600,600/0/default.jpg"/>
 </td>
@@ -1162,7 +1075,7 @@ our population, but they are b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; -  
+-  
   
 MEDICAL USE OF SALT.—In many carer of disor­  
 dered stomach, a teaspootthill of rah is a certain  
@@ -1199,7 +1112,7 @@ rnmrtiw :b brine : 4f the leech be covered tt nir tar­
 tar:- as-h :Lein ttcwe a 0..1 with tr..th and rt-ater.  
   
 In surefire! 1:er1:&#x27;. wash -the Bari with, bane, ant  
-ake in we, 
+ake in we, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001785%2F1850060101%2F0079.jp2/pct:78.824445,63.297872,14.115415,19.645152/!600,600/0/default.jpg"/>
 </td>
@@ -1213,7 +1126,7 @@ ake in we,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, he will. -  
+he will. -  
   
 DIEDIOAL VSF. OF SALT...  
   
@@ -1250,7 +1163,7 @@ and drink it .Also twice . a day untihtured.
 Salt Will - expet,worrns, if-used in the food  
 in a moderate`, degree, ;and aids digestion : ,  
 but salt meat is injurious if used much.--  
-.[Seientific ArnePcal. 
+.[Seientific ArnePcal. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002339%2F1850060801%2F0089.jp2/pct:82.527734,32.379390,11.382726,15.056507/!600,600/0/default.jpg"/>
 </td>
@@ -1264,15 +1177,13 @@ but salt meat is injurious if used much.--
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 McpicIl Use or Salt. In many cases of  
 disordered stomach, a tea-pooafol of salt is a  
   
 certain core. &#x27; In the violent internal aching, cftil&#x27;af l.-r a. tB3 i rprrtK m rm-wm  
 termed cholic, add a teaspoonful f salt to a lifwWj. Ltj ctet&amp;rcd u tm  
 pint ofj cold water, drink it, and p to bed , it rvi  
-isots .of Uie spetdicst remedies known. Th
+isots .of Uie spetdicst remedies known. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal9n_ver01%2Fdata%2F1850072001%2F0096.jp2/pct:68.497954,40.326804,31.151373,3.435634/!600,600/0/default.jpg"/>
 </td>
@@ -1286,7 +1197,7 @@ isots .of Uie spetdicst remedies known. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, the belief is confidently enter-  
+the belief is confidently enter-  
 tained, that the owners of lime lands, may have, if they properly seek it  
 a panacea in red clover, for many of the ills which sterile fields and ex-  
 hausted soils must otherwise entail upon them.  
@@ -1326,7 +1237,7 @@ Scientific American.
 ROSWELL HOUSE—PATERSON, NEW JERSEY,  
   
 We have again had the pleasure of a sojourn of some days, at Roswell  
-House, New Jersey, and took the opportunity t
+House, New Jersey, and took the opportunity to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spirit-of-the-times_1850-08-03_20_24%2Fsim_spirit-of-the-times_1850-08-03_20_24_jp2.zip%2Fsim_spirit-of-the-times_1850-08-03_20_24_jp2%2Fsim_spirit-of-the-times_1850-08-03_20_24_0009.jp2/pct:9.443681,25.868726,26.854396,18.110521/600,/0/default.jpg"/>
 </td>
@@ -1350,7 +1261,6 @@ House, New Jersey, and took the opportunity t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Medical Use of Salt.  
 In many cases of disordered stomach, a  
 a teaspoonful of salt is a certain cure. In the  
@@ -1387,7 +1297,7 @@ and drink it also twice a day until cured.
 Salt expels worms, if used in the food in a  
 moderate degree, and aids digestion; but  
 salt meat is injurious if used much. Sci­  
-entific American
+entific American.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1850081901:0439/pct:44.282670,41.691374,12.500000,20.768036/!600,600/0/default.jpg"/>
 </td>
@@ -1401,7 +1311,6 @@ entific American
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 (To be continued.)  
   
 itfnmcal rst: of Sai.t?in many cases of disordered  
@@ -1434,7 +1343,7 @@ wash the mouth with brine; if the teeth he cov.
 ered with tartar wash them twice a day with  
 salt water.?[Scicntiiiic American.  
   
-\ negro wa
+\ negro was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850082301:0268/pct:76.785714,68.010977,21.337464,20.820904/!600,600/0/default.jpg"/>
 </td>
@@ -1448,7 +1357,7 @@ salt water.?[Scicntiiiic American.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he words, tvhen con-  
+e words, tvhen con-  
   
 til the sense return, when salt will completely  
   
@@ -1468,7 +1377,7 @@ relieve in mot cases. If the gums be affected
 wash the mouth &quot;witb brine; if the teeib be  
 covered wi&#x27;.b lariar. wb them twice a1 day  
   
-with salt water
+with salt water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1850082901%2F0341.jp2/pct:73.352510,84.481038,22.960251,10.329341/!600,600/0/default.jpg"/>
 </td>
@@ -1482,7 +1391,6 @@ with salt water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Mediral use of Salt.-In may cases of  
 disordered stomach, a tea-spoon full of salt  
 is a certain cure. In the violent internal  
@@ -1517,7 +1425,7 @@ brine; if the teeth be covered with tartar,
 wash them twice a day with salt water.  
 to! Eokiond an onnd Scientisie Ameriean.  
 Three Cent Pieces have been issued  
-from the Mint a
+from the Mint at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1850090401:0347/pct:82.646547,59.973736,14.567615,21.444517/!600,600/0/default.jpg"/>
 </td>
@@ -1531,7 +1439,6 @@ from the Mint a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 MEDiCAL USE OF SALt.  
 In many cases of disordored slomach, a  
 tea spoen full of sall is a certain cure. In the  
@@ -1548,7 +1455,7 @@ In apoplecnig fits no time must be
   
 pout  
   
-Sinall FaP
+Sinall FaPm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850091801:0535/pct:54.072974,68.096029,25.986423,11.580855/!600,600/0/default.jpg"/>
 </td>
@@ -1562,7 +1469,7 @@ Sinall FaP
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the next morning  
+the next morning  
 he was seined with the cholera while in the  
   
 til the sense return, when salt will completely  
@@ -1578,7 +1485,7 @@ In many cases of vovere b&#x27;eeding at the langs, o  a e tecoered tapily, and
 and when other remedics fail, D Rush found i o ee ie and en o  
   
 two tea-rpoons full of salt completely stayed e  o a e sed i  
-te o  
+te o  o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850091801:0535/pct:54.242681,81.352861,30.038184,7.156878/!600,600/0/default.jpg"/>
 </td>
@@ -1592,7 +1499,7 @@ te o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e  
+e  
 storer, Universal Plaster, Gold Mine Balsam,  
 T J HOLTON, Agent  
 Charlotte, N.  
@@ -1604,7 +1511,7 @@ affected wash the mouth with brine; if the
 teeth he covered with tartar wash them twice  
 a day with salt water.-ISeientisie AmericaN.  
   
-upon a table spoonful of fine salt, and 
+upon a table spoonful of fine salt, and a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850091801:0535/pct:54.157828,83.632795,44.696648,9.406613/!600,600/0/default.jpg"/>
 </td>
@@ -1618,7 +1525,7 @@ upon a table spoonful of fine salt, and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Agriculturist. :  
+Agriculturist. :  
   
 I MepicAL Usk oF SaLT,—ln many cases of dis­  
 ordered stomach, a teaspoonful of salt is a certain  
@@ -1650,7 +1557,7 @@ if used in the food in a moderate degree, and aids
 digestion ; but salt meat is injurious if used much.  
 —Scientific American.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1850100101:0157/pct:49.645591,19.375000,27.133541,77.718750/!600,600/0/default.jpg"/>
 </td>
@@ -1664,7 +1571,7 @@ digestion ; but salt meat is injurious if used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-morals.  
+orals.  
 Medical use of Salt.— In many rases  
 of disordered stomach, c teaspnoiiful of salt  
 is a certain cure. In the violent internal j  
@@ -1700,7 +1607,7 @@ and drink it also twice a day until cured.
 Salt expels worms, if used in the food in a  
 moderate degree, anil aids digestion; but  
 salt meat in injurious if used much.— Scien­  
-tific American
+tific American.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1850121801:0200/pct:35.436018,47.197791,14.487730,22.274494/!600,600/0/default.jpg"/>
 </td>
@@ -1714,7 +1621,6 @@ tific American
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Medical use or Salt. In many cases of  
   
 disordered stomach, a teaspootiful of salt is a cer­  
@@ -1741,7 +1647,7 @@ tne salt wm completely restore the patient from
 the lethargy. In case of severe bleeding at the  
 lungs, and when other remedies failed, Dr. Rush  
 foundUiattwoje spoonfuls of salt completely  
-slays J tHsTToou7r
+slays J tHsTToou7r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmChron1n_ver01%2Fdata%2F1851012201%2F1182.jp2/pct:20.428680,86.206441,14.984825,9.912883/!600,600/0/default.jpg"/>
 </td>
@@ -1755,14 +1661,12 @@ slays J tHsTToou7r
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 MEDicAl UsE oF SALT. In many cases of  
 disordered stomachs, a teaspoonful of salt is a  
 certain cure. In the violent internal pain,  
 termed cholic, a teaspoonful of salt, dissolved  
   
-in a pint of cold water, taken as soon as po
+in a pint of cold water, taken as soon as pos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1851012501:0210/pct:46.012592,45.372460,12.119622,2.948646/!600,600/0/default.jpg"/>
 </td>
@@ -1776,7 +1680,6 @@ in a pint of cold water, taken as soon as po
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 dies known. The same will relieve a person  
 who seems almost dead from receiving a  
 heavy fall.  
@@ -1794,7 +1697,7 @@ ed the blood.New York Courier.
   
 Mr. Bancrort, the historian, has estima­  
 ted that at least one-third of the white popu­  
-lation of the United States are d
+lation of the United States are di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1851012501:0210/pct:46.082546,45.499436,24.484085,12.429458/!600,600/0/default.jpg"/>
 </td>
@@ -1808,7 +1711,7 @@ lation of the United States are d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;rs.  
+rs.  
   
 Medical Use of Salt. In many cases of dis­  
 ordered stomach, a teaspoonful of salt is a cer­  
@@ -1836,7 +1739,7 @@ stayed lhe blood. iY. Y. Courier.
 If you would be healthy and happy, observe  
 and keep lhe laws of God, which are the laws  
 of nature. But if you would have pain and  
-suffering and di
+suffering and die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1851013001%2F0435.jp2/pct:63.106020,58.869048,30.274374,13.621032/!600,600/0/default.jpg"/>
 </td>
@@ -1850,7 +1753,7 @@ suffering and di
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+EADING.  
 MEDICAL USE OF SALT.  
 In many cases of disordered stomach, a tea­  
 spoonful of salt is a certain cure. In the vio­  
@@ -1867,9 +1770,9 @@ of swallowing; if not, the head must be spong­
 ed with cold water until the senses return,  
 w hen the salt w ill completely restore the pa­  
 tient from the lethargy. In case of severe  
-bleeding at th
+bleeding at the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851020101:0362/pct:80.737823,12.666113,12.815832,7.890365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851020101:0362/pct:80.737823,12.029347,12.815832,8.527132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,11 +1784,11 @@ bleeding at th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. |  
+|  
 MebpicaL Usk oF SaLt.—ln many cases of dis­  
 ordered stomach, a teaspoonfal of salt is a certain  
 cure. In the violent internal pain, termed colic, a  
-teaspoonfu
+teaspoonful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1851020501:0171/pct:49.562578,75.466090,14.568827,2.945150/!600,600/0/default.jpg"/>
 </td>
@@ -1899,11 +1802,11 @@ teaspoonfu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- restore the patient  
+restore the patient  
 from the lethargy.  
 In case of severe bleeding at the lungs, and when  
 other remedies failed, Dr. Rush found that two tea­  
-spoons full of salt completely stayed the blood.
+spoons full of salt completely stayed the blood. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868284:1851020501:0171/pct:49.562578,82.639827,14.479557,2.391246/!600,600/0/default.jpg"/>
 </td>
@@ -1917,7 +1820,6 @@ spoons full of salt completely stayed the blood.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
   
 Meotoar Use or Sair.~ln many cases of dis­  
 ordered stomach, « tea spoon full of walt is a cer—  
@@ -1935,7 +1837,8 @@ until the sense returne, when the salt will com=
 pletely restore the potient fiom the lethargy In  
 case of severe bleeding ¢t the lurgs and when  
 other remedien failed, Dr Rueli found that tvo tea  
-epoons (Wil of salt completely oteyed the Lloud.
+epoons (Wil of salt completely oteyed the Lloud.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851020501:0355/pct:18.393816,90.778333,12.445958,7.497705/!600,600/0/default.jpg"/>
 </td>
@@ -1949,7 +1852,6 @@ epoons (Wil of salt completely oteyed the Lloud.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 water, if sufficient sensibility remains to  
 allow of swallowing;  
 if not, the head must  
@@ -1960,7 +1862,7 @@ of severe bleeding at the lungs, and when
 other remedies failed, Dr, Kush found that  
 two teaspoonfuls of salt compictely stayed  
 the blood.  
-P
+Pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851020601:0022/pct:79.675833,85.580737,12.657075,5.609065/!600,600/0/default.jpg"/>
 </td>
@@ -1974,7 +1876,19 @@ P
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sensibility, re­  
+efendant.&#x27;  
+, Medical Use 0 Salt. In many cases of dis­  
+ordered stomach a tenspoonful- of salt is a cer­  
+tain cure. In iho violent internal pain, termed  
+colic, a teaspoon ful of salt, dissolved in a pint of  
+cold water, taken as toon as possible with a  
+short nap, immediately after, is one off the most  
+effectual and speed)&#x27; remdies known. Ths  
+i same will relieve a person who seems 1 almost  
+,dea(j fvom receiving a heavy fall.  
+In an apo-  
+pleclic fit, no tima should be losl in pouring  
+j&#x27;iown salt . and water, if sufficient sensibility, re­  
 I mains to allow of swallowing; if not, ths hoad  
 must be sponged with cold water until the sen­  
 ses return, when the salt will completely restore  
@@ -1982,9 +1896,9 @@ the patient from thejetliargy. In case ofsevrre
 bleeding at lhe;Iungs, arid when other remedies  
 failed, Dr. Rush found that, two teaspoonfuls  
 of sail completely stayed the blood.  
-Muc
+Mucn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat22n_ver01%2Fdata%2F1851021501%2F0026.jp2/pct:64.965753,86.196847,15.136986,5.987548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat22n_ver01%2Fdata%2F1851021501%2F0026.jp2/pct:64.897260,78.871374,15.308219,13.313022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1996,7 +1910,7 @@ Muc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ROOFS  
+ROOFS  
   
 MEDICAL USE OF SALT.  
   
@@ -2023,7 +1937,7 @@ IY stayed the blood. .
   
 t WISH.  
   
-I
+I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002340%2F1851022201%2F0029.jp2/pct:82.930898,66.116055,11.278793,19.712300/!600,600/0/default.jpg"/>
 </td>
@@ -2037,7 +1951,6 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Hedical Use of Salt.-In many cases  
 of disardered stomach a tenspoonful of salt  
 is a certain cure. In the vialent internal  
@@ -2059,7 +1972,7 @@ patient from the lethargy. In case of
 severe bleeding at the langs, and when  
 other remedies failed. Dr. Rush found  
 that two teaspoonfuls of salt completely  
-stayed the blood
+stayed the blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851022601:0449/pct:46.855524,34.531250,14.636449,12.578125/!600,600/0/default.jpg"/>
 </td>
@@ -2073,7 +1986,7 @@ stayed the blood
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ctice.  
+tice.  
 Medical use of Salt. In many cases of  
 disordered stomach, a teaspoonful of salt is  
 a certain cure. In the violent internal pain,  
@@ -2117,7 +2030,7 @@ teristic anecdote: .
 iries that stretch along the southern border  
 of Fayette county, upon which the grass and  
 vegetation had grown to the height of four  
-or five feet, then seare
+or five feet, then seared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1851031501:0184/pct:9.877622,42.866637,14.058858,25.719982/!600,600/0/default.jpg"/>
 </td>
@@ -2131,10 +2044,9 @@ or five feet, then seare
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Medical use of Salt. In many cases of dis­  
 ordered stomach, a teaspoouful of salt is a. cer­  
-tain cure. In the violent internal pain terme
+tain cure. In the violent internal pain termed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1851070201%2F0439.jp2/pct:41.867281,55.207184,17.019050,1.937923/!600,600/0/default.jpg"/>
 </td>
@@ -2158,7 +2070,7 @@ tain cure. In the violent internal pain terme
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ernal pafn  
+rnal pafn  
 termed colic a teaspoonful of salt dissolved  
 in a pinl of water taken nssoon as possible  
 with a short nap immediately after is one of  
@@ -2175,7 +2087,7 @@ gy. In caso ofsovcre bleeding at the lungs and
 when other remedies failed Dr. Rush found  
 that two tcaspoonfuls of salt&#x27;completoly stay-  
 ed the blood.  
-U. 
+U. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth80836/m1/1/pct:65.333333,76.459144,14.000000,10.311284/!600,600/0/default.jpg"/>
 </td>
@@ -2199,27 +2111,7 @@ U.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ompetent  
-to reproduce it. Of such materials  
-rliere are enough on most farms, if  
-collected together, to supply annual  
-ly the exhaustion of the mound of  
-the soil, and keep up that eásential  
-element of all fertile soils. Time  
-and labor cannot be more judicious-  
-  
-sv appli  
-  
-OrchArds. If you design sets  
-ouf an orchard this fall, and  
-your allotted ground has not been  
-in row culture, you should manure  
-each acre with twenty double loads  
-of compost formed of wood&#x27;s mould  
-and marsh mud six parts, one part  
-ashes, and four bushels of bone  
-earth; this should remain in heaps  
-some weeks before being applied.  
+pplied.  
 Salt will expel worms, if used in  
 the food in a moderáte degree, and  
 aids digestion; but salt meat is inju-  
@@ -2228,9 +2120,9 @@ used much.
   
 copper.  
 Copper is a well known metal, so  
-called from it
+called from its
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1851100701:0162/pct:8.425656,9.220100,23.381924,83.844930/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1851100701:0162/pct:8.527697,9.220100,23.279883,83.844930/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2262,7 +2154,7 @@ called from it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-* of dinar*  
+of dinar*  
 dered stomach, a teaapoonful of sail ia a certain  
 cure. In the violent internal aching, termed chol­  
 ic, add a teaspoonful of salt to a pint of water,  
@@ -2286,7 +2178,8 @@ In toothache, warm salt and water held to the i
 part, and renewed two or three times will relieve  
 in most cases. If the gums be affected, wash the  
 mouth with brine; if the teeth be covered with  
-j tartar, waah them twice a day with salt water,
+j tartar, waah them twice a day with salt water,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016479:00516990727:1852013001:0439/pct:55.597170,71.082782,13.233458,11.086009/!600,600/0/default.jpg"/>
 </td>
@@ -2300,7 +2193,7 @@ j tartar, waah them twice a day with salt water,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Times.  
+Times.  
 Medical use of Salt. In many cases of dis­  
 ordered stomach, a tea-spoon full of salt is a certain  
 cure. In the violent internal aching, termed chol­  
@@ -2328,7 +2221,7 @@ In toothache, warm salt and water held to the
 part, and renewed two or three times, will relieve  
 in most cases. If .ther gums be affected, wash the  
 mouth with brine ; if the teeth be covered with  
-tartar, wash them twice a day with salt water
+tartar, wash them twice a day with salt water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024518:00296022718:1852021401:0054/pct:37.797801,76.061449,15.226023,15.168743/!600,600/0/default.jpg"/>
 </td>
@@ -2352,7 +2245,7 @@ tartar, wash them twice a day with salt water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d  
+  
 of a&#x27; crawling worm, and dyed with life­  
 blood of an immolated bog.  
   
@@ -2398,6 +2291,7 @@ Salt-will expel worms, if used in food in {t
 moderate degree, and aids digestion ; but salt  
 meat is injurious if used much. —Scientific  
 American. .  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_madisonj_ver01%2Fdata%2Fsn84026595%2F000001700%2F1854080301%2F0013.jp2/pct:78.288241,33.152486,14.136316,23.066973/!600,600/0/default.jpg"/>
@@ -2412,7 +2306,7 @@ American. .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ladled Tille of Salt. &#x27;`  
+ladled Tille of Salt. &#x27;`  
 in many. cases of• a disordered stomach, a  
 teaspoonful of ,salt is a certain !.ure. In the  
 violent internal acting, termed cholic, add a  
@@ -2456,7 +2350,7 @@ Salt will eipel -worms,&#x27; if u in food in&#x27;s­
 buysalt,  
 meat. is injurious if usedd m eltil---Seientife  
 1  
-American. &#x27; 1 
+American. &#x27; 1 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faustitas_ver01%2Fdata%2Fsn86053748%2F000002415%2F1854081701%2F0116.jp2/pct:5.683734,66.564163,13.111298,19.515080/!600,600/0/default.jpg"/>
 </td>
@@ -2470,7 +2364,7 @@ American. &#x27; 1
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-State.  
+tate.  
   
 Medical Use  
   
@@ -2517,7 +2411,7 @@ Salt will expel Worms, if used in foe#
 in a moderate degree, and aids digestion!  
 but salt meal is injurious, if used mu elk  
   
-Scientific America
+Scientific American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1854112301:0201/pct:82.008671,21.545642,12.976879,20.601324/!600,600/0/default.jpg"/>
 </td>
@@ -2531,8 +2425,6 @@ Scientific America
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Medical Use of Salt.—ln many cases  
 of disordered stomach, a teaspoonful of salt  
 is a certain cure. In the violent internal  
@@ -2572,7 +2464,7 @@ cured.
 Salt will expel worms, if used in food in  
 a moderate degree, and aid digestion; but  
 salt meat is injurious if used much.  
-Here is a very beautiful thought of tha
+Here is a very beautiful thought of that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052971:00279557256:1854113001:0024/pct:79.359179,59.081886,14.958400,23.821340/!600,600/0/default.jpg"/>
 </td>
@@ -2586,7 +2478,7 @@ Here is a very beautiful thought of tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-— |  
+|  
 mataael eee, ee the legs briskly 2— band  
 the neck, and a fevers Hen  
   
@@ -2616,7 +2508,7 @@ board the Aretic who tumbled into the boats to the
 exclusion of the women and children, and conducted  
 in a manner characterized by the pulpit and press as  
 “ dastardly and mean ?” Were they Sailors?” These  
-are the facts: Th
+are the facts: The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_watchman-examiner_1854-12-21_35_51%2Fsim_watchman-examiner_1854-12-21_35_51_jp2.zip%2Fsim_watchman-examiner_1854-12-21_35_51_jp2%2Fsim_watchman-examiner_1854-12-21_35_51_0003.jp2/pct:36.613952,7.225849,12.956571,12.813316/,600/0/default.jpg"/>
 </td>
@@ -2630,7 +2522,7 @@ are the facts: Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
 MEDICAL IME or SALT—In many cases of a dis­  
 ordered stomach, a teaspoonful of salt is a certain  
@@ -2666,7 +2558,8 @@ In swelled neck, wash the part with brine, and
 diink it twice a day until cured.  
 Salt will expel worms, if used in lood in a mod.  
 erate degree, and aids digestion ; but salt meat is  
-injurious il used much.
+injurious il used much.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1855010601:0040/pct:62.311248,60.559145,14.745763,20.995767/!600,600/0/default.jpg"/>
 </td>
@@ -2680,7 +2573,6 @@ injurious il used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Medical use of Salt. :  
 &#x27; In many cases of disordered stomach, a tea- j  
 &#x27;spoonful of salt is a certain cure.. In the vio- i  
@@ -2713,7 +2605,8 @@ the part, and renewed two -or three tl:-!es will
 relievo in most cases. &quot; If the gums la tTect- r ; -cd.&#x27;  
 wash the mouth with Iriae : &#x27;if tho t:&quot;.&#x27;.. &#x27; ,r  
   
-be covered with tarter,
+be covered with tarter,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal11n_ver01%2Fdata%2F1855011801%2F0174.jp2/pct:80.459444,76.179871,16.633579,17.191643/!600,600/0/default.jpg"/>
 </td>
@@ -2737,7 +2630,7 @@ be covered with tarter,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it. In many cases of disordered sto-  
+it. In many cases of disordered sto-  
 mach, a teaspoonful of salt is a certain cure. In the  
 violent internal pain, termed colic, a teaspoonful of salt,  
 dissolved in a pint of cold water, taken as soon as pos-  
@@ -2751,7 +2644,8 @@ head must be sponged with cold water until the sense
 returns, when the salt will restore the patient from  
 lethargy. In cases of severe bleeding at the lungs, and  
 when other remedies have failed, it has been found that  
-two teaspoonfuls of salt completely stayed the blood.
+two teaspoonfuls of salt completely stayed the blood.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1855-03_50_3%2Fsim_godeys-magazine_1855-03_50_3_jp2.zip%2Fsim_godeys-magazine_1855-03_50_3_jp2%2Fsim_godeys-magazine_1855-03_50_3_0069.jp2/pct:11.677368,40.469905,36.115570,17.106653/600,/0/default.jpg"/>
 </td>
@@ -2765,7 +2659,7 @@ two teaspoonfuls of salt completely stayed the blood.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mp of clay,  
+p of clay,  
 Lie* Arabella Young,  
 Wfco on «6« twenty-ninth of Mar..  
 Btfan to hold her tonga*.&quot;&#x27;  
@@ -2812,7 +2706,7 @@ and drink it twice a day until cured.
 Salt will expel worms, if used in food at a  
 moderate degree, and aids digestion ; but salt  
 meats is injurious if used mueli.  
-[Scientific American
+[Scientific American.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn86079110:00295872433:1855040701:0381/pct:66.191904,4.432271,28.148426,89.267928/!600,600/0/default.jpg"/>
 </td>
@@ -2826,7 +2720,7 @@ meats is injurious if used mueli.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r image.  
+image.  
   
 SALT. in many cases of disordered stom-i  
 ach, a tea-spoonful of salt is a certain cure. In! k  
@@ -2874,7 +2768,7 @@ sidering, some females in the gallery &quot;disfigured mi
 their pretty lips by hissing. Subsequently one at  
 of them exhibited her indignation by folding up bri  
 a copy of the liquor bill and launching it at cel  
-the head of Mr. Allen, who was foremost i
+the head of Mr. Allen, who was foremost in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn83016483:00212475142:1855041101:0155/pct:54.623724,59.294872,14.253827,25.937797/!600,600/0/default.jpg"/>
 </td>
@@ -2888,7 +2782,7 @@ the head of Mr. Allen, who was foremost i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-p into a generation, I have no words to  
+ into a generation, I have no words to  
 paint.” &#x27;  
 Salt a Medicine.—lt has often been re«  
 marked in families that a teaspoonful of salt is a certain cure  
@@ -2919,7 +2813,8 @@ worms, if used in food at a moderate degree, and aids di­
 gestion; but salt meat is injurious if used much. When  
 placed on the feet, in the form of a dry poultice, salt has  
 been known to break up fever and ague when in its most  
-violent stages.
+violent stages.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855042201:0007/pct:30.580986,37.617319,12.165493,10.424227/!600,600/0/default.jpg"/>
 </td>
@@ -2933,8 +2828,6 @@ violent stages.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Mfdical Use of Salt. - :  
 In many cases of disordered stom­  
 ach, a tea5poonful of salt is a certain  
@@ -2981,7 +2874,7 @@ Salt will expel worms, if used ia
 food at a moderate degree, and aids  
 digestion, but salt meat is injurious  
 if used much. : &#x27;. . .  
-&#x27; Mr, E!i Fisk, of Freebor
+&#x27; Mr, E!i Fisk, of Freeborn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1855042601:0068/pct:81.456368,20.520165,12.794811,32.000458/!600,600/0/default.jpg"/>
 </td>
@@ -2995,7 +2888,6 @@ if used much. : &#x27;. . .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 .MEDIC A I. CSE OF SALT.  
 III. manv ca..;- of disordered stomach, a lea-  
 ..e ..i. : ..;..i.a..&#x27;-  
@@ -3026,7 +2918,7 @@ I si j . i i
 - .u,.u u,v  
 1 a a.. I at 1 . I. - I - I . 1 . I . !  
 In toothacbe, warm salt and water held to the  
-
+P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1855051701%2F0526.jp2/pct:57.134244,16.570070,40.655145,79.387725/!600,600/0/default.jpg"/>
 </td>
@@ -3040,7 +2932,7 @@ In toothacbe, warm salt and water held to the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- I visit I may be shot if I didn&#x27;t tick  
+I visit I may be shot if I didn&#x27;t tick  
 dat you rash a Know Notting.  
   
 SALT AS A MEDICINE.  
@@ -3087,7 +2979,7 @@ and ague when in its most violent stages.
   
 I&#x27;LL CALL AROUND AND PAY.--What a  
 world of woo is contained In these few words  
-to the poo
+to the poor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001831%2F1855100301%2F0302.jp2/pct:25.985624,43.047809,15.514049,32.223108/!600,600/0/default.jpg"/>
 </td>
@@ -3101,7 +2993,6 @@ to the poo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 In the violent internal aching, termed  
 cholte, tnke a tea spoonful of salt and a  
 pint of cold water drink it and go to  
@@ -3151,7 +3042,7 @@ cureu, i i
 Salt will expel worms, if-tsfd i# the  
 food at a moderate degree, and aids di  
 gpstion bu salt meat is injurious if used  
-mucli
+mucli.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1855101801:0365/pct:17.994822,8.584435,13.075374,27.455018/!600,600/0/default.jpg"/>
 </td>
@@ -3165,7 +3056,6 @@ mucli
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Medical Use of Salt.  
 In many cases of disordered stomach, a  
 teaspoonful of salt is a certain cure. In the  
@@ -3218,7 +3108,7 @@ focation. A cold so intense took possession
 of my arms and legs that I could not feel a  
 hot iron applied to them. Just then a Chi­  
 nese Christian came in to see me, and as  
-soon as he looked at me he said, &quot;Fathe
+soon as he looked at me he said, &quot;Father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1855102001:0267/pct:73.366575,46.664930,11.433975,22.824388/!600,600/0/default.jpg"/>
 </td>
@@ -3232,7 +3122,7 @@ soon as he looked at me he said, &quot;Fathe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a  
+a  
 iu Medical use of Salt lsrovee  
 In many cases of a disordered stomach  
 a teaspoonful of salt is a certain cure. In  
@@ -3263,6 +3153,7 @@ brine, and drink it twice a day
 Salt will expel worms if used in food in  
 a moderate degree, and aids digestion, but  
 salt meat is injurious if used much,Scien-  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855102501:0646/pct:43.157895,72.742133,13.074792,22.939654/!600,600/0/default.jpg"/>
@@ -3277,10 +3168,8 @@ salt meat is injurious if used much,Scien-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ‘ I&#x27;ll Call around and Pay.’—What a  
-world of woo is contained
+world of woo is contained 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895679:1855110801:0180/pct:30.694143,87.435791,12.219812,0.999584/!600,600/0/default.jpg"/>
 </td>
@@ -3344,7 +3233,6 @@ meat is injurious.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 MEDICAL USES OF SALT.  
   
 In many cases of a disordered  
@@ -3399,7 +3287,7 @@ asked by his children, 4Hvhat
 made the boat go,&#x27; when he  
 gave them a mir.ute description  
 of the machinery and its prin­  
-ciples, i
+ciples, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065521:00295878174:1856062101:0508/pct:38.481338,4.387082,14.317889,38.546128/!600,600/0/default.jpg"/>
 </td>
@@ -3413,21 +3301,6 @@ ciples, i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-plied in u  
-state sufficiently dilute to admitof a perfect  
-ablution of every part of the foliage but as wo  
-said before care must be taken not to make it  
-too strong, or it will destroy the plant. Every  
-cook knows, or ought to know, thatthe wash-  
-ing of cabbage, lettuce, spinach, &amp;c., in salt  
-water before cooking or preparing for the table,  
-is sure to expel every species of insects which #o  
-frequently seeks a habitation or a shelter in  
-these vegetables. [Western Agriculturist.  
-  
-&#x27; hest pastures.  
-|  
-  
   
   
   
@@ -3475,9 +3348,9 @@ moderate degree, and aids digestion, but salt
 meat is injurious, if used much. [Ex.  
   
 To Preserve Herss. All kinds of herbs  
-should be gathered on a dr
+should be gathered on a dry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1856-07-17_24_30%2Fsim_maine-farmer_1856-07-17_24_30_jp2.zip%2Fsim_maine-farmer_1856-07-17_24_30_jp2%2Fsim_maine-farmer_1856-07-17_24_30_0000.jp2/pct:81.101190,20.088899,12.675866,69.308326/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1856-07-17_24_30%2Fsim_maine-farmer_1856-07-17_24_30_jp2.zip%2Fsim_maine-farmer_1856-07-17_24_30_jp2%2Fsim_maine-farmer_1856-07-17_24_30_0000.jp2/pct:81.520563,67.291847,12.256494,22.105377/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3489,8 +3362,6 @@ should be gathered on a dr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 MITIOACUSE Or. BALT. —ln many cases of  
 disordered stomach, a teaspootentof salt Is a  
 certain&#x27; cure. lathe violent internal...aching,  
@@ -3528,7 +3399,8 @@ until cured.. • , _
   
 Snit will eipell worms, if Used in food in  
 moderate degrus,..and aids digiistion, but  
-Solt meat is injurious, if
+Solt meat is injurious, if  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001832%2F1856073001%2F0194.jp2/pct:26.313198,67.820330,15.517619,25.194259/!600,600/0/default.jpg"/>
 </td>
@@ -3542,7 +3414,7 @@ Solt meat is injurious, if
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. -  
+-  
   
   
   
@@ -3567,7 +3439,7 @@ In a fit, the feet should be placed in warm water.
 with mustard added, and the legs briskly rubbed,  
 all bandages removed from the neck, and a cool  
   
-
+a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-a-monthly-journal_1856-08_8_8%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_jp2.zip%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_jp2%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_0012.jp2/pct:12.653846,11.218274,36.538462,45.025381/,600/0/default.jpg"/>
 </td>
@@ -3581,8 +3453,6 @@ all bandages removed from the neck, and a cool
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 apartment procured, if possible. In many cases of face, it was like a book standing on one of its ends,  
   
 severe bleeding at the lungs, and when other rem-  
@@ -3601,12 +3471,21 @@ tartar, wash them twice a day with salt and water.
   
 In swelled neck, wash the part with brine, and  
 drink it, also, twice a day, until cured.  
-  
-long, high and rakish, causing the beholder to  
-wonder why the first “gust” did not topple it down,  
-until he turns the corner and finds how it is sup-  
-ported by a batch of young houses clustering at its  
-roots. A better taste has been introduced, and its  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-a-monthly-journal_1856-08_8_8%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_jp2.zip%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_jp2%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_0012.jp2/pct:13.000000,55.736041,72.153846,16.319797/600,/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The New England Farmer; a Monthly Journal (1848-1871)_](https://archive.org/details/sim_new-england-farmer-a-monthly-journal_1856-08_8_8/page/n12/mode/1up?view=theater)
+
+#### 1856-08-01 &middot; [Boston](http://dbpedia.org/resource/Boston)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+been introduced, and its  
 influence is perceptible in every part of the city.  
 With this improvement has sprung up another, not  
 less important than the first,—and that is in the  
@@ -3615,9 +3494,9 @@ bery and flowers. The finest among the gardens I
 have visited is that of Major FRENCH, a few rods  
   
 Salt will expel worms, if used in food in a mod- east of the capitol, on soil that I once knew as un-  
-erate degree, and aids digestion, but salt meat is kindl
+erate degree, and aids digestion, but salt meat is kindly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-a-monthly-journal_1856-08_8_8%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_jp2.zip%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_jp2%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_0012.jp2/pct:13.000000,55.736041,72.461538,18.934010/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-a-monthly-journal_1856-08_8_8%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_jp2.zip%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_jp2%2Fsim_new-england-farmer-a-monthly-journal_1856-08_8_8_0012.jp2/pct:13.346154,62.512690,72.115385,12.157360/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3639,7 +3518,6 @@ erate degree, and aids digestion, but salt meat is kindl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Medical Use op Salt. In many cases of  
 disordered stomach, a tenspoonl&#x27;iil or salt is  
 a cetain cure. In the violent internal aching,  
@@ -3678,7 +3556,7 @@ moderate degree, and aids digestion, but suit
 meat is injurious, if used much. Ex.  
 A very flue young mare, belonging to Dr.  
 James s. Dougul, or this place, iu coming up  
-on the other side of th
+on the other side of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1856080901:0266/pct:4.535479,71.579827,12.710315,19.406520/!600,600/0/default.jpg"/>
 </td>
@@ -3692,8 +3570,6 @@ on the other side of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 3IEDIC.4L I&#x27;SE OF 8.4LT.  
   
 In many cases of disordered stomach, a teaspoonfol of salt is a  
@@ -3716,7 +3592,7 @@ bind on some salt with a rag. In toothache, warm salt and water
 held to the part, and renew^ two or three times, will relieve it in  
 most cases. If the gnms are affected, wash the month with brine.  
 If the teeth be covered with tartar, wash them twice a day with  
-salt and water 
+salt and water .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6%2Fsim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6_jp2.zip%2Fsim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6_jp2%2Fsim_ballous-pictorial-drawing-room-companion_1856-08-09_11_6_0006.jp2/pct:34.762371,64.472801,27.609015,14.674278/600,/0/default.jpg"/>
 </td>
@@ -3730,7 +3606,7 @@ salt and water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- j  
+j  
 IVZeJicai Use o 1 Salt.  
 In many cases of disordered stomach, a j  
 | teaspouiiful of salt is a certain cure. In the ;  
@@ -3771,7 +3647,7 @@ Salt will expel worms, if used in food in
 a moderate degree, and aids digestion, but  
   
 salt meat is injurious, if used much.?Kx.  
-The London Advertise
+The London Advertiser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1856081501:0403/pct:35.469725,51.922587,17.844493,24.662592/!600,600/0/default.jpg"/>
 </td>
@@ -3785,7 +3661,7 @@ The London Advertise
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 Medical use of Salt.  
 I many cases of disordered stom­  
 ach, a teaspoonful of salt is a certain  
@@ -3832,7 +3708,8 @@ a day, until cured.
 Sult will expel worms, if used in  
 food in a moderate degree, and aids  
 digestion, but salt meat is injurious,  
-if used much.
+if used much.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856081501:0134/pct:16.920409,15.342828,11.004047,25.943327/!600,600/0/default.jpg"/>
 </td>
@@ -3846,40 +3723,6 @@ if used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ly required as it  
- e e e te  
-this not probably the case in  
-ave shown that near.  
-o inorganic matter con­  
-cane itself is phosphate of  
-a fourth silica.a The  
-of this fact must assuredly  
-every mind the probable cause  
-In the continued culture of  
-upon the same lands, as of every.  
-svstem of rotation.  
-of manure, is essen.  
-has been intims  
- kinds specially indicated.  
-the phosphates  
- ertent are contained in  
-alluvial soils of the Missis-  
-y nature, and its  
-caed  
-  
-a consideral  
-  
-  
-  
-  e ee  
-  
-  
-e w   
-e  
-  
-MeDICAL USE oF SAET. In many ca-  
-ses of disordered stomach, a tonsnoenfiil  
-ses of disordered stomach, a teaspoonfel  
 internal aching, termed cholic, add a tea­  
 spoonful of salt to a pint of cold-water;  
 drink it and go to bed; it is one of the  
@@ -3914,9 +3757,10 @@ swelled neck, wash the part with brine,
 and drink it, also, twice a day until cured.  
 Salt will expel worms, if used in food in a  
 moderate degree, and aids digestion, but  
-salt meat is injurious, if used much.
+salt meat is injurious, if used much.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn83026391:00202190108:1856082301:0225/pct:4.629630,4.912281,34.097222,92.178363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn83026391:00202190108:1856082301:0225/pct:20.254630,6.900585,18.402778,23.669591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3928,7 +3772,7 @@ salt meat is injurious, if used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e  
+e  
 Menical Use or SALr. In many cases  
 of disordered stomach, a teaspoonful of salt is  
 a certain cure. In the violent internal aching,  
@@ -3977,7 +3821,7 @@ different sides, persuaded themselves, and en­
 deavored to persuade Baum, that these were  
 the loyal people of the country flocking to his  
 standard. The iudians were the first to dis­  
-cover the truth. &quot;The woeds ar
+cover the truth. &quot;The woeds are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856091801:0652/pct:67.262330,18.205161,24.571122,31.185004/!600,600/0/default.jpg"/>
 </td>
@@ -3991,8 +3835,6 @@ cover the truth. &quot;The woeds ar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Mepicat Use or SALT.—In many cases of disor-  
 dered stomach a teaspoonful of salt is a certain cure.  
 In the violent internal aching, termed colic, add a  
@@ -4038,7 +3880,8 @@ twice a day, until cured.
   
 Salt will expel worms, if used in food in a moderate  
 degree, and aids digestion, but salt meat is injurious if  
-used much.
+used much.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1856-10_53_4%2Fsim_godeys-magazine_1856-10_53_4_jp2.zip%2Fsim_godeys-magazine_1856-10_53_4_jp2%2Fsim_godeys-magazine_1856-10_53_4_0069.jp2/pct:52.468652,75.646329,35.227273,12.125129/600,/0/default.jpg"/>
 </td>
@@ -4052,7 +3895,7 @@ used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. 8  
+8  
   
 J&amp;edical use of Salt.  
 In many rases of disordered stomach, a tea­  
@@ -4100,7 +3943,7 @@ moderate degree, and aids digestion, but salt
 meat is injurious, if used much.  
   
 CUARCOAL AND SALT FOR IIoCS. One of  
-the best articles that can.be given t
+the best articles that can.be given to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1856100801:0355/pct:5.578512,62.598463,25.232438,20.252444/!600,600/0/default.jpg"/>
 </td>
@@ -4114,7 +3957,6 @@ the best articles that can.be given t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-*  
 bock is the simple tale, which I have told  
 as it was told me To add the evident moral  
 would be aa insult to the reader.  
@@ -4124,7 +3966,7 @@ the part, and removed two or three times, will
 relieve it in most cases. If the gums be affec­  
 ted, wash the triooth with brine. If the teeth  
 be covered with tartar, wash them twice a dav  
-with salt and wate
+with salt and water
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:00517174518:1856110601:0377/pct:34.441261,88.038963,14.097421,5.787137/!600,600/0/default.jpg"/>
 </td>
@@ -4138,8 +3980,6 @@ with salt and wate
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 . &quot;Medical Use of Salt.  
 Ia ifi iay cases of disordered stoni­  
 acb, a teaspoonfull of 6alt is a certain  
@@ -4155,7 +3995,7 @@ In an npopltct&#x27;o fit, no time should
 be lost in pouring down salt and ,  
 vatcr. if suflicient sensibility remain;  
   
-
+t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856110601:0385/pct:6.279274,8.517459,12.983021,11.562679/!600,600/0/default.jpg"/>
 </td>
@@ -4169,8 +4009,6 @@ vatcr. if suflicient sensibility remain;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 and a cool apartmeutprocured if pis-;For  
 sible. In many cases of severe bleed-  
   
@@ -4198,7 +4036,7 @@ until cured.
 Salt will cxpol worms, if used io  
 food ia a moderate degree, and aids  
 digestion, but caltmeat is injurious  
-if used much
+if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856110601:0385/pct:6.484192,26.960504,16.290984,18.019462/!600,600/0/default.jpg"/>
 </td>
@@ -4212,7 +4050,7 @@ if used much
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a heavy fall,  
+a heavy fall,  
 Ac. In an apoplecils fit, no time ahooJd be lot  
 in poann down fait and water, if nfficient sen­  
 aibilit reumina to ailuw of awjllowinp ; &quot;if not,  
@@ -4233,7 +4071,7 @@ alt and water held M to? par&#x27;&#x27;, arid removed two
 -or three tinjesrwttf reltere it in ninrt ca.ie. If  
 the jratlirf be affected, wash the iwith rith brine.  
 If the teeth be covered wi h tartar, wash tbeni  
-twice a day with j!ian, water
+twice a day with j!ian, water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NCAWade1n_ver01%2Fdata%2F1857031401%2F0288.jp2/pct:7.509728,60.465798,14.416342,12.274791/!600,600/0/default.jpg"/>
 </td>
@@ -4247,7 +4085,6 @@ twice a day with j!ian, water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 lodical Use of Sal.  
 In many cases of disordered stomach, a  
 teaspoonful of salt is a certain cure. In  
@@ -4281,7 +4118,7 @@ gums be affected, wash the mouth with
 brine. If the teeth be covered with tartar,  
 wash them two or three times a day with  
 salt and water.  
-
+ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857032001:0289/pct:56.675186,73.320634,10.003651,19.510728/!600,600/0/default.jpg"/>
 </td>
@@ -4295,7 +4132,6 @@ salt and water.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Muwcal Use v Salt. Iu many casrs  
 of disordered stomach, a tcaspoonful of  
 salt is a certain cure. In the violent in­  
@@ -4330,7 +4166,7 @@ will relieve it in most cases. If the
 gums be affected, wash the mouth with  
 brine. If the tooth bo covered with  
 tartar, wash them twice a day with  
-salt and water
+salt and water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065087:00212470478:1857032701:0233/pct:63.166397,15.186789,15.185784,27.260422/!600,600/0/default.jpg"/>
 </td>
@@ -4344,7 +4180,6 @@ salt and water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Medical cse op Salt. In many cases of disorder  
 ed stomach, a teaspoonful of salt is a certain cure.  
 In the violent internal aching termed cholic, add a  
@@ -4370,7 +4205,7 @@ ache, warm salt and water held to the part, and re­
 moved two or three times, will relieve it in most  
 cases. If the gums be affected, wash the mouth  
 with brine. If the teeth be covered with tartar.  
-wash them twice a day with salt and water
+wash them twice a day with salt and water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857040101:0265/pct:20.743166,60.115095,14.735194,13.081009/!600,600/0/default.jpg"/>
 </td>
@@ -4384,7 +4219,6 @@ wash them twice a day with salt and water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Medical vse of Salt. In many cases of disorder  
 ed stomach, a teaspoonfu! of salt is a certain cure.  
 In the violent internal achinjr termed cholic, add a  
@@ -4410,7 +4244,7 @@ ache, warm salt and water held to the part, and re-
 moved two or three times, will relieve it in most  
 cases. It the gums be anecled, wash the mouth  
 with brine. If the teeth be covered with tartar,  
-wash them twice a day with salt and water
+wash them twice a day with salt and water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857040101:0103/pct:22.029703,61.115933,14.752475,12.734036/!600,600/0/default.jpg"/>
 </td>
@@ -4424,7 +4258,6 @@ wash them twice a day with salt and water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 !  
 Medical, use of Salt. In many  
 cases of disordered si omach a tea  
@@ -4458,7 +4291,7 @@ noma mad-a gvFn PUI H VV!WI
 Strong brine for an hburfand tlien  
 bincl- some salt :witfi a ; rag.0. In  
 &#x27;toothache, warm i salt - anil; . water  
-held4 to th
+held4 to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB1n_ver01%2Fdata%2F1857040801%2F0037.jp2/pct:48.510427,66.344127,14.846077,24.171297/!600,600/0/default.jpg"/>
 </td>
@@ -4472,8 +4305,6 @@ held4 to th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Medical use of Salt. In many cases ef dis­  
 ordered stomach, a teaapoonful of salt is a cer  
   
@@ -4499,7 +4330,7 @@ cold water until the sense retains, when nh
 will completely restore the patient from tbe  
 letffargy. In a fit, the feet should bo plsccd  
   
-bich maksth wis
+bich maksth wise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen14n_ver01%2Fdata%2F1857041001%2F0058.jp2/pct:34.200438,25.089795,20.468237,11.969153/!600,600/0/default.jpg"/>
 </td>
@@ -4513,7 +4344,6 @@ bich maksth wis
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 Medical use of Salt. In many cases of  
 4 -  
 disordered stomach, teaspoontul. ot salt is a  
@@ -4544,7 +4374,7 @@ part, : and . removed two or three times, will
 relieve it in most eases. If the gums lie af  
 footed&#x27; wash the mouth with brine. If &#x27;the  
 teeth J be .&quot;. covered . with tartar,: wa3h them  
-twice Id day with salt and water
+twice Id day with salt and water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshNMF2n_ver01%2Fdata%2F1857042301%2F0057.jp2/pct:49.749373,70.083523,14.461153,17.663250/!600,600/0/default.jpg"/>
 </td>
@@ -4558,7 +4388,7 @@ twice Id day with salt and water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ap  
+ap  
 no tims shaald  
 be lust in pouring down salt and water  
 iI sullicient sendhility remains to  
@@ -4607,7 +4437,7 @@ over it with a devastating flood,
 e shall find it dripping in crystal drops  
 from some mosey crevice among the dis­  
 tant hille, so too, the gentle feelings and  
-affect ons that enrich an
+affect ons that enrich and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1857052001:0075/pct:62.191277,20.854901,14.319496,30.789781/!600,600/0/default.jpg"/>
 </td>
@@ -4621,8 +4451,6 @@ affect ons that enrich an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Use ok Salt.—In many cases of a  
   
 disordered stomach, a teaspoonful of salt is a  
@@ -4660,7 +4488,8 @@ part, removed two or three times, will remove
 it in most cases. If the gums be affected wash  
 the mouth with brine. If the teeth be covered  
 with tartar, wash them twice a day with salt  
-and water.
+and water.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857052701:0393/pct:14.021707,68.494800,11.176298,12.260536/!600,600/0/default.jpg"/>
 </td>
@@ -4674,7 +4503,7 @@ and water.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- L dz or Salt.—ln many ca­  
+L dz or Salt.—ln many ca­  
 ses of a disordered stomach,a  
 of salt is a certain cure. In the violent  
 internal agony, termed cholic, add a tea­  
@@ -4709,7 +4538,7 @@ bo affected wash the mouth with brine.—
 1: the teeth be covered with tartar wash  
 them twice a day with sail an! water.  
   
-D
+Dr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1857060201:0720/pct:81.151832,63.367682,12.987202,19.137131/!600,600/0/default.jpg"/>
 </td>
@@ -4723,7 +4552,6 @@ D
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Bleeding.  
   
 In many cases of severe bleeding at the lungs, and when  
@@ -4736,7 +4564,7 @@ Drop Biscuit.
 Take cream and sour milk, or sour milk and butter,  
   
 salaratus, salt, and a little sugar. Thicken with four  
-stiff enough t
+stiff enough to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1857-06-06_12_23%2Fsim_flag-of-our-union_1857-06-06_12_23_jp2.zip%2Fsim_flag-of-our-union_1857-06-06_12_23_jp2%2Fsim_flag-of-our-union_1857-06-06_12_23_0006.jp2/pct:76.778955,69.462435,12.320212,4.452720/600,/0/default.jpg"/>
 </td>
@@ -4760,8 +4588,6 @@ stiff enough t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Medical use of Salt.  
   
 In many cases ofa disordered stomach, a teaspoonful  
@@ -4769,7 +4595,8 @@ In many cases ofa disordered stomach, a teaspoonful
 termed colic, add a teaspoonful of salt toa pint of cold  
 water; drink it down and go to bed; it is one of the  
 speediest remedies known. The same will revive a person  
-who seems almost dead from a heavy fall.
+who seems almost dead from a heavy fall.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1857-06-13_12_24%2Fsim_flag-of-our-union_1857-06-13_12_24_jp2.zip%2Fsim_flag-of-our-union_1857-06-13_12_24_jp2%2Fsim_flag-of-our-union_1857-06-13_12_24_0006.jp2/pct:76.310790,58.516839,12.234043,3.448834/600,/0/default.jpg"/>
 </td>
@@ -4783,7 +4610,7 @@ who seems almost dead from a heavy fall.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-MEMCAI. USE or SALT.—In ninny cases of  
+EMCAI. USE or SALT.—In ninny cases of  
 a disordered stomach, a tca&gt;poonful of salt is  
 a certain cure. In the violent, internal agony,  
 termed cholie, add a tenspoonful of salt to a  
@@ -4820,7 +4647,7 @@ Salt will expel worms, if used in food in a
 moderate degree, and aids digestion, but salt  
 meat is injurious, when used much.  
 Is A Ijt&#x27;Ml&quot;. Klder Jones was not remarka­  
-ble for hi
+ble for his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1857062501:0549/pct:77.698497,67.084780,14.528617,21.973345/!600,600/0/default.jpg"/>
 </td>
@@ -4834,22 +4661,6 @@ ble for hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- one of the buildings in  
-Cincinnati on the occasion of the great rail­  
-road celebration was: -A locomotive is the  
-only good motive for riding a man on a rail.&quot;  
-The woman who undertook to scour the  
-woods, has abandoned the job, owing to the  
-high price of soap suds. The last that was  
-heard of her she was skimmibg the seas.  
-A young man stepped into a bookseller&#x27;s  
-shop and asked for a Young Man&#x27;s Companion.  
-&#x27;Well, sir,&quot; said the bookseller, &quot;there is  
-ray daughter.&quot;  
-&quot;r. U , If you&#x27;ll get my pants done by  
-Saturday, I shall be forever indebted to you.&quot;  
-&quot;If that&#x27;s your game they&#x27;ll not be done,  
-sure,&quot; said the tailor.  
 Salt will expel worms, if used in food in  
 moderate degree, and aids digestion, but salt  
 meat is injurious, when used much.  
@@ -4858,7 +4669,7 @@ part with a strong brine for an hour, and then
 fciad on some salt with a rag.  
   
 TERMS.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1857062501:0010/pct:6.004141,7.587828,23.723257,86.509077/!600,600/0/default.jpg"/>
 </td>
@@ -4892,8 +4703,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 MEDICAL USE or SALT.—In many cases of  
 disordered stomach, a teaspoonful ✓ of salt is  
 a certain cure. In the violent internal  
@@ -4933,7 +4742,7 @@ and drink it also twice a day until cured.
 Salt will expel worms, if used in the food  
 in a moderate degree, and aids digestion ;  
 but salt meat is injurious if used much.—  
-Scientific American
+Scientific American.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001944%2F1857090201%2F0137.jp2/pct:34.810339,58.802391,13.620342,20.180682/!600,600/0/default.jpg"/>
 </td>
@@ -4947,8 +4756,7 @@ Scientific American
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d always have  
-him in your presence. [Ohio Farmer.  
+r.  
   
 MEDICAL USE OF SALT.  
   
@@ -4991,30 +4799,10 @@ and drink it also twice a day, until cured.
   
 Salt will expel worms, if used in food ina  
 moderate degree, and aids digestiun, but salt meat  
-is injurious, if used much.
+is injurious, if used much.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1857-09-17_25_39%2Fsim_maine-farmer_1857-09-17_25_39_jp2.zip%2Fsim_maine-farmer_1857-09-17_25_39_jp2%2Fsim_maine-farmer_1857-09-17_25_39_0000.jp2/pct:41.951155,39.047231,12.145483,20.969055/,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _San Andreas independent._](https://www.loc.gov/resource/sn85025090/1857-09-19/ed-1/?sp=2)
-
-#### 1857-09-19 &middot; [San Andreas, Calif.](http://dbpedia.org/resource/San_Andreas%2C_California)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-Weston, Lavenworth. Kansas City, Inde­  
-pendence, »&amp;c.-  
-  
--JV. I’. Herald.  
-  
-A locomotive is the only good motive  
-for riding a man on a rail.  
-Never do that in prosperity of
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1857091901:0214/pct:79.715853,91.922876,14.108876,3.178739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1857-09-17_25_39%2Fsim_maine-farmer_1857-09-17_25_39_jp2.zip%2Fsim_maine-farmer_1857-09-17_25_39_jp2%2Fsim_maine-farmer_1857-09-17_25_39_0000.jp2/pct:41.951155,39.596906,12.145483,20.419381/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5026,7 +4814,7 @@ Never do that in prosperity of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-mer.  
+er.  
   
 MedicAL Use or SaLr. In many cases  
 I disordered stomach, a tea-spoonful of salt  
@@ -5065,7 +4853,7 @@ In swelled neck, wash the part with brine,
 and drink it, also, twice a day, until cured.  
 Salt will expel worms, if used in food in  
 a moderate degree, and aids digestion, but  
-salt meat is injurious, if used much
+salt meat is injurious, if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1857100201:0580/pct:29.748873,71.323696,12.690492,24.433401/!600,600/0/default.jpg"/>
 </td>
@@ -5079,7 +4867,7 @@ salt meat is injurious, if used much
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a teaspoonfull of sale  
+a teaspoonfull of sale  
 o1 dialista tlreidom  
 &quot;In the violent internal aching, termed  
 colie, add a teaspobnful of salt to pint of  
@@ -5126,7 +4914,7 @@ and drink it also, twice a day until cured.
 Salt will awpat wormis tf naed in tood in  
 a moderate degree, and ft aids digestion,  
 but salt meat is injurious, if used much.  
-PrETTY FAIR. 
+PrETTY FAIR. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033372:00200293897:1857100201:0164/pct:80.491086,35.919056,12.832156,27.459247/!600,600/0/default.jpg"/>
 </td>
@@ -5140,7 +4928,7 @@ PrETTY FAIR.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The same will relieve a person  
+The same will relieve a person  
 wbo has had a heavy fall. In an spoplectic  
 fit. no time should be lost in pouring down  
 salt and water, if the patient can ewallow ; if  
@@ -5159,7 +4947,7 @@ meat is injurious.”
   
 THE  
   
-G
+GA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1857-11-07_1893%2Fsim_saturday-evening-post_1857-11-07_1893_jp2.zip%2Fsim_saturday-evening-post_1857-11-07_1893_jp2%2Fsim_saturday-evening-post_1857-11-07_1893_0003.jp2/pct:24.697802,7.674419,20.947802,82.693798/,600/0/default.jpg"/>
 </td>
@@ -5173,7 +4961,7 @@ G
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hall bo forgotten.&#x27;  
+forgotten.&#x27;  
   
 Medical Use of Salt;  
   
@@ -5223,9 +5011,9 @@ Dreadful&#x27;T/Sgedy in Gengiftv
 tYc hare; received, through a’ g&#x27;entlefiialr of  
 this city, the following account of oW of the?  
 most horrible butcheries we have heard if sine#  
-the days of Ada
+the days of Adam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001737%2F1857111201%2F0149.jp2/pct:80.205318,32.960363,12.970333,23.288723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001737%2F1857111201%2F0149.jp2/pct:80.205318,32.978646,12.970333,23.270440/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5237,7 +5025,7 @@ the days of Ada
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- out.  
+out.  
   
 In many cases of disordered stomach, a teaspoonful  
 ot salt is a certain cure. In the violent internal aching,  
@@ -5270,7 +5058,7 @@ it also twice ■a day, until cured.
   
 The utterances of men * in the form,’ as to the causes  
 of the late panic in the commercial world, being so vari­  
-ous and discordant, it is but just to let the spirit
+ous and discordant, it is but just to let the spirits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn84024825:00383346745:1857120501:0144/pct:63.304145,55.840995,13.543491,16.585542/!600,600/0/default.jpg"/>
 </td>
@@ -5284,7 +5072,6 @@ ous and discordant, it is but just to let the spirit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Medical use or Salt.  
   
 In many cases of disordered stomach, a teaspoonful  
@@ -5326,7 +5113,7 @@ dium, to say
   
 ‘ That we, as a nation, bad bound in fetters and im­  
 prisoned the Spirits of Washington and Jackson, whose  
-place
+places
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn84024825:00383346745:1857120501:0145/pct:63.304145,56.859564,13.520140,18.289165/!600,600/0/default.jpg"/>
 </td>
@@ -5340,7 +5127,6 @@ place
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Medical use or Salt.  
   
 In many cases of disordered stomach, a teaspoonful  
@@ -5382,7 +5168,7 @@ speaking through Mrs. Emma F. Jay Bullene as me­
 dium, to say :  
 1 That we, as a nation, had bound in fetters and im­  
 prisoned the Spirits of Washington and Jackson, whose  
-place
+places
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn84024825:00383346745:1857120501:0146/pct:62.545242,56.823508,13.520140,18.280151/!600,600/0/default.jpg"/>
 </td>
@@ -5396,7 +5182,7 @@ place
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Use of Salt.—ln many cases  
+Use of Salt.—ln many cases  
 of a disordered stomach a leaspoonful of salt  
 is a certain cure for the colie. Put a tea­  
 spoonful of salt in a pint of cold water, drink  
@@ -5406,7 +5192,7 @@ In an apoplectic fit no time should he lost,
 in pouring down salt and water if the patient  
 can swallow: if not, the head must do sponged  
 well with cold water until the senses return  
-when the salt will completely
+when the salt will completely 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557967:1858010201:0213/pct:47.907407,87.661482,14.703704,6.314263/!600,600/0/default.jpg"/>
 </td>
@@ -5420,7 +5206,7 @@ when the salt will completely
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- quart.  
+quart.  
   
 MKDICAI  
   
@@ -5468,7 +5254,7 @@ the mouth with brine. If the teeth be
 ivered with tartar, wash twice a day  
 with salt and water.  
   
-ANIMAL
+ANIMALS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1858011601:0030/pct:8.000000,57.960548,11.928571,21.343107/!600,600/0/default.jpg"/>
 </td>
@@ -5482,7 +5268,6 @@ ANIMAL
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 deep  
   
 MEDICAL USE OF SALT—Tn many  
@@ -5523,7 +5308,8 @@ three times, will relieve in the most
 eases. If the gums be affected, wash  
 the mouth with brine. If the teeth be  
 covered with tartar, wash twice a day  
-with salt and water.
+with salt and water.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1858011601:0031/pct:7.811380,58.983452,12.268883,19.568021/!600,600/0/default.jpg"/>
 </td>
@@ -5537,8 +5323,6 @@ with salt and water.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 SALT.—In many  
   
 cases of disordered stomach, a teas­  
@@ -5562,48 +5346,9 @@ FOR
   
 STAMMERING.  
   
-ra
+rat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1858013001:0104/pct:86.176981,61.512300,11.278195,11.007822/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Evening star._](https://www.loc.gov/resource/sn83045462/1858-05-05/ed-1/?sp=4)
-
-#### 1858-05-05 &middot; [Washington, D.C.](http://dbpedia.org/resource/Washington%2C_D.C.)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-ys bad habits.  
-The woman who undertook to scour the  
-woods has given it up as a bad job, on account of  
-the high price of soap. The last that was heard  
-of her she was skimining the soa.  
-Hy Franklin 
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858050501:0330/pct:2.136719,38.606583,16.187500,2.837392/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Ottawa free trader._](https://www.loc.gov/resource/sn84038582/1858-05-29/ed-1/?sp=4)
-
-#### 1858-05-29 &middot; [Ottawa, Ill.](http://dbpedia.org/resource/Ottawa%2C_Illinois)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-&#x27;t  
-The woman who undertook to scour the  
-woods has abandoned the job, owing to the  
-high price of soap.  
-  
-  
-Jusurange.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1858052901:0755/pct:1.956400,7.034668,18.543879,90.934590/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5615,7 +5360,7 @@ Jusurange.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. So mole it be  
+So mole it be  
 Medical Use of Salt,  
 In many c.ises of disordered stomach,  
 a teaspoonful of salt is a certain cuie. In  
@@ -5669,24 +5414,9 @@ region of the country, he discomet* m
 young maiden alanding nigh the door of *  
 small log house He rode up in fiont of  
 the house and asked the maiden for *  
-drink of watei
+drink of watei 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767754:1858070301:0479/pct:74.958054,30.452480,21.854027,35.355926/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Worcester daily spy._](https://www.loc.gov/resource/sn83021205/1859-04-15/ed-1/?sp=2)
-
-#### 1859-04-15 &middot; [Worcester [Mass.]](http://dbpedia.org/resource/Worcester%2C_Massachusetts)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- is said” that the woman who undertook to scour the  
-woods, has given it up i
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859041501:0344/pct:56.996719,37.865169,12.275622,0.730337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5698,7 +5428,6 @@ woods, has given it up i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 MEDICAL USE OK SALT.—IU many RATES of  
 | d surdere i stomach, a teaspcoufull of salt is a  
 ! certain cum. In the violent internal aching,  
@@ -5737,7 +5466,7 @@ in a moderate degree, and aids digestion ; but
 salt meat is injurious if used too much.— .Sa­  
 j en&#x27;ifi Arric.ri -n it  
 ttkfe&#x27;* A barn filled with tobacco, oats and  
-whea
+wheat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1859120101:0314/pct:77.547199,59.915852,14.932127,22.310666/!600,600/0/default.jpg"/>
 </td>
@@ -5751,7 +5480,7 @@ whea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-•I water until the senses return, when salt wilt  
+I water until the senses return, when salt wilt  
 A harpoon is . described which makes the I immediately restore the patient from the leth-&#x27;  
 vvitale kill himself. Themore he pullsthe e &quot; I Q&#x27;  
 in a fit,. the feet should be&#x27;placed in warm  
@@ -5775,7 +5504,7 @@ cuti era, took &#x27;a model of his machine through
 .... the. Western States, and after a tour of eight  
 bionths returned with forty thousand dollars.  
 . Another man -had a machine to thresh end  
-clean grain., whic
+clean grain., which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001836%2F1860011801%2F0009.jp2/pct:67.180255,22.520029,23.729714,8.656227/!600,600/0/default.jpg"/>
 </td>
@@ -5789,8 +5518,6 @@ clean grain., whic
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 relieve in most cases. If the gums be Wee- :  
 ted, wash the mout,h 4 with , brine; if the teeth  
 be Mill - trod wash-them twice iiday,&#x27; with _salt  
@@ -5810,7 +5537,7 @@ in the fortress of Alhambra, was destitute of
 gold .and silver wherewith to pay his soldiers  
 dho begandoMuramr, - as • not. the  
 inmins of Purchasing the necessaries of life.  
-from the people of th
+from the people of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001836%2F1860011801%2F0009.jp2/pct:79.318006,29.180626,11.635433,7.672979/!600,600/0/default.jpg"/>
 </td>
@@ -5824,8 +5551,6 @@ from the people of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Medical Use of Salt.  
   
 many cases.  
@@ -5865,7 +5590,7 @@ onus twice a aay until curea. ..
 Salt will expel .worms, jf used in the  
 food in moderate degree, snd;. aids diges­  
 tion ; but salt meat is injurious if used toe  
-much. Scientific American. 
+much. Scientific American. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1860020201:0209/pct:43.831640,69.573590,12.209724,21.416781/!600,600/0/default.jpg"/>
 </td>
@@ -5879,7 +5604,7 @@ much. Scientific American.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-p with jerfect composure...  
+with jerfect composure...  
 Medical TJe of Salt  
 In many cases of disordered stomifcb,  
 a teaspoonful Of salt is a certain1 cure.  
@@ -5919,7 +5644,7 @@ brine twice a day until cured., j v-r .f,
 , Salt will expel worms, if, used in the  
 food in a moderate degree, and aids&#x27; di­  
 gestion; but salt meat is injurious&#x27; ifuscd  
-too much. Scientific Amcrkan. &#x27;
+too much. Scientific Amcrkan. &#x27;-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1860021401:0120/pct:84.200113,57.367409,11.136235,20.988352/!600,600/0/default.jpg"/>
 </td>
@@ -5943,7 +5668,7 @@ too much. Scientific Amcrkan. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y as­  
+as­  
 similated.  
 Medical use of Salt.—In many cases  
 of disordered stomach, a tea-spoonful of  
@@ -5981,7 +5706,7 @@ teeth be tartared, wash them twice a day
 with salt water.  
 Tn swelled neck, wash the part with brine  
 twice a day until cured.  
-ALFRED JAM
+ALFRED JAME
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_invicta_ver01:data:sn89053987:print:1860042101:0060/pct:56.963470,35.829072,12.948467,22.084246/!600,600/0/default.jpg"/>
 </td>
@@ -5995,8 +5720,6 @@ ALFRED JAM
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Medical use of Salt.—In many cases of  
 disordered stomach, a tea-spoonful of salt is a  
 certain cure. In the violent internal aching,  
@@ -6030,7 +5753,7 @@ tared, wash them twice a day with salt water.
 In swelled neck, wash the part in brine twice  
 a day until cured.  
   
-A Rotal Bed-Chambe
+A Rotal Bed-Chambeb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860050101:0080/pct:69.736161,68.882089,12.661666,15.147748/!600,600/0/default.jpg"/>
 </td>
@@ -6044,7 +5767,7 @@ A Rotal Bed-Chambe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, if  
+if  
 the neck, and a co  
 possible.  
 In many cases  
@@ -6075,7 +5798,7 @@ rine; if the teeth be tartared, wash them
 twice a day with salt water.  
 In swelled neck, wash the part with brine  
 twice a day until cured.  
-ToMAroEs.-
+ToMAroEs.- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1860052401:0714/pct:63.191964,35.100136,15.111607,11.700045/!600,600/0/default.jpg"/>
 </td>
@@ -6089,7 +5812,7 @@ ToMAroEs.-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n and a protanation.  
+and a protanation.  
 Medical Use of Salt.  
 In many cases of disordered stomach,  
 a teaspoonful of sait is a certain cure. In  
@@ -6126,7 +5849,8 @@ gums be affected, wash the month with
 trine; if the teeth be tartared, wash  
 them twice a day with salf water.  
 In swelled neck, wash the part with  
-brine twice a day until cured.
+brine twice a day until cured.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1860053001:0933/pct:70.027456,41.250437,14.149888,22.536578/!600,600/0/default.jpg"/>
 </td>
@@ -6140,7 +5864,7 @@ brine twice a day until cured.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• Within Hod&#x27;s most glorkoris laud... .  
+Within Hod&#x27;s most glorkoris laud... .  
 . .  
 &#x27; . —Home Journal  
 . .  
@@ -6183,7 +5907,7 @@ Wash
 s the mouth with brine ; if the teeth be  
 tattered; wash them twice a&#x27;day with &#x27;salt  
   
-I
+In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fama_ver01%2Fdata%2Fsn86053952%2F000002359%2F1860053101%2F0081.jp2/pct:17.512284,36.070906,18.243965,22.857375/!600,600/0/default.jpg"/>
 </td>
@@ -6197,7 +5921,6 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Medical Use of Salt. lu many ca­  
 ses of disordered stomach, a tea-spoonful  
 of salt is a certain cure. In violent in­  
@@ -6240,7 +5963,7 @@ cured.
 Salt will expel worms if used in the  
 food in a moderate degree, and aids diges­  
 tion ; but salt meat is injurious if used  
-too much
+too much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477655:1860071901:0657/pct:61.076149,31.704545,14.348647,25.050505/!600,600/0/default.jpg"/>
 </td>
@@ -6254,7 +5977,7 @@ too much
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n  
+  
 termed cholic, a teaspoonful of salt dissolved  
 n a pint of cold water taken issoon as  
 possible, with a shortinap immediately after,  
@@ -6274,7 +5997,8 @@ and a cool aperient procured if possible. In
 cases of severe blecding at the lungs, when  
 other remedies failed, Dr. Rush found that  
 two teaspoonsful of salt completely stayed the  
-blood,
+blood,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863022701:0579/pct:48.395967,69.983833,14.252979,11.172984/!600,600/0/default.jpg"/>
 </td>
@@ -6288,7 +6012,6 @@ blood,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 f disordered stomach,  
 a many beases  
 tea-spoonful of  
@@ -6312,7 +6035,7 @@ cool aperient procured if possible. In cas
 es of severe bleeding at the lungs, when  
 other remedies falled, Dr. Rush found that  
 two tea-spoonfuls of salt completely st  
-the blood
+the blood.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1863030701:1030/pct:70.333220,80.010864,12.631758,11.868550/!600,600/0/default.jpg"/>
 </td>
@@ -6326,7 +6049,7 @@ the blood
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a teaspoonful of salt dis  
+a teaspoonful of salt dis  
 solved in a pint of cold water, taken as soon  
 as possible, with a shoit nap immediately  
 after, is one of the most effectual and. sure  
@@ -6348,7 +6071,7 @@ remedies failed, Dr. Ruh found that two
 teaspoonful of 6alt completely stayed the  
 blood.  
 A Short Serm mS. Dean Swift was once  
-
+a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1863041101:0080/pct:49.177356,77.726764,14.166202,13.650616/!600,600/0/default.jpg"/>
 </td>
@@ -6362,7 +6085,7 @@ A Short Serm mS. Dean Swift was once
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a teaspoonful  
+a teaspoonful  
 of salt is a certain cure. :. In a rio&amp;nt  
 internal pain called colic, a teaspeonful of  
 salt dissolved in a pint of odd water,  
@@ -6394,7 +6117,7 @@ known that without salt, man would
 miserably perish; and among the horrible  
 punishments entailing certain death, that cf  
 feeding culprits bn saltless food is said to  
-have prevailed i
+have prevailed in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001718%2F1863042101%2F0061.jp2/pct:76.218078,16.914627,12.184980,18.245968/!600,600/0/default.jpg"/>
 </td>
@@ -6408,7 +6131,7 @@ have prevailed i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of cold water, taken as soon as possible,  
+of cold water, taken as soon as possible,  
 with a short nap immediately after, is one of  
 the most effectual and speedy remedies known.  
 The same will revive a person who seems al­  
@@ -6426,7 +6149,7 @@ and a coo! aperient procured if possible. In
 eases of severe bleeding at the lungs, when  
 other remedies failed. Dr Bush found that two  
 teaspooufuls of salt completely stayed the  
-blood.—
+blood.— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863051601:0298/pct:28.597231,55.932203,13.405579,12.333535/!600,600/0/default.jpg"/>
 </td>
@@ -6440,7 +6163,7 @@ blood.—
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a teaspoonful of salt  
+a teaspoonful of salt  
 is a certain cure. In the violent internal  
 pain termed colic, a teaspoonfnl of salt dis­  
 solved in a pint of cold water, taken as soon  
@@ -6475,7 +6198,7 @@ thick, lay another set of eggs upon that,
 and soon to the top, there being commonly  
 from one to two hundred eggs in a nest.  
 With their tails they then beat down round  
-thei
+their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863051601:0075/pct:32.214381,43.667943,14.571810,20.049234/!600,600/0/default.jpg"/>
 </td>
@@ -6489,7 +6212,7 @@ thei
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of Value.  
+of Value.  
 MedicaL vse or SALT. In cases of disor.­  
 dered stomach, a tea spoonful of salt is a cer­  
 tain cure. In the violent internal aching,  
@@ -6525,7 +6248,7 @@ In swelled neck, wash the part with brine
 and drink it twice a day until cured.  
 Salt will expel worms if used in food at a  
 moder te dogree, and aid digestion; but salt  
-meats are injarious to cat tauc
+meats are injarious to cat tauch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101209:1864012001:0145/pct:0.597517,21.156585,16.301195,20.530695/!600,600/0/default.jpg"/>
 </td>
@@ -6539,8 +6262,6 @@ meats are injarious to cat tauc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Medical Use of SaIt.  
   
 The Medical World says that in many  
@@ -6578,7 +6299,7 @@ llent purpose if it does not prove to
 the very best. The shell or outer cover­  
 ing of the seed is hard, and if planted  
 its dry state, in rather a dry soil, will  
-tardy in germenting. Soaking the see
+tardy in germenting. Soaking the seed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775757:1864052501:0047/pct:6.709265,66.834905,12.779553,17.532209/!600,600/0/default.jpg"/>
 </td>
@@ -6602,7 +6323,7 @@ tardy in germenting. Soaking the see
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it will generally bring silver and  
+it will generally bring silver and  
 gold.  
 MEDICAL USE OF SALT. The Medical  
 World says, in many cases of disor­  
@@ -6630,7 +6351,8 @@ ent procured, if possible. In case of
 severe bleeding at the lungs, when  
 other remedies failed, Dr. Rush found  
 that two teaspoonfuls of salt com  
-pletely stayed the blood.
+pletely stayed the blood.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023246:00280777511:1865031001:0197/pct:41.459400,76.354878,12.948061,19.577144/!600,600/0/default.jpg"/>
 </td>
@@ -6644,7 +6366,6 @@ pletely stayed the blood.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 MEDICAL&#x27; USE OF SALT. The  
 Medical World says, in many cases of  
 disordered stomach, a table-spoonful of  
@@ -6684,7 +6405,7 @@ though, and their poverty stricken ap­
 pearance did not frouble them in the  
 least. They had seen a good deal of  
 the country on their march, and at  
-the review the counir
+the review the couniry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1865041101:0767/pct:43.034826,67.680857,12.495216,22.629929/!600,600/0/default.jpg"/>
 </td>
@@ -6698,8 +6419,6 @@ the review the counir
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 MEDICAL USE OF SALT.  
   
 The Medical World says, in many cases of disor-  
@@ -6728,7 +6447,7 @@ lungs, when other remedies failed, Dr. Rush found
   
   
   
-light shows that hi
+light shows that his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_zions-herald_1865-09-13_36_37%2Fsim_zions-herald_1865-09-13_36_37_jp2.zip%2Fsim_zions-herald_1865-09-13_36_37_jp2%2Fsim_zions-herald_1865-09-13_36_37_0003.jp2/pct:20.693844,86.032348,38.282937,8.236821/600,/0/default.jpg"/>
 </td>
@@ -6742,7 +6461,6 @@ light shows that hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 MEDICAL USE OF SALT.—The Medical World  
 ays in many cuses of disordered stomach a  
 djlespooutui ot salt is a certain cure. In a  
@@ -6764,7 +6482,7 @@ ill the bandages removed trom the neck, and&#x27;
 u cool aperient procured, it possible. In case  
 of severe bleeding at the lungs, when other  
 remedies failed, Dr. Rush found that twa  
-. tabiespoousful of salt stayed the bloo
+. tabiespoousful of salt stayed the blood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009569:00296026177:1866040501:0324/pct:83.974933,88.228847,11.205610,8.779044/!600,600/0/default.jpg"/>
 </td>
@@ -6788,7 +6506,6 @@ remedies failed, Dr. Rush found that twa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 MyDicAR UsE or SALr. The Hed­  
 ical World says that in many cases of  
 disordered stomach, a tablesphonful of  
@@ -6818,7 +6535,7 @@ vere bleeding at the lungs, when other
 remedies failed, Dr. Rush found that  
 two teaspoonfuls of salt stayed the  
 blood.  
-PERTINENT. Th
+PERTINENT. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024314:1866053001:0508/pct:38.792071,37.956279,11.134761,19.156075/!600,600/0/default.jpg"/>
 </td>
@@ -6832,7 +6549,6 @@ PERTINENT. Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 they are a mere matter of form!  
   
 MEDTCAL USE OF SALT.—The Medical  
@@ -6857,7 +6573,7 @@ rubbed, all the bandages removed from the
 neck, and a cool aperient procured, if  
 ble. In case of severe bleeding at, the lungs  
 when other remedies failed, Dr. Rush found  
-&#x27;that two teaspoonful of stilt stayed the bloo
+&#x27;that two teaspoonful of stilt stayed the blood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_februus_ver01%2Fdata%2Fsn88079228%2F000002423%2F1866061501%2F0093.jp2/pct:35.352532,74.190343,14.731877,14.205800/!600,600/0/default.jpg"/>
 </td>
@@ -6871,9 +6587,7 @@ when other remedies failed, Dr. Rush found
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ricidal blood, or bury  
-the liberties of the people beneath the “iron  
-sceptre of anarchy.” Let not this warning  
+this warning  
 pass unheeded. Metropdlitan Record. |  
   
 Medical Use of Salt.—The Medical  
@@ -6900,9 +6614,9 @@ of severe bleeding at the lungs, when other
 remedies failed, Dr. Rush found that two  
 lablespoonful of salt stayed the blood.  
 Some Facts about the Cholera.—Those  
-o
+of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558005:1866070701:0319/pct:48.334581,60.871942,14.352545,17.616509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558005:1866070701:0319/pct:48.334581,62.033620,14.352545,16.454831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6914,12 +6628,7 @@ o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-k to this city.&quot;  
-  
-SALT AS A PANACEA. — Common table  
-salt, it appears, will cure as many ills as  
-some of the never-fail:ng pultuonies  
-and pain-killers. The &quot;Medical World&quot;  
+The &quot;Medical World&quot;  
 says in many cases of disordered stomach,  
 a tablespoonful of salt i 3 a certain cure.  
 In a violent internal pain. called colic, a  
@@ -6938,9 +6647,10 @@ salt will completely restore the patient
 from the lethargy. In eases of severe  
 bleeding at the lungs. when other  
 remedies failed, Dr. Rush found that  
-two spoonfuls of salt stayed the blood.
+two spoonfuls of salt stayed the blood.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001884%2F1866110301%2F0165.jp2/pct:69.783373,79.952146,12.729124,16.371810/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001884%2F1866110301%2F0165.jp2/pct:69.783373,83.084397,12.724495,13.239559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6952,7 +6662,7 @@ two spoonfuls of salt stayed the blood.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.l will completely, restore  
+l will completely, restore  
 the pitimt from the lethargy.  
 In a fit, the feet should be placed in  
 warm water, w&#x27;r.h mustard added ; and  
@@ -6978,7 +6688,7 @@ cured.
 Salt will expel worm?, if used in tl e  
 fo I in a mo 1- rate d gree and ails diges­  
 tior ; but salt mei.t is injurious if used  
-ro
+rou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1867102401:0053/pct:2.342841,14.369296,13.023865,16.463843/!600,600/0/default.jpg"/>
 </td>
@@ -6992,7 +6702,7 @@ ro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of salt is a certain cure. In a  
+of salt is a certain cure. In a  
 violent internal pain, termed colic, a teaspoon*  
 full of salt dissolved in a pint of water, taken  
 as soon as possible, with a short nap immedi­  
@@ -7020,7 +6730,7 @@ far from encouraging. Mackerel continue
 very scarce, and the vessels will not aver­  
 age more than fifty barrels each. There are  
 yet two months left to the fleet to retrieve  
-tlieir poo
+tlieir poor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:00517174555:1868091001:0145/pct:52.628819,78.211080,10.672610,14.680697/!600,600/0/default.jpg"/>
 </td>
@@ -7034,7 +6744,7 @@ tlieir poo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- nicest dishes known for  
+nicest dishes known for  
 tea &quot;  
 The Medical Use of Salt . The  
 Medi&#x27;-ol World says that in many  
@@ -7062,7 +6772,7 @@ from the neck, and a cool aperient
 procured, if possible. In cases of se  
 vere bleeding at the lungs, when oth­  
 er remedies failed, Dr. Bush found  
-two teaspoonsful of sal
+two teaspoonsful of salt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA10n_ver01%2Fdata%2F1874100701%2F0157.jp2/pct:17.803030,66.674296,11.166667,18.070497/!600,600/0/default.jpg"/>
 </td>
@@ -7076,7 +6786,7 @@ two teaspoonsful of sal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: In an old medical work  
+In an old medical work  
 (pasted in the back) I find the following:  
 &quot;Medical Use oj Salt.?In many cases of  
 disordered stomach a teaspoon!ul of salt is a  
@@ -7116,7 +6826,7 @@ a moderate degree, and aids digestion, but
 salt meat is injurious if used much.&quot;  
 Reader.  
 Dofcs.  
-Editor Star
+Editor Star:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654504:1878081001:0026/pct:43.162455,22.409230,14.873646,15.899227/!600,600/0/default.jpg"/>
 </td>
@@ -7130,7 +6840,7 @@ Editor Star
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ith the wisdom and practical sense that  
+th the wisdom and practical sense that  
 has distinguished him in the councils of  
 the nation  
 MEDICAL USE OP SALT.­  
@@ -7186,7 +6896,7 @@ wrong impression as. to our action in the
 meeting ; we having voted against said  
 motion. Another coivection we think  
 necessr:7- Alter i ne nrst motion to elect  
-five Commissioners, there was 
+five Commissioners, there was a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess65n_ver01%2Fdata%2F1878081501%2F0251.jp2/pct:29.009312,44.889855,13.088464,35.832467/!600,600/0/default.jpg"/>
 </td>
@@ -7200,7 +6910,7 @@ five Commissioners, there was
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- than . harm  
+than . harm  
 We speak now more particularly of the  
 much abused &quot;Jimsen&quot; or Jamestown  
 weed but there are many others which  
@@ -7247,7 +6957,7 @@ cured. j ,
 Salt will expel worms, if used in the  
 food in moderate degree, and aids diges­  
 tion, hut salt meat is injurious . if used  
-much.
+much.j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm4_ver01%2Fdata%2F1878081701%2F0161.jp2/pct:31.971581,29.171843,15.038484,33.457557/!600,600/0/default.jpg"/>
 </td>
@@ -7261,7 +6971,7 @@ much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. &#x27;ii U r  
+&#x27;ii U r  
 Medical use of Sitftt j  
 In many cases of disordered  
 stomach a teaspoonf nl of salt is a  
@@ -7313,7 +7023,7 @@ Salt will expel worms, if used
 in the food in a moderate degree,  
 and aids digestion, but salt ineat  
 is injurious if used much. Cor  
-respondent in the Evening Sta
+respondent in the Evening Star
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NatRal1n_ver01%2Fdata%2F1878082101%2F0296.jp2/pct:67.948052,54.137802,12.935065,33.336454/!600,600/0/default.jpg"/>
 </td>
@@ -7327,7 +7037,7 @@ respondent in the Evening Sta
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nton.  
+ton.  
 Medical use of Salt.  
 In many cases of disordered  
 stomach a teaspoonful of salt is a  
@@ -7375,7 +7085,7 @@ Salt will expel worms, if used in
 the food in moderate degree, and  
 aids digestion, but salt meat is in­  
 jurious if used much.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667413:1878090501:0322/pct:32.810781,53.506158,14.370187,32.638061/!600,600/0/default.jpg"/>
 </td>
@@ -7389,7 +7099,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-$ttc.  
+ttc.  
 .MEDK&#x27;Al. I SE OF SALT.  
 In iur.ny ca-cs of disordered&quot; stomach  
 a lea spoonful of salt is a certain cure.  
@@ -7430,7 +7140,8 @@ wash the part with brine, find drink it
 twice a day, also until cured.  
 Salt will expel worms, if used in the  
 f i &quot;1 in moderate degree, and aids diges­  
-t but, salt meat is injuii us if us d
+t but, salt meat is injuii us if us d  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA25n_ver01%2Fdata%2F1878092501%2F0264.jp2/pct:7.809721,73.265829,10.981031,21.962291/!600,600/0/default.jpg"/>
 </td>
@@ -7444,7 +7155,7 @@ t but, salt meat is injuii us if us d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- proud.  
+proud.  
 Medical Use op Salt. Iu many cases  
 of disordered stomach a teaspoonful of salt  
 is a certain cure. , In the violent internal  
@@ -7477,7 +7188,7 @@ justice, iio where they will, they carry
 with them a sense ot guilt, ana are never  
 free irom the pangs of remorse. They can  
 baffle pursuit and pass unsuspected among  
-honest men; bu
+honest men; but
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1878092701:0155/pct:49.538332,56.033556,14.563514,19.412777/!600,600/0/default.jpg"/>
 </td>
@@ -7491,7 +7202,7 @@ honest men; bu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. In lnany  
+In lnany  
 casi&#x27;.s of disordered stomach a tea­  
 spooriful of salt is a certain cute. Id  
 the vioIcVit hiicnitfl ritllhig; tehnei!  
@@ -7515,7 +7226,7 @@ the legs briskly iuibbed, all ban&#x27;dageH
 removed from the neck, anil al cool  
 apartment procured1 if possible.- 1 11  
 many cases of bleeding tit tlie lungs,  
-when other remedies failed
+when other remedies failed,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:0029587966A:1878101001:0426/pct:78.954248,51.903299,12.140523,13.810605/!600,600/0/default.jpg"/>
 </td>
@@ -7529,7 +7240,6 @@ when other remedies failed
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 In an old medical work (pasted iu the  
 back) I fiud tlic followiug :  
 Medical use of Suit. In mauy cases of  
@@ -7575,7 +7285,7 @@ in a moderate degree, and aids diges
 tion, but salt meat is injurious, if used  
 much.&quot; Reader, iu Evening Star.  
 STOP AT THE  
-BOYDEN HOUS
+BOYDEN HOUSE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1878111401%2F0601.jp2/pct:31.788966,55.294850,12.761114,29.557724/!600,600/0/default.jpg"/>
 </td>
@@ -7589,7 +7299,6 @@ BOYDEN HOUS
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 5IerIIc.il I&#x27;se or Salt.  
 In many cases of disordeied stomach a  
 teaspoonful of salt is a certain cure. In  
@@ -7632,7 +7341,7 @@ food in moderate deirree, and aid dige-
 tion, but salt meat  
 is  
   
-i
+ii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://nebnewspapers.unl.edu/images/iiif/batch_nbu_plattsmouth01_ver01%2Fdata%2Fsn84022825%2F00000000009%2F1879013001%2F0469.jp2/pct:72.241109,77.813678,10.760983,17.738288/!600,600/0/default.jpg"/>
 </td>
@@ -7646,7 +7355,7 @@ i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- never cause toregret that  
+never cause toregret that  
 morning which they epent together by the  
 ‘‘sad sea-waves.’’  
   
@@ -7685,7 +7394,8 @@ water. In swelled neck, wash the part
 with brine, and drink it twice a day, also,  
 until cured. Salt will expel worms, if used  
 in the food in a moderate degree, and sids  
-digestion, but salt is injurious if used much.
+digestion, but salt is injurious if used much.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1879-06-28_58_49%2Fsim_saturday-evening-post_1879-06-28_58_49_jp2.zip%2Fsim_saturday-evening-post_1879-06-28_58_49_jp2%2Fsim_saturday-evening-post_1879-06-28_58_49_0009.jp2/pct:57.707355,57.954545,18.642410,25.326705/,600/0/default.jpg"/>
 </td>
@@ -7699,7 +7409,6 @@ digestion, but salt is injurious if used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 MEDICAL USE OF SALT.  
 In many cases of disordered stom­  
 ach a tesspoonful of salt is a eertain  
@@ -7745,7 +7454,7 @@ Salt will expel worms, it used in
 she food in moderate degree, and aid  
 digestion, but salt meat is iujurous if  
 used much.  
-Mount Verno
+Mount Vernon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027194:1879082801:0485/pct:32.488277,57.922139,10.888042,25.854928/!600,600/0/default.jpg"/>
 </td>
@@ -7759,7 +7468,6 @@ Mount Verno
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 t hop a teaspoolull of suit is n certain  
 • ■lire. In the violent internal aching,  
 i. rmecl coin-, add a teaspoonfiill of  
@@ -7800,7 +7508,7 @@ if used in fool in a moderate degree,
 and aid digestion, but salt meat is  
 injurious if used much.  
 Winter of  
-Many person
+Many persons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:0041562346A:1879121801:0891/pct:9.859438,13.156844,14.136546,30.544100/!600,600/0/default.jpg"/>
 </td>
@@ -7814,8 +7522,6 @@ Many person
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Use or Salt. In many cases of dis­  
 ordered stomach, a teasioonful cf salt  
 is a certain cure. l;i the violent in­  
@@ -7853,7 +7559,7 @@ wash the part with brine, and drink
 tv Ice a day, also, until cured. Salt will  
 expel worms, if used in lood in a moder­  
 ate degree, and aid digestion, but salt  
-meat is injurious if u-ed much
+meat is injurious if u-ed much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1880021801:0663/pct:40.755297,21.685190,10.850991,16.231584/!600,600/0/default.jpg"/>
 </td>
@@ -7867,7 +7573,7 @@ meat is injurious if u-ed much
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a teaspoonful of salt  
+a teaspoonful of salt  
 is a certain cure. In the violent in-­  
 ternal aching, termed colic, add a tea-­  
 spoonful of salt to a pint of cold water,  
@@ -7909,7 +7615,7 @@ one wishes to grow fleshy, a pint of
 milk taken before retiring at night will  
 soon cover the serawniest bones. Al­  
 though nowndays we see a good many  
-b
+by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1880030901:0893/pct:29.385041,20.729020,13.545033,21.805571/!600,600/0/default.jpg"/>
 </td>
@@ -7923,7 +7629,7 @@ b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, uo time should be lost  
+uo time should be lost  
 in pouring down salt water, if sufficient sen­  
 sibility remains to allow of swallowing ; if  
 not the head must bo sponged with cold  
@@ -7961,7 +7667,7 @@ national costumes, for the most part worn
 only on that day, tut they meet at each  
 other’s houses, or take walks, or amuse  
 themselves in a quiet inoffensive manner,  
-until the hou
+until the hour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_longines_ver01:data:sn85025371:0054286722A:1880031101:0462/pct:7.940161,50.130480,14.787112,25.521921/!600,600/0/default.jpg"/>
 </td>
@@ -7975,7 +7681,7 @@ until the hou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nting.  
+ting.  
 Use of Salt.  
 In many cases of disordered stomach,  
 a teaspoon ful of salt is a certain cure.  
@@ -8014,7 +7720,7 @@ also, until cured. Salt will expel worms,
 if used in food In a moderate degree, and  
 aid digestion, but salt meat Is injurious  
 if used much.  
-Delica
+Delicat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn90069164:0028077683A:1880050401:0585/pct:6.390020,36.421930,17.413442,27.444694/!600,600/0/default.jpg"/>
 </td>
@@ -8028,7 +7734,7 @@ Delica
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- pre­  
+pre­  
 stomach, a teaspoonful of salt is a cer- cipitated, and beaten fine. The thin,  
 tain cure. In the violent internal ach ene se e oen ar a o  
 ing termed colic, add a teaspoonful of cylinder, and when of sufficient thick­  
@@ -8068,7 +7774,7 @@ it will eapel wolllls, If tised in lood if
 a moderate degree, and aid digestion,  
 but salt meat is injurious if used much.  
 ea a eeeo ea   
-I 
+I I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1880050701:0418/pct:40.724763,34.020377,23.353466,17.683570/!600,600/0/default.jpg"/>
 </td>
@@ -8082,7 +7788,7 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- EbTIC.  
+EbTIC.  
 Use of Salt.—In many case* of din­  
 ordered stomach, a teaspooutul of salt  
 Ih u certain cure. In the violeut intern­  
@@ -8127,7 +7833,7 @@ proper process of fumigation In asthma.
 For this purpose the powder to be  
 burned is composed of two and ono­  
 half parts of nttrate of botassluui, one­  
-half part o
+half part ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1880050801:0522/pct:18.549362,5.244718,12.290128,22.412146/!600,600/0/default.jpg"/>
 </td>
@@ -8141,7 +7847,7 @@ half part o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a teaspoonful of salt  
+a teaspoonful of salt  
 is a certain cure. In the violent intern-­  
 al aching, termed colle, add a teaspoon-­  
 ful of salt to a pint of cold water, drink  
@@ -8177,7 +7883,7 @@ brine, and drink twice a day, also,
 until cured. Salt will expel worms, if  
 used in food in a moderate degree, and  
 aid digestion, but salt meat is Injurious  
-if used muc
+if used much
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288439:1880052201:1021/pct:17.341281,4.231032,13.589317,17.910770/!600,600/0/default.jpg"/>
 </td>
@@ -8191,7 +7897,7 @@ if used muc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- TIOME Ne..  
+TIOME Ne..  
   
 Use of Salt.  
 In many cases of disordored  
@@ -8245,7 +7951,7 @@ alive untll the regular rains come.
 It is, however, the experience of all,  
 the more a garden is watered the  
 more it wants, and thus on the whole  
-i
+it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776579:1880052701:0089/pct:5.521104,3.164188,12.662533,36.832896/!600,600/0/default.jpg"/>
 </td>
@@ -8259,7 +7965,7 @@ i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the whiteness and softness that it  
+the whiteness and softness that it  
 is possible for it to acquire. It can also  
 be used to make wrinkles disppear.  
   
@@ -8305,7 +8011,7 @@ much
 improving Noses.  
   
 A lady of my acquaintance was given  
-by nature a nose that was fla
+by nature a nose that was flat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_egeria_ver01%2Fdata%2Fsn83032115%2F000002304%2F1880052801%2F0085.jp2/pct:85.939211,56.575203,11.213034,22.469512/!600,600/0/default.jpg"/>
 </td>
@@ -8319,7 +8025,6 @@ by nature a nose that was fla
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 UsE or SALT. In many cases of disordered  
 stomach, a teaspoonful of salt is a certain cure.   
 In the violent internal aching termed colic, add a  
@@ -8349,7 +8054,7 @@ with salt and water. In swelled neck, wash the
 part with brine, and drink twice a day, also, until  
 cured. Salt will expel worms, if used in food in a  
 moderate degree, and aid digestion, but salt meat  
-is injurious if used much
+is injurious if used much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627609:1880052901:0244/pct:3.759210,50.385440,11.231581,15.012066/!600,600/0/default.jpg"/>
 </td>
@@ -8363,7 +8068,7 @@ is injurious if used much
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Salt as a Great Remedy.  
+alt as a Great Remedy.  
 In many ?ases of disordered stomach, a  
 teaspoonful of salt is a certain cure, in tin*  
 violent internal aching, termed colic, add a  
@@ -8398,7 +8103,7 @@ also, until cured. Salt will expel worms,
 if used iu food in a moderate degree, and  
 aid digestion, but salt meat is injurious if  
 used too much.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624566:1880060501:0265/pct:13.845424,59.525815,10.162794,16.885305/!600,600/0/default.jpg"/>
 </td>
@@ -8412,7 +8117,7 @@ used too much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, two  
+two  
 teaspoonfuls of salt completely stays the  
 blood. In the case of a bite from a mad  
 dog wash tbe place with strong brine fcr  
@@ -8429,7 +8134,7 @@ a moderate degree and aid digestion, but
 salt meat is Injurious if used much.  
 Grass hats of unmistakaole hay color  
 are the rustic mode this Summer. How  
-nice to be able t
+nice to be able to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DRWilm7_ver01%2Fdata%2F1880062301%2F0593.jp2/pct:62.195484,30.960452,14.824718,12.326656/!600,600/0/default.jpg"/>
 </td>
@@ -8443,7 +8148,7 @@ nice to be able t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, In many cases of disordered Svomach, a  
+In many cases of disordered Svomach, a  
 teaspoonfuf of salt is a certain cure. In  
 the violent internal aching, termed colic,  
 add a teaspoonful of salt to a pint of cold  
@@ -8461,7 +8166,7 @@ bis lethargy. In a fit, the feet should be
 placed in warm water with mustard added,  
 and the legs briskly rubbed, alii&#x27; bandages  
 removed from the neck, and a cool apart  
-ment procured,
+ment procured, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs82n_ver01%2Fdata%2F1880062501%2F0561.jp2/pct:17.068565,40.663310,12.013364,8.669002/!600,600/0/default.jpg"/>
 </td>
@@ -8475,7 +8180,6 @@ ment procured,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Usk of Salt.?In many cases of disordered  
 stomach, a teaspoonful of salt is a certain cure.  
 In the violent internal aching, termed colic,  
@@ -8508,7 +8212,8 @@ swelled neck, wash the place with brine, and
 drink twice a day until cured. Salt will expel  
 worms, if used in food in a moderate degree,  
 and aid digestion, but salt meat is injurious if  
-used much.
+used much.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1880070101:0056/pct:43.120936,20.320519,14.733420,13.955163/!600,600/0/default.jpg"/>
 </td>
@@ -8522,7 +8227,6 @@ used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 In many cases of disordered stom­  
 ach, a teaspoonful of salt is a certain  
 cure. In the violent internal aching,  
@@ -8547,7 +8251,8 @@ added, and the legs bri.-kly rubbed,
 all bandages removed from the neck,  
 and a cool apartment procured, if  
 possible. In many cases of bleeding  
-at the lungs, when other remedies
+at the lungs, when other remedies  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CCNNewton2n_ver01%2Fdata%2F1880071001%2F0117.jp2/pct:30.049912,51.471629,14.665297,15.586123/!600,600/0/default.jpg"/>
 </td>
@@ -8561,7 +8266,7 @@ at the lungs, when other remedies
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, a  
+a  
 tablespoonful of salt is a certain cure. In  
 the violent internal aching, termed colic,  
 add a teaspoon ful of salt to a pint of cold  
@@ -8593,7 +8298,8 @@ wash twice a day with salt water. In
 swelled neck, wash the part with brine, and  
 drink twice a day, also, until cured. Salt  
 will expel worms, if used in food in a moder­  
-ate degree, and aid digestion.
+ate degree, and aid digestion.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1880080601:0557/pct:6.910235,77.491567,14.614122,18.041501/!600,600/0/default.jpg"/>
 </td>
@@ -8607,7 +8313,6 @@ ate degree, and aid digestion.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 a teaspoonful of salt is a certai  
 In the violent internal aching  
  colic, add a teaspoonful  
@@ -8644,7 +8349,7 @@ e par an enee te or thee
 will relieve in most cases. If the to  
  be covered with tartar, wash twice  
  with salt and water.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1880121701:0533/pct:86.296076,66.078838,11.831153,13.231904/!600,600/0/default.jpg"/>
 </td>
@@ -8658,7 +8363,7 @@ will relieve in most cases. If the to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- r sponging the head with  
+r sponging the head with  
 cold water until the senses return,  
 when salt will completely restore the  
 patient from his lethargy. In a nt,  
@@ -8677,7 +8382,7 @@ rag. In toothache, warm salt water
 t... i ik. rwi-r and renewed I WO or  
 thrM times will relieve in most cases.  
 ir the teeth be covered with tartar,  
-wash twice a day wit
+wash twice a day with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776695:1881011201:0111/pct:28.641802,11.175388,10.819845,8.519590/!600,600/0/default.jpg"/>
 </td>
@@ -8691,7 +8396,6 @@ wash twice a day wit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 no time should be lost in pouring down  
 salt water, if sufficient sensibility remains  
 to allow of swallowing; if not the head  
@@ -8718,7 +8422,7 @@ and drink twice a day, also, until cured
 Salt will expel worms, if used in food in a  
 moderate degree, and aid digestion, but  
 salt meat is injurious it used much.  
-
+1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1881011901:0639/pct:49.506454,55.547888,11.218679,12.158432/!600,600/0/default.jpg"/>
 </td>
@@ -8732,9 +8436,6 @@ salt meat is injurious it used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-owly escaped suffo-  
-cation from falling birds. (Lexing­  
-ton (8. C) Press.  
 UsE oF SALT. In many cases of  
 disordered stomach, a teaspoonful of  
 salt is a certain cure. In the violent  
@@ -8786,9 +8487,9 @@ These elements about us, the glorious
 sky, the imperial sun, are not too  
 good for the buman race. Elegance  
 fits man. But do we not value these  
-tools for house keeping a little mor
+tools for house keeping a little more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1881012601:0607/pct:79.667450,38.360953,12.091090,36.988607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1881012601:0607/pct:79.667450,40.937338,12.091090,34.412222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8800,7 +8501,7 @@ tools for house keeping a little mor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- thme British Associa­  
+thme British Associa­  
 tion, shJowed that the custom still ex­  
 late among the Sotuth Sea Islanders,  
 y the Kabyles of Algeria, and and the  
@@ -8836,7 +8537,7 @@ rag. In toothache, warm salt water
 held to the part and renowet two or  
 three times will rolleve in most cases.  
 If tho teeth be covered with tartar,  
-wash twice a day wit
+wash twice a day with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881012701:0399/pct:5.258844,4.106046,26.348859,92.865611/!600,600/0/default.jpg"/>
 </td>
@@ -8850,7 +8551,7 @@ wash twice a day wit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- soil.  
+soil.  
 In many cases of disordered stomach  
 a teaspoonful of salt is a certain cure. lu  
 the violent internal aching termed colic,  
@@ -8878,7 +8579,8 @@ In toothache, warm salt water held to the
 part and renewed two or three times will  
 relieve most cases. If the teeth be cover­  
 ed with tartar, wash twice a day with salt  
-and water.
+and water.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1881012801:0019/pct:85.310644,42.203716,11.109327,15.720692/!600,600/0/default.jpg"/>
 </td>
@@ -8892,7 +8594,7 @@ and water.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- act prompt anld sure. Troy Bagit.  
+act prompt anld sure. Troy Bagit.  
 -In many cases of disordered stomach a  
 teaspoonful of salt is a certain cure In the  
 violent internal aching termed colic, add a  
@@ -8919,7 +8621,7 @@ rag. In toothache, warm salt water held to
 the part and renewed two or three times  
 will relieve in most cases. If the toeth be  
 covered with tartar, wash twice a day with  
-salt and water
+salt and water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192361:1881020101:0228/pct:84.611381,78.211578,13.410826,15.212161/!600,600/0/default.jpg"/>
 </td>
@@ -8933,7 +8635,7 @@ salt and water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ientific American.  
+entific American.  
   
 Us* or Salt.—In many cases of  
 disordered stomach, a teaspoonful of  
@@ -8975,7 +8677,7 @@ i . until cured. Salt will expel worms,
 if used in food ir. a moderate degree,  
 and aid digestion, but salt meat is  
 injurious if used much. =&lt;* »  
-i i , 
+i i , r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991446:1881020501:0053/pct:4.937362,62.913907,19.405551,29.886229/!600,600/0/default.jpg"/>
 </td>
@@ -8989,7 +8691,6 @@ i i ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 To Cube Corns. Apply morning and  
 evening one drop of solution of per  
 chloride of iron.  
@@ -8999,7 +8700,8 @@ let the water dry cn the hand. It will
 need but few applications.  
 Swelled Neck. Wash the part with  
 brine, and drink it also twice a day  
-until cured.
+until cured.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_PiCR13_ver01%2Fdata%2F1881062301%2F0290.jp2/pct:19.205298,64.496750,12.541391,5.889305/!600,600/0/default.jpg"/>
 </td>
@@ -9013,8 +8715,6 @@ until cured.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 © “It&#x27;s a useless waste of money to go  
 to Europe for pleasure,” says a level­  
 beaded exchange. And, besides, it’s a  
@@ -9033,7 +8733,8 @@ let the water dry cn the hund. It will
 need but few applications.  
 SweiLep Neck —Wash the part with  
 brine, and drink it also twice a day  
-untii cured.
+untii cured.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881062501:0357/pct:35.259259,4.415584,20.306878,91.679933/!600,600/0/default.jpg"/>
 </td>
@@ -9047,12 +8748,12 @@ untii cured.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hand each night;  
+hand each night;  
 let the water dry cn the hand. It will  
 need but few applications.  
 Swelled Neck —Wash the part with  
 brine, and drink it also twice a day  
-until cured
+until cured.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881063001:0096/pct:74.217067,48.270561,10.836785,2.805534/!600,600/0/default.jpg"/>
 </td>
@@ -9066,10 +8767,9 @@ until cured
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Swelled Neck—Wash the  
 part with brine, and drink it also  
-twice a day until cured
+twice a day until cured.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349207:1881070901:0629/pct:79.956384,6.361857,14.512292,1.831655/!600,600/0/default.jpg"/>
 </td>
@@ -9083,7 +8783,6 @@ twice a day until cured
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 j &#x27; It&#x27;s a useless w.islo of money to go  
 : to Europe for pleasure,&quot; says a level j  
 headed exchange And, besides, it&#x27;s n  
@@ -9092,7 +8791,7 @@ Transcript.
 To Cube Warts.? Cut a slice from a  
 raw potato and rub the hand each night; ;  
 let the water dry tn tho hund. It will  
-need but few application*. 
+need but few application*. j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1881071301:0156/pct:55.533400,94.261728,14.755733,4.223645/!600,600/0/default.jpg"/>
 </td>
@@ -9106,12 +8805,12 @@ need but few application*.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hand each night;  
+hand each night;  
 let the water dry on the hand. It will ficed  
 but few applications.  
 SwRLlED Nrek-Wash the part with  
 brine, and drink it also twice a day until  
-cured
+cured.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881080401:0723/pct:16.459140,75.838877,13.249400,3.689970/!600,600/0/default.jpg"/>
 </td>
@@ -9125,10 +8824,9 @@ cured
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 To CuRE CorNs.- Apply morning and  
 evening one drop of solution of per chlo­  
-ride of iron
+ride of iron.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881080401:0723/pct:69.894853,30.414076,13.161778,1.625041/!600,600/0/default.jpg"/>
 </td>
@@ -9142,13 +8840,13 @@ ride of iron
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- hand each night;  
+hand each night;  
 let the water dry on the hand, ft will need  
 but few applications.  
   
 SWELLED JNECK.—Wash the part with  
 brine, and drink it also twice a day until  
-cured
+cured.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881081101:0322/pct:16.540872,75.665469,12.651912,3.325044/!600,600/0/default.jpg"/>
 </td>
@@ -9162,7 +8860,7 @@ cured
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- beneficial.  
+beneficial.  
 MEDICAL USE OF SALT.  
 In many caces of disordered stomach  
 a teaspoonful of salt is a certain cure.  
@@ -9199,7 +8897,7 @@ covered with tartar wash them twice a
 day with salt and water.—Medical  
 Journal.  
   
-A Youn
+A Young
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550031:1881092801:0138/pct:79.329904,49.518505,13.863606,20.156722/!600,600/0/default.jpg"/>
 </td>
@@ -9213,9 +8911,10 @@ A Youn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o and rub the hand each night :  
+and rub the hand each night :  
 let the water dry on the hand. It will  
-need but few applications.
+need but few applications.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881101301:0358/pct:16.517400,90.432042,12.474411,1.399963/!600,600/0/default.jpg"/>
 </td>
@@ -9229,10 +8928,11 @@ need but few applications.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ens.  
+ens.  
 SWEI.I.KD NKOK. Wash the part with  
 brine, and drin!t it also twice a day until  
-cured.
+cured.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881101301:0358/pct:43.219038,27.693306,12.500000,2.169479/!600,600/0/default.jpg"/>
 </td>
@@ -9246,11 +8946,6 @@ cured.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-of itself—From  
-the Boston Medical Journal,  
-  
-  
-  
 Medical Use of Salt.  
   
 In many cases of disordered stomach  
@@ -9288,9 +8983,10 @@ mouth with brine. If the teeth be
 covered with tartar wash them twice a  
 day with salt and water.—From the  
 Boston Medical Journal.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_colmans-rural-world_1881-11-17_34_46%2Fsim_colmans-rural-world_1881-11-17_34_46_jp2.zip%2Fsim_colmans-rural-world_1881-11-17_34_46_jp2%2Fsim_colmans-rural-world_1881-11-17_34_46_0006.jp2/pct:40.166667,56.647399,13.750000,19.677264/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_colmans-rural-world_1881-11-17_34_46%2Fsim_colmans-rural-world_1881-11-17_34_46_jp2.zip%2Fsim_colmans-rural-world_1881-11-17_34_46_jp2%2Fsim_colmans-rural-world_1881-11-17_34_46_0006.jp2/pct:40.166667,57.911850,13.750000,18.412813/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9302,7 +8998,6 @@ Boston Medical Journal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Medical Use of Salt.  
 In many cases of disordered  
 stomach a teaspoonful of salt  
@@ -9351,7 +9046,7 @@ with tartar wash them twice
 a day with salt and water.— |  
 Boston Medical Journal j  
   
-Varnishin
+Varnishing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1881120301:0218/pct:70.479647,45.930584,10.728937,29.810134/!600,600/0/default.jpg"/>
 </td>
@@ -9365,7 +9060,6 @@ Varnishin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Salt as a Nemed.  
 In many cases of disordered stom­  
 ach a teaspoonfull of salt is a certain  
@@ -9401,7 +9095,8 @@ ed two or three times, will relieve it in
 most cases. If the gums are affected,  
 wash the mouth with brine. If the  
 teeth are covered with tartar, wash  
-them twice a day with salt and water,
+them twice a day with salt and water,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn85052020:00280763779:1881123001:0674/pct:18.113541,49.441201,11.817981,23.486239/!600,600/0/default.jpg"/>
 </td>
@@ -9415,7 +9110,7 @@ them twice a day with salt and water,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eat plentifully of apples  
+at plentifully of apples  
 are in excellent health, while those  
 | that eat no fruit are sickly.  
 Iu many cases of disordered stom­  
@@ -9453,7 +9148,8 @@ times, will relieve it in most cases, i
 If the gums are effected, wash the j  
 mouth witli brine. If file teeth be 1  
 covered with tartar, wash them twice !  
-a day with salt and water.
+a day with salt and water.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1881123101:0965/pct:15.243672,52.995263,13.392520,21.997771/!600,600/0/default.jpg"/>
 </td>
@@ -9467,7 +9163,6 @@ a day with salt and water.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 lo&#x27;t in pouring down salt and water  
 if sufficient sensibility remain to ad­  
 mit of swallowing; if not. the head  
@@ -9493,7 +9188,7 @@ times, will relieve it in most cases.
 If the gums are effected, wash the  
 month with brine. If the teeth be  
 covered with tartar, wash them twice  
-a day with salt and water
+a day with salt and water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1882010701:0967/pct:17.873680,60.291235,12.335618,14.561747/!600,600/0/default.jpg"/>
 </td>
@@ -9507,7 +9202,6 @@ a day with salt and water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 a teaspoonful of salt is a certain cure.  
 In the violent internal aching, termed  
 colic, add a teaspoonful of salt to a pint  
@@ -9539,7 +9233,8 @@ times, will relieve it in most cases. If
 the eunia are affected, wash the mouth  
 with brine. If the teeth be covered  
 with tartar, wash them twice a day with  
-salt and water.
+salt and water.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021064:1882012901:0100/pct:18.237831,76.952201,10.967344,14.103171/!600,600/0/default.jpg"/>
 </td>
@@ -9553,7 +9248,6 @@ salt and water.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 teaspoonful of salt is a certain cure.  
 in tne violent internal aciiing, lermea  
 colic, add a teaspoonful of salt to a pint  
@@ -9585,7 +9279,7 @@ times, will relieve it in most cases. If
 the gums are affected, wash the month  
 with brine. If the teeth be covered  
 with tartar, wash them twice a day with  
-salt and water
+salt and water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021064:1882020301:0115/pct:25.514019,71.445540,10.950156,13.968405/!600,600/0/default.jpg"/>
 </td>
@@ -9599,7 +9293,6 @@ salt and water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 In many cases of di-ordered  
 stomach a teaspoonful ot salt is a  
 certain cure. In the violent inters  
@@ -9640,7 +9333,7 @@ covered with tartar wash them
 twice a day with salt and water  
 Boys Compositons.  
 There are a great many sticks in  
-the world, some Dig 
+the world, some Dig a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1884082801:0354/pct:27.869518,11.681808,9.637250,20.614955/!600,600/0/default.jpg"/>
 </td>
@@ -9654,7 +9347,6 @@ the world, some Dig
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 In many eases of disordered stomach  
 a teaspoonful of salt -s a certain cure.  
 In the violent internal aching, termed  
@@ -9690,7 +9382,7 @@ with tartar, wash them twice a day with
 salt and water.  
 Mine. Jumel Outshone by a Negro.  
 The New Orleans Prlta of August,  
-1849, has the following account of 
+1849, has the following account of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867449:1884091101:0137/pct:4.161736,33.083810,12.189349,19.007779/!600,600/0/default.jpg"/>
 </td>
@@ -9704,7 +9396,7 @@ The New Orleans Prlta of August,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- iry eases of dis­  
+iry eases of dis­  
 : -rdered stomach, a teaspoonful of fait  
 is a certain rare. In tbe violent int«r­  
 &#x27; nal aching, termed cholic, add • tes­  
@@ -9742,7 +9434,7 @@ w ,»li the part with brine, and driuk it
 twice a day, also, until cured. Halt will  
 expel worms, if used in the food in a  
 moderate degree, and aids digestion,  
-but salt meat is iujurioua if used mrc
+but salt meat is iujurioua if used mrch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1885030701:0467/pct:30.676329,6.859943,10.524500,17.000136/!600,600/0/default.jpg"/>
 </td>
@@ -9756,7 +9448,7 @@ but salt meat is iujurioua if used mrc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a teaspoonful of salt  
+a teaspoonful of salt  
 is a certain care. In the violent inter­  
 ual aching, termed cholic, add a tea­  
 spoonful of salt to a pint of cold water,  
@@ -9795,7 +9487,7 @@ expel worms, if used in the food in a
 moderate degree, and aids digestion,  
 but salt meat ia injurious if used meet?.  
 How Colds abb Cacoht. A large  
-majority of colds in the whiter tim
+majority of colds in the whiter time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776701:1885031101:0253/pct:29.514364,7.282282,10.790014,17.792793/!600,600/0/default.jpg"/>
 </td>
@@ -9809,13 +9501,13 @@ majority of colds in the whiter tim
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—1n many cases of dis  
+1n many cases of dis  
 ordered stomach, a teaspoonful of sat  
 is a certain cure. In the yiolent inter  
 nal aching, termed cholic, add a tes- |  
   
 spoonful of salt to a pint of cold wate, 19  
-drink it and go to bed; it is one of the
+drink it and go to bed; it is one of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362143%2F1885031801%2F00003.jp2/pct:21.962291,9.001572,16.201117,3.131551/!600,600/0/default.jpg"/>
 </td>
@@ -9829,7 +9521,8 @@ drink it and go to bed; it is one of the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| In an apoplectic fit, no time should be  
+Keys” on one side. Make a | dead from receiving a heavy fall, elo. |  
+runner, and put a narrew silk ribbon | In an apoplectic fit, no time should be  
 through to draw up the bag; arrange | lost in pouring down salt water, if sul-  
 this runner below the light material, | ficient sensibility remains to allow of |  
 Size of the bag complete, six inches | swallowing; if nct, the head ahould be  
@@ -9850,9 +9543,10 @@ breed) Yegstablo Bilis in the hong, | bleeding at tiie lungs, when other rem-
   
 ail, | . adress | @dies fail, Dr. Rush found two tea  
   
-| spoonfuls &quot;of salt completely stayed the
+| spoonfuls &quot;of salt completely stayed the  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362143%2F1885031801%2F00003.jp2/pct:8.013268,13.692348,27.182263,7.809224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_centrereporter1_ver01%2Fdata%2Fsn83032058%2F13362143%2F1885031801%2F00003.jp2/pct:8.013268,13.168239,27.182263,8.333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9864,7 +9558,7 @@ ail, | . adress | @dies fail, Dr. Rush found two tea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- mad dog  
+mad dog  
 wash the nart with stroiitr brine for in  
 In toothaehe, warm salt and water  
 held to the part, and renewed two or  
@@ -9878,7 +9572,7 @@ tlemau is distinguished from him who is
 not a gentleman by moral qualities  
 which bare justly won the highest place  
 in the respect and admiration of the  
-worl
+world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR14n_ver01%2Fdata%2F1885052101%2F0665.jp2/pct:47.419628,55.403514,11.992386,15.907324/!600,600/0/default.jpg"/>
 </td>
@@ -9892,7 +9586,6 @@ worl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 I&#x27;ie of Salt.  
 In many cases of disordered stomach,  
 i toasp.onful of salt is a certain cure.  
@@ -9942,7 +9635,7 @@ tleman is distinguished from him who is
 not a gentleman bv moral qualities  
 which hare justly won the highest place  
 in the respect and admiration of the  
-worl
+world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DaR1_ver01%2Fdata%2F1885052101%2F0810.jp2/pct:46.147783,38.248986,11.527094,33.668719/!600,600/0/default.jpg"/>
 </td>
@@ -9956,7 +9649,7 @@ worl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a teaspoonful of salt is a  
+a teaspoonful of salt is a  
 certain cure. In the violent inter?  
 nal achtug, termed colic, put a tea­  
 spoonful of salt to a pint of cold wa?  
@@ -9997,7 +9690,7 @@ wash twice a day with salt and wa?
 ter.  
 In swelled neck, wash the part  
 with brine and drink it twice a day,  
-als:, until cured
+als:, until cured.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:0017503397A:1885062701:0093/pct:86.203718,50.483314,12.106314,23.682394/!600,600/0/default.jpg"/>
 </td>
@@ -10011,7 +9704,7 @@ als:, until cured
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a teaspoonful of salt  
+a teaspoonful of salt  
 is a certain cure. In the violent internal  
 aching, termed colic, add a teaspoonful of  
 salt to a pint of cold water; drink it and  
@@ -10043,7 +9736,7 @@ affected, wash the mouth with brine. If
 the teeth be covered with tartar, wash  
 them twice a day with salt and water.  
 Medicl Jouran!  
-black and White PeppE
+black and White PeppEr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524081:1885122901:0465/pct:28.090896,67.850724,11.142672,13.525038/!600,600/0/default.jpg"/>
 </td>
@@ -10057,7 +9750,7 @@ black and White PeppE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ity.  
+ty.  
 USE OF SALT.—In many cases  
 of disordered stomach, a tea­  
 spoonful of salt is a certain cure.  
@@ -10100,7 +9793,8 @@ also. until cured.
 Salt will expel worms, if used in  
 the food in a moderate degree, and  
 aids digestion, but salt meat is in­  
-jurious if used much.
+jurious if used much.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87065614:00383343793:1890051501:0860/pct:72.004792,46.286138,20.047923,46.212009/!600,600/0/default.jpg"/>
 </td>
@@ -10301,7 +9995,7 @@ salt meat&#x27; is injurious if used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Use OF SALT.-In many  
+Use OF SALT.-In many  
 oases of disordered stomaoh, a  
 teaspoonful of salt ls a oertain cure.  
 In the violent internal aching, termed  
@@ -10334,7 +10028,7 @@ twice a day, also, until cured. Salt
 will expel wormB, if used in tho food in  
 a moderate degreo, and aid digestion,  
 but Bait moat ls injurions if used much,  
-A Git EAT GOLD MINE IN ORIN
+A Git EAT GOLD MINE IN ORINA
 </td></tr></table>
 
 ---
@@ -10347,7 +10041,7 @@ A Git EAT GOLD MINE IN ORIN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-\ry In many casos of dtsordored  
+ry In many casos of dtsordored  
 stomach, a toaspoouful of salt is a  
 cortain euro. __Iu.tho violent mtornnl  
 aching, torinod colic, add a teaspoonfnl  
@@ -10385,7 +10079,7 @@ i: .if&#x27;.&#x27;I-Vr; J .&#x27;I:&#x27;;;?&#x27;! Salt will
 oxpol worms, if used in tho food in a  
 modorato dogroo, aud aid digestion/ but  
 j salt moat is injurious if usod.much.  
-.....
+..... 
 </td></tr></table>
 
 ---
@@ -10445,7 +10139,7 @@ but salt moat is injurious if used much.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; if not, tha head  
+if not, tha head  
 mast be sponged with oold water with  
 mustard added, and the legs briskly  
 rubbed, alt bandages removed from tbe  
@@ -10468,7 +10162,7 @@ and drink it twice a day, also, until
 cured. Salt will expel worms, It used in  
 the food in a moderate degree, and aids  
 digestion, but salt meat is injurious if  
-used muc
+used much
 </td></tr></table>
 
 ---
@@ -10481,7 +10175,7 @@ used muc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; if not, the  
+if not, the  
 head muat be sponged with oold water  
 with mustard added, nnd tb« lege briskly  
 rubbed, all bandages. reipored from the  
@@ -10504,7 +10198,7 @@ and drink it twice a day, also, until
 cured. Salt will expel worms, if used in  
 &#x27;tjgi food in a moderate -degree, and  
 aids digestion, but aalt meal ia  
-injuri
+injurio
 </td></tr></table>
 
 ---
@@ -10517,7 +10211,7 @@ injuri
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, the head muat be  
+the head muat be  
 aponged with cold water with mustard  
 added, and the lege briskly roubbed, all  
 bandages removed from thbe neck, and a  
@@ -10540,7 +10234,7 @@ and drink it twice a day, also, until
 cotred. Salt will expel worms, if used  
 in thi food in a moderate degree, and  
 aide di. gaetion, but salt meat is  
-injurious it used muc
+injurious it used much
 </td></tr></table>
 
 ---

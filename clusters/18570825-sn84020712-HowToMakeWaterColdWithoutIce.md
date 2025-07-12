@@ -1,7 +1,7 @@
 
 # How to Make Water Cold Without Ice
 
-### 200 reprints from 1838-06-16 to 1881-09-11
+### 206 reprints from 1838-06-16 to 1881-09-11
 
 ## [How to Make Water Cold Without Ice](https://chroniclingamerica.loc.gov/lccn/sn84020712/1857-08-25/ed-1/seq-1/)
 
@@ -25,7 +25,7 @@ HOW TO MAKE WATER COLD WITHOUT ICE.--The following description of a method of re
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
+  
 Coot. Water.?The Philadelphia Ledger sugges&#x27;s  
 the following mode of keeping water cool in warm  
 weather:  
@@ -46,7 +46,7 @@ holding it in ihe air on a warm day. After doing
 this three or lour times, he w ill find his finger un­  
 comfortably cold.  
 Sauries in Texas.?The salaries paid to the pub­  
-lic officers in Texas, are as follows:?To the Pr
+lic officers in Texas, are as follows:?To the Pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838061601:0487/pct:65.105035,63.315783,15.788596,11.179136/!600,600/0/default.jpg"/>
 </td>
@@ -60,8 +60,6 @@ lic officers in Texas, are as follows:?To the Pr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Cool \\ atk.u.— l ie* ILiiladHphia f^odj­  
 rr suggests the following mode of keep­  
 ing water cool in warm weather:  
@@ -84,7 +82,7 @@ warm weather. Any person can test j
 this by dipping a finger in waP r and hold- j  
 mg it in the air on a warm day. Alter j  
 doing this three or four times, he will find  
-his finger uncomfortably cold
+his finger uncomfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215646:1838061901:0080/pct:69.042816,74.433535,15.444967,13.149547/!600,600/0/default.jpg"/>
 </td>
@@ -108,7 +106,6 @@ his finger uncomfortably cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Cool. WatCr —The Phil iidefph j r |  
 ger suggests the following mode Jf .  
 I water cool in warm weather?  
@@ -134,7 +131,7 @@ holding it in the air on a warm ( ty
 After doing this three or four times®  
 will fi id his finger uneorr.t • a» &#x27; v cord.  
   
-B- r
+B- ri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1838063001:0178/pct:32.744755,9.725530,26.538462,85.424239/!600,600/0/default.jpg"/>
 </td>
@@ -158,7 +155,7 @@ B- r
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-I Cool Water.—Speaking of cool water,  
+Cool Water.—Speaking of cool water,  
 the Philadelphia Ledger says: *We can  
 suggest a mode within reach of every per­  
 son. Let the jar, pitcher or vessel used for  
@@ -183,7 +180,7 @@ he will find his finger uncomfortably cold.”
 The Religious Souvenir for 1839.—~We  
 are much gratified to learn that this popn­  
 lar Annual, formerly edited by Dr. Bedell,  
-will, for the futur
+will, for the future
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1838071101:0896/pct:31.856502,49.497586,14.708520,15.346470/!600,600/0/default.jpg"/>
 </td>
@@ -197,8 +194,6 @@ will, for the futur
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Cool Water.—The Philadelphia  
 Ledger suggests the following inode  
 of keeping water cool in warm wea­  
@@ -227,7 +222,7 @@ I find his finger uncomfortably cold.
 We find the following capital hit as  
 a marriage notice in the Perry Fores­  
 ter : .  
-“ On th
+“ On the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1838071101:0115/pct:45.983491,65.017261,14.455406,18.972957/!600,600/0/default.jpg"/>
 </td>
@@ -241,8 +236,6 @@ ter : .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Cool W’alcr.—Sp«king of cool water, the  
 Philadelphia Ledger says; We can suggest a  
 mode within reach of every person. Let the  
@@ -263,7 +256,7 @@ and holding itin the air, on a warm day. After
 doing this three or four times, he will find his!  
 finger uncomfortably cold.” |  
   
-Cupboard Love.—The relatio
+Cupboard Love.—The relation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_distraughtsoul_ver03:data:sn83021111:00513688908:1838072101:0171/pct:58.129496,50.957080,16.466827,12.566877/!600,600/0/default.jpg"/>
 </td>
@@ -277,7 +270,7 @@ Cupboard Love.—The relatio
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Bos-  
+Bos-  
 ton Journal.  
   
 Cool Water.—The Philadelphia Ledger  
@@ -304,7 +297,7 @@ doing this three or four times, he will find his
   
 finger uncomfortably cold.  
   
-Now, when i
+Now, when it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1838-07-28_8_30%2Fsim_presbyterian_the-presbyterian_1838-07-28_8_30_jp2.zip%2Fsim_presbyterian_the-presbyterian_1838-07-28_8_30_jp2%2Fsim_presbyterian_the-presbyterian_1838-07-28_8_30_0003.jp2/pct:21.159700,35.840909,13.779791,58.210227/,600/0/default.jpg"/>
 </td>
@@ -328,7 +321,7 @@ Now, when i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of cool water, the Philadel­  
+of cool water, the Philadel­  
 phia Ledger says:  
 “ We can rusgeat n mode within reach of every  
 peraon. Let the jar, pitcher or vessel used for water  
@@ -345,7 +338,7 @@ and he can always have a supply of cold water in
 warm weather. Any person can test this by dipping  
 a finger in water and nolding it in the air on a warm  
 day. After doing this three nr four times, he will find  
-his finger uncomfortably cold
+his finger uncomfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1838080201:0761/pct:41.306731,64.200977,16.904188,8.011165/!600,600/0/default.jpg"/>
 </td>
@@ -369,14 +362,16 @@ his finger uncomfortably cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ‘| water and holding it in the air on a warm ayrny  
 ter doing this three or four times, he will find his:  
   
-A
+Af! dienes. hombly to seek unto 0 God.  
+  
+er&quot; uncomlortably cold.’ i  
+  
+| He
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27%2Fsim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27_jp2.zip%2Fsim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27_jp2%2Fsim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27_0003.jp2/pct:38.646789,9.276889,29.042431,2.916751/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27%2Fsim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27_jp2.zip%2Fsim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27_jp2%2Fsim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27_0003.jp2/pct:38.646789,9.236378,46.186927,6.319627/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +383,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of cool water, the Philadelphia Led- |  
+of cool water, the Philadelphia Led- |  
 ong |  
 within the  
   
@@ -407,7 +402,8 @@ time of employment two pitchers thus provided,
 and with lids or covers, the one to contain water for|  
 drinking, the other for evaporation, and he can al-  
 ways have a supply of cold water ia warm weather.  
-Any person can test this by dipping a finger into
+Any person can test this by dipping a finger into  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27%2Fsim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27_jp2.zip%2Fsim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27_jp2%2Fsim_universalist-watchman-repository-and-chronicle_1838-12-29_10_27_0003.jp2/pct:10.607798,77.557221,28.440367,15.373709/600,/0/default.jpg"/>
 </td>
@@ -421,9 +417,7 @@ Any person can test this by dipping a finger into
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-bomb shell.  
-fol. Jhaeun.  
-4 oul iolir.  
+oul iolir.  
 Speaking of cool water the Philadel­  
 phia ledger says : &quot;We can suggest a  
 mode within the reach of every person.  
@@ -445,9 +439,10 @@ ter in warm weather. Any person can
 lest this by dipping a lin;rer in the water  
 and holding it in the air on a warm day.  
 After doing this three or four times, he  
-will find his linger uncomfortably cold.
+will find his linger uncomfortably cold.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1841061101:0227/pct:17.994396,34.709480,14.331465,16.207951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1841061101:0227/pct:17.994396,36.447039,14.331465,14.470392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +454,7 @@ will find his linger uncomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n.  
+.  
 COOL WATER.  
 . Speaking of cool water, the Philadelphia  
 A ‘ Ledger says: “Wecan suggest, a mode within  
@@ -480,7 +475,7 @@ weather. Any person can test this by dipping
 a finger in the water and holding it in the air  
 &lt;lh a warm day. After doing this three or four  
 times, he will find his finger uncomfortably  
-1 cold.
+1 cold. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_blueberries_ver01:data:sn87065702:00516991239:1841062501:0193/pct:0.889856,62.339930,16.452442,12.645518/!600,600/0/default.jpg"/>
 </td>
@@ -494,7 +489,6 @@ times, he will find his finger uncomfortably
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 COOL WATER.  
 Speaking of cool water, the Philadelphia  
 Ledger says: &quot; Wo ran suggest a inode  
@@ -514,7 +508,7 @@ in warm weather. Any person can test this
 by dipping a finger in the water and holding  
 it in the air, on a waim day. After doing  
 this three or four times, lie will find his fin­  
-ger uncomfortably cold
+ger uncomfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_eggplant_ver02:data:sn95079550:00516991550:1841072901:0374/pct:2.973301,60.816944,15.028317,11.739788/!600,600/0/default.jpg"/>
 </td>
@@ -528,7 +522,6 @@ ger uncomfortably cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-/  
 Cool Water.” Speahing of coel water the  
 Philadelphia Ledger saysi. “We can nt^goot  
 a mode within the reach of every person.—  
@@ -549,7 +542,7 @@ i the other for evaporation, and he can always
 1 have a supply of cold water in warm weather.  
 Any person can test’this by dipping a Unger  
 in the water ai d holding it in the air on a  
-warm day. After coing
+warm day. After coing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016481:00516990697:1841080401:0411/pct:79.381220,55.848435,15.750757,10.648495/!600,600/0/default.jpg"/>
 </td>
@@ -563,8 +556,6 @@ warm day. After coing
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
  ool waten.  
 Speaking of cool water, the Philadelphia  
 Ledger says: &quot;We can suggest a mode  
@@ -585,7 +576,8 @@ WiLMagToN Advertiser, for sale.pace of employ men to picner tos prot
 I do not know of a more eligible sitation for e an e an aa a a e o o  
 persons desirous of embarking in the printing buate in ar ete A eron an  
   
-test this by dipping a finger in the water
+test this by dipping a finger in the water  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841082601:1227/pct:31.809872,76.456384,30.598720,10.534259/!600,600/0/default.jpg"/>
 </td>
@@ -599,8 +591,7 @@ test this by dipping a finger in the water
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ars.  
-Cool Watch —-Speaking of cool water  
+Speaking of cool water  
 the Philadelphia Ledger says: “ We can  
 suggest a mode within lire reach of every  
 person. Let Ihe jar, pitcher or vessel used  
@@ -621,9 +612,9 @@ er. Any person can lest this by dipping
 a finger in the water and holding it in the  
 air, on a warm day. After doing ibis two  
 or three times, lie will find bis finger un­  
-comfortably cold
+comfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841082801:0119/pct:62.350120,46.565268,17.665867,15.276617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn92053389:00514151179:1841082801:0119/pct:62.350120,47.868962,17.665867,13.972923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +626,6 @@ comfortably cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 . Coor WATER. Speaking of cool water, the  
 Philadelphia Ledger siys: We cun suggest a  
 mode within the reach of every person. Let the  
@@ -654,7 +644,8 @@ a supply of cold water in warm weather. Any
 pereon can tesi this by dipping a finger in the wa­  
 ter anid holding it in the a.r ou a warm day. Afler  
 doing this three or four times, he will find his fin­  
-ger uncomfortably cold.
+ger uncomfortably cold.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868338:1841090401:0143/pct:34.148250,5.521208,14.512028,8.698778/!600,600/0/default.jpg"/>
 </td>
@@ -668,8 +659,6 @@ ger uncomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Cool J Vrtlcr.—Speaking of cool water, flic Phil­  
 adelphia l.cdger says: “Wccan suggest n mode  
 within the reach of every person, i.et tho jar,  
@@ -685,7 +674,7 @@ i ment two pitchers thus provided, and with lids’or
 ! covers, the one to contain water for drinking, the  
 other for evaporation, and he can always havo a  
 l supply of cold water in warm weather.”  
-T. H. M‘Oaleh
+T. H. M‘Oaleh 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841091601:0115/pct:80.477256,88.379169,15.346756,8.566413/!600,600/0/default.jpg"/>
 </td>
@@ -699,7 +688,7 @@ T. H. M‘Oaleh
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e of the passengers from drowning.  
+of the passengers from drowning.  
 How to have Cold Water.—The Phila­  
 delphia Ledger says: “We can suggest a  
 mode within the reach ofevery person. Let  
@@ -727,7 +716,7 @@ urday at Philadelphia, and lodged in Moya­
 mensing prison, to await a requisition from  
 the authorities of this State. At the time of  
 his arrest he was in charge of officer Wm. U.  
-Coulson, who is tho 
+Coulson, who is tho s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842072101:0505/pct:43.117673,39.243733,16.912723,16.739839/!600,600/0/default.jpg"/>
 </td>
@@ -751,7 +740,7 @@ Coulson, who is tho
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- out the hymn to be sung, and re-  
+out the hymn to be sung, and re-  
   
 vessel, used for water, be surrounded with one od  
 more folds of coarse cotton to be coostently wet.  
@@ -767,7 +756,7 @@ a supply of cold water in warm weather. Any per-
 son can test this by dipping a finger in the water,  
 it in airon awarm day. After do-  
 ng this three or four times, he will find his finger’  
-uncomfortably cold.
+uncomfortably cold. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1842-08-13_12_33%2Fsim_presbyterian_the-presbyterian_1842-08-13_12_33_jp2.zip%2Fsim_presbyterian_the-presbyterian_1842-08-13_12_33_jp2%2Fsim_presbyterian_the-presbyterian_1842-08-13_12_33_0003.jp2/pct:61.962214,7.139380,20.457408,75.298826/,600/0/default.jpg"/>
 </td>
@@ -781,7 +770,7 @@ uncomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Let the jar, pitcher, or vessel  
+Let the jar, pitcher, or vessel  
 used tor water be surrounded with one  
 or more folds of coarse cotton, to be con­  
 tantly wet. The evaporation of the  
@@ -796,7 +785,8 @@ provided, and with lids or covers, the one
 to contain water for drinking and the oth  
 er for evaporation, and he can always  
 have a supply of cold water in warm  
-weather.&quot;
+weather.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668934:1842082701:0025/pct:55.588235,45.725103,12.927171,8.686508/!600,600/0/default.jpg"/>
 </td>
@@ -810,7 +800,7 @@ weather.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, to  
+to  
 dip them in batter, and brown them thor­  
 oughly.  
 How to have Cold Water.—The  
@@ -845,9 +835,33 @@ germinating quality of the wheat, and it is
 thought that this is one great reason why  
 wheat does not in many instances grow as  
 thick as it did before machines came into  
-use. Wheat sown as soon us the las
+use. Wheat sown as soon us the lasi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1842090701:0457/pct:33.621668,14.358194,14.747589,21.735160/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Burlington free press._](https://www.loc.gov/resource/sn84023127/1843-06-23/ed-1/?sp=1)
+
+#### 1843-06-23 &middot; [Burlington, Vt.](http://dbpedia.org/resource/Burlington%2C_Vermont)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+the water; be surrounded by thresi  
+or four folds of course cotton cloth; and keep  
+the cloth constantly wet. The evaporation of  
+tne water Irom the cloth, will carry off the  
+heat from the water inside, and reduce it near­  
+ly to the freezing point. It is recommended  
+that eitr; mechanic or laborer should be prorf.  
+dod with two pitchers, one to contain vster for  
+drinking and the other for evaporation. He art  
+in this way always be supplier with told wit  
+in wsrm weather
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843062301:0529/pct:82.596786,90.205210,12.399562,5.268520/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +873,7 @@ use. Wheat sown as soon us the las
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- an advocate, and casting  
+an advocate, and casting  
 them, if need be, to the wind, he must  
 go on reckless of the consequences,  
 if his fate should unhappily be to in  
@@ -890,7 +904,7 @@ holding it in the air on a warm day,
 after doing this three or four times,  
 he will find his finger unconfortably  
 cold.  
-0r Th
+0r The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065355:00295878216:1843072901:1050/pct:82.078407,49.150027,16.158473,23.232596/!600,600/0/default.jpg"/>
 </td>
@@ -904,7 +918,7 @@ cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a from  
+a from  
 the Philadelphia I^edgen  
 &quot; l^et the jar, pitcher or vesae! used for wa­  
 ter be «urrounded with one or more fold* of  
@@ -922,7 +936,8 @@ warm weather. Any person can test it by
 dipping a finger in tlie water and holding it in  
 trie air on a warm day« doing this three or  
 four times, be will find hie finger uncomfor­  
-tably cold-&quot;
+tably cold-&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843081901:0560/pct:82.852761,83.494031,12.177914,8.872819/!600,600/0/default.jpg"/>
 </td>
@@ -946,8 +961,6 @@ tably cold-&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 “Let the jar, pitcher or vessel used for wa-  
 ter be surrounded with one or more folds of  
 coarse cotton to be constantly wet. The evap.  
@@ -964,7 +977,8 @@ cold water in warm weather. Any person
 can test it by dipping a finger in the water  
 and holding it in the air on a warm day, after  
 doing this three or four times, he will find his  
-finger uncomfortably cold.”
+finger uncomfortably cold.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_michigan-farmer_1843-09-01_1_14%2Fsim_michigan-farmer_1843-09-01_1_14_jp2.zip%2Fsim_michigan-farmer_1843-09-01_1_14_jp2%2Fsim_michigan-farmer_1843-09-01_1_14_0007.jp2/pct:68.267717,42.899284,26.535433,19.384745/600,/0/default.jpg"/>
 </td>
@@ -978,7 +992,7 @@ finger uncomfortably cold.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-is,  
+s,  
   
 COLD WATER.  
   
@@ -1002,7 +1016,7 @@ water and holding it in the air on a warm
 day ; after doing this three or four times, he @ill  
 find his finger uncomfortably cold. |  
   
-TH
+THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1844-05-04_14_18%2Fsim_presbyterian_the-presbyterian_1844-05-04_14_18_jp2.zip%2Fsim_presbyterian_the-presbyterian_1844-05-04_14_18_jp2%2Fsim_presbyterian_the-presbyterian_1844-05-04_14_18_0003.jp2/pct:67.166059,13.598010,11.760027,11.072047/,600/0/default.jpg"/>
 </td>
@@ -1016,7 +1030,7 @@ TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ltlas,  
+ltlas,  
   
 To Make Water Corp.—The following i«  
 asimple mode of rendering water almost as cold  
@@ -1036,6 +1050,7 @@ can test this by dipping a finger in water, and
 holding it in the air of a warm day; after doing  
 thisthree or four times, he will find his finge:  
 unconiertably cold,  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_michigan-farmer_1844-06-01_2_8%2Fsim_michigan-farmer_1844-06-01_2_8_jp2.zip%2Fsim_michigan-farmer_1844-06-01_2_8_jp2%2Fsim_michigan-farmer_1844-06-01_2_8_0000.jp2/pct:60.479042,70.202213,27.136636,18.485311/600,/0/default.jpg"/>
@@ -1050,7 +1065,6 @@ unconiertably cold,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 TO Λ1ΛΚΚ WAT Eli COLD FOR SOI­  
 ΜΕίϊ.—The following is a simple mode of ren­  
 dering water almost as coU us iec : Let the j ir,  
@@ -1070,7 +1084,7 @@ linger in water, and holding it in the air of a warm
 day; after doing this three c-r four times, he will  
 fiîïd his linger uncomfortably cold.  
   
-H
+H3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844060301:0389/pct:3.265546,75.117745,14.489636,9.784411/!600,600/0/default.jpg"/>
 </td>
@@ -1084,7 +1098,7 @@ H
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the plates throughout.  
+the plates throughout.  
 To make Water cold for Summer.  
 The following is a simple mode of rendering  
 water almost as cold as ice: Let ihe jar, pitch­  
@@ -1104,7 +1118,7 @@ test this by dipping a finger in water, and
 holding it in the air of a warm day; after do­  
 ing this three or four times, he will find his  
 finger uncomfortably cold.  
-A gentleman bachelor, getting tired of m
+A gentleman bachelor, getting tired of ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1844060601:0112/pct:38.234253,78.767864,17.869781,15.299628/!600,600/0/default.jpg"/>
 </td>
@@ -1118,7 +1132,6 @@ A gentleman bachelor, getting tired of m
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 .  
 To make Water Cold for Simmer.  
 The following is a si.nnle mode of remlerinir  
@@ -1141,7 +1154,7 @@ ter, and hidding it in the air of a warm day ;
 after doing this three or four times, he will find  
 his finger uncomfortably cold.  
 In consequence of the recent attempt at re­  
-volt at Mata
+volt at Matai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844060801:0809/pct:35.410392,75.953590,14.796687,15.678028/!600,600/0/default.jpg"/>
 </td>
@@ -1165,8 +1178,6 @@ volt at Mata
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 following is a simple nnn&#x27;e ;&#x27; remit r;n.&#x27;  
 water almost as cold as ice: Let the J.i.  
 pitcher or vessel usoil for w ater he .-&#x27;.irrnii&#x27;iJ-ed  
@@ -1187,7 +1198,7 @@ test this by dipping a finger in water.
 holding it in the air of a warm da.: &#x27;dV;&#x27;  
 doing this three or four times, he will n.u  
 his finger uncomfortably cuul.  
-Sew Yo
+Sew Yon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF10n_ver01%2Fdata%2F1844061201%2F0302.jp2/pct:84.692928,78.327125,13.787221,11.491139/!600,600/0/default.jpg"/>
 </td>
@@ -1201,7 +1212,7 @@ Sew Yo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the precious morn-  
+the precious morn-  
 ing hours.  
   
   
@@ -1214,7 +1225,8 @@ coarse cotton, to be constantly wet. The evapora-
 tion of the water will carry off the heat from the  
 inside, and reduce it to a freezing point. In India  
 and other tropical regions, where ice cannot be pro-  
-duced, this is common. Let every mechanic and
+duced, this is common. Let every mechanic and  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1844-06-13_12_24%2Fsim_maine-farmer_1844-06-13_12_24_jp2.zip%2Fsim_maine-farmer_1844-06-13_12_24_jp2%2Fsim_maine-farmer_1844-06-13_12_24_0001.jp2/pct:18.125786,58.839406,14.389937,5.812608/600,/0/default.jpg"/>
 </td>
@@ -1228,8 +1240,6 @@ duced, this is common. Let every mechanic and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 laborer have at his place of employment, two pitch-  
 ers thus provided, and wiih lids or covers—the one  
 to contain water for drinking, the other for evapora-  
@@ -1237,7 +1247,8 @@ tion—and he can always have a supply of cold wa
 ter in warm weather. Any person can test this by  
 dipping a finger in water, and holding it in the air  
 of a warm day; after doing this three or four times,  
-he will find his finger uncomfortably cold.
+he will find his finger uncomfortably cold.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1844-06-13_12_24%2Fsim_maine-farmer_1844-06-13_12_24_jp2.zip%2Fsim_maine-farmer_1844-06-13_12_24_jp2%2Fsim_maine-farmer_1844-06-13_12_24_0001.jp2/pct:18.062893,64.632736,14.339623,4.038944/600,/0/default.jpg"/>
 </td>
@@ -1261,7 +1272,7 @@ he will find his finger uncomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, in the power of cv-!  
+in the power of cv-!  
 ery one, water may be kept at a better  
 drinking temperature than ice can make  
 it. The recipe is.  
@@ -1287,7 +1298,7 @@ four times, he will find his finger un­
 comfortably cold.”  
   
 Marriage.—ln marriage prefer the  
-p
+pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844062201:0257/pct:19.140951,67.895120,16.013344,18.747269/!600,600/0/default.jpg"/>
 </td>
@@ -1311,8 +1322,6 @@ p
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 To Make Water Cool for Summer.—T hie follow-  
 ing is a simple mode of rendering water almost as  
 cold as ice: Let the jar, pitcher, or vessel used  
@@ -1322,7 +1331,8 @@ tion of the water will carry off the heat from the
 inside, and reduce the temperature to nearly the  
 freezing point. In India and other tropical re-  
   
-gions, this practice is common.
+gions, this practice is common.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-and-horticultural-register_1844-06-26_22_52%2Fsim_new-england-farmer-and-horticultural-register_1844-06-26_22_52_jp2.zip%2Fsim_new-england-farmer-and-horticultural-register_1844-06-26_22_52_jp2%2Fsim_new-england-farmer-and-horticultural-register_1844-06-26_22_52_0003.jp2/pct:66.009464,81.376689,26.971609,10.177365/600,/0/default.jpg"/>
 </td>
@@ -1336,7 +1346,7 @@ gions, this practice is common.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ily Mail.  
+ly Mail.  
 To make Water Cold for Summer. The fol­  
 lowing is a simple mode of rendering water almost  
 as cold as ice; Let the jar, pitcher or vessel used  
@@ -1355,7 +1365,7 @@ ter in warm weather. Any person can test this by
 dipping a finger in water, and holding it in the air  
 of a warm day ; after doing this three or four times,  
 he will find his finger uncomfortably cold.  
-Fr
+Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_selene_ver01:data:sn84031524:print:1844062801:2832/pct:51.465438,5.958344,29.714286,91.062484/!600,600/0/default.jpg"/>
 </td>
@@ -1369,7 +1379,7 @@ Fr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-erein one extin-  
+rein one extin-  
 guishable mass of slain.  
   
 To make Water Cole for Summer.—The  
@@ -1393,7 +1403,7 @@ bolding it in the airin a warm day; after
 doing so three or four times, he will find bis  
 finger uncomfortably cold.  
   
-Tro
+Tron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1844-06-29_6_26%2Fsim_american-cultivator_1844-06-29_6_26_jp2.zip%2Fsim_american-cultivator_1844-06-29_6_26_jp2%2Fsim_american-cultivator_1844-06-29_6_26_0003.jp2/pct:65.844402,71.763085,16.176471,14.617769/,600/0/default.jpg"/>
 </td>
@@ -1407,7 +1417,7 @@ Tro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t the streets.  
+the streets.  
   
   
   
@@ -1422,7 +1432,8 @@ produced, this is common. Let every mechanic or labor-
 er have at his place of employment two pitchers thus pro-  
 vided. and with lids or covers—the one to contain water  
 for drinking, the other for evaporation—and he ean al-  
-ways have a supp&#x27;y ot cold water in warm weathir.”’
+ways have a supp&#x27;y ot cold water in warm weathir.”’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_genesee-farmer_1844-07_5_7%2Fsim_genesee-farmer_1844-07_5_7_jp2.zip%2Fsim_genesee-farmer_1844-07_5_7_jp2%2Fsim_genesee-farmer_1844-07_5_7_0007.jp2/pct:14.821029,33.346519,27.544743,10.719937/600,/0/default.jpg"/>
 </td>
@@ -1456,14 +1467,14 @@ ways have a supp&#x27;y ot cold water in warm weathir.”’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of water be surrounded with  
+of water be surrounded with  
 one or more folds of coarse cotton, kept con-  
 stantly wet. The evaporation of the water  
 will carry off the heat from the inside,and reduce  
 its temperature to freezing point. In India this  
 process is said to be common, and in other  
 warm regions where ice cannot be procured.  
-The experiment i
+The experiment is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-reflector_1844-07-18_7_29%2Fsim_christian-reflector_1844-07-18_7_29_jp2.zip%2Fsim_christian-reflector_1844-07-18_7_29_jp2%2Fsim_christian-reflector_1844-07-18_7_29_0002.jp2/pct:54.725032,47.284785,11.441214,3.453453/600,/0/default.jpg"/>
 </td>
@@ -1477,7 +1488,7 @@ The experiment i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 21 of  
+21 of  
 these were Presbyterian and 39 Congre?.-  
 tional, with 30 ministers, bv means of re­  
 vivals 500 were converted in one year. lie  
@@ -1504,7 +1515,7 @@ Any person can test this by dipping a fin­
 ger in water, and holding it m the air of a  
 warm day: niter doing this three or four  
 times, ho will find his finger uncomfortably  
-cold.
+cold. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844072301:0172/pct:4.360257,56.753233,12.709078,14.647398/!600,600/0/default.jpg"/>
 </td>
@@ -1518,7 +1529,6 @@ cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 To MAKE WATER C OLD FOR SUM­  
 MER.—The following is a, simple mode  
 of rendering water almost as cold as  
@@ -1543,7 +1553,7 @@ person can test this by dipping a finger
 in water, and holding it in the air of a  
 warm day; after doing this three or  
 four times, he will find his finger on­  
--comfortably cold
+-comfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001779%2F1844072401%2F0060.jp2/pct:9.120708,50.026284,13.912591,14.261039/!600,600/0/default.jpg"/>
 </td>
@@ -1557,7 +1567,7 @@ four times, he will find his finger on­
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- can Manes 5 anne within the reach  
+can Manes 5 anne within the reach  
 of every person. t the jar, pitcher or ves-  
 sel used pr water, be eaneiie with one  
 or more folds of coarse cotton, to be con-  
@@ -1569,7 +1579,8 @@ point. In India and other tropical regions,
 where ice cannot be procured, this is com.| with a stone, as he supposed, in the side, 3  
   
 mon. Let every mechanic and laborer have  
-at his place of employment two pitchers thus
+at his place of employment two pitchers thus  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45%2Fsim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45_jp2.zip%2Fsim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45_jp2%2Fsim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45_0001.jp2/pct:1.218750,79.572368,27.187500,5.570175/600,/0/default.jpg"/>
 </td>
@@ -1583,13 +1594,14 @@ at his place of employment two pitchers thus
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-| Foreign Relationsand Government of Mexico.  
+provided, and with lids or covers, one to con- | but the report has been contradicted. Prob- | nstrations of regard. The Albanians were sen-| Foreign Relationsand Government of Mexico.  
   
 tain water for drinking, the other for evapo-  
 ration, and he can always have a supply of  
-cold water in warm weather.
+cold water in warm weather.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45%2Fsim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45_jp2.zip%2Fsim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45_jp2%2Fsim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45_0001.jp2/pct:1.250000,85.120614,52.890625,1.907895/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45%2Fsim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45_jp2.zip%2Fsim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45_jp2%2Fsim_cincinnati-weekly-herald-and-philanthropist_1844-07-26_8_45_0001.jp2/pct:1.250000,85.000000,52.890625,2.028509/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1613,7 @@ cold water in warm weather.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- an to be constantly wet. The  
+an to be constantly wet. The  
   
 the e  f the water will carry off  
   
@@ -1644,7 +1656,7 @@ this three or four times, he will find
 te uncomfortably cold.  
   
 furn, he officiated as the leader of the  
-Ne
+New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1844081001:0182/pct:0.000000,74.979647,33.898305,9.470828/!600,600/0/default.jpg"/>
 </td>
@@ -1668,10 +1680,11 @@ Ne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-manity is the heir in  
+anity is the heir in  
 nature’s great convulsions, our granite  
 hills are at the greatest point of dis­  
-tance.—Farmer&#x27;s Monthly Visiter.
+tance.—Farmer&#x27;s Monthly Visiter.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1844110701:0406/pct:23.256663,77.393827,13.928441,2.558692/!600,600/0/default.jpg"/>
 </td>
@@ -1685,8 +1698,6 @@ tance.—Farmer&#x27;s Monthly Visiter.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 water will carry off the heat from the insido and  
 red ice it to a freezing point.  
 In India and other  
@@ -1702,7 +1713,7 @@ i e
 ; tion, and he can always have a supply of coid  
 water in warm weather. Any person can tesx  
 this by dipping a finger in water, and holding it  
-iu 
+iu J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845052801:0294/pct:56.704305,86.666667,18.136909,6.206416/!600,600/0/default.jpg"/>
 </td>
@@ -1716,10 +1727,10 @@ iu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- o  
+o  
 in the air of a warm day; after doing this three  
 or four times, be will find his fingers uncoraforta  
-bly col
+bly cold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845052801:0294/pct:57.057163,92.524407,17.766408,2.217573/!600,600/0/default.jpg"/>
 </td>
@@ -1733,7 +1744,7 @@ bly col
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Water i on Scmmeh. The follow­  
+Water i on Scmmeh. The follow­  
 ing is a simple mode of rendering water al­  
 most as cold as ice. Let the jar, pitcher,  
 or vesel used for water be surrounded by  
@@ -1748,7 +1759,7 @@ ment two pitchers thus provuleij, and w ith
 litis or covers tho one. to contain water for  
 drinking, the other for evaporatian and he  
 can alw ays have a supply of cold xvater in  
-warm weather
+warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845060501:0313/pct:76.262486,51.878013,14.525527,9.328400/!600,600/0/default.jpg"/>
 </td>
@@ -1772,7 +1783,7 @@ warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and take mu­  
+and take mu­  
 tual support in all the branches of local  
 business and occupation, are generally  
 worth four times their subscription price.  
@@ -1799,7 +1810,8 @@ four times, he will find his finger un
 comfortably cold.  
 Scene on board a steamboat  
 A gentle-  
-man promenading the deck,-up comes a
+man promenading the deck,-up comes a  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1845062601:0104/pct:18.958640,19.437653,14.696620,19.668568/!600,600/0/default.jpg"/>
 </td>
@@ -1813,8 +1825,6 @@ man promenading the deck,-up comes a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 2  
   
 To Make Water Cold for Summer.—The follow-  
@@ -1834,6 +1844,7 @@ I had never seen such |
   
 can always have a supply of cold water in warm  
 weather.”  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-and-horticultural-register_1845-07-23_24_4%2Fsim_new-england-farmer-and-horticultural-register_1845-07-23_24_4_jp2.zip%2Fsim_new-england-farmer-and-horticultural-register_1845-07-23_24_4_jp2%2Fsim_new-england-farmer-and-horticultural-register_1845-07-23_24_4_0007.jp2/pct:11.349372,8.382353,53.765690,80.273109/,600/0/default.jpg"/>
@@ -1851,9 +1862,6 @@ weather.”
   
   
   
-  
-  
-  
 TO MAKE WATER COLD FoR SUMMER. The fol-  
 lowing is a simple way of rendering water almost  
 as cold as ice: Let the jar, pitcher, or vessel used  
@@ -1868,6 +1876,7 @@ pitchers, with covers, the one to contain water for
 drinking, the other for evaporation, and he can  
 always have a supply of cold water in warm  
 weather.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1845-08-14_13_33%2Fsim_maine-farmer_1845-08-14_13_33_jp2.zip%2Fsim_maine-farmer_1845-08-14_13_33_jp2%2Fsim_maine-farmer_1845-08-14_13_33_0000.jp2/pct:63.358491,43.130959,14.427673,6.976065/600,/0/default.jpg"/>
@@ -1882,7 +1891,6 @@ weather.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 To MAKE WATER COLD FOR SUMMER.  
 The following is a simple way of rendering wa­  
 ter almost as cold as ice: Let the jar be wrapped in  
@@ -1895,7 +1903,7 @@ Let every mechanic or laborer have at his place of
 work, two pitchers, with covers, the one to contain  
 water for drinking, the other for evaporation, and  
 he can always have a good supply of cold water in  
-warm weather
+warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845082801:0141/pct:22.274052,13.707833,14.266278,6.174957/!600,600/0/default.jpg"/>
 </td>
@@ -1909,7 +1917,7 @@ warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--The following  
+The following  
 is a simple Modo of rendeting water almost as cold  
 as ice let the jar, pitches CiiveaseltisrAl for water  
 be surrounded with oru folds of coarse­  
@@ -1928,7 +1936,7 @@ water in 4anni, vveathimi,&#x27;. l . l Any person can tes t
 this by dipping , a fingecini . %vater, and hisldina it in  
 the air of -a;Warro day Skid after doing this three  
 \ or four titnes, he will foid , ,O: finger uncomfortably  
-cold
+cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002334%2F1845083001%2F0140.jp2/pct:79.978430,72.550596,11.496980,9.911540/!600,600/0/default.jpg"/>
 </td>
@@ -2016,13 +2024,12 @@ his finger uncomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 To make Water Cold,for Summer.?&#x27;The  
 following is a simple mode of reducing wa­  
 ter almost as cold as ice :  
 Let the jar, pitcher, or vesselj be sur­  
 rounded with one or more folds of coarse  
-cotto
+cotton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846073101:0781/pct:74.831174,45.295432,17.795218,4.915591/!600,600/0/default.jpg"/>
 </td>
@@ -2036,14 +2043,15 @@ cotto
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Let the Jar, pitcher, or vessel used for  
+Let the Jar, pitcher, or vessel used for  
 | the water be surrounded with one or more folds of  
 coarse cotton, to be constantly wet. The evapora-  
 tions of the water will carry off the heat from the in-  
 _side, and reduce itto freezing point. In India and  
   
 other tropical regions, where ice cannot be procured,  
-this is common.
+this is common.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_universalist-watchman-repository-and-chronicle_1846-07-31_18_3%2Fsim_universalist-watchman-repository-and-chronicle_1846-07-31_18_3_jp2.zip%2Fsim_universalist-watchman-repository-and-chronicle_1846-07-31_18_3_jp2%2Fsim_universalist-watchman-repository-and-chronicle_1846-07-31_18_3_0006.jp2/pct:62.891078,25.280899,27.636153,5.437400/600,/0/default.jpg"/>
 </td>
@@ -2057,7 +2065,7 @@ this is common.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tu.  
+u.  
   
 —&lt;—— ,  
   
@@ -2071,7 +2079,8 @@ from the inside, and reduce it to a freezing point.
 In India, and other tropical regions, where ice can-  
 not be procured, this is common.  
   
-— ee
+— ee  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-agriculturist_1846-08_5_8%2Fsim_american-agriculturist_1846-08_5_8_jp2.zip%2Fsim_american-agriculturist_1846-08_5_8_jp2%2Fsim_american-agriculturist_1846-08_5_8_0014.jp2/pct:50.370828,63.361409,39.153276,13.686830/600,/0/default.jpg"/>
 </td>
@@ -2085,7 +2094,6 @@ not be procured, this is common.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 doubt.  
 S —p———  
 To make Warer Coun rorn Summen.  
@@ -2099,7 +2107,7 @@ duce it to a freezing point. In India, and
 other tropical regions, where ice cannot be  
 procured, this is common.  
   
-D
+DR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1846080501:0021/pct:30.736268,4.216060,14.881184,91.763736/!600,600/0/default.jpg"/>
 </td>
@@ -2115,8 +2123,7 @@ D
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ir representatives to the  
-American Congress. To MAKE WATER COLD  
+To MAKE WATER COLD  
 FOR SUMMER. The following is a simple  
 mode of rendering water almost as cold  
 as ice:-Let the jar, pUcher, or vessel  
@@ -2138,7 +2145,7 @@ Any person can test this by dipping a
 finger in water, and holding it in the  
 air on a warm day ; after doing this  
 three or four times he will find his  
-finger uncom-fortably cold
+finger uncom-fortably cold.
 </td></tr></table>
 
 ---
@@ -2151,7 +2158,6 @@ finger uncom-fortably cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 To rAKn WATER COLDw Fo Susmura.-The  
 following is a simple nrodoof rendering  
 water almost as cold as ice o:-Let the  
@@ -2173,7 +2179,7 @@ weat!her. Any person can test this by
 dipping a finger in water, and holding  
 it in the air on a warm day; after doing  
 thisthree or fopr times &#x27;he will find  
-his finger u~comnfortably col
+his finger u~comnfortably cold
 </td></tr></table>
 
 ---
@@ -2194,7 +2200,7 @@ his finger u~comnfortably col
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-de.  
+e.  
   
 To MAKE WATER COLD FOR SUMMER.—The follow-  
 ing is a simple mode of rendering water almost as cold  
@@ -2213,7 +2219,7 @@ dipping a finger in water, and holding it in the air on
 a warm day; after doing this three or four times he  
 will find his finger uncomfortably cold.  
   
-To TaK
+To TaKE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1852-04-22_1_17%2Fsim_leisure-hour-an-illustrated-magazine-for-home-reading_1852-04-22_1_17_jp2.zip%2Fsim_leisure-hour-an-illustrated-magazine-for-home-reading_1852-04-22_1_17_jp2%2Fsim_leisure-hour-an-illustrated-magazine-for-home-reading_1852-04-22_1_17_0015.jp2/pct:53.725962,65.534979,36.057692,18.852881/600,/0/default.jpg"/>
 </td>
@@ -2227,7 +2233,7 @@ To TaK
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- n wor­  
+n wor­  
 thy lesson of contentment front the cobbler.  
 To make Water cold for Summer.—  
 The following is a simple mode of rendering  
@@ -2249,7 +2255,7 @@ by dipping a finger in water, and holding it
 in the air on a warm day: after doing this  
 three or four times lie will find Ins finger  
 uncomfortably colJ,  
-A kind hearte
+A kind hearted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895655:1852070801:0488/pct:29.954002,79.544243,12.585097,11.966951/!600,600/0/default.jpg"/>
 </td>
@@ -2277,67 +2283,6 @@ A kind hearte
 
 ---
 
-## [From _Wheeling daily intelligencer._](https://www.loc.gov/resource/sn86092535/1852-10-09/ed-1/?sp=2)
-
-#### 1852-10-09 &middot; [Wheeling, Va. [W. Va.]](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-mer and  
-Mechanic,  
-Valuable Recipe.?Those who have no facility  
-of procuring ice, will be interested in the annexed  
-recipe which we clip from the Ladies Own Journal:  
-The following is a simple method of rendering wat­  
-er almost as cold as ice. Let the jar, pitcher, or  
-vessel used for water, be surrounded with one or  
-more folds of coarse cotton, to be constantly wet.?  
-The evaporation of the water will carry off the beat  
-from the inside, and reduce it to a freezing point.  
-In India and other tropical climes,where ice ciuinot  
-be procured, it is common.  
-(TTTh
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190522:1852100901:0162/pct:58.212560,88.673292,14.492754,7.540622/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Herald of the times._](https://www.loc.gov/resource/sn83021169/1852-10-21/ed-1/?sp=1)
-
-#### 1852-10-21 &middot; [Newport, R.I.](http://dbpedia.org/resource/Newport%2C_Rhode_Island)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- tears, and we can see  
-No more!  
-  
-Yaluuble Hecipe.  Those who have  
-no facility of procuring ice, will be it  
-terested in the annexed recipe which we  
-clip from the Ladies Own Journal:  
-The lollowing is a simple method o  
-rendering water almost as cold as ice.  
-Let the jar, pitcher, or vessel used for  
-water, be surrounded with one or more  
-folds of course cotton, to be constantly  
-The evaporation of the water will  
-carry off the beat from the in side, and  
-reduce it to a freezing point. In India  
-and other tropioal climes, where ice  
-cannot be procured, it is common.  
-  
-wet.  
-  
-FATHE
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1852102101:0788/pct:53.974855,77.535777,12.175534,11.197208/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
 ## [THE CAPE OF GOOD HOPE.](http://trove.nla.gov.au/ndp/del/article/114834532)
 
 #### From _Freeman's Journal (Sydney, NSW : 1850 - 1932)_
@@ -2346,7 +2291,7 @@ FATHE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n fall, they love company ; but when  
+fall, they love company ; but when  
 they rise, they love to stand alone like  
 yonder brick and see others prostrate  
 and below them.&#x27; ? To make Water cold  
@@ -2371,7 +2316,7 @@ Any person can test this by dipping a
 finger in water, and holding it in the  
 air on a warm day ; after- doing . this  
 three or four times he will find his  
-finger uncomfortably cold.
+finger uncomfortably cold. 
 </td></tr></table>
 
 ---
@@ -2384,7 +2329,7 @@ finger uncomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. To M??E W~&#x27;TER CorD ron  
+To M??E W~&#x27;TER CorD ron  
 So;asamn.--The following is a most  
 simple mode for rendering water almost  
 as cold as ice. Let the jar, or pitcher,  
@@ -2395,7 +2340,7 @@ the water will carry off the heat from
 the inside, and reduce it to the  
 freezing point. In India and other  
 tropical climes, where ice cannot be  
-procured, this practice is common
+procured, this practice is common.
 </td></tr></table>
 
 ---
@@ -2408,7 +2353,7 @@ procured, this practice is common
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- WATER.-The  
+-The  
 following is a simple method of  
 rendering water almost as cold as ice.  
 Let the jar, pitcher, or vessel nsed for  
@@ -2425,7 +2370,7 @@ States paper, upon an article taken from
 a Panama paper, (which we do not  
 recollect,) stating that a man named  
 James Linn bad been found dead under a  
-tree on the Gorgona road, and that, upo
+tree on the Gorgona road, and that, upon
 </td></tr></table>
 
 ---
@@ -2436,7 +2381,7 @@ tree on the Gorgona road, and that, upo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. That&#x27;s the most profitable  
+That&#x27;s the most profitable  
 and about the only ghost that ever I lieerd tell  
 on ! Good many folks talks about seein &#x27;em,-  
 but I expect. they never did not r&#x27;dtiy.&#x27;  
@@ -2462,7 +2407,7 @@ a supply of cold water in warm weather. Anf
 person can test this by dipping a finger izt.  
 water,-- and holding in the air ona warnl day;  
 lifter doing this three&#x27; of four times he will  
-ed his finger uncomfortably cold.
+ed his finger uncomfortably cold. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1853061501:0434/pct:74.846075,54.893338,14.186762,11.863772/!600,600/0/default.jpg"/>
 </td>
@@ -2476,7 +2421,7 @@ ed his finger uncomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. When quite cold, with a fe  
+When quite cold, with a fe  
 scrape off as much of the cement as remains  
 outside.  
   
@@ -2498,7 +2443,7 @@ ply of cold water in warm weather. Any pets
 son can test this by dipping a finger in Btu  
 and holding it in the alr ona warm day; F  
 doing this three or four times he will find {hig  
-finger uncomfortably cold
+finger uncomfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1857-07-11_1876%2Fsim_saturday-evening-post_1857-07-11_1876_jp2.zip%2Fsim_saturday-evening-post_1857-07-11_1876_jp2%2Fsim_saturday-evening-post_1857-07-11_1876_0003.jp2/pct:82.335165,52.732871,13.296703,11.893764/,600/0/default.jpg"/>
 </td>
@@ -2512,8 +2457,6 @@ finger uncomfortably cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 and with lids or covers, one to contain fresh  
 water  
   
@@ -2522,7 +2465,7 @@ for
 drinking, the other for evapors  
   
 tion, and he can always have a supply of  
-water in warm weather
+water in warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:0027952925A:1857071801:0651/pct:5.522824,87.905535,9.670930,1.600565/!600,600/0/default.jpg"/>
 </td>
@@ -2536,7 +2479,7 @@ water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-d the Recor­  
+the Recor­  
 er.  
   
 &quot;Nen-no, exactly s-s-so far gone yet, sir.&quot;  
@@ -2566,7 +2509,7 @@ water, and holding it in the air on a warm day:
 after doing this three or four times he will find his  
 finger uncomfortably cold.--lbany JOurnal.  
   
-ATMOSPHERIC PHENOMENON. On th
+ATMOSPHERIC PHENOMENON. On the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191010:1857072201:0074/pct:6.118989,49.183644,12.376695,10.190001/!600,600/0/default.jpg"/>
 </td>
@@ -2580,8 +2523,6 @@ ATMOSPHERIC PHENOMENON. On th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 To Make Watek Cold wilhout Ice.—  
 The following is u simple mode of rendering  
 waler almost as cold as ice: Let the jar, pitch­  
@@ -2595,7 +2536,7 @@ L.&#x27;t every mechanic and laborer have at his place
 of employment two pitchers thus provided, and  
 with lids or covers one to contain water for drink  
 iug, the other for evaporation, and be can al­  
-wuys have a supply of cold water in warm weal
+wuys have a supply of cold water in warm wealh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:00517174518:1857072301:0521/pct:62.123248,49.670581,14.474947,7.748496/!600,600/0/default.jpg"/>
 </td>
@@ -2609,7 +2550,7 @@ wuys have a supply of cold water in warm weal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of this  
+of this  
 description; they constitute, indeed, a vast majority of  
 their class; and it is the grossest injustice, not to say a  
 great public injury, to condemn them for the sins of a  
@@ -2635,7 +2576,7 @@ times he will find his finger uncomfortably cold.
 [Albany Journal.  
   
 LATE SECRETARY OF STATE—ANECDOTES, &amp;e. |  
-FROM TH
+FROM THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678264:1857072301:0646/pct:18.138321,2.884063,27.142236,93.921636/!600,600/0/default.jpg"/>
 </td>
@@ -2649,7 +2590,7 @@ FROM TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+rtpts.  
 To Make Water Cold Without Ice.— The  
 following is a simple mode of rendering water  
 almost as cold as ice. Let the jar, pitcher or  
@@ -2664,9 +2605,9 @@ have at his place of employment two pitchers
 thus provided, and with lids or covers, one to  
 contain waler for drinking, the other for eva­  
 poration, and he ean always have a supply of  
-cold water in warm weather
+cold water in warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn88064476:00295876074:1857072501:0329/pct:6.055646,37.966102,16.243863,8.587571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn88064476:00295876074:1857072501:0329/pct:6.055646,36.737288,16.243863,9.816384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2678,8 +2619,6 @@ cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-|  
-  
 Coot Warer.—The following simple method,  
 it is said, will keep water almost as cold as ice:  
 Let the jar, pitcher, or vessel used for water,  
@@ -2687,7 +2626,8 @@ be surrounded with one or more folds of coarse
   
 lost navi  
   
-on the
+on the  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1857-07-25_27_30%2Fsim_presbyterian_the-presbyterian_1857-07-25_27_30_jp2.zip%2Fsim_presbyterian_the-presbyterian_1857-07-25_27_30_jp2%2Fsim_presbyterian_the-presbyterian_1857-07-25_27_30_0002.jp2/pct:49.559658,23.165926,13.255920,67.304972/,600/0/default.jpg"/>
 </td>
@@ -2701,7 +2641,7 @@ on the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-land, he apprehends it not impossible that the  
+and, he apprehends it not impossible that the  
 population of India will be consid-  
 erably diminished. He alleges that this is  
 not exaggeration. There seems to be no rea-  
@@ -2733,7 +2673,8 @@ not be procured, this is common. Let every.
 one have in his place of employment two pit-  
 chers thus provided, and with lids or covers,  
 éne to contain fresh water for drinking, the  
-other for evaporation, and ‘he can always have
+other for evaporation, and ‘he can always have  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1857-07-25_27_30%2Fsim_presbyterian_the-presbyterian_1857-07-25_27_30_jp2.zip%2Fsim_presbyterian_the-presbyterian_1857-07-25_27_30_jp2%2Fsim_presbyterian_the-presbyterian_1857-07-25_27_30_0002.jp2/pct:49.527040,80.972110,21.821384,13.121463/600,/0/default.jpg"/>
 </td>
@@ -2757,12 +2698,13 @@ other for evaporation, and ‘he can always have
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;uol Wah r.—The following simple method,  
+uol Wah r.—The following simple method,  
 it is said, will keep water almost as cold as ice:  
 “Lot tho jar, pitcher, or vessel used for water be  
 surrounded with one or more folds of coarse cot­  
 ton, to he constantly wet. &#x27;I’he evaporation of  
-the water will carry off the heat from the inside
+the water will carry off the heat from the inside  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FyOsw6_ver01%2Fdata%2FFyOsw_1857-07-30_1%2F0002.jp2/pct:20.251283,81.209241,13.969198,3.349177/!600,600/0/default.jpg"/>
 </td>
@@ -2776,7 +2718,7 @@ the water will carry off the heat from the inside
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-*. *  
+. *  
 Cool Warm.-?The following simple metliod,  
 I i? -aid, will keep water as cold as ice :  
   
@@ -2795,7 +2737,7 @@ old water in warm weather. Any person can
 [Hit this by dipping a finger in water, and holdiu&lt;  
 . in the air on a warm dav ; after doing thisthres  
 r four timer lie wilt find \ila finger uncomfortably  
-old.? Albany Journal
+old.? Albany Journal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014015:0041566106A:1857073101:0019/pct:77.467156,64.050057,17.858234,9.806598/!600,600/0/default.jpg"/>
 </td>
@@ -2809,7 +2751,6 @@ old.? Albany Journal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
 Coof. Warer. The following simple  
 eoooeooooooo  
 micthod, it is said, will keep water almost as  
@@ -2834,7 +2775,7 @@ water, and holding it in the air on a warm
 ta atter ote ti toren or todr ton a  
  o o eee ee eeeoe eoeee a  
 will find his singer uncomfortably cold.  
-WhA
+WhAT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1857080101:0127/pct:29.215743,27.911503,13.343867,14.319369/!600,600/0/default.jpg"/>
 </td>
@@ -2848,7 +2789,6 @@ WhA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Cool Water. Thc followiug simple method,  
 it is said, will keep water almost as cold as ice:  
 &quot;Let the jar, pitcher, or vessel used for water bo  
@@ -2872,7 +2812,7 @@ dipping a fingor iu water, and holding it in tnr,
 of alr OQ a wftnn day; after doiug this three or four  
 fa wiH find his fi uuoomfortably cold.  
 &#x27; Albany Journal.  
-
+7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF14n_ver01%2Fdata%2F1857080301%2F0539.jp2/pct:79.464286,84.767977,15.587167,9.788641/!600,600/0/default.jpg"/>
 </td>
@@ -2896,7 +2836,6 @@ fa wiH find his fi uuoomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Cool WAper.  The following simple method, it is  
 said, will keep water almaost as cold as ice: &quot;Let the  
 jar, pitcher or vessel used for water be surrounded  
@@ -2914,7 +2853,7 @@ test this by dipping a finger in water, and holding it
 in thear on a warm da after doing this three or  
 four times, he will find his finger uncomfortably cold.  
 ee e o Albany Journal.  
- GEATEST TRIAL O
+ GEATEST TRIAL OF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857080601:0894/pct:84.100332,87.947531,13.370647,7.530864/!600,600/0/default.jpg"/>
 </td>
@@ -2928,12 +2867,13 @@ ee e o Albany Journal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- supply of cold water in warm weather. Any  
+supply of cold water in warm weather. Any  
 singles out the following as worthy of honorable eron an te hi e iin a ine in a  
   
 ter, and holding it in the air on a warm day at  
   
-ter doing this three or four times he will find his
+ter doing this three or four times he will find his  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1857080801:0132/pct:69.910090,44.859671,25.794206,2.089689/!600,600/0/default.jpg"/>
 </td>
@@ -2947,9 +2887,6 @@ ter doing this three or four times he will find his
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-most any form, f ,  
-  
 Cool &#x27;Water. -The following simple method,  
   
 it is sard: will keep wafer almost as cold as ice  
@@ -2983,9 +2920,9 @@ warm day ; after ctping this, three or four times
 be will find his&#x27; finger uncomfortably cold.  
 &#x27; Albany Journal  
   
-
+p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen14n_ver01%2Fdata%2F1857081401%2F0130.jp2/pct:9.207680,63.063547,40.778799,30.785745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestSen14n_ver01%2Fdata%2F1857081401%2F0130.jp2/pct:9.207680,82.556891,13.628989,11.292400/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2997,8 +2934,6 @@ be will find his&#x27; finger uncomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Cool Water.  
   
 The following simple methad, it is  
@@ -3038,7 +2973,7 @@ weather. Any person can test this
   
 lipping a finger in water, and holding  
   
-leeches on when riding in her carriage, had glanced a
+leeches on when riding in her carriage, had glanced at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857081501:0759/pct:38.776196,26.623731,33.656713,67.685545/!600,600/0/default.jpg"/>
 </td>
@@ -3052,28 +2987,7 @@ leeches on when riding in her carriage, had glanced a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-GALLE  
-Y, No. 69, King-street, Alexandria—Great im­  
-provement in the Ambrotypes, or Pictubii on  
-glass, plain or in colors, surpassing in beauty,  
-durability, artistic effect, and life like expres­  
-sion, any style of PORTRAITS ever before  
-drawn by pencil or light.  
-They are without the glare of a Daguerreo­  
-type not reversed, and can be seen in any light  
-aadistinctly as a fine engraving.  
-The beauty of these PICTURES is beyond  
-description; they must be seen to be appreciated.  
-Specimens only at BENNETTS, No. 69, King  
-street, where they are taken daily, without regard  
-to weather. Exhibition free «* 17—dtf  
-Anthracite coal.—We ha?7 a cargo  
-of Anthracite Coal now at the wharf, con­  
-listing of Egg, Range, and Foundry sites, which  
-we will furnish to prompt customers at fair  
-rates, [aug 5] NEVETT k SNOWDEN.  
   
-MISCBLLAWBOUft BBADIKG.  
 HOW TO MAKE WATER COLD WITH­  
 OUT ICE.  
 The following description of ft method of  
@@ -3095,9 +3009,10 @@ i have at bis plaoe of employment two pitchers
 thus provided and with tide and covers, one  
 to oootain fresh water for drinking, tbe other  
 i for evaporation, and be can always bate a  
-supply of cold water in warm weather.&quot;
+supply of cold water in warm weather.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857081801:0167/pct:68.803545,10.804355,26.065977,83.484370/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857081801:0167/pct:81.654357,11.387425,13.215165,11.773797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3109,7 +3024,6 @@ supply of cold water in warm weather.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 To MAKE WATER COLD WiTHOuT IOn.  
 The fol lowing is a simple method of  
 rendering water almost as cold as ice:  
@@ -3128,7 +3042,7 @@ contain fresh water for drinking, the
 other for evaporation, and he can always  
 have a supply of cold water in warm  
 weather.  
-FIRE CRACKER
+FIRE CRACKERS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1857081901:0021/pct:72.109581,70.850348,10.648506,11.145808/!600,600/0/default.jpg"/>
 </td>
@@ -3142,22 +3056,6 @@ FIRE CRACKER
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd incase the whole in  
-a stout overcoat, to shut cut the cold,  
-women, in thin silk dresses, with neck  
-and shoulders hare, or nearly so, say  
-they are perfectly comfortable ! When  
-ruen wear water proof boots over woolen  
-bose, and mease the whole in India rub­  
-ber, to keep them from freezing, women  
-wear their thin hose, and cloth shoes, and  
-pretend not to feel the cold ! -When  
-men caver themselves with fare, and then  
-complain of the severity of the weather.  
-women hang an apology for a bonnet at  
-the back of their beads, and ride Or walk  
-abont in north east winds, professing not  
-to sutler at all !&quot;  
 Cool Water. The following simple  
 method, it is said, will keep water almost  
 as cold as ice : Let the jar, pitcher or  
@@ -3180,9 +3078,9 @@ and holding it in the air on a warm day ;
 after doing this three or four times, be  
 will find his finger uncomfortably cWd.  
 X  
-Albany Journal.
+Albany Journal. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1857082001:0068/pct:31.809701,54.556633,12.518657,21.792595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1857082001:0068/pct:31.809701,63.820194,12.500000,12.529034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3194,20 +3092,7 @@ Albany Journal.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- That the Cotton Merchants and Plant- 14  
-ers throughout the up country, be requested to 4(  
-take the matter into consideration, and co-operate or  
-with us in resisting the unjust exactions of the dl  
-combined Charleston Cotton Presses. 14  
-Resolved, That a copy of these proceedings be  
-forwarded by the Secretary to the said Cotton at  
-Presses, for their deliberate consideration. cc  
-Resolved, That the Cheraw, Charleston, and all j  
-other papers in the State, be requested to publish I at  
-the above proceedings. ] lo  
-The meeting then adjourned.  
-THOS. E. POWE, Chairman, j si  
-G. W. Spencer, Secretary. j cc  
+cc  
 How to Make Water Cold Without Ice.?The | pi  
 following description of a method of rendering j fo  
 . water almost as cold as ice, has been going the 1 e:  
@@ -3227,46 +3112,9 @@ ive at his place of employment two pitchers thus
 ovided and with lids and covers, one to contain  
 esh water for drinking, the other for evaporation,  
 id he can always have a supply of cold water in  
-arm weather
+arm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857082001:0342/pct:70.299235,4.842755,28.949200,93.729500/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Alexandria gazette._](https://www.loc.gov/resource/sn85025007/1857-08-20/ed-1/?sp=1)
-
-#### 1857-08-20 &middot; [Alexandria, D.C.](http://dbpedia.org/resource/Alexandria%2C_Virginia)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-GALLE­  
-RY, No. 69, King street, Alexandria —Great im­  
-provement in the Ambrotypes, or Pictures on  
-glass, plain or in colors, surpassing in beauty,  
-durability, artistic effect, and life like expres­  
-sion, any style of PORTRAITS ever before  
-drawn by pencil or light.  
-They are without the glare of a Daguerreo­  
-type not reversed, and can be seen in any light  
-as distinctly as a fine engraving.  
-The beauty of these PICTURES is beyond &gt;  
-description; they must be seen to be appreciated.  
-Specimens only at BENNETT’S, No. 69, King  
-street, where they are taken daily, without regard  
-to weather. Exhibition free an 17—dtf  
-Anthracite coal—We have’a cargo  
-of Anthracite Coal now at the wharf, con­  
-sisting of Egg, Range, and Foundry sizes, which  
-we will furnish to prompt customers at fair  
-rat* [tug 5] NEVETT k SNOWUEN.  
-  
-niSCELLANEOVS RIAUIKC.  
-BEAUTIFULLY SAID.  
-We make tbe followin
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857082001:0175/pct:68.310897,10.984449,24.702761,83.386109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3278,8 +3126,6 @@ We make tbe followin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
   
   
 Coot Water. At this season of the year a  
@@ -3307,7 +3153,8 @@ in the air on a warm day ; after doing this three
 | being more healthful. The free use of ice water  
 often produces derangement of the internal organs,  
 which, we conceive, is due toa property of the  
-, water independent of its coldness.
+, water independent of its coldness.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1857-08-20_25_35%2Fsim_maine-farmer_1857-08-20_25_35_jp2.zip%2Fsim_maine-farmer_1857-08-20_25_35_jp2%2Fsim_maine-farmer_1857-08-20_25_35_0000.jp2/pct:80.396534,54.214403,12.434349,13.809329/,600/0/default.jpg"/>
 </td>
@@ -3321,7 +3168,7 @@ which, we conceive, is due toa property of the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the fol­  
+the fol­  
 lowing suggestion for making water cold  
 without ice:  
 “Let the jar, pitcher or vessel used for  
@@ -3339,7 +3186,7 @@ drinking, the other evaporation, and he
 can always have a supply of cold water m  
 warm weathen” I  
   
-LANCASTE
+LANCASTER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857082201:0137/pct:16.047685,10.660906,24.316063,87.272303/!600,600/0/default.jpg"/>
 </td>
@@ -3353,21 +3200,7 @@ LANCASTE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e fore part of the head, in­  
-flicted from a rifle gun held in his own  
-hands, and discharged by himself&#x27;  
-No further clue can be given to this mys­  
-tery. No paper or writings of the same  
-day have been found except a letter ad­  
-dressed to a gentleman in New Orleans,  
-ordering a tombstone for his wife, with this  
-inscription :  
-&quot;Blessed are the pure in heart, for they shall see  
-God.&quot;  
-Let the people mourn the loss of a man,  
-who, on the field of battle, and iu the coun­  
-cils of the State and nation, has proved  
-himself to be worthy the proud place al  
+the proud place al  
 ready accorded him in the affections of the i  
 people.  
 How to Make Water Cold Without  
@@ -3391,9 +3224,10 @@ pitchers thus provided and with lids and
 covers, one to contain fresh water for drink-  
 , the other for evaporation, and he can  
 always have a supply of cold water in warm  
-weather.&quot;
+weather.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857082501:0136/pct:54.452434,71.030209,12.804204,22.950094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1857082501:0136/pct:54.452434,79.030652,12.804204,14.949651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3405,7 +3239,7 @@ weather.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the straits  
+the straits  
 which mlitary mon constder to fit Gen Hlare e  
 as the leader of this btah expee  
   
@@ -3430,7 +3264,7 @@ thus provided and with lids
 and covers one to contain fresh water for  
 rinking, the ather for evaporation, and he  
 tan aleiayshave as supply of cold water in  
-wakm weathe
+wakm weathey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1857082801:0601/pct:3.516708,69.957215,18.390972,12.112019/!600,600/0/default.jpg"/>
 </td>
@@ -3444,7 +3278,6 @@ wakm weathe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Ice. Let the jar, piicher or vessel used  
 for water, be surrounded with one or more  
   
@@ -3459,7 +3292,7 @@ pitchers thus provided, and .wiiik lids and
 covers,&#x27; one to contain fresh water for drink­  
 ing, the other for evaporation, and be can  
 always have supply of cold water in  
-warm weather. &#x27;
+warm weather. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm8n_ver01%2Fdata%2F1857082901%2F0325.jp2/pct:43.003619,12.588652,14.098311,7.687437/!600,600/0/default.jpg"/>
 </td>
@@ -3473,7 +3306,7 @@ warm weather. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ei i o  
+ei i o  
   
 &quot;Let the jar, pitcher or vessel used for wa­  
 ter be surrounded with one or more folds of  
@@ -3483,7 +3316,7 @@ from the inside and reduce it to a freezing
 point.&quot; In India and other tropical climates,  
 where ice caunot be procured, this is common.  
   
-Let every mechanic and laborer have in hiso closely that the smell o
+Let every mechanic and laborer have in hiso closely that the smell of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296527:1857082901:0099/pct:46.763460,85.781774,28.271829,5.105151/!600,600/0/default.jpg"/>
 </td>
@@ -3497,7 +3330,7 @@ Let every mechanic and laborer have in hiso closely that the smell o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the damp mould  
+the damp mould  
 place of employment two pitchers thus proviame into m noti an i not tini  
 ded, and with lids or covers, one to contain chiin or evoting e this o ma uge  
 e ae o dii te oe o eao e ena onito ae  a en  
@@ -3508,7 +3341,8 @@ Any person
 a test this by dipping a finger in water, and  
 holding it in the air on a warm day; after do  
 ing this three or four times he will fnd his  
-finger uncomfortably cold.
+finger uncomfortably cold.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296527:1857082901:0099/pct:46.823956,90.170680,28.231498,5.669003/!600,600/0/default.jpg"/>
 </td>
@@ -3522,17 +3356,7 @@ finger uncomfortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-g from my native  
-State, a State in which many years of my life have been employed in farming. -In  
-Ohio, the third State of this confederacy, agriculture is the great interest. As a  
-  
-science it has been lamentably neglected in years past, but a better day is da ®ning  
-  
-in our State. Agricultural reading, agricultural schools,and every thing pertaining  
-to the subject is constantly progressing, and I hope the day is not far distant when  
-Ohio shall stand foremost in every department of agriculture.”  
-  
-Weare sorry when New-York looses such farmers as the above, but are glad  
+as the above, but are glad  
 when Ohio gains them.—Eb.  
   
 How to make Water Cold without Ice.  
@@ -3548,9 +3372,9 @@ from the inside and reduce it toa freezing point. In India and other tropical cl
 where ice can not be procured, thisiscommon. Let every mechanic and laborer have  
 at his place of employment two pitchers thus provided, and with lids and covers, one  
 to contain fresh water for drinking, the other for evaporation, and he can always have  
-a supply of cold waterin warm weather
+a supply of cold waterin warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-farmers-magazine_1857-09_10_3%2Fsim_american-farmers-magazine_1857-09_10_3_jp2.zip%2Fsim_american-farmers-magazine_1857-09_10_3_jp2%2Fsim_american-farmers-magazine_1857-09_10_3_0062.jp2/pct:12.894376,33.974359,67.043896,28.568376/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-farmers-magazine_1857-09_10_3%2Fsim_american-farmers-magazine_1857-09_10_3_jp2.zip%2Fsim_american-farmers-magazine_1857-09_10_3_jp2%2Fsim_american-farmers-magazine_1857-09_10_3_0062.jp2/pct:12.894376,44.123932,66.941015,18.418803/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3562,8 +3386,6 @@ a supply of cold waterin warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 How to make Colil &quot;tValcr ivitliotlt  
   
 Ice. J&quot;  
@@ -3587,7 +3409,7 @@ pitchers &#x27;.ihilSlpnWea wln ,i(ls ahd cotert,
 one to contain fresh wateY for drinking, the  
 other for ( evaporation, and he catf always  
 iive a suddIv of cold water in warm weatl  
-er
+er.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB1n_ver01%2Fdata%2F1857090201%2F0110.jp2/pct:68.162606,3.667016,14.669319,15.811030/!600,600/0/default.jpg"/>
 </td>
@@ -3601,7 +3423,6 @@ er
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 How ro Mans Warea Cotn Wrrn  
 les.The following description of a  
 method of rendering water almost as  
@@ -3626,7 +3447,7 @@ covers, one to contain fresh water for
 drinking, the other for evaporation, and  
 he can alw ays have a supply of cold wa  
 ter in warm weather.  
-THE SPIDER AND TH
+THE SPIDER AND THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1857090201:0354/pct:82.148126,62.494357,15.102784,14.559819/!600,600/0/default.jpg"/>
 </td>
@@ -3640,7 +3461,7 @@ THE SPIDER AND TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nst  
+st  
 him.  
 To Make Water Cold Without Ice.  
 The following is a simple method of render­  
@@ -3658,7 +3479,7 @@ and with lids or covers, one to contain fresh
 water for drinking, the other for evaporation,  
 and ho can always havo a supply of cold wa­  
 ter in warm weather.  
-The Failure of th
+The Failure of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857090801:0107/pct:78.880554,57.543149,13.646855,11.005753/!600,600/0/default.jpg"/>
 </td>
@@ -3672,7 +3493,7 @@ The Failure of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+forthwith.  
 To Make Water Cold Without Ice.—The  
 following is a simple mode of rendering water  
 almost as cold as ice; Let the jar. pitcher or  
@@ -3693,7 +3514,7 @@ in the air on a warm (lay; after doing this three
 or four times he will find his finger uncomfort­  
 ably cold.  
   
-Wai.keb an
+Wai.keb and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1857090901:0236/pct:5.712659,6.185984,20.440311,90.107817/!600,600/0/default.jpg"/>
 </td>
@@ -3707,8 +3528,6 @@ Wai.keb an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 How to Maxg Warer Cotp Witnovt Icz.—The following  
 description of a method for rendering water nearly as cold as ice, has been  
 going the rounds of the press for many . Just now it is “in  
@@ -3721,7 +3540,7 @@ tropical climes, where ice cannot be procured, this is common. Let every me-
 chanic and laborer have at his place of employment, two pitchers thus  
 provided and with lids or covers, one to contain fresh water for drinking, the  
 pa or for evaporation, and he can always have a supply of cold water in warm  
-weathe
+weather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_leslies-weekly_1857-09-12_4_93%2Fsim_leslies-weekly_1857-09-12_4_93_jp2.zip%2Fsim_leslies-weekly_1857-09-12_4_93_jp2%2Fsim_leslies-weekly_1857-09-12_4_93_0012.jp2/pct:63.677450,23.468750,27.378687,6.421875/600,/0/default.jpg"/>
 </td>
@@ -3735,8 +3554,6 @@ weathe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 chimneys from the earth.  
   
 Oh no, not exactly s-s-so far gone,  
@@ -3748,7 +3565,8 @@ work-house,&quot; said the Recorder.
 said Alleck, &quot;I-I T&#x27;am used to it; but­  
 when you tot-talked about mem-mar;  
   
-riage, old fellow, you Iisirigtenen,
+riage, old fellow, you Iisirigtenen,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1857092401:0262/pct:67.387600,48.515340,25.874951,5.820262/!600,600/0/default.jpg"/>
 </td>
@@ -3762,8 +3580,6 @@ riage, old fellow, you Iisirigtenen,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 To make Water cold without Ice.  
   
 Let the jar, pitcher or vessel used for water be sur-  
@@ -3771,7 +3587,8 @@ rounded with one or more folds of coarse cotton, to be
 constantly wet. The evaporation of the water will carry  
 off the heat from the inside and reduce it to a freezing  
 point. In India, and other tropical climes, where ice  
-cannot be procured, this is common.
+cannot be procured, this is common.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1857-10-17_12_42%2Fsim_flag-of-our-union_1857-10-17_12_42_jp2.zip%2Fsim_flag-of-our-union_1857-10-17_12_42_jp2%2Fsim_flag-of-our-union_1857-10-17_12_42_0006.jp2/pct:78.381459,40.458015,12.291033,3.403308/600,/0/default.jpg"/>
 </td>
@@ -3785,7 +3602,7 @@ cannot be procured, this is common.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ed to, and he is soon to wear on his shaggy neck a silver  
+d to, and he is soon to wear on his shaggy neck a silver  
 collar, on which is engraved a certificate of his worth. St. Louis Leader.  
   
 To make Warer cotp wirnout Ice.—The following is a simple method of render-  
@@ -3799,7 +3616,8 @@ the other for evaporation, and he can always have a supply of cold water in warm
 weather, Any person can test this by dipping a finger in water, and holding it in the  
 air on a warm day; after doing this three or four times, he will find his finger uncom-  
   
-fortably cold.
+fortably cold.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_metropolitan-a-monthly-magazine-devoted-to-religion_1857-11_5_10%2Fsim_metropolitan-a-monthly-magazine-devoted-to-religion_1857-11_5_10_jp2.zip%2Fsim_metropolitan-a-monthly-magazine-devoted-to-religion_1857-11_5_10_jp2%2Fsim_metropolitan-a-monthly-magazine-devoted-to-religion_1857-11_5_10_0042.jp2/pct:9.268537,69.939759,70.691383,17.108434/600,/0/default.jpg"/>
 </td>
@@ -3813,7 +3631,6 @@ fortably cold.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Coot Watdl The following simple method, it is  
 aid, wDl keep water almost as cool as ice : Let ths  
 jar, pitcher, or vessel used Ibr water, be surrounded  
@@ -3829,7 +3646,7 @@ and he can always have a supply of cold water in
 warm weather. Any person can test this by dipping  
 finger in water, and holding it in the air on a warm  
 day; after doing this three or four times he will find  
-his finger uncomfortably cold
+his finger uncomfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1857111201:0082/pct:6.451613,13.705145,12.797462,6.841764/!600,600/0/default.jpg"/>
 </td>
@@ -3843,14 +3660,15 @@ his finger uncomfortably cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Let the jar,  
+Let the jar,  
 pitcher or vessel used f6r water be surrounded  
 ! with on .3 or more folds of coarse cotton, to  
 be constantly wet. The evaporation of the  
 ; water will carry off the heat.. from the inside,  
 and reduce it to a freezing point. In India  
 and other tropical climates, where ice cannot  
-bo procured, this is oommon. j j
+bo procured, this is oommon. j j  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AshNMF2n_ver01%2Fdata%2F1858022501%2F0232.jp2/pct:3.740970,48.407281,14.899381,4.560106/!600,600/0/default.jpg"/>
 </td>
@@ -3866,7 +3684,7 @@ bo procured, this is oommon. j j
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- stale of fusion. To makb  
+stale of fusion. To makb  
 wathu cold in Summer.- The following is  
 a simple method of rendering water  
 almost as cold as ice. Let the jar,  
@@ -3877,7 +3695,7 @@ coarse cotton, to be constantly wet. The
 the heat fronvthe inside, and reduce it  
 to a freezing point. In India, and other  
 tropical climes, 1 where ice cannot be  
-procured, this is common. 
+procured, this is common. f
 </td></tr></table>
 
 ---
@@ -3888,7 +3706,7 @@ procured, this is common.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. |  
+|  
   
 Coor. Warer.— At this season of the year,  
 a cool draught of water is a luxury which  
@@ -3918,6 +3736,7 @@ often produces derangement of the internal
 organs, which, we conceive is due to a prop­  
 erty of the water independent of its coldness.  
 —Maine Farmer.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023814:00517015301:1858071601:0051/pct:3.813747,18.331303,17.472284,18.321153/!600,600/0/default.jpg"/>
@@ -3932,10 +3751,6 @@ erty of the water independent of its coldness.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
-  
-  
 COOL WATER.  
   
 At this season of the year a cool draught of  
@@ -3968,7 +3783,7 @@ dent of its coldness.—Maine Farger.
   
 ELOQUENCE OF THE BAR.  
   
-A man was charged in one of th
+A man was charged in one of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_flag-of-our-union_1858-07-17_13_29%2Fsim_flag-of-our-union_1858-07-17_13_29_jp2.zip%2Fsim_flag-of-our-union_1858-07-17_13_29_jp2%2Fsim_flag-of-our-union_1858-07-17_13_29_0002.jp2/pct:66.169725,67.960696,12.327982,14.432990/,600/0/default.jpg"/>
 </td>
@@ -3982,8 +3797,6 @@ A man was charged in one of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 year, a cool draught of water is luxury ! therefore he could not consistently wiih-l y &#x27;  
   
 Yiuii.li Bcmii-tiijij hiui a nine care. . nom ins support l rom mm.  
@@ -3993,7 +3806,7 @@ pensive, water may be kept almost as cool OKeevil is indebted to cash sales and
 at ice. Lt the jar, pitcher, or vessel used; &quot;air prices for Ins tremendous run of cus­  
 for water, be surronnjed with one or more j loin under the Giant Hat on house top  
   
-b
+be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1858072901:0084/pct:18.838686,55.914737,29.462285,7.749859/!600,600/0/default.jpg"/>
 </td>
@@ -4007,8 +3820,6 @@ b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 folds of coarse cotton, lo be kept constantly  
 wet; the evaporation of the water will carry  
 off the heat from the inside and reduce it  
@@ -4024,7 +3835,7 @@ have a supply of old water in warm
   
 tarJ4f Vi p A nir rW mvah f V. ! - L..  
   
-dipppin a finger ii vValer,. and holding it 
+dipppin a finger ii vValer,. and holding it I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1858072901:0084/pct:18.707991,63.608131,13.200149,7.340486/!600,600/0/default.jpg"/>
 </td>
@@ -4038,8 +3849,6 @@ dipppin a finger ii vValer,. and holding it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 in the air on a warm day, after doing this  
   
 three or four limes he will find his linger  
@@ -4059,7 +3868,7 @@ Maiae Farmer.
 A Jraoa who had &quot;Scauptts.&quot; Du  
   
 ring tbe trial or rortman, at Covington,  
-Ky., one of th
+Ky., one of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1858072901:0084/pct:18.670650,70.948617,13.237491,7.086392/!600,600/0/default.jpg"/>
 </td>
@@ -4073,10 +3882,6 @@ Ky., one of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
-  
-  
 COOL WATER.  
   
 At this season of the year a cool draught of  
@@ -4110,6 +3915,7 @@ internal organs, which, we conceive, is due to a
 property of the water independent of its coldness.  
 —Maine Farmer.  
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-a-monthly-journal_1858-08_10_8%2Fsim_new-england-farmer-a-monthly-journal_1858-08_10_8_jp2.zip%2Fsim_new-england-farmer-a-monthly-journal_1858-08_10_8_jp2%2Fsim_new-england-farmer-a-monthly-journal_1858-08_10_8_0020.jp2/pct:14.622642,7.918782,73.506289,80.507614/,600/0/default.jpg"/>
@@ -4126,7 +3932,7 @@ property of the water independent of its coldness.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- directions,  
+directions,  
 and finish with a bit of clean dry  
 flannel. This will produce a glass, like  
 a mirror, and, to those who di-like the  
@@ -4153,7 +3959,7 @@ may test this by dipping their finger in
 water, anti holding it in the air on a  
 warm day, after doing this three or four  
 times he will find the finger un-.  
-coomfortably cold
+coomfortably cold.
 </td></tr></table>
 
 ---
@@ -4164,8 +3970,6 @@ coomfortably cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Cool Water.  
 At this season of the year a cool draught of  
 water is a luxury which we may enjoy with a  
@@ -4194,7 +3998,7 @@ conceive, is due to a property of the water in­
 dependent of its coldness.—Maine, Farmer.  
   
 GBEA T  
-
+B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1859063001:0139/pct:7.599720,8.360344,27.781666,86.207667/!600,600/0/default.jpg"/>
 </td>
@@ -4210,7 +4014,7 @@ GBEA T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l in Central America.  
+in Central America.  
 To Make Water Cold for Summer.— The  
 following is a simple method of  
 rendering water almost as cold as ice.  
@@ -4221,7 +4025,7 @@ wet. The evaporation of the water will
 carry off the heat from the inside, and  
 reduce it to a freezing point. la India,  
 and other tropical climes where ice  
-cannot be produced, this is common
+cannot be produced, this is common.
 </td></tr></table>
 
 ---
@@ -4234,7 +4038,6 @@ cannot be produced, this is common
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 Manchester Guardian. To MAKE WATEB COLD  
 FOR SUMMEH.-The following is a simple  
 method rendering water al-most as cold  
@@ -4246,7 +4049,7 @@ water will carry off the heat from the
 inside, and reduce it to a freezing  
 point. In India, and other tropical  
 climes where ice can-not be produced,  
-this is common
+this is common.
 </td></tr></table>
 
 ---
@@ -4259,7 +4062,7 @@ this is common
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. To  
+To  
 Make Water Cold ron Summer. — The  
 following is a simple method of  
 rendering water almost as cold as ice.  
@@ -4271,7 +4074,7 @@ water will carry off the licat from the
 inside, and reduce it to a freezing  
 point. In India, and other tropical  
 climes, where ice cannot be produced,  
-this is common.
+this is common. 
 </td></tr></table>
 
 ---
@@ -4282,8 +4085,6 @@ this is common.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 Coot WATER —The following simple method,  
 it is said, will keep water almost as cold twice:  
 Let the jar, pitcher or vessel used for water, be  
@@ -4305,7 +4106,7 @@ Any person can attest this by dip­
 pingw a finger in water, and holding it in the  
 air on a Warm -day. After doing this three or  
 four times he will find hie finger uncomfortably  
-cold
+cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aesculapius_ver01%2Fdata%2Fsn84035983%2F000001903%2F1863082501%2F0581.jp2/pct:81.373134,86.792517,14.855721,9.367347/!600,600/0/default.jpg"/>
 </td>
@@ -4319,7 +4120,7 @@ cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- time!  
+time!  
 The following simple method, it is said, will  
 keep water almost as cold as ice. Let the  
 jar, pitcher, or vessel used for water, be sur­  
@@ -4328,7 +4129,8 @@ ion, to be constantly wet. The evaporation of
 water will caryoff the heatfrom the inside and re­  
 duce it to a cold point. In India, and other  
 tropical climes, where ice cannot be procured,  
-this is common.
+this is common.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663547:1863082801:0302/pct:12.624179,19.234914,29.237353,11.314655/!600,600/0/default.jpg"/>
 </td>
@@ -4342,8 +4144,6 @@ this is common.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-‘  
-  
 on: Walk—The follnwlngsimplmnellml,  
 it, is said. will kee&#x27;p water lmont an col-l as  
 ice :‘ Let the jar, pitcher Er vess&#x27;el used for  
@@ -4359,7 +4159,7 @@ pitplmni thus provided, angl mu; liés or
 «Swat-s. one t 9 contain fresh Water for drink­  
 his; ilm other [or evqpomtion, and he &#x27;can  
 nlyvgtya&#x27;gm&#x27;ve asupply ol‘wld wawrin warm  
-wax h
+wax he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_trumanhs_ver01%2Fdata%2Fsn85055100%2F000001895%2F1863083101%2F0133.jp2/pct:43.933570,85.221459,12.364479,7.473323/!600,600/0/default.jpg"/>
 </td>
@@ -4373,7 +4173,6 @@ wax h
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Cool Water.—The following simple method, it is said,  
 will keep water almost as cold as ice : Let the jar, pitcher,  
 or vessel used for water be surrounded with one or more  
@@ -4389,7 +4188,7 @@ warm weather. Any person can attest this by dipping a
 finger in water and holding it in the air on a warm day.  
 Aft-r doing this three or four times he will find his finger  
 uncemfortably cold —Exchange paper.  
-Mary B. Sumner has presented at the office of th
+Mary B. Sumner has presented at the office of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_anderson_ver01:data:sn83026172:00211678380:1863090901:0478/pct:20.260912,84.984520,15.364793,7.847106/!600,600/0/default.jpg"/>
 </td>
@@ -4413,8 +4212,6 @@ Mary B. Sumner has presented at the office of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Coon Water.-The following simple method,  
 it is said, will keep water almost as cold as ice:  
 Let the jar, pitcher, or vessel used for water, be  
@@ -4435,7 +4232,7 @@ four times, he will find his finger comfortably
 cold.-E2CHANGE PapeR.  
   
 The last distance, it will be observed, is with­  
-in a fraction of fiv
+in a fraction of five
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1863100701:0161/pct:67.217631,48.549406,25.329854,25.768119/!600,600/0/default.jpg"/>
 </td>
@@ -4449,7 +4246,6 @@ in a fraction of fiv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Cooi. Wit**.— Tho following simple  
 method, it in said, will keep water almost tis  
 colli as ieo : Lot the jar, pitcher, or Tewwl  
@@ -4468,7 +4264,7 @@ ply of cold water in warm weather. Any
 (tcrson can attest this by dipping a finger in  
 water and holding it it* tho air on a warm  
 day. After doing this three or four times  
-ho will find his finger uncomfortably cold
+ho will find his finger uncomfortably cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1863100901:0170/pct:17.566228,50.814104,12.806347,9.269803/!600,600/0/default.jpg"/>
 </td>
@@ -4492,7 +4288,6 @@ ho will find his finger uncomfortably cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 of the circle, and you have the centre of  
 the meridian. The shadow of the pin  
 on that lino is yonr noon mark. Having  
@@ -4519,7 +4314,7 @@ person can attest this by dipping a finger
 in water and holding it in tbe air on a  
 warm day. After doing this three or four  
 times he will find-his finger uncomforta­  
-bly cold
+bly cold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555626:1865062201:0376/pct:52.226277,47.385794,12.572993,14.853446/!600,600/0/default.jpg"/>
 </td>
@@ -4533,7 +4328,14 @@ bly cold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the  
+keep their roads in  
+good order.  
+  
+Cool Water.—At this season of the year a  
+cool draught of water is a luxury which we  
+may enjoy with a little care. By the follow¬  
+ing method, simple ard inexpeusive, water  
+may be kept almost as cold as ice. Let the  
 jar, pitcher, or vessel used for water, be sur¬  
 rounded with one or more folds of coarse  
 cotton, to be oonstautly wet; the evapora  
@@ -4546,9 +4348,95 @@ laborer have at the place of his work two
 pitchers thus provided, and with lids or cov¬  
 ers, one to contain fresh water for the evap¬  
 oration, and lie can always have a supply of  
-cold water in warm weather
+cold water in warm weather. Any person  
+may test this by dipping a finger in water  
+and bolding it in the air on a warm day;  
+after doing this three or four times, he will  
+find his finger uncomfortably cool. This  
+plan will save the bill for ice, besides being  
+more healthful. The free use of ice water  
+often produces derangement of the internal  
+organs, which, we conceive, is due to a prop¬  
+erty of the water independent of its cold-  
+nesa —Mai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1865-06-22_36_25%2Fsim_evangelist-and-religious-review_1865-06-22_36_25_jp2.zip%2Fsim_evangelist-and-religious-review_1865-06-22_36_25_jp2%2Fsim_evangelist-and-religious-review_1865-06-22_36_25_0006.jp2/pct:19.838710,51.259158,13.403226,6.456044/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1865-06-22_36_25%2Fsim_evangelist-and-religious-review_1865-06-22_36_25_jp2.zip%2Fsim_evangelist-and-religious-review_1865-06-22_36_25_jp2%2Fsim_evangelist-and-religious-review_1865-06-22_36_25_0006.jp2/pct:19.838710,46.153846,13.435484,16.208791/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The West Virginia journal._](https://www.loc.gov/resource/sn84026789/1865-06-28/ed-1/?sp=4)
+
+#### 1865-06-28 &middot; [Charleston, W. Va.](http://dbpedia.org/resource/Charleston%2C_West_Virginia)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+bear the sword in vain.&#x27;&quot; ItyM. Jtiii.  
+Cool Water.  
+I  
+At this season of the year a cool  
+draught of water is a luxury which we  
+may enjoy with a little care. JJythe;  
+following method, simple and iocspen-!  
+sive, water may be kept almost a; cold :  
+as ice. Let the jar. pitcher, or vessel I  
+used for water, be surrounded with one­  
+or more folds of coarse cotton, to be  
+constantly wet : the evaporation of the  
+water will carry of: the heat from the  
+inside, and reduce it to a low tempera- i  
+ture. In Indi.i and other tropical coun­  
+tries, where ice cannot be procured, this &#x27;  
+expedient is common. Let every me- 1  
+chanie and laborer have at the place cfi  
+his work two pitchers thus provided, and!  
+with iids or covcrs, one to contain fresh j  
+water for the evaporation, and he can al-j  
+wavs have a supply of cold water in :  
+warm weather. Any person may test  
+this&#x27; by dipping a finger in water and;  
+holding it in the air on a warm day : ? ;  
+after doing this three or four times he,  
+will find hi- finger uncomfortably cool, j  
+i his plan will save &#x27;the bill for ice. be-!  
+sides being more healthful. The free&#x27;  
+u-e of ice water often produces derange- i  
+merit of the internal organs, which, we i  
+conceive, is due to a property of the wa ? j  
+f^r independent of its coldness. ? Mti
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865062801:0150/pct:15.825583,54.214394,14.118006,20.250702/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Erie observer._](https://panewsarchive.psu.edu/lccn/sn86053495/1865-06-29/ed-1/seq-1/)
+
+#### 1865-06-29 &middot; [Erie, Pa.](http://dbpedia.org/resource/Erie%2C_Pennsylvania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+_ Coos. Werra.—At .this season of the  
+year a cool draught of water becomes a  
+luxury. By the following method water  
+may be kept in a simpre and inexpensive  
+manner, almost as cool as ice. Let the  
+jar, pitcher or earthen vessel used for  
+water, be surrounded with one or more  
+folds of coarse cotton, to be kept con­  
+stantly wet. The evaporation of the water  
+will carry off the heat from the inside, and  
+reduce it to a low temperature. In India  
+this expedient is very common. It saves  
+the ice bill and is more healthful than ice  
+water.  
+  
+Canteens are covered upon this princi­  
+ple. Mechanics and laborers
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diusFidius_ver01%2Fdata%2Fsn86053495%2F000002284%2F1865062901%2F0201.jp2/pct:41.848674,75.016513,13.041147,7.334875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4560,7 +4448,12 @@ cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice, Let the  
+$&lt; ee  
+COOL WATER. eo  
+AT this season of the year a cool draught of water  
+is a luxury which we may enjoy with a little care,  
+By the following method, simple and inexpensive,  
+water may be kept almost as cold as ice, Let the  
 jar, pitcher, or vessel used for water, be surrounded  
 with one or more folds of coarse cotton, to be con.  
 stantly wet ; the evaporation of the water will  
@@ -4571,9 +4464,19 @@ mon. Let every mechanic and laborer have at the
 place of his work two pitchers thus provided, ang  
 with lids or covers, one to contain fresh water for  
 the evaporation, and he can always have a supply  
-of cold water in warm weather
+of cold water in warm weather. Any person may  
+test this by dipping a finger in water and holding it  
+in the air on a warm day ; after doing this three or  
+four times, he will find his finger uncomfortably  
+cool. This plan will save the bill for ice, besides be.  
+ing more healthful. The free use of ice water often  
+produces derangement of the internal organs, which,  
+we conceive, is due to a property of the water inde  
+pendent of its coldness.— Maine Farmer.  
+  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_genesee-farmer_1865-07_26_7%2Fsim_genesee-farmer_1865-07_26_7_jp2.zip%2Fsim_genesee-farmer_1865-07_26_7_jp2%2Fsim_genesee-farmer_1865-07_26_7_0003.jp2/pct:54.519544,14.682112,37.418567,16.433190/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_genesee-farmer_1865-07_26_7%2Fsim_genesee-farmer_1865-07_26_7_jp2.zip%2Fsim_genesee-farmer_1865-07_26_7_jp2%2Fsim_genesee-farmer_1865-07_26_7_0003.jp2/pct:54.315961,7.139009,37.662866,35.721983/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4585,7 +4488,12 @@ of cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice : Let the jar, pitcher,  
+,Cool Water.  
+At this season of the year a cool draught  
+Ol water is a luxury which we may enjoy  
+with a little care. By the following method,  
+simple and inexpensive, water may be kept  
+almost as cold as ice : Let the jar, pitcher,  
 or vessel used for water, be surrounded  
 with one or more folds of coarse cotton, to  
 be constantly wet; the evaporation of the  
@@ -4598,9 +4506,21 @@ have at the place of bis work two pitchers
 thus provided, and with lids or covers, one  
 to contain fresh water for the evaporation,  
 and he can always have a supply of water  
-in warm weather
+in warm weather. Any person may test  
+this by dipping a finger in water and hold-  
+ing it in the air on a warm day; after doing  
+this three or four times, he will fiud his  
+finger uncomforably cool. This plan will  
+save the bill lor ice, besides being more  
+healthful. The free use of ice water often  
+produces derangement of the internal or-  
+gans, which, we conceive is due to a proper-  
+ty of the water independent of its coldness.  
+[Maine Farm er.  
+  
+A DaaoO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7r4x54hv4v%2Fxt7r4x54hv4v_jp2.zip%2Fxt7r4x54hv4v_jp2%2Fxt7r4x54hv4v_0000.jp2/pct:55.497969,24.803317,12.298641,5.783542/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7r4x54hv4v%2Fxt7r4x54hv4v_jp2.zip%2Fxt7r4x54hv4v_jp2%2Fxt7r4x54hv4v_0000.jp2/pct:55.427931,22.645120,12.368679,12.896024/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4612,7 +4532,19 @@ in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar, pitcher, or  
+age  
+in very active exercise immediately  
+after eating, and in this case it should  
+be imperative. —Lancet and Observer.  
+  
+COOL WATER.  
+  
+At this season of the year a cool  
+draught of water is a luxury which  
+we may enjoy with a little care. By  
+the following method, simple and in­  
+expensive, water may be kept almost  
+as cool as ice. Let the jar, pitcher, or  
 vessel used for water, be surrounded  
 with one or more folds of coarse cot­  
 ton, to be constantly wet; the evapo­  
@@ -4627,9 +4559,80 @@ two pitchers thus provided, and with
 lids or covers, one to contain fresh  
 water for the evaporation, and he can  
 always have a supply of cold water  
-in warm weather
+in warm weather. Any person may  
+test this by dipping a finger in water  
+&#x27;and- holding it in the air on a warm  
+day; and after doing this three or  
+four times, he will find his finger un­  
+comfortably cool. This plan will save  
+the bill for ice, besides being more  
+healthful. The free use of ice water  
+often produces derangement of the in­  
+ternal organs, which, we conceive, is  
+due to a property of the water inde­  
+pendent of its coldness. —Maine far­  
+mer.  
+  
+A NEWCOLOR.  
+  
+A new color called “green cinna­  
+bar” is stated, by a foreign contempo­  
+rary, to be prepared in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002751%2F1865070601%2F0002.jp2/pct:79.208955,68.013668,14.009950,10.017085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002751%2F1865070601%2F0002.jp2/pct:79.189055,60.607636,14.054726,28.814441/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Evansville daily journal._](https://www.loc.gov/resource/sn86059181/1865-07-11/ed-1/?sp=4)
+
+#### 1865-07-11 &middot; [Evansville, Ind.](http://dbpedia.org/resource/Evansville%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+a bit would  
+the kae ano in aon sa a t  
+fling ividence as that   
+  
+Cool WATER.--At this season of the  
+year a cool draught of water is a luxury  
+which we may enjoy with a lttle care.  
+By the following method, simple and in  
+axpensive, water may be kept almost a  
+cool as ice water: Let the jar, pitcher,  
+or vessel used for water, be surrounded  
+with one or more folds of coarse cotton  
+ to be constantly wet, the evaporation of  
+the water will carry off the het from th  
+inside, and reduce it to a low temprature.  
+In India and other tropical countries  
+where ice cannot be procured, this expe  
+dient is common. Let every mechanie  
+and laborer have at the place of hi  
+work two pitchers thus provided, an  
+with lids or covers, one to contain fresh  
+water for the evaporation, and he can al  
+  
+ways have a supply of water in warm  
+  
+IB weather. Any person may test this by  
+  
+dipping a finger in water and holding hi  
+  
+in the air on a warm day;wafter doing  
+this three or four times, herwill find his  
+finger uncomfortably cool. This plan  
+will save the bill of ice, besides being  
+more healthful. The free use of ice was  
+ter often produces derangement of the  
+internal organs, which we conceive is  
+due to a property of the water indepen­  
+dent of its coolness--MMainE FARMER.  
+  
+The Influence
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022056:1865071101:0399/pct:8.558626,34.317073,11.217326,16.597561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4641,7 +4644,12 @@ in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar, pitcher  
+Cincinnali Commercial.  
+How To COoL WATER- At this season of the  
+year a cool draught of water is a luxury, which  
+we may er)y with a little care. By the follow  
+ug method, simple and int xpensive, water may  
+be kept almost as cold as ice. Let the jar, pitcher  
 or vessel used for water, be surrounded with one  
 or more folds of coarse cotton, to be constantly  
 wet; the evaporation of the water will carry off  
@@ -4652,9 +4660,18 @@ is common. List every mechanic and laborer
 have at the pince of his work two pitchers thus  
 provided, and with lids or covers, one to contain  
 fresh water for the evaporation, and he can always  
-have a supply of cold water in warm weather
+have a supply of cold water in warm weather.  
+Any person may test this by dipping a finger in  
+water and hoiding it in the air on a warm day;  
+alter doing this three or four times he will find  
+his finger uncom ortably cool. Ihis plan will  
+save the bill for ice, besides being more healthful.  
+The free use of ice water often produces derange­  
+ment of the internal organs, which, we conceive.  
+is due to a propetty of the water independent of  
+its coldness.--MMaInE FArMEr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199288:1865071101:1084/pct:18.002653,40.200669,12.374455,5.578595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199288:1865071101:1084/pct:17.945803,37.270903,12.431306,12.668896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4666,7 +4683,11 @@ have a supply of cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as  
+How TO COOL WATER.—AS this season of  
+the year, a cool draught of water is a luxury  
+which we may enjoy with a little care. By  
+the following method, simple and inexpen­  
+sive, water may be kept almost as cold as  
 ice: Let ajar , pitcher, or vossel uaed for  
 water, be surrounded with one or more folds  
 ot coarse cotton, to be constantly wet; the  
@@ -4679,9 +4700,19 @@ and laborer have, at the place of his work,
 two pitchers thus provided, aud with lids or  
 covers, one to contain fresh water for the  
 evaporation, aod be can always have a sup­  
-ply of cold water in warm weather
+ply of cold water in warm weather. Any  
+person may test this by dipping a finger in  
+water, and holding it in the air on a warm  
+day. After doing this three or four times,  
+he will find his finger uncomfortably cool.  
+This plan will save the bill for ice, besides  
+being more healthful. The free use of ice  
+water often produces derangement of the in­  
+ternal organs, which, we conceive, is due to  
+a property of the water, independent of its  
+coldness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1865071201:0589/pct:65.134160,48.399868,14.530049,8.709997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1865071201:0589/pct:65.087086,45.683493,14.624196,17.727923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4693,7 +4724,12 @@ ply of cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a  
+How to Cool Water. As this season of  
+the year, a cool draught &quot;of water ia luxury  
+which we may enjoy with a little care. By  
+the followiog method, simple and inexpert  
+  
+Five, water may be kept almost as coll a  
 ice: Let a jar, pitcher, or vessel used for.  
 water, be surrounded by one or more folds  
 of coarse cotton, to be constantly wet; the  
@@ -4706,9 +4742,19 @@ chanic and laborer have, at the place of his
 work, two pitcher thus provided, and with  
 11 Ja or covers, one to contain fresh water  
 for the evaporation, and he can always have  
-a supply of cold water in warm weathe
+a supply of cold water in warm weather  
+Any person may lest this by dipping fin  
+ger in water, and holding it irt t&#x27;te air o i a  
+warm day. Alter doing this three or four  
+times, be will find his finger uncomfortably  
+cool.- This plan will save the bill of ice,  
+besides being more healthy. The tree ffse  
+of ice water often produces derangement of  
+the internal organs, which, we conceive, is  
+doe to a property of the water, independent  
+nf y f nldn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85025182:00212477898:1865071901:0218/pct:83.726813,83.641038,12.928612,8.728675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85025182:00212477898:1865071901:0218/pct:83.712760,80.953494,12.942664,17.702734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4720,7 +4766,16 @@ a supply of cold water in warm weathe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar,  
+advance in  
+monej-, and have to pay very high rates to  
+have their heavy load of gold carried; some of  
+them are offering to lend at 1-32 per cent.t but  
+find few borrower*.  
+Cool Watek.?At this season of the year &amp;  
+cool draught of water is luxury which we may  
+enjoy with a little care. By the following  
+method, simple and inexpensive, water may­  
+be kept almost a? cold as ice. Let the jar,  
 pitcher, or vessel used for water,be surmounted  
 with one or more xolds of coarse cotton, to be  
 constantly wet; the evaporation of the water  
@@ -4732,9 +4787,22 @@ every mechanic and laborer have at the place
 of his work two pitchers thus provided, and  
 with lids or covers, one to contain fresh water  
 for the evaporation, and he can always have  
-a supply of cold water in warm weather
+a supply of cold water in warm weather. Any  
+person may test this by dipping a linger in  
+water and holding it in the air on a warm day;  
+after doing this three or four times, he will fltid  
+his linger uncomfortably cool. This plan will  
+1 ave a bill for ice, besides being more healthful.  
+The free \\eeoflM water Often produce de­  
+rangement of the internal organs, which, W*  
+conceive, is dne to a property of the water in­  
+dependent of its colduess.?it aim Farmer.  
+?STThe catafalque used at the obsequies of  
+the late President, Mr. Lincoln, in New York,  
+are to be sold at auction to-morrow The pro­  
+ceeds will be devoted to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045462:00280654231:1865072001:0724/pct:82.963827,83.658238,16.186031,5.480673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045462:00280654231:1865072001:0724/pct:82.963827,79.636850,16.302717,15.250084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4746,7 +4814,17 @@ a supply of cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let tbe jar,  
+.  
+How to Cool Water. At this sea  
+  
+son of tbe year a cool draught of water  
+is a luxury, which rue may enjoy with a  
+  
+little care. By the following method  
+  
+simple and inexpensive, water may be  
+  
+kept almost as cold as ice. Let tbe jar,  
   
 pitcher or vessel used for water, be sur  
   
@@ -4766,9 +4844,30 @@ the place of his work two pitchers thus
 provided, and with lids or covers, one to  
 contain fresh water for the evaporation,  
 and he can always have a supply of cool  
-water in warm weather
+water in warm weather. Any person  
+  
+may test this by dipping a finger in wa  
+  
+ter and holding it in the air on a warm  
+day ; after doing this three or four times  
+he will find his finger uncomfortably cool.  
+  
+This plan will save the bill for ice, be-  
+  
+aides being more healthful. The free  
+  
+use of ice water often produces derange  
+  
+inent ot the internal organs, which we  
+  
+conceive, is due to a property of the ws  
+  
+ter independent of its coldness. Maine  
+  
+farmer.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1865072101:0945/pct:7.622188,55.117000,12.354538,7.908091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1865072101:0945/pct:7.486424,51.719763,12.529092,17.169439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4780,7 +4879,12 @@ water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar, pitcher or vessel  
+to Cool Water. At this season  
+of the year a cool draught of water is a  
+luxury, which we may enjoy with a little  
+care. By the following method simple and  
+inexpensive, water may be kept almost as  
+cold as ice. Let the jar, pitcher or vessel  
 used for water, be surrounded with ono  
 or more folds of coarse cotton, to be con­  
 stantly wet; the evaporation of the water  
@@ -4795,9 +4899,21 @@ oue to contain fresh water for the evapora
   
 tion, and he can always have a supply of  
   
-cool water in warm weather
+cool water in warm weather. Any person  
+may test this by dipping a finger in water  
+and holding it in the air on a warm day;  
+after doing this three or four times he  
+will find his Ginger uncomfortably cool.  
+  
+This plan will save the bill for ice besids  
+being more healthful. The free use of ice  
+water often produces derangement of the  
+internal organs which we conceive, is due  
+to a property of the water indepepdent  
+  
+of its coldness. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197425:1865072601:0166/pct:60.380480,71.228219,14.392060,8.457289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197425:1865072601:0166/pct:60.359801,68.139963,14.433416,17.707891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4809,7 +4925,13 @@ cool water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar, pitch­  
+merce.  
+How to have Cold Water without  
+using Ice.—At this season of the year a cool  
+draught of water is a luxury which we may  
+enjoy with a little care. By the following  
+method, simple and inexpensive, water may  
+be kept almost cool as ice. Let the jar, pitch­  
 er, or vessel used for water, be surrounded  
 with one or more’ folds of coarse cotton, to bo  
 constantly wet; the evaporation of the water  
@@ -4821,9 +4943,19 @@ mechanic and laborer have at the place of his
 work two pitchers thus provided, and with  
 lids or covers, one to contain fresh water for  
 the evaporation, and he can always have a  
-supply of cold water in warm weather
+supply of cold water in warm weather. Any  
+person may test this by dipping a finger in  
+water and holding it in the air on a -warm  
+day ; after doing this three or. four times, he  
+will find it uncomfortably cool. This plan will  
+save the bill for ice, besides- being more  
+healthful. The free use of ice water often pro­  
+duces derangement of the internal organs,  
+which, we conceive, in due to a property, of  
+the water independent of its-coldness.  
+The Manufacture of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110132:1865073001:0006/pct:81.730243,35.837775,12.228509,5.277525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110132:1865073001:0006/pct:81.711991,32.848044,12.356269,12.777850/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4835,7 +4967,14 @@ supply of cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar, pitcher, or  
+turist.  
+  
+At this season of the year a cool  
+draught of water is a luxury which  
+we may enjoy with a little care. By  
+the following method, simple and in­  
+expensive, water may be kept almost  
+as cool as ice. Let the jar, pitcher, or  
 vessel, used for water,&quot;be surrounded  
 with one or more folds of coarse cotton,  
 to be constantly wet; the evaporation  
@@ -4850,9 +4989,23 @@ pitchers thus provided, and with lids
 or covers, one to contain fresh water  
 evaporation, and he can always  
 have a supply of cold water in warm  
-weather
+weather. Any person may test this  
+Dy dipPPbi£ a finger in water and  
+holding it in the air on a warm day;  
+and after doing this three or &quot;four  
+times, he will find his finger uncom­  
+fortably cold. This plan will save  
+the bill of ice, besides being more  
+healthful. The free ‘use of ice water  
+often produces derangement of the in­  
+ternal organs, which, we conceive, is  
+due to a property of the water inde­  
+pendent of its coldness.— Maine Far­  
+mer.  
+  
+M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002751%2F1865080301%2F0034.jp2/pct:79.000000,65.153766,14.124378,10.035656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fufluns_ver02%2Fdata%2F2018264050%2F000002751%2F1865080301%2F0034.jp2/pct:74.671642,59.047690,18.452736,24.231169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4864,7 +5017,13 @@ weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar,  
+tO COOL WaTER.  
+  
+At this season of the year a cool drought  
+of water is a luxury which we may enjoy  
+with a little care. By the following method,  
+simple and inexpensive, water may be  
+kept almost as cold as ice. Let the jar,  
 pitcher or vessel used for water, be sur­  
 rounded with one or more folds of coarse  
 cotton, to be constantly wet; the evapora­  
@@ -4877,9 +5036,23 @@ laborer have at the place of his work two
 pitchers thus provided, and with lids  
 covers, one to contain fresh water for the  
 evaporation, and he can always have a sup­  
-ply of fresh water in warm weather
+ply of fresh water in warm weather. Any  
+one may test this by dipping a finger in wa­  
+ter and holding it in the air on a warm day;  
+after doing this three or four times he will  
+find his finger uncomfortably cool. This  
+plan will save the bill for ice, besides being  
+more healthful. The free use of ice water  
+produces derangement of the internal or­  
+gans, which, we conceive, is due to a pro­  
+perty of the water independent of its cold  
+Haine FHrMer.  
+  
+Wake ful HOurs.  
+  
+There
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1865080301:1191/pct:5.093784,65.470472,12.431041,6.654422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1865080301:1191/pct:5.038617,62.658943,12.486208,16.205143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4895,13 +5068,68 @@ ply of fresh water in warm weather
 
 ---
 
+## [From _Louisville daily Democrat._](https://archive.org/details/xt7g7940vh67/page/n0/mode/1up?view=theater)
+
+#### 1865-08-05 &middot; [Louisville, Kentucky.](http://dbpedia.org/resource/Louisville%2C_Kentucky)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+Cool Water.— At this season of the  
+year a &lt; ool draught of water is a luxury  
+which we may enjoy with a little . tire.  
+Dy the following meth.d, simple ami in-  
+expensive, water maybe kept almost as  
+cold as ice. 1^-t the jar, pitcher, or vessel  
+used for water la- surrounded with one  
+or more folds of coarse cotton, to le con-  
+stantly wet; the evaporation of the wat.-r  
+will carry off the heat from the inside,  
+and reduce it to a low temperature. In  
+India and other tropical &lt;-ouiitri«-s, where  
+i&lt;s- cannot U» procured, this ex|sslient is  
+common. I.wt every mechanic and la-  
+lsirer have at the place of his work two  
+pitchers thus provide), and with lid- or  
+covers, one to i-otitain fresh water for the  
+evaporation, and he can always have a  
+supply of eohl water in warm weather.  
+Any parson may test this hy dipping a  
+linger in water and holding it in the air  
+on a warm day; after doing this thns- or  
+four times, he will tint] his linger uncom-  
+fortably cool. This plan will save the bill  
+for lee, besides leing more healthful. The  
+fnsi use of ice water often pristiues de-  
+rangement of the internal organs, which,  
+we conceive, is due to a property of the  
+water, independent of its coldn.-ss.  
+  
+[Maine Fanner.  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7g7940vh67%2Fxt7g7940vh67_jp2.zip%2Fxt7g7940vh67_jp2%2Fxt7g7940vh67_0000.jp2/pct:62.219666,50.247499,11.026452,11.353344/,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
 ## [From _The Wheeling daily register._](https://www.loc.gov/resource/sn84026847/1865-08-08/ed-1/?sp=3)
 
 #### 1865-08-08 &middot; [Wheeling, W. Va.](http://dbpedia.org/resource/Wheeling%2C_West_Virginia)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar, pitcher, or ves­  
+received her  
+machinery and cabin from the hands of  
+Wheeling mechanics, but her hull was  
+put up at some other port, and not by  
+Messrs. Dunlavy A; Co.  
+Cool W.viek. ? At this season of the  
+year a cool draught of water is &amp; luxury  
+which we may enjoy with a little care ?  
+By the following method, simple and in­  
+expensive, water may be kept almost as  
+cold as ice. Let the jar, pitcher, or ves­  
 sel used for water be surrounded with  
 one or more folds of coarse cottou, to be  
 constantly wet; the evaporation of the  
@@ -4914,11 +5142,110 @@ and laborer have at the place of his work
 two pitchers thus provided, and with lids  
 or covers, one to contain fresh water for  
 the evaporation, and he can always have  
-a supply of cold water iu warm weather
+a supply of cold water iu warm weather.  
+Any person may test this by dipping a  
+finger in water and holding it iu the air /  
+on a warm day ; after doing this three or &#x27;  
+four times, he will find his finger uncom­  
+fortably cool. This plau will save the  
+bill for ice, besides being more healthful.  
+The free use of ice wuter often produces  
+derangement of the internal organs,  
+which, we conceive, is due to a property {  
+of the water, independent of its coldness. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665015:1865080801:0133/pct:16.049018,34.353268,13.509523,8.013266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665015:1865080801:0133/pct:15.886609,27.677330,13.981987,19.674762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
+
+---
+
+## [SCIENTIFIC AND USEFUL.](http://trove.nla.gov.au/ndp/del/article/155042922)
+
+#### From _The Age (Melbourne, Vic. : 1854 - 1954)_
+
+#### 1866-01-04 &middot; [Melbourne, Victoria](http://dbpedia.org/resource/Melbourne)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+invalid. — New York  
+Tribune. How to Cool Wateii. — At this  
+season of the year, a cool draught of  
+water 13 a luxury which we may enjoy  
+with u little care. By the following  
+method, simple and inexpensive, water  
+may be kept almost as cold as ice. Let  
+the jar, pitcher or vessel used for  
+water, be surrounded with one or more  
+folds of coarso cotton, to ba constantly  
+wet ; tho evaporation of tho water will  
+oarry off the heat from the iuside, and  
+reduce it to a low temperature. In India  
+and other tropical countries, whore ice  
+cannot be procured, this expedient is  
+common. Let every meohncic and labarer  
+have at tho place of his work&#x27;liVQ  
+jitchers thai provided, and with lids or  
+covers, one to contain fresh water for  
+the evnporation, and he can always havo  
+a supply of co&#x27;d water in warm weather.  
+Any person may tost this by dipping a  
+finger in water and holding it in tho  
+air on a warm day ; after doing this  
+three or fonr times he will find his  
+finger uncomfortably cool. This plan  
+will save the bill for ice, besides  
+being more heaHhfnl. The free use of ice  
+water often produces deraugement of the  
+internal organs, which, we conceive, is  
+due to a property of the wuter  
+independent of its coldness. — JIaine F  
+rmer. Copper and Cholera. 
+</td></tr></table>
+
+---
+
+## [THINGS WORTH KNOWING.](http://trove.nla.gov.au/ndp/del/article/13124591)
+
+#### From _The Sydney Morning Herald (NSW : 1842 - 1954)_
+
+#### 1866-01-13 &middot; [Sydney, New South Wales](http://dbpedia.org/resource/Sydney)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+TO COOL  
+WAT_K-At tliis season of the year a cool  
+draught of water is a luxury which we  
+may enjoy with a little care. By the  
+following method, simple and  
+inexpensive, water may be kept almostros  
+cold as ice. Let the jar, pitcher or  
+vessel used for water, be surrounded  
+with one or more folds of coarse cotton,  
+tobe constantly wet ; the evaporation of  
+the water will carry off the heat from  
+the inside, and re-duce it to a low  
+temperature. In India and other tropical  
+countries, where ice cannot be procured,  
+this expedient ii- common. Let every  
+mechanic and labourer have at the place  
+of his work two pitchers thus provided,  
+and with lids or covers, one to contain  
+n eui water for the evaporation, and he  
+can always hate a supply of cold water  
+in warm weather. Any person may test  
+this by dipping a finger in water and  
+holding it in the air on a warm day ;  
+after doing this three or four times be  
+will find his finger uncom-fortably  
+cool. This plan will Bavi the bill for  
+ice, be-sides being moie healthful. The  
+free use of ice water often produces  
+derangement of the ititernal organs  
+which, we conceive, is due to aproperty  
+of the water independent of its  
+coldness.-Maine Farmer. 
+</td></tr></table>
 
 ---
 
@@ -4930,7 +5257,7 @@ a supply of cold water iu warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar, pitcher or  
+as ice. Let the jar, pitcher or  
 vessel used for water, be surrounded  
 with one or more folds of coarse cotton,  
 to be constantly wet; the evaporation of  
@@ -4944,7 +5271,7 @@ of his work two pitchers thus provided,
 and with lids or covers, one to contain  
 fresh water for the evaporation, and he  
 can always have a supply of cold water  
-in warm weather
+in warm weather.
 </td></tr></table>
 
 ---
@@ -4957,7 +5284,18 @@ in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the inside, and reduce it  
+TO COOL^ATER, At this  
+season of the year, a cool draught of  
+water is a luxury which we may enjoy  
+with a little care. By the following  
+method, simple and inexpensive, witer  
+may he kept almpt as cold asice. Let the  
+jar, pitohfer or vessel used for water,  
+he surrounded with one or more folds off  
+coarse cotton, to he kept ? j. ? j.i ? ?  
+i. .Li _ «. ? j - n uousLtinuy wee; me  
+evaporation oi the water will oarry &#x27;off  
+the heat from the inside, and reduce it  
 to a low temperature, In India and other  
 tropical countries this expedient is  
 exceedingl^common, Let every mechanic  
@@ -4966,7 +5304,62 @@ work two pitchers thus provided, and
 with lids or covers, one to contain  
 fresh water for the evaporation, and he  
 can always have a supply of cold water  
-in warm weather
+in warm weather. Any person nxay test  
+this by dipping a finger in water and  
+holding it in the air on a warm day ;  
+alter doing this three or four times he  
+will find his finger uncomfortably cool.  
+This plan will save the cost of ice,  
+besides being more healthful. The free  
+use of itie water often produces  
+derangement of the internal organs,  
+which, we conceive, is due 1 o a  
+property of the water independent of its  
+coldness.
+</td></tr></table>
+
+---
+
+## [DESTROY TEE SEEDS OF THISTLES AND OTHER WEEDS.](http://trove.nla.gov.au/ndp/del/article/1261202)
+
+#### From _The Brisbane Courier (Qld. : 1864 - 1933)_
+
+#### 1866-01-23 &middot; [Brisbane, Queensland](http://dbpedia.org/resource/Brisbane)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+TO  
+Cool &quot;WATKB.-At this seasbnjof the year,  
+a cool draught of water is a luxury  
+whioh wo may enjoy willi a little caro.  
+By the follow-ing method, simple and  
+inexpensive, water may be kept almost as  
+cold as ice. Let tho jar, pitcher or  
+vessel used for water, he surrounded  
+with one or moro folds of course cotton,  
+to be constantly wet: the evaporation of  
+the water will carry ?off the heat from  
+the inside, and re-duce it to a low  
+tomporaluro. In Indi» and other tropical  
+countries, whero ico cannot be procured,  
+UIÍB expedient ¡B common. Let evory  
+mechanic and laborer have at the placo  
+of hil work two pitchers thus providod,  
+and with lid» or coycrs, ono to contain  
+fresh water for the evaporation, and ho  
+can always havo a supply of cold wa»er  
+in warm Heather. Any person may test  
+this by dipping a finger in water and  
+holding it in the air on a warm day ;  
+aftor doing this throo or four timeB ho  
+will find his finger uncomfortably cool.  
+This plan will save tho bill for ico  
+besides being moro &quot;healthful. The freo  
+use of ice, water often produces de-  
+rangement of the internal organs, which,  
+we conceive, is due to a property of the  
+water independent of its coldness.-Maine  
+Farmer
 </td></tr></table>
 
 ---
@@ -4979,7 +5372,13 @@ in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar, pitcher, or  
+event. Sow .to Cool  
+Wateb. — At this season of ?&#x27;the year,  
+a. cool draught of water is a luxury  
+which we may enjoy with a little care.  
+By theffollowing method, simple and  
+inexpensive, water may be kept almost as  
+cold as ice. Let the jar, pitcher, or  
 vessel used for water, be surrounded  
 with one or more folds of coarse cotton,  
 to be constantly wet; the evaporation of  
@@ -4993,7 +5392,62 @@ of Ms work two pitchers thus provided,
 and with lids or covers, one to -contain  
 fresh water for the evaporation, and he  
 can always -have a supply of cold water  
-in warm weather
+in warm weather. Any person may test  
+this by dipping a finger -in water and  
+holding it in the air on a warm day;  
+after doing this three or four times he  
+&#x27; will find his .finger uncomfortably  
+cool. This plan will save the bill for  
+ice, besides being more healthful. The  
+free use of ice water often produces  
+derangement of tbe internal organs,  
+which, we conceive, is due to a property  
+ot the water independent of its coldness  
+— Maine Farmer. Tbe half
+</td></tr></table>
+
+---
+
+## [No Title](http://trove.nla.gov.au/ndp/del/article/36632707)
+
+#### From _Launceston Examiner (Tas. : 1842 - 1899)_
+
+#### 1866-02-08 &middot; [Launceston, Tasmania](http://dbpedia.org/resource/Launceston%2C_Tasmania)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+How TO COOL \VATGit.-At this season of  
+tlh y.ar a cool draught of water is a  
+luxury which we may enjipy with a liltle  
+care. By the folIoaing moethIod, imlple  
+and inexpenlive, water water may be kept  
+lmotst as cold as ice. Let the jar,  
+pitcher, or vessel used for water be  
+surro:lnded with one or iore folds of  
+coarse rotlon, In he constantly wel ;  
+the evaporatioil of the w oter will  
+carry off theo het fromt the inside, and  
+iedluce i to a low temperature. It India  
+anId ether tropical eountries, where ice  
+cannot io proullr d this expedient is  
+comnmon. Let every mechanic nod laborer  
+have at the place of his work two  
+pitchers Iusa provided, and with ils or  
+covers, one to couIrill fresh water for  
+tile ovaporation, and he ean always hive  
+a sipply of cohl water in warms wesC  
+tier. An\y pe son may test this by  
+dipping a linlor in witer uad holding It  
+In the air oa a wirm day ; ifter doitug  
+this three or four times he will frld  
+hir tinger uilcomfortably cool. This  
+plan will savi the bill for ice,  
+tbesides being more ihealthfit . &#x27;lThe  
+free use of ic i-water oflen I rodoces  
+derangemettnt of the incrntl organs,  
+whici. se conceive, is due to a property  
+oI the eattC iude, iedent of its  
+coldode-,-Alaine Farmedc
 </td></tr></table>
 
 ---
@@ -5006,7 +5460,7 @@ in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice. Let the jar, pitcher or  
+as ice. Let the jar, pitcher or  
 ves-sel used for water, be surrounded  
 with one or more folds of coarse cotton,  
 to be constantly wet ; the evaporation  
@@ -5020,7 +5474,7 @@ of his work two pitchers thus provided,
 and with lids or covers, one to contain  
 fresh water for the evaporation, and he  
 can always have a supply of cold water  
-in warm weather
+in warm weather.
 </td></tr></table>
 
 ---
@@ -5033,7 +5487,7 @@ in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ss ice. Let the jar  
+ss ice. Let the jar  
 piteher, or vessel used for water, be  
 surrounded with ene or more folds of  
 coarse cotton, to he constantly wet; the  
@@ -5047,7 +5501,18 @@ place df his work two pitchers thug
 provided, and with lids or covers, one  
 to contain fresh water for the  
 evaporation, and he can always, have a&#x27;  
-supply of cold water in warm weather
+supply of cold water in warm weather.  
+Any person may test this by dipping a  
+linger in water and holding it in the  
+air on a warm day; after this three or  
+four times he will find his  
+finger..uncomfortably cooL This plan  
+will save the bill of ice, hesMes being  
+more healthful. The tree.nse of ice  
+water o.^cn produces derangement of tne  
+internal organs, whicSv we conceive, is  
+due to a nrooertv of the water imwadeut  
+of its coldness. Maine Farmer
 </td></tr></table>
 
 ---
@@ -5058,7 +5523,17 @@ supply of cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice : Let  
+termined.  
+Cool Water,? At this season of the  
+year a cup of cold water is a luxury  
+which almost every person appreciates,  
+and now that ice is held at gold prices,  
+many persons are compelled to do with­  
+out it. For the beuefit of those who are  
+thus deprived of their accustomed lux­  
+ury we give the following, which is  
+ttimflle and inexpensive, and by which  
+water may be kept as cool as ice : Let  
 the jar, pitoher, or vessel used for water,  
 be surrounded with ono or more folds of  
 coarse cotton, to be kept constantly wet;  
@@ -5072,9 +5547,15 @@ have at the place of his work two
 pitchers thus provided, and with lids or  
 covers, oue to contain fresh water for  
 the evaporation, and he can always have  
-a supply of cold water in reach.
+a supply of cold water in reach.  
+? m  
+Haki&gt; Up.? We on Saturday night saw  
+a man claiming to hail from Beluiont  
+couuty, Ohio, who had evidently, before  
+coming to this city, resolved to destroy  
+all onr bad whiskey, and was putting his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665027:1866070201:0629/pct:1.015303,29.845002,14.081813,7.822740/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665027:1866070201:0629/pct:1.015303,23.041714,14.140671,18.287735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5086,7 +5567,6 @@ a supply of cold water in reach.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 ns ice : Let the jar, pitcher&quot; or vessel used  
 for water, be surrounded with one or more  
 folds of coarse cotton, to be constantly wet.  
@@ -5100,7 +5580,7 @@ pitchers thus provided, and with lids or
 covers, one to contain fresh water for drink  
 ing, tbe other for evaporation, and be can  
 always haye a supply of cool water in warm  
-weather
+weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555638:1869062401:0537/pct:56.240768,44.798273,12.296898,6.409391/!600,600/0/default.jpg"/>
 </td>
@@ -5114,7 +5594,7 @@ weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r may be kept almost as cool ns  
+may be kept almost as cool ns  
 ice. Let ajar, pitcher or vessel used for  
 water, bo surrounded with one or more folds  
 of coarse cotton, to be constantly wet; the  
@@ -5127,7 +5607,7 @@ and laborer have at the place of his work
 two pitchers thus provided, and lids or cov­  
 ers, one to supply water for the evaporation,  
 and he can always have a supply of cold  
-water in warm weather.
+water in warm weather. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558030:1871080501:0130/pct:3.823529,10.402950,14.980392,7.716618/!600,600/0/default.jpg"/>
 </td>
@@ -5141,7 +5621,7 @@ water in warm weather.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- It will  
+It will  
 cure the sting of bees, spiders and other  
 insects, and persons who have been  
 poisoned by a low running vine called  
@@ -5161,7 +5641,7 @@ dia and other ticipi&amp;tl climes, where ice
 provided, and with lids or corers—one to  
 `contain water for drinking, the other for  
 evaporation—and he em always have a  
-supply of cold water in warm weather
+supply of cold water in warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002384%2F1871080901%2F0116.jp2/pct:8.358969,76.724522,11.694866,10.109776/!600,600/0/default.jpg"/>
 </td>
@@ -5175,7 +5655,7 @@ supply of cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- η s ioe. Let a Jar. pltcheror vfessel  
+η s ioe. Let a Jar. pltcheror vfessel  
 used for water be surrounded with one  
 or more folds of coarse cotton, to be  
 constantly wet; the evaporation of the  
@@ -5189,7 +5669,7 @@ the place of his work two pitchers thus
 provided, and lld-s or covers, one to  
 «upply water for the evapoiatlon, and  
 he can always have a supply of cold  
-water in warm weather
+water in warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279553901:1872070901:0031/pct:6.649037,29.012987,11.673593,6.766234/!600,600/0/default.jpg"/>
 </td>
@@ -5203,7 +5683,7 @@ water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, will be urrested.  
+will be urrested.  
 How to. Have Cold Water without Ice.  
 Let a jar, pitcher or vessel used for water be  
 surrounded with one or more folds of coarse cot­  
@@ -5216,7 +5696,8 @@ mechanic and laborer have at the place of his
 work two pitchers thus provided, aud lids or  
 covers, one to supply water for lhe evanoraiion,  
 and he can always have a supply of void water  
-in warm weather.
+in warm weather.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872071901:0682/pct:15.269063,60.322492,10.857577,5.195700/!600,600/0/default.jpg"/>
 </td>
@@ -5240,8 +5721,6 @@ in warm weather.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Let a jar, pitcher or vessel used for  
 water be surrounded with one or more  
 folds of coarse cotton constantly wet;  
@@ -5257,7 +5736,7 @@ covers, one to supply water for the e:ap­
 oration, and hocan always have a supply  
 of cold water in warm weather.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_obamab_ver01%2Fdata%2Fsn83031982%2F000001764%2F1872081401%2F0119.jp2/pct:14.617211,41.136725,9.231544,6.893027/!600,600/0/default.jpg"/>
 </td>
@@ -5271,7 +5750,6 @@ of cold water in warm weather.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Those who are unable to procure ice may find  
 it useful to know that if a jar or pitcher filled  
 with water be surrounded with one or more  
@@ -5280,7 +5758,8 @@ the evaporation of the water will hospi off the
 heat from the inside, and reduce it to a low tem-  
 perature. In India and other tropical countries  
 where ice can not be procured this expedient is  
-common.
+common.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_harpers-bazaar_1872-08-17_5_33%2Fsim_harpers-bazaar_1872-08-17_5_33_jp2.zip%2Fsim_harpers-bazaar_1872-08-17_5_33_jp2%2Fsim_harpers-bazaar_1872-08-17_5_33_0006.jp2/pct:47.574055,58.369408,18.947906,5.122655/600,/0/default.jpg"/>
 </td>
@@ -5294,8 +5773,6 @@ common.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Let a jar, pitcher or vessel used  
 water be surrounded wltu one or more  
 folds of coarse cotton constantly wet;  
@@ -5312,7 +5789,7 @@ the evaporation, and he can always have
 a supply of cold water in warm weath  
 er.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872082201:0519/pct:6.096730,39.854208,9.553815,7.978794/!600,600/0/default.jpg"/>
 </td>
@@ -5326,22 +5803,6 @@ er.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t of  
-merchandise annually brought to that mar­  
-ket, an&lt;J the quantity of cotton, hides, wool,  
-ete., brought to and shipped thence. The  
-Jefferson Democrat of August 31 says that  
-the Board of Trade of that city has been  
-incited to issue this address by misrepre­  
-sentations made of tbe commercial standing  
-of Jefferson, and of the character and con­  
-dition of the navigation from Shreveport  
-up, which are calculated to injure its pros­  
-pects in a commercial point of view.  
-How to Have Cold Water Without Ice.  
-Just now, while ice is scarce, some of our  
-readers may profit by the following in­  
-formation:  
 Let a jar, pitcher, or vessel -used for  
 water be surrounded with one or more folds  
 of coarse cotton, constantly wet; the evap­  
@@ -5354,9 +5815,9 @@ and laborer have at the place of his work
 two pitchers thus provided, and lids or cov­  
 ers, one to supply water for-the evapora­  
 tion, and he can always have a supply of  
-cool water in warm weather
+cool water in warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_growlithe_ver01:data:sn83016555:00295875938:1872091301:0088/pct:30.290456,21.677699,12.396266,13.187373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_growlithe_ver01:data:sn83016555:00295875938:1872091301:0088/pct:30.290456,29.417006,12.396266,5.448065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5370,7 +5831,7 @@ cool water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Those  
+Those  
 who are unable to procn&#x27;rc ice&#x27;may find  
 it useful to know that if a jar or  
 pitcher filled i with water be  
@@ -5381,7 +5842,7 @@ off the heat from the inside, and reduce
 it to a low temperature. In India and  
 other tropical countries where ice  
 cannot be .procured tliis ex-, pedient  
-is common
+is common.
 </td></tr></table>
 
 ---
@@ -5392,7 +5853,6 @@ is common
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 for the seas on.&quot;  
   
 for seas  
@@ -5419,7 +5879,7 @@ always have, a supply of cool water in
 warm weather. Any person may test  
 this by dipping a finger in water and  
 holding it m the air on a warm day ; af­  
-ter doing this
+ter doing this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:0029587613A:1873080801:0343/pct:43.018617,68.297975,12.533245,11.559788/!600,600/0/default.jpg"/>
 </td>
@@ -5433,7 +5893,7 @@ ter doing this
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- etd wit one or more  
+etd wit one or more  
 folds of coarse cotton kept constantly  
 wet. The evaporation of the water will  
 carry off the heat from the inside and  
@@ -5453,7 +5913,8 @@ f at wari Gay, alt
   
 he  
   
-three or four times
+three or four times  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1874061101:0767/pct:9.230141,75.549986,12.293241,7.908661/!600,600/0/default.jpg"/>
 </td>
@@ -5467,7 +5928,7 @@ three or four times
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice  
+as ice  
 I-n-t the ar, pitcher, or vessel used for  
 water be surrounded with one or more  
 folds ,jf coarse cotton kept constantly  
@@ -5481,7 +5942,7 @@ place of employment two pitchers thus
 provided with lids and covers, the one  
 to contain water for drinking, the other  
 ! r vaporafion, and he can always have  
-a supply of cob! water in warm w&#x27;tather
+a supply of cob! water in warm w&#x27;tather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn86053406:00296020709:1874061901:0318/pct:5.377058,73.125137,9.798194,6.113921/!600,600/0/default.jpg"/>
 </td>
@@ -5505,7 +5966,7 @@ a supply of cob! water in warm w&#x27;tather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is a simple  
+is a simple  
 I mode of rendering water almost as  
 cold as ice: Let the jar, pitcher, or  
 Svessel used for water be surrounded  
@@ -5522,7 +5983,7 @@ t with lids and covers. the one to con­
 tain water for driuking, the other  
 for evaporation, and he cani always  
 have a supply of cold water in warm  
-weather
+weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286960:1874070102:0104/pct:14.470116,74.572718,11.009871,11.214124/!600,600/0/default.jpg"/>
 </td>
@@ -5536,7 +5997,7 @@ weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ns ice: Let the jar, pitcher, or  
+ns ice: Let the jar, pitcher, or  
 vessel used for water he surrounded with cnc or  
 i..ore folds of coarse cottou kept constantly wet.  
 &#x27;11 o evaporation of the water will carry off the  
@@ -5548,7 +6009,7 @@ ployment two pitchers thus provided with lids
 and covers, the one to contain water for drink­  
 jng, tho other for evaporation, and he can a!»  
 wfljs have a supply of cold water in warm wea­  
-tl)&lt; r
+tl)&lt; r.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1874070301:0866/pct:3.254619,30.177638,12.724826,7.533960/!600,600/0/default.jpg"/>
 </td>
@@ -5562,7 +6023,7 @@ tl)&lt; r
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, rather than to seek for knowl- i  
+rather than to seek for knowl- i  
 edge under false pretences. ,  
 Have the courago, in providing an en- ,  
 tortainment tor your friends, not to exceod  
@@ -5587,7 +6048,7 @@ two pitchers thus provided
 with lift aod covers, tho ono to contain  
 water lor drinking, the other for evaporation,  
 and ho can alwaya have a supply of  
-cold water in warm weather
+cold water in warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190893:1874070601:0647/pct:12.685460,62.153025,14.812067,13.505338/!600,600/0/default.jpg"/>
 </td>
@@ -5601,7 +6062,7 @@ cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is a simple mode  
+is a simple mode  
 of rendering water almost as cold as  
 ice: L?3t tho jar, pitcher or vossel used  
 for water bo surrounded with one or  
@@ -5617,7 +6078,7 @@ ment two pitchers thus provided with
 lids and covers, the one to coutain  
 water for drinking, the othor for eva?  
 poration, und ho can always have a  
-supply of cold water iu warm woather
+supply of cold water iu warm woather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551220:1874070901:0027/pct:66.192703,83.781177,16.520112,12.015985/!600,600/0/default.jpg"/>
 </td>
@@ -5631,7 +6092,7 @@ supply of cold water iu warm woather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is a simple mode of ren­  
+is a simple mode of ren­  
 dering water almost as cold as ico : Let  
 the jar, pitcher or vessel used for water  
 be surrounded with one or more folds of  
@@ -5646,7 +6107,7 @@ two pitchers thus provided with lids and
 covers, tb9 one to contain water for drink  
 ing, the other for evaporating, and he can  
 always have a supply of cold water in  
-warm weather
+warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779313:1874070901:0677/pct:17.749633,20.165034,12.665198,11.036617/!600,600/0/default.jpg"/>
 </td>
@@ -5660,7 +6121,7 @@ warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a few  
+a few  
 days. One thing is certain, it will be  
 there whether we can sea it or not.  
 a  
@@ -5681,7 +6142,7 @@ employmont two patchers thus provid­
 od with lids and covers, the one to con­  
 tain water for dringing, the other for  
 evaporation, and he can always have a  
-supply of cold water In warm weather
+supply of cold water In warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1874071601:0337/pct:61.231172,60.411278,11.869679,34.079152/!600,600/0/default.jpg"/>
 </td>
@@ -5695,7 +6156,7 @@ supply of cold water In warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as ice : Let the c&lt;  
+as ice : Let the c&lt;  
 jar, pitcher or vessel used for water be surro&quot;un- j .  
 (led with one or more folds of coarse cotton, a  
 kept constantly wet. The evaporation of the j,  
@@ -5708,7 +6169,7 @@ of employment two pitchers thus provided n
 with lids and covers, the one to contain water  
 for drinking, the other for evaporation, aud  
 he can always have a supply of cold water in  
-warm weather
+warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1874071601:0126/pct:1.676568,79.433641,14.666667,6.980912/!600,600/0/default.jpg"/>
 </td>
@@ -5722,7 +6183,7 @@ warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- making water  
+making water  
 cold without the use of ice: “Let the  
 jar, pitcher, or vessel used for water bo  
 surrounded with one or more folds of  
@@ -5736,7 +6197,7 @@ Coffin, of the Gilroy Advocate, thus
 chronicles an incident of the 4th ot July :  
 “ One of our own progeny, a boy six  
 years old, got bold of a little powder, and  
-scattering it on the ground, stoope
+scattering it on the ground, stooped
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557311:1874071801:0130/pct:30.964097,68.577772,12.338254,8.789343/!600,600/0/default.jpg"/>
 </td>
@@ -5750,7 +6211,7 @@ scattering it on the ground, stoope
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is a sim­  
+is a sim­  
 ple mode of rendering water almost as  
 cold as ice : Let the jar, pitcher or ves­  
 sel used for water be surrounded with  
@@ -5767,7 +6228,7 @@ lids and covers, the one containing wa­
 ter for drinking, the other for evapora-  
 tion  
 and be can always have a supply  
-of cold water in warm weather
+of cold water in warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1874071801:0530/pct:77.618490,80.963455,9.976594,7.043189/!600,600/0/default.jpg"/>
 </td>
@@ -5781,8 +6242,6 @@ of cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 off the heat from the inside and re-  
   
 dace it to freezing point. In India  
@@ -5800,7 +6259,7 @@ covers, the one to contain water for
   
 drinking, the otner ior evaporation,  
 and he can always have a supply of  
-cold water in warm weather
+cold water in warm weather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat29n_ver01%2Fdata%2F1874081201%2F0532.jp2/pct:30.012755,74.674593,10.816327,5.677975/!600,600/0/default.jpg"/>
 </td>
@@ -5814,7 +6273,7 @@ cold water in warm weather
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- is a simple mode of ren­  
+is a simple mode of ren­  
 dering water almost as cold as ice, with­  
 out the nse of ice:—Let the jar, pitcher,  
 or vessel for water be surrounded with  
@@ -5823,7 +6282,7 @@ constantly wet. The evaporation of the
 water will carry off the heat from the  
 inside, and reduce it to* freezing point.  
 In India and -other tropical countries  
-where ice cannot be produced, thi
+where ice cannot be produced, this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173381:1876083001:0263/pct:4.042698,75.975428,14.717238,6.641209/!600,600/0/default.jpg"/>
 </td>
@@ -5837,7 +6296,7 @@ where ice cannot be produced, thi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;V  
+V  
 To Mako&quot; Water Cold. ; 1  
 Let the jar, pitcher or Vessel usedjor wa­  
 ter be sorrounded with one or more tolda of  
@@ -5860,7 +6319,7 @@ fortably cold. ,. - . .
 The above is from the Housekeeper&#x27;s Al­  
 manac, published in Philadelphia in 1848,  
 now in the hands of Capt. F. P. Peace.  
-Cored 
+Cored o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021052:1881091001:0246/pct:33.908427,30.387559,12.392170,13.860775/!600,600/0/default.jpg"/>
 </td>
@@ -5874,7 +6333,6 @@ Cored
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 To Make Water Cold. -  
 Let the jar, pitcher or vessel used for wa­  
 ter be surrounded ith one or more folds of  
@@ -5897,7 +6355,7 @@ fortably cold.
 . The above is from the Housekeeper&#x27;s Al­  
 manac, published in Philadelphia in 1848,  
 now in the hands of Capt. F. P. Peace.  
-Donation t
+Donation to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033437:00296021052:1881091101:0247/pct:40.465116,26.320401,12.209302,13.304130/!600,600/0/default.jpg"/>
 </td>

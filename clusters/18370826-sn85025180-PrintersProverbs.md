@@ -1,7 +1,7 @@
 
 # Printers Proverbs
 
-### 223 reprints from 1837-08-26 to 1881-11-03
+### 222 reprints from 1837-08-26 to 1881-11-03
 
 ## [Printers Proverbs](https://chroniclingamerica.loc.gov/lccn/sn85025180/1837-08-26/ed-1/seq-1/)
 
@@ -31,22 +31,7 @@ PRINTERS PROVERBS
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rk, and demanded his  
-funds in specie. It cannot be had was the  
-prompt reply. &quot;It must bo had&quot; was the  
-laconic response of Mr. Randolph. The  
-The bank was incorrigible till the succeed­  
-ing day, when the columns of the New  
-York Columbian announced by advertise­  
-ment, that that afternoon at 2 o&#x27;clock the  
-Hon. Johri Randolph of Roanoke, would  
-address tho people on the subject of banks  
-and the frauds they had committed, from  
-the steps of the bank of America! It is  
-scarcely necessary to say that before tho  
-hour arrived every farthing demanded by  
-Mr. Randolph was paid over in specie.  
-Pittsburg Intel.  
+.  
 PRINTERS .PROVERBS.  
 1. Never enquire thou of the Editor for  
 tho news, for behold it is his duty at the ap­  
@@ -76,7 +61,7 @@ thou may&#x27;st understand it.
 any other: subscribe immediately for it,  
 and pay in advance, and it shall be well  
 with thee and thy little ones. Broivns  
-vill
+villc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1837082601:0082/pct:59.750000,17.392024,36.325000,78.222737/!600,600/0/default.jpg"/>
 </td>
@@ -100,7 +85,6 @@ vill
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Printers’ Proverb-*.— 1 Never enquire |  
 thou of the editor for tfie news; fo he  
 hold, it is his duty at the appointed time •  
@@ -126,7 +110,7 @@ sheet, for it is not ready to meet thine
 eye. that thou mayst understand it.  
 7. Take his paper: subscribe immedi­  
 ately for it, and pay in trlcance, and it i  
-shall be well w th thee and thy little one
+shall be well w th thee and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837091401:0695/pct:54.579008,50.456066,15.790081,14.594102/!600,600/0/default.jpg"/>
 </td>
@@ -140,7 +124,7 @@ shall be well w th thee and thy little one
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ot answer.  
+t answer.  
   
 Phinteh’s Puovkkks.—Never en­  
 quire of the editor for the news; for be­  
@@ -169,7 +153,7 @@ that thou mayst understand it.
 Take his paper : subscribe immedi­  
 ately for it, and pay in advance, and it  
 shall be well with thee and thy little  
-ones
+ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837092001:0531/pct:46.232139,70.854701,14.151497,18.019943/!600,600/0/default.jpg"/>
 </td>
@@ -183,7 +167,7 @@ ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- their addresses  
+their addresses  
   
 PRINTERS’ PROVERBS  
   
@@ -212,6 +196,7 @@ meet thine eye, that thou mavest understand it
 mediately for it, and pay in advance, and it shall be well with thee  
 and thy little ones  
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13%2Fsim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13_jp2.zip%2Fsim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13_jp2%2Fsim_new-york-mirror-a-weekly-gazette-of-literature_1837-09-23_15_13_0007.jp2/pct:64.190628,72.827773,27.582535,15.011637/600,/0/default.jpg"/>
@@ -226,7 +211,7 @@ and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-side of White River.&quot;  
+ide of White River.&quot;  
   
 PRINTER&#x27;S PROVERBS.  
   
@@ -259,7 +244,8 @@ eye, that thou mayest understand it
 7. Prefer thy country paper to any  
 other subscribe immediately for it,  
 and pay in advance, and it shall be  
-well with thee and thy little ones.
+well with thee and thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837100701:0224/pct:67.091926,66.122715,14.435512,19.934726/!600,600/0/default.jpg"/>
 </td>
@@ -273,28 +259,7 @@ well with thee and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o maintain an hon-  
-  
-bis sole dependence was on bis pay  
-&quot;&quot;Maker, be must avoid all extra expenses, in  
-feasts are likewise included.  
-8ettionately reached bim my hand, and invi­  
-aua to be roy guest.  
-l! i?!1 ,ike lo&#x27;feast upon others expense, replied  
-7JlrT-Ttt.od partK-krfy t the expense  
-ry.InBO- I hope you will not consider mv  
-  
-&#x27;u from a. motive of pride my poverty is  
-  
-lucrciore aocs ii not tnrow the least  
-  
-firm as a rock, but his anUgouist was not less per-  
-  
-F-Ou the rhil.Com. liar. aaJ Se.--inel  
-  
-letter raox the secretakv of the TSEA-C- j a(opted for the safe keeping of the pub!  
-  
-HESOLfTIO?.-.  
+.  
   
 PRINTER&#x27;S PROVERBS.  
 1. Never enquiro thou of the editor for the  
@@ -322,9 +287,9 @@ loped in our nature, and the last toucnc.i ny inc 0f time thatcacn nictuoci nas 
 fi.Lnr f decav. Woman ! thy empire is the heart j Rating the several changes, and when made ; what  
   
 and he who would know the capacity ol the hu­  
-man soul for happiness, must y eld himself to th
+man soul for happiness, must y eld himself to thy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744730:1837100701:0643/pct:1.029785,66.014235,78.121039,31.113371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744730:1837100701:0643/pct:31.701521,66.014235,47.449303,10.218607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +301,6 @@ man soul for happiness, must y eld himself to th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-\
 .~ Printers Proverbs.—l. Never inqnire’  
 ‘thou of an Editor for the news ; for behold  
 it is his duty at the appointed time to give  
@@ -360,7 +324,8 @@ meet in the sight of the printer.
 county to any other; (especially if it be  
 democratic ;) subscribe immediately for it  
 and pay in advance, and it shall be well  
-with thee and thy little ones. |
+with thee and thy little ones. |  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837101101:0740/pct:17.016358,11.534968,14.793741,13.636953/!600,600/0/default.jpg"/>
 </td>
@@ -374,8 +339,6 @@ with thee and thy little ones. |
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRINTER’&#x27;S PROVERBS.  
   
 let. Never inquire thou of the Editor for  
@@ -407,7 +370,8 @@ may&#x27;st understand it
 7th, Prefer thy own town’s paperto any  
 other, subacribe immediately for it, and pay  
 in advance; nud it shull be well with thee and  
-thy little ones.
+thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1837101201:0384/pct:4.599077,71.373428,14.857241,15.016810/!600,600/0/default.jpg"/>
 </td>
@@ -421,7 +385,6 @@ thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 9 PRINTER&#x27;S PROVERBS.  
 ? . &#x27;4  
 1. Never enquiro thou of the editor for  
@@ -450,7 +413,8 @@ s for it is not ready to meet thine eye, that
 thou mayest understand it.  
 .. 7. Takehis paper: subscribe immediate.  
 * ly for it, and pay. in advance, and it shall  
-be well with thee and t!iy little ones.
+be well with thee and t!iy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1837101801:0374/pct:19.103314,24.056694,16.917293,17.659452/!600,600/0/default.jpg"/>
 </td>
@@ -464,7 +428,7 @@ be well with thee and t!iy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ice Am Seft, IS37.  
+ice Am Seft, IS37.  
   
 PniNTERs PRovEitBS. 1. Xever  
 iauire thou of an editor for the  
@@ -490,7 +454,7 @@ such things to himself. .
   
 4.Vhcn thou cntercst a printing  
   
-offic
+office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarFPS8n_ver01%2Fdata%2F1837102001%2F0141.jp2/pct:1.876203,13.781734,51.074407,32.498077/!600,600/0/default.jpg"/>
 </td>
@@ -504,7 +468,7 @@ offic
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,threo mile  
+threo mile  
   
 5. Look not at tbe copyrwbicIi4s  
   
@@ -517,7 +481,7 @@ flint ia not meet in the si-ht of the
 own country to any other: snbscribe  
 Tor it and pay in advance and it : shall  
 be, well for thec and thy little ones.  
-, 
+, k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarFPS8n_ver01%2Fdata%2F1837102001%2F0141.jp2/pct:1.619628,41.433125,36.529827,13.166282/!600,600/0/default.jpg"/>
 </td>
@@ -531,8 +495,6 @@ be, well for thec and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
-  
 PRINTERS&#x27; proverbs.., -  
 &quot;1;-N..cr c j thou of the Editor  
 for U. j ! :w3, iov L Jiold it is his duty at  
@@ -545,7 +507,8 @@ the trmh might offend thee. , ; .
 3., It is.not St that thou should ask of  
 hirntTft ho: is the author of anrarticlc;  
   
-We have taken up the idea, we think i for his duty requires him to keep such
+We have taken up the idea, we think i for his duty requires him to keep such  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1837102101%2F0166.jp2/pct:38.724227,5.709365,33.956186,8.438204/!600,600/0/default.jpg"/>
 </td>
@@ -559,26 +522,7 @@ We have taken up the idea, we think i for his duty requires him to keep such
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ns be well enough for more  
-  
-Henry. W, Conned M. T. Hawkina, 0f ouf houorabios ttf take him as an ei-  
-  
-James J. McKay, zxd Samuel T. Saw ; empldr in mercy to their hearers and  
-yer! Now we unhgjuo&#x27; our, dear old UieirwaJerf Uiev.oug!itfc-;::-&#x27;i  
-  
-ItirvVanwinru Consider; this re ; -: All the state papers of our &quot;big men  
-iief-;wj&#x27;fi VV r-&#x27;Oii! I are terribly affected with the same pro-  
-  
-&#x27; - v.i &quot;... i . ,  
-  
-ta!my? that it has been actually survoyed, but  
-arc an i ex we should judge that the re, is something  
-  
-the old gc.  
-  
-wilt be apt  
-  
-lleep,; and lo;  
+and lo;  
   
 ; 7 Prefer thy County (State?) naper  
   
@@ -588,9 +532,10 @@ for,it,,and pay in advance, and it shall
   
 be well with thee and thy little ones.  
   
-ISrvwhsvule Manner.
+ISrvwhsvule Manner.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1837102101%2F0166.jp2/pct:19.737973,21.817459,53.049828,16.531991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1837102101%2F0166.jp2/pct:23.281787,21.817459,49.506014,16.359783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,8 +547,6 @@ ISrvwhsvule Manner.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 l PRINTER&#x27;S PROVERBS. $  
 Ist. Never inquire thou of the Editor for the  
 !news, for Lehold it is his duty at the appointed  
@@ -628,7 +571,7 @@ understand it,
 “subseribe innnediately for it, and pay in advance;  
 ‘and it shall be well with thee and thy little ones.  
   
-- Anecdote of Ge
+- Anecdote of Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_distraughtsoul_ver03:data:sn83021111:00513688908:1837102101:0023/pct:54.912197,14.289114,16.579655,14.967281/!600,600/0/default.jpg"/>
 </td>
@@ -642,7 +585,7 @@ understand it,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ds a multitude.  
+s a multitude.  
   
 PRINTERS’ PROVERBS.  
 I. Never inquire thou of the Editor for the news  
@@ -671,7 +614,7 @@ VIL Prefer thy own city newspaper to any other
 —subscribe immediately for it and pay in advance  
 and it shall be well with thee and thy little ones.  
   
-Brownsville Banner
+Brownsville Banner.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn82015818:00516996961:1837102401:0570/pct:74.085603,12.917512,19.818418,17.032663/!600,600/0/default.jpg"/>
 </td>
@@ -685,7 +628,6 @@ Brownsville Banner
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 PRINTER&#x27;S PROVERBS.  
 I. Never enquire th u of tho Elitor for  
 tho nuws, for behold it is his duty at the ap­  
@@ -713,7 +655,7 @@ sheet! for it is not ready to meet thino eye
 VI. Prefer thy county newspaper lo nny  
 othersubscribe immediately for it, and pay  
 in advance, and it shall bo well tor thee auJ  
-thy lit&#x27; lo onus, llrornsrillc Banner
+thy lit&#x27; lo onus, llrornsrillc Banner.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065592:00415662026:1837102401:0067/pct:78.234824,25.312240,14.916134,16.167083/!600,600/0/default.jpg"/>
 </td>
@@ -731,23 +673,12 @@ thy lit&#x27; lo onus, llrornsrillc Banner
 
 ---
 
-## Long Speeches
-
-#### From _Raleigh register, and North-Carolina gazette._
-
-#### 1837-10-30 &middot; [Raleigh, N.C.](http://dbpedia.org/resource/Raleigh%2C_North_Carolina)
-
-[This text is not available under an open license.]
-
----
-
 ## [From _Fayetteville observer._](https://newspapers.digitalnc.org/lccn/sn83045228/1837-11-15/ed-1/seq-2/)
 
 #### 1837-11-15 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Printers&#x27; Proverbs.-i$ever inquire thou  
 of the editor for the news, for behold it is  
 his duly at the appointed time togive it unto  
@@ -774,7 +705,8 @@ raay&#x27;st understand itZ - -&#x27; ; t;fcfj4:r;
 r reier tny coanirr paper tO.ArtJ&#x27;bther:  
   
 B-iuscnur immeoiaieir &#x27; ior ir, &quot;amj pay in  
-advance; and it slralf Ve well with thee1 and
+advance; and it slralf Ve well with thee1 and  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF8n_ver01%2Fdata%2F1837111501%2F0182.jp2/pct:71.119357,68.041792,16.156463,14.487290/!600,600/0/default.jpg"/>
 </td>
@@ -788,7 +720,6 @@ advance; and it slralf Ve well with thee1 and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 est thou of my piece?&#x27;? for, it way be  
 that the truth may offend the&quot;.  
 It Ts not fit that thou should aski&#x27;P  
@@ -811,7 +742,7 @@ Prefer thy country paper to any
 otlterwSubscriba immediately -for it.  
 and pay in advance; and it shall Ix  
 well with thee and thy little ones.  
-At 
+At a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal11n_ver01%2Fdata%2F1837112201%2F1027.jp2/pct:84.936709,74.883518,14.599156,14.225393/!600,600/0/default.jpg"/>
 </td>
@@ -825,7 +756,7 @@ At
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’s tha fault on it.” \ -  
+s tha fault on it.” \ -  
 Printer&#x27;s Proterbs.—Never inqnire then of  
 the editor for the news, for behold it is his duty  
 at the appointed time to giro it onto thee with­  
@@ -849,7 +780,7 @@ understand it.
 Prefer the paper of thy country to any other;  
 subscribe immediately for it, and pay in advance,  
 and it shall be well with thee and thy little ones.  
-THE ORIGINA
+THE ORIGINAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_errol_ver01:data:sn84045036:00516993583:1837112301:0161/pct:66.195426,3.648502,14.781705,13.584847/!600,600/0/default.jpg"/>
 </td>
@@ -863,7 +794,7 @@ THE ORIGINA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.. :  
+. :  
 Vkister&#x27;s J&#x27;coyERr.s. Never inquire thou l  
 Uie editor (or the. news, tor behold it is hjs duty lit  
 Uio appointed time to give it unto thee wolhotit  
@@ -900,7 +831,7 @@ t . i- .....&quot;..-. . t. . , . . . . . 1 .
 subscribe immediately for it, and pay hi advance, uud 1  
 it&quot;shall be welf with thee and thy littte ooes,  
   
-
+M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838010601:0095/pct:33.135861,66.503067,15.659558,12.706203/!600,600/0/default.jpg"/>
 </td>
@@ -924,8 +855,6 @@ it&quot;shall be welf with thee and thy littte ooes,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &quot;ot ah&#x27;te; without it.  
   
 print in ullice. have a care unto thy  
@@ -938,7 +867,7 @@ for thou mayst caiaie. the printer tnuen
 trouble.  
   
 V. Look not thou at the ropy which  
-ll... 
+ll... I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86053970:0029587885A:1838030701:0356/pct:45.155855,43.623345,30.876158,4.120508/!600,600/0/default.jpg"/>
 </td>
@@ -952,8 +881,6 @@ ll...
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRINTER’S PROVERES.  
 Ist. Never inquire thou of the Editor for the  
 news. for belold itis lus duty at the appointed  
@@ -977,7 +904,7 @@ understand it.
 7th. Preter thy County Paper to any other, sub­  
 scribe immediately for it, and pay in advance;  
 and it shall be,wel{ with thee and thy little ones.  
-A BEAvY Carrtar. The amount of ie i
+A BEAvY Carrtar. The amount of ie in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022931:00542868314:1838033101:0257/pct:80.034958,81.353768,15.167994,13.083582/!600,600/0/default.jpg"/>
 </td>
@@ -991,7 +918,7 @@ A BEAvY Carrtar. The amount of ie i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, .  
+.  
 Printer&#x27;s Proverbs. Never inouire thou  
 of the ediior for the news ; for behold, it is  
 his duty to give it thee at tho appointed  
@@ -1013,7 +940,7 @@ hands of tho compositors ; for it is not moot
 in tho sight of the printer. &#x27; v &#x27;  
 Neither examine thou the proof-sheet ;  
 for it is not roadv to meet thino eye, ihlt  
-thou may est understand it
+thou may est understand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1838052301:0410/pct:83.105939,66.845361,12.172285,12.453608/!600,600/0/default.jpg"/>
 </td>
@@ -1027,7 +954,6 @@ thou may est understand it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 PKINTEirs PltO YEIIBS.  
 lst. Never inquiro thou of tho Editor for the  
 news, for behold it is his diny at the appomicd  
@@ -1048,7 +974,7 @@ uiciit in tho f-ijjlii of tho Printcr.
 (rh. Neither i.&#x27;xnmine tliou tho proof sheer,  
 for it is not rendy to mect thine eye, that thou  
 may&#x27;st undorstnnil it.  
-7th. Prefor ihj&#x27; Count
+7th. Prefor ihj&#x27; County
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1838061201:0183/pct:58.289474,44.579163,17.406015,12.448893/!600,600/0/default.jpg"/>
 </td>
@@ -1064,7 +990,7 @@ may&#x27;st undorstnnil it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; PRINTER&#x27;S PROVERBS.-Never in-  
+PRINTER&#x27;S PROVERBS.-Never in-  
 quire thou of the editor for tho news,  
 for behold ii is his duly ut the  
 appointed time to give it unto tliee  
@@ -1089,7 +1015,7 @@ understand it. Prefer the paper of thy
 county to any other ; subscribe  
 immediately for it, and pay in advance;  
 and it shall be well with thee and thy  
-little ones
+little ones.
 </td></tr></table>
 
 ---
@@ -1135,7 +1061,7 @@ immediately for it, and il
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Printer Awrris. Never iuauire thou of an  
+Printer Awrris. Never iuauire thou of an  
   
 editor &#x27; for tbe news, for behold it is his duty st the  
 PPpoiuiuiT lime to give if to thee without asking.  
@@ -1154,7 +1080,7 @@ PPpoiuiuiT lime to give if to thee without asking.
 &quot;&quot; , ptthe prtwter&quot; A..&quot; t .-  
 - &#x27;. &#x27;. Neither esmine thou the proof-abeet, for it i  
 - : pot ready to mc?t the eye, tbut thou maylit under.  
-&#x27; .Prefer thy town paper to any othe
+&#x27; .Prefer thy town paper to any other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WestCarS1_ver01%2Fdata%2F1838083001%2F0872.jp2/pct:3.227233,41.678341,21.308576,11.571869/!600,600/0/default.jpg"/>
 </td>
@@ -1168,7 +1094,7 @@ PPpoiuiuiT lime to give if to thee without asking.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l.&quot;  
+.&quot;  
 PRINTER&#x27;S PROVERBS.  
 Never inquire thou of an Editor for the  
 news, for behold it is his duty at the appointed  
@@ -1194,7 +1120,7 @@ Prefer thy town paper to any other : sub­
 scribe immediately for it, and pay in advance,  
 that it may be well with thee and thy little  
 ones.  
-The EndoJ the world.?Two or three 
+The EndoJ the world.?Two or three c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838091901:0604/pct:63.762605,64.650602,15.556290,17.132530/!600,600/0/default.jpg"/>
 </td>
@@ -1208,7 +1134,6 @@ The EndoJ the world.?Two or three
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Printerf Proverbn Never inquire ihou of  
 an editor for the hews, for behold it is hjs duty  
 at the appointed time to give it to thee- without  
@@ -1233,7 +1158,7 @@ not ready to meet the eye, that thou may&#x27;stun&quot;
 derstandit. 1 , 4- rt t-  
 1 Pfer thy town paper to anyther; subscribe  
 immediately tor it, and pay in advance; and it  
-shall be weU with the and thy Iittle.ones;
+shall be weU with the and thy Iittle.ones; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalMicro1n_ver01%2Fdata%2F1838092901%2F0053.jp2/pct:39.019916,71.517202,28.668763,25.211506/!600,600/0/default.jpg"/>
 </td>
@@ -1257,7 +1182,7 @@ shall be weU with the and thy Iittle.ones;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-( F RI TITER S FROVERIIS. ,  
+F RI TITER S FROVERIIS. ,  
 . , Never inquire thou of an editor for  
 the news, lor behold it is his duty al  
 the appointed time to give it to thee  
@@ -1286,7 +1211,7 @@ eye, that thou may&#x27;st understand it.
 Prefer thy town paper to any otner­  
 subscribe immediately for it. and pay in  
 advance, and it shall be well with thee  
-and thy little ones. :
+and thy little ones. : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016939:00295878216:1838102001:0611/pct:56.052876,19.049000,33.766234,72.223833/!600,600/0/default.jpg"/>
 </td>
@@ -1300,8 +1225,6 @@ and thy little ones. :
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Printer&#x27;s Proverbs.—Never inquire thou of  
 an Editor for the news for behold 1t is his duty  
 at the appointed time Lo give it unto then with­  
@@ -1327,7 +1250,8 @@ undesstand it, 1 )
   
 Prefes the town paper to any other : subseri.  
 he immediately for it and pay in advonce, thal  
-it may be uII&quot;wIlh thee and thy little ones,
+it may be uII&quot;wIlh thee and thy little ones,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838102001:0765/pct:21.744931,78.330564,14.594450,12.061382/!600,600/0/default.jpg"/>
 </td>
@@ -1341,7 +1265,7 @@ it may be uII&quot;wIlh thee and thy little ones,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-...  
+..  
 .Printer&#x27;s Proverbs.  
   
 Never in quire thou of an Euitur for the  
@@ -1374,7 +1298,7 @@ advande, that it may he well with thee,
 and thy little ones.  
   
 It&#x27;s a sad house where the hen crows  
-lotider than the coc
+lotider than the cock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diana_ver01%2Fdata%2Fsn86071454%2F000002108%2F1838111401%2F0020.jp2/pct:18.917852,73.766546,15.268562,21.774970/!600,600/0/default.jpg"/>
 </td>
@@ -1388,8 +1312,6 @@ lotider than the coc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRINTERS&#x27; PROVERBS.  
 Never enquire thou of an editor for the  
 icws, for behold it is his duty at the ar  
@@ -1418,7 +1340,7 @@ Prefer thy town paper to any other; sub
 file immediately for it and. pay in ad  
 vance, that it may be well with the and thy  
 little ones.  
-
+L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016864:00295878186:1839010101:0620/pct:17.070896,6.808260,14.023632,17.852507/!600,600/0/default.jpg"/>
 </td>
@@ -1432,7 +1354,6 @@ little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 PRINTERS&quot; PROVERBS.  
 Nevpr enquire thou of an editor for tho  
 news, for behold it is his duty t the ujh  
@@ -1459,7 +1380,7 @@ llioij mavst
 paper to nttv other; sub  
 scribe immediately it an l&quot; pay in ad­  
 vance, that it may be well ilh thee and  
-thv little on
+thv little one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065337:00415662002:1839011201:0128/pct:2.000000,8.832891,34.953488,85.848806/!600,600/0/default.jpg"/>
 </td>
@@ -1503,8 +1424,6 @@ thv little on
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Printers&#x27; Proverb.  
 Never innnire thou of the editor for the news  
   
@@ -1537,6 +1456,7 @@ Prefer thy country paper to any other, sub­
 scribe immediately for it, pay in advance,  
 and it shall be well with the and thy little  
 oneB.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840100301:0335/pct:54.331210,6.991442,14.617834,14.140882/!600,600/0/default.jpg"/>
@@ -1551,7 +1471,7 @@ oneB.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the streets again  
+the streets again  
 and then permitted to go to our homes,  
 with head ache enough to last a week.  
 And this is--New York Militia duty.  
@@ -1559,7 +1479,7 @@ A PRIVATE.
 Prefer thy county paper to any  
 other, subscribe immediately for it.  
 pay in advance, and it shall be well  
-with thee and thy little ones
+with thee and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840101501:0888/pct:9.209486,43.262599,14.367589,6.233422/!600,600/0/default.jpg"/>
 </td>
@@ -1573,14 +1493,13 @@ with thee and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 then permitted- to- go.la.iurJiomes, with  
   
 bead ache enough to last a week. And  
 this is New York Militia duty. &quot;T  
   
-A PRIVATE.
+A PRIVATE.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AsvHM2_ver01%2Fdata%2F1840101601%2F0076.jp2/pct:31.353821,58.328471,15.033223,2.333722/!600,600/0/default.jpg"/>
 </td>
@@ -1594,7 +1513,6 @@ A PRIVATE.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Printers Provers.  
 I. Never enquire thou of the editor for the  
 nows; for behold, it is his duty at the appointed  
@@ -1621,7 +1539,7 @@ not understand it.
 Prefer thy county paper to any other; sub­  
 scribe for it immediately, and pay in advance,  
 and it shall be well with thee and thy little ones.  
-We have seen it stated in one of the W
+We have seen it stated in one of the We
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1841082101:0329/pct:25.957001,67.425263,17.514421,14.247239/!600,600/0/default.jpg"/>
 </td>
@@ -1635,8 +1553,6 @@ We have seen it stated in one of the W
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Printers&#x27; Proverbs.  
 1 . Nev.er inquire thou of the editor&#x27; for the  
 news; for behold, it is his duty at the appointed  
@@ -1657,7 +1573,8 @@ hands of the compositors; for that is not meet
 in the sight of the printer.  
 G. .Neither examine thou the proof-sheet,-for  
 it is not ready to meet thine eye, that thou may­  
-est understand it.
+est understand it.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1841110301:0319/pct:57.313830,12.938699,17.652926,14.143659/!600,600/0/default.jpg"/>
 </td>
@@ -1671,7 +1588,6 @@ est understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 PRINTERS&#x27; PROVERBS.  
 1. Never inquire thou of the editor for  
 the news, for behold it is his duty at the ap­  
@@ -1698,7 +1614,7 @@ and thou mayest not understand it.
 er, subscribe for it immediately and pay in  
 advance and it shall be well with thee and  
 thy little ones. Richland Jef.  
-Quite 
+Quite A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065695:00295877583:1841123101:0114/pct:71.901580,44.064490,16.221142,16.830971/!600,600/0/default.jpg"/>
 </td>
@@ -1712,8 +1628,6 @@ Quite
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRINTER&#x27;S PROVERIIS.-1. Never in­  
 quire thou of the editor for the news, for  
 behold it is his duty at the appointed time  
@@ -1741,7 +1655,8 @@ thou mayest not understand it.
 subscribe for  
 .it immediately and pay in  
 advance and tt shall be well with thee and  
-thy. little eves.
+thy. little eves.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002407%2F1842020101%2F0014.jp2/pct:7.101688,65.531716,14.491560,14.846441/!600,600/0/default.jpg"/>
 </td>
@@ -1755,7 +1670,7 @@ thy. little eves.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- thou of the editor for news,  
+thou of the editor for news,  
 for behold it is his duty at the appointed  
 lime to give il unto thee without asking.  
 When thou dost enter a Printing office  
@@ -1769,7 +1684,7 @@ ana tnou becomes i an a Domination, tven as
   
 The following ore the Yei nd on  
   
-the passage-of th
+the passage-of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842021201:0400/pct:65.833989,4.575163,28.933910,89.512084/!600,600/0/default.jpg"/>
 </td>
@@ -1783,8 +1698,6 @@ the passage-of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Printers Proverbs to him.  
   
 T. Never, inquire of the editor for the news;  
@@ -1831,7 +1744,7 @@ ones.,
   
 frTwo men who were engaged on a tar  
   
-raft, going down the rive
+raft, going down the river
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RaspRal1n_ver01%2Fdata%2F1842022601%2F0031.jp2/pct:2.988547,60.696186,43.843951,31.915177/!600,600/0/default.jpg"/>
 </td>
@@ -1845,7 +1758,7 @@ raft, going down the rive
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of Proverbs.  
+of Proverbs.  
 1. Nevor inquire thou of the editor for thd  
 new?, for behold it is his duty at the appointed  
 time to give it to thee withouLasking!  
@@ -1864,7 +1777,7 @@ I eyes of the printer.
 6. Neither examine thou the proof sheet?for  
 it is not ready to meet thine eyes and thou mayest  
 not understand it.  
-7. No
+7. Nor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1842062901:0351/pct:40.828872,11.956945,19.631172,12.138503/!600,600/0/default.jpg"/>
 </td>
@@ -1878,7 +1791,7 @@ not understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- oF Pr­  
+oF Pr­  
 veres.-I Never inquire thou of the editor for  
 the news, for beheld it is his duty at the appointed  
 time to give it to thee without asking!  
@@ -1898,7 +1811,7 @@ the eves of the printer.
 it is not ready to meet thine eye, and thou may-  
 st not understand it.  
 &quot;The work goes brarely on.&quot;-The Sler  
-Register, among th
+Register, among the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842071601:0513/pct:77.954545,51.130602,17.272727,13.114979/!600,600/0/default.jpg"/>
 </td>
@@ -1912,7 +1825,7 @@ Register, among th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of Proverbs.  
+of Proverbs.  
 1. Never inquire thou of the editor tor the  
 news, for behold it is his duty at the appoin­  
 ted time to give it to thee without asking!  
@@ -1938,7 +1851,7 @@ for they have resolved not to marry a man
 who does not take a newspaper ; and whut  
 is still better, they won’t let a fellow look at  
 them if he owe the printer more than one  
-yea
+year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842072101:0504/pct:58.086611,80.622937,17.322139,15.300703/!600,600/0/default.jpg"/>
 </td>
@@ -1952,7 +1865,6 @@ yea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 1. Never inquire thou of the editor for the  
 news, for behold it is his duty at the appointed  
 tune to give it unto lliee without asking.  
@@ -1979,7 +1891,7 @@ J. M&#x27;Elway. Notwithstanding the paper
 was conducted ably by its former editor  
 Col. Switzlbr its readers will lose noth­  
 ing by the change, as the two numbers is  
-sued since Mr. M&#x27;K. has taken charg
+sued since Mr. M&#x27;K. has taken charge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842090301:0519/pct:66.845664,33.571755,14.399364,17.288084/!600,600/0/default.jpg"/>
 </td>
@@ -1993,7 +1905,6 @@ sued since Mr. M&#x27;K. has taken charg
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Never inquire of the printer for news, for  
 behold it is his duty at the  
 appointed time to  
@@ -2014,7 +1925,7 @@ in the sight of the printer.
 When thou dost enter a printing office, have  
 a care upon thyself that thou dost not touch  
 the tvpe; and if thou hast no business with the  
-printe
+printer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016481:00516990703:1844013101:0250/pct:64.022722,69.858901,14.980013,8.976283/!600,600/0/default.jpg"/>
 </td>
@@ -2038,8 +1949,6 @@ printe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- no doubt, also built him  
-self a magnificent mansion—in the air!—  
 Pie.  
 Never enquire thou of an Editor for  
 the news, for behold it is his duty at the  
@@ -2048,9 +1957,10 @@ out asking.
 It is not fit that thou shouldst ask of  
 him who is the author of an article: for  
 his duty requires him to keep such things  
-to himself.
+to himself.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1844030701:0043/pct:15.285794,78.575342,12.995718,6.287671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1844030701:0043/pct:15.323031,79.671233,12.958481,5.191781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2062,7 +1972,7 @@ to himself.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The Heroine of  
+The Heroine of  
 Saratoga.  
   
 Pkintkrs Pkoverbs. Never enquire &#x27;  
@@ -2091,7 +2001,7 @@ ing proof. &quot; .
 Prefer the town paper to any other &#x27;  
 subscribj immediately for it, and  
 pay in advance, that it &#x27;may be well .  
-with thee and thy little ones.
+with thee and thy little ones. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1844032901:0016/pct:79.457683,45.645161,16.146261,17.507331/!600,600/0/default.jpg"/>
 </td>
@@ -2105,10 +2015,6 @@ with thee and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ated &quot;Old Dio  
-rocker.”  
-oo• * ’  
-  
 Printers Prnverbs.—Never en­  
 quire thou of an Editor for the news,  
 for behold it is his duty al the appoin-,  
@@ -2137,9 +2043,10 @@ Prefer the town paper to any other;
 I subscribe immediately for it and pay in  
 advance, that it may be well with thee  
 [a nd thy little ones.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844033001:0212/pct:28.986378,4.866110,31.830929,90.224590/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844033001:0212/pct:45.412660,4.866110,15.404647,19.118917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2151,7 +2058,7 @@ advance, that it may be well with thee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rule,  
+ule,  
 If she’s a fool she&#x27;ll wed the knave;  
 If she’s a knave, the fool.  
   
@@ -2177,7 +2084,7 @@ Neither peep over the outside while it is be-
 ing struck off, or look over the shoulders of  
 the editor while he is reading proof,  
   
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_watchman-examiner_1844-04-19_25_16%2Fsim_watchman-examiner_1844-04-19_25_16_jp2.zip%2Fsim_watchman-examiner_1844-04-19_25_16_jp2%2Fsim_watchman-examiner_1844-04-19_25_16_0003.jp2/pct:40.713802,12.404995,12.127876,13.314332/,600/0/default.jpg"/>
 </td>
@@ -2191,9 +2098,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 Prinrer’s Proverss.—Never inquire thou of  
 an editor for the news, for behold it is his duty at  
 the appointed time, to give it unto thee without  
@@ -2206,7 +2110,7 @@ him to keep such things to himself.
 When thou dost enter into a printing cffice,  
 have a care. to thyself that thou dost not touch  
   
-They were silent, and
+They were silent, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1844-04-26_7_7%2Fsim_christian-secretary_1844-04-26_7_7_jp2.zip%2Fsim_christian-secretary_1844-04-26_7_7_jp2%2Fsim_christian-secretary_1844-04-26_7_7_0003.jp2/pct:55.320755,9.886118,15.761006,16.522678/,600/0/default.jpg"/>
 </td>
@@ -2220,8 +2124,6 @@ They were silent, and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 the type, for thou may cause the printer much  
 trouble.  
   
@@ -2233,7 +2135,7 @@ Neither peep over the outside while it is being
 struck off, or look over the shoulders of the editor  
 while he is reading proof.  
   
-SL S
+SL ST
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_christian-secretary_1844-04-26_7_7%2Fsim_christian-secretary_1844-04-26_7_7_jp2.zip%2Fsim_christian-secretary_1844-04-26_7_7_jp2%2Fsim_christian-secretary_1844-04-26_7_7_0003.jp2/pct:55.182390,26.448066,15.786164,5.468290/600,/0/default.jpg"/>
 </td>
@@ -2247,7 +2149,7 @@ SL S
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in  
+in  
 the tempest that menaces we behold our  
 doom:  
 PRINTERS PROVERBS.  
@@ -2265,7 +2167,7 @@ dost not touch the type, toi thou mayest
 cause the pi inter much trouble.  
 Look not at the copy which is in tha  
 hands of the compositor, for that is not  
-meet in tne aigiu 01 me prime
+meet in tne aigiu 01 me primer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1844042701:0284/pct:77.265372,70.920840,14.684466,12.454105/!600,600/0/default.jpg"/>
 </td>
@@ -2279,7 +2181,6 @@ meet in tne aigiu 01 me prime
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 PniNTnns PltOVERDS.  
 Never innuire thou ol an editor for  
 the news, for behold it is hb duty at  
@@ -2301,7 +2202,7 @@ not meet in the sight of the printer.
 Neither peep over the outside while  
 it is being struck off, or look over the  
 shoulders of the editor while ha is  
-reading proo
+reading proof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065034:00295877649:1844052301:0219/pct:80.145773,79.747360,15.291545,13.719197/!600,600/0/default.jpg"/>
 </td>
@@ -2315,7 +2216,7 @@ reading proo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- published in U-.e town of Holly SP,iv  
+published in U-.e town of Holly SP,iv  
 il Cm. 1. ho j af.ertd.&quot; I Mississippi, once a wd,- lor two feoaths sue  
   
 PRINTERS PROVERBS.  
@@ -2337,7 +2238,7 @@ Neither peep over the outside while it in
 being struck ofT or look over the shoulders  
 0: the editor while he is reading proof.  
   
-k,,
+k,,e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844052501:0390/pct:3.982174,63.656885,31.095457,12.855530/!600,600/0/default.jpg"/>
 </td>
@@ -2351,8 +2252,6 @@ k,,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Printer’s Proverbs. —Never inquire thou of  
 the Printer for the news ; for behold it is his  
 duty at the appointed time to give it unto  
@@ -2377,7 +2276,8 @@ the editor while he is reading proof.
 Prefer the town paper to any other—sub­  
 scribe immediately for it, and pay in advance,  
 that it may be well with thee and thy little  
-ones.
+ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_energytonic_ver01:data:sn82015816:00516995610:1844053101:0502/pct:68.853695,37.973983,14.479638,12.039856/!600,600/0/default.jpg"/>
 </td>
@@ -2391,8 +2291,6 @@ ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
 PRINTER’S PROVERBS.  
 Never cnquire thou of the Printer for the  
 News, for behold it is his duty at the appointed  
@@ -2412,7 +2310,8 @@ being struck off, nor look over the shoulders of
 the Editcr while he is reading proof.  
 Prefer the town paper toany other, subscribe  
 immediately for it and pay in advance, that it  
-may be well with thee aud thy little ones.
+may be well with thee aud thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844070901:0109/pct:80.449239,23.106614,14.600266,9.712080/!600,600/0/default.jpg"/>
 </td>
@@ -2426,7 +2325,6 @@ may be well with thee aud thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Printers Fruuerbs. Never enquire)  
 thou of ihe printer of the News, for bu­  
 liojd if is his duly at tho appointed tt.no  
@@ -2449,7 +2347,7 @@ ing proof.
 A Printing Office. Tha  
 Hill Aurora, with much truth  
 bunker  
-
+s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287940:1844072701:0053/pct:79.104478,45.487708,15.257048,14.845361/!600,600/0/default.jpg"/>
 </td>
@@ -2533,7 +2431,6 @@ Par
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 PRiNTER&#x27;S PROVERBS.  
 &quot;Never inquire thou of the Printer  
 for the news, for behold it is his duty to  
@@ -2561,7 +2458,7 @@ ing
 Like the radiant spot on a banner unfurled!  
   
 ment should not permit any one of  
-them to interfer
+them to interfere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:0020029211A:1845080901:0109/pct:37.329220,4.427814,43.984134,14.889305/!600,600/0/default.jpg"/>
 </td>
@@ -2634,7 +2531,7 @@ ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- PRINTERS&#x27;  
+PRINTERS&#x27;  
 PRECEPTS-For the perusal ofthos« who do,  
 and for those who do not now, but who  
 are about to &quot; tako in&quot; the Colonial  
@@ -2661,7 +2558,7 @@ over the shoulders of the editor while
 ho is reading a proof. Prefer the town  
 paper to any other-subscribo immediately  
 ibr it, and pay in advance, that it be  
-well with theo and &#x27;? thy little ones
+well with theo and &#x27;? thy little ones.
 </td></tr></table>
 
 ---
@@ -2674,7 +2571,7 @@ well with theo and &#x27;? thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- printers&#x27; precepts.  
+printers&#x27; precepts.  
 For the perusal of those who do, and for  
 those who do not now, but who are about  
 to &quot; take in&quot; die South Australian  
@@ -2702,7 +2599,7 @@ be is reading a proof. __ Prefer die
 town paper to any other—subscribe  
 immediately for it, and pay in advance,  
 diat it jbc well with diee and dry  
-little ones.&quot; When the Ear
+little ones.&quot; When the Earl
 </td></tr></table>
 
 ---
@@ -2713,7 +2610,6 @@ little ones.&quot; When the Ear
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 1. Never inquire thou of the editor for the  
 news, fos behold it ishis dufy at the appoint­  
 ed time to give it to thee without askting.  
@@ -2736,7 +2632,7 @@ for it is not ready to meet thine eye, and thou
 mayest not understand it.  
 I When thou sendest a communication to  
 a periodical, do not always expect it to ap-  
-peur in the 
+peur in the n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846123101:1116/pct:45.787126,50.618708,13.095390,11.381432/!600,600/0/default.jpg"/>
 </td>
@@ -2750,7 +2646,7 @@ peur in the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_  
+  
   
 Parsters’ Proverss.—T. Never enquire  
 thou of the editor for the news, for behold it is  
@@ -2784,7 +2680,7 @@ other — subscribe immediately for it and pay
 in advance, nnd it shall be well with thee and  
 thy little ones, — Exeter News Letter.  
   
-
+h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_watchman-examiner_1847-09-10_28_37%2Fsim_watchman-examiner_1847-09-10_28_37_jp2.zip%2Fsim_watchman-examiner_1847-09-10_28_37_jp2%2Fsim_watchman-examiner_1847-09-10_28_37_0003.jp2/pct:33.032194,74.309979,11.842970,14.410828/,600/0/default.jpg"/>
 </td>
@@ -2798,7 +2694,6 @@ thy little ones, — Exeter News Letter.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 s et  
 PrixTer&#x27;s Proveses. Never inquire thou of  
 the Printer for the news; for behold it is his du­  
@@ -2821,7 +2716,7 @@ Prefer the town paper to any other—subscribe
 immediately for it,and pay in advance, that it  
 may be well with thee and thy little ones.  
   
-Expectep Returs or tu
+Expectep Returs or tue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:00542868466:1847091701:0152/pct:83.994902,71.385335,12.490896,9.863805/!600,600/0/default.jpg"/>
 </td>
@@ -2835,24 +2730,7 @@ Expectep Returs or tu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n much  
-truth, and it would be well for all mar­  
-ried persons to bear it in mind. There  
-is nothing that tends so much to keep  
-the fire of love burning brightly, as  
-those little attentions which, before  
-marriage, the parties would consider  
-themselves inexcusable in forgetting.—  
-This laying aside the little endearments  
-that nursed love into being, the very  
-moment that you have sworn to live on  
-it forever, is &quot;almost perjury. Where  
-people are joined for life, it is their  
-mutual interest and duty to render  
-themselves as interesting objects to one  
-another as possible.  
-  
-NEW-ENGLAND RELIGIOUS HERALD.  
+S HERALD.  
   
 PRINTERS’ PROVERBS.  
   
@@ -2883,9 +2761,9 @@ other—subscribe immediately for it and pay in
 advance, and it shall be well with thee and thy  
 little ones.— Exeter News Letter.  
   
-Drat
+Drath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051540:00517174968:1847092501:0568/pct:4.348771,4.303010,65.949119,90.445026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051540:00517174968:1847092501:0568/pct:19.330289,4.303010,50.967602,19.077225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2897,27 +2775,6 @@ Drat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-time was, but time shall be no longer.”’  
-[Paulding.  
-  
-Mvusicar Carecnism. We find the following  
-afloat in the papers :  
-What is a slur ?  
-Almost any remark, which one singer makes about  
-another.  
-What is a rest ?  
-Going out of the choir to get some refreshment  
-during sermon time.  
-What is singing ¢ with the understanding ?’  
-Marking time on the floor with the foot.  
-What is a staceato movement ?  
-Leaving the choir in a huff, because one is dis-~  
-sutisfied with the leader.  
-What is a swell?  
-A professor of music, who pretends to know ev­  
-ery thing about the science, while he cannot conceal  
-his ignorance.  
-  
 PrINTER’S PROVERBS. 1. Never enquire thou of  
 the editor for the news, for behold it is his duty at the  
 appointed time, to give it unto thee without asa’ing.  
@@ -2935,9 +2792,9 @@ compositors, for that is not meet in the sight of the
 printer.  
 6. Neither examine thou the proofsheet; for it is not  
 ready to meet thine eye, that thou mayst understand it.  
-3 [Exete
+3 [Exeter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868272:1847092901:0504/pct:65.689778,60.125652,14.689064,18.767544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84024361:00542868272:1847092901:0504/pct:65.689778,71.060019,14.689064,7.833177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2806,7 @@ ready to meet thine eye, that thou mayst understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’s Miscellany.  
+s Miscellany.  
 PRINTERS PRCVIR38.  
 I. Never enquirer thou of the editor for  
 the news, for behold it is his duty at the ap­  
@@ -2976,7 +2833,7 @@ mavesl understand it.
 VII. Prefer thine own city newspaper, to  
 any other—subscribe immediately lor it and  
 pay in advance, and it shall be well with thee  
-and thy little ones
+and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847102101:0163/pct:69.148537,61.257411,13.222056,14.462981/!600,600/0/default.jpg"/>
 </td>
@@ -3000,7 +2857,7 @@ and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e their pa­  
+ their pa­  
 per for a less price and enable us to con­  
 duct the business much more to the ad­  
 vantage of all concerned.  
@@ -3024,7 +2881,7 @@ hands of the compositors, for that is not meet in
 the sight of the printer.  
 6. Neither examine tho u the proof sheet; for it  
 is not ready to meet thine eye, that thou mayest  
-understand it
+understand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1847102801:0369/pct:68.564676,79.203716,15.191233,13.842070/!600,600/0/default.jpg"/>
 </td>
@@ -3048,7 +2905,7 @@ understand it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y. .  
+. .  
 .&#x27; Printers Proverbs.  
 I. Never enquire thou of the editor  
 for the news, for behold it is his duty at  
@@ -3077,7 +2934,7 @@ VII. Preferthine own county newspa
 pertoany other subscribe immediately  
 for it and pay in advance, and it shall be  
 well withjthee and thy littleones. Exiter  
-News letter; ; .-&quot;&#x27; 
+News letter; ; .-&quot;&#x27; -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847102901:0079/pct:42.668453,72.390015,12.691424,16.839057/!600,600/0/default.jpg"/>
 </td>
@@ -3091,8 +2948,6 @@ News letter; ; .-&quot;&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Printer&#x27;s Pioverbs.  
   
 I. Never inquire thou of the editor for the  
@@ -3138,7 +2993,7 @@ Vll. Prefer thine own county, newspaper to
 any pther subscribe immediately lor it, and  
 pay in advance, and it shall bo well with thee  
   
-and thy little one
+and thy little ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847111301:0349/pct:11.555233,74.729627,16.012597,16.100533/!600,600/0/default.jpg"/>
 </td>
@@ -3152,7 +3007,7 @@ and thy little one
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- . . . &#x27; &quot; &#x27;) -x  
+. . . &#x27; &quot; &#x27;) -x  
 Pkixtebs&#x27; Fhoverbs: Never inquire  
 fhou of the editor for the news,, for.; be­  
 hold it is his &#x27;duty at the- appointed limo  
@@ -3179,7 +3034,7 @@ YH. Prefer thine own city newspaper
 to any other subscribe immediately 1 for  
 it and pay in advance, and it shall be well  
 wilh thee and thy little &quot;, ones. Extra  
-Netts Letter: : - - 
+Netts Letter: : - - -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1847111601:0265/pct:79.052407,29.309577,14.625229,17.327394/!600,600/0/default.jpg"/>
 </td>
@@ -3193,7 +3048,6 @@ Netts Letter: : - -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 FHIN FBR&#x27;S PROVERBS.  
 I Never inquire thou of the editor for the  
 bews, for behol it is his duty at the sppoint­  
@@ -3218,7 +3072,7 @@ mayest uinderstand it.
 VII. Prefor thine own city neu anaper to sy  
 ather--subscribe immediately for i ante  
 n advanse, and it shall be walf with thes  
-and thy little ones
+and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1847112001:0196/pct:69.197531,40.226661,12.191358,14.441203/!600,600/0/default.jpg"/>
 </td>
@@ -3232,7 +3086,7 @@ and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and moved to another steamer; i.e said  
+and moved to another steamer; i.e said  
 he would never travel on n boat where lie caught  
 them peeping!—St. Louts Rev.  
 Printers Proverbs.—ls the following pithy  
@@ -3266,7 +3120,7 @@ VII. Prefer thv own city newspaper to any
 other—subscribe immediately and pay for it in ’ ,  
 ’ advance, nnd it shall be well with thee and thy  
 ■ little ones.—E.ceter News Letlsr. I,  
-The Soft Cour
+The Soft Court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1847120401:0045/pct:62.476460,55.258677,15.630885,19.109365/!600,600/0/default.jpg"/>
 </td>
@@ -3280,7 +3134,7 @@ The Soft Cour
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- THE WISE.  
+THE WISE.  
   
 1. When thou enterest a printing office,  
 have a care to thyself, that thou touch not the  
@@ -3324,7 +3178,7 @@ think less highly of thee. j
 paper ;” because of something which does not  
 quite please thee, for this is not a rule by which |  
 thou thyself wouldst wish to be treated, and it |  
-shows thee to be a person of violent and hasty
+shows thee to be a person of violent and hasty 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_watchman-examiner_1847-12-10_28_50%2Fsim_watchman-examiner_1847-12-10_28_50_jp2.zip%2Fsim_watchman-examiner_1847-12-10_28_50_jp2%2Fsim_watchman-examiner_1847-12-10_28_50_0003.jp2/pct:9.034166,46.323529,12.417871,19.117647/,600/0/default.jpg"/>
 </td>
@@ -3338,7 +3192,7 @@ shows thee to be a person of violent and hasty
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and reach.  
+and reach.  
 ed the same inner treasuries in the souls of the lis-  
 teners. All who were there departed with the most  
 grateful recoliections of the scene.&quot;  
@@ -3371,7 +3225,7 @@ VII. Prefer thy own city newspaper to any oth­
 er--subscribe immediately and pay for it in advance,  
 and it shall be well with thee and thy fittle ones.  
 ErETER NEWeS LeTTER.  
-CoL. WyEKCOP AND CAr
+CoL. WyEKCOP AND CArT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1847121301:0225/pct:28.375286,24.710845,13.681570,15.991972/!600,600/0/default.jpg"/>
 </td>
@@ -3385,7 +3239,7 @@ CoL. WyEKCOP AND CAr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. . C.  
+. C.  
   
 Is there any situation worse than that of  
  ie   
@@ -3424,7 +3278,7 @@ thou mayest understand it.
 7. Prefer thine own county newspaper  
 to any other; and subscribe immediately  
 for it, and pay in advance, and it shall be  
-well with thee and thy little ones.- E
+well with thee and thy little ones.- Er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1848051001:0070/pct:17.993908,78.560115,44.299391,13.736501/!600,600/0/default.jpg"/>
 </td>
@@ -3448,7 +3302,7 @@ well with thee and thy little ones.- E
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- thou of the editor the news for bebuld  
+thou of the editor the news for bebuld  
 it is his duty to give it to thee at the appoinied tiin  
 niuat a­  
 It is nat fit thon &#x27;aldst ask of hi who is the anth  
@@ -3459,7 +3313,7 @@ lype,I
 navest cause the printer much trouble.  
 Prefor thie own country newspapers to anyther  
 settbe immediately for it and pay in advance, and it  
-be well with thee and thy little ones
+be well with thee and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1848071301:0393/pct:35.521309,80.399761,14.749810,5.895734/!600,600/0/default.jpg"/>
 </td>
@@ -3493,8 +3347,6 @@ be well with thee and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 rof the editor for the news, for behold it is his  
 duty at the appointed time to give it un‘o thee  
 ‘without asking. When thou dost write for  
@@ -3512,7 +3364,7 @@ not ready to meet thine cye, that thou muycst‘
 understand it. Preler the best conducted pa-&#x27;  
 per to any other, and subseribe immediately  
 for it, and pay in advanee, anl it sha&#x27;l be well  
-with thee and thy liitle ones
+with thee and thy liitle ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1849030101:0043/pct:59.450072,39.744718,13.082489,11.036532/!600,600/0/default.jpg"/>
 </td>
@@ -3526,7 +3378,7 @@ with thee and thy liitle ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;s Pooveas.—Never inquire  
+s Pooveas.—Never inquire  
 thou of the editor for the ne*s, for behold  
 it u his duty at she appointed time to give  
 it unto thee without asking. When thou  
@@ -3548,7 +3400,7 @@ Asoillse immediately for it, and pay in ad­
 wssitie,ind- it shall be well with thee and  
 thy,iitile ones.  
   
-.
+. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002391%2F1849030201%2F0026.jp2/pct:52.046010,61.660179,6.323799,11.288927/!600,600/0/default.jpg"/>
 </td>
@@ -3562,7 +3414,7 @@ thy,iitile ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- ends the race!  
+ends the race!  
   
 Puintehs&#x27; Proverbs Never inquire thou of  
   
@@ -3590,7 +3442,7 @@ iiiuu ones. .. v v - &#x27;
   
 LitportTAST to California Emicraiits. Gen  
 Smiih, on his way out to California, sent an ira­  
-portani notification to ihe 
+portani notification to ihe U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmChron1n_ver01%2Fdata%2F1849031401%2F0800.jp2/pct:80.665669,69.756999,15.164547,13.774432/!600,600/0/default.jpg"/>
 </td>
@@ -3604,7 +3456,7 @@ portani notification to ihe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-re of the day.  
+e of the day.  
 T.  
 PRINTERS’ Proverbs.—Never inquire thou of the editor  
 for the news, for behold it is bis duty at the appointed time to  
@@ -3623,7 +3475,7 @@ and pay in advance, and it shall be well with thee and thy
 little ones.—Picayune.  
 If IDUSTRI is no more than habit, it is at least an excel­  
 lent one. “ If you ask me which is the real hereditary sin of  
-human nature, do you imagine I shall answer pride, or
+human nature, do you imagine I shall answer pride, or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_custer_ver01:data:sn83026172:00211678100:1849031401:0318/pct:20.920304,79.121274,15.543960,9.960493/!600,600/0/default.jpg"/>
 </td>
@@ -3641,13 +3493,13 @@ human nature, do you imagine I shall answer pride, or
 
 ---
 
-## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1849-03-17_4_26/page/n5/mode/1up?view=theater)
+## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1849-03-17_4_26/page/n5/mode/1up?view=theater)
 
 #### 1849-03-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-many good inventors, have sunk into  
+any good inventors, have sunk into  
 the grave amid poverty and suffering.  
   
   
@@ -3677,6 +3529,7 @@ and pay in advance, and it shall be well with
   
 ‘hee and thy little ones.  
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_scientific-american_1849-03-17_4_26%2Fsim_scientific-american_1849-03-17_4_26_jp2.zip%2Fsim_scientific-american_1849-03-17_4_26_jp2%2Fsim_scientific-american_1849-03-17_4_26_0005.jp2/pct:67.705167,71.891801,19.630193,18.262769/,600/0/default.jpg"/>
@@ -3691,7 +3544,6 @@ and pay in advance, and it shall be well with
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 fciffht of rood -breeding Neiiher exoini b u, A. umgariaj Jam P ibrooki 23,cotrin  
 ihou the proof-sheet, for until read j to meet &quot;e.cle&#x27; U mui. sod a.se.,.-. o.&quot;rw-  
   
@@ -3701,6 +3553,7 @@ I&#x27;refvr tile best contiuciea paper to any
 other, and subscribe immediately for it and  
 pay in advance,&#x27; an,d it sUuil be well witn  
 thee and tby litile ones.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm2n_ver01%2Fdata%2F1849032201%2F0283.jp2/pct:6.598297,8.158996,30.321207,4.262552/!600,600/0/default.jpg"/>
@@ -3715,7 +3568,7 @@ thee and tby litile ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-many  
+any  
 gool inventors have sunk Into the grave  
 amid poverty ancf suffering 2 ,  
 PiUr Z RS&#x27;- PRO VJSR33,  
@@ -3740,7 +3593,7 @@ ihlrte eye, thou mayest not ur.derstand it
 Prefi r the best conducteil paper to any  
 other, and subscribe immediately for it and  
 pay in itdvance, and it shall be Well witn  
-thee and thy little-ones. ... ;
+thee and thy little-ones. ... ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekComW1n_ver01%2Fdata%2F1849032301%2F0122.jp2/pct:68.343899,19.002841,15.742208,15.221863/!600,600/0/default.jpg"/>
 </td>
@@ -3754,7 +3607,6 @@ thee and thy little-ones. ... ;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Printer&#x27;s Proverbs. Never inquire thou  
 of the editor for the news, for behold it is  
 his duty at the appointed time to give it  
@@ -3776,7 +3628,7 @@ best conducted paper to any other, and
 subscribe immediately for it, and it shall be  
 well with thee and thy little ones.  
 A Costly Pen. Gen. Taylor is abont  
-to b
+to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1849032601:0570/pct:25.241228,30.895853,17.127193,18.012029/!600,600/0/default.jpg"/>
 </td>
@@ -3800,7 +3652,7 @@ to b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, Onedia county.  
+Onedia county.  
 PRINTERS&#x27; PROVERBS. Never inquire j  
 thou of the editor for ihe news, for behold it &#x27;  
 his duty at the appointed time td give it nnto i  
@@ -3823,7 +3675,7 @@ sight of. good breeding. Neither, examine
 thou the proof sheet, for it is not Veaily to  
 meet thine eye, J.hat you mayest understand  
 Oil Contract Taken. The iovernment  
-ontract
+ontract 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC1n_ver01%2Fdata%2F1849040701%2F0027.jp2/pct:24.920255,77.271841,14.526847,13.114275/!600,600/0/default.jpg"/>
 </td>
@@ -3837,7 +3689,7 @@ ontract
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-■ &#x27;  
+&#x27;  
 rjuxTEw&#x27;s-PnavEan&#x27;s.—Never inquire thou of  
 the editor for newr, for behold it.; h&lt;s duty at the  
 appointed time to give it unto thee w ithout asking.  
@@ -3849,7 +3701,7 @@ thor of ,;n ad ’ for h! d&quot;ty require., him to k; ■ p
 such things to hint elf. When thou dost enter in­  
 to his office, have a cure unto thy .-.elf that thou do t  
 not look at w hut m - v be Iv ir g open, for it is not  
-meet in the o
+meet in the oi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1849042701:0111/pct:77.265284,71.190987,13.837336,6.877682/!600,600/0/default.jpg"/>
 </td>
@@ -3883,7 +3735,7 @@ meet in the o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the world of  
+the world of  
 spirits!&quot;  
   
 Printers&#x27; Proverbs. Never inquire  
@@ -3911,7 +3763,7 @@ ones.
 Good Advice. John H. P rentier, in  
 his recent valedictory on retiring from the  
 editorial chair, which he had filled for  
-forty-two years, .has the foil-owin
+forty-two years, .has the foil-owing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849072101:0333/pct:50.866051,52.646302,15.285797,16.761777/!600,600/0/default.jpg"/>
 </td>
@@ -3925,7 +3777,7 @@ forty-two years, .has the foil-owin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the face of the earth.  
+the face of the earth.  
   
 PRINTER&#x27;S Paovritss.—Never inquire thou of  
 the editor for the news, for behold it is his duty at  
@@ -3947,7 +3799,7 @@ subscribe immediately for it, and pay in advance,
 and it shall be well with thee and thy little ones•  
   
 BURNING Cntanscys.—Mr. A. Booth, lecturer on  
-chemistry, in a letter t
+chemistry, in a letter to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aerecura_ver01%2Fdata%2Fsn84024558%2F000001784%2F1849080101%2F0117.jp2/pct:4.645104,74.331276,14.353126,12.878454/!600,600/0/default.jpg"/>
 </td>
@@ -3961,8 +3813,6 @@ chemistry, in a letter t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
-  
 Printer&#x27;s Proverbs.  
 Never inquire thou of the editor for the news,  
 for behold it is his duly at the appointed time to I  
@@ -3993,6 +3843,7 @@ enty-one thousand, three hundred and sixty-one
 dollars, and the imports nine millionS, two hun­  
 dred and ninety thousand, four hundred and  
 thirty-nine dollars.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001975%2F1849083001%2F0126.jp2/pct:23.458059,52.710177,27.878289,16.908976/!600,600/0/default.jpg"/>
@@ -4007,8 +3858,6 @@ thirty-nine dollars.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-urse.  
-  
 Increase of New Orleans.—New Or­  
 leans had a population of one hundred  
 and  
@@ -4025,7 +3874,7 @@ the imports nine millions, two hundred
 and ninety thousand, four hundred and  
 thirty-uine-dullars.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849091301:0171/pct:56.903171,12.371134,16.877577,83.590180/!600,600/0/default.jpg"/>
 </td>
@@ -4039,7 +3888,6 @@ thirty-uine-dullars.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 Printers&#x27; Proverbs. Never inquire thou  
 of the editor for the news, for. behold it is  
 his duty at the appointed time to give it unto  
@@ -4059,7 +3907,7 @@ meet thine eye, that thou mayest understand
 it. Prefer lhe best conducted paper to any  
 other, and subscribe immediately for it, and  
 pay in advance, and it shall be well with, thee  
-and thy little ones. Picayune
+and thy little ones. Picayune.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1849110301:0737/pct:20.419720,48.637681,15.256496,11.084058/!600,600/0/default.jpg"/>
 </td>
@@ -4083,7 +3931,6 @@ and thy little ones. Picayune
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 PRINTErsProY ErBs.  
 Never enquire thou of the editor for the news, for be­  
 hold it is his duty, at the appointed time, to give it unto  
@@ -4103,7 +3950,7 @@ yet ready to meet thine eye, that thou mayest under
 stand it.  
 Prefer the bost conducted newspapet to any other, and  
 subscribe immediately for it, and pay in advance, and it  
-shall be well with thee, and thy litle ones
+shall be well with thee, and thy litle ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850070101:0362/pct:64.678723,83.707273,15.202963,9.851679/!600,600/0/default.jpg"/>
 </td>
@@ -4117,8 +3964,6 @@ shall be well with thee, and thy litle ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Never enquire thou of the editor the news, for behold itis his duty,  
 at the appointed time, to give it unto thee without asking.  
   
@@ -4133,7 +3978,8 @@ dost not look at what gay be lying open, for that is not meet in the sight
 of good breeding.  
   
 Neither examine thou the proof sheet, for it is not yet ready to meet  
-thine eye, that thou mayest understand it.
+thine eye, that thou mayest understand it.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spirit-of-the-times_1850-08-10_20_25%2Fsim_spirit-of-the-times_1850-08-10_20_25_jp2.zip%2Fsim_spirit-of-the-times_1850-08-10_20_25_jp2%2Fsim_spirit-of-the-times_1850-08-10_20_25_0004.jp2/pct:68.699597,85.211268,27.032930,6.040933/600,/0/default.jpg"/>
 </td>
@@ -4147,7 +3993,6 @@ thine eye, that thou mayest understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Printer&#x27;s Proverbs.?Never inquire  
 thou of the editor for the news, for behold  
 it is his duty at the appointed time to  
@@ -4168,7 +4013,7 @@ thine eye, tli.it thou mayest understand it. I
 Prefer the best conducted paper to any \
 other and subscribe immediately for it, j  
 and it shall be well with thee and thy lit­  
-tle ones
+tle ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852021801:0064/pct:29.162229,39.802870,14.164004,12.422090/!600,600/0/default.jpg"/>
 </td>
@@ -4222,18 +4067,7 @@ tle ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-and lo show that they  
-were perfectly innocent, affected to swallow  
-three or four himself. He then gave one to  
-the man, who, after many wry faces, bit  
-into it: started up, spitting and sputtering,  
-and exclaimed:  
-&quot;Why hang ine if it isn&#x27;t cobler&#x27;s wax!  
-&quot;There,&quot; said-the doctor, lifting up both  
-hands, did any body ever witness so sudden,  
-so miraculous a recovery ? He is evidently  
-cured of lying, for he has told the truth in­  
-stantly ; and as to memory, my good fellow.&quot;  
+good fellow.&quot;  
 continued he, patting him on the back, &quot;if  
 you ever forget this, call on me. and I&#x27;ll re­  
 turn yoa the money! - &#x27;  
@@ -4260,9 +4094,9 @@ Prefer thine own county paper to any
 other, and subscribe immediately for it, and  
 pav in advance, and it shall be well with  
 thee and thy little ones.  
-We heard th
+We heard the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn86079110:00295872433:1853062501:0016/pct:61.467391,27.124263,14.239130,19.830550/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn86079110:00295872433:1853062501:0016/pct:61.503623,32.588409,14.202899,14.366405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4274,8 +4108,6 @@ We heard th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 give it un to thee without asking.  
 When thou doest write for  
 never say unto him &quot;what thi  
@@ -4295,7 +4127,8 @@ it.
 Prefer thine own county paper to any  
 other, and subseribe immediately for it,  
 and pay in advance, and it shall be well  
-with thee and thy little ones.
+with thee and thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059754:00279528505:1853100701:0092/pct:12.196542,78.566529,25.795037,11.299726/!600,600/0/default.jpg"/>
 </td>
@@ -4309,7 +4142,7 @@ with thee and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 Printer&#x27;s Provkrrs.?Never inquire  
 thou of the editor the news; for behold it  
 is his duty at the appointed time to give  
@@ -4334,7 +4167,7 @@ THE BOSTOW POST OW BEHM.il.
 The venerable Bennett, of the New  
 York Hrroltl. appears to be fearfully ex­  
 ercised in mind ?t this time, partly in  
-eonsequenoe
+eonsequenoe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654024:1853102801:0404/pct:64.459755,9.085721,31.961015,87.569912/!600,600/0/default.jpg"/>
 </td>
@@ -4348,8 +4181,6 @@ eonsequenoe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Printer&#x27;s Proveibs. —Never inquire thou of  
 the editor the news; for behold it is his duty at  
 the appointed time to give it unto thee without  
@@ -4370,7 +4201,7 @@ it.
   
 ICrThis paragraph from the German, most  
 happilty hits the attributes of wife, mistress  
-and lady. It i
+and lady. It it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn88064476:00295876098:1853111201:0398/pct:79.873188,48.942006,14.365942,11.415883/!600,600/0/default.jpg"/>
 </td>
@@ -4384,7 +4215,7 @@ and lady. It i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- r  
+r  
 Printjer&#x27; I&#x27;oviiis.-r-Never inquire tbeu if  
 trie ediuir uie new ; lor nenoM it is his duty at  
 the appointed tisn to giva it onto thee without  
@@ -4400,7 +4231,7 @@ untn thyself that thou dost Dot hs.k at what inav
 l lying open p for that I a it mpot in the &#x27;g&#x27;.t  
 of gKKl bree-ling, Kmtiier examine thou tte  
 pns.f sheet, for It is B&#x27;it ready hi meet thine eve.  
-
+L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal6n_ver01%2Fdata%2F1853111601%2F1018.jp2/pct:69.193154,86.876240,12.917685,8.148939/!600,600/0/default.jpg"/>
 </td>
@@ -4414,8 +4245,6 @@ pns.f sheet, for It is B&#x27;it ready hi meet thine eve.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
-  
 PRINTER&#x27;S rrOrEIIDS. -NOV9I&#x27; inquire thou  
 of the editor the news;&#x27; for behold it is his  
 duty lathe appointed limo to give it unto thee  
@@ -4437,7 +4266,7 @@ ins thou the proof sheet, for itis not ready to,
 meet thino eye, that thou twat understand&#x27;  
   
 . .  
-SEVERE
+SEVERE 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001829%2F1853112301%2F0138.jp2/pct:44.879287,75.277018,11.515616,10.300043/!600,600/0/default.jpg"/>
 </td>
@@ -4451,30 +4280,7 @@ SEVERE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- it wi be bond in usin an e o e o eee ei e i a ea a e  
-&quot;Fellow,&quot; said he leave the room I would never revisit Italy. This he re­  
-in small caps.-Chicago Press.  
-  
-wish to be alone.  
-&quot;Excuse me, sir,&quot; said Cuffee, draw-  
-  
-HIT. The North British Review,  
-speaking of the prejudice against colorin iel u sti a a eoi­  
-in the United States, says: &quot;It cannot ble for the silver.  
-  
-the Probate Court of Macomb county, the  
-  
-luge ne ta ae to to  
-  
-but not want of appetite, or apece, one third of the fine being devoted  
-  
-digu or te ooee e o e ei o e o ate ti  
-  
-  
-  
-ae a e a ee e eee  ee o e e i e e o  
-  
- seek the glittering thou of the editor, the news; for behold pinter who reported the proceedings.  
+thou of the editor, the news; for behold pinter who reported the proceedings.  
   
 we  
   
@@ -4485,9 +4291,10 @@ dost not look at what may be lying allowing one-third to prove addle, we are
 open; for that is not meet in the eyes of sure of 220 chicks, or 60 pairs, which at  
 good breeding. Never examine thou five dollars per pair is worth $300.  
   
-Prefer thine own county paper to any
+Prefer thine own county paper to any  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049620:0027952939A:1853112601:0011/pct:45.189980,32.725467,47.694979,21.040922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049620:0027952939A:1853112601:0011/pct:45.189980,42.391736,34.206926,11.374652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4499,7 +4306,7 @@ Prefer thine own county paper to any
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and not  
+and not  
 unpleasantly. &quot;  
 V &#x27;  
 -  
@@ -4523,7 +4330,7 @@ Prefer thine own county paper to any oilier,
 ml subscribe immediately fur it, and pay in bU  
 ance, and il shall be well wiih thee and uv lit­  
 tle ones.  
-Though to th
+Though to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat22n_ver01%2Fdata%2F1854031801%2F0657.jp2/pct:2.684169,72.641787,15.438871,15.398178/!600,600/0/default.jpg"/>
 </td>
@@ -4537,7 +4344,6 @@ Though to th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 ParETee&#x27;s Proveans.- Never inqlre thou  
 of the editor the news; fy behold it ia his  
 duty at the appointed time to give it uato thee  
@@ -4556,7 +4362,7 @@ what reay ls lyins apeay to that u i
 a the sight of good breading, Nelt  
 sramlns thos the proof, shast for it is net  
 ready to mest thise sye, that thou mayest u  
-Taee Parsoress.Th
+Taee Parsoress.The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_andrews_ver01:data:sn83021636:00271765010:1854032501:0168/pct:61.770018,81.598441,15.447522,11.251462/!600,600/0/default.jpg"/>
 </td>
@@ -4570,7 +4376,6 @@ Taee Parsoress.Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Printers’ Proverbs!—Never enquire  
 thou of the editor, the news: for, behold it  
 is his duty at the appointed time to give  
@@ -4596,7 +4401,7 @@ and pay in advance, and it shall be well
 with thee and thy little ones.  
   
 GENERAL NEWS  
-TH
+THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1854032901%2F0770.jp2/pct:48.899465,53.544803,13.880627,20.070165/!600,600/0/default.jpg"/>
 </td>
@@ -4610,8 +4415,6 @@ TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 his paper,  
   
 akest thou of  
@@ -4626,7 +4429,8 @@ the author of an article, for his
 Prefer thine own county paper before  
 any other, and subscribe immediately for  
 it, and pay in advance and it shall be  
-well with thee and the little
+well with thee and the little  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855013101:0238/pct:83.433011,88.562994,12.820120,7.902001/!600,600/0/default.jpg"/>
 </td>
@@ -4640,7 +4444,6 @@ well with thee and the little
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 V. Never inquire thou of him for the  
 news; for behold it is his duty, at the ap­  
 pointed time to give it unto thee without  
@@ -4663,7 +4466,7 @@ is not meet in the sight of the printer.
 X. Neither examine the proff sheet;  
 for it is not ready to meet thine eye, that  
 thou mayest understand it.  
-Where&#x27;s the
+Where&#x27;s the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1855122001:0172/pct:68.925365,45.603577,12.177329,14.764743/!600,600/0/default.jpg"/>
 </td>
@@ -4677,7 +4480,7 @@ Where&#x27;s the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of Kenyon College.  
+of Kenyon College.  
 Printer&#x27;s Proverbs.  
 Never inquire thou of the editor, the  
 news, for behold it is his duty, at the ap  
@@ -4704,7 +4507,8 @@ and pay in advance, and it shall be well
 with thee and thy little ones.  
   
 When to WeaR India Aubbers.  
-We have noticed that many persons
+We have noticed that many persons  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1856021401:0662/pct:56.317822,45.973154,12.047085,23.355705/!600,600/0/default.jpg"/>
 </td>
@@ -4718,7 +4522,7 @@ We have noticed that many persons
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the union. iLm  
+of the union. iLm  
   
 pire. &#x27;  
   
@@ -4744,7 +4548,7 @@ stand it&#x27;. . ,, ... , v. . . -. : , (. -
 Prefer thy own connly piper to any other,  
 and subscribe nn mediately lor it and pay jii  
 advance, ami il shall be well with thee and  
-Ihy lilteoues. ,,
+Ihy lilteoues. ,, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn84028570:00280774790:1856022801:0363/pct:49.216818,76.137189,13.478978,12.134864/!600,600/0/default.jpg"/>
 </td>
@@ -4758,8 +4562,6 @@ Ihy lilteoues. ,,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I&#x27;ri nets I&#x27;roverba.  
   
 Never inquire thou of the editor, the  
@@ -4792,7 +4594,7 @@ and pay in advance, and it shall be well
 with thee and thy littie ones.  
   
 Th- Boar I of Trustee* t ike nleaaure in announcing ta  
-tin- friend aud patrons o
+tin- friend aud patrons of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7b5m627k3q%2Fxt7b5m627k3q_jp2.zip%2Fxt7b5m627k3q_jp2%2Fxt7b5m627k3q_0001.jp2/pct:34.011063,79.714855,29.884886,14.550791/600,/0/default.jpg"/>
 </td>
@@ -4806,7 +4608,7 @@ tin- friend aud patrons o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-..  
+.  
   
 Printer,s Proverbs  
 Never inquire thou of the editor the  
@@ -4842,7 +4644,7 @@ and pay in ady ance, and it shall be well
 with thee and thy little ones.  
 Chancry Court.  
 A special term of the chancery court  
-was held a
+was held at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065523:00295878174:1856032901:0462/pct:62.299510,51.553040,15.245653,30.257963/!600,600/0/default.jpg"/>
 </td>
@@ -4856,8 +4658,6 @@ was held a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Printer&#x27;s Proverbs.  
   
 I  
@@ -4881,7 +4681,7 @@ Prefer thino own county paper to ary
 other, and subscribe for it immediately.  
 Pay in advance, and it shall be well with  
 thee and thy little ones. .  
-Tho Bounty La
+Tho Bounty Lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856041101:0279/pct:42.751479,82.048753,12.740385,14.005918/!600,600/0/default.jpg"/>
 </td>
@@ -4895,7 +4695,7 @@ Tho Bounty La
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- be.  
+be.  
 Printer&#x27;s Proverbs.?Never inquire thou  
 of the Editor the news, Lr behold it ?s his bu­  
 siness, at the appointed time, to give it unto  
@@ -4912,7 +4712,8 @@ meet thine eye, that thou may at understand it.
 Prefer thine own city paper to any other,  
 and subscribe for it immediately. Pay in ad  
 vanoe, and it shall be well with thee and thy  
-little ones.
+little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654073:1856041401:0203/pct:66.054174,84.433129,16.030413,8.926530/!600,600/0/default.jpg"/>
 </td>
@@ -4926,7 +4727,7 @@ little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’i rrirert.  
+i rrirert.  
 NWer inquire thou of the e liter,  
 the newt, tor behold it it hit duty at  
 the appointed time to give it unto  
@@ -4950,7 +4751,8 @@ derstand it. &gt;
 Prefer thine own country paper to  
 any other, and subscribe immediate­  
 ly for it and pay in advaaoe end. it  
-shell be well with thee aod t^jr little
+shell be well with thee aod t^jr little  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1856041601:0206/pct:55.802691,77.890757,12.771300,15.708513/!600,600/0/default.jpg"/>
 </td>
@@ -4964,11 +4766,10 @@ shell be well with thee aod t^jr little
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I Prefer th&#x27;ne own city paper to any other, and  
 bubscribe for it immediately. Always pay in ad­  
 vance, and it shall be well with thee and thy lit  
-tle ones. .
+tle ones. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA7n_ver01%2Fdata%2F1856042301%2F0065.jp2/pct:69.070041,67.486631,12.889935,1.996435/!600,600/0/default.jpg"/>
 </td>
@@ -4982,7 +4783,6 @@ tle ones. .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 PRIWTEIP!.% PRbVERBS.—Never inquire thou  
 of the ; editOr the news, for behold kis hisdui,  
 ty at the tippointed time to give it onto thee  
@@ -5006,7 +4806,8 @@ stand it. -
 Prefer] thine own county :paper i s O - ar.y oth­  
 er, and subscribe imqediately forlit and pay  
 in adyatSe, and it will&#x27; be well thee and  
-thy little ones.
+thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_arimanius_ver01%2Fdata%2Fsn84026111%2F000001961%2F1856042401%2F0064.jp2/pct:20.410909,56.750750,11.476364,10.756754/!600,600/0/default.jpg"/>
 </td>
@@ -5020,11 +4821,11 @@ thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- any  
+any  
 Ee Prefer thine own city paper to any  
 other, and subscribe for it immediately. Pay  
 in advance, and it shall be well with thee and  
-thy litle ones.
+thy litle ones. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470065:1856042501:0403/pct:18.699071,93.670493,12.408863,3.164753/!600,600/0/default.jpg"/>
 </td>
@@ -5038,7 +4839,6 @@ thy litle ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 at-the appointed time, to give it unto thee  
 without asking. It is not fit that thou shouldst  
 ask him w ho is the author of an article, for his  
@@ -5054,7 +4854,7 @@ thine eye, that, thou niayest understand it.
 and subscribe for it immediately. I&#x27;ay in ad­  
 vance, and it shall be well with thee and thy  
 little ones.  
-Si&#x27;phk
+Si&#x27;phkn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667292:1856050301:0269/pct:49.367267,76.583991,14.988751,8.951522/!600,600/0/default.jpg"/>
 </td>
@@ -5068,7 +4868,7 @@ Si&#x27;phk
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. r  
+r  
 Never inquire thou of the editor the n  
 news, for behold it is his business, at the n  
 appointed time, to give it unto thee without *  
@@ -5084,7 +4884,8 @@ is not ready to meet thine eye, that thou &#x27;J
 mayst understand it. Prefer thine own city a  
 paper to any other, and subscribe for it im- r  
 mediately. Cay in advance, and it shall be  
-well with thee and thy little ones.
+well with thee and thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1856050801:0078/pct:2.609181,51.432456,14.371425,9.857240/!600,600/0/default.jpg"/>
 </td>
@@ -5098,12 +4899,12 @@ well with thee and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r the rum will give it up on this  
+the rum will give it up on this  
 bottle.”  
 Prefer your own Country paper to any  
 other, and subscribe immediately for it and  
 pay in advance, and it shall be well with  
-thee and thy little ones
+thee and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052972:00279557256:1856052201:0301/pct:80.629583,63.799373,14.827401,4.163009/!600,600/0/default.jpg"/>
 </td>
@@ -5117,12 +4918,11 @@ thee and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 JMjr Prefer thine own county paper to any  
 other, and subscribe for it immediately. Pay  
 in advance, and it shall be well with thee and  
 thy little ones.  
-THE WHEAT CROP.—The Madiso
+THE WHEAT CROP.—The Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856052401:0328/pct:8.311284,89.484419,14.552529,3.399433/!600,600/0/default.jpg"/>
 </td>
@@ -5136,7 +4936,7 @@ THE WHEAT CROP.—The Madiso
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- last.&quot;  
+last.&quot;  
 PaINTER&#x27;s Proveens. Never enquire  
 thou of the editor the rews, for behold it is  
 his duty at the appoin ed time to give it un­  
@@ -5155,7 +4955,8 @@ meet in the sight of good breeding.
 Prefer thine own county paper to any  
 other, and subscribe immodiately for it, and  
 pay in advance, and it will be well with thee  
-and thy little ones.
+and thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856061301:0310/pct:81.146885,83.165323,12.787656,12.089307/!600,600/0/default.jpg"/>
 </td>
@@ -5169,7 +4970,6 @@ and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 bed. -  
 PRINTERS PROVERBS.  
 Never inquire thou of the editor the  
@@ -5195,7 +4995,8 @@ eyes, that thou mayest understand it.
 Prefer thine own county paper to  
 any other, and subscribe immediately  
 for it and pay in advance, and it will  
-be well with thee and thy little ones.
+be well with thee and thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1856072601:0030/pct:29.369440,68.471824,12.558870,15.329513/!600,600/0/default.jpg"/>
 </td>
@@ -5209,7 +5010,7 @@ be well with thee and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s mid peltn.  
+ mid peltn.  
 ; Printers’ Pkovkrhs.—Never inquire thou  
 of the editor, the news, for behold it is his  
 duty at. the appointed time to give it unto  
@@ -5233,7 +5034,7 @@ other, and subscribe immediately for it and
 pay in advance and it shall be well with  
 thee- and thy little ones.  
   
-
+j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151118:1856092301:0072/pct:26.021648,72.693478,11.574994,11.642447/!600,600/0/default.jpg"/>
 </td>
@@ -5257,7 +5058,7 @@ thee- and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Never inquire  
+Never inquire  
 thou of the editor the news, for behold  
 it is his business, at the appointed time,  
 to| give it unto thee without asking. It  
@@ -5275,7 +5076,8 @@ thou mayst understand it.
 Prefer thine own city papers to any  
 other, and subscribe for it immediately.  
 Pay in advance, and it shall be well  
-with thee and with thy little ones.
+with thee and with thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557499:1857022001:0347/pct:83.170146,81.210915,12.913357,10.673678/!600,600/0/default.jpg"/>
 </td>
@@ -5289,7 +5091,7 @@ with thee and with thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-me since.  
+e since.  
 The vignette of which is tho same as the  
 &quot;ones and &quot; tens.&quot;  
 SO There are photographic counter  
@@ -5329,7 +5131,7 @@ thou mayest understand it.
 subscribe immediately, and pay for it in  
 advance, and it shall be well with ibee  
 and thy little ones.  
-Thero i
+Thero is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065088:00212470478:1857080101:0311/pct:16.787440,29.863760,15.036232,31.430518/!600,600/0/default.jpg"/>
 </td>
@@ -5343,7 +5145,6 @@ Thero i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 PRINTERS PROVERBS.  
 I. Never inquire thou of the editor for the  
 news; for behold, it is his duty at the appointed  
@@ -5368,7 +5169,7 @@ derstand it.
 journals subscribe immediately for it, pay in  
 advance, and it shall be well with thee and thy little  
 ones.  
-Brands o
+Brands or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857090601:0237/pct:5.262313,42.430678,12.963260,10.796460/!600,600/0/default.jpg"/>
 </td>
@@ -5382,8 +5183,6 @@ Brands o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
-  
 PRINTER&#x27;S PROVERBS.  
 1. Never inquire thou of the editor for th  
   
@@ -5425,7 +5224,8 @@ journals ; subscribe immediately for it pav in ad-
 ranra nn.l .Kail . ll .1. I .x  
   
 . , wui wivu moeanu tay uiue  
-ones,
+ones,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA7n_ver01%2Fdata%2F1857090901%2F0350.jp2/pct:47.328125,76.298740,13.812500,11.956650/!600,600/0/default.jpg"/>
 </td>
@@ -5439,7 +5239,7 @@ ones,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: PHINTEirS PROVERBS.  
+PHINTEirS PROVERBS.  
   
 1 Never inquire thou of the editor for  
   
@@ -5480,7 +5280,7 @@ mayest understand it. . , ,­
 N 7 Prefer the DESioaATtC Pioneer to  
 all othr journals; iub?cribc tmmcdiately  
 for it. pay in advance, and it shall be well  
-with thee &#x27;and thy little ones.
+with thee &#x27;and thy little ones. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DemPEC2n_ver01%2Fdata%2F1857091501%2F0144.jp2/pct:48.580011,2.842536,13.244129,16.032720/!600,600/0/default.jpg"/>
 </td>
@@ -5494,7 +5294,7 @@ with thee &#x27;and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- be kind  
+be kind  
 IIUUUl 19 avaa  
 Prettebs Pbovebbs. Never inquire thou of the  
 editor for the news, for behold it is nis auty  
@@ -5509,7 +5309,7 @@ caxe unto thyself that thou dost not look at what may
 belrinz open, for that is not meet in thesight of good  
 bSr Neither examine thou the prootsheet, for  
 it iot ready to meet thine eye, that thou mayest  
-it i
+it is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1857091701:0047/pct:14.885699,88.226448,13.011696,6.982490/!600,600/0/default.jpg"/>
 </td>
@@ -5523,7 +5323,7 @@ it i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the  
+the  
 contents, to his evident gratification; The  
 flask being emptied, he replaced it in tbe  
 coat and pressed it together with with hU  
@@ -5563,7 +5363,7 @@ ne mignt kqook iue aown.
 6. Neither examine the prno&amp;heet, for it  
 is not ready to meet thine eyet that thou  
 may est noderUencMt.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857091701:0669/pct:82.203989,66.592328,17.032112,23.851472/!600,600/0/default.jpg"/>
 </td>
@@ -5577,7 +5377,7 @@ may est noderUencMt.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&amp; &#x27;  
+&#x27;  
 A. Never inquire thou f the editor for the nawl;  
 &#x27; ins behold,. Wig his duty t the appointed time to  
 . grve launto - dhee.r ithou; :raking. - . • .  
@@ -5602,7 +5402,7 @@ down: . I
 7. prefer:tile , Maness Jounam. to. all other  
 journals; sibscribe im ediately for It, pay in  
 advance, sad&#x27;it shalt be well with thee and thy  
-little one.,
+little one., 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002346%2F1857092601%2F0153.jp2/pct:82.961477,55.427046,11.091493,9.083343/!600,600/0/default.jpg"/>
 </td>
@@ -5616,8 +5416,6 @@ little one.,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Printers&#x27; Proverbs.  
   
 1. Never inquire thou for the news  
@@ -5627,7 +5425,8 @@ asking.
 2. When thou dost write for his pae­  
 per, never say unto him, &quot;What thind.­  
 est thou of my piece?&quot; for it may be  
-that the truth would offend thee.&quot;
+that the truth would offend thee.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529261:1857101701:0155/pct:4.927413,83.061939,9.646758,4.542480/!600,600/0/default.jpg"/>
 </td>
@@ -5641,8 +5440,6 @@ that the truth would offend thee.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 3. It is not fit that thou shouldest  
 ask of him, who is the author of an ar  
 ticle upon subjects of public concern-­  
@@ -5682,7 +5479,7 @@ I potre tht suprly it wos nece­
 ay that whatever might be the apparent  
 of comsineree, it should in the  
 fo tun be what is called faw orall  
-to 18I there had been about $10,0,
+to 18I there had been about $10,0,0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529261:1857101701:0155/pct:4.955786,2.925665,28.888258,89.105747/!600,600/0/default.jpg"/>
 </td>
@@ -5696,9 +5493,6 @@ to 18I there had been about $10,0,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e breeze, as he headed for the • nearest  
-woods.  
-  
 1. Never inquire thou of the editor for  
 the news; for behold, it is his duty at the  
 appointed time to give it unto thee with­  
@@ -5730,9 +5524,9 @@ all other papers; subscribe immediately
 for it, pay in advance, and it shall be well  
 with thee and thy little ones.  
   
-ger When our d
+ger When our de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001944%2F1857102101%2F0165.jp2/pct:34.494685,67.680405,13.889826,24.089636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_antevorta_ver01%2Fdata%2Fsn83032114%2F000001944%2F1857102101%2F0165.jp2/pct:34.494685,70.814993,13.872954,20.955049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5744,8 +5538,6 @@ ger When our d
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I. Never inquire thou for the news  
 behold, it is his duty at the appointed  
 to give it unto thee without asking.  
@@ -5773,7 +5565,8 @@ time
   
 Rear.  
   
-Estate in Council
+Estate in Council  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86060019:00415668892:1857102801:0069/pct:29.165429,68.731073,19.186219,9.398774/!600,600/0/default.jpg"/>
 </td>
@@ -5787,7 +5580,7 @@ Estate in Council
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- thou for the news  
+thou for the news  
 for behold, it is his duty at the appoint­  
 ed time to give unto thee without ask­  
 ing.  
@@ -5816,7 +5609,7 @@ I
   
 &amp;  
   
-HEALTH? WOMEN AND EARLY MA
+HEALTH? WOMEN AND EARLY MAR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1857110401:0236/pct:84.119841,4.182663,12.035489,49.605981/!600,600/0/default.jpg"/>
 </td>
@@ -5832,7 +5625,7 @@ HEALTH? WOMEN AND EARLY MA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; Never inquire tboii of the  
+Never inquire tboii of the  
 printer for the news ; for behold it is  
 bis duty at the appointed time to give  
 it tin to thec Without asking. Do not  
@@ -5851,7 +5644,7 @@ shoulders of the editor while he in
 reading a proof. Prefer the town papor  
 to any other— subscribe immediately for  
 it; and pay in advance.— American Paper.  
-How a 
+How a S
 </td></tr></table>
 
 ---
@@ -5864,7 +5657,7 @@ How a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Printer&#x27;s  
+Printer&#x27;s  
 Precepts — Never inquire thou of the  
 printer for tho news ; for behold it his  
 duty at the appointed time to give it  
@@ -5884,7 +5677,7 @@ shoulders of the editor while he is
 reading a proof. Prefer the town paper  
 to any other — sub-scribe immediately  
 for it and pay in advance.— American  
-Paper, Wild Flow ehs.— Amongst the grea
+Paper, Wild Flow ehs.— Amongst the great
 </td></tr></table>
 
 ---
@@ -5895,7 +5688,7 @@ Paper, Wild Flow ehs.— Amongst the grea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- our other p ns.— London  
+our other p ns.— London  
 Times, Oct. 15.  
   
 SPECIE IN THE COUNTRY-TOTAL CIB-  
@@ -5922,7 +5715,7 @@ and others estimated that there was about 837,000,000, From
 that time up to 1849, when C gold was discovered, the  
 movement was as follows:  
 Specie in the count 1621 ..... $37 .000,000  
-Production of United States mines......
+Production of United States mines.......
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1857-12-17_6_52%2Fper_the-pacific_the-pacific_1857-12-17_6_52_jp2.zip%2Fper_the-pacific_the-pacific_1857-12-17_6_52_jp2%2Fper_the-pacific_the-pacific_1857-12-17_6_52_0003.jp2/pct:33.742526,24.498112,11.518891,8.005367/600,/0/default.jpg"/>
 </td>
@@ -5936,7 +5729,6 @@ Production of United States mines......
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 joice in Thee, having for our patron the love  
 and service of God forever.  
 Printer’s Proverbs.—Never inquire thou  
@@ -5959,7 +5751,7 @@ paper to any other, and subscribe immediately
 for it, and pay in advance, and it shall be well  
 with thee and thy little ones.  
   
-Yankee Doodle.—During th
+Yankee Doodle.—During the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026978:00279557475:1858012101:0171/pct:7.493353,24.357505,14.479091,14.814209/!600,600/0/default.jpg"/>
 </td>
@@ -5975,7 +5767,7 @@ Yankee Doodle.—During th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iverpool Daily Post, PRINTERS  
+verpool Daily Post, PRINTERS  
 PROVERBS.-Never in quire thou of the  
 editor of the news, for behold it is his  
 duty at the appointed time to give it  
@@ -5997,7 +5789,7 @@ that that thou mayst understand it.
 Prefer the paper of thy town to any  
 other, and subscribe immediately for it,  
 and pay in advance, and it shall be well  
-with thee and thy little ones
+with thee and thy little ones.
 </td></tr></table>
 
 ---
@@ -6008,7 +5800,6 @@ with thee and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 Printer Proverbs.  
 Never inquire thou of the T editor for the  
 news; for, behold, it is his duty at the ap­  
@@ -6033,7 +5824,7 @@ meet in the sight of the printer, and he might
 kpockyou down. s . .k:- .. ,fi , , . .  
 Neither. examine tbe proof sheet, for it is  
 not ready&#x27; to meet thine eye that thou may&#x27;st  
-understand it.
+understand it. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_UniNB3n_ver01%2Fdata%2F1858033001%2F0065.jp2/pct:64.339528,43.936304,14.339528,16.477328/!600,600/0/default.jpg"/>
 </td>
@@ -6047,7 +5838,7 @@ understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- es, but that he was more sorry lot not hav  
+es, but that he was more sorry lot not hav  
 ing stijteii enough to britx the evidence.  
 Prinlr rs Proverbs.  
 Never inquire thou of the editor for tlie news ; for,  
@@ -6068,7 +5859,7 @@ of the compositors ; tor that is not meet io tlie sight
 of the printer, ami he might knock you down.  
 &quot;Neither examine the proof sheet.&quot; for it is not  
 ready to meet thine eye that thou niavest understand  
-i
+it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_AmAdKin2n_ver01%2Fdata%2F1858040101%2F0351.jp2/pct:32.185734,78.311346,15.307203,11.754617/!600,600/0/default.jpg"/>
 </td>
@@ -6084,7 +5875,7 @@ i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-saries which he  
+aries which he  
 thought might soon be wanted. This is  
 going with the times. Printers&#x27;  
 Proverbs,—Never inquire thou of the  
@@ -6108,7 +5899,7 @@ that thou inayest understand it. Prefer
 tho paper of thy town to any other, and  
 subscribe immediately for it. and pay in  
 advance, and it shaU&#x27; be well with tlice  
-and thy little ones
+and thy little ones.
 </td></tr></table>
 
 ---
@@ -6121,7 +5912,7 @@ and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-^ Printers&#x27; Proverbs. — Never  
+Printers&#x27; Proverbs. — Never  
 inquire thon of the editor of the news,  
 for behold it is his duty at the  
 appointed time to give it unto tliee  
@@ -6143,7 +5934,7 @@ it. Prefer the paper of thy town to any
 other, and subscribe immediately for it,  
 and pay in advance, and it shall be well  
 with thee and thy little ones &#x27;The Man  
-and t
+and th
 </td></tr></table>
 
 ---
@@ -6156,7 +5947,7 @@ and t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A fire which recently d:-troveye  
+A fire which recently d:-troveye  
 the M11ount Lofty Lotel, has been  
 pruncunced by a coroner&#x27;s jury the we k  
 of an irncendiaryv. F&#x27;nISrTER&#x27;S  
@@ -6177,7 +5968,7 @@ whiat nan I e It i:,i opnen, fur this is
 not omeet in the siOtt of good  
 br,leding,. Neiti&#x27;er atx h nine thou the  
 proof she-t, fbr it is not reardy to  
-mieet thite e e, ti.nt 
+mieet thite e e, ti.nt t
 </td></tr></table>
 
 ---
@@ -6190,7 +5981,7 @@ mieet thite e e, ti.nt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-h.  
+.  
 PniNTBns&#x27; Proverbs,-Never inquire thou  
 of tho editor of the news, for behold ic  
 is his duty at the appointed timo to  
@@ -6212,7 +6003,7 @@ that thou mayst understand it. Prefer
 the paper of thy town to any other, and  
 subscribe immediately for it, and pay in  
 advance, and it shall bo well with theo  
-and thy little onos
+and thy little onos.
 </td></tr></table>
 
 ---
@@ -6225,7 +6016,7 @@ and thy little onos
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&amp;c.&#x27; Paiaiiiit&#x27;s PROVEUDI-Never inquire  
+c.&#x27; Paiaiiiit&#x27;s PROVEUDI-Never inquire  
 thou of tho editor tho news, for behold  
 it is his duty at the appointed time to  
 give it unto theo without asking. When  
@@ -6246,7 +6037,7 @@ mayost understand it. Prefer the paper
 of tliy town lo any other, sub-scribo  
 immediately for it, and pay in advance,  
 and it will bo well with theo and all  
-tby littlo ones
+tby littlo ones.
 </td></tr></table>
 
 ---
@@ -6257,7 +6048,6 @@ tby littlo ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Printer I&#x27;rnTerb.  
 4-Xever ii nnire thou ul&#x27; the Fdit  
 the news, for bell- Id ! it hie is duty, at the  
@@ -6285,7 +6075,7 @@ he migbLknock thee down. .
 6. Never examine the proof sheets, for  
 it ia not ready to meet thine, eye, that then  
 mayst understand it. -  
-Tik End oi! tiie World- A di
+Tik End oi! tiie World- A dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TiGreen1n_ver01%2Fdata%2F1858052901%2F0466.jp2/pct:84.358082,73.469961,13.089714,15.960135/!600,600/0/default.jpg"/>
 </td>
@@ -6299,7 +6089,7 @@ Tik End oi! tiie World- A di
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-~ Pointers&#x27; Proverds.—Never  
+Pointers&#x27; Proverds.—Never  
 inquire thou of the editor for the news,  
 for behold! &#x27;tis his duty, at the appoint­  
 ed lime, to give it unto thee without ask­  
@@ -6326,7 +6116,7 @@ might knock thee down.
 Never examine the proof sheet, for it  
 is not ready to meet thine eye, that thou  
 mayest understand it.  
-Marri
+Marrie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038462:00514151039:1858061001:0074/pct:15.998166,73.689567,12.995645,19.151824/!600,600/0/default.jpg"/>
 </td>
@@ -6340,8 +6130,6 @@ Marri
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Good  
-Newt.  
 PBINTEE^&quot;pBOVBBBa  
 1. Never inquire thou of the Editor for  
 the news, for behold ! it is his duty, at the  
@@ -6371,9 +6159,9 @@ knock thee down.
 1 is not readj to meet thine eye, that thou  
 naysfc understand it.  
 1 w&gt;ll  
-19* From the time consumed by ladie
+19* From the time consumed by ladies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:83.622378,76.498591,16.027972,18.274556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:83.622378,77.751870,14.377622,17.021277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6385,8 +6173,6 @@ naysfc understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRINTERS proverbs.  
 1. Never inquire thou of the Editor  
 &#x27; for the hews, for behold ! it is his duty,&#x27;  
@@ -6413,7 +6199,8 @@ that is not meet in the sight of the prin­
 ter.  
 6. Never cxamifio the proof sheets,  
 for it is hot rcaly to meet thine eye, that  
-thou mayest understand it.
+thou mayest understand it.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1858062301:0201/pct:79.873955,20.140217,11.618030,17.123433/!600,600/0/default.jpg"/>
 </td>
@@ -6427,7 +6214,6 @@ thou mayest understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Printers&#x27; Proverbs;-.  
 1. Never inquire thou of the Editor for  
 the news, for behold ! it is his duty, at the  
@@ -6454,7 +6240,7 @@ might knock thee down.
 6. Never examine the proof sheets, for  
 it is not ready to meet thine eye, that thou  
 mayest understand it.  
-Laziness tr
+Laziness tra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1858062601:0204/pct:47.223917,80.860024,14.810860,15.294248/!600,600/0/default.jpg"/>
 </td>
@@ -6468,7 +6254,7 @@ Laziness tr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.Printer&#x27;s Proverb:.  
+Printer&#x27;s Proverb:.  
 1. Never inquire of the Editor for the  
 news, for boholdüt is his duty, at the ap­  
 pointed time, to give it unto thee without  
@@ -6496,7 +6282,7 @@ G. Never examine the proof sheet, for
 it is not ready to meet thine eye, that thou  
 raayest understand it.  
 Beautiful Anecdote.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1858070101:0337/pct:70.650118,62.703963,12.375887,16.540793/!600,600/0/default.jpg"/>
 </td>
@@ -6512,7 +6298,7 @@ Beautiful Anecdote.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--anny Fesn. PRINTERS&#x27;P  
+anny Fesn. PRINTERS&#x27;P  
 RovERnn.-Never inquire thou of the  
 editor of the news, for behold it his  
 duty at the appointed time to give it  
@@ -6535,7 +6321,7 @@ of thy town to any other, and subscribe
 immes?Idately fbr it, and pay m  
 adveance, and it shall be well with thee  
 and thy little ones. THE PATRIOTIC  
-FuND.-Th
+FuND.-Tho
 </td></tr></table>
 
 ---
@@ -6546,7 +6332,6 @@ FuND.-Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 PRINTERS&#x27; PROVERBS.  
 1. Never inquire thou of the Editor for the  
 news, behold! it is bis duty, at the appointed  
@@ -6572,7 +6357,7 @@ t. Never examine the proof sheets, for it
 is not ready to meet thine eye, that thou  
 mavst understand it.  
 mm.  
-A g
+A gi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat24n_ver01%2Fdata%2F1858072301%2F0116.jp2/pct:46.115857,37.882653,13.320876,16.358418/!600,600/0/default.jpg"/>
 </td>
@@ -6586,9 +6371,6 @@ A g
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 1. Never inquire thou of the Editor for  
 the news, for behold! it is his duty as the  
 appointed time, to give it unto thee withou  
@@ -6613,7 +6395,8 @@ not meet in the sight of the printer, and
 he might knock thee down.  
 0. Never examine the proof sheets, for  
 it is not ready to meet thine eye, that  
-thou mayest understand it.
+thou mayest understand it.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1858072301:0406/pct:81.799779,35.836128,12.384983,14.550226/!600,600/0/default.jpg"/>
 </td>
@@ -6627,8 +6410,6 @@ thou mayest understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Printer’s Precepts.—Never inquire thou of  
 the printer for the news : for behold it is his duty  
 at the appointed time to give it unto thee without  
@@ -6644,7 +6425,8 @@ peep over the outside while it is being struck off,
 or look over. the shoulders of an editor while he is  
 reading a proof. Prefer the town paper to any  
 other ; subscribe immediately for it, and pay in  
-advance,
+advance,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_theatrical-journal_1858-08-11_19_974%2Fsim_theatrical-journal_1858-08-11_19_974_jp2.zip%2Fsim_theatrical-journal_1858-08-11_19_974_jp2%2Fsim_theatrical-journal_1858-08-11_19_974_0006.jp2/pct:46.717172,54.599567,35.563973,16.423160/600,/0/default.jpg"/>
 </td>
@@ -6660,7 +6442,7 @@ advance,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-/Vourt Fool». By Dr. Doran. PBIHTKRI&#x27;  
+Vourt Fool». By Dr. Doran. PBIHTKRI&#x27;  
 PROVERB».-Never Inquire thou ot the  
 editor of thenewi, for behold it is bia  
 duty at th» appointed time to give it  
@@ -6682,7 +6464,7 @@ mayst undei ttanil it. Prefer the paper
 of thy town to aay other, and subscribí  
 immediately for it, and pay &#x27; in  
 advanc», and it shall be well with theo  
-and thy &#x27;,&#x27;littléiQn
+and thy &#x27;,&#x27;littléiQnM
 </td></tr></table>
 
 ---
@@ -6693,7 +6475,6 @@ and thy &#x27;,&#x27;littléiQn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 PRINTERS&#x27; PROVERBS.—Never inquire thou of the  
 editor the news, for behold it is his duty at the  
 appointed time to give it unto thee without asking.  
@@ -6707,7 +6488,8 @@ j carc to thyself that thou dost not look at what may
 be lying open, for that is not meet in the sight of  
 good breeding. Neither examine thou the proof  
 sheet, for it is not ready to meet thine eye, that  
-thou mayegt understand it.
+thou mayegt understand it.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858082101:0184/pct:43.264711,91.679558,13.097747,4.994475/!600,600/0/default.jpg"/>
 </td>
@@ -6721,8 +6503,6 @@ thou mayegt understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
   
 Printers’ Proverbs.—Never inquire thou of the editor the news, for behold | &amp; P28’: with $1200 added; three or more to fill the stake. To close the 20th August, 1858,  
   
@@ -6740,7 +6520,7 @@ ing open, for that is not meet in the sight of good breeding. Neither ex-
 amine thou the proof sheet, for it isnot ready to meet thine eye, that  
 thou mayest understand it.  
   
-An Iri
+An Iris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_spirit-of-the-times_1858-08-21_28_28%2Fsim_spirit-of-the-times_1858-08-21_28_28_jp2.zip%2Fsim_spirit-of-the-times_1858-08-21_28_28_jp2%2Fsim_spirit-of-the-times_1858-08-21_28_28_0009.jp2/pct:15.945406,74.198284,55.059920,6.379855/600,/0/default.jpg"/>
 </td>
@@ -6754,7 +6534,7 @@ An Iri
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. :  
+:  
 PittMi.iis&#x27; Proverbs. -Never inquire  
 thou of the editor tho news, for behold  
 ; it is his duty nt the appointed time to  
@@ -6773,7 +6553,7 @@ breeding. N’eiiiji r examine thou the
 proof sheet, lor it is not tea iy to meet  
 thine eye, that thou nn.yo t understand  
 it.  
-teT A man who i
+teT A man who is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1858082701:0435/pct:55.359877,74.179495,12.002297,11.022364/!600,600/0/default.jpg"/>
 </td>
@@ -6787,8 +6567,6 @@ teT A man who i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
-  
 Printers ProVereS yor the Beneit  
 or EverroDt.- We give the following  
 for the benefit of those who are in the hab­  
@@ -6821,7 +6599,8 @@ mayest understand it.
 6. Look thou not at copy which is in  
 the hands of the compositor, for that is  
 not meet in the sight of the printar, and  
-he might knock thee down.
+he might knock thee down.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858090201:0828/pct:69.449475,21.241740,12.350598,18.006608/!600,600/0/default.jpg"/>
 </td>
@@ -6835,11 +6614,12 @@ he might knock thee down.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- thou not upon the; copy which is  
+thou not upon the; copy which is  
 ih;the compositor’s hands, for ihat is not meet  
 in the sight of the printer; and he might knock  
   
-thee down.
+thee down.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001713%2F1858090901%2F0122.jp2/pct:23.415998,76.728220,11.987529,2.151397/!600,600/0/default.jpg"/>
 </td>
@@ -6853,7 +6633,7 @@ thee down.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; holden in Winchester,  
+holden in Winchester,  
 ia&#x27;n&#x27;ow tn our&#x27; tail. We are informed  
 that Mr, Parish &#x27;is now in a fair way to  
 recover.  
@@ -6883,7 +6663,7 @@ Republican party took place on the 4th
 inst. The returns indicate, we think  
 with certainty, the nomination of Mr.  
 Albert for Auditor and Mr. Boner for  
-Sheriff. The vote was a very light on
+Sheriff. The vote was a very light one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858090901:0385/pct:5.694797,8.543794,23.144036,83.046749/!600,600/0/default.jpg"/>
 </td>
@@ -6897,7 +6677,7 @@ Sheriff. The vote was a very light on
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- IN THE UNITED STATES,  
+IN THE UNITED STATES,  
   
 Various estimates are made from time to time of the quantity of specie in the  
 country, and the mode of its distribution. Some are very wild in their results.  
@@ -6920,7 +6700,7 @@ up to 1849, when California was discovered, the movement was as follows :—
 Journal of Banking, Currency, and Finance.  
   
 Specie in the country, 1821........cseeeeeceeecceccscecerenceees  
-Production of United States mines. .....
+Production of United States mines. ......
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_merchants-magazine-and-commercial-review_1858-11_39_5%2Fsim_merchants-magazine-and-commercial-review_1858-11_39_5_jp2.zip%2Fsim_merchants-magazine-and-commercial-review_1858-11_39_5_jp2%2Fsim_merchants-magazine-and-commercial-review_1858-11_39_5_0061.jp2/pct:18.688119,62.246964,67.574257,25.607287/600,/0/default.jpg"/>
 </td>
@@ -6934,8 +6714,6 @@ Production of United States mines. .....
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Printer&#x27;s ProvereS For the BeneFit  
 of EverYnOdY. We give the following for  
   
@@ -6983,7 +6761,8 @@ mayest understand it.
 6 Look thou not at copy which is in  
 the hands of the compositor, for that is  
 not meet in the sight of the printer, and he  
-might k nock thee down.
+might k nock thee down.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858113001:0358/pct:4.900601,78.463594,12.112806,17.408150/!600,600/0/default.jpg"/>
 </td>
@@ -6997,7 +6776,7 @@ might k nock thee down.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:s&#x27; IY.ovr.i:ns. Never in­  
+s&#x27; IY.ovr.i:ns. Never in­  
 quire thou of the editor the news, for  
 behold it is his duty at the appointed  
 time to give it unto thee without ask­  
@@ -7016,7 +6795,8 @@ is not mete in the eyes of good breed­
 ing.Neither examine the proof sheet, for  
 it is not ready to meet thine eye, until  
   
-thou mayest understand it.
+thou mayest understand it.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859022401:0257/pct:16.837402,28.607897,11.083261,11.172566/!600,600/0/default.jpg"/>
 </td>
@@ -7030,8 +6810,6 @@ thou mayest understand it.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRiNTER&#x27;S ProvErBS.  
 We give the following for the bene­  
 fit of those who are in the habit of  
@@ -7063,7 +6841,7 @@ that thou mayest understand it.
 6. Look thou not at the copy which  
 is in the hand of the compositor, for  
 that is not meet in the sight of a prin­  
-ter, and he might knock thee down
+ter, and he might knock thee down.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1859072801:0731/pct:79.849740,10.870137,12.637257,20.623028/!600,600/0/default.jpg"/>
 </td>
@@ -7077,7 +6855,6 @@ ter, and he might knock thee down
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Printer’s Proverbs.—We give the  
 following for the benefit of those who are  
 in the habit of hangiug around printing  
@@ -7107,7 +6884,7 @@ mayest understand it.
 6. Look thou not at the copy which is in  
 the hand of the compositor, for that is not  
 meet in the sight of a printer, and he  
-might knock thee down
+might knock thee down.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859091401:0351/pct:54.956897,63.613025,12.877155,16.281584/!600,600/0/default.jpg"/>
 </td>
@@ -7121,8 +6898,6 @@ might knock thee down
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 PRINTERS&#x27; PROVERES. Never inquire  
 thou of the editor for the news, for behold  
 it is his duty at the appointed time to give  
@@ -7144,7 +6919,8 @@ eye, thou mayest not understand it. Fre-
 fer the best conducted paper to any other,  
 and subscribe immediately lor it and pay  
 in advance, and it shall be well with thee  
-and thy little ones.
+and thy little ones.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859102601:0239/pct:19.376202,32.093547,14.654988,11.284869/!600,600/0/default.jpg"/>
 </td>
@@ -7160,7 +6936,7 @@ and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. PRINTEas&#x27; PROVEunS. evOi*  
+PRINTEas&#x27; PROVEunS. evOi*  
 inq uir0e&#x27;thou of the editor for the  
 Ttiews, foi&#x27;behold it is&#x27; his duty at  
 thc appointed tiniafo give it unto thee  
@@ -7182,7 +6958,7 @@ that thou mayest understand it: Prefer
 the paper of thine own, to any other,  
 and subsorihe immedinitelt&#x27; for it &#x27;and  
 pay in advance, and it shall he well  
-with thee and thy little ones. 
+with thee and thy little ones. A
 </td></tr></table>
 
 ---
@@ -7195,7 +6971,7 @@ with thee and thy little ones.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Pkintebs&#x27; Phovebbs, —  
+Pkintebs&#x27; Phovebbs, —  
 Never inquire thoa of tho editor for the  
 news, for behold it is his duty at the  
 appointed time to give it unto thce  
@@ -7217,7 +6993,7 @@ understand it. Prefer the paper of the
 town to any other and subscribe  
 immediately for it. and pay in advance  
 and it shall bo well with thce and thy  
-little onos. 
+little onos. A
 </td></tr></table>
 
 ---
@@ -7228,7 +7004,6 @@ little onos.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Never inquire thou of the printer fot  
 news, for behold it is his duty at the ap­  
 pointed time to give it unto thee without  
@@ -7247,7 +7022,7 @@ printer more trouble than thoa thinkesU
 Look thou not at the copy which is ia  
 the hands of the compositor, for that is not  
 meet in the sight of the printer.  
-CT I
+CT Ir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861031301:0150/pct:83.548206,46.880074,12.457960,12.421712/!600,600/0/default.jpg"/>
 </td>
@@ -7261,7 +7036,6 @@ CT I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Never inquire thou of the printer  
 for new?., f&#x27;.r behold iris liis duty  
 fit the appointed time to g&lt;ve it unto  
@@ -7285,7 +7059,7 @@ for that is not meat in the sight of
 the printer&#x27;s eye.  
   
 Hopeful.  
-The N&quot; Origins
+The N&quot; Origins 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664953:1861032301:0007/pct:61.409797,57.607406,11.697621,14.787562/!600,600/0/default.jpg"/>
 </td>
@@ -7299,7 +7073,7 @@ The N&quot; Origins
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nted for thy special amusement  
+ted for thy special amusement  
 or edification alone.  
 Never inquire thru of the printer for  
 news, for behold it is bis duty at the op­  
@@ -7321,7 +7095,7 @@ hands of the compositor, for tUot is not
 meet io the eight tf the printer.  
 Pain People. There is a set of people  
 whom we cannot bear the pinks of fash­  
-ionable propriety whose ever
+ionable propriety whose every
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1861041601:0064/pct:72.105433,67.560586,11.351876,10.886948/!600,600/0/default.jpg"/>
 </td>
@@ -7335,8 +7109,6 @@ ionable propriety whose ever
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Never enquire thou of the Printer for  
 news ; for behold it is his duty at the appoin-  
 ted time to give it unto thee without asking.  
@@ -7355,7 +7127,7 @@ touch the type, for thou mayest cause the
 printer trouble  
   
 Look thou not at the copy which is in the  
-hands of the compositor, for tha
+hands of the compositor, for that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_DemoWatchman1_ver01%2Fdata%2Fsn83031981%2F00000001%2F1861060601%2F0025.jp2/pct:49.375289,69.357171,13.095789,6.125937/!600,600/0/default.jpg"/>
 </td>
@@ -7369,7 +7141,7 @@ hands of the compositor, for tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nted for tby special  
+ted for tby special  
 amusement or edification alone.  
 Never inoaire thou of the printer for news,  
 for behold it is his duty at the appointed  
@@ -7390,7 +7162,7 @@ Look not at the copy that is in the hinds
 of the emimositnr. for that is not&#x27;nicet in the  
 eight of the printer.  
 Sigs of Hank The relative rank of offi  
-cers in the regular army i
+cers in the regular army is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1861081401:0364/pct:8.523752,20.150530,14.191221,11.825750/!600,600/0/default.jpg"/>
 </td>
@@ -7404,7 +7176,7 @@ cers in the regular army i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- inquire  
+inquire  
 thou of the editor the news, for behold it  
 is his business, at the appointed time, to  
 give it unto thee without asking. It is not  
@@ -7422,7 +7194,7 @@ mayst understand it.
 Prefer thine own city paper to any other,  
 and subscribe for it immediately. Pay in  
 advance, and it shall be well with thee and  
-thy little ones
+thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022799:no_reel:1862011001:0020/pct:11.622534,55.870602,13.221966,9.563088/!600,600/0/default.jpg"/>
 </td>
@@ -7446,20 +7218,7 @@ thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-he preliminaries. He then ap­  
-plied to a clergyman to perform the ceremony:   
-“But are you prepared for such an important  
-.hauge iu ide ?” asked the reverend gentleman.   
-‘Prepared! I guess I be,” replied Jonathan.  
-•‘ I have just got my land paid for, and own a good  
-yoke of steers and a cow.   
-“Very well.” eaid the holy man, with e long  
-breath and sober face; “all these worldly things  
-may be very good in their place, to be sure—but  
-have you never thoughhtoi salvation?”   
-This was a poser; and Jonathan innsing, replied:   
-“SalVaiion! Nover heard on her. Who in  
-thunder is she ?”   
+is she ?”   
   
 Printers’ Proverbs.—When thou dost write  
 for his paper, never say unto him, “What thinkest  
@@ -7481,9 +7240,9 @@ in of the printer end he might knock thee down.
 ready to meet thine eye, that ibou mayest under­  
 stand it.   
   
-Falling in love is lik
+Falling in love is like
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862082101:0185/pct:84.500136,70.354077,10.841732,13.283262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862082101:0185/pct:84.500136,74.967811,10.800872,8.669528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7495,8 +7254,6 @@ Falling in love is lik
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Printers’&#x27;Proverbs.—Whon thou dost  
 write for this paper never say unto him,  
 “What thinkest thou of my piece?” for  
@@ -7518,7 +7275,7 @@ he might knock thee down.
 is not ready to meet thine eye, that thou  
 mayest understand it.  
   
-Green c
+Green cf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1862082601:0465/pct:70.417266,58.985178,12.992806,12.517581/!600,600/0/default.jpg"/>
 </td>
@@ -7532,8 +7289,6 @@ Green c
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 PRINTER&#x27;S PROVERBS.—When thotf dost  
 write for his paper never say unto him, &quot;what  
 thinkest thou of my piuceV&quot; for it iuay  
@@ -7559,7 +7314,7 @@ not ready to meet thiue eye, that thou tnay­
 est undurstand it.  
   
 ARitiAflE.—Who marries for love takos a  
-wif
+wife
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1862091201:0504/pct:84.198318,41.641840,13.003769,11.133179/!600,600/0/default.jpg"/>
 </td>
@@ -7573,7 +7328,7 @@ wif
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the  oee aoe a e eas ii wi bain ton the greter te  
+of the  oee aoe a e eas ii wi bain ton the greter te  
 ounte oe en i i oee  o  o  e oi eo oe ee ee o e e o i  
 the Commarcialdance tamnts the tasta and is aser fras  
   
@@ -7608,7 +7363,7 @@ of any military duty, is &quot;in the executon of
 his office;&quot; and whether having resorted to  
   
 personal violence, he did not put himself on a  
-level with th
+level with the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1862100701:0044/pct:30.626419,62.055957,63.897422,36.539872/!600,600/0/default.jpg"/>
 </td>
@@ -7622,23 +7377,6 @@ level with th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the royal purple  
-and many a jeweled order glittered on his  
-bieast, he seemed the same humble n&gt;rson  
-who had been employed to teach her or  
-gun music and had taught her the lore of  
-love  
-“Elizabeth,” murmured the monarch,  
-Bertram Hoffman, the mysterious organ­  
-ist, and King Oscar, are one ! Forgive  
-my stratagem. I wished to marry ou  
-but I would not drag to the altar an un­  
-willing bride. Vour father was in the se­  
-cret.”  
-While tears of joy rained from he.’ blue  
-eyes, the newly made queen returned her  
-husband’s fond kKs and for once two hearts  
-were made happy by a royal maniaga.  
 Printer’s Proverbs—When thou dost  
 write for his paper, never say unto him  
 “ What thinkesl ih &gt;ll of my piece for  
@@ -7661,9 +7399,9 @@ is not meet in the -iglil of the printer,
 and he might knock thee down,  
 5. Never examine the proof sheet, for  
 it is not ready to meet thine eve, tint  
-thou mayest understand it
+thou mayest understand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1862101701:0639/pct:69.468025,52.805771,12.804188,22.584067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1862101701:0639/pct:69.552915,62.692267,12.719298,12.697571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7675,7 +7413,6 @@ thou mayest understand it
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Pei terts Proverbs  
 I. When thou dost write for this paper ney­  
 er say unto him, &quot;What thinkest thou of my  
@@ -7700,7 +7437,7 @@ meet in the oyes of the brinter and h m
 it is not ready to meet thine eve, that thou  
 mavest understand it.  
   
-Goo
+Good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191228:1862110501:0520/pct:31.306252,56.854658,14.996351,10.490451/!600,600/0/default.jpg"/>
 </td>
@@ -7714,7 +7451,6 @@ Goo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 PRiNTER&#x27;S ProvEres. Never enquire  
 thou of the editor, the news; for behold  
 it is his duty at the appointed time to  
@@ -7737,7 +7473,7 @@ thou mayest understand it.
 Prefer thine own country paper to any  
 other, and subscribe immediately for it  
 and pay in advance, and it shall be well  
-with thee and thy little ones
+with thee and thy little ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475026:1866031001:0032/pct:56.742557,39.991208,17.381786,15.504103/!600,600/0/default.jpg"/>
 </td>
@@ -7751,7 +7487,6 @@ with thee and thy little ones
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 PmxTEits&#x27; PnovKitns. 1. Xovor in  
 quire thou of the Kditor for tlie news.  
 for behold! It Is his duty, at the ap­  
@@ -7779,7 +7514,8 @@ and he might khock uiee uowu.
 C. ever examine me prooi sueets, ior  
 l&quot; in ninnt flitim tl.nf  
 it IS not ready to meet tllltie ejO, tlWt  
-thou&#x27;mavest Utldeistanil It.
+thou&#x27;mavest Utldeistanil It.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298433:1872051701:0128/pct:19.067797,75.288127,12.040960,11.860091/!600,600/0/default.jpg"/>
 </td>
@@ -7793,7 +7529,7 @@ thou&#x27;mavest Utldeistanil It.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; the follow  
+the follow  
 ing is inserted:  
 I. When thou dost write for this pa  
 per, never say unto the editor thereof,  
@@ -7814,7 +7550,7 @@ thou mayest understand it
 V. Look not thou at the copy which  
 is in the hands of the compositor, for it  
 is not mete, in the eyes of the printer,  
-ana lie might Knoca tne
+ana lie might Knoca tnee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775265:1881041401:0213/pct:17.691302,85.862114,10.938522,10.076316/!600,600/0/default.jpg"/>
 </td>
@@ -7828,7 +7564,6 @@ ana lie might Knoca tne
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Printers’ Proverbs.—Never in­  
 qtrre thou of the editor the news, for  
 behold it is his duty at the appointed  
@@ -7852,7 +7587,7 @@ understand it.
 Prefer thine own ounty paper to  
 any other, and subscribe immediately  
 tor it and pay in advance, and it will  
-be well with thee and thy little oner
+be well with thee and thy little oner.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035561:00332896921:1881110301:0144/pct:29.788961,15.869196,12.012987,15.826727/!600,600/0/default.jpg"/>
 </td>

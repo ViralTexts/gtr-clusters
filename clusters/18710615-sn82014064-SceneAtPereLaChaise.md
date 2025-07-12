@@ -135,13 +135,13 @@ Another letter says: &quot;The cemetary at Pare La Chaise presents a deplorable 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, the monuments have been greatly imured by  
+the monuments have been greatly imured by  
 the firing; coffins have been broken, and the remains hie  
 scattered over the ground. You may measure the dead  
 not by numbers but by the rod. They lie in a double tier  
 on the grass, powdered over with a coating of lime.  
 There are many women among them, and faces the  
-ferocity of which makes one sick to look upon
+ferocity of which makes one sick to look upon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871061401:0315/pct:17.325278,9.998853,16.084259,2.889577/!600,600/0/default.jpg"/>
 </td>
@@ -155,8 +155,6 @@ ferocity of which makes one sick to look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 Ancther letter says: &quot;The cemetery at Pare  
 La Chaise presents a deplorable signt. The  
 monuments have been greatly in jured by the fir­  
@@ -166,7 +164,7 @@ the dead not by numbers, but by the rod. They
 lie in a double tier on the grass, powdered over  
 with a coating of lime. There are many women  
 amorg them, and faces the ferocity of which  
-makes the sick to look upon
+makes the sick to look upon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871061501:0001/pct:32.359551,54.155990,8.717228,2.838725/!600,600/0/default.jpg"/>
 </td>
@@ -180,7 +178,7 @@ makes the sick to look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; the monuments have been  
+the monuments have been  
 greatly injured by the firing; coffins have been  
 broken, and the remains lie scattered over the  
 ground. Yon may measure the dead not by  
@@ -188,7 +186,7 @@ numbers but by the rod. They lie in a double
 tier on the grass, powdered over with a coating  
 of lime. There are many women among them,  
 and faces the ferocity oi which makes one sick  
-to look npon
+to look npon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776324:1871061501:0318/pct:4.847458,39.085294,14.474576,4.179261/!600,600/0/default.jpg"/>
 </td>
@@ -202,7 +200,6 @@ to look npon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The Cemetery of Pere-la-Chaise presents  
 a deplorable sight; the resting places of the  
 dead are much defiled; the monuments  
@@ -214,7 +211,7 @@ the rod. They lie in a double tieron th
 grass, powdered over with a coating of  
 lime. There are many women among  
 them, and faces the ferocity of which  
-makes one sick to look upon
+makes one sick to look upon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293708:1871061701:0596/pct:22.467091,7.971244,14.480106,5.846284/!600,600/0/default.jpg"/>
 </td>
@@ -228,7 +225,6 @@ makes one sick to look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A lato Puris letter states that the cem?  
 etery of Piero la Chase presents a de?  
 plorable sight; the resting places of the  
@@ -243,7 +239,7 @@ with a coating of lime. There are many
 women among them, and faces, the fe?  
 rocity of which makes ono sick to look  
 upon.  
-*
+* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551554:1871061801:0270/pct:65.791280,59.126601,16.323378,9.395234/!600,600/0/default.jpg"/>
 </td>
@@ -257,7 +253,6 @@ upon.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 He  
 &quot;The Cemetery ofiPere-la-Chaisff- Pre  
   
@@ -270,7 +265,7 @@ remains lie , scattered&quot; over the . ground.
 i-&#x27;ifter?lut !b;ith;cTOeJlnrdble  
 &#x27;,,uer.on.the, rasrVHe pyr&#x27;wuth a  
 Coating bf lime. There are many Nvorhep  
-
+r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarWilm58n_ver01%2Fdata%2F1871062101%2F0586.jp2/pct:2.532629,80.267627,16.920447,6.875965/!600,600/0/default.jpg"/>
 </td>
@@ -284,7 +279,7 @@ Coating bf lime. There are many Nvorhep
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; the monuments  
+the monuments  
 have been greatly injured by the firing;  
 coffins have been broken, and the remains  
 lie scattered over the ground. You may  
@@ -293,7 +288,7 @@ the rod. They lie in a double tier on the
 grass, powdered over with a coating of  
 lime. There are many women among  
 them, and faces the ferocity of which  
-e o o 
+e o o o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1871062101:0403/pct:25.393207,50.288092,17.278322,5.137644/!600,600/0/default.jpg"/>
 </td>
@@ -307,7 +302,7 @@ e o o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; the monuments  
+the monuments  
   
 have been greatly injured by the firing;  
 colling have been broken; and . tho re­  
@@ -321,7 +316,7 @@ women among them, and faoes tho fero
   
 city of which makes ona sick to look  
   
-upon
+upon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871062101:0577/pct:44.686985,38.619994,12.458814,5.200230/!600,600/0/default.jpg"/>
 </td>
@@ -375,7 +370,7 @@ upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; the monuments have been  
+the monuments have been  
 greatly injured by the firing ; coffins have  
 been broken, and the remains lie scattered  
 over the ground. You may measure the  
@@ -384,7 +379,7 @@ dead not by numbers but by the rod. They
 lie in a double tier on the grass, powdered  
 over with a coating of lime. There are many  
 women among them, and faces the ferocity  
-of which makes one sick to look upon
+of which makes one sick to look upon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022974:1871062701:0523/pct:52.000000,79.633486,14.808219,5.049979/!600,600/0/default.jpg"/>
 </td>
@@ -398,7 +393,6 @@ of which makes one sick to look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A larte Paris letter stat(es that  
 the cemetery of Pierre la Chas~e  
 presenrts a deplorable sigM ;th  
@@ -414,7 +408,7 @@ tier on the grass, powdered over
 wiha coating of lime. There are­  
 manry women among them, andi  
 faces, the ferocity of which makes&#x27;  
-one sick to look uponms
+one sick to look uponms.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286984:1871062801:0531/pct:86.043028,73.909972,11.900871,9.345983/!600,600/0/default.jpg"/>
 </td>
@@ -428,7 +422,7 @@ one sick to look uponms
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?A late Paris letter states that the cemetery  
+A late Paris letter states that the cemetery  
 of Pere la Chaise presents a deplorable sight;  
 the resting places of the dead are much defiled  
 ; the monuments have been greatly injured  
@@ -439,7 +433,7 @@ but by tiie rod. They lie in a double tier on
 the grass, powdered over with a coating of  
 Iim&lt;h There are many women among them,  
 and faces the ferocity of which makes one sick  
-to look upon
+to look upon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:83.079913,58.513107,16.725735,5.440481/!600,600/0/default.jpg"/>
 </td>
@@ -453,7 +447,7 @@ to look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—The Cemetery of IVre-1a­  
+The Cemetery of IVre-1a­  
 Chaise, Paris, presents a deplorable  
 sight ; the resting places of the dead  
 ore much defiled; the monuments  
@@ -466,7 +460,7 @@ double tier on the grass, powdered
 over with a coating ol lime. There are  
 many women among them, and faces  
 the ferocity of which make one sick to  
-look upon
+look upon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:0027955520A:1871070601:0020/pct:20.331871,80.460961,11.768072,6.266995/!600,600/0/default.jpg"/>
 </td>
@@ -482,7 +476,7 @@ look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; the  
+the  
 monuments have been greatly injured&quot;by  
 the firing; coffins have been broken,  
 and the remains lie scattered over the  
@@ -492,7 +486,7 @@ a double tier on&#x27; the grass, powdered
 over with a coating of lime. There are  
 many women among them, and faces the  
 ferocity of which makes one sick to look  
-upon
+upon.
 </td></tr></table>
 
 ---
@@ -505,7 +499,7 @@ upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- at the Hotel de Ville. At every  
+at the Hotel de Ville. At every  
 corner prisoners might be seen ranged  
 against a wall and shot .by the score.  
 At three places they were executed in  
@@ -517,7 +511,7 @@ by the rod. &#x27; They lie (wrote one) in a
 double tier, powdered over with a  
 coating of lime. There are many women  
 among them with faces the ferocity of  
-which makes one sick to look upon
+which makes one sick to look upon.
 </td></tr></table>
 
 ---
@@ -530,7 +524,7 @@ which makes one sick to look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the  
+the  
 circuit and come down on the south-  
 eastern corner. Here, close to the  
 boundary wall, is a natural hollow. It  
@@ -542,7 +536,7 @@ coating of chloride of lime-a hundred
 and fifty of them patent to the eye,  
 besides what have been hidden by the  
 earth which the gravethggers have flung  
-upo
+upon
 </td></tr></table>
 
 ---
@@ -555,7 +549,7 @@ upo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the sale of  
+the sale of  
 funeral wreaths. PijrelaChaise presents  
 a deplorable sight; the resting places  
 of the dead are much defiled ; the  
@@ -568,7 +562,7 @@ double tier on the grass, powdered over
 with a coating of lime. . There are many  
 women among them, and fiicea the  
 ferocity of which makes one sick- to,  
-look upon
+look upon.
 </td></tr></table>
 
 ---
@@ -581,7 +575,7 @@ look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; the monuments.have been greatly  
+the monuments.have been greatly  
 injured by the fiiing;. coffins have:  
 been broken and the remains lie  
 scattered, over. the ground. You may  
@@ -590,7 +584,7 @@ bythe rod. They lie in a double&quot; tier on
 the grass;: powdered over, with it  
 coating of lime. There are many women  
 among :them, and faces the ferocity: of  
-which makes.one sick to look upon
+which makes.one sick to look upon.
 </td></tr></table>
 
 ---
@@ -603,7 +597,7 @@ which makes.one sick to look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to the  
+to the  
 boundary, wall, is a natural hollow.  
 It..is full of dead.. Ton may measure  
 the deadj not by the; head, but by the  
@@ -613,7 +607,7 @@ over with a. coating of chloride of
 lime—a hundred and fifty of them patent  
 to the eye, besides: what have been  
 hidden by, the earth which the  
-gravediggers have flung upo
+gravediggers have flung upon
 </td></tr></table>
 
 ---
@@ -626,7 +620,7 @@ gravediggers have flung upo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. The monuments  
+The monuments  
 have been greatly injured by tho-  
 firing; coffins have beon brokon, arid  
 tho rotnains lio scattered &#x27;over the  
@@ -636,7 +630,7 @@ double tier on tho grass, powdered over
 with a coating of liine. Thoro ara many;  
 wotnen among thorn, and faces tho  
 ferocity of which makes ono Bick to look  
-upon
+upon.
 </td></tr></table>
 
 ---
@@ -649,7 +643,6 @@ upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 the vaults. But the sight of Perb la  
 Chaise in ghastliness is reserved to the  
 last. We come down on the south-eastern  
@@ -662,7 +655,7 @@ grass, powdered over with a coating of
 chloride of lime-a hundred and fifty of  
 them patent to the eye, besides what  
 have been hidden by the earth which the  
-gravediggers have flung upo
+gravediggers have flung upon
 </td></tr></table>
 
 ---
@@ -675,7 +668,7 @@ gravediggers have flung upo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; the  
+the  
 monuments have been greatly injured by  
 the firing; coffins have been broken,  
 and the remains lie scattered over the  
@@ -684,7 +677,7 @@ numbers but by the rod. They he in a
 double tier on the grass powdered over  
 with a coating of lime. There are many  
 women among them, and Faces the ferocity  
-ot which makes one sick to look upon
+ot which makes one sick to look upon.
 </td></tr></table>
 
 ---
@@ -697,7 +690,7 @@ ot which makes one sick to look upon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the decomposing remains  
+the decomposing remains  
 spattered against the walls of the  
 vaults. But tho sight of the Pero La  
 Chaise in gbastliness is reserved to the  
@@ -711,7 +704,7 @@ a double tier on the grass,- powdered
 over with a coating of chloride of lime  
 — a hundred and fifty of them patent to  
 the eye, besides .what have been hidden  
-by tho onrth whic
+by tho onrth which
 </td></tr></table>
 
 ---
@@ -724,7 +717,7 @@ by tho onrth whic
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the  
+the  
 decomposing remains spattered against  
 the walls of the vaults. But the sight  
 of the Pere La Chaise in ghastliness is  
@@ -740,7 +733,7 @@ coating of chloride of lime- a hundred
 and fiftv of them natentto the eye.  
 besides what have been bidden by the  
 earth which the gravediggers have flung  
-upo
+upon
 </td></tr></table>
 
 ---
@@ -753,7 +746,7 @@ upo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the  
+the  
 decomposing remains spattered against  
 the walls of the vaults. But the sight  
 of the Pdre la Chaise in ghastliness is  
@@ -769,7 +762,7 @@ coating of chloride of lime—a hundred
 and fifty of them patent to the eye,  
 besides what have been bidden by the  
 earth which the gravediggers have flung  
-upo
+upon
 </td></tr></table>
 
 ---

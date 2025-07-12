@@ -1,7 +1,7 @@
 
 # Wanted--An Angel For Heaven
 
-### 143 reprints from 1853-01-27 to 1892-09-28
+### 140 reprints from 1853-01-27 to 1892-09-28
 
 ## [Wanted--An Angel For Heaven](https://chroniclingamerica.loc.gov/lccn/sn83045461/1853-03-25/ed-1/seq-1/)
 
@@ -49,7 +49,7 @@ Mother of angels walk softly! Holy eyes watch thy footsteps, cherub forms bend t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n.  
+.  
   
 TWO IN HEAVEN,  
   
@@ -86,6 +86,7 @@ thy footsteps, cherub forms bend to listen! Keep
 thy spirit free from earth taint ; so shalt thou “ go to  
 them,” though “ they may not return to thee.”—(i-  
 we Branch,  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_watchman-examiner_1853-01-27_34_4%2Fsim_watchman-examiner_1853-01-27_34_4_jp2.zip%2Fsim_watchman-examiner_1853-01-27_34_4_jp2%2Fsim_watchman-examiner_1853-01-27_34_4_0000.jp2/pct:81.416071,70.916230,11.768484,11.910995/,600/0/default.jpg"/>
@@ -100,27 +101,6 @@ we Branch,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-een told. He was the true  
-father of the American Union. It was  
-Franklin who suggested the Congress of  
- e o  
-e, and but for his wisdom, and the  
-once tho ae  o e  
-sunmente that wisdom inspired, it is a  
-mlatter of doubt whether that  
-Congress  
-would have taken effect. It was Franklin  
-who suggested the bond of the Union  
-which binds these States from Florida to  
-Maine. Franklin was the greatest diplo-  
-ei o e ee ee e  
-ee  
-ver spoke a word too son te  
-spoke a word too lates he naser filed t  
-peak the right word at the right  
-West Branch papers.  
-Resolved, That this Convention adjourn  
-ic. Uigned by the officers.  
 Wanted--An Angel for Heaven.  
 And so death closed those little eyes  
 shrouded their bright glances. Oh that  
@@ -152,9 +132,9 @@ you look up? Can you bear the sp&#x27; and
 of the sight? Ten thousand cele  
 ings, and your own radiant chiangel in  
 On his brow a lor crowa.  
-Wanted---angels for heave
+Wanted---angels for heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1853012801:0675/pct:79.016698,53.456487,13.413729,39.212008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1853012801:0675/pct:79.647495,68.970991,12.782931,23.697503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,8 +146,6 @@ Wanted---angels for heave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-_  
-  
 TWO IN HEAVEN.  
   
 ‘You have two children, said I.  
@@ -199,7 +177,7 @@ softly! Holy eyes watch thy footsteps, cherub
 forins bend to listen! Keep thy spirit free  
 from taint; so shalt thou ‘ go to them,’ though  
 ‘they may not return to thee.—[ Olive Branch.  
-?
+? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1853-02-17_26_43%2Fsim_youths-companion_1853-02-17_26_43_jp2.zip%2Fsim_youths-companion_1853-02-17_26_43_jp2%2Fsim_youths-companion_1853-02-17_26_43_0003.jp2/pct:53.185745,30.080117,21.436285,18.882010/,600/0/default.jpg"/>
 </td>
@@ -213,7 +191,7 @@ from taint; so shalt thou ‘ go to them,’ though
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-crat,  hars as si  
+rat,  hars as si  
 Two in Heaven. Sod sess as  
 &quot;You have two children,&quot; said I,  s all  
 &quot;I have four,&quot; was the reply, &quot;two on  
@@ -243,7 +221,7 @@ watch thy footsteps! cherub forms bend t
 listen! Keep thy spirit free from earth&#x27;  
 taint; so shalt thou &quot;go to them,&quot; though  
 &quot;they may not return to thee.&quot; Olived  
-Branchnin 2
+Branchnin 23
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85025647:00296026670:1853030201:0525/pct:81.321839,33.068993,13.523707,16.085118/!600,600/0/default.jpg"/>
 </td>
@@ -257,7 +235,7 @@ Branchnin 2
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. ,  
+,  
 Two in Heaven. &quot;You have two cb.il.  
 dren&#x27;1&quot; said I. , - a  
 &quot;I hnve four,&quot; was the reply; &quot;two on earth  
@@ -284,7 +262,7 @@ Mother of angels I Walk softly! hby
 eyes watch thy footsteps! cherub forms bend  
 to listen I Keep thy spirit free from earth  
 taint; so shalt thou go to them, tho&#x27; they may  
-not return to thee. i anny fern
+not return to thee. i anny fern.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853030401:0103/pct:61.587660,39.550192,13.261851,14.440483/!600,600/0/default.jpg"/>
 </td>
@@ -298,7 +276,7 @@ not return to thee. i anny fern
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- an the 1 pw, tbose Lf the older States, bcaronlJ before!&#x27; Still remembered,  
+an the 1 pw, tbose Lf the older States, bcaronlJ before!&#x27; Still remembered,  
   
 lovea ana cnerisnea, oy tnc neartn anu ai  
 the board, their places not yet filled; even  
@@ -307,7 +285,8 @@ same faithful breast where their dying heads
 were pillowed.  
 Two in heaven !&#x27;  
   
-Safely housed from storm and tempest ;
+Safely housed from storm and tempest ;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OBGreen1n_ver01%2Fdata%2F1853031901%2F0255.jp2/pct:11.471251,90.204384,34.258737,5.835010/!600,600/0/default.jpg"/>
 </td>
@@ -321,7 +300,6 @@ Safely housed from storm and tempest ;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 e befors. Still remembered, loved and che­  
 hed by the hearth and at the board; th  
 places not yet filled; even though their succes  
@@ -341,7 +319,7 @@ I to the world-weary spirits.
 &quot;Two in heaven!&quot;  
 Mother of angels! Walk softly! holy eyt  
 watch thy footsteps! cherub forms bend to lis  
-shalt thou
+shalt thou 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853032201:0308/pct:82.187500,4.691358,13.270833,9.675926/!600,600/0/default.jpg"/>
 </td>
@@ -355,13 +333,13 @@ shalt thou
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- w hole  
+w hole  
 i of the luniilv in order.  
 “You liuvu two clnlili mi,” said I.  
 “I have four,” was the reply; “two on  
 earth, two in heaven.”  
 There spoke the mother!  
-jJ^’As there i
+jJ^’As there is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853032301:0423/pct:27.632045,88.797318,13.133641,5.741025/!600,600/0/default.jpg"/>
 </td>
@@ -375,8 +353,6 @@ jJ^’As there i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Two in Heaven.—‘ You have two child-on,&#x27;  
 said I. ‘T have four,” was the reply: ‘‘two oti  
 earth, two in heaven.”  
@@ -402,7 +378,7 @@ Mother of angel-! W illk softly! holy eyes,
 watch thy footsteps! cherub form* bend to. lis­  
 ten! Keep thy spirit free from enith taint; so  
 shalt thou “go to them,” though they may not  
-return to thee.
+return to thee.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853032401:0772/pct:19.638872,72.551269,18.015825,17.108848/!600,600/0/default.jpg"/>
 </td>
@@ -416,21 +392,7 @@ return to thee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sir, a sensible and logical man,  
-; and strorg upon figures ; calculate the dif­  
-ference between him who in ten years  
-reaches from zero to thirty thousand, and  
-i him, who in the same time, falls from over  
-? a million to zero ! I do not believe I de­  
-ceive or flatter myself in believing the quo­  
-I tient of this sum in proportion will be in  
-j my favor!&quot;  
-The frankness of the young clerk who,  
-at first sight, had a little discomposed the  
-banker, concluded by winning him over.?  
-To-day the marriage of the partner in the  
-firm of X*** with the daughter of the  
-banker is announced as an irrevocable fact.  
+ an irrevocable fact.  
 W anted?An Angel for Heaven.?And  
 so death closed those little eyes?shrouded  
 their bright glances. 0, that the sun would  
@@ -492,9 +454,9 @@ Mother of angels walk softly ! Holy eyes
 watch thy footsteps, cherub forms bend to  
 1 listen ! Keep thy spirit free from earth&#x27;s  
 taint; so eha.lt thou &quot;go to them,&quot; though  
-! &quot;they may not return to thee.
+! &quot;they may not return to thee.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853032501:0311/pct:76.696725,15.356885,18.968518,68.503450/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853032501:0311/pct:76.696725,28.149140,18.873596,55.711196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +478,7 @@ taint; so eha.lt thou &quot;go to them,&quot; though
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fraid that be was afraid that be  
+raid that be was afraid that be  
 wouW nut have a hair left r  
   
 &quot;You have two children,&quot; said T.  
@@ -548,7 +510,7 @@ Mother of envie! walk softly! holy eyes watch
 thy footsteps! cherub farms bond to Ulm. Keep  
 thy spirit free from earthly taut; so shalt thou &quot;go  
 to them&quot; though &quot;they may not return to tbee.&quot;—  
-Olive Brunc
+Olive Brunch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_dispater_ver01%2Fdata%2Fsn83032025%2F000002280%2F1853032601%2F0133.jp2/pct:48.065237,65.068493,14.548704,16.806668/!600,600/0/default.jpg"/>
 </td>
@@ -572,23 +534,6 @@ Olive Brunc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ught upon when tb?y are hot.  
-A man must know many things hforj  
-he is able truly and judiciously to judge  
-of another, or of his own actions.  
-Self esteem is commonly punished l  
-umvaMSA4&#x27;cotuip41abia priiseat;  
-self, remains a debtor to all others.  
-It is easy to get an ill name, because  
-evil is sooner beljieved, and bad imprej.  
-sions are difficult to be effaced.  
-A man may easily utter what by ii.  
-lence be has concealed, but he cannot re­  
-call what he has once spoken.  
-He that talks what he knows, will also  
-talk what be knows not.  
-Order yoor affairs so as not to pass for  
-a crafty man.  
 TWO IN HEAVEN.  
 You have two children ?&quot; said I.  
 I have four, was the reply ; &quot; two oa  
@@ -616,9 +561,9 @@ Mother of angels! Walk softly ! holy
 eyes watch thy footsteps ! cherub formi  
 bend to listen ! Keep ihy spirit free from  
 earrn taint ; sp snail innu go 10 mem, iuu  
-they may not return to xhee 
+they may not return to xhee .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1853033101%2F0260.jp2/pct:83.235981,26.077348,14.544393,31.132597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal3_ver01%2Fdata%2F1853033101%2F0260.jp2/pct:83.235981,39.461326,14.544393,17.748619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +575,7 @@ they may not return to xhee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ble on ihe evil and the  
+le on ihe evil and the  
 false.  
 Wanted, an Anoei. for Hk a vF.pt. And so  
 deaih closed tlnse little, eves -shrouded iheir  
@@ -666,9 +611,15 @@ Wanted angels for heaven ! Cling not loo
 clostly to your beautiful treasures, children of  
 f -th!  
 Oribin or Texts. The custom of taking a  
-4ext as the basis of a 
+4ext as the basis of a sermon or lecture is said  
+to have originated with Ezra, who, we are told,  
+sccompain- d by several Leviies in a public con  
+gregation of men and women, ascended a pulpit  
+ojaned the book nf the law, and after address.  
+ing a praver to the Deity, to which the people  
+said &quot; Amen,&quot; &quot; read in the la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853033101:0053/pct:4.766123,67.985794,12.313962,20.738204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853033101:0053/pct:4.766123,67.985794,12.313962,24.099442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,8 +631,6 @@ Oribin or Texts. The custom of taking a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Waxrep—As Anant ron Hesven.—And so  
 death closed those little eyes their  
 bright glances. Oh, that the sum would sot  
@@ -712,7 +661,7 @@ awey your tears’
 Wanted—an ange! for deaven! Can you  
 look up? Can you bear the splender of that  
 sight! Ten thousand celestial beings, sad  
-your own radiant child-angel in their mids
+your own radiant child-angel in their midst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1853-04-02_32_1653%2Fsim_saturday-evening-post_1853-04-02_32_1653_jp2.zip%2Fsim_saturday-evening-post_1853-04-02_32_1653_jp2%2Fsim_saturday-evening-post_1853-04-02_32_1653_0000.jp2/pct:72.616598,62.962413,8.590535,11.825880/,600/0/default.jpg"/>
 </td>
@@ -726,7 +675,7 @@ your own radiant child-angel in their mids
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;You have two  
+You have two  
 hidrenv&#x27; said . or  
 I have four,&quot;vas the reply; &quot;two foi  
 t earth and two in heaven. ne  
@@ -757,7 +706,7 @@ y eyes watch thy footsteps! cherub ir
 &#x27;orms bend to listen! Keep thy spir  
 t free from earth taint; so shalt thou  
 To to them, tho&#x27; they may not re. n  
-urn to thee. F.iNNY Fs
+urn to thee. F.iNNY FsI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1853040501:0300/pct:30.023571,5.182754,14.113141,18.626231/!600,600/0/default.jpg"/>
 </td>
@@ -771,7 +720,7 @@ urn to thee. F.iNNY Fs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,&quot;.You have two  
+&quot;.You have two  
 child etd&quot; said 1.  
 I haveofour,&quot; ias the roply; &quot;two  
 on earth and two in heaven.  
@@ -802,7 +751,7 @@ ly eyes watch thy footsteps! cherul&gt;
 forms bend to listen! Keep thy spir  
 it free from earth taint; so shalt thou  
 go to them, tho&#x27; they may not re­  
-turn to thee. FANNY FFILN
+turn to thee. FANNY FFILN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1853040501:0301/pct:29.542790,4.749490,13.232708,18.816595/!600,600/0/default.jpg"/>
 </td>
@@ -826,7 +775,6 @@ turn to thee. FANNY FFILN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 J Aw Angel fob Heaven.—And no  
 [ death closed those little eyes—shrouded  
 . their light glances. Oh. th»t the sun  
@@ -866,7 +814,7 @@ On her brow a glory crown.”
 Wanted—angels for heaven 1 Cllng;  
 not too closely to your beautiful treas­  
 ures, children of earth!  
-JEST A brave veteran office
+JEST A brave veteran officer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1853040701:0789/pct:79.495899,14.607816,15.543109,24.856518/!600,600/0/default.jpg"/>
 </td>
@@ -880,41 +828,6 @@ JEST A brave veteran office
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-osed  
-I send you the amount of your wages for an-  
-other year. I hope it will insure your weekly  
-visits, as I feel quite desolated by your absence.  
-The ‘ Youth’s Companion,’ that dear friend,  
-On which my joys so much depend,  
-  
-Which cheers my sad and lonesome hours,  
-As earth refreshed with genial showers.  
-  
-That best solace of all that’s left  
-Of my sad life, of all bereft,  
-And must I be of thee deprived,  
-And left alone to brave the tide?  
-  
-No; rather let me be deprived  
-Of everything I have beside,  
-And poor and hungry let me be,  
-Rather than be deprived of thee.  
-Exisua Roserts.  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Variety.  
-  
-  
-  
-  
-  
 WANTED—AN ANGEL FOR HEAVEN.  
   
 And so death closed those little eyes—  
@@ -954,9 +867,10 @@ Wanted—angels for heaven! Cling not too
 closely to your beautiful treasures, children of  
 earth!  
   
-Can you
+Can you  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1853-04-07_26_50%2Fsim_youths-companion_1853-04-07_26_50_jp2.zip%2Fsim_youths-companion_1853-04-07_26_50_jp2%2Fsim_youths-companion_1853-04-07_26_50_0003.jp2/pct:29.184665,41.096140,21.922246,40.768390/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1853-04-07_26_50%2Fsim_youths-companion_1853-04-07_26_50_jp2.zip%2Fsim_youths-companion_1853-04-07_26_50_jp2%2Fsim_youths-companion_1853-04-07_26_50_0003.jp2/pct:29.346652,57.319738,21.760259,24.544792/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +882,6 @@ Can you
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 .. Two 1x Heaves. “ You have two children.”  
 said I “I have four,” was the reply; “ two on  
 ~qq‘?x, two in heaven.”  
@@ -989,7 +902,7 @@ heavenly fold.
 }:g :ﬁ&quot;‘lﬁﬁﬁ&quot;l‘g{; c;lsle maternal soul upwards.—  
 3 , ever i  
 Ahewirldiwenry apivite, whispering, come! to  
-‘T
+‘Tu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868491:1853040901:0060/pct:4.081933,84.059834,11.582670,9.150403/!600,600/0/default.jpg"/>
 </td>
@@ -1003,7 +916,6 @@ Ahewirldiwenry apivite, whispering, come! to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’  
 Two in Heaven,  
 ““You have two children,” said I. T have  
 four,”” was the reply; ““two on earth two in |  
@@ -1030,7 +942,8 @@ Mother of angels ! Walk softly ! holy eyes,
 watch tl;‘v footsteps ! cherub forms bend to lis­  
 ten&#x27; - Keep thy spirit free from earth taint;  
 8o shalt thou *‘go to them,”” though * they  
-must not return to thee.”’— Olive Branch.
+must not return to thee.”’— Olive Branch.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023811:00517015283:1853041601:0152/pct:4.293629,72.074587,11.121884,12.606074/!600,600/0/default.jpg"/>
 </td>
@@ -1044,20 +957,7 @@ must not return to thee.”’— Olive Branch.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ill remove larger stones than that from  
-the path ot human lite. Hive me that man fo«  
-my adversity. He who has honored the small  
-draft will honor the greater. His good will not  
-be exhausted bv that Hl*&gt;rt. I  
-It was a trifle, was it? Please then thing, j  
-niy friend, it can be but a tritle lor you to do  
-Nuch a thing, l*o every such sort ot thing—  
-anything that will remove obstructions out ol  
-the path of human happiness, Hive }our neigh­  
-bor a jog to do so too. Perhaps he will pass  
-the jog along, and we shall joggle some ol the  
-selfishness out ot tfie human heart.—A. 1  
-Evanetli&#x27;t.  
+t.  
   
 TWO IN HEAVEN  
 •&#x27;You have two children, said I. “I have  
@@ -1086,9 +986,9 @@ eyes watch thy foot step*! cherub forms bend
 to listen! Keep thy spirit free from earth&#x27;s  
 taint; so shall thou “go.to them,” though they  
 may not return to thee.--0/n*e Branch.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853041601:0360/pct:8.275382,27.502560,12.673853,20.058884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853041601:0360/pct:8.275382,33.486943,12.500000,14.074501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,8 +1000,6 @@ may not return to thee.--0/n*e Branch.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Commission Merchants  
   
 &quot;You have two children,&quot; said I. &quot;I have  
@@ -1111,7 +1009,7 @@ There spoke the mother. Still hers, only
 rone before! Still remembered, loved and  
 cherished, by the hearth and at the board:  
   
-th
+the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296217:1853041601:0487/pct:9.654350,50.535923,76.474970,6.940465/!600,600/0/default.jpg"/>
 </td>
@@ -1125,7 +1023,7 @@ th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- win the tierst hearty appdanse  
+win the tierst hearty appdanse  
 e te o oeeeee  oeee  
   
 fg cur  
@@ -1137,7 +1035,7 @@ tended by the Good Shepherd, linger the lit
 tle lambs of the heavenly fold  
 &quot;Two in heaven!&quot;  
   
-and pursue it with a well-timed zeal; th
+and pursue it with a well-timed zeal; the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296217:1853041601:0487/pct:9.982122,60.543351,49.463647,3.353497/!600,600/0/default.jpg"/>
 </td>
@@ -1151,8 +1049,6 @@ and pursue it with a well-timed zeal; th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Invisible cords, drawing the maternal soul  
 upwards. &quot;Still, small&quot; voices ever whisper­  
 ing, come! to world-weary spirits.  
@@ -1161,7 +1057,7 @@ Mother of angels! walk softly! holy eve­
 watch thy foot-steps. Cherub forms bend to  
 listen. Keep thy spirit free from earth taint,  
 so shalt thou &quot;go to them, though they mav  
-not return to thee.
+not return to thee.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296217:1853041601:0487/pct:10.011919,64.724610,12.574493,5.062082/!600,600/0/default.jpg"/>
 </td>
@@ -1175,23 +1071,6 @@ not return to thee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-athily, or tremble as we grasp  
-the coveted pleasure ; our looks are grown in-  
-solent and defiant ; the guilty blood mantles not  
-on our cheeks at the detected fraud, the selfish  
-indulgence, the debasing irreverence. The  
-fence is broken down, and we wander unre-  
-strained farther and farther on those inviting  
-paths, whose fatal termination is the spare, the  
-pitfall, the abyss of darkness and eternal de-  
-  
-* Such beautiful flowers?’ Turn from them,  
-teach them not, they are forbidden.  
-  
-* Only just inaide the fence” Within that  
-fence is rin, without it is sefery —Comiridge  
-Chronscle  
-  
 Two m Heavaex.—« You have two chil  
 dren ?’’ said I.  
   
@@ -1228,9 +1107,9 @@ Mother of angels! Walk soft!y!—holy eyes
 watch thy footsteps&#x27;—cherub forms bend to  
 listen! Keep thy spirit free from earth-taint;  
 so shalt thy soul go to them, though they may  
-not return to thee.— Fanny Fern
+not return to thee.— Fanny Fern.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1853-04-16_32_1655%2Fsim_saturday-evening-post_1853-04-16_32_1655_jp2.zip%2Fsim_saturday-evening-post_1853-04-16_32_1655_jp2%2Fsim_saturday-evening-post_1853-04-16_32_1655_0003.jp2/pct:60.613855,45.387015,8.659122,17.322835/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_saturday-evening-post_1853-04-16_32_1655%2Fsim_saturday-evening-post_1853-04-16_32_1655_jp2.zip%2Fsim_saturday-evening-post_1853-04-16_32_1655_jp2%2Fsim_saturday-evening-post_1853-04-16_32_1655_0003.jp2/pct:60.648148,51.819938,8.624829,10.889912/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1242,24 +1121,6 @@ not return to thee.— Fanny Fern
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tal height 242 feet.  
-Another one, in a forest of spruce,  
-cedar and fir, of about the same size,  
-measured thirty-nine feet in circumfer­  
-ence. Mr. Coe says : &quot;Gen. John Adair,  
-of Astoria, informs me that about three  
-years ago he bought a hundred thousand  
-shingles, all made from ono cedar tree,  
-for which he gave fifteen hundred dollars  
-in gold.&quot; The tremendous size of timber  
-in Oregon appears to be well attested.  
-The salaries of the various officers within  
-the gift of the President of the United  
-States amount to upwards of fifty mil­  
-lions of dollars a-ycar. &quot; &#x27; :  
-  
-IV QIl I fill All inivnl O IT  
-  
 And so death closed those little eyes!  
 shrouded their bright glances. Oh that  
 lit , w  
@@ -1301,52 +1162,9 @@ On his Drow a glory crown.&quot;
 Wanted angels for heaven 1 Cling  
 not too closely to your beautiful treasures?  
 children of earth.  
-Found Dkoavxed. On th
+Found Dkoavxed. On the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853042101:0566/pct:66.016624,5.374469,30.882353,89.610814/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The miners' journal, and Pottsville general advertiser._](https://panewsarchive.psu.edu/lccn/sn84026251/1853-04-23/ed-1/seq-1/)
-
-#### 1853-04-23 &middot; [Pottsville, Pa.](http://dbpedia.org/resource/Pottsville%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-s broken down, sod we winder  
-unrestrained farther and farther on those in­  
-riling paths - whose &#x27;fatal termination is the  
-snare, the pitfall, the abyss , of darkness and  
-eternal despair.  
-Sucji beautiful flowers 1&#x27; Turn from  
-them, touch them not, they are forbidden.  
-  
-&quot;Only just inside the fence!&quot; , Within  
-that fence is sin, without it is safety.—Cam•  
-bridge - Chronicle. ,
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002342%2F1853042301%2F0065.jp2/pct:64.684447,67.301906,9.270383,3.864719/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Fayetteville observer._](https://newspapers.digitalnc.org/lccn/sn83045228/1853-05-02/ed-1/seq-1/)
-
-#### 1853-05-02 &middot; [Fayetteville, N.C.](http://dbpedia.org/resource/Fayetteville%2C_North_Carolina)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-  
-been taken.  
-The Spoils. The salaries of the various officers  
-within the srift of the President of the United  
-1 States amount to upwards of fifty millions of dol  
-lars a year
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarObsF13n_ver01%2Fdata%2F1853050201%2F0273.jp2/pct:32.950820,90.191600,16.081967,3.400584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1853042101:0566/pct:81.601662,6.083070,15.297315,23.809005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1176,6 @@ lars a year
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 WASTED?AN ANSEL FOE HEAVEN.  
 And so death closed those little eyes?shroud­  
 ed their bright glances. Oh, that the sun would  
@@ -1408,7 +1225,7 @@ onward, and fanned the brows of the heated
 laborers, they, one and all, thanked heaven that  
 the toil of the day was over. But to no one  
 among the homeward bound did the evening  
-breeze seem more refreshing than to thre
+breeze seem more refreshing than to three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192312:1853051001:0012/pct:16.336473,6.722125,27.768756,91.801959/!600,600/0/default.jpg"/>
 </td>
@@ -1432,7 +1249,7 @@ breeze seem more refreshing than to thre
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-6th, 1853...  
+th, 1853...  
 Wanted Ax Angel for Heaven. And ,o  
 death closed those little eyes shrouded their  
 bright glances. Oh, that the sun would not  
@@ -1466,7 +1283,7 @@ On his brow a glory crown.&quot;
 Wanted angels for heaven ! Cling not too  
 closely to your beautiful treasures, children of  
 earth 1  
-A letter from Paris
+A letter from Paris 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalReg12n_ver01%2Fdata%2F1853051101%2F0150.jp2/pct:56.256831,57.107232,12.636612,17.819089/!600,600/0/default.jpg"/>
 </td>
@@ -1480,7 +1297,6 @@ A letter from Paris
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Wasted As Angel for Heaven&#x27;. And so  
 I death closed these littlo eyes shrouded their  
 i&#x27; bright glances. Oh, that-the sun would not  
@@ -1515,7 +1331,7 @@ I On his brow a glory crown.&quot;
 Wanted angels for heaven ! Cling not too  
 j closely to your beautiful treasures, children of  
 I earth !  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalRegNCWA6n_ver01%2Fdata%2F1853051101%2F0074.jp2/pct:57.944785,60.455966,14.171779,16.780465/!600,600/0/default.jpg"/>
 </td>
@@ -1529,14 +1345,12 @@ I earth !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-)  
-  
 How sweetly be sleeps, that little coveted angel ! by fat and delicious snad ; alter tnis u stiut uown on  
 Howliebtlv curl the rlowv tinfflets on his white the shad) came I do not exactly recollect what kind  
   
 forehead ! You could weep your very soul away to roasts i these in turn were followed by a regular  
   
-think thos
+think those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm2n_ver01%2Fdata%2F1853051401%2F0754.jp2/pct:27.437981,26.946786,43.627032,2.264436/!600,600/0/default.jpg"/>
 </td>
@@ -1550,14 +1364,12 @@ think thos
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 at your door, and will let you have no peace. It eluded f Three francs, or not quite sixfy cents of our  
 shouts in vour ear: its ehariota rumbla kv it mouev! Tliil.kinz there was some mistake, I told  
   
 smiles broadlv in tour care-worn face: it mocks the Jamt dt comptotr that I bad gone tbe entire break  
   
-you as you sew the shroud : it meets you at the ft. from pork pie to brandy ; but she said i
+you as you sew the shroud : it meets you at the ft. from pork pie to brandy ; but she said it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm2n_ver01%2Fdata%2F1853051401%2F0754.jp2/pct:27.523524,32.859479,43.562874,2.604101/!600,600/0/default.jpg"/>
 </td>
@@ -1571,8 +1383,6 @@ you as you sew the shroud : it meets you at the ft. from pork pie to brandy ; bu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 up and down in the empty rooms from whence you  
   
 have borne your dead, but it comes never in the  
@@ -1590,7 +1400,8 @@ u,vi in mill uiiust,
 M In hi tyen a glory llfcht,  
 On hit trow a (lury cruwn.&quot;  
 Wanted angels for heaven! Cling not tooclese­  
-ly to your beautiful treasures, children of earth!
+ly to your beautiful treasures, children of earth!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm2n_ver01%2Fdata%2F1853051401%2F0754.jp2/pct:27.523524,36.130331,21.428571,6.667505/!600,600/0/default.jpg"/>
 </td>
@@ -1604,21 +1415,6 @@ ly to your beautiful treasures, children of earth!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-rn  
-vindicator of the people’s right—the rebel  
-triumphant, the soldier olive-crowned, the  
-patriot with clean and empty hands. Such  
-is the far-reaching depth, the eternal vitality  
-of one great, heroic life, sending us shoots  
-abroad into all lands, and lacing together  
-continents and nations in bonds of unseen  
-hut indestructible sympathy—such the far­  
-sounding weight of one mighty purpose glo­  
-riously accomplished, which, amid treacher­  
-ous straits of defeat and despair, off perilous  
-shores of rock seated power, nnchors safe  
-against leagued tempests, the great hope of  
-the world.— Gracf: Greenwood.  
 Wanted—An Angel for Heaven-—And  
 so death closed those little eyes—shrouded  
 their bright glances. Oh, that the sun would  
@@ -1652,9 +1448,9 @@ Warned—angels for heaven ! Cling not
 too closely to your beautiful treasures, chil­  
 dren of earth !  
   
-Poetry.—Th
+Poetry.—The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1853051901:0080/pct:69.211721,56.499747,12.587701,23.277693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895667:1853051901:0080/pct:69.211721,63.874557,12.518916,15.902883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1666,22 +1462,7 @@ Poetry.—Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-overnor, did not  
-represent the whole State, and our friends are very  
-confident that Andrew Johnson will be chosen.  
-S. P. Allison is the Democratic nominee for Con­  
-gress in the 8th district.  
-  
-The city of Mobile haa subscribed $1 000,000 to  
-  
-don&#x27;t you think that, if I paid you extra, you could  
-put the pickpocket and the alderman into one room,  
-and give me the other V  
-&quot;Oh, no, sir, we&#x27;ve tried that; the pickpocket  
-wouldn&#x27;t go such company as that.&#x27;1  
-&quot; Well, I don&#x27;t see any alternative. Send up my  
-baggage, and put me in with the pickpocket &quot; And  
-the traveller walked off in search of the bar-room.  
+the bar-room.  
 Wanted An Angel for Heaven. And so  
 death closed those little eyes shrouded their bright  
 glances. Oh, that the sun would not come stream­  
@@ -1719,9 +1500,9 @@ angel in their midst,
 On liis brow a glory crown.&quot;  
 Wanted angels for heaven! Cling not too close­  
 ly to your beautiful treasures, children of earth!  
-Mr. Sovle&#x27;s Flight from Francf
+Mr. Sovle&#x27;s Flight from Francf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853052001:0547/pct:20.137023,65.905736,31.286943,29.528682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853052001:0547/pct:35.720043,69.339762,15.703923,16.451835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1514,7 @@ Mr. Sovle&#x27;s Flight from Francf
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- shown to-day a beautifully exe­  
+shown to-day a beautifully exe­  
 cuted Ten Dollar Note of the City Bank of  
   
 Two in Heaven.  &quot;You have two children,&quot;  
@@ -1755,7 +1536,7 @@ courser, and the general appearance of the tended by the Good Shepherd, linger t
 whole not quite as clean and transparent lambs of the heavealy fold.  
 as that of the genin. e advise the in  in ee  
 experienced to refuse all notes of this plate a e aa i ei ee­  
-until familiar with the points of difference visible cords, drawing the maternal soul upwar
+until familiar with the points of difference visible cords, drawing the maternal soul upward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn89067494:00280779726:1853052101:0220/pct:10.787402,57.475582,41.443570,14.876033/!600,600/0/default.jpg"/>
 </td>
@@ -1769,7 +1550,6 @@ until familiar with the points of difference visible cords, drawing the maternal
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WANteDA AGel sor NeaveN.  
 And so death closed those little eyes  
 hrouded their bright glances. Oh, that  
@@ -1808,7 +1588,8 @@ anted--angels for heaven! Cling
  o e e egie   
 a closely to your beautiful treasures, chil  
 too  
-dren of earth!
+dren of earth!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853052101:0083/pct:16.033587,41.478905,11.255498,18.584606/!600,600/0/default.jpg"/>
 </td>
@@ -1822,7 +1603,7 @@ dren of earth!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. &#x27; You have two children,&quot;  
+&#x27; You have two children,&quot;  
   
 said I  
   
@@ -1872,7 +1653,7 @@ ten! Keep thy spirit free from earth &#x27;taint;
   
 shall thou &quot;go to them,&quot; though &quot;they may not  
   
-return to thee
+return to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn87091069:00280779714:1853052601:0255/pct:38.277935,42.679656,14.002829,15.219540/!600,600/0/default.jpg"/>
 </td>
@@ -1886,7 +1667,7 @@ return to thee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- renders people  
+renders people  
 heartless and cruel  
   
 ). The man too poor to take his county  
@@ -1895,7 +1676,7 @@ lem, but he was &quot;soaked!&quot;-at an expense,
 too, sufficient to pay a whole year&#x27;ssubscrig­  
 tion to his county paper.  
 s &quot;Why, Jack, I thought as how they  
-ha
+had
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157339:1853062301:0086/pct:7.882920,64.625342,12.077998,4.633433/!600,600/0/default.jpg"/>
 </td>
@@ -1909,12 +1690,12 @@ ha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, There spoke the mother! Still hers! only&#x27;  
+There spoke the mother! Still hers! only&#x27;  
 abiding with unshrinking firmness the bit- gone before li Still remembered, loved, and&#x27;  
 terest blast of adversity. As the vine which cherished by the dearth and .at the Board; &quot;  
   
 long twined its - graceful foliage, about the their places &quot;not yet filled; even though their5  
-oak,. and has been lifted b
+oak,. and has been lifted by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877601:1853062401:0155/pct:64.724518,46.850436,28.140496,3.521051/!600,600/0/default.jpg"/>
 </td>
@@ -1928,7 +1709,7 @@ oak,. and has been lifted b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- mu  
+mu  
   
 Earth less &quot;attractive? ?.cmitvnearrr?, .  
   
@@ -1940,28 +1721,10 @@ ering come? to the.world-wer.ry,.&#x27; spirits.&#x27;-&quot; ;
 eyes watch they footsteps!, cherub .ann a  
 bend to listen! Keep thy spirit free fieri t  
 earth taint; so shalt thon &quot;go t?i t1 m,&#x27;.&#x27;  
-though they may not &quot;return to thee,&quot;
+though they may not &quot;return to thee,&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877601:1853062401:0155/pct:74.297521,56.896737,18.760331,13.631959/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _Huntingdon journal._](https://panewsarchive.psu.edu/lccn/sn86071456/1853-06-29/ed-1/seq-1/)
-
-#### 1853-06-29 &middot; [Huntingdon, Pa.](http://dbpedia.org/resource/Huntingdon%2C_Pennsylvania)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
- he couldn&#x27;t  
-go such company as that!&quot;  
-&quot;Well, I don&#x27;t see any alternative. Send up  
-my baggage, and put me in wills the piekpock  
-el?&quot; And the traveller walked off in search  
-of the bar-room.
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002319%2F1853062901%2F0101.jp2/pct:70.748009,90.209902,12.891069,2.873471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1973,7 +1736,7 @@ of the bar-room.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; irre- death closed those little eyes—shroud- The Restorer is easily applied, c  
+irre- death closed those little eyes—shroud- The Restorer is easily applied, c  
   
 . ed their bright glances. Oh, that the sun would finest linen. Its effect is sure in e  
 ” , not come streaming in on his w.astcd form, as if according to the directions,  
@@ -1985,7 +1748,7 @@ lucate How sweetly he sleeps, that precious little an- glossy and natural appear
 could ■ How lightly curl the flaxen locks on his When applying this prcp-cration,  
 , , white forehead ! You could weep your very Xylobals.-.mum can bo used with  
   
-i! fu! ^onl away to think those cherub lips will never,
+i! fu! ^onl away to think those cherub lips will never, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1853-07-07_24_27%2Fsim_evangelist-and-religious-review_1853-07-07_24_27_jp2.zip%2Fsim_evangelist-and-religious-review_1853-07-07_24_27_jp2%2Fsim_evangelist-and-religious-review_1853-07-07_24_27_0003.jp2/pct:48.323522,37.183099,19.529050,3.173709/600,/0/default.jpg"/>
 </td>
@@ -1999,14 +1762,12 @@ i! fu! ^onl away to think those cherub lips will never,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 “ In his eyes a glory light.  
   
 On hi.s brow a glory crown.”  
   
 Oh! cling not too closely to your beautiful  
-tressure.s. children of earth 
+tressure.s. children of earth .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_evangelist-and-religious-review_1853-07-07_24_27%2Fsim_evangelist-and-religious-review_1853-07-07_24_27_jp2.zip%2Fsim_evangelist-and-religious-review_1853-07-07_24_27_jp2%2Fsim_evangelist-and-religious-review_1853-07-07_24_27_0003.jp2/pct:50.217558,49.633803,10.724341,1.436620/600,/0/default.jpg"/>
 </td>
@@ -2020,7 +1781,7 @@ tressure.s. children of earth
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t there, we  
+there, we  
 wait to learn.—.Y. Evangelist  
   
 Two in Heaven.  
@@ -2055,7 +1816,7 @@ spirit.
 watch thy footstepsl—cherub forms bend to  
 listen I Keep thy spirit free from earth-taint;  
 so shalt thou &quot;go to them,&quot; though &quot;they may  
-not return to thee I&quot;—Fern Leaves
+not return to thee I&quot;—Fern Leaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002319%2F1853081001%2F0121.jp2/pct:70.982651,63.435347,12.898180,17.310260/!600,600/0/default.jpg"/>
 </td>
@@ -2069,7 +1830,7 @@ not return to thee I&quot;—Fern Leaves
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.tield. fie.  
+tield. fie.  
   
 Two In Heaven  
   
@@ -2104,7 +1865,7 @@ Mintier of angels ! Walk softly !—bolt&#x27;
 eyee watch thy .00t.teps !—cherub forms  
 bend to listen ! Keep thy spirit free front  
 eartit•taint ; so shalt thou ••go to ihemr  
-though •they may not return to th
+though •they may not return to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002395%2F1853081201%2F0094.jp2/pct:78.619632,31.163495,12.121677,15.563725/!600,600/0/default.jpg"/>
 </td>
@@ -2118,7 +1879,7 @@ though •they may not return to th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,Vnft  
+Vnft  
 d Uld cherished, by the hearth and the  
 ir successors draw life freni the same  
 fill breast where their dying heads were  
@@ -2142,7 +1903,7 @@ Rcyes watch their Footsteps! Cherub
 us Leii&#x27;i to listen! Keep Ihy spirit free  
 era jjprAi tuinljso shall thy soul go to them,  
 Qgli they may not return to thee.  
-Fans&#x27; Fam
+Fans&#x27; Famr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292467:1853082501:0356/pct:5.336649,29.721457,12.796480,16.452403/!600,600/0/default.jpg"/>
 </td>
@@ -2156,7 +1917,6 @@ Fans&#x27; Fam
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-♦  
 Two in Heaven.  
 “You have two children?”  
 “I have four,” was the reply; “two on  
@@ -2185,7 +1945,7 @@ Holy eyes watch your footsteps&#x27;. Cherub
 forms bend to listen! Keep thy spirit free  
 from earthly taint; so sbalt thy soul go to  
 them, though they  
-The annexed beautifu
+The annexed beautiful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688234:1853090701:0133/pct:63.188244,70.783913,14.620536,19.700068/!600,600/0/default.jpg"/>
 </td>
@@ -2199,8 +1959,6 @@ The annexed beautifu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Two in Heavbst.—&quot;You have two  
 children 1&quot; said 1. &quot;I have four,&quot; was  
 the reply—&#x27;&#x27;two on earth and two in  
@@ -2214,7 +1972,7 @@ breast where their dying heads were
 pillowed. &quot;Two in Heaven!&quot;  
   
 The oldest pledge of temperance is  
-found in the Bibl
+found in the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059754:00279528505:1853091601:0079/pct:18.763441,46.172814,12.284946,7.222850/!600,600/0/default.jpg"/>
 </td>
@@ -2238,21 +1996,7 @@ found in the Bibl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r that &quot; soothing balm of consol­  
-ation wliicli can make the dying die in peace.  
-While on the bed of pain she lay,  
-Her every whisper seemed to say :  
-God take thy Lizzy to thy care,  
-To be with Thee and Pa, is now my only prayer.  
-When death&#x27;s cold hand had siezed ite prey,  
-Her placid countenance seemed to say :  
-I see my Pa in yonder realm, ,  
-The abode of God—farewell ! I&#x27;m now in Heaven.  
-  
-The abode of God—farewell ! I&#x27;m now in Heaven.  
-Dira», at &quot; Waterproof Plantation,&quot; in this parish, on the  
-26th of October, 1853, GEORGE J. If. HUNTER, son of Wm  
-and Octavia E. Hunter, aged 8 months and 22 days.  
+E. Hunter, aged 8 months and 22 days.  
 And so death closed those little eyes—shrouded their  
 bright glances. How sweetly he sleeps, that little coveted  
 angel! How lightly curl the glossy ringlets on his white  
@@ -2276,9 +2020,10 @@ beings and your own radiant child-angel in their midst.
 &quot; In his eyes a glory light,  
 On his brow a glory crown.&quot;  
 Wanted—angel tor heaven ! Cling not too closely to your  
-beautiful treasures, children of earth !
+beautiful treasures, children of earth !  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn86079110:00295872433:1853111201:0086/pct:68.484627,76.302852,14.659590,18.067847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn86079110:00295872433:1853111201:0086/pct:68.484627,82.386922,14.659590,11.983776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2290,13 +2035,13 @@ beautiful treasures, children of earth !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- . Ad.  
+. Ad.  
 TWO IN HE A VEX.  
 &quot;You have two children,&quot; said I to a  
 Christain mother.  
 I have four, &quot; was the reply; &quot; two on  
 earth, and two in heaven.&quot;  
-They were still her
+They were still hers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OBGreen1n_ver01%2Fdata%2F1854020201%2F0400.jp2/pct:8.301264,87.388416,15.241891,5.034254/!600,600/0/default.jpg"/>
 </td>
@@ -2310,7 +2055,6 @@ They were still her
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Gospel, to those who have ha  
 snatched from tiieir loving &#x27;  
 rude hand of death !.  
@@ -2339,7 +2083,7 @@ spirit.”
 Mother of angels ! walk softly ! holy eyes  
 bent to listen ! Keep thy spirit free from  
 earth-taint; so shalt thou “go to them,”  
-though they canunot come to thee
+though they canunot come to thee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL1_ver01%2Fdata%2F1854030101%2F0755.jp2/pct:38.011811,13.362319,14.133858,20.304348/!600,600/0/default.jpg"/>
 </td>
@@ -2353,7 +2097,7 @@ though they canunot come to thee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, to secure it, we should not shun  
+to secure it, we should not shun  
 the conflicts of a long life.  
   
 Two 15 HEAVEN.— You have two chil­  
@@ -2381,7 +2125,7 @@ er whispering, Come! to the world-weary spirit.
 wateh thy footsteps !—cherab forms bend to list­  
 en ! Keep thy spirit free from earth-taint; so  
 shalt thou “ go to them,” though * they may not  
-return to thee !”&quot;—Fern Leaves
+return to thee !”&quot;—Fern Leaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868491:1854031101:0252/pct:3.449310,83.760287,11.337732,12.217457/!600,600/0/default.jpg"/>
 </td>
@@ -2397,7 +2141,7 @@ return to thee !”&quot;—Fern Leaves
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Two  
+Two  
 IN HEATEH. &quot; You have two children ?&quot;  
 said I. &quot; I have four,&quot; was the reply ;  
 &quot; taa-o on earth, two in heaven.&quot; There  
@@ -2424,7 +2168,7 @@ eyes watch thy footsteps ¡-cherub forms
 bend to listen ! Keep thy spirit free  
 from earth-taint ; so shalt thou &quot; go to  
 them,&quot; though &quot; they may not return to  
-thee !&quot;
+thee !&quot; 
 </td></tr></table>
 
 ---
@@ -2437,7 +2181,7 @@ thee !&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.&#x27; Two w  
+&#x27; Two w  
 HEAVEN^&quot; Yóti linvc.two,children?&quot;  
 .enid&#x27;I.&#x27; &#x27;&#x27;&quot;rimvo&#x27;foiir&quot; &#x27; was &quot;tho  
 reply ; &quot;two in earth, two in heaven.&quot;  
@@ -2465,7 +2209,7 @@ thy footsteps I cherub forms bend to
 listan.; .keep thy spirit freo  
 from,earth-taint ;. so shalt thou &quot; go  
 to them &quot; tbórigli&#x27; .&#x27;&#x27; they&#x27;may.  
-t&#x27;-nonreturn-to theo.&quot;&#x27;
+t&#x27;-nonreturn-to theo.&quot;&#x27; 
 </td></tr></table>
 
 ---
@@ -2476,18 +2220,7 @@ t&#x27;-nonreturn-to theo.&quot;&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nts and materials—on these he has lav­  
-ished his creative skill; seldom does he him­  
-self directly accomplish a complete result.—  
-His most wonderful works are the products  
-of a secondary agency, instinct, which ope­  
-rates under a law of necessity. The bee it­  
-self, with all its machinery of nerves and  
-muscles, is not so admirable as the honey-comb  
-it is empowered to build The former is  
-only an instrument of its Maker, the latter  
-is the perfected result. And had he made an  
-ornate cottage, as well as man and wood and  
+as man and wood and  
 stone, our wonder at Nature would have ris­  
 en to an eternal devout surprise.”  
   
@@ -2534,9 +2267,9 @@ On his brow a glory crown.”
   
 Oh I cling not too closely to your beauti­  
 ful treasures, children of earth. — Lutheran  
-Obs
+Obs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051541:00516996900:1854090701:0289/pct:30.930931,30.630388,12.647942,32.529634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn92051541:00516996900:1854090701:0289/pct:30.930931,37.392241,12.594948,25.767780/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,21 +2301,7 @@ Obs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-adame Ra--- having engaged for herself  
-alone thirty for the 20th of the month­  
-twelve flaxen haired, twelve with black hair,  
-and six bald headed gentlemen.  
-The bald healed ones cost twenty-five  
-frances a head. Incy are thugnew tgard  
-air, and are expected to present young mag  
-istrates, lawyers, and young men of promise  
-worn out by midnight toil. There is a fine  
-looking old soldier, who has been decorated  
-with the ribbon of the &quot;Legion of Honor,&quot;  
-who will not furnish himself for less than  
-thirty franes, who, besides, requires a sec  
-ond pair of gloses of his hostess at two  
-o&#x27;clock in the morning.  
+in the morning.  
 WANTED.-AN ANGEL FOR HEAVeN. And  
 so death closed those little eyes--shrouded  
 their bright glances. O, that sun would not  
@@ -2616,9 +2335,9 @@ your own radient child in their midst.
 Wanted--angels for Heaven! Cling not  
 too closely to your beautiful treasures, chil­  
 dren of earth!  
-Oriin of the Tele
+Oriin of the Teles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1855041401:0175/pct:62.013099,48.815654,11.306446,22.180742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1855041401:0175/pct:62.013099,54.737384,11.306446,16.259011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2630,22 +2349,7 @@ Oriin of the Tele
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hed into the house apd  
-gave her a chaste salute, exclaiming, “that  
-he bad come from the other end of the world  
-to find herat the same time pulling out  
-the likeness which first led him to seek this  
-object of attraction. As the novelists say the  
-sequel may be easily imagined, and the. nup­  
-tial knot was tied.  
-  
-The wedding was a very gay one, it at­  
-tracted considerable notice in the neighbor­  
-hood, and it was the unanimous opinion that  
-the lady was well worth the good fortune she  
-had met with, and that the gentleman pos­  
-sessed in her a treasure worth more than  
-bouses or lands.— British Mirror.  
+r.  
   
 Wanted—An Angel for Heaven. ,  
   
@@ -2683,9 +2387,10 @@ your own radiant child in their mid*t Vi (
 1 Wanted—angels for Heaven! Cling not  
 too closely to your beautiful treasures,children  
 of earth I  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn90062523:00513688970:1855050501:0108/pct:79.408461,58.246582,17.259453,35.544964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_hobgoblin_ver02:data:sn90062523:00513688970:1855050501:0108/pct:79.408461,68.255362,17.259453,25.536185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2697,8 +2402,6 @@ of earth I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
-  
 Wanted--4O Aisgel. for Heaveln...  
 And so deathelosed tboselittle eves—shrou­  
 eir bright glances, 0, tliat • the sun  
@@ -2733,7 +2436,7 @@ Wanted—angels for REF.aven !. Cling mk,
 so .Mosel} to your beautiful—Areasutes, - ehii4  
 siren of earth !.  
   
-You
+Your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002370%2F1855051001%2F0065.jp2/pct:69.240058,40.835504,12.228305,16.672869/!600,600/0/default.jpg"/>
 </td>
@@ -2747,7 +2450,6 @@ You
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Wanted—An Angel fob Heaven —Death  
 closed those little eyes—shrouded their bright  
 glances Oh that the sun would not come  
@@ -2777,7 +2479,7 @@ Ten thousand celestial beings and your own
 radiant child in their midst  
 Wanted—angels for Heavefi Cling not too  
 closely to your beautiful treasures children of  
-Eart
+Earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth739385/m1/3/pct:18.066667,4.972650,14.866667,15.067131/!600,600/0/default.jpg"/>
 </td>
@@ -2791,20 +2493,7 @@ Eart
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gentle- &#x27;  
-man so unmercifully, and still live to laugh &#x27;  
-and grow fat afterward, is a great proof of |  
-the advancing philosophy of cur times. A  
-Roman tailor incapable of collecting his I  
-. debts would, bcathen-like. have fallen upon  
-his sword or bung himself. Why do you  
-: not do likewise.  
-«»***#  
-I’. S.—My humanity suggests this advice  
-to you. Don&#x27;t go to any law cxjiCDses, a­  
-your letter found me dead broke. 1 was  
-just making up my list to go into bankrupt­  
-cy. and, by an old coincidence, was j ist  
+and, by an old coincidence, was j ist  
 thinking of you, and that you would never  
 be paid, when your letter airived.  
 I. A. M. SHORT.  
@@ -2843,9 +2532,9 @@ midst.
 Wanted—angels for Heaven ! Cling not  
 too closely to your beautiful treasures, chil­  
 : dren of earth !  
-S
+Sn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855051601:0057/pct:43.323792,40.454313,13.924903,30.959673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855051601:0057/pct:43.323792,47.881572,13.891227,23.532414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2867,8 +2556,6 @@ S
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Tuai shrouded form aa if there were&#x27; no  
 grief in the world, &#x27; &quot; &quot;&#x27;&#x27;&#x27; &quot;J&quot;.  
 j IIow. sweetly.. ho, sleeps -thai; .little,  
@@ -2885,7 +2572,7 @@ has wandered so often over your cheek..
   
 Vainly you clasp and unclasp that pas-  
   
-sive, darling hand that has wandered s
+sive, darling hand that has wandered so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027273:1855052301:0416/pct:51.083773,64.952622,10.779145,7.113076/!600,600/0/default.jpg"/>
 </td>
@@ -2899,15 +2586,13 @@ sive, darling hand that has wandered s
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 wreathed shells, slumbers forever. . And bfi would not mind going to bed first. -.  
   
 still the busv world knocks at vonr London Tunch.  
   
 door, and will let you have no peace.;  
   
-It shouts in your ear; its chariots ru
+It shouts in your ear; its chariots rum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027273:1855052301:0416/pct:51.098418,74.478838,21.719391,2.400505/!600,600/0/default.jpg"/>
 </td>
@@ -2921,7 +2606,7 @@ It shouts in your ear; its chariots ru
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- mc thus,&quot; he  
+mc thus,&quot; he  
   
 of night, so  
 SiV-J  
@@ -2941,7 +2626,7 @@ i Wanted angels for Heaven 1 Cling
   
 not too closely to your &#x27; beautiful trea  
   
-sures, children of earth ! &#x27;
+sures, children of earth ! &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027273:1855052301:0416/pct:24.926772,80.530638,36.687170,17.738471/!600,600/0/default.jpg"/>
 </td>
@@ -2955,7 +2640,7 @@ sures, children of earth ! &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;i&#x27;  
+i&#x27;  
 TWO IN HEAVE.&#x27;  
 . &#x27;.&#x27;You have two children&#x27;,!&#x27; said I. .,. ..  
 &quot;I have four,&quot; was the reply, &quot;Two on  
@@ -2983,7 +2668,7 @@ eyes watch thy footsteps! cherub forms bend
 to listen! &#x27;. Keep thy spirit free from earth&#x27;s  
 taint; so shalt thou &quot; go to them;,,; though,  
 &quot;they may not return to thee. Fanny  
-Fern. ,H
+Fern. ,H 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0417/pct:42.962563,34.049587,12.706983,18.639542/!600,600/0/default.jpg"/>
 </td>
@@ -2997,22 +2682,7 @@ Fern. ,H
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-your preaching I first became  
-convinced of sin, and it was your voice that  
-brought me the words of salvation. You  
-will remain in my bouse. X have a pious  
-servant to attend you. . It is time you were  
-at peace, and your excellent lady relieved  
-of her heavy burden.&quot;  
-Ihe crippled preacher fell prostrate on  
-the floor, and poured out such thanksgiv­  
-ing and prayer as found way to tbe heart  
-of Mrs. W , who ultimately became  
-a meek and pious woman a fit helpmate  
-for a devout Gospel minister. And, strange  
-to say, she dates ber conversion from the  
-day of that comical, but not unprofitable,  
-dinnerparty.  
+arty.  
   
 Wanted—an Angel for Heaven.  
   
@@ -3048,9 +2718,10 @@ of that sight? Ten thoup.J celestial beings.
 and your own radiant child in their midst  
 Wanted angels for Heaven! Cling  
 not too closely to your beautiful treasures,  
-children of earth!
+children of earth!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855052501:0091/pct:43.987342,46.635346,12.565153,27.732486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855052501:0091/pct:43.987342,54.760260,12.453462,19.607572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3062,8 +2733,6 @@ children of earth!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 WaneeN-In TngEl fOr HEArEN.And  
 so Death closed those little eves-shrouded  
 their bright glances. Oh! that the sue  
@@ -3098,7 +2767,7 @@ ings, and your own radiant child in their
 muidst.  
 Wanted angels for Heaven! Cling  
 aot too closely to your beautiful treasuree,  
-shiliren of Earth
+shiliren of Earth!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855052601:1175/pct:41.347244,66.222150,12.956453,18.234672/!600,600/0/default.jpg"/>
 </td>
@@ -3112,8 +2781,6 @@ shiliren of Earth
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 TWO IN HEAVEN.  
   
 &quot; You have two children,&quot; said I.  
@@ -3147,7 +2814,8 @@ bend lo listen ! Keep thy spirit free front
 earth&#x27;s tint ; so shall thou &quot;go to them,&quot;  
 though they may not return to thee.&quot;  
 Fanny Fern.  
-to
+to  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283703:1855053001:0094/pct:71.487603,18.255998,11.935791,18.389965/!600,600/0/default.jpg"/>
 </td>
@@ -3161,8 +2829,6 @@ to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
   
 Ears anp Heaven-—-**You have twochilr  
 dren,” said I. é  
@@ -3199,7 +2865,8 @@ Mother of angele!’ Walk softly! holy eye
 watch thy footsteps! cherub forms bend to  
 listen! Keep thy spirit free from earth’s taint,  
 so shalt thou “‘go to them,’ though “they  
-msy not return to thee.”’
+msy not return to thee.”’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_colmans-rural-world_1855-06_7_6%2Fsim_colmans-rural-world_1855-06_7_6_jp2.zip%2Fsim_colmans-rural-world_1855-06_7_6_jp2%2Fsim_colmans-rural-world_1855-06_7_6_0043.jp2/pct:57.258065,18.682213,35.908319,33.242950/,600/0/default.jpg"/>
 </td>
@@ -3223,25 +2890,7 @@ msy not return to thee.”’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Emperor Napo  
-leon ns the &quot;Imperial Gambler, of France,  
-who had won his throne with dice made from  
-the bonus of the Great Napoleon.&quot;  
-(Vr Lnst week nearly fourteen millionsi of  
-v T . p&#x27;  
-!  
-CB-r An opinion signed by Rufua ChoaU,  
-bliss werwin, money uaruevi ana unas. .  
-wring, touching some poims oi me quo  
-ww, ana pronouncing them irregular &quot;  
-unconstitutional, lias neen lurnisnea to tne  
-wine merchants of Boston.  
-The girl who Is destined to be thy wife,  
-although now unknown to thee, Is sure tn be  
-living somewhera or other. Hope,therefnre,  
-tnni sne is quit wen, anq otherwise think  
-  
-politely about her  
+about her  
   
 Wanted An Angel for Heaven. And so  
   
@@ -3276,9 +2925,9 @@ your own radiant child in their midst.
 Wanted angels for Heaven! Cling nut too  
 closely to your beautiful treasures, children  
 of Earth!  
-3r&quot;&quot; Thomas D&#x27;Are
+3r&quot;&quot; Thomas D&#x27;Arey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1855062201:0014/pct:17.323151,13.972269,23.874598,79.033978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1855062201:0014/pct:19.614148,13.972269,21.583601,78.881609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3290,8 +2939,6 @@ of Earth!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Earth and IIeavek. — &quot;You have two  
 children,” said I.  
   
@@ -3303,7 +2950,8 @@ me that, gieat as were his intellectual j only &quot;gone before!” Still remem
 powers, when the subject of religion was! loved and sherished, by the hearth and  
 presented to him, he was ever ready tolat the board; their places not yet filled;  
 respond toil; and was humble, teachable even though their successors draw life  
-and loving as a little child. from the same faithful breast where their
+and loving as a little child. from the same faithful breast where their  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7dr785jf2h%2Fxt7dr785jf2h_jp2.zip%2Fxt7dr785jf2h_jp2%2Fxt7dr785jf2h_0000.jp2/pct:50.519398,62.761251,29.086284,6.117468/600,/0/default.jpg"/>
 </td>
@@ -3317,7 +2965,7 @@ and loving as a little child. from the same faithful breast where their
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- eye  
+eye  
 for eye, and heart for heart, telegraphed  
 backwards and forwards like ’iled ligh!-  
 1 ning . — Sam Slick.  
@@ -3328,7 +2976,7 @@ fading eye, nor weary feet. By the green
   
 ...» . . I -i — pastures, tended by the Good Shepherd,  
   
-ling serpent in the garden of Lae
+ling serpent in the garden of Laen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7dr785jf2h%2Fxt7dr785jf2h_jp2.zip%2Fxt7dr785jf2h_jp2%2Fxt7dr785jf2h_0000.jp2/pct:6.275175,61.372998,87.979648,11.716247/600,/0/default.jpg"/>
 </td>
@@ -3342,15 +2990,14 @@ ling serpent in the garden of Lae
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 fold.  
   
 &quot;Two in heaven!”  
   
 Earth is less attractive! Eternity near-  
 er! Invisible cords drawing the mater-  
-nal soul upwards. &quot;Still small” voices.
+nal soul upwards. &quot;Still small” voices.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7dr785jf2h%2Fxt7dr785jf2h_jp2.zip%2Fxt7dr785jf2h_jp2%2Fxt7dr785jf2h_0000.jp2/pct:65.359339,73.165523,14.246343,2.959573/600,/0/default.jpg"/>
 </td>
@@ -3364,15 +3011,14 @@ nal soul upwards. &quot;Still small” voices.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Mother of angels! Walk softly! holy j hardly give Mr. Morehead credit for a  
 eves watch thy feotsteps! cherub forms&#x27; great deal of sincerity, when they know  
   
 bend to listen! Keep thy spirit free from  
 earth’s taint; so shall thou &quot;go to them,”  
 though “they may not return to thee.”  
-Eanny Febk.
+Eanny Febk.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7dr785jf2h%2Fxt7dr785jf2h_jp2.zip%2Fxt7dr785jf2h_jp2%2Fxt7dr785jf2h_0000.jp2/pct:65.316939,77.879481,29.001484,3.478261/600,/0/default.jpg"/>
 </td>
@@ -3386,7 +3032,6 @@ Eanny Febk.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Wanted?An Angel in Heaven.  
 And so dcatli closed those little eyes?shrouded  
 their bright glances. Oh, that the sun would  
@@ -3422,7 +3067,7 @@ own radiant child in their midst.
 On liia head a glory crown.&quot;  
 Wanted?angels for Heaven ! Cling not too  
 closely to your beautiful treasures, children of  
-earth
+earth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862282:1855080701:0265/pct:49.495104,12.085256,15.957772,19.874753/!600,600/0/default.jpg"/>
 </td>
@@ -3436,7 +3081,6 @@ earth
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 WanM-An , Angel of Heaven.  
 And so death closed tho3e little eyes shrouded  
 their bright&quot; glances. Oh I that the sun would not  
@@ -3469,7 +3113,7 @@ Oa his bead a glory crown.
 Wanted Angels for heaven! Cling nit too  
 closely to your beautiful treasures, children of  
 earth. Olive Branch.  
-Men-belt
+Men-belts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855081901:0169/pct:82.286585,23.356091,12.591463,18.038088/!600,600/0/default.jpg"/>
 </td>
@@ -3483,7 +3127,6 @@ Men-belt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot; You have two children,&quot; said I.  
 &quot;1 have. four,&quot; wo s tliu reply, *&quot; Two on  
 earth, ? two in heaven.&quot;  
@@ -3505,7 +3148,8 @@ nyvi watch thy footsteps! Cherub form.!
 bend to listen! K^ep thy spirit Iron from  
 earth&#x27;s taint ; so shall tlum ?? go to them,&quot;  
 though &quot; they may not return to thee.&quot;  
-Fanny Finn.
+Fanny Finn.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092124:00279550250:1855082501:0039/pct:82.667993,76.986271,13.766160,14.168355/!600,600/0/default.jpg"/>
 </td>
@@ -3519,7 +3163,6 @@ Fanny Finn.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Earth and Heaven.  
 &#x27;Ycu have two children,&#x27; said I.  
 &#x27;I have four.&#x27; was tho reply. &#x27;Two on  
@@ -3548,7 +3191,7 @@ eyes watch the footsteps! cherub forms bend
 to listen! - Keep thy spirit free from earth&#x27;s  
 taint, so shalt thou &#x27;go to them,&#x27; though  
 &#x27;they may not return to thee.  
-! Fanny Fer
+! Fanny Fern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855082901:0159/pct:19.469965,69.669893,12.473498,18.950112/!600,600/0/default.jpg"/>
 </td>
@@ -3562,7 +3205,7 @@ taint, so shalt thou &#x27;go to them,&#x27; though
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the road rough, and the  
+the road rough, and the  
 dio  
 his white forehead!- You could weep  
 e ooe iin aer a e o o e  
@@ -3576,7 +3219,7 @@ dat so I sthops de car an otea
 steps  
   
 down flat of de road mit my pack and a eae o ee i o  
-scart de cart, and i
+scart de cart, and it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014139:0041566896A:1855100201:0126/pct:47.869155,36.777332,29.454043,14.033885/!600,600/0/default.jpg"/>
 </td>
@@ -3590,8 +3233,6 @@ scart de cart, and i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 plied the  
 routid  
 be  
@@ -3610,7 +3251,7 @@ sod
   
 yon as yon sew the shroud; it meets you at  
   
-coffin, a
+coffin, at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014139:0041566896A:1855100201:0126/pct:60.492974,19.913166,16.807187,24.894721/!600,600/0/default.jpg"/>
 </td>
@@ -3624,8 +3265,6 @@ coffin, a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 sun would not come streaming in on  
   
 in travel.  
@@ -3687,7 +3326,8 @@ you look up? Can you bear the splendor
 of that sight? Ten thousand celestial be-­  
 ings, and your own radient child in their  
   
-closley to your beautiful treasures, chil-
+closley to your beautiful treasures, chil-  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014139:0041566896A:1855100201:0126/pct:47.892191,13.655208,35.968671,37.156008/!600,600/0/default.jpg"/>
 </td>
@@ -3701,7 +3341,7 @@ closley to your beautiful treasures, chil-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- do, and something to live  
+do, and something to live  
 for which is worthy of humanity and  
 which, by expanding the soul, gives ex­  
 pansion and symmetry to thebody which  
@@ -3736,7 +3376,7 @@ Little angels watch thy steps. Spirit
 forms stoop to listen I Keep thy soul  
 free from earth ; thou shalt go to them,  
 though they cannot return to thee !  
-Authorit
+Authority
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855102301:0530/pct:18.532526,49.334491,13.029501,21.209491/!600,600/0/default.jpg"/>
 </td>
@@ -3750,7 +3390,7 @@ Authorit
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-use of the rise and prog­  
+se of the rise and prog­  
 ress of the Easy family.   
 The Child Angel.   
 Death has closed those little eyes and forever  
@@ -3793,7 +3433,8 @@ less forever; yet we know that “up there,’’ he
 shines with steady glory and we shall once again  
 see the beaming of those dark eyes, and feel the  
 clasp of his lingers, and haar him say again—  
-’’God he with you.” 
+’’God he with you.”   
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040307:00514151362:1855110801:0179/pct:56.757532,26.114580,12.840746,19.761201/!600,600/0/default.jpg"/>
 </td>
@@ -3817,7 +3458,6 @@ clasp of his lingers, and haar him say again—
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 THE CHILD ANGEL.  
 Death has closed those little eyes and for­  
 ever shrouded their bright glances. How  
@@ -3850,7 +3490,7 @@ diant child angel in the midst
 In her ey es a glory bright.  
 On her brow a glory crown.  
 TYING A KNOT.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855121101:0361/pct:54.532814,68.839621,12.708565,20.218398/!600,600/0/default.jpg"/>
 </td>
@@ -3864,7 +3504,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the heavens, lying between (be  
+of the heavens, lying between (be  
 Creator and the created.  
 A Child Angel-  
 Death has closed those little eyes and for­  
@@ -3898,7 +3538,8 @@ Can you bear the splendor of thai sight*—
 The thousand celestial beings, and your ra&lt;  
 diant child angel in the midst—  
 In her eyes a glory bright,  
-On her brow a glory crown.&#x27;*
+On her brow a glory crown.&#x27;*  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1855121301:0582/pct:81.002543,60.637827,12.095895,21.497121/!600,600/0/default.jpg"/>
 </td>
@@ -3912,7 +3553,7 @@ On her brow a glory crown.&#x27;*
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- store of patience, be sure  
+store of patience, be sure  
 and pul it where you can find it.  
   
 YOL. IX, NO. 2.  
@@ -3961,7 +3602,7 @@ the beaming of those dark eyes, and feel the
 clasp of his lingers, and Lear him say again—  
 “tfod be with vou.”  
   
-Sarcasti
+Sarcastic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856010101:0446/pct:70.423143,11.977011,26.137018,83.436782/!600,600/0/default.jpg"/>
 </td>
@@ -3975,8 +3616,6 @@ Sarcasti
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The Child Angok   
 : Death has chxred those little ej es and forever  
 shrouded their bright glances. How sweetly  
@@ -4021,7 +3660,7 @@ the terming of those dark eyes, and feel the
 clasp of his fingers, and hear him sav again—  
 “ God be with vou.” ’   
   
-British Arcti
+British Arctic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040307:00514151362:1856011001:0215/pct:70.058597,14.718663,12.876947,20.178273/!600,600/0/default.jpg"/>
 </td>
@@ -4035,7 +3674,7 @@ British Arcti
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-tand  
+and  
 from under.&quot;  
 TWO IN HEAVEN.  
 &quot;You have two children,&quot; said I.  
@@ -4070,7 +3709,7 @@ to them though they may not return to
 thee.  
 Terrible bct Successful Dr.  
 Carnochan, of this city, has recently per­  
-formed an operation for neural
+formed an operation for neuralg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1856051601:0076/pct:33.154671,24.055851,13.380551,24.800532/!600,600/0/default.jpg"/>
 </td>
@@ -4084,7 +3723,7 @@ formed an operation for neural
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• TWO IN HEAVEN.;&#x27; &#x27; *  
+TWO IN HEAVEN.;&#x27; &#x27; *  
 ‘‘You have two children,” said L”  
 “I have four,” was the reply; “two on earth,  
 two in heaven.”  
@@ -4110,7 +3749,7 @@ Mother of angels! Walk softly 1—holy .eyes
 watch thy footsteps !—cherub forms bend to  
 listen ! Keep thy spirit free from earth taint;  
 : ’ so sbalt shou go to them though they may not  
-Mtnrato thee.&#x27;
+Mtnrato thee.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1856092501:0261/pct:3.746728,60.592460,13.563482,13.336753/!600,600/0/default.jpg"/>
 </td>
@@ -4124,7 +3763,7 @@ Mtnrato thee.&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and more.  
+and more.  
 Morning Star.  
 Two ix Heaven. &quot; You have two  
 children,&quot; said I.  
@@ -4157,7 +3796,7 @@ r J i. i- i v .v,
 free from earth taint ; so shalt thou go  
 to them though they may not return to  
 thee.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA30n_ver01%2Fdata%2F1856100301%2F0145.jp2/pct:41.540616,53.466638,11.764706,19.952184/!600,600/0/default.jpg"/>
 </td>
@@ -4230,8 +3869,6 @@ though they may not return to thee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Two in Keatfen.  
 &#x27;You have two children,&#x27; Slid I.  
 &#x27;I have four,&#x27; whs the r-ply, &#x27;two or .  
@@ -4264,7 +3901,7 @@ may not return to thee.
 Whow Fault is I&#x27;J  
 WoCEaro accused by the stronger sex  
 of insincerity and deception; thfjare re­  
-proached for dissimulation And cheatin
+proached for dissimulation And cheating
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1857022601:0726/pct:79.666667,14.998606,12.425926,18.553108/!600,600/0/default.jpg"/>
 </td>
@@ -4278,8 +3915,6 @@ proached for dissimulation And cheatin
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Two in Ilfareu.  
   
 “You have two children,” said I.  
@@ -4307,7 +3942,8 @@ Mother of Angels 1 Walk soLv . Holy
 eyes watch thy footsteps! Cherub forms  
 bend to listen ! Keep thy spirits free from  
 earth’s taint; so shall thou go to them  
-though tb y may ; at return to thee.
+though tb y may ; at return to thee.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026882:00279557414:1857022801:0187/pct:75.810771,15.583424,13.716156,16.324973/!600,600/0/default.jpg"/>
 </td>
@@ -4331,7 +3967,7 @@ though tb y may ; at return to thee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-g the same.  
+the same.  
 Two N HEAVEN.-&quot; You have two chil.  
 dren,&quot; said 1.  
 &quot; I have four,&quot; was the reply; &quot; two on  
@@ -4359,7 +3995,7 @@ eyes watch thy footsteps !-cherub forms
 bend to listen! Keep thy spirit free from  
 earth taints: so shalt thou go to them, though  
 they may not return to thee.  
-N
+No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1857060301:0453/pct:16.205257,29.184633,13.730425,16.356331/!600,600/0/default.jpg"/>
 </td>
@@ -4403,7 +4039,7 @@ N
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; and the eye of faith grew  
+and the eye of faith grew  
 right, and she stretohed out her little hands,  
 nd suddenly exolaimed, “There, there 1 he  
 ias sent his shining angels to take me to him ;  
@@ -4413,7 +4049,7 @@ poor little sinner like Mary ?” and she went
   
 Sweet child! safely housed from storm and  
 tempest! No sickness there, no drooping head,  
-nor fading eye, nor weary fee
+nor fading eye, nor weary feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1858020401:0286/pct:43.645991,7.147766,25.052950,89.163803/!600,600/0/default.jpg"/>
 </td>
@@ -4427,7 +4063,7 @@ nor fading eye, nor weary fee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. JOSEPH MAZZINI.  
+JOSEPH MAZZINI.  
 TWO IN HEAVEN.  
 ‘ You have two children,’ said I.  
 ‘ I have four,’ was the reply—‘ two on earth, two  
@@ -4454,6 +4090,7 @@ watch thy footsteps I Cherub forms bend to listen.
 Keep thy spirit free from earth-taint; so shalt  
 thou go to them, though they may not return to  
 thee.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_selene_ver01:data:sn84031524:print:1858050701:5730/pct:81.755656,55.042350,14.751131,13.485971/!600,600/0/default.jpg"/>
@@ -4468,7 +4105,6 @@ thee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Two in Heaven.  
 &quot; You have two children,&quot; said t.  
 &quot;I have four. was the ronlv-1  
@@ -4502,7 +4138,8 @@ uo loinrs ionu to listen. Keep thy
 spirit free from earth-taint so shall  
 tllOll (TO to thWlh. ihn&#x27;iV.rh lfiW Wiv  
 L &#x27; -O &quot; &quot;&quot;V ,  
-nl return to thee.
+nl return to thee.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn95063180:00212472852:1858062401:0113/pct:79.745763,75.419681,14.237288,20.567763/!600,600/0/default.jpg"/>
 </td>
@@ -4516,8 +4153,6 @@ nl return to thee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Two ix Heaven.—“ You have two I  
 children,” said I.  
 “I have four,” was the reply,—“two  
@@ -4549,7 +4184,7 @@ ub forms bend to listen. Keep thy spir­
 it free from earth taint; so shalt thou  
 |go to them, though they may not re­  
 turn to thee.  
-
+1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1858071401:0081/pct:29.754975,75.025589,13.063490,18.741044/!600,600/0/default.jpg"/>
 </td>
@@ -4563,7 +4198,6 @@ turn to thee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Two In Heaven.  
 * You have two children,&#x27; said I.  
 &#x27; I have four,&#x27; was the reply ; &#x27; two on earlh,  
@@ -4596,7 +4230,7 @@ eyes watch thy footsteps ! Cherub forms bend
 to listen ! Keep thy spirit free from earlh  
 taint, so shall thou go with them tho&#x27; they may  
 not return to you.  
-Ptoma
+Ptoman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00383342922:1858081901:0328/pct:18.038804,39.190039,14.368117,17.645579/!600,600/0/default.jpg"/>
 </td>
@@ -4610,8 +4244,6 @@ Ptoma
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Two in HeareK  
   
 *Tou have two children&quot; said I,.  
@@ -4643,6 +4275,7 @@ watch thy footsteps! Cherub forms bend to
 listen Keep thy spirit free from earth that  
 so shall thou go to them, though they may not  
 return to you.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1858081901:0140/pct:81.478273,37.486410,12.920456,14.959774/!600,600/0/default.jpg"/>
@@ -4657,7 +4290,6 @@ return to you.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 found.  
 Two in Hkavex ,4You have two child-  
 reu?&#x27;  
@@ -4693,7 +4325,7 @@ eyes watch thy f ootsteps! Cherub froms
 bent to listen &#x27;.keep thy spirit free from earth  
 that so shall thou go to them, tho&#x27; they  
 may not return to you  
-The Luthera
+The Lutheran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1858091601:0377/pct:44.910462,68.985346,12.606032,17.631237/!600,600/0/default.jpg"/>
 </td>
@@ -4707,8 +4339,6 @@ The Luthera
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THE CHILD-ANGEL.  
   
 Deatu has closed those little eyes and forever  
@@ -4743,6 +4373,7 @@ In her eyes a glory bright,
 On her brow a glory crown.  
   
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_independent_1859-06-23_11_551%2Fsim_independent_1859-06-23_11_551_jp2.zip%2Fsim_independent_1859-06-23_11_551_jp2%2Fsim_independent_1859-06-23_11_551_0005.jp2/pct:63.246073,42.698629,12.905759,13.901392/,600/0/default.jpg"/>
@@ -4757,7 +4388,7 @@ On her brow a glory crown.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eerful.  
+erful.  
 Genuine cheerfulness is an almost certain in­  
 dex of a happy mind, and a pure good heart.  
 THE CHILD-AnGEl.Death has closed  
@@ -4791,7 +4422,8 @@ bear the splendor of the sight? ten thousand
 celestial beings, and your radiant child in the  
 midst of them  
 In her eyes a glory bright,  
-On her brow a glory crown.
+On her brow a glory crown.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859072901:0759/pct:82.266693,68.295984,12.819497,17.747030/!600,600/0/default.jpg"/>
 </td>
@@ -4805,7 +4437,7 @@ On her brow a glory crown.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- her full grandeur seems.  
+her full grandeur seems.  
   
 But dearer far, my love, than all  
 Sweet nature’s harmony,  
@@ -4845,7 +4477,7 @@ angel in the midst of thea—
 In her eyes a glory bright,  
 On her brow ¢ glory crown.  
   
-Trusting
+Trusting 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_michigan-farmer_1859-08-06_1_32%2Fsim_michigan-farmer_1859-08-06_1_32_jp2.zip%2Fsim_michigan-farmer_1859-08-06_1_32_jp2%2Fsim_michigan-farmer_1859-08-06_1_32_0005.jp2/pct:64.277344,54.396552,16.875000,22.456897/,600/0/default.jpg"/>
 </td>
@@ -4859,7 +4491,7 @@ Trusting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and be immortal..  
+and be immortal..  
 THE CHILD-A.VGEL.  
 Death has forever Dhose little’  
 eyes and forever shrouded their Bright  
@@ -4895,7 +4527,8 @@ tho splendor of tho sight? ten thousand?
 celestial beings,, and you* radieit cfiilUl  
 angel in the midst of them—  
 In her eyes a glory bright.  
-On her brow a glory crown.
+On her brow a glory crown.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859081001:0021/pct:81.844339,45.690035,12.429866,25.870811/!600,600/0/default.jpg"/>
 </td>
@@ -4909,7 +4542,7 @@ On her brow a glory crown.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ine die.  
+ne die.  
 J. V. Duralde, Jr., N. W. pope,  
 Greffier. President.  
 THE CHILD-ANGEL--Death has  
@@ -4950,7 +4583,7 @@ ennthousand cclestial deingeg an.
 rour radiant child angel in the  
 nidst of them  
 In her eyes of glory bright  
-On her brow a glory crown.
+On her brow a glory crown. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475002:1859082001:0326/pct:81.039326,34.472318,15.449438,30.002884/!600,600/0/default.jpg"/>
 </td>
@@ -4964,7 +4597,7 @@ On her brow a glory crown.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- .  
+.  
 The Ciiu.d-Anuri..—Dsalh has closed those,  
 little eyes and for ever shrouded their bright,  
 glances. How sweetly she sleeps, that little  
@@ -4993,7 +4626,7 @@ of the sight? Ton thousand celestial bring’
 and your radUnt child angel in the midst og. .  
 them— &#x27; v  
 * In b« yea a glory bright, ~  
-On lier brow a glory crown
+On lier brow a glory crown.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1859090301:0533/pct:83.065380,29.293592,13.647731,15.191702/!600,600/0/default.jpg"/>
 </td>
@@ -5007,7 +4640,7 @@ On lier brow a glory crown
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, of Com.  
+of Com.  
 THE CHILD^ANGEL.  
 Death has closed those littler eyes and  
 forever shrouded their bright glances.—■  
@@ -5042,7 +4675,8 @@ dor of the sight ? ten thousand celestial
 beings and yourraJiant child-angel in the  
 midst of them—  
 In her eyes a glory bright,  
-On her brow a glory crown.
+On her brow a glory crown.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL2_ver01%2Fdata%2F1859090901%2F0048.jp2/pct:47.889048,35.351416,13.848664,21.339727/!600,600/0/default.jpg"/>
 </td>
@@ -5056,7 +4690,6 @@ On her brow a glory crown.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Teller. s  
 Tue CHiLp-Axcer. Death has closed those  
 little eyes and for ever shronded their bright glances.  
@@ -5086,7 +4719,7 @@ sight ? Ten thousand celestial beings, and your radi­
 ant child-angel in the midst of them—  
 In her eyes a glory bright  
 On her grow g gll;)yry crown.  
-Our CriLpreN.
+Our CriLpreN. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_jefferson_ver01:data:sn84022932:00542868521:1859091001:0148/pct:17.674349,14.508060,12.705777,13.240689/!600,600/0/default.jpg"/>
 </td>
@@ -5100,7 +4733,7 @@ Our CriLpreN.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.—London Pa^er , „ •  
+—London Pa^er , „ •  
 The Angel Child —Death has forever closed  
 those little eyes, and forever shrouded their  
 bright glances. How sweetly she sleeps, that ^ -  
@@ -5133,7 +4766,7 @@ midst of them—
 On her eyes a glory bright  
 On her head a glory crown.  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1860042001:0016/pct:76.313974,37.547695,15.560767,18.882128/!600,600/0/default.jpg"/>
 </td>
@@ -5147,7 +4780,7 @@ On her head a glory crown.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- place.  
+place.  
 The Child Angel.  
 Death bus forever closed those little eyes, and  
 forever shrouded their bright glances. How sweetly  
@@ -5173,7 +4806,7 @@ I
 MllHUi 4 -  
   
 Going West.  
-
+j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_algaesoup_ver02:data:sn84022465:0051717452A:1860042601:0249/pct:48.643006,10.178520,28.544316,81.183415/!600,600/0/default.jpg"/>
 </td>
@@ -5187,7 +4820,7 @@ Going West.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ain.  
+in.  
 Two in HeaveN.--&quot;You hare two chil­  
 dren?&quot; said I.  
 &quot;I have four,&quot; was the reply; &quot;two on earth  
@@ -5215,7 +4848,7 @@ watch thy fookstepsl cherub forms head to
 listen! Keep thy spirit frea from earth taint;  
 so shalt thy soul go to them, though they may  
 not return to thee.  
-ComMendarle. We have irformation th
+ComMendarle. We have irformation tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290033:1861092201:0238/pct:39.903424,57.570824,10.579456,11.190709/!600,600/0/default.jpg"/>
 </td>
@@ -5229,19 +4862,7 @@ ComMendarle. We have irformation th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-r its beiii&gt;r  
-brought into cultivation. He not being well  
-versed in the geography ol We.stern N. (&#x27;. sup­  
-posed Buncombe co. to be drained by the (&#x27;atawba  
-river—hence its name (’atawba (irape. From  
-the District of (’olutnbia it journeyed N. West,  
-and was extensively cultivated by N. Longworth  
-of Cincinnati, and did not revisit the South until  
-within a few years past, and after its parent vine  
-in the wild state had long j.assed away. It ranks  
-at the present time as the very best wine grajie  
-in the Southern (&#x27;&#x27;onfederacy or East of Califor­  
-nia.— Wrisffru i^nrth (&#x27;n rolin in n.  
+in n.  
 Two III llenven.—“You have two children&#x27;”  
 said I.  
 “I have four,” was the reply; “two on earth  
@@ -5267,9 +4888,10 @@ the world-weary spirit.
 Mother of angels! alk softly! holy eyes watch  
 thy footsteps! cherub form, bend to listen! Keep  
 thy spirit free from earth taint; so shall thy soul *(&gt;  
-to them, though they may not return to thee.
+to them, though they may not return to thee.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FyOsw10_ver01%2Fdata%2FFyOsw_1861-09-26_1%2F0002.jp2/pct:34.200490,61.666314,14.641787,22.051662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FyOsw10_ver01%2Fdata%2FFyOsw_1861-09-26_1%2F0002.jp2/pct:34.200490,68.356976,14.641787,15.360999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5281,13 +4903,13 @@ to them, though they may not return to thee.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sfily  
+sfily  
 watch thy footsteps; cherub forms bend to  
 listen! Keep thy spirit free from earth taint;  
 so shalt thy soul go to them, though they insy  
 not return to thee.  
 Down-east lyceudm. quektion for discuss ion  
-WOhn 
+WOhn a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862040801:0355/pct:26.537260,92.602522,12.150826,3.604409/!600,600/0/default.jpg"/>
 </td>
@@ -5301,7 +4923,6 @@ WOhn
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WANTED-AN ANGEL FOR HEAVEs.  
 And so death closed those little eyes  
 shrouded their bright glances. Oh,  
@@ -5344,7 +4965,7 @@ ures, children of earth!
 A strange feud has existed for  
 several years in the the Parish of Em  
 ly, in the archbishopric of Cashel, Ire  
-land, betwee
+land, between
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864061101:0691/pct:56.150864,48.494596,12.601339,25.000000/!600,600/0/default.jpg"/>
 </td>
@@ -5358,10 +4979,10 @@ land, betwee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, safely housed from storm and  
+safely housed from storm and  
 tempest—no sickness, nor drooping head nor fading  
 eye, nor weary feet, sweetly she rests by the green ]pas­  
-tures tended by the good Shepher
+tures tended by the good Shepherd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867032301:0259/pct:30.482625,69.101043,12.818533,1.743604/!600,600/0/default.jpg"/>
 </td>
@@ -5375,72 +4996,6 @@ tures tended by the good Shepher
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-THE LADIES  
-  
-REPOSITORY.  
-  
-  
-  
-More oF Curist.—Those who call themselves  
-Christians need more of Christ. How few, com-  
-paratively, who believe upon him, grow up to a sym-  
-metrical manhood in his service! How few feel that  
-they are called saints—their vision filled with his  
-exceeding beauty—self and sin crucified—like a hymn  
-melodious with joy even amid dark and rugged ways !  
-More of Christ is needed by preacher and people, by  
-the lofty and the lowly, the wise and the unwise.  
-The multitudes who grope in spiritual ignorance,  
-who stagger under their burdens, who shudder with  
-their fears and woes, who are gliding toward terrible  
-vortices in the giddy whirl of business and pleasure,  
-need more of Christ. More of Christ would make  
-that sad home bright, that wavering soul steadfast,  
-that mourning heart glad, that burdened conscience  
-light, would impel to merciful labors that selfish  
-nature, and make those who stand apart in enmity  
-clasp forgiving hands. More of Christ would smite  
-down sectarian walls, strip the covering from the  
-ecclesiastical shams, hush the whine of cant, blow  
-soft winds of refreshment to weary wanderers, win  
-outcasts to the fold, wipe stigmas of exclusiveness  
-and mammon from the Church, lead the joyous flock  
-by still waters, and make the desert blossom as the  
-rose. More of Christ is what we all want in our  
-hearts, our homes, our Churches, our business, our  
-politics, our schools, our literature, our art, our gov-  
-ernment—more of his sweet, holy, courageous, sacri-  
-ficing spirit—more of his patience, his love, his ten-  
-der appreciation of man. Yea, we want him as our  
-own precious Redeemer, whose blood cleanseth from  
-all sin.—Rev. H. N. Powers, D. D.  
-  
 WANTED, AN ANGEL FOR HEAVEN.—And so death  
 closed those little eyes—shrouded their light glances.  
 O, that the sun would not come streaming on her  
@@ -5476,9 +5031,9 @@ On her brow a glory crown.”
 Wanted—angels for heaven! Cling not too closely  
 to your beautiful treasures, children of earth !  
   
-N
+No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1_jp2.zip%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1_jp2%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1_0069.jp2/pct:16.410819,12.767510,69.956140,75.753891/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1_jp2.zip%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1_jp2%2Fsim_ladies-repository-a-monthly-periodical-devoted-to_1868-07_28_1_0069.jp2/pct:16.410819,19.674125,69.956140,68.847276/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5520,20 +5075,7 @@ N
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ii finii pawpr rpadprs. Home intlu­  
-  
-ence must correct this morbid appetite, and  
-furnish strouger thoughts for our children,  
-till a healthier moral tone is established, and  
-they from choice seek worthier books.  
-When their young hearts are enlisted in  
-the sufferings of heathen children, then will  
-come the natural impulse to help; and giv­  
-ing will bo a privilege, not merely a duty.  
-Let the magnitude of the object be fully un­  
-derstood by them, and an intelligent and  
-willing response will be received : and the  
-Lord loveth such cheerful givers.—Mrs. C.  
+th such cheerful givers.—Mrs. C.  
 Tan Husen, in Helping Hand.  
 Two in IIraven.—“You have two chil­  
 dren,” said I. “ I have four,” was the re­  
@@ -5559,9 +5101,9 @@ watch thy footsteps; cherub forms bend to
 listen; keep thy spiri; free from earthly tint.  
 So shalt thou go to them, though they may  
 not return to thee.—Missionary Messenger.  
-tm i
+tm i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1874120901:0278/pct:5.177640,62.161696,12.586395,24.211343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1874120901:0278/pct:5.177640,69.539735,12.574269,16.833305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5583,7 +5125,7 @@ tm i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the voice which  
+the voice which  
 hould bo ever sounded, and ever sounding  
 n the cars of the sinner.  
 Two ix Hkavkn.?&quot;You have two cliilIren,&quot;  
@@ -5608,7 +5150,8 @@ n heaven. Mother of angels, walk softly ;
 loly eyes watch thy footsteps; cherub forms j  
 &gt;cnd to listeu ; keep thy spirit free from !  
 larthly taint. So shrill thou go to them, j  
-hough they may not rcturu to thee.?MissiontVH
+hough they may not rcturu to thee.?MissiontVH  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1875010701:0224/pct:43.654624,70.952938,15.234120,14.100603/!600,600/0/default.jpg"/>
 </td>
@@ -5622,12 +5165,12 @@ hough they may not rcturu to thee.?MissiontVH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, safely housed from storms and  
+safely housed from storms and  
 tempests ; no sickness there nor droop­  
 ing head; no fading eye nor weary feet;  
 by the green pastures tended by the  
 Good Shepherd linger the little lambs of  
-I the Heavenly fold
+I the Heavenly fold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1879031501:0048/pct:51.541048,72.900838,19.347156,3.506721/!600,600/0/default.jpg"/>
 </td>
@@ -5641,12 +5184,12 @@ I the Heavenly fold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, safely housed from  
+safely housed from  
 t?torm and tempests. Nosickuess there,  
 I uor drooping head; no fading eye, nor  
 weary feetjby the green pastures, teuded  
 1 by the Good Shepherd, linger the little  
-lambs of the Heavenly fold
+lambs of the Heavenly fold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1879081601:0137/pct:50.292316,29.637792,18.944878,3.353775/!600,600/0/default.jpg"/>
 </td>
@@ -5660,7 +5203,7 @@ lambs of the Heavenly fold
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to take it from the arms of the  
+to take it from the arms of the  
 afflicted mother to his own. where it is  
 safely housed from storm and tempest;  
 no sickness, no drooping head, no fad­  
@@ -5671,7 +5214,7 @@ Earth has less attraction, eternity is
 nearer. In7isible cords are drawing  
 the parents upward. A still, small voice  
 is ever whispering to the world-weary  
-spirits, &#x27; come.&quot; May th
+spirits, &#x27; come.&quot; May the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA19n_ver01%2Fdata%2F1892092801%2F0311.jp2/pct:2.555762,87.261012,14.684015,7.246224/!600,600/0/default.jpg"/>
 </td>

@@ -26,22 +26,7 @@ What an incomprehensible organ the human brain, to have ascertained such astound
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hels. The  
-increase in live stock over previous  
-years has also been groat. The number  
-of hogs packed during tho season is  
-1,1 l.&#x27;J,iG.&#x27;J, against 8.30,000 to same date of  
-last year. Our receipts and shipments  
-of lard, meats, seeds, wool, salt, and  
-lumber, and of nearly all other articles,  
-were also largely in excess of last year.  
-The foreign trade of the city has largely  
-increased. Tho establishment of a di­  
-rect line of propellers hence to Montreal,  
-to connect with European steamers, was  
-eminently successful in 1871, and this  
-lino of business promises great expansion  
-in 1872. Chini&#x27;in Tribune.  
+bune.  
 Insignificance of the Earth.  
 M. Bcclus, a celebrated astronomical  
 writer, says this earth is tho lowest in  
@@ -60,9 +45,9 @@ What an incomprehensible org.ui the
 human brain, to have ascertained such  
 astounding facts, and demonstrated tho  
 laws which govern universal nature !  
-Paiu and li
+Paiu and lis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1872032101:0601/pct:29.123521,30.160952,12.315089,18.278516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1872032101:0601/pct:29.123521,37.578726,12.241124,10.860742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,23 +59,6 @@ Paiu and li
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-the geysers on this continent and in  
-parts of Europe it is believed it may  
-be heated in the bowels of the earth to  
-six hunhred degrees; but in its ascent  
-towards the surface it cools rapidly  
-rarely being two hundred at its es  
-cape.  
-Where does the water come from in  
-these lower regions? It gathers on  
-mountains, and indeed everywhere,  
-and trickles down seams and disloc­  
-ations of rock, porous staata, &amp;c, till,  
-reaching incandescent matter in a  
-state of fusion, it is converted into  
-steam, forced where there is least re­  
-sistance, becoming condensed into  
-water again, but pushed on by steam  
 behind.  
 INSIGNIFICANCE OF THE EArTH.  
 M. Reclus, a celebrated astronom  
@@ -112,9 +80,9 @@ human brain, to have ascertained such
 astounding facts, and demonstrated  
 the laws which govern universal  
 nature!  
-Monsteur D. live
+Monsteur D. lives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023140:1872040401:0292/pct:84.578207,66.579753,11.057411,20.711937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023140:1872040401:0292/pct:84.651435,75.490307,10.984183,11.801383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +94,7 @@ Monsteur D. live
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- kind.  
+kind.  
   
 iNSlONMKllWNCP.OKTIir.KAKTII.  
 M. Hecliis, a celebrated astronomical  
@@ -148,7 +116,7 @@ the human brain, to havo ascertained
   
 such astounding facts, mid demon­  
 strated the laws which govern uni­  
-versal nature 
+versal nature !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_alpha_ver01%2Fdata%2Fsn85042522%2F00033872207%2F1872040601%2F0088.jp2/pct:30.046826,60.984437,66.545265,26.999638/!600,600/0/default.jpg"/>
 </td>
@@ -162,7 +130,6 @@ versal nature
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 IESIGNIrICANCE OF THE EAErn.  
 Mr. Roclus, a celebrated astronomical  
 writer, says this earth is the lowest in  
@@ -180,7 +147,7 @@ uway.
 What an incomprehensible organ the  
 human brain, to have ascertained such  
 astounding facts, and demonstrated the  
-laws which govern universal nature
+laws which govern universal nature!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286984:1872041001:0690/pct:61.768473,62.666396,12.181441,11.604512/!600,600/0/default.jpg"/>
 </td>
@@ -194,20 +161,6 @@ laws which govern universal nature
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-w off the outer crust, annihilate the  
-burglar, atul leave the contents of the safe un­  
-injured.  
-Sponge Paper.—For the fabrication of an  
-article colled sponge-paper, lately patented in  
-France, evenly and finely divided sponge is ad­  
-ded to ordinary paper pulp, anti this is worked,  
-as in the common paper making apparatus, into  
-sheets of different thicknesses. It is said to have  
-all the peculiarities of sponge, absorbing water  
-readily, and remaining moist a long time. It  
-has been used as dressing for wounds with con­  
-siderable advantage, and is capable of several  
-important technical applications.  
 Insignificance of the Earth.—M Reclus,  
 a celebrated astronomical writer, says this eartli  
 is the lowest in rank among heavenly bodies.  
@@ -223,9 +176,9 @@ What an incomprehensible organ Is the human
 brain, to have ascertained snch astonnding facts  
 and demonstrated theJaws which govern univer­  
 sal nature!  
-Marbleized Glas
+Marbleized Glass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171323:1872041201:0118/pct:67.524842,65.076949,14.634146,15.711145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_keres_ver01:data:sn83020847:00517171323:1872041201:0118/pct:67.524842,72.636564,14.634146,8.151531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +190,7 @@ Marbleized Glas
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ridge.  
+idge.  
   
 INSIGNIFICANOE OF THE EARTH. M.  
 Reclus, a celebrated astronomical writer,  
@@ -251,7 +204,8 @@ readily elude his intelligent view. The
 sun is 1,255,000 times larger and et oo  
 tha enoro e i o a ee e o an e a  
   
-speck--a
+speck--a  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1872051001:0282/pct:33.430856,33.301105,30.154086,4.806630/!600,600/0/default.jpg"/>
 </td>
@@ -265,7 +219,7 @@ speck--a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a spring only a mile  
+a spring only a mile  
 away.  
   
 mere point, which seems lost amid  
@@ -273,7 +227,7 @@ mere point, which seems lost amid
 eighteen millions of stars which are dis­  
 coverable by instruments in the Milky  
 Way.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1872051001:0282/pct:33.177297,38.121547,25.765555,29.116022/!600,600/0/default.jpg"/>
 </td>
@@ -287,7 +241,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Lnsigxipicancb or tub Eauth.?M.  
 Reclus, a celebrated astronomical writer,  
 says this earth is the lowest in rank  
@@ -302,7 +255,7 @@ mere point, which seems lost amid
 &#x27;ightoon millions of stars which are dis­  
 coverable by instruments in tho Milky  
 Way.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1872051301:0176/pct:42.212740,31.715807,13.654374,8.190008/!600,600/0/default.jpg"/>
 </td>
@@ -316,26 +269,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, one quart hard  
-cider. Dose, one wineglassful four time:  
-a day.  
-Invest your spare cash in first-elasi  
-Railroad Bonds, paying you good inter  
-est, write to Charles W. Hassler, No  
-7, Wall street, New York.  
-A telegram from Calcutta states thai  
-Deputy Inspectors Cowan and Forsytl  
-have been removed from office because  
-they executed Kookah rebels after receiving  
-orders to the contrary.  
-If you desire rosy cheeks and a com  
-plexion fair and tree from Pimples  
-Blotches, and Eruptions, purify youi  
-blood by taking Dr. Pierce&#x27;s Goldci  
-? . TJ1 _ If.  
-  
-.Medical .Discovery. n nus 110 equai ioj  
-this purpose. 59f  
 Insignificance of the Earth.? M.  
 Reclus, a celebrated astronomical writer,  
 says this earth is the lowest in rani  
@@ -350,9 +283,9 @@ m&lt; re point, which seems lost amid
 eighteen millions of stars which are dis  
 coverable by instruments in the Milk}  
 Way.  
-A Fixed Fact i
+A Fixed Fact in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862142:1872053001:0114/pct:56.272642,55.815040,15.725211,19.131247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862142:1872053001:0114/pct:56.272642,66.753853,15.725211,8.192433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +297,7 @@ A Fixed Fact i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in which we dwell is one of the low­  
+in which we dwell is one of the low­  
 est in rank among the heavenly bodies. If  
 an astronomer in some other planet were  
 exploring the immensity of space, our  
@@ -379,7 +312,7 @@ their courses round their central globe.
 The sun itself is only a spark, which  
 seems lost amid the eighteen millions of  
 stars which Ilerschel&#x27;s telescope discerned  
-in the Milky Way; th
+in the Milky Way; the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1872071101:0450/pct:59.599332,11.967501,22.746244,82.520861/!600,600/0/default.jpg"/>
 </td>
@@ -393,33 +326,6 @@ in the Milky Way; th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ow the horizon for the whole time, but  
-skimming along very close to it in the north. At  
-  
-  
-  
-a half.  
-cntsieiailaipeininpes  
-  
-THE RIGHT WORD.  
-  
-An Irish woman, at a loss for a word, went intoa  
-| drug store, and looking much puzzled, said she had  
-| conte for some medicine, but the name had slipped  
-| her mind “‘intirely,”” but sounded like paddy in the  
-| garret. The druggist, willing to ‘“‘makea sale,” tried  
-to think what it could be, and hit upon paregoric.  
-“Indade, thin, that’s it,” said she, obtaining the  
-medicine, and going away delighted that she had  
-come so near the right word.  
-  
-|  
-  
-}  
-  
-|  
-  
-| sete  
 INSIGNIFICANCE OF THE EARTH.  
   
 M, Reclus, a celebrated astronomical writer, says  
@@ -427,9 +333,10 @@ M, Reclus, a celebrated astronomical writer, says
 ies. Were an astronomer on some other planet ex-  
 J ergy the immensity of space, this planet we in-  
 | habit, owing to its small size, might readily clude his  
-| intelligent view.
+| intelligent view.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1872-10-03_45_40%2Fsim_youths-companion_1872-10-03_45_40_jp2.zip%2Fsim_youths-companion_1872-10-03_45_40_jp2%2Fsim_youths-companion_1872-10-03_45_40_0007.jp2/pct:29.314159,62.839879,21.211283,13.821752/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1872-10-03_45_40%2Fsim_youths-companion_1872-10-03_45_40_jp2.zip%2Fsim_youths-companion_1872-10-03_45_40_jp2%2Fsim_youths-companion_1872-10-03_45_40_0007.jp2/pct:29.424779,72.601964,21.100664,4.059668/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +348,6 @@ J ergy the immensity of space, this planet we in-
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 This earth of ours is tne lowest in  
 j rank among heavenly bodies. Were  
 j an astronomer or some oth-r planet  
@@ -460,7 +366,7 @@ in the milky way. What
 an incomprehensible organ tbe  
 human brain, to have ascertained  
 such astounding facta, and tlecion-  
-jjjiraieu. tu
+jjjiraieu. tuu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872102601:0564/pct:47.683994,85.308831,10.769429,8.279735/!600,600/0/default.jpg"/>
 </td>
@@ -474,7 +380,7 @@ jjjiraieu. tu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e things.&quot; (See his Pittsburg  
+Pittsburg  
 speech.)  
   
 Insignificant.  
@@ -498,7 +404,8 @@ brain is, to have ascertained such as­
 tounding facts, and demonstrated the  
 laws which govern universal nature!  
   
-Nothing Hid from God.
+Nothing Hid from God.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1872103101:0514/pct:59.763715,72.712783,8.704508,9.010732/!600,600/0/default.jpg"/>
 </td>
@@ -512,8 +419,6 @@ Nothing Hid from God.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-is  
-own significance  
 Insignificant.  
 This earth of ours is the lowest in  
 rank among heavenly bodies. Were  
@@ -535,9 +440,9 @@ such astounding facts, and demon
 strated the laws which Govern uni  
 versal nature I  
   
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1872110101:0611/pct:50.889538,14.989011,13.595327,80.791209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1872110101:0611/pct:50.916091,14.989011,13.568773,80.791209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +454,6 @@ versal nature I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 This earth of ours is the lowest in  
 rank among heavenly bodies. Were  
 an astronomer or some other planet  
@@ -589,7 +493,7 @@ versal nature!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Pittsburgh Gazette.  
+Pittsburgh Gazette.  
   
 Insignificant.  
   
@@ -610,6 +514,7 @@ an incomprehensible organ tho human
 brain, to have ascertained such astound  
 ing facts, and demonstrated tlie laws  
 which govern universal nature.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028821:00280775484:1872120501:0581/pct:45.676430,86.792953,9.728033,10.438469/!600,600/0/default.jpg"/>
@@ -624,7 +529,7 @@ which govern universal nature.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. This earth of ours  
+This earth of ours  
 is the lowest in rank among the heav  
 enly bodies. Were an astronomer on  
 some other planet exploring the im  
@@ -642,7 +547,7 @@ VY bat an incomprehensible organ the
 human brain, to have ascertained  
 such astounding facts, and demonstra  
 ted tbe laws which govern universal  
-natur
+nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1873010101:0321/pct:15.887995,41.106620,9.436881,7.630116/!600,600/0/default.jpg"/>
 </td>
@@ -656,7 +561,7 @@ natur
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’t it?”  
+t it?”  
   
 Insignificant.  
   
@@ -676,7 +581,7 @@ Good Words&#x27;
 Way. What incomprehensible organ  
 the human brain, to have ascertained  
 Th”rlow Weed, standing by the coflin such astounding facts, and demonstrated  
-of Greeley said he could not remember the laws which govern universal B84air
+of Greeley said he could not remember the laws which govern universal B84aire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_jacksonvilleboosters_20210525DiamondUnicornTramplingKelp_ver01%2Fdata%2Fsn84022655%2Fprint%2F1873010401%2F0001.jp2/pct:62.765957,69.023429,27.541371,10.698735/!600,600/0/default.jpg"/>
 </td>
@@ -690,7 +595,6 @@ of Greeley said he could not remember the laws which govern universal B84air
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 This earth of ours Is the lowest rank  
 among heavenly bodies. Were nn as­  
 tronomer of some other planet explor­  

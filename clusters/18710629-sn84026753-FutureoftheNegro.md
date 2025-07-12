@@ -22,19 +22,6 @@ There seems to be no necessity of taking the lugubrious view of the future of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ithout delay. The report says  
-  
- fire-prodt Suthiinn ia bl cumbceapalbone Kak eon  
-it “ will be a long time before the fund will be  
-large enough to buy.a site and pay for. auch 8  
-  
-chants of New-Yatk to erect a new building for. ¢  
-this library forthwith. There are too few good. o  
-hbraries in this City, or in the country, to per- |  
-tit so large and valuable a one as the Mercaa-:  
-tile Library to remain ecraedk axponnt: to the |  
-chances of fire.  
-  
 The New-Orleans Pioa Picayune mann in  
 some unusual, but very Just, observations about  
 the career and prospects of the colored  
@@ -57,9 +44,9 @@ and the whites and blacks would act in harmony,
 a Nee ee of both  
 races.  
   
-At thelast meeting of the Boar
+At thelast meeting of the Board
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-york-times_1871-06-16_20_6158%2Fsim_new-york-times_1871-06-16_20_6158_jp2.zip%2Fsim_new-york-times_1871-06-16_20_6158_jp2%2Fsim_new-york-times_1871-06-16_20_6158_0003.jp2/pct:71.375413,59.112836,13.216648,19.693792/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-york-times_1871-06-16_20_6158%2Fsim_new-york-times_1871-06-16_20_6158_jp2.zip%2Fsim_new-york-times_1871-06-16_20_6158_jp2%2Fsim_new-york-times_1871-06-16_20_6158_0003.jp2/pct:71.527012,65.792785,12.968578,13.013842/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,12 +58,7 @@ At thelast meeting of the Boar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hat the streets  
-should be paved with our type and the  
-fragments of our press, we shall still, and  
-lorever, say, the people mast rule.  
-The Future of the Negro in America.  
-From the New Orleans Picayune, June 10,  
+the New Orleans Picayune, June 10,  
   
 There seems to be no necessity of taking  
 the lugubrious view of the future of the  
@@ -119,9 +101,9 @@ country, and carnestly hope that the stae
 of the census of 1880 may show,  
 not only an increase in numbers, but also  
 a great increase in broperty, comfort and  
-education
+education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190868:1871062101:0585/pct:14.584846,50.363604,15.861777,23.199716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190868:1871062101:0585/pct:14.687727,53.392160,15.758896,20.171160/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,8 +125,6 @@ education
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I Then eetns to be no necessity or taking the  
 | lugubrious Tie* of the future of the African  
 I mo# which is so often held. Providence has  
@@ -176,7 +156,8 @@ I *hi? empty continent of ours
 I * r?om for us, room for them, end room  
 j m*nJ millions besides. We wslcrnwe  
 the report of the steady though alight  
-increase of numbers among the colored people
+increase of numbers among the colored people  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871062901:0175/pct:4.595861,77.249678,15.033726,14.293081/!600,600/0/default.jpg"/>
 </td>
@@ -190,7 +171,7 @@ increase of numbers among the colored people
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the career and prospects of the ne­  
+of the career and prospects of the ne­  
 groes at the South, it says:  
 “No colony, ever planted, has grown  
 so fast, advanced so far, or become so  
@@ -206,7 +187,7 @@ colored people may prosper, improve
 and multiply in the full enjoyment of all  
 the fruits of their labor.”  
 There is evident candor in this remark.  
-It was not made fo
+It was not made for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1871062901:0095/pct:26.189252,61.666314,10.799691,7.950455/!600,600/0/default.jpg"/>
 </td>
@@ -220,7 +201,7 @@ It was not made fo
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and by no means  
+and by no means  
 unusual, but very just, observations about the ca- ‘paints him as a monster of crue  
 : rae  
 reer and prospects of the colored people of the &#x27;just. Mr. Helps has a graceful style and a win-  
@@ -235,7 +216,7 @@ E ‘ |. Reavis, , Louis, Mo.—New Y wk, SR. Wells.
 untary and unconscivus beneficence, we may | Boe aids Se Pap ae  
 ‘ [—(For sale by Lee § Shepard.)—Mr. Reavis is a  
 equally hope that the good which has grown out ,. sit ceils eaiee Ml : 3 es  
-we : self-mad
+we : self-made
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_boston-commonwealth_1871-07-01_9_44%2Fsim_boston-commonwealth_1871-07-01_9_44_jp2.zip%2Fsim_boston-commonwealth_1871-07-01_9_44_jp2%2Fsim_boston-commonwealth_1871-07-01_9_44_0000.jp2/pct:54.697368,20.280731,23.421053,5.645577/600,/0/default.jpg"/>
 </td>
@@ -249,11 +230,11 @@ we : self-mad
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-’ with good intentions, of some  
+with good intentions, of some  
 of the original evil may be permanent, and that the | ading. a “tadiek* sad : :  
 five millions ofcolored people may prosper improve |v, ing, &amp; radical, and not rery instructive.  
 psrebed Shut ate 7k | The quality of his judgment may be inferred froma  
-and multiply in th
+and multiply in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_boston-commonwealth_1871-07-01_9_44%2Fsim_boston-commonwealth_1871-07-01_9_44_jp2.zip%2Fsim_boston-commonwealth_1871-07-01_9_44_jp2%2Fsim_boston-commonwealth_1871-07-01_9_44_0000.jp2/pct:54.671053,25.606358,23.355263,1.692641/600,/0/default.jpg"/>
 </td>
@@ -267,7 +248,7 @@ and multiply in th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- as 11 severely  
+as 11 severely  
 Impair the prospect of the crop.&quot;  
 The New Orleans l’icayunc Indulges in some  
 unusual, hut very just observation* about the  
@@ -291,7 +272,7 @@ there would soon bo an end to the Kuklux out
 , rages, and the whites and blacks would act in  
 I !r SV and forrJbf. Pro,,lotlon of the interests  
 of both races.—[X. Y. Times.  
-tIlol&quot;n!a|[conclave of the gran
+tIlol&quot;n!a|[conclave of the grand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aragonite_ver01:data:sn82014367:00513688350:1871080701:0706/pct:14.259106,9.864721,26.221026,87.824897/!600,600/0/default.jpg"/>
 </td>
@@ -305,24 +286,13 @@ tIlol&quot;n!a|[conclave of the gran
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and the preventives  
-which may be employed to counteract the  
-effect of those which are malign in their in-  
-fluence upon the health and prosperity of  
-mankind.—Journal of Microscopy.  
-  
-ne  
-  
-THE AFRICAN RACE IN THE UNITED STATES,  
-  
-If the results of the census are to be relied  
-on, there seems to be no necessity for taking  
+there seems to be no necessity for taking  
 the lugubrious view of the future of the Af-  
 rican race which is so often held. Of the  
   
-the United States, there ar
+the United States, there are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-review-a-religious-journal_1871-10-07_25_7%2Fsim_friends-review-a-religious-journal_1871-10-07_25_7_jp2.zip%2Fsim_friends-review-a-religious-journal_1871-10-07_25_7_jp2%2Fsim_friends-review-a-religious-journal_1871-10-07_25_7_0015.jp2/pct:56.899286,40.081068,36.280730,15.164521/600,/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-review-a-religious-journal_1871-10-07_25_7%2Fsim_friends-review-a-religious-journal_1871-10-07_25_7_jp2.zip%2Fsim_friends-review-a-religious-journal_1871-10-07_25_7_jp2%2Fsim_friends-review-a-religious-journal_1871-10-07_25_7_0015.jp2/pct:57.018239,49.594659,36.042823,5.650930/600,/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +304,7 @@ the United States, there ar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and the increase since 1860  
+and the increase since 1860  
 has exceeded nine and a half per cent. Prov-  
 idence has permitted the representatives of  
 this race on the North American continent to  
@@ -388,7 +358,8 @@ crease of numbers among the colored popula-
 tion of the country, and hope that the census  
 of 1880 may not only show for them an in-  
 crease of numbers, but also a great increase |  
-in property, comfort and education.
+in property, comfort and education.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_friends-review-a-religious-journal_1871-10-07_25_7%2Fsim_friends-review-a-religious-journal_1871-10-07_25_7_jp2.zip%2Fsim_friends-review-a-religious-journal_1871-10-07_25_7_jp2%2Fsim_friends-review-a-religious-journal_1871-10-07_25_7_0015.jp2/pct:56.344171,14.329995,43.655829,72.746781/,600/0/default.jpg"/>
 </td>

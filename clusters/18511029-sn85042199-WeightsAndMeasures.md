@@ -1,7 +1,7 @@
 
 # Weights and Measures
 
-### 179 reprints from 1851-06-26 to 1897-10-07
+### 178 reprints from 1851-06-26 to 1897-10-07
 
 ## [Weights and Measures](https://chroniclingamerica.loc.gov/lccn/sn85042199/1851-10-29/ed-1/seq-4/)
 
@@ -11,7 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-**Weights and Measures.**  
+Weights and Measures.**  
   
 The following table, giving the number of pounds of various articles to a bushel, may be of interest to our readers:  
   
@@ -44,7 +44,7 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the following  
+the following  
 relation to the bushel. A bushel of the res­  
 pective articles hereafter mentioned will mean  
 the amount of weights iu this section specified  
@@ -70,7 +70,7 @@ Of dried peaches, thirty-three pounds,
 Of dried apple«, twenty-four pounds,  
 Ot onioni, fifty-seven pounds,  
 Ol salt, lilty pound*.  
-
+5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1851062601:0389/pct:2.247007,48.159397,13.088404,11.711821/!600,600/0/default.jpg"/>
 </td>
@@ -84,7 +84,7 @@ Ol salt, lilty pound*.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the respect-  
+of the respect-  
   
 Of wheat, sixty pounds.  
 Of shelled coin, fifty-six pounds.  
@@ -107,7 +107,7 @@ Of dri*d peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifLy-seven pounds.  
 Of salt, fifty pounds.  
-
+5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1851072501:0381/pct:32.635154,28.373362,11.746391,14.170306/!600,600/0/default.jpg"/>
 </td>
@@ -121,7 +121,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Measukbs. The following table of  
 the number of pounds of various articles to a bushel,  
 may be of interest to some of our farming friends  
@@ -143,7 +142,8 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-throMpounds  
 Of dried apples, twenty-four pound 9.  
 Of onions, fifty-seven pounds  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851100101:0395/pct:17.273509,85.055881,15.352638,10.612028/!600,600/0/default.jpg"/>
 </td>
@@ -157,7 +157,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Measures. The following table of  
 the number of pounds of various articles lo a bushel,  
 may be of interest to some of our farming friends ;  
@@ -179,7 +178,8 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-three pound&#x27;s, . ...... .  
 Of driet) apples, twenty-four&quot; pounds&#x27;. V  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851100101:0388/pct:16.635161,84.539148,15.091367,10.356789/!600,600/0/default.jpg"/>
 </td>
@@ -193,7 +193,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 freights and Measures. The following table  
 of tiie number &#x27;of pounds of various articles lo a  
 bushel, may be of interest to some of our farming  
@@ -216,7 +215,7 @@ Of castor hans. fri-ix pound.
 Of dried peaches, thirty -three pounds.  
 Of dried apples, twenty -four pounds.  
 ,()f onion, fifty-seven p.nniil,  
-&#x27; Of salt, fifty poun
+&#x27; Of salt, fifty pound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat22n_ver01%2Fdata%2F1851100401%2F0158.jp2/pct:50.433727,46.714267,14.833449,13.235489/!600,600/0/default.jpg"/>
 </td>
@@ -230,7 +229,7 @@ Of dried apples, twenty -four pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e e o o  
+e o o  
  following table o the number of pounds in a  
 busher of the various articles. I may be of  
 interest to some of our farming friends:  
@@ -254,7 +253,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-As the stage pa
+As the stage pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021829:1851100801:0579/pct:66.680961,33.743664,14.908519,14.109858/!600,600/0/default.jpg"/>
 </td>
@@ -268,7 +267,7 @@ As the stage pa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;S lle of the number of pound of va  
+S lle of the number of pound of va  
 1 ious articles lo a bushel, may be of hi-  
 tercsi to some 01 our larminj; u imis;  
 Of wheat, sixty pounds.  
@@ -290,7 +289,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-Hnvn Ttntrs
+Hnvn Ttntrst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023085:1851101801:0170/pct:39.208842,55.792652,17.495637,19.114243/!600,600/0/default.jpg"/>
 </td>
@@ -304,14 +303,6 @@ Hnvn Ttntrs
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-hops of the Metho-  
-bttt&#x27;f..K,! ?M Ch?Tch ling very ill, with  
-is rt P&quot; 0f reery. Bishop Hedding  
-W u &#x27; J a correspondent of the Chris  
-Me ht AI 18 Terj Cak&#x27; but clieerfuLtum-tT&#x27;-r  
-BnaP!e&quot; manners&#x27;, according to the  
-HamV Pattert of Methodist Bishops. Bishop  
-  
 Welglits and Measures.  
 We copy the following table of the number of  
 pounds in a bushel of the various articles. It  
@@ -341,9 +332,9 @@ Of dried peaches, thirty-three pouuds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pcuads.  
 Of salt, fifty pounds.  
-JEfcy&quot; The Southern paper
+JEfcy&quot; The Southern papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1851102301:0527/pct:3.948190,5.884498,29.494382,87.343465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1851102301:0527/pct:16.292135,5.884498,17.150437,16.826748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +346,7 @@ JEfcy&quot; The Southern paper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-I WEIGHTS AND MEASURES.&quot;; 1  
+WEIGHTS AND MEASURES.&quot;; 1  
 The following table of the I number of  
 pounds of various articles to a bushel, may :  
 be of interest to some of our farming friends:  
@@ -380,7 +371,7 @@ Of dried apples, twenty-four pounds. ,,, ;
 Ol onions, hfty seven pounds..  
 Of salt, fifty poundsr&#x27; -s-&#x27;  
   
-On the 20t
+On the 20th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC1n_ver01%2Fdata%2F1851102501%2F0539.jp2/pct:82.265877,61.115627,13.468784,14.478764/!600,600/0/default.jpg"/>
 </td>
@@ -394,7 +385,6 @@ On the 20t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WEIGHT AND DlEAStK^.  
 The following table of the number tf  
 pr.nodi of various articles to a bushel, may be  
@@ -417,7 +407,8 @@ Of rii.it .1 1.tans, forty-six pounds.
 • )f dried p &gt;« &#x27;lies, thirty three pounds.  
 Of dt ied apples, twenty-f .iir poumla.  
 Ofoui ms. li ty seven pound*  
-Of salt, fi &#x27;ty pounds&#x27;.
+Of salt, fi &#x27;ty pounds&#x27;.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851102801:0143/pct:68.734535,72.262774,13.061152,13.262636/!600,600/0/default.jpg"/>
 </td>
@@ -431,7 +422,6 @@ Of salt, fi &#x27;ty pounds&#x27;.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Measures.  
   
 The following table, giving the number of  
@@ -455,7 +445,7 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds
+Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1851102901:0195/pct:4.907642,7.417080,12.423035,12.248629/!600,600/0/default.jpg"/>
 </td>
@@ -469,7 +459,7 @@ Of salt, fifty pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, fnee Current. ,  
+fnee Current. ,  
   
 f Q&quot;$&quot;The follow ing table of the number o  
   
@@ -496,7 +486,8 @@ Of blue grass seed, fourteen pounds.
 Of castor beans, forty-six pounds.  
 . Of dried peaches, thirty-three pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1851110701:0343/pct:50.924370,63.758482,26.638655,12.408254/!600,600/0/default.jpg"/>
 </td>
@@ -520,7 +511,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Measures.—The follow­  
 ing table of the number of pounds of vari­  
 ous articles to a bushel, may be of interest  
@@ -543,7 +533,8 @@ Of castor beans, forty-pounds.
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851111201:0385/pct:15.695926,65.579247,12.934099,12.145033/!600,600/0/default.jpg"/>
 </td>
@@ -557,8 +548,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Weight! a&#x27;hd Menihl&#x27;tlf  
   
 Wo copy the following table of (he number of  
@@ -583,7 +572,8 @@ Of castor beans, forty-six pounds.
 Ofdiied peaohes, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, filly-seven pounds.  
-Of salt fifty pounds. ,
+Of salt fifty pounds. ,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001731%2F1851111301%2F0176.jp2/pct:23.108138,66.672244,13.138846,11.661369/!600,600/0/default.jpg"/>
 </td>
@@ -597,7 +587,6 @@ Of salt fifty pounds. ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Wkiohts an n MkatUiiks Tlio full owing ta  
 ble of the nuinhor of p. muds of various a. tick&#x27;s to  
 u bushel may ho of interest to our reudera:  
@@ -621,7 +610,7 @@ Of drioil apples, tweuty-(ivi) pounds..
 Of onioii&quot;. lilty-soven pounds.  
 Of salt., fifty pounds  
 &#x27; Of mineral coal, seventy pound.  
-
+E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851111301:0945/pct:43.165888,72.082573,12.558411,11.262463/!600,600/0/default.jpg"/>
 </td>
@@ -635,7 +624,7 @@ Of salt., fifty pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ndation.  
+dation.  
 Wciclit and ftf caurcs.  
 The following table of the number of  
 pounds of various articles to a bushel,  
@@ -656,7 +645,7 @@ Of hemp seedj forty-four pounds.
 Of buckwheat, fifty-two pounds.  
 Of blue grass seed, fourteen pounds.  
 Of castor beans, forty-six pounds.  
-3to
+3ton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728169A:1851111301:0280/pct:3.157216,67.199207,15.286727,14.620978/!600,600/0/default.jpg"/>
 </td>
@@ -670,7 +659,7 @@ Of castor beans, forty-six pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-a lie&#x27;  
+lie&#x27;  
   
 Lawful Weights.  
   
@@ -696,7 +685,7 @@ Of dried peaches, thirty-thrco pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-scrcn pounds.  
 Of salt, III ty pounds.  
-
+F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1851111501:0393/pct:40.790530,9.351116,26.765650,81.297767/!600,600/0/default.jpg"/>
 </td>
@@ -710,7 +699,7 @@ Of salt, III ty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; Lowrie,  
+Lowrie,  
   
 12, and Coulter 15 years.  
   
@@ -738,7 +727,7 @@ Of sail, tilty pounds.
   
 that time which 1 shall have to enjoy  
   
-honor of the hospitality o
+honor of the hospitality of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1851111801:0129/pct:31.346968,22.607004,37.500000,74.163424/!600,600/0/default.jpg"/>
 </td>
@@ -752,8 +741,6 @@ honor of the hospitality o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 WEIGHTS AND MEASURES. —The following  
 table of the unmber of pounds of the varions  
 articles (0 a bushel, may be of interest to our  
@@ -777,7 +764,8 @@ Of eastor beaus, forty six ponnds.
 Of dried peaches, thiny three pounds,  
 Of dried apples, twemy four pounds.  
 Of onions, filty seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851111901:0685/pct:29.762374,80.362506,12.511487,12.180218/!600,600/0/default.jpg"/>
 </td>
@@ -791,7 +779,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WEIGHTS AND MEASURES.  
 The following tuble of the number of  
 pounds, or of variotw Articles to a bushel  
@@ -814,7 +801,7 @@ Of castor beads, forty-six found. &quot;
 Of dried peachevthirtythree poundai.&quot;  
 Of dried amilea, twenly-loor pounds. ;  
 Of onion, firty-eeveo pcruod. &#x27;  
-Of salt, fifty pound.
+Of salt, fifty pound. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ComWilm4n_ver01%2Fdata%2F1851112001%2F0413.jp2/pct:82.245797,62.040585,15.552442,13.409962/!600,600/0/default.jpg"/>
 </td>
@@ -828,7 +815,6 @@ Of salt, fifty pound.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WEIGHT ANO MEASURES.—The following  
 table of the number of pounds of various  
 articles to a bushel may be of interest to our  
@@ -852,7 +838,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-u
+ur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1851112001:0290/pct:55.064295,72.863902,11.643474,14.500417/!600,600/0/default.jpg"/>
 </td>
@@ -866,7 +852,7 @@ u
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—The following tsble  
+The following tsble  
 of the number of pounds of visions .artiole to  
 bushel, may be of interest to many of our ready  
   
@@ -889,7 +875,7 @@ Of Med peaches, _thirty-three pounds.
 Of dried apples, twenty-fire pounds.  
 Of emiszae, fifty-seven pounds.  
 Of salt, fiftrpounds.  
-Of uthurahteonl, sevent
+Of uthurahteonl, seventy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fides_ver01%2Fdata%2Fsn84026382%2F000002533%2F1851112201%2F0072.jp2/pct:9.114583,11.021076,9.678819,8.757267/!600,600/0/default.jpg"/>
 </td>
@@ -903,16 +889,7 @@ Of uthurahteonl, sevent
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s of the s u bsninces :numerated j  
-will make the whole its.gorel  
-20 bushels of asl , e.s, iroal,l rio thotstana  
-- thingv - whTle a illefillior•r — , or dead co:Cr,  
-(11. 01). mid pmpostecl with twenty loads,  
-tvonid [..ake it all as rich as Goshen  
-  
-Wit - lights 7.; w;  
-  
-We copy the table of the  
+the table of the  
 .number,of pounds in a- b. of the va­  
 -Nous nnicl.-s. it they be of interest to  
 o :Omit ciour farming fn. nd•  
@@ -936,9 +913,10 @@ Of castor beat* forty-six pounds.
 —of-dried peaches; thirty , three pounds.  
 Of dried apples, twenty-four pounds:  
 Of onions, fifty-seven pounds-  
-Of saltl&#x27;fifty pounds.
+Of saltl&#x27;fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001828%2F1851112601%2F0182.jp2/pct:6.601796,42.383960,13.463074,17.071827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001828%2F1851112601%2F0182.jp2/pct:6.601796,47.624119,12.804391,11.831669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +928,7 @@ Of saltl&#x27;fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+cuit Court.  
 Weights and Measures.—The follow-|  
 ing table of the number of pounds of vari- ■  
 ous articles to a bushel, may be of interest  
@@ -974,9 +952,9 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 ! Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-BAL
+BALT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851112601:0180/pct:65.534052,25.421166,14.492540,14.913607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851112601:0180/pct:65.534052,24.600432,14.492540,15.734341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +966,6 @@ BAL
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Weights A5d Measi-rei . We copy the following  
 table of lhe number of pound&#x27;s in a bushel of the van­  
 one articles- It may he of inU rest to some of our farm  
@@ -1013,7 +990,7 @@ Of Castor-beans, forty-six pounds. ,
 Of dried Peaches, thirty-thrce pounds  
 Of dried Apples, twenty-fonr pounds.  
 Of Onions, fifty-seven pounds.  
-Of Salt, fifty pounds
+Of Salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191629:1851112701:0236/pct:80.691721,45.573770,14.964597,11.433104/!600,600/0/default.jpg"/>
 </td>
@@ -1037,7 +1014,6 @@ Of Salt, fifty pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The fnlhiwiiaMfble of the nutulier of pound  
 or M v-irrmis rtrrti&quot;&quot; trt  
 bifsh&#x27;et may t5of  
@@ -1061,7 +1037,8 @@ Of blue grass seed, fourteen pounds.
 Of casuir bcfeis, loriy.si.t pounds.  
 Of dried peaches, thirty-three pounds,  
 Of dried ripples&#x27;, twenty lotif pounds.  
-Of onions, fifty -seven pounds.
+Of onions, fifty -seven pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_StarRal6n_ver01%2Fdata%2F1851120301%2F0644.jp2/pct:15.923695,42.187500,12.811245,12.083333/!600,600/0/default.jpg"/>
 </td>
@@ -1075,7 +1052,6 @@ Of onions, fifty -seven pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Measures.  
 The following table of the uumber of  
 pounds of various articles to the bushel,  
@@ -1095,7 +1071,7 @@ Of hemp seed, forty four pounds.
 Of buckwheat, fifty-two pounds.  
 Of blue grass seed, fourteen pounds,  
 Of castor beans, forty-six pounds.  
-I M
+I Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1851120301:0458/pct:54.251764,81.250000,12.402525,12.442922/!600,600/0/default.jpg"/>
 </td>
@@ -1109,7 +1085,7 @@ I M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+le Journal.  
   
 Weights and Measures.?The follow­  
 ing table of tlie number of pounds of va­  
@@ -1130,9 +1106,9 @@ Of hemp seed, forty-four pounds.
 Of buckwheat, fifty-two pounds.  
 Of blue grass seed, fourteen pounds.  
 Of castor beans, forty-six pounds.  
-Jf-sT Afte
+Jf-sT After
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1851120301:0018/pct:56.666667,39.218270,13.071553,12.531108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1851120301:0018/pct:56.666667,38.061777,13.071553,13.687601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1130,6 @@ Jf-sT Afte
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 dpertiser.  
 Wriohts and Meastres. The following  
 table of the number of pounds of various ar­  
@@ -1183,7 +1158,7 @@ Of mineral coal, seventy pounds.
 The GErMAn SettleMents in TeNas.  
 paper, published in Western Texas,  
 A  
-speaking of the G
+speaking of the Ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1851120601:0392/pct:79.024048,51.339223,12.620678,18.033936/!600,600/0/default.jpg"/>
 </td>
@@ -1197,7 +1172,7 @@ speaking of the G
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-w changed  
+changed  
 to a perfect while.&quot;  
 WEIGHTS AND MEASURES. &#x27;  
 . The following table of j the number of  
@@ -1223,7 +1198,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
 Ol salt,&#x27; fifty pounds.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WeekComW2n_ver01%2Fdata%2F1851121201%2F0181.jp2/pct:15.667718,75.830181,15.457413,16.225305/!600,600/0/default.jpg"/>
 </td>
@@ -1237,7 +1212,7 @@ Ol salt,&#x27; fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:sixty pounds.  
+sixty pounds.  
 -shelled con; fifty-six pounds:  
 on die cob seventy pounds.  
 ryc,- fifty-six pounds.  
@@ -1256,7 +1231,7 @@ Of - dded,peaches, thirty-three pounds.
 Of dried apPles, tiventy-foni  
 ..pounds.  
 • Of oiirinia. &#x27;fifty-Seven - Rounds.  
-Of silk - fifty-six ,pounds
+Of silk - fifty-six ,pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002366%2F1851121801%2F0178.jp2/pct:8.448439,61.126313,11.083254,10.412661/!600,600/0/default.jpg"/>
 </td>
@@ -1270,7 +1245,7 @@ Of silk - fifty-six ,pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+will do it.  
 Weights and Measures.  
 The following table of the number of lbs.  
 of various articles to a bushel, may be of  
@@ -1293,9 +1268,10 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds
+Of salt, fifty pounds.  
+The GROG ShoEs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851121801:0202/pct:65.286683,62.915601,12.694633,12.205172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851121801:0202/pct:65.286683,61.722080,12.694633,14.478545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1307,7 +1283,7 @@ Of salt, fifty pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 Weights and Measures.  
 The following table of the number of  
 pounds of various articles to a bushel, may  
@@ -1327,7 +1303,8 @@ Of bran, twenty pounds.
 Of hemp seed, forty-four pounds.  
 Of buckwheat, fifty-two pounds.  
 Of blue grass seed, fourteen pounds.  
-Of castor beans, forty-six pounds.
+Of castor beans, forty-six pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1851121901:0345/pct:49.021194,69.597244,14.593108,12.118332/!600,600/0/default.jpg"/>
 </td>
@@ -1341,7 +1318,7 @@ Of castor beans, forty-six pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s in this practice.  
+ in this practice.  
   
 . POUNDS IN A BUSHEL.  
 How many pounds in a Bushel t  
@@ -1362,9 +1339,11 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds. •  
+THE CHERRY SLUG.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1851122601:0419/pct:70.253718,78.009977,10.831146,12.565727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1851122601:0419/pct:70.253718,78.009977,10.831146,14.278010/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1376,7 +1355,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Measures.  
   
 The following table of the number of pounds  
@@ -1419,7 +1397,8 @@ Of salt, tifty pounds.
   
   
   
-Of mineral coal, seventy pounds.
+Of mineral coal, seventy pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_colmans-rural-world_1852-01_4_1%2Fsim_colmans-rural-world_1852-01_4_1_jp2.zip%2Fsim_colmans-rural-world_1852-01_4_1_jp2%2Fsim_colmans-rural-world_1852-01_4_1_0017.jp2/pct:6.608696,28.749293,37.347826,27.023203/,600/0/default.jpg"/>
 </td>
@@ -1453,7 +1432,6 @@ Of mineral coal, seventy pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Mkasi rks. The fol­  
 lowing table ol the number of pounds,  
 are of various articles to a bushel,  
@@ -1477,7 +1455,7 @@ Of castor beans, forty-six pounds.
 Of dried peaches, i33 pounds.  
 01 dried apples, twenty-lour pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds
+Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1852011401:0100/pct:78.686441,65.405523,14.844633,15.622962/!600,600/0/default.jpg"/>
 </td>
@@ -1491,7 +1469,7 @@ Of salt, fifty pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e j  
+j  
   
 interest to our readers;  
   
@@ -1528,7 +1506,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
   
-Of salt, fifty pounds.
+Of salt, fifty pounds. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7w6m334z0h%2Fxt7w6m334z0h_jp2.zip%2Fxt7w6m334z0h_jp2%2Fxt7w6m334z0h_0003.jp2/pct:20.832702,69.601677,63.769871,18.103342/600,/0/default.jpg"/>
 </td>
@@ -1542,7 +1520,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 WEIGHTS AND MEASUR ES.  
 The following table of pounds of va­  
 rious articles to a bushel, may be of in­  
@@ -1567,7 +1544,8 @@ Of dried peaches, thirty-three pound:.
 Of dried apples, twenty-five pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-Of mineral-coal, seventy pounds.
+Of mineral-coal, seventy pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022363:00200290148:1852012201:0464/pct:80.363423,57.579251,12.426729,14.394813/!600,600/0/default.jpg"/>
 </td>
@@ -1581,7 +1559,7 @@ Of mineral-coal, seventy pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- do it  
+do it  
 then ¥— Mail.  
   
 ;  
@@ -1619,7 +1597,8 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds,  
 Of onions, fifty-seven pounds.  
   
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_watchman-examiner_1852-01-22_33_4%2Fsim_watchman-examiner_1852-01-22_33_4_jp2.zip%2Fsim_watchman-examiner_1852-01-22_33_4_jp2%2Fsim_watchman-examiner_1852-01-22_33_4_0003.jp2/pct:43.237658,54.393305,11.450440,19.508368/,600/0/default.jpg"/>
 </td>
@@ -1633,7 +1612,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Pounds in a Bushel.  
 Hot many pounds in a burhel!  
 Of whent, sixty pounds,  
@@ -1650,7 +1628,8 @@ Of hemp seed forty four pounds.
 Of buckw heat, fisty two pounds.  
 Of blue grass seed, fourteen pounde,  
 Of castor beane, forty sis pounds.  
-Of dried peachas, thirty-three pounde.
+Of dried peachas, thirty-three pounde.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852012801:0441/pct:83.073747,87.492355,9.739163,9.816514/!600,600/0/default.jpg"/>
 </td>
@@ -1664,7 +1643,7 @@ Of dried peachas, thirty-three pounde.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-to the untutored  
+o the untutored  
 savage they conveyed a world of new ideas which  
   
 various articles to a bushel, may be of interest to  
@@ -1690,7 +1669,7 @@ Of onions, fifty-seven pounds.
 Of salt, fifty pounds.  
 Of mineral-coal, seventy pounds,  
   
-A L
+A Li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1852-02-05_20_6%2Fsim_maine-farmer_1852-02-05_20_6_jp2.zip%2Fsim_maine-farmer_1852-02-05_20_6_jp2%2Fsim_maine-farmer_1852-02-05_20_6_0000.jp2/pct:54.952331,68.792230,11.811441,15.888936/,600/0/default.jpg"/>
 </td>
@@ -1704,7 +1683,7 @@ A L
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;r  
+r  
 Weissan4 Measures. :  
   
 The following table of number of pounds of.  
@@ -1732,7 +1711,8 @@ Of castor beans, forty-six pounds.
 Of dried apples, twenty-four pounds. ;  
 Of dried peaches, thirty-three pounds.  
 Of onions, fifty-scven&quot;ounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal10n_ver01%2Fdata%2F1852020601%2F0008.jp2/pct:66.264706,19.814275,16.000000,15.397905/!600,600/0/default.jpg"/>
 </td>
@@ -1746,7 +1726,7 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- or in the West.  
+or in the West.  
 Weights and Measures. Rhe following  
 table of the number of pounds of various articles to  
 a bushel, may be of interest to our readers:  
@@ -1769,7 +1749,7 @@ Of onions, fifty-seven pounds-
 Of »alt,fiifty pounds.  
 Of mineral-coal, sevonnty pounds.  
   
-c ®a
+c ®ai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852021101:0104/pct:5.734426,5.863053,22.385216,88.958631/!600,600/0/default.jpg"/>
 </td>
@@ -1783,7 +1763,7 @@ c ®a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+Cultivator.  
 Weioets and Mkasi/uks.?The follow,  
 ing table of the number of pounds of vnrij  
 oil9 articles to a bushel, may lie of interest  
@@ -1810,9 +1790,9 @@ Of dried peaches, thirty-three pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty ]&gt;ounds.  
 Of mineral-coal, seventy pounds.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1852022601:0010/pct:16.414366,59.162923,13.921045,16.363206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1852022601:0010/pct:16.414366,57.874202,13.921045,17.651927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1804,6 @@ Of mineral-coal, seventy pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Measures.  
 The follbwing (able of the number of  
 pounds of various articles to a bushel  
@@ -1853,7 +1832,7 @@ Of mineral-coal, seventy pound
 Starting it* thr WorId.—-Many an  
 unwise parent labors hard and lives spar­  
 ingly all his life for the purpose of lea­  
-ving enough to giv
+ving enough to give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_calais_ver03:data:sn82014356:00332895655:1852030401:0419/pct:7.761570,6.245829,24.905457,92.005872/!600,600/0/default.jpg"/>
 </td>
@@ -1867,7 +1846,7 @@ ving enough to giv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and white lead.  
+and white lead.  
 Weights anal  
 The following table of the number of pounds  
 of various articles to the bushel, may be of in  
@@ -1887,6 +1866,7 @@ Of hemp teed, forty-four pouodt.
 Of buckwheat fifty-two pounds.  
 Of blue grass teed, fourteen pounds.  
 Of castor beans, foKf.tix pounds.  
+  
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
@@ -1912,7 +1892,6 @@ Of castor beans, foKf.tix pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Measures.  
   
 The following table of the number of  
@@ -1941,7 +1920,7 @@ Of Onions, filty-seven pounds.
 Of salt, seventy five pounds.  
 Of mineral-coal, seventy pounds.  
   
-SAMUE
+SAMUEL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1852032501:0404/pct:19.779045,9.090909,18.139701,16.994949/!600,600/0/default.jpg"/>
 </td>
@@ -1955,7 +1934,6 @@ SAMUE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--  
 charged, to the place  
 hence it marched  
 WEiGHTS AND MEASUrEs.  
@@ -1979,7 +1957,7 @@ Of dried apples, twenty-five pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
 Of mineral coal, seventy pounds, am  
-wated pa sil
+wated pa sili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn87091069:00280779714:1852040101:0109/pct:82.166637,67.282810,14.216304,14.574150/!600,600/0/default.jpg"/>
 </td>
@@ -1993,8 +1971,6 @@ wated pa sil
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Of Wheat, sixty pounds.  
 Of Corn, fifty-six pounds.  
 *Of Corn in ear, seventy pounds.  
@@ -2017,7 +1993,7 @@ Of Dri ied Peaches, thirty-three pounds.
 Of ried Apples, twenty-four pounds.  
 Of Onions, litty. -seven pounds.  
 Of Salt, fifty pounds.  
-Of C
+Of Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_colmans-rural-world_1852-04_4_4%2Fsim_colmans-rural-world_1852-04_4_4_jp2.zip%2Fsim_colmans-rural-world_1852-04_4_4_jp2%2Fsim_colmans-rural-world_1852-04_4_4_0002.jp2/pct:53.622560,12.903226,31.062907,27.758913/,600/0/default.jpg"/>
 </td>
@@ -2031,7 +2007,6 @@ Of C
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The following is the number of pounds in a  
 bushel of the various articles:  
 Of wheat, sixty pounds.  
@@ -2053,7 +2028,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-Short
+Short 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1852061801:0524/pct:18.295475,75.349626,12.238070,11.399915/!600,600/0/default.jpg"/>
 </td>
@@ -2077,7 +2052,6 @@ Short
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WEianT and Measures. The follow­  
 ing table of the number of pounds of va­  
 rious articles to a bushel may be of in­  
@@ -2097,7 +2071,7 @@ Of hemp seeds fi rty-four ponnda.
 Of buckwheat, forty-two pounda.  
 1 Of blue-grass soed, fourteen pounds.  
 Of castor beans, forty .six ponnds.  
-; 
+; A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1852092401:0013/pct:64.574377,55.782110,13.585555,12.516744/!600,600/0/default.jpg"/>
 </td>
@@ -2111,7 +2085,6 @@ Of castor beans, forty .six ponnds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 How many Pounds in a Bushel.  
 Of wheat, sixty pounds.  
 Of shelled corn, fifty-six pounds.  
@@ -2131,7 +2104,7 @@ Of dried peaches, thirty-three pounds,
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-EEFECTS
+EEFECTS 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1853041201:0305/pct:16.219819,14.400092,13.316546,13.473636/!600,600/0/default.jpg"/>
 </td>
@@ -2145,7 +2118,6 @@ EEFECTS
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and Measures.—The fol-j  
 lowing table of the number of pounds j  
 of vaiious articles to a bu-hel may be of  
@@ -2170,7 +2142,7 @@ Of castor beaus forty-fix pounds.
 Of dried peaches thirty-three pounds.  
 Of dried apples twenty-four pounds.  
 Of onions fifty-seven pounds.  
-Of salt fifty pound
+Of salt fifty pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:sn84038367:00514151155:1853060401:0285/pct:55.977230,43.780912,12.547438,14.068511/!600,600/0/default.jpg"/>
 </td>
@@ -2184,7 +2156,7 @@ Of salt fifty pound
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. ann Measures.+The ſollow-  
+ann Measures.+The ſollow-  
 ing table of the number of pounds to the  
 bushel, may be ol ‘interest to farmers and  
 deulerss  
@@ -2219,7 +2191,8 @@ Of blue grass &#x27;séed, fourteen pounds.
   
 Of castor beans, forty-six pounds.  
   
-Of onions, fifty-seven pounds.
+Of onions, fifty-seven pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_presbyterian_the-presbyterian_1853-06-25_23_26%2Fsim_presbyterian_the-presbyterian_1853-06-25_23_26_jp2.zip%2Fsim_presbyterian_the-presbyterian_1853-06-25_23_26_jp2%2Fsim_presbyterian_the-presbyterian_1853-06-25_23_26_0003.jp2/pct:50.251593,48.428370,10.748071,9.585936/,600/0/default.jpg"/>
 </td>
@@ -2233,7 +2206,7 @@ Of onions, fifty-seven pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i protuiceanu lht  
+ protuiceanu lht  
 rates by which they should be bought and  
 sold.  
 A bushel tf wheat, sixty pounds. - .&#x27;  
@@ -2255,7 +2228,7 @@ Of caster beans, forty-six pounds. &quot;
 Of dried peaches, thirty-three pounds,  
 0 f dried apples twenty-four pounds.  
 ui onions, htty-seven pounds.  
-Of salt, fifty pounds
+Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85025647:00296026670:1853092101:0640/pct:81.870504,61.375167,12.248201,11.842457/!600,600/0/default.jpg"/>
 </td>
@@ -2269,7 +2242,7 @@ Of salt, fifty pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-“ Tbe following are tbe established  
+Tbe following are tbe established  
 weights of various articles of produce and the  
 rates by which they should be bought and  
 sold :  
@@ -2292,7 +2265,8 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty -seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853092101:0528/pct:59.532794,28.324817,13.117700,13.119735/!600,600/0/default.jpg"/>
 </td>
@@ -2306,8 +2280,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
-  
 Standard Weight.  
 The following ere the established  
 weights of various articles of produce and  
@@ -2334,7 +2306,7 @@ Ol dried apples, twenty-four pounds
 Of dried peaches, thirty three.  
 Of onions, filtv-seven pounds.  
 Of salt, fifty pounds.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1853092201:0123/pct:45.248538,36.181036,12.097953,13.864615/!600,600/0/default.jpg"/>
 </td>
@@ -2348,8 +2320,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 Standard Weights.  
   
 The .following, are the established  
@@ -2374,7 +2344,8 @@ Of castor beans, forty-six pounds. .
 Of dried apples, twenty-four pounds.  
 O f dried peaches, thirty -th ree pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853092901:0164/pct:19.794833,8.863281,12.234043,14.084507/!600,600/0/default.jpg"/>
 </td>
@@ -2388,7 +2359,7 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eur her speak.  
+ur her speak.  
 [JV. O. Delta.  
 Weights a.vi&gt; Mkastres.?The following  
 table of the number of pounds to the bushel  
@@ -2411,7 +2382,7 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
-False Imprisonment
+False Imprisonment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853101401:0081/pct:69.468361,79.780052,13.174798,13.294861/!600,600/0/default.jpg"/>
 </td>
@@ -2425,8 +2396,6 @@ False Imprisonment
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 ftirThe following are established weights  
 of varioua articles of produce and the rates  
 by which they ahould be bought and told:  
@@ -2449,7 +2418,8 @@ Of caator beana, forty-aix pounds.
 Of dried pesches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pound.  
-Of salt, fifty pound.
+Of salt, fifty pound.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853110401:0192/pct:56.290672,58.673396,12.563268,12.819034/!600,600/0/default.jpg"/>
 </td>
@@ -2463,7 +2433,7 @@ Of salt, fifty pound.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ishery there.  
+shery there.  
 ty We publish the following estab­  
 lished weights of various articles of pro­  
 duce, and the rates by which they should  
@@ -2488,7 +2458,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-I
+I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035172:00296027273:1853113001:0121/pct:58.200131,39.886954,12.393256,15.643141/!600,600/0/default.jpg"/>
 </td>
@@ -2502,7 +2472,7 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sent them, but the deril brought them.&quot;  
+sent them, but the deril brought them.&quot;  
 The following are established weights of va  
 rious articles of produce and the rates by  
 thich they should be bought and sold.  
@@ -2526,7 +2496,7 @@ Of dried peaches, thirty three pounds.
 Of dried apples, twenty four pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-Nor AN ULT
+Nor AN ULTR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1853120101:1130/pct:65.740741,25.608766,14.134543,18.344156/!600,600/0/default.jpg"/>
 </td>
@@ -2540,7 +2510,7 @@ Nor AN ULT
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- up here in the  
+up here in the  
 shade and 1 will dig them.&#x27;,  
 Wr.iGirrs and Mkasirks. -The following table of  
 the number ol pounds to the bushel may be of inter­  
@@ -2564,7 +2534,7 @@ M Of dried poaches, thirty-three pounds..
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
   
-Bt 
+Bt 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm3n_ver01%2Fdata%2F1853121601%2F0118.jp2/pct:27.588384,62.724327,24.137205,31.094217/!600,600/0/default.jpg"/>
 </td>
@@ -2588,7 +2558,6 @@ Bt
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Of nhelled corn, fifty-sis pounds.  
 Of rye. fifty-six pounds.  
 Of oats, thirty-five pounds.  
@@ -2605,7 +2574,7 @@ Of castor beans, forty-six pounds..
 Of dried peaches, thirty-three pound  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
-Candid Advertisement
+Candid Advertisement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853122301:0671/pct:52.391649,72.649740,10.795455,8.361925/!600,600/0/default.jpg"/>
 </td>
@@ -2619,22 +2588,6 @@ Candid Advertisement
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- -  
-  
-apprehend is the difficulty with the loafer.- He  
-wcu d be peifectly i ling, no doubt, to hold bis  
-hat, if Providence would shower goli&quot; into il;or  
-if it would rain roast beef, he would have a plat­  
-ter ready lo &#x27; catch i&#x27;.&quot; But 10 work hard  
-there&#x27;s the rub. Let fortune come to him in  
-any oiher way than tha1.  
-But, young mop, work it must be work!  
-work! work! It was designed from be begin- . .  
-ning, that mnn should earn his bread not hy,,  
-lofier, but by the sweat of h&#x27;s brow. These  
-drops the industrious man coins into the gold  
-mint, drops that fill his coffers. &#x27;  
-Weights of Produce.  
 A bushel of wheat, sixty pounds. . - &#x27;  
 Of shelled corn, fifty-six pounds. . .. &#x27;-.  
 Of corn oa the cob, seventy pounds. - 1 : &#x27;  
@@ -2655,9 +2608,9 @@ Of castor beans, forty-six pounds.
 tf dried peaches.-thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds. -: . .&#x27;  
-Of salt, fifiy pounds. -
+Of salt, fifiy pounds. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1854010401:0420/pct:83.317308,66.671093,13.701923,20.568318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1854010401:0420/pct:83.878205,76.138627,12.596154,11.100783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2669,7 +2622,7 @@ Of salt, fifiy pounds. -
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- shells alone. .  
+shells alone. .  
   
 E®“We publish tho following Established  
 weights of various articles of produce, and the  
@@ -2694,6 +2647,7 @@ Of castor beans, forty-six pounds..
 Of dried apples, twenty-four pounds. ■ 1  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diInferi_ver01%2Fdata%2Fsn84026248%2F000002245%2F1854010501%2F0006.jp2/pct:66.263873,79.069968,9.488172,8.984375/!600,600/0/default.jpg"/>
@@ -2708,11 +2662,11 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;W re-publish the following establish­  
+W re-publish the following establish­  
 ed weights of various articles of produce, and  
 ihe rates by which they sho&#x27;d be bonght and  
 .ld.  
-A bath, of NVbea
+A bath, of NVbeat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854010701:0212/pct:44.985465,85.596356,12.699855,3.045830/!600,600/0/default.jpg"/>
 </td>
@@ -2764,8 +2718,6 @@ ConvicTIor Ard Sentencr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The following arc the established  
 weights of various articles of produce and  
 the rates by which they should be Youghfc  
@@ -2788,7 +2740,8 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1854022301:0085/pct:81.698599,68.375000,12.625107,12.397727/!600,600/0/default.jpg"/>
 </td>
@@ -2812,8 +2765,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 How Mstii? founds in a Bushel?  
 Of wheat, sixty p’oiinds.  
 Of shelled corn, fifty-six! pounds.  
@@ -2832,7 +2783,8 @@ Of castor beans, fort)-six pounds.
 Of dried peaches, twenty-two pounds.  
 Of dried apples, twenty-two pounds.  
 Of onions, fifty-seven pounds.  
-Qf salt, fifty-six pounds.
+Qf salt, fifty-six pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159336:1854032701:0153/pct:41.447068,11.493608,12.734196,10.641399/!600,600/0/default.jpg"/>
 </td>
@@ -2846,7 +2798,7 @@ Qf salt, fifty-six pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n the city.  
+the city.  
 jtiTWe give below the weight of various  
 articles of farm products, at which they  
 are all bought and sold:  
@@ -2868,7 +2820,7 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 , Of onions, fifty -seven pounds.  
-Of salt, fifty pounds
+Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854051101:0359/pct:8.514366,70.048755,12.351086,12.781658/!600,600/0/default.jpg"/>
 </td>
@@ -2892,49 +2844,25 @@ Of salt, fifty pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ee well beat  
-$$Bs, hall a grated nutmeg or a spoonful  
-of ginger, and raisins it  
-  
-.  
-  
-ay be  
-  
-ou wish Fill  
-  
-the bag but two thirds full, so as to leave  
-room to swell, and boil it steadily the­  
-longer the better. Eat it with boide  
-ruce, made as directer  
-dings.  
-  
-  
-  
-for baked pud  
-  
-irnips, of any sort­  
-vs, must always ha  
-off,  
-en  
-  
-they impart a  
-ik and butte  
-other  
-  
 The Weight of a  
   
 We give below the weight of various  
 articles of farm products, at which they  
 are all bought and sold:  
-  
-  
-  
-pressing it to prevent them from fallin o e o  
-  
-a te o o te a aoin e  
-  
-water, prevents evaporation, retaining it  
-  
+
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1854060301:0119/pct:23.596491,6.194789,12.529240,2.158112/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _The Cedar County advertiser._](https://www.loc.gov/resource/sn85049614/1854-06-03/ed-1/?sp=4)
+
+#### 1854-06-03 &middot; [Tipton, Iowa](http://dbpedia.org/resource/Tipton%2C_Iowa)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
 A bushel of wheat, sixty pounds.  
 Of shelled corn, fifty-six pounds.  
 Of corn in the cob, seventy pounds.  
@@ -2953,9 +2881,10 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1854060301:0119/pct:8.445419,6.194789,27.680312,81.177084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1854060301:0119/pct:24.210526,8.557904,11.754386,10.417831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2967,21 +2896,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fee mills.  
-  
-Coolness.—Some years ago a fellow in Lon­  
-don advertised that on a certain night, at one of  
-the principal theatres he would, in the presence of  
-the audience, get into a quart bottle.  
-On the appointed evening the theatre was  
-crowded. After some delay the curtain rose—a  
-man stepped to the foot-lights and gravely in­  
-formed the expecting multitude that he had been  
-to every tavern in London, but was unable to pro­  
-cure a quart bottle large enough, and consequent­  
-ly could not perform tho promised feat.—St.  
-Louis Intel.  
-  
 The Weight of a Bushel.—We give below the  
 weight of various articles of farm products, at  
 which they are bought and sold :  
@@ -3003,9 +2917,10 @@ Of castor beans, forty-six pounds.
 Of dried peachos, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854060601:0017/pct:30.411473,56.554346,12.344190,15.481816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854060601:0017/pct:30.411473,62.708034,12.330787,9.328128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3017,7 +2932,7 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- bring them into calm sr.bi-c-  
+bring them into calm sr.bi-c-  
 We give below, tho weights of vnri  
 ous artich-s of Ijiiu products, at which  
 1 they are bought and sold  
@@ -3041,7 +2956,7 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty-three lbs.  
 Of dried apples, twenty -four lbs.  
 Of onions, fifty-seven lbs.  
-Of salt, fift
+Of salt, fifty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056241:00200295638:1854062201:0297/pct:68.840231,43.041189,12.487969,19.428249/!600,600/0/default.jpg"/>
 </td>
@@ -3055,7 +2970,6 @@ Of salt, fift
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 ol&#x27; varl0US arl,cles of produce and the  
 ! rates by which they should be bought  
 and sold.  
@@ -3078,7 +2992,8 @@ Of Castor beans, forty six pounds.
 Ot dried pe.iches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 01 otiisn-i, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1854062901:0295/pct:56.644144,53.225367,12.481231,12.928688/!600,600/0/default.jpg"/>
 </td>
@@ -3092,7 +3007,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The following table of the number o!  
 I jiounds cf various articles to a bushel, rtny  
 ho of interest to some of our farming frien d :  
@@ -3114,7 +3028,8 @@ Of castor beans, forty-six pounds.
 Of dried peaches, thirty three pounds.  
 Of dried apples, twenty-four pounds,  
 i Of i &#x27; :is, fifty-seven pounds.  
-1 Of »alt, sixty pounds.
+1 Of »alt, sixty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349013:1854092701:0153/pct:54.287245,46.775746,13.129689,14.698199/!600,600/0/default.jpg"/>
 </td>
@@ -3128,7 +3043,7 @@ i Of i &#x27; :is, fifty-seven pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--.  
+.  
   
 (ttrWe re-publish the following estate  
 lished weights of various articles of prodiicl  
@@ -3154,7 +3069,7 @@ Of dried apples, twenty-four poOndS&quot;.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds. . .  
 From tbe London Time.  
-Ireland Agriculture and
+Ireland Agriculture and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1854110101:0300/pct:83.393372,29.371549,13.076369,15.947936/!600,600/0/default.jpg"/>
 </td>
@@ -3168,7 +3083,7 @@ Ireland Agriculture and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-nd willgbe materially sincreaied.-Woraing  
+d willgbe materially sincreaied.-Woraing  
  We publish the following established  
 weights of various articles of produce and the  
 rates by which they should be bought and  
@@ -3200,7 +3115,7 @@ must be a lovely valley, in his correspondence
 to the Portsmouth, N. H. Journal. A few  
 miles from the Indian village of Rice Lake, O.  
 W., he says;  
-&quot;We reached the &quot;Lan
+&quot;We reached the &quot;Land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1854110201:0178/pct:19.814534,25.144859,14.666919,21.816467/!600,600/0/default.jpg"/>
 </td>
@@ -3214,7 +3129,7 @@ W., he says;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- The . following, are ., established  
+The . following, are ., established  
   
 weights of various articles of produoe and  
   
@@ -3242,6 +3157,7 @@ Of castor beans, forty-six. pounds,
 i Of dried apples, twenty-four pounds.&quot;  
 . Of onions, fifty -seven pounds.&#x27;. --rOsf  
 alt. fifty pounds, ;j T i ?  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854112901:0513/pct:69.524100,81.896239,12.370348,13.375257/!600,600/0/default.jpg"/>
@@ -3256,7 +3172,7 @@ alt. fifty pounds, ;j T i ?
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:iqhts anp Me^sij^s. ? The. follow­  
+iqhts anp Me^sij^s. ? The. follow­  
 ing table (if the number of pounds of vari­  
 ous articles to a bushel, may be of interest  
 to our readers :  
@@ -3278,7 +3194,8 @@ jOf castor beans, forty-six pounds.
 I Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds,  
 i Of onions, fifty-seven pounds,  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1855021001:0462/pct:29.034521,3.244183,22.242492,15.429178/!600,600/0/default.jpg"/>
 </td>
@@ -3292,7 +3209,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 We again publish the following estab  
 lished weights of various articles of pro­  
 T bashed of wheat strty peuada.  
@@ -3316,7 +3232,7 @@ Ofonions, filty seven pounds.
 Of salt, fifty pounds.  
 From the New Lisbon (O. Pniriot.  
 Remedy for the Scarlet Fover  
-One handful o
+One handful of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026670:1855032801:0964/pct:4.356508,69.074099,13.015066,15.677342/!600,600/0/default.jpg"/>
 </td>
@@ -3340,24 +3256,7 @@ One handful o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- In North  
-Carolina it is frequent among her forests of  
-fat pine, for a lover in distress to send the  
-  sase Ms aso to al I  
-air object of his ancetionea it ot te stapis  
-vegetable production, with an eye painted  
-upon it. It signifies &quot;I pine.&quot; If favorable  
-to him, the lady selects from the wood pile  
-e e oeae e e e  
-the best and smoothest specimen of a knot  
-this signifies &quot;I pine not.&quot; But on the other  
-i a a as afe ae to e wi  
-grounds, between detestation and adoration  
-hand, if she detests him Chere is no midle  
-with young women,) she burns one end of  
-his message; and this generally throws the  
-young man into despair, for it means &quot;I  
-make light of pining.  
+of pining.  
 1 We publish the following established  
 weights of various articles of produce:  
 A bushels of wheat sixty pounds.  
@@ -3388,9 +3287,9 @@ Third and Main streets, one of the nag-stones
 nes gave way, and the safe was precipitated  
 a     e o  
 into the vault. One of the workmen, named  
-Jacob Hucks, was crushed under the safe an
+Jacob Hucks, was crushed under the safe and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021866:1855050401:0577/pct:51.626355,65.031827,14.400890,27.454868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021866:1855050401:0577/pct:51.737559,72.649483,14.164582,19.837212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3402,7 +3301,7 @@ Jacob Hucks, was crushed under the safe an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Road will be completed in  
+Road will be completed in  
 reasonable lime.  
   
 The Various Weights of Produce.  
@@ -3427,21 +3326,12 @@ Of castor beao. forly-iix pounds,
 Of dried p aches, thirty-three pounds  
 Of dried apples, twenty-four pounds  
 T)f onions, nfty-aeven pounds.  
-Of sM, 10 J poinds.
+Of sM, 10 J poinds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855050401:0086/pct:22.738288,82.009346,13.812601,13.720145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
-
----
-
-## STATIONS OF THE BRITISH ARMY
-
-#### From _Liverpool Mercury_
-
-#### 1855-08-03 &middot; [Liverpool, England](http://dbpedia.org/resource/Liverpool)
-
-[This text is not available under an open license.]
 
 ---
 
@@ -3451,7 +3341,6 @@ Of sM, 10 J poinds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Weights and Measures.—The following  
 table of the number of pounds of various articles  
 to a bushel, may be of interest to our readers :  
@@ -3476,7 +3365,7 @@ Ot dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty seven pounds.  
 Of salt fifty pounds.  
-Re
+Res
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855103101:0331/pct:31.425529,78.729745,12.524957,11.231142/!600,600/0/default.jpg"/>
 </td>
@@ -3490,7 +3379,6 @@ Re
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 WeigktiuMeaure.  
 . ■ — f tv  
 The following table of the number of  
@@ -3517,7 +3405,7 @@ Of dried poaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds !  
 Of sfilt, fifty pounds.  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855112801:0141/pct:18.746643,48.781131,12.748433,15.522467/!600,600/0/default.jpg"/>
 </td>
@@ -3531,7 +3419,7 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s and Mbai-ures. The following  
+and Mbai-ures. The following  
 i table of the number of pounds to the bushel, may  
 j be of interest to farmers and dealers: Of wheat, 60  
 I pounds; of shelled corn, 56 pounds; of corn ia the  
@@ -3543,7 +3431,7 @@ five pounds: of flax-seed, fifty-eight pounds; of
 I hemp seed, 44 pounds; of blue grass seed, 14  
 pounds; of castor beans, 46 pounds; of dried peach­  
 i es, 33 pounds; of dried apples, 24 pounds; of-oaions,  
-j 57 pounds
+j 57 pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1855122301:0006/pct:82.286917,39.086929,12.434234,5.253283/!600,600/0/default.jpg"/>
 </td>
@@ -3557,7 +3445,7 @@ j 57 pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the Territorial Statutes for the  
+of the Territorial Statutes for the  
   
 regulation of such matters, we learn that it  
   
@@ -3583,7 +3471,8 @@ Of blue grass seed, four-two pounds.
 Of castor beans, forty-six pounds.  
 Of dried peaches, twenty-eight pounds.  
 Of dried apples, twenty-eight pouude.  
-Of onions, fifty-seven pounds.
+Of onions, fifty-seven pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1856010501:0004/pct:37.815126,65.789474,13.902403,14.010228/!600,600/0/default.jpg"/>
 </td>
@@ -3597,7 +3486,7 @@ Of onions, fifty-seven pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-bor? am I whialin or  
+or? am I whialin or  
 singtn&#x27;.&quot;  
 iy The following table of the number of  
 pounds to the bashel, may be of interest to  
@@ -3611,7 +3500,7 @@ pounds; of flax-seed, 58 pounds: of hemp seed,
 44 pounds; of blue grass seed, 15 pounds, of  
 castor beans, 46 pounds: of dried peaches, 38  
 pouads; of diied apples. 34 pounds; of onions,  
-57 pound
+57 pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1856020901:0625/pct:82.182277,85.191279,16.146326,7.640889/!600,600/0/default.jpg"/>
 </td>
@@ -3625,7 +3514,7 @@ pouads; of diied apples. 34 pounds; of onions,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- work entitled “ Rational Godliness.”  
+work entitled “ Rational Godliness.”  
 I  
 The following table of the number of pounds to the  
 bushel may be of interest to farmers and dealers: Of  
@@ -3636,7 +3525,8 @@ of barley, 48 pounds; of potatoes, 60 pounds; of beans,
 of timothy seed, 45 pounds; of flax seed, 58 pounds; of  
 hemp seed, 44 pounds ; of blue grassseed, 15 pounds ; of  
 castor beans, 46 pounds ; of dried peaches, 38 pounds ; of  
-dried apples, 2 pounds ; of onious, 57 pounds.
+dried apples, 2 pounds ; of onious, 57 pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_doubleday_ver01:data:sn83026172:00211678240:1856021801:0048/pct:15.721232,79.785167,13.673199,5.119415/!600,600/0/default.jpg"/>
 </td>
@@ -3650,7 +3540,7 @@ dried apples, 2 pounds ; of onious, 57 pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;he foil &#x27;ving table of the number of pounds  
+he foil &#x27;ving table of the number of pounds  
 (.0 tl&#x27;*&quot; &#x27;&gt; • &#x27; ’ ■ t‘ interest to fanners and  
 dealer ;  \vu. ..^ ;; j.onn-l.-.. (if shelleil corn,  
 50 puuuds; of corn in tlie cob, 70 pounds; of rye;  
@@ -3661,7 +3551,8 @@ pounds; of timothy seed, 45 pounds; -d&#x27; fiax-seed,
 5j pounds; of hemp seed, 41 pounds; of blue-  
 grass seed, 15 pound&gt;; of castor beans, 40 pounu:^;  
 of dried peaches, 38 pounds; of dried apples, 24  
-pounds; of onions, 57 pounds.
+pounds; of onions, 57 pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FyOsw5_ver01%2Fdata%2FFyOsw_1856-02-25_1%2F0003.jp2/pct:63.200000,30.401035,14.508475,6.716257/!600,600/0/default.jpg"/>
 </td>
@@ -3675,7 +3566,6 @@ pounds; of onions, 57 pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Pounds to a Bushel.-TIio follow ing table  
 of the number of pounds to thu bushel may  
 be of interest to farmers and dealers: Of  
@@ -3686,7 +3576,7 @@ pounds; of potatoes, 60 pounds; of beans, 60
 pounds; of bran, 20 pounds; of clover Seed, 68  
 pounds; of hemp sued, 44 pounds; of blue  
 l-rass seed, 15 pounds; of castor beans, 46  
-pounds;
+pounds; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1856030701:0506/pct:82.244212,63.360434,12.434653,5.271003/!600,600/0/default.jpg"/>
 </td>
@@ -3700,8 +3590,8 @@ pounds;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of dried peaches, 38 pounds; of dried  
-apples, 24 pounds; of onions, 57 pounds
+of dried peaches, 38 pounds; of dried  
+apples, 24 pounds; of onions, 57 pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1856030701:0506/pct:82.206871,68.157182,12.397311,0.962060/!600,600/0/default.jpg"/>
 </td>
@@ -3715,7 +3605,7 @@ apples, 24 pounds; of onions, 57 pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- good for a long  
+good for a long  
 time.  
 Weights of Mensure  
 The following table of the number of  
@@ -3741,7 +3631,7 @@ Of dried apples, twenty-four pounds.
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
 This subject has latterly claimed the  
-attention of the Ag
+attention of the Agr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1856073101:0295/pct:5.297710,72.926045,13.190840,16.167203/!600,600/0/default.jpg"/>
 </td>
@@ -3755,7 +3645,6 @@ attention of the Ag
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 As of wavions ovticles to a bushel  
 pounds of various articles to a bushel, may  
 be of interest to our readers:  
@@ -3778,7 +3667,8 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
  on a eten pound.  
 Of salt, fifty pounds.  
-   t
+   t  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1856081401:0303/pct:3.857251,83.947743,12.877752,11.408615/!600,600/0/default.jpg"/>
 </td>
@@ -3792,7 +3682,7 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Weights and  
+Weights and  
 Measures has already appeared once or twice  
 in our columns, but it has been discovered  
 not to be correct according to the Indiana  
@@ -3814,7 +3704,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-five pounds.  
 Of onions, forty-eight pounds.  
 if salt, fifty pounds.  
-O
+Of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1856091101:0320/pct:3.076217,41.813208,12.855831,12.348574/!600,600/0/default.jpg"/>
 </td>
@@ -3828,7 +3718,6 @@ O
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Weights and bleastwes.  
   
 The following table of the number of  
@@ -3856,7 +3745,8 @@ of Caster Benno, forty-six pounds.
 01 &#x27; , Dried Peaeltes, thin y-three pounds  
 Of Mil: cl Apples, twenty- fonr pound,  
 (II Onions, fifty-seven p wind  
-It i t, fifty pound:,
+It i t, fifty pound:,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002322%2F1856091701%2F0149.jp2/pct:56.702279,81.642594,12.386040,14.103653/!600,600/0/default.jpg"/>
 </td>
@@ -3870,7 +3760,6 @@ It i t, fifty pound:,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 good titles.  
   
 Things worth Remembering.  
@@ -3916,7 +3805,7 @@ Of dried peaches, thirty-.hree pounds.
 Of dried apples, twenty-four pounds#  
 I Oi onions, fifty-seven pound?.  
   
-Of
+Of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027237:0027952942A:1856110701:0030/pct:69.383135,78.760872,25.877193,14.968324/!600,600/0/default.jpg"/>
 </td>
@@ -3930,7 +3819,6 @@ Of
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 .  
 eo  
 The following tuble of the number of pound to  
@@ -3945,7 +3833,7 @@ of hemp seed, 41 pounds; of blue grass seed, 15
 pounds; of castor beans, 46 pounds; of dried  
   
 peaches. 38 pounds; of dried apples, 24 pounds;  
-of enions, 57 pounds
+of enions, 57 pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1856111001:0339/pct:22.111324,3.783231,30.004798,92.422583/!600,600/0/default.jpg"/>
 </td>
@@ -3959,8 +3847,6 @@ of enions, 57 pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 WEIGHTS OF MEASURES.—The following table of the  
 number of pounds of various articles to a bushel may  
 be of intereSt to our readers :—  
@@ -4004,7 +3890,7 @@ Of onions, fifty-seven pounds.
 Of salt, fifty pounds.  
   
 “TI THINK your patterns and fashion plates are supe-  
-rior to any I have eve
+rior to any I have ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_godeys-magazine_1856-12_53_6%2Fsim_godeys-magazine_1856-12_53_6_jp2.zip%2Fsim_godeys-magazine_1856-12_53_6_jp2%2Fsim_godeys-magazine_1856-12_53_6_0083.jp2/pct:55.133229,10.858325,35.540752,28.024819/,600/0/default.jpg"/>
 </td>
@@ -4028,7 +3914,7 @@ rior to any I have eve
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—Ot wheat  
+How many pounds to a bushel.—Ot wheat  
 sixty pounds.  
 Of shelled corn, fifty pounds. ;  
 Of corn on the cob, seventy pounds.  
@@ -4044,9 +3930,11 @@ Of buck wheat, fifty-two pounds. -
 Of blue grass seed, fourteeri pounds.  
 Of castor beans, forty-six pounds.  
 Of onions, fifty-seven pounds. g  
-Of salt, firty-six pounds.
+Of salt, firty-six pounds.  
+  
+Quite a mistake late
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:00517015441:1858022001:0029/pct:5.247813,54.605531,14.424545,11.417243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:00517015441:1858022001:0029/pct:5.247813,54.605531,14.424545,12.850752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4068,7 +3956,7 @@ Of salt, firty-six pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
+How Mant Pocsds to a Bcshel  
 Of wheat sixty pouuds.  
 Of shelled corn fifty pound.  
 Of corn on the cob seventy pounds.  
@@ -4084,9 +3972,10 @@ Of bt&#x27;.ckwheat fifty-two pounds.
 Of blue grass seed fourteen pounds.  
 Of castor beans forty-six pounds.  
 Of onions fifty-seven pounds.  
-Of salt fifty-six pounds.
+Of salt fifty-six pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1858031901:0468/pct:28.776713,6.572834,11.256448,10.795299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1858031901:0468/pct:28.776713,5.889587,11.735446,11.478546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4098,7 +3987,8 @@ Of salt fifty-six pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Of  
+Jour.  
+How MaNY Pounds to a BusHel. Of  
 wheat sixty pounds.  
 Of shelled corn fifty pounds.  
 Of corn on the cob seventy pounds.  
@@ -4114,9 +4004,10 @@ Of buckwheat fifty-two pounds.
 Of blue grass seed fourteen pounds.  
 Of castor beans forty-six pounds.  
 Of onions fifty-seven pounds.  
-Of salt fifty-six pounds
+Of salt fifty-six pounds.  
+FALL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858040301:0282/pct:16.954880,42.343316,12.581992,8.011732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858040301:0282/pct:16.954880,41.293609,12.581992,10.327262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4128,7 +4019,7 @@ Of salt fifty-six pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Pound to a Bushel ?  
+How Iff any Pound to a Bushel ?  
 Of wheat sixty pounds.  
 Of shelled corn fifty pounds.  
 Of corn on the cob seventy pounds.  
@@ -4144,7 +4035,8 @@ Of buckwheat fifty two ponnds.
 Of blue gras3 seed fourteen pounds.  
 Of castor beans forty-six pounds.  
 Of onions fifty-seven pounds.  
-Of salt fifty-six pounds.
+Of salt fifty-six pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RalCA39n_ver01%2Fdata%2F1858041501%2F0192.jp2/pct:80.406574,84.125118,10.841984,9.924741/!600,600/0/default.jpg"/>
 </td>
@@ -4158,7 +4050,6 @@ Of salt fifty-six pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 ItOW MANY POUNDS TO A BUSH­  
 EL?  
 Of wheat sixty pounds..  
@@ -4180,9 +4071,10 @@ Of buckwheat fitty-two pounds.
 OB iViSbiifeTlfcy-seven pouuds.  
 Of salt fifty-six&#x27;pounds.  
   
-T
+TO MAKE GOOD VINEGAR  
+L ‘The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1858042301%2F0024.jp2/pct:74.673077,54.560979,15.826923,12.395048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CsEL3_ver01%2Fdata%2F1858042301%2F0024.jp2/pct:74.673077,54.560979,15.826923,13.078127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4204,7 +4096,7 @@ T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e itielf.  
+itielf.  
   
 Weights and Measures.  
 The following table of the number of pounds  
@@ -4233,7 +4125,7 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
 Of salt, fifty pounds.  
-Mormon L
+Mormon Lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014067:00211105689:1859041401:0036/pct:38.459781,12.692445,56.398537,85.356248/!600,600/0/default.jpg"/>
 </td>
@@ -4247,7 +4139,8 @@ Mormon L
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the Code of Iowa the fol­  
+sed upon, in their sales and purchases,  
+we copy from the Code of Iowa the fol­  
 lowing list of articles, a bushel of which  
 means the amount of weights herein spe­  
 cified  
@@ -4273,9 +4166,41 @@ Of Dried Peaches, thirty-three lbs.
 Of Dried Apples, twenty-four lbs.  
 Of Onions, fifty-seven pouuds.  
 Of Salt, fifty pounds.  
-Of Stone Coa
+Of Stone Coal, eight)7 pounds.  
+Of Lime, eighty pounds.  
+Of Sand, one hundred and thirty lbs.  
+The above is the standard weight of  
+the several articles named, and any one  
+buying jr selling at different rates, may  
+be prosecuted for a violation of law.  
+  
+There are two sections in the Code of  
+Iowa to which we direct the special at*  
+tention of our County Judge and Treas­  
+urer, to wit:  
+6. It is tbe duty of the County Judge  
+of each county to obtain a set of weights  
+and measui t&#x27;^^yth the standards of the  
+State, and U^posite them in the office of  
+the county Treasurer, to be there kept,  
+and these shall constitute the county  
+standards, and the County Treasurer  
+shall from time to time cause them to be  
+tested by the State standards, and see  
+that they agree therewith.  
+1. Any person desiring his weights  
+and measures inspected, shall apply to  
+tbe county Treasurer at his office, whose  
+duty it shall be to test them, and he may  
+demand and receive therefore twenty­  
+five cents for each weight and measure  
+inspected to the number of six, and fif­  
+teen cents each for all above that num­  
+ber and he shall destroy all such  
+weights and measures as cannot be made  
+to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1859052601:0183/pct:5.506849,7.921324,12.315068,14.853826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1859052601:0183/pct:5.465753,7.265692,12.424658,34.017627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4287,7 +4212,10 @@ Of Stone Coa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- te a  
+ was on hand, and took off his readers, and that they may not be imposed  
+roval highness&#x27; beard in as ready a mannern in their sals an purcase we co  
+as could any barber or valet in town. Thefrom the Code of lowa the following list of  
+operation over the jocular prince gave theaie a ae o i e te a  
 woman a guinea, and as she was about too we erin specfed  
   
 Of Wheat, sixty pounds.  
@@ -4311,9 +4239,66 @@ Of Dried Peaches, thirty-three pounds.­
 of Dried Apples, tWnty-four pounds.  
 Of Unions, fifty-seven pounds.  
 Of Salt, fifty pounds.  
-O
+Of Stone Coal, eighty pounds.  
+Of Lime, eighty pounds.  
+Of Sand, one hundred and thirty pounds.  
+The above is the standard weight of the  
+several articles named, and any person buy-­  
+ing or selling at diferent rates, may be pros-­  
+ecuted for a violation of law.  
+  
+There are two sections in the Code of  
+lowa to which we direct the special atten-­  
+tion of our County Judge and Treasurer, to  
+wit:  
+7. It is the duty of the county Judge of  
+each county to obtain a set of weights and  
+measures accurately corresponding in weight  
+and measure with the standard of the State,  
+  
+eee e ooo  a o i o i oe e o e  
+i a i ot o an o one e e  
+  
+e ee oe o ee ai ae ee e e  ee e e e  
+per to e ie i e e  e ee e i e an  
+or i oar an o e ee  o  ee a a ote o  
+the hind leg while they nibble the grass ine oe e  
+  
+e a o te i   e e o e oe o e i a  
+  
+A  
+  
+er  
+  
+o.  
+  
+ toe  
+  
+oe  
+  
+  
+  
+e.  
+  
+  
+  
+  
+  
+  
+  
+he to test them, and he may demand and re-  
+  
+e  e ao aei ao e eo ie e o e  
+i aoo o o i e onie aeo e e ee o eee  
+learned animal? Becausa the takes  
+  
+of six, and fifteen cents each for all above  
+  
+eo i eo  e e e e an e e e o o o  
+weights and measures as cannot be made to  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0446/pct:72.930685,69.759894,23.021467,10.265134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0446/pct:72.909324,68.453778,23.331197,24.409510/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4325,7 +4310,11 @@ O
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of articles, a  
+OF IOWA.—For the  
+benefit and convenience of our readers, and  
+that they may not be imposed upon, in their  
+sales and purchases, we copy from tho Code  
+of Iowa the following list of articles, a  
 bushel of whicli means the amount of  
 weights herein specified  
   
@@ -4350,9 +4339,12 @@ Of Dried Pcaohes, thirty-three pounds.
 Cf Dried Apples, twenty-four pounds.  
 Of Onions, fifty-seven pounds.  
 Of Salt, fiity pontic&#x27;s.  
-O
+Of Stone Coal, eighty pounds.  
+Of Lime, eighty pounds.  
+Of Sand, one hundred and thirty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859070101:0308/pct:27.855825,64.056269,11.068540,11.475410/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859070101:0308/pct:27.827444,61.785556,11.182063,14.610102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4364,7 +4356,6 @@ O
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 waiGHt AND MeAsUaes.  
 The following table of the number of  
 pounds of various artieles to the bushel  
@@ -4388,9 +4379,10 @@ Of Castor beans, forty six pounds,
 Of Dried Peaches, thirty-three pounds,  
 Of Dried Apples, twenty-four pounds,  
 Of Onions, fifty seves pounds,  
-Of Salt, fifty pound
+Of Salt, fifty pounds,  
+Of Cora meal, forty-eight pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186956:1859090801:0765/pct:6.308663,41.578700,12.360876,12.706232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186956:1859090801:0765/pct:6.308663,41.578700,12.360876,13.245758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4402,7 +4394,7 @@ Of Salt, fifty pound
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s stem.  
+stem.  
   
 Weights anil Measures.  
 The following table of the number of  
@@ -4430,7 +4422,7 @@ Of Dried peaches, thirty-three pounds, |
 Of Dried apples, twenty-four pounds,  
 Of Onions, fifty-seven pounds,  
 ( )f Salt, fifty pounds,  
-Of Corn mea
+Of Corn meal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767766:1859092401:0160/pct:50.104442,40.003891,15.889152,18.912346/!600,600/0/default.jpg"/>
 </td>
@@ -4444,22 +4436,7 @@ Of Corn mea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e i oi  
-e e e e o e e o o eo   e a e ee e ee ee e e e a e in  e e e  
-e e eee e o e o ee  ea e i o a  o u i a fe uit of tha e  
-  
-.  
-  
-may glitter in the sun. Let them learn that  
-there is no style like that of comfort, not  
-ing so elegant as happiness. Let the daugh-  
-ters of oar vealthy mes marry meng hen  
-upright, brave mon, and know  
-that misery and ditappointment ineri  
-attend unions with the effeminate and effet.  
-kimmed patterns of humanity that com  
-to us like birds of passage from the regions  
-below--lestominated Cuba.  
+Cuba.  
 The following is the establishod weights  
 f various articles of produce: 1!  
 A bushel of wheat, sixty pounds.  
@@ -4480,9 +4457,9 @@ Of castor beans, fovry-four pounds.
 Of dried peachea thirty three pounds  
 Of dried apples, twonty four pounds,  
 Of eaicas, ffty covon poundn, itwld a  
-Of sah, sifty poum
+Of sah, sifty poumA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1860021601:0658/pct:17.124502,61.302682,60.988037,34.114943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1860021601:0658/pct:17.323881,80.137931,14.731945,15.279693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4494,9 +4471,7 @@ Of sah, sifty poum
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The following io the established  
-weights of various articles of produtfe :  
-A bushel of wheat, sixty pounds.  
+of wheat, sixty pounds.  
 ()f shelled corn, filly-six pounds.  
 Of corn on the cob, seventy pounds.  
 Of rye, fifty-six pounds.  
@@ -4517,9 +4492,9 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onious, fifty-seven pounds.  
 Of salt, Afty pounds.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860030701:0454/pct:82.666421,66.653011,13.110824,13.655606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860030701:0454/pct:83.422460,68.004916,12.004426,12.303701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4531,21 +4506,6 @@ Of salt, Afty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ck in his mouth. (Patent applied  
-for.)  
-  
-The habit of drinking can be cured  
-by giving the drinkers all they want  
-to drink, all the time. W know of  
-two in our own experience who were  
-cured in three weeks. One jumped  
-out of a window of a four story house,  
-and ran a curbstone into his head  
-the other didn&#x27;t get up one morning,  
-and has now a universal curb stone  
-growing out of his head in the grave  
-yard.  
-  
 WEIGHTS AND MEASURES.—The fol­  
 lowing table of the number of pounds  
 to the bushel, may be of interest to  
@@ -4571,45 +4531,9 @@ Of dried peaches, thirty-three lbs.
 Of dried apples, twenty four pounds.  
 Of onions, fifty-seven pounds.  
   
-5^~Santa Anna is said to be secret­  
-ly co-operating with the church party  
-in Mexico against Juarez, and t
+5^~Santa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860032801:0380/pct:56.000000,63.576159,12.747253,22.428256/!600,600/0/default.jpg"/>
-</td>
-</tr></table>
-
----
-
-## [From _The Evansville daily journal._](https://www.loc.gov/resource/sn82015672/1860-03-30/ed-1/?sp=2)
-
-#### 1860-03-30 &middot; [Evansville, Ia. [i.e. Ind.]](http://dbpedia.org/resource/Evansville%2C_Indiana)
-
-<table style="width: 100%;"><tr><td style="width: 50%">
-
-g with an old  
-settler of Lorain county, who lives within a  
-few miles of Oberlin, the hot-hed of Aho­  
-litionism. He is intimately acquainted with  
-public sentiment up there, and says that if  
-Mr. Bates should be nominated at Chicago,  
-he will be supported by the Republicans of  
-the Reserve. He does not think that any of  
-the abolitionists, except perhaps a few of  
-the Garrisonian lunatics, would think of  
-running a third ticket. He thinks Judge  
-Bates would bring out the full Fremont  
-vote, if not more, in Northern Ohio.  
-The people up there are really moderating  
-their extreme notions of late.  
-Warleties  
-  
-Santa Anna is said to be secretly operat-  
-ing with the church party in Mexico against  
-Juarez.  
-The Trento
-</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1860033001:0518/pct:2.114407,34.627103,13.014260,12.372500/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860032801:0380/pct:56.000000,71.479029,12.556777,13.421634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4621,14 +4545,6 @@ The Trento
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ate, ia eider to pre vest coolisg  
-off loo quickly afterwards, and to aava tha dan&#x27;  
-ger af expeeure to drafts of ait, which, by cbil  
-ling tha surface, cause eArtnte a&#x27;terrias if it  
-fall onth bowel, deafness ferlifeif it falls an  
-the ear, iacurable contact ptioa if it falls on the  
-lung.  
-Stick Thia Vp. .  
 A th following table of th number of  
 pouada to th bushel may be of interest to the  
 farmer and dealer, wa publish it and would ad  
@@ -4652,9 +4568,9 @@ Of blue grass seed, fourteen pound.
 Of castor beans, ferry -cix pounds.  
 Of dried peaches, thirty-three pouada.  
 Of dried applea, twenty -four pounds.  
-Of oaioae, fifty-seven pounds
+Of oaioae, fifty-seven pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1860040501:0611/pct:32.808989,61.659919,12.808989,18.164642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1860040501:0611/pct:32.808989,66.666667,12.808989,13.157895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4676,7 +4592,7 @@ Of oaioae, fifty-seven pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ut as we please 1&quot;  
+se 1&quot;  
 Stick this TJp.-f-As the following table  
 of the number of pounds to the bushel may  
 be of interest to the farmer and dealer, we  
@@ -4702,7 +4618,7 @@ Ot castor beans, thirty &#x27;&quot;three pounds.
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pounds.  
 r Of dnkns, fifty-seven pounds..  
-The New York Post, i
+The New York Post, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1860041401:0141/pct:82.277911,44.995034,14.300720,16.002649/!600,600/0/default.jpg"/>
 </td>
@@ -4716,7 +4632,6 @@ The New York Post, i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 stick tLu rp. . ;:&#x27;.:  
 As thj following tablo of the num­  
 ber of pounds to the bushel, mar bo of  
@@ -4745,7 +4660,7 @@ OC castor beans, thirty-three pounds.
 Of dried apples, twenty four pourid3.  
 Of onions, . fifty-ieyen pound. ,  
   
-AD 
+AD V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal14n_ver01%2Fdata%2F1860050301%2F0036.jp2/pct:71.211268,24.269819,13.492958,16.063978/!600,600/0/default.jpg"/>
 </td>
@@ -4759,7 +4674,7 @@ AD
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-cob and Joseph of old.  
+ob and Joseph of old.  
 &quot; Blessed are the peacemakers, for they shall  
 see God.&quot;  
 Stick this Up. —As the following table of  
@@ -4786,7 +4701,7 @@ Of castor beans, thirty-three pounde.
 Of dried peaches, thirty-lbree pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds.  
-Not content with the preparation
+Not content with the preparations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_artemis_ver02:data:sn84020422:00383342934:1860050301:0039/pct:48.226337,69.634419,14.345042,14.859488/!600,600/0/default.jpg"/>
 </td>
@@ -4800,7 +4715,6 @@ Not content with the preparation
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 York and Northern ports, a 1 do. ; New Orleans,  
 2 a 3, short sight.  
 Health good. As ever, yours, &amp;c,  
@@ -4828,7 +4742,7 @@ Of blue grass seed, fourteen pounds..- . -Of
 castor beans, thirty-three pounds. &quot;;Kr  
 Of dried peaches, thirty-three pounds.&#x27; &#x27;  
 Of dried apples, twenty-four pounds.  
-Of onions, fifty-seven pounds.
+Of onions, fifty-seven pounds. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyHW5n_ver01%2Fdata%2F1860061201%2F0548.jp2/pct:21.584416,77.412415,14.532468,14.218398/!600,600/0/default.jpg"/>
 </td>
@@ -4842,7 +4756,7 @@ Of onions, fifty-seven pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-for Amer­  
+or Amer­  
 ican fibre.  
 The following is the established weight  
 of various articles of produce :  
@@ -4865,7 +4779,8 @@ Cf castor beans, foi ty-four pound..
 Of dried peaches, thirty-six pounds.  
 Of dried apples, twenty-four pounds.  
 Of onions fifty-seven pound.  
-Of sH, itv pounds.
+Of sH, itv pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065471:00295877558:1860062001:0021/pct:70.256410,66.384605,12.637363,14.780947/!600,600/0/default.jpg"/>
 </td>
@@ -4879,7 +4794,7 @@ Of sH, itv pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--   
+  
 Stick this in*.—As the following table of  
 the number of pounds to the bushel, may be  
 of interest to the fanner ami dealer, we publish  
@@ -4903,7 +4818,8 @@ Of bine grass seed, thirty-three pounds.
 Of castor beans, thirty-three pounds.  
 Of dried peaches, thirty-three pounds.  
 I Of dried apples, twenty-four pounds.  
-&#x27; Of onions, fifty-seven pounds.
+&#x27; Of onions, fifty-seven pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624499:1860062301:0409/pct:55.824790,85.843715,12.339236,10.603058/!600,600/0/default.jpg"/>
 </td>
@@ -4917,7 +4833,7 @@ I Of dried apples, twenty-four pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of bushes and fruit.  
+of bushes and fruit.  
 Stick this Up.  
 As tho following table of the number  
 of pounds to the bushel, may be of inter-  
@@ -4942,7 +4858,8 @@ Of bluo grass seed, fourtoen pounds.
 Of castor beans, thirty-throe pounds.  
 Of driod peaches, tbirty-threo pounds  
 Of driod apples, twenty-four pounds.  
-Of onions, fifty-sevea pounds.
+Of onions, fifty-sevea pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287897:1860062801:0383/pct:64.155884,57.873317,15.141713,15.600543/!600,600/0/default.jpg"/>
 </td>
@@ -4956,8 +4873,6 @@ Of onions, fifty-sevea pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Stick this Tjp .—As the following tabic 1  
 of the number of pounds to the bushel  
 may be of interest to the farmer and  
@@ -4982,7 +4897,8 @@ Of blue grass seed, fourteen pounds.
 Ot castor beans, thirty-three pounds.  
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty-four pouuds.  
-Of onions, fifty-seven pouuds!
+Of onions, fifty-seven pouuds!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn86053686:00295874405:1860071401:0523/pct:64.745950,55.475427,14.782769,16.599893/!600,600/0/default.jpg"/>
 </td>
@@ -4996,13 +4912,13 @@ Of onions, fifty-seven pouuds!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. r&lt;  
+r&lt;  
 Sni&#x27;k This I i&gt;!?As the following table of  
 ie nnmber of pounds to the bushel may be of&#x27; {  
 itcjvst to the larmcr and ilealer. we publish  
 . and would advise them to rot it out and  
 :iok it up in some prominent place for referm*e:?&#x27;Jf  
-wheat, lif
+wheat, lift
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860072001:0241/pct:64.039474,80.766585,13.092105,3.469287/!600,600/0/default.jpg"/>
 </td>
@@ -5016,7 +4932,6 @@ wheat, lif
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Stic* this or i-—Astns following t*m«  
 of the. number of pounds to the bushel  
 may be of interest to the farmer and deal­  
@@ -5026,7 +4941,7 @@ for reference:
 Wheat,  
 Core—shelled, [  
 Corn—in the cob,  
-Oats, 
+Oats, 7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157388:1860073001:0015/pct:66.806944,51.818303,12.204103,5.381644/!600,600/0/default.jpg"/>
 </td>
@@ -5040,7 +4955,6 @@ Oats,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 STICK THIS UP.  
 e of the  
   
@@ -5052,7 +4966,7 @@ and dealer, we publish it, and
    
 would advise them to cut it oul  
 and stick it up in some promi-  
-nent place for referenc
+nent place for reference
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1860081601:0955/pct:7.671445,22.762081,12.901976,6.060206/!600,600/0/default.jpg"/>
 </td>
@@ -5066,7 +4980,6 @@ nent place for referenc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Stick this Up.—As the following  
 table of the number of pounds to the  
 bushel, may be of interest to the far­  
@@ -5085,7 +4998,7 @@ Of clover seed, sixty.
 Of timothy seed, forty-five.  
 Of flax seed, fifty-eight.  
 Of hemp seed, fifty-four.  
-O
+Of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1860090501:0139/pct:6.253497,78.418451,11.010073,11.532125/!600,600/0/default.jpg"/>
 </td>
@@ -5099,7 +5012,7 @@ O
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- OF VARIOUS ARTICLES OF PRODUCE,  
+OF VARIOUS ARTICLES OF PRODUCE,  
   
 The following is the established weights of various articles of produce :—  
   
@@ -5137,6 +5050,7 @@ Of onions, fifty-seven pounds,
 Of salt, fifty pounds.  
   
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_merchants-magazine-and-commercial-review_1860-10_43_4%2Fsim_merchants-magazine-and-commercial-review_1860-10_43_4_jp2.zip%2Fsim_merchants-magazine-and-commercial-review_1860-10_43_4_jp2%2Fsim_merchants-magazine-and-commercial-review_1860-10_43_4_0127.jp2/pct:13.805970,72.172619,64.800995,15.625000/600,/0/default.jpg"/>
@@ -5151,7 +5065,7 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- Of potatoes, sixty pounds, ; &#x27;&#x27; n i  
+Of potatoes, sixty pounds, ; &#x27;&#x27; n i  
 i Ol bran, twenty pounds, i &#x27; &#x27; . r vj &quot; 1 t  
 f 0&#x27; shell corn, fifty-six pounds. . . &#x27;  
 ; Of corn on the cob, seventy pounds. .  
@@ -5163,7 +5077,7 @@ Of dried peaches, thirtythree pounds. . --;n
 Of dried apples, twenty-five pounds, i- .&#x27;j  
 Of casior beam), forty ix pounds. &#x27; - i  
 Of blue grass seed, fourteen pounds. . ,  
-.
+. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1860120501:0199/pct:83.199416,77.921735,12.490869,5.922792/!600,600/0/default.jpg"/>
 </td>
@@ -5177,7 +5091,7 @@ Of blue grass seed, fourteen pounds. . ,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-s are at band.  
+are at band.  
 Stlclt this up.  
 As the following table of the number of  
 pounds to the bushel, may be of interest to  
@@ -5201,7 +5115,8 @@ Of blue grass seed, fourteen pounds.
 Of castor beans, thirty-three pounds.  
 Of dried peaches, thirty-three pounds.  
 Of dried apples, twenty four pounds.  
-Of onions, fifty-seven pounds,
+Of onions, fifty-seven pounds,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1860120501:0215/pct:9.462759,66.968736,14.545177,16.821477/!600,600/0/default.jpg"/>
 </td>
@@ -5215,8 +5130,6 @@ Of onions, fifty-seven pounds,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 S&#x27;ncx Tm; UP.~—Aa the following table of the  
 number of pounds to the bushel, may be of inte­  
 rest to the farmer and dealer, we rte-publish it, and  
@@ -5225,7 +5138,7 @@ some prominent place for reference:
   
 ‘ ‘ Por’Bushel  
 or wheat - - - - 60 lbs.  
-01&#x27; shelled.corn ~
+01&#x27; shelled.corn ~ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aesculapius_ver01%2Fdata%2Fsn84035983%2F000001901%2F1860121501%2F0199.jp2/pct:34.741294,25.261905,14.666667,4.047619/!600,600/0/default.jpg"/>
 </td>
@@ -5239,8 +5152,6 @@ or wheat - - - - 60 lbs.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 A eights op Measures.—Tho fol­  
 lowing tabic of the number of pounds  
 oi various articles to a bushel, may be  
@@ -5265,7 +5176,7 @@ Of dried apples, twenty four pounds.
 Of onions, fifty seven pounds,  
 Oi salt, fitly pounds.  
   
-
+t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769416:1860122201:0369/pct:67.011432,38.677583,13.718019,15.255467/!600,600/0/default.jpg"/>
 </td>
@@ -5279,8 +5190,6 @@ Oi salt, fitly pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Of wheat, sixty pounds.  
 Of rye, fift-six pounds.  
 Of oats, thirty-three pounds.  
@@ -5297,7 +5206,7 @@ Of hemp-seed, forty-four pounds.
 . Of dried peaches, thirty-three pounds the river, a distance of ;Wnty feet, where  
 Of dried apples, twenty-four pounds, he sank up to his middle isi the mud  
 Of castor beans, forty-six pounds. &#x27; McClelland made a leap on to him, and  
-Of blue grass seed, fourteen pounds,
+Of blue grass seed, fourteen pounds, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1861010201:0038/pct:20.850261,67.536058,23.200813,9.350962/!600,600/0/default.jpg"/>
 </td>
@@ -5311,8 +5220,6 @@ Of blue grass seed, fourteen pounds,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Stick this Up.  
 As the following table of the number of  
 pounds to the bushels, may be of interest  
@@ -5320,7 +5227,7 @@ pounds to the bushels, may be of interest
 to the farmer and dealer, we publish it,  
   
 SW EakETof the ohhaf Iet Co­  
-TY Ban
+TY BanK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861010901:0455/pct:16.193063,73.274780,30.359382,8.155583/!600,600/0/default.jpg"/>
 </td>
@@ -5334,7 +5241,7 @@ TY Ban
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-minated  
+inated  
   
 meron and Covode,  
   
@@ -5360,6 +5267,7 @@ If dried peaches, thirty- three pounds.
 Of dried apples, twenty-four pounds  
 Of onions, fifty-seven pounds,  
 Of oats, thirty pouuds.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861010901:0455/pct:0.020894,82.155305,30.923527,11.292346/!600,600/0/default.jpg"/>
@@ -5374,14 +5282,14 @@ Of oats, thirty pouuds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Stock paid in  
+Stock paid in  
   
 As the following table of the number of  
   
 pounds to the bushels, may be of interest  
 to the farmer and dealer, we publish it,  
   
-ald advise them t
+ald advise them to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861010902:0296/pct:16.923411,81.334693,22.000434,2.418767/!600,600/0/default.jpg"/>
 </td>
@@ -5395,7 +5303,6 @@ ald advise them t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 it tt ae ie some prominent placo for Due Depositors  
 stick it up in some prominent place fof Interests and Exchange  
   
@@ -5417,6 +5324,7 @@ Of buck wheat, forty-eight pounds,
 Of blue grass seed, fourteen pounds  
   
 Of caster beans, thirty-three pounds.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861010902:0296/pct:16.923411,83.797173,23.584292,9.602215/!600,600/0/default.jpg"/>
@@ -5431,7 +5339,6 @@ Of caster beans, thirty-three pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Of wheat, sixty pounds.  
 Of rye, fift-six pounds.  
 Of oats, thirty-three pounds.  
@@ -5450,7 +5357,7 @@ Of castor beans, forty-six pounds.
 Of blue grass seed, fourteen pounds.  
 Of bucR-wheat, fifty-two pounds.  
 Of timothy s?ed, forty-five pounds  
-i
+i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027479:1861011601:0046/pct:58.709199,23.830708,10.682493,10.881327/!600,600/0/default.jpg"/>
 </td>
@@ -5464,14 +5371,13 @@ i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 Stick this up.—As the following table  
 of the number of pounds to the bushel  
 may be of interest to the farmer and deal­  
 er, wo publish it, and would advise them  
 to cut it out and stick it up in some prom­  
 inent place for reference;  
-Of wheat, GO pounds; shelled cor
+Of wheat, GO pounds; shelled corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768710:1861032901:0166/pct:55.948987,41.292007,12.363091,3.735241/!600,600/0/default.jpg"/>
 </td>
@@ -5485,8 +5391,6 @@ Of wheat, GO pounds; shelled cor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-ble of the number of founds tO the.  
 be&#x27;of interest &#x27;to the farmer and deal.;  
 es,: yet publish it, and we would advise I  
 them to ant it out and stick it upin some  
@@ -5510,9 +5414,9 @@ Ofeastor-beatut, thirty-three pounds.
 • Of dried apples, twenty-four pounds.  
 Of onions, fifty-sevett pounds.  
   
-GESSI
+GESSIT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002376%2F1861041101%2F0059.jp2/pct:8.397079,7.916158,11.600313,12.355854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fascinus_ver01%2Fdata%2Fsn84026112%2F000002376%2F1861041101%2F0059.jp2/pct:8.457928,8.363858,11.539465,11.908154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5524,8 +5428,6 @@ GESSI
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-|  
-  
 Standard Weights and Measures.  
   
 The following table of the namber of,  
@@ -5562,7 +5464,8 @@ Of dried peaches, thirty-three pounds,
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-seven pounds,  
   
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_the-pacific_the-pacific_1861-04-25_10_17%2Fper_the-pacific_the-pacific_1861-04-25_10_17_jp2.zip%2Fper_the-pacific_the-pacific_1861-04-25_10_17_jp2%2Fper_the-pacific_the-pacific_1861-04-25_10_17_0004.jp2/pct:18.204109,9.841204,11.669980,12.035102/,600/0/default.jpg"/>
 </td>
@@ -5576,8 +5479,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 STANDARD WEIGHTS ANd MEASURES.The  
 following table of the number of pounds  
 of various articles to the bushel may be  
@@ -5600,7 +5501,8 @@ Of dried peaches, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of green apples, forty-six pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1861062701:0652/pct:20.945083,30.680484,14.221857,13.478411/!600,600/0/default.jpg"/>
 </td>
@@ -5614,8 +5516,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Wkiohts and Measures. — T he following ta-  
 ble of the number of pounds of various articles to  
 a bushel may be of Interest to soma of our fann-  
@@ -5671,7 +5571,8 @@ Of dried apples, twenty-four p^unda.
   
 Of onions, fifty-seven pouoda.  
   
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7gms3jxj87%2Fxt7gms3jxj87_jp2.zip%2Fxt7gms3jxj87_jp2%2Fxt7gms3jxj87_0000.jp2/pct:45.610212,80.741080,29.716687,12.705855/600,/0/default.jpg"/>
 </td>
@@ -5685,8 +5586,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Of barley, forty-eight pounds.  
   
 Of putetoee, sixty pounds.  
@@ -5709,7 +5608,8 @@ Of blue-gns* seed, fourteen pounds.
   
 Of dried peecbee, tbirtv-thre* pounds.  
 Of (irfod epplcA twenty-four p^uad^.  
-Of oniucs. fifty-sevoc pounds.
+Of oniucs. fifty-sevoc pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/xt7kd50fxk89%2Fxt7kd50fxk89_jp2.zip%2Fxt7kd50fxk89_jp2%2Fxt7kd50fxk89_0000.jp2/pct:56.606669,86.384687,7.492675,4.435525/600,/0/default.jpg"/>
 </td>
@@ -5723,7 +5623,6 @@ Of oniucs. fifty-sevoc pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Stick thin up!  
 As the following table of tho number  
 of pounds to the bushel may be of in­  
@@ -5731,7 +5630,7 @@ terest to the farmer and dealer, we pub­
 lish it, and would advise them to cut it  
 out and stick it up in some place for  
 reference:  
-Wheat,
+Wheat, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861092001:0469/pct:50.541311,73.565197,10.868946,3.925620/!600,600/0/default.jpg"/>
 </td>
@@ -5745,29 +5644,7 @@ Wheat,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the bed  
-  
-room or tbe aged couple, dracreed tbem out of b d. and  
-  
-maltreated tbe old man, and so abused the old lady that  
-  
-cue miuuxi uuuer meir Druiaiuy.  
-Having silenced the inmates of the bouse thrv nro  
-  
-ceeded to demolish the furniture, earthenware and trlass.  
-1 il j. ..... i . o  
-  
-ana iaca proceeaingw me ouinouses tbey killed a num  
-  
-ber or bogs and cattle, and finally left, taking nearly  
-one hundred negroes with them. We do not vouch for  
-the&quot; particulars of this outrage, but we understand the  
-  
-. main lacts to be true. Matt Journal.  
-  
-Cut Oct The following Id the tablishcd weight of  
-  
-A bushel of wheat, sixty pounds.  
+of wheat, sixty pounds.  
 Of shelled corn, fifty-six.  
 , Of corn in the cob, seventy Bound  
   
@@ -5789,9 +5666,10 @@ Of dried peaches, thirty-three pounds.
 , Of dried apples, twenty-four pound.  
 . Of onions, fifty-seven pounds. ;  
   
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm11n_ver01%2Fdata%2F1862120401%2F0871.jp2/pct:7.797567,64.943916,22.806255,18.358654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DJoWilm11n_ver01%2Fdata%2F1862120401%2F0871.jp2/pct:7.797567,73.150646,18.570808,10.151924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5813,7 +5691,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 TTelghts aud Mr asurrs.  
   
 The following table of ithe number  
@@ -5846,7 +5723,7 @@ Ot dried nppics, twetity-four (louitds.
 Ol ouions. fifiy-seeit pounds.  
 . Of salt, fifty pound. . m  
   
-T
+To
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BibRecRal15n_ver01%2Fdata%2F1863040101%2F0256.jp2/pct:37.453646,36.365810,17.398022,20.980275/!600,600/0/default.jpg"/>
 </td>
@@ -5860,7 +5737,6 @@ T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 The following are established  
 weights of various articles of pro­  
 duce and the rates by which they  
@@ -5885,7 +5761,7 @@ pounds.
 Of dried apples, twenty four  
 pounds.  
 Of onions, fifty seven pounds.  
-Of salt, fifty pounds
+Of salt, fifty pounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1866091501:0485/pct:4.925847,29.990488,11.087571,13.249083/!600,600/0/default.jpg"/>
 </td>
@@ -5899,7 +5775,7 @@ Of salt, fifty pounds
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- articles hereafter mentioned will  
+articles hereafter mentioned will  
 mean the amount of weight in this  
 section specified that is to say:  
   
@@ -5926,7 +5802,7 @@ Of dried apples, twenty-four
 pounds  
 Of onions, fifty-seven pounds  
   
-Of salt, fifty pound
+Of salt, fifty pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1873042401:0303/pct:66.115205,7.513527,9.926305,10.956714/!600,600/0/default.jpg"/>
 </td>
@@ -5940,7 +5816,6 @@ Of salt, fifty pound
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Useful TahUs. ita,i&#x27;hnh wiikt ,  
 wheat sixty nuiid&quot;.  
 Of shelled corn, fifty six pound. ,  
@@ -5978,7 +5853,8 @@ Of malt, thirty-eight pounds.
 Of blue grass seed, fourteen pound.  
 Of unsUckeJ lime, eighty kuim1s.  
 Of plastering hair, eight pounds.  
-Of stone coal, eighty pounds.
+Of stone coal, eighty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1875080401:0373/pct:6.328892,40.133779,10.852034,16.535117/!600,600/0/default.jpg"/>
 </td>
@@ -5992,7 +5868,6 @@ Of stone coal, eighty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 UdEFiL Tables. Standard weight per  
 bushel:  
 Of wheat sixty pounds.  
@@ -6029,7 +5904,8 @@ Of malt, thirty-eight pounds-
 Of blue grass seed, fourteen pounds.  
 Of unslacked lime, eighty pounde.  
 Of plastering hair, eight pounds.  
-Of atone coal, eighty pounds.
+Of atone coal, eighty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776087:1875082601:0536/pct:52.924188,74.442163,11.985560,20.876112/!600,600/0/default.jpg"/>
 </td>
@@ -6043,7 +5919,7 @@ Of atone coal, eighty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of standard weights per i  
+of standard weights per i  
 bushel will be found useful for refer- !  
 ence.  
 It takes of wheat sixty pounds to  
@@ -6065,7 +5941,7 @@ Of flax seed, fifty-six pounds.
 Of buckwheat, fifty-two pounds.  
 Of orchard or blue grass seed, four­  
 teen pounds.  
-
+T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1875090401:0556/pct:42.406917,78.033675,13.680100,13.170118/!600,600/0/default.jpg"/>
 </td>
@@ -6079,7 +5955,7 @@ teen pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- forty-eight pounds; of  
+forty-eight pounds; of  
 buckwheat, fifty pounds; of clover seed, sixty­  
 foor pounds; of flax seed, fifty-five pounds; of  
 Indian corn, fifty-six pounds; of amber sugar  
@@ -6090,7 +5966,7 @@ of sweet potatoes, fifty-four pounds; of beans,
 sixty pounds; of peas, sixty pounds; of onions,  
 fifty-seven pounds; of dried peaches, thirty­  
 three pounds; of dried apples, twenty-five  
-pounds, and o
+pounds, and of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881040701:0048/pct:51.609624,29.196032,11.030159,4.594101/!600,600/0/default.jpg"/>
 </td>
@@ -6104,7 +5980,6 @@ pounds, and o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 2. And be it enacted, That in this state the bushel of  
 barley shall consist of forty-eight pounds ; of buckwheat,  
 fifty pounds; of clover seed, sixty-four pounds; of In­  
@@ -6114,7 +5989,7 @@ six pounds ; of wheat, sixty pounds ; of Irish potatoes,
 sixty pounds ; of sweet potatoes, fifty-four pounds; of  
 beans, sixty pounds; of peas, sixty pounds; of onions,  
 fifty-seven pounds ; of dried peaches, thirty-three pounds ;  
-of dried apples, twenty-five pounds, and o
+of dried apples, twenty-five pounds, and of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881040701:0055/pct:16.541474,35.856967,10.947739,3.119605/!600,600/0/default.jpg"/>
 </td>
@@ -6128,29 +6003,7 @@ of dried apples, twenty-five pounds, and o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-usion, &#x27;&#x27;that there are but two  
-roads, one leading to Hell and Dam  
-  
-nation ami the other to Joy and Sal  
-  
-vation; now which one would von  
-  
-rather take?&quot;  
-  
-&quot;Well,&quot; replied one of the railroad  
-men, after getting over his surprise in  
-being thus addressed, &quot;I don&#x27;t think  
-  
-I&#x27;ll take either, for it is ten to one  
-  
-that the two roads will fall into the I  
-hands of Gould and be consolidated  
-before I get there.&quot;  
-The missionary made no further  
-attempts to convert the heathen, and  
-left disgusted.  
-Established Weights.  
-In answer to several inquirers we  
+e  
 publish the following weights which  
 are correct :  
 A bushel of wheat, sixty pounds.  
@@ -6177,9 +6030,10 @@ Of dried peaches, thirty-three
 pounds.  
   
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1882022301:0509/pct:25.076640,55.029314,10.744942,22.738246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1882022301:0509/pct:25.107296,64.559145,10.652974,13.208415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6191,22 +6045,7 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-begun at 12 o&#x27;clock meridian. *  
-took like  
-up  
-The Alemphis Scimitar says: &quot;It is  
-seriously believed that there are men in  
-Memphis, who, if they should make ap­  
-plications to be initiated ns imps in Ha­  
-des, would be black-balled, on account of  
-the wonderfully excessive intensity of  
-their style of meanness. They would, it is  
-further believed, he frowned upon by Is­  
-cariot, and shunned by tho Devil himself.  
-AVe do not vouch for the truth of all this,  
-however. It may ho they would ho re­  
-ceived with open arms.&quot;  
-AA&#x27;e puplish the following established  
+e puplish the following established  
 weights of various articles of produce:  
 A bushel of wheat, sixty pounds.  
 Of shelled corn, fifty-six pounds.  
@@ -6225,9 +6064,10 @@ Of blue grass seed, fourteen pounds.
 Of castor oil beans, forty-six pounds.  
 Of dried peaches, thity-three pounds.  
 Of onions, fifty-seven pounds.  
-Of salt, fifty pounds.
+Of salt, fifty pounds.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eyelet_ver02:data:sn85034375:00199917067:1882031101:0184/pct:48.100616,32.775591,14.758727,32.857612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eyelet_ver02:data:sn85034375:00199917067:1882031101:0184/pct:48.100616,54.986877,14.630390,10.646325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6239,7 +6079,6 @@ Of salt, fifty pounds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Wo publish the following establish­  
 ed weights of various articles of pro­  
 , dime:  
@@ -6260,7 +6099,8 @@ liluo grsss seed, fourtoen ponnds.
 Castor oil beans, forty-six pouuds.  
 Dried peache*. thirty-three pouuds.  
 ! Onions, fifty-sevon pounds.  
-| Salt, fifty pound*.
+| Salt, fifty pound*.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn87065172:00383343549:1882042801:0063/pct:33.300128,11.814389,11.840046,13.747838/!600,600/0/default.jpg"/>
 </td>
@@ -6274,7 +6114,7 @@ Dried peache*. thirty-three pouuds.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, via :  
+via :  
 Of wheat, sixty pounds ;  
 Of rye, fifty-fix pounds;  
 Of oats, thirty-two pounds;  
@@ -6292,7 +6132,7 @@ O&#x27; onions, fifty pounds;
 Of dried peaches, thirty -three pound ;  
 Of dried apples, twenty-two pounds;  
 Of flax seed, fifty-six pounds;  
-Of barley, tout ty -eight pound
+Of barley, tout ty -eight pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602739A:1882051601:0125/pct:39.073427,11.199745,10.052448,8.849181/!600,600/0/default.jpg"/>
 </td>
@@ -6306,7 +6146,6 @@ Of barley, tout ty -eight pound
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Of wheat, sixty pounds;  
 Of rye, fifty-six pounds; . .  
 Of oats, thirty-two pounds;  
@@ -6324,7 +6163,7 @@ Of onions, fifty pounds;
 Of dried peaches, thirty-three pounds;  
 Of dried apples, twenty-two pounds;  
 Of flax seed, fifty-six pounds;  
-Of barley, forty-eight&#x27; pounds; 
+Of barley, forty-eight&#x27; pounds; v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029130:1886042201:1050/pct:60.358392,55.655656,13.592657,8.723009/!600,600/0/default.jpg"/>
 </td>
@@ -6338,7 +6177,6 @@ Of barley, forty-eight&#x27; pounds;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Of wheat, sixty pounds.  
 Of shelled corn, fifty-six pounds.  
 Of corn on the cob. seventy pounds.  
@@ -6363,7 +6201,7 @@ Of dried pears, thirty-three pounds.
 Of dried apples, twenty-four pounds.  
 Of onions, fifty-four pounds.  
 Of salt, fifty pounds.  
-O
+Of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159221:1890081401:0848/pct:49.380287,29.645777,13.436947,13.419619/!600,600/0/default.jpg"/>
 </td>
@@ -6377,7 +6215,6 @@ O
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 t wo pounds; «r 1 leans, sixty pounds;  
 i of potatoes, sixty pounds; of clover  
 l seed, sixty pounds; of hemp seed,  
@@ -6386,7 +6223,7 @@ fourteen pounds; of castor beans,
 [ forty-six pounds: of dried peaches  
 thirty-three pounds; of dried apples,  
 twenty-live pounds; of onions, torty­  
-i eight pounds; of salt, fifty pound
+i eight pounds; of salt, fifty pounds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bashir_ver02:data:sn84045439:00517017358:1897100701:0252/pct:1.287319,70.808540,18.789373,6.282814/!600,600/0/default.jpg"/>
 </td>

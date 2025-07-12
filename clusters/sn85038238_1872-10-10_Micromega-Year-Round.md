@@ -28,12 +28,12 @@ Such being the height of his highness, an artist will readily ascertain that he 
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to be of the height abovementioned, all our  
+to be of the height abovementioned, all our  
 sculptors and painters will agree, that he must have measured  
 fifty thousand feet round the waist; and this being the case, no  
 one can deny that his figure was fine. His understanding was  
 highly cultivated, and his knowledge very extensive; he was,  
-moreover, th
+moreover, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_united-states-review-and-literary-gazette_1827-02_1_5%2Fsim_united-states-review-and-literary-gazette_1827-02_1_5_jp2.zip%2Fsim_united-states-review-and-literary-gazette_1827-02_1_5_jp2%2Fsim_united-states-review-and-literary-gazette_1827-02_1_5_0048.jp2/pct:13.428875,55.968170,65.923567,9.615385/600,/0/default.jpg"/>
 </td>
@@ -47,8 +47,6 @@ moreover, th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Francois-Mariz AROovET, wit, poet, dra-  
 matist, historian, philosopher, satirist, spe-  
 culator, man of science, man of affairs,  
@@ -101,7 +99,8 @@ a third of the length of the human face,
 avd the face again the seventh part of the  
 height, it follows that the Sirian’s nose  
 must have measured nearly a mile and a  
-half in length.
+half in length.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_all-the-year-round_1872-07-20_8_190%2Fsim_all-the-year-round_1872-07-20_8_190_jp2.zip%2Fsim_all-the-year-round_1872-07-20_8_190_jp2%2Fsim_all-the-year-round_1872-07-20_8_190_0005.jp2/pct:50.040850,21.420997,36.437908,63.202545/,600/0/default.jpg"/>
 </td>
@@ -115,7 +114,7 @@ half in length.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-me men are!&quot;  
+e men are!&quot;  
 Miscellany.  
 : : MICROMEGA.  
 In a recent issue, AU the Tear Bound  
@@ -176,7 +175,7 @@ a third of the length of the human face,
 and the face again the seventh part of the  
 height, it follows that the Sirian&#x27;s nose  
 must have measured nearly a mile and  
-a half in length.
+a half in length. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1872101001:0468/pct:2.914211,29.967180,11.100196,27.429942/!600,600/0/default.jpg"/>
 </td>
@@ -190,25 +189,7 @@ a half in length.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ING.  
-Said she, ‘Tray tell me, if you can,  
-Why go bashful are ?  
-They fall in love, and dream, and sigh,  
-And worship us afar;  
-But when they strive to tell the tale,  
-They stutter, hesitate—aud fail I  
-We ladies like a man, you know,  
-One not afraid to speak—”  
-And here I thought a blush appeared  
-Upon the maiden&#x27;s check,  
-Then to myself I said, “Isee  
-This maiden’s heart belongs to me.”  
-Then out I spake: “Oh, lady fair,  
-My heart, my life is thine !  
-And since I boldly speak my love,  
-Pray wilt thou not he mine ?”  
-“No, Sir!” said she, with wondering stare.  
-“Strange how presuming some men arel”  
+e men arel”  
 Miscellany.  
 MICROMEGA.  
 In a recent issue, All the Year Round  
@@ -269,9 +250,9 @@ a third of the length of the human face,
 and the face again the seventh part of the  
 height, it follows that the Sirian’s nose  
 must have measured nearly a mile and  
-a half in length.
+a half in length. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1872101101:0367/pct:4.309303,31.590523,12.176131,37.108867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1872101101:0367/pct:4.309303,39.028292,12.176131,29.671099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +264,6 @@ a half in length.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Mir ROM Eli A.  
 J.n a ’ent issue, .Uf the Ti&lt;tr Rowvl  
 •eiiroii i.h one of Voltaire’s satirical  
@@ -343,7 +323,7 @@ and the fa-&#x27;C again the seventh part of the
 height,!: follows that the .-Irian&#x27;s nose  
 must have measured nearly a mile and  
 a half in length.  
-A
+As
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1872102401:0372/pct:4.298161,18.756341,12.391094,29.149152/!600,600/0/default.jpg"/>
 </td>

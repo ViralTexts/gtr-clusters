@@ -1,7 +1,7 @@
 
 # Advantage of Taking a Newspaper
 
-### 396 reprints from 1839-09-04 to 1895-08-10
+### 397 reprints from 1839-09-04 to 1895-08-10
 
 ## [Advantage of Taking a Newspaper](http://chroniclingamerica.loc.gov/lccn/sn85054702/1841-07-03/ed-1/seq-1/)
 
@@ -11,7 +11,7 @@
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-The following exhibits the genius and talent of a true poet, of one who is destined to render himself immortal by his inspirations. There is a moral to it, an inspiration, which should stir up the soul of very liberal minded and intelligent beings:—*Boston Transcript*.  
+following exhibits the genius and talent of a true poet, of one who is destined to render himself immortal by his inspirations. There is a moral to it, an inspiration, which should stir up the soul of very liberal minded and intelligent beings:—*Boston Transcript*.  
   
 I knew two friends, as much alike    
 As e&#x27;er you saw two stumps;  
@@ -45,7 +45,7 @@ Would not befallen him!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-**Take the Paper**  
+Take the Paper**  
   
 We find the following going the rounds of the press. Read, ponder, and—PAY UP! Why don&#x27;t you take the papers? they&#x27;re the life of my delight, except about election time, and then I read for spite. Subscribe, you cannot loose a cent, why should you be afraid? for cash thus spent is money lent at interest, four-fold paid. Go, then, and take the papers, and pay to-day, nor pay delay, and my word it is inferred, you&#x27;ll live until you&#x27;re gray. An old neighbor of mine, while dying of a cough, desired to hear the latest news while he was going off. I took the paper and I read of some new pills in force; he bought a box—and is he dead? no—hearty as a horse. I knew two men as much alike as e&#x27;er you saw two stumps; and no phrenologist could find a difference in their bumps. One takes the paper and his life is happier than a king&#x27;s, his children can all read and write, and talk of men and things. The other took no paper, and, while strolling through the wood, a tree fell down and broke his crown, and killed him—&quot;very good.&quot; Had he been reading all the news, at home like his neighbor Jim, I&#x27;ll be a cent that accident would not have happened him, for he who takes the paper, and pays his bill when due, can live in peace with every man, and with the printer too.  
 
@@ -59,7 +59,7 @@ We find the following going the rounds of the press. Read, ponder, and—PAY UP!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e.  
+.  
   
 &quot;WHY DON&#x27;T YOU TAKE THE  
   
@@ -153,6 +153,7 @@ For he who takes the papers,
 And pays his bill when due,  
 Can live at peace with God and man,  
 And with the printer tou.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diana_ver01%2Fdata%2Fsn86071454%2F000002108%2F1839090401%2F0176.jp2/pct:5.100524,12.268856,64.116405,84.543796/!600,600/0/default.jpg"/>
@@ -167,7 +168,7 @@ And with the printer tou.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;Why don&#x27;t you take the Papers. 9!  
+Why don&#x27;t you take the Papers. 9!  
   
 I=l  
   
@@ -254,7 +255,8 @@ A paper every week.
 For ho who takes tho capers,  
 And pays his bill when it is due,  
 Can live at ponce with God and man,  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_faunus_ver01%2Fdata%2Fsn86081069%2F000002404%2F1839092401%2F0114.jp2/pct:18.132763,35.917767,12.772348,45.310706/!600,600/0/default.jpg"/>
 </td>
@@ -278,7 +280,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-•WHY DON* t . uu tii* PAIM Rt  
+WHY DON* t . uu tii* PAIM Rt  
 lit CKORUK n. WILLIS.  
 Why don&#x27;t you take the papers.  
 They are ’’the life of my delight,&quot;  
@@ -348,7 +350,7 @@ A paper every week.
 For he who take* the papers,  
 And pays his bill when it is due.  
 Can live at peace with God end man,  
-And with the Printi r too
+And with the Printi r too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1839100301:0405/pct:2.259172,6.458490,16.139526,49.247555/!600,600/0/default.jpg"/>
 </td>
@@ -362,7 +364,6 @@ And with the Printi r too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WHY DON&#x27;T YtllTAKE THE  
 .pa reus. f  
 y Gtvrt 11 JMiis.  
@@ -386,7 +387,7 @@ My grrndn a, w hen she had tie blues
   
 Would think her iarict stars  
   
-. Ti
+. Tin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1839102501%2F0397.jp2/pct:6.881144,9.385621,17.783735,17.869281/!600,600/0/default.jpg"/>
 </td>
@@ -400,8 +401,6 @@ Would think her iarict stars
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 And kilkd him at it iboukL , - .  
 Had he been reading ot the news,&quot;  
 At home l.ke neighbor Jim .  
@@ -436,7 +435,8 @@ Go pay the primer now V
 ble t ke, &quot;i.e slept, and then awoke,  
 With health upon her brow.  
   
-The Tuilor$ treumK tailor who
+The Tuilor$ treumK tailor who  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1839102501%2F0397.jp2/pct:7.104558,35.856209,36.126005,36.078431/!600,600/0/default.jpg"/>
 </td>
@@ -450,7 +450,6 @@ The Tuilor$ treumK tailor who
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 hy doni you fake the papers!  
   
 Nor from -die printer!  
@@ -463,7 +462,7 @@ A paper every week. -
 Tor he Hvlo takes the papers, 4 ;  
 . Atid pays his bill when it is due,  
 . Can live at peace w ith God and man,  
-Ai-d wnli the fi inter ti
+Ai-d wnli the fi inter tiH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SCitAsh1n_ver01%2Fdata%2F1839102501%2F0397.jp2/pct:8.065237,72.562092,17.806077,7.973856/!600,600/0/default.jpg"/>
 </td>
@@ -583,7 +582,6 @@ V
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WIIV DON&#x27;T YOU TAKE THE rAPERS ?  
 B If GEORUE P. WILLIS.  
 Wliv don&#x27;t yoa take (lie papers?  
@@ -653,7 +651,7 @@ A paper every week.
 For be who lakes the paper&#x27;,  
 And pays his bill when it i due,  
 Can live at peaer with God and mai),  
-And with Urn printer too
+And with Urn printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065337:00415662002:1839110201:0293/pct:6.639887,15.229111,17.840265,43.557951/!600,600/0/default.jpg"/>
 </td>
@@ -667,7 +665,6 @@ And with Urn printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Why don&#x27;t you take the papers?  
 They arc &quot;the life of ray delight,&quot;  
 Except about election times,  
@@ -735,7 +732,7 @@ A paper every week.
 r or nc who taxes me papers,  
 And pays bis bill when it is due,  
 Can live at peace with God and man,  
-And with the printer too
+And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1839122001:0550/pct:5.309917,7.056229,14.669421,41.880611/!600,600/0/default.jpg"/>
 </td>
@@ -749,7 +746,7 @@ And with the printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and the bright May  
+and the bright May  
 morn,  
 When first you were my bride.  
 Wfl Y DON&#x27;T YOU TA KETHE PA PERS!  
@@ -820,6 +817,7 @@ Why don&#x27;t you take the paper!
 Nor from the printer&#x27;s vision sneak,  
 Because you borrow of his boy,  
 A paper every week..  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat13n_ver01%2Fdata%2F1840040701%2F0620.jp2/pct:3.503650,3.650622,29.416058,93.739859/!600,600/0/default.jpg"/>
@@ -834,8 +832,6 @@ A paper every week..
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
-  
 *“WHY DON&#x27;T YOU TAKE THE PAPERS.&quot;  
   
 BY GRORGE B. WILLIS,  
@@ -920,7 +916,7 @@ A paper every week,
 For he who takes the papers,  
 And pays his bill when it 1s due,  
 Can lire at peace with God and man,  
-And with the prnter 0
+And with the prnter 00
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_distraughtsoul_ver03:data:sn83021111:00513688908:1840060601:0566/pct:8.354390,12.884769,16.061276,41.926994/!600,600/0/default.jpg"/>
 </td>
@@ -934,7 +930,6 @@ And with the prnter 0
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 THE DIFFERENCE.  
 I knew two friends, as much alike  
 As e’er you saw two stumps ;  
@@ -953,7 +948,8 @@ At home like neighbor Jim,
 1711 bet a cent the accident  
 Would not have happened him.  
   
-* W
+* W  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_carrigain_ver01:data:sn84022903:00517015386:1841030301:0112/pct:5.734967,47.445796,10.857461,9.275516/!600,600/0/default.jpg"/>
 </td>
@@ -987,8 +983,6 @@ Would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THE DIFFERENCE.  
 I know two friends, as much alike  
 As e&#x27;er you saw two stumps ;  
@@ -1005,7 +999,7 @@ And killed him as it should.
 Had he been reading of the news,  
 At home like neig&#x27;ibor Jim,  
 I&#x27;ll bet a cent the accident  
-Would not have happened him
+Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841051201:0080/pct:6.376975,7.285372,10.919865,10.021662/!600,600/0/default.jpg"/>
 </td>
@@ -1039,8 +1033,6 @@ Would not have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THE DIFFERENCE.  
 I knew two friends, as much alike  
 &#x27; m As e&#x27;er you saw two sjtamps ;  
@@ -1057,7 +1049,7 @@ And killed him as it should.
 Had he been reading of the news,  
 At home like neighbor Jim,  
 I&#x27;ll bet a cent the accident  
-Would not have happened him.
+Would not have happened him. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat13n_ver01%2Fdata%2F1841060801%2F0864.jp2/pct:6.747405,30.317524,12.854671,12.886940/!600,600/0/default.jpg"/>
 </td>
@@ -1071,7 +1063,6 @@ Would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends, as much alike  
 As e;er you saw two stumps;  
 And no phrenologist could find v &quot;  
@@ -1088,7 +1079,7 @@ Had he been reading of hc news
 At home, like neighboi Jim, &quot;  
 I&#x27;ll bet a cent this accident  
 Would not have happened him.  
-A Southern Paper complains t
+A Southern Paper complains th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1841060901:0247/pct:39.609324,63.671374,16.283651,14.038978/!600,600/0/default.jpg"/>
 </td>
@@ -1102,7 +1093,6 @@ A Southern Paper complains t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 TAkE THE PAPERs.—If any one, who doea not  
 take the papers, can read the fullowing, withaut going  
 right off, and subseribing, he musi be a*‘reckless man®’  
@@ -1126,7 +1116,7 @@ At home, like neighbor Jim,
 P’ll bera cent Ihis accident  
 Had not befallen him.  
   
-{From th
+{From the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841061501:0092/pct:5.739156,44.618904,14.783122,11.718831/!600,600/0/default.jpg"/>
 </td>
@@ -1140,7 +1130,6 @@ Had not befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
 I knew two friends, as much alike  
 As e&#x27;er you saw two stamips;  
 And no phrenologist eonld find  
@@ -1164,7 +1153,7 @@ H.d not belallen him.,
 JWiscellany,  
   
 From the Ladwes® Companion.  
-THH
+THHE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841061601:0314/pct:12.183288,24.000793,10.579515,11.177229/!600,600/0/default.jpg"/>
 </td>
@@ -1178,21 +1167,7 @@ THH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-AWS, JF.  
-Lo ’ Earth is wrapped in silence deep,  
-10,000 Stars their vigil keep,  
-Each like a shining gem.  
-The Stars, how often when a boy,  
-I’ve clapped my tiny hands foi jo),  
-At night to gaze on them.  
-And as I gazed, I’d say O Mar &#x27;  
-Do get me that ere pretty star,  
-Because it looks so bright  
-Knowing not, (Innocent little fo«*l  
-That was before I went to school,;  
-That It was made for night.  
-t&#x27;hildhood’s forever past and gone,  
-And Manhood stern, is coining on.  
+stern, is coining on.  
 ! now have wiser grown,  
 Then I was a snub-nos’d innocent baby,  
 But note pei haps it possibly may be  
@@ -1213,9 +1188,9 @@ And killed him as it should.
 Had he been reading of the news,  
 At home like neighbor Jim,  
 I’ll bet a cent the accident  
-Would not have happened him
+Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn84023073:00516996936:1841070301:0372/pct:8.302377,13.169581,8.599554,17.624202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_dinomayo_ver02:data:sn84023073:00516996936:1841070301:0372/pct:8.302377,19.400500,8.599554,11.393283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,38 +1202,7 @@ Would not have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-m:iuis or the &quot;amuucuv  
-  
-s roi  
-  
-HENRY D. MASKER,  
-josenr eisei.y.  
-  
-Prni.tRnr-.as aku  
-  
-&#x27;llOPUltTORl.  
-  
-. .It.lSSEit, r.ditor.  
-  
-orrici i mtT btrket, niar Bi.ru.)  
-THR &#x27; AMERICAN&quot; is published every Pnlur  
-.lay nt TWO DOLLARS per tnnmn In lie  
-aid Imlf yearly in advance. No paper disoouiiu­  
-jcd till ALb aires ragis are paid.  
-No subscription received for n less period than  
-ix mostiih. All communication or l-Hrr on  
-ausincfis relating to (ho office, lo insure attention,  
-must be POST PAID.  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-&#x27;J&#x27;lic following exhibits the genius and talent of a  
+following exhibits the genius and talent of a  
 mis port, of one who is destined to render himself  
 inmortnl by his inspiration. There is a moral lo  
 t, an inspiration, winch should stir up the aoul of  
@@ -1279,7 +1223,7 @@ A tree fell down tipou his crown,
 And hull him, us it should !  
 H id be been
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841070301:0191/pct:4.444024,7.518902,14.618003,25.875105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1841070301:0191/pct:4.500756,20.582470,14.466717,12.811537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1291,7 +1235,7 @@ H id be been
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-) exhibits the genius  
+exhibits the genius  
 and talent of a true poet, of one who ts destined to render him-  
 self immortal by his inspirations. There is a moral to it, an  
 spiration, which should stir up the soul of every liberal-minded  
@@ -1321,7 +1265,7 @@ At home, I:ke neighbour Jim,
 I&#x27;m very sure this accident  
 Had not befallen him!  
   
-Cop n
+Cop ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28%2Fsim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28_jp2.zip%2Fsim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28_jp2%2Fsim_new-york-mirror-a-weekly-gazette-of-literature_1841-07-10_19_28_0007.jp2/pct:66.310307,48.669579,27.001096,20.631454/,600/0/default.jpg"/>
 </td>
@@ -1345,7 +1289,6 @@ Cop n
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 The mor.il of the following, which we cut from an exchano-e,  
 is too obvious. It sliculd be headed—“ Caution to the Pub-  
 Uc,’&#x27; [ Pune Cnok I had for my sweetheart.^*  
@@ -1364,7 +1307,8 @@ And hurt him as it should.
 Had he been reading of the new&#x27;s  
 At home, like neighbor Jim,  
 I’ll bet a cent this accidcnt  
-Had not befallen him!
+Had not befallen him!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_ChMJ1_ver01%2Fdata%2FChMJ_1841-07-27_1%2F0004.jp2/pct:5.581708,4.936476,17.363820,12.084182/!600,600/0/default.jpg"/>
 </td>
@@ -1378,7 +1322,7 @@ Had not befallen him!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-(jjThe moral of the following, which we cut from  
+jjThe moral of the following, which we cut from  
 an exchange paper, is too obvious. It should  
 be headed  
 &quot;CAUTION&quot; TO THE PUBLIC.&quot;  
@@ -1397,7 +1341,7 @@ And hurt him, as it should !
 Had he been reading of the news  
 At home, like neighbor Jim,  
 I&#x27;ll bet a cent this accident  
-Would not befallen him
+Would not befallen him!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarFPS6_ver01%2Fdata%2F1841073101%2F0544.jp2/pct:2.923784,31.205212,17.460578,12.334419/!600,600/0/default.jpg"/>
 </td>
@@ -1411,8 +1355,6 @@ Would not befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 an exchange paper, is too obvious. It should be  
 headed  
 CAUtion to the pesLic.&quot;  
@@ -1431,7 +1373,8 @@ And hurt him, as it should!
 Had he been reading of the news  
 At home, like neighbor Jim,  
 I&#x27;ll bet a cent this accident  
-Would not befallen him.
+Would not befallen him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841080501:1218/pct:7.690573,11.130979,14.749662,10.266726/!600,600/0/default.jpg"/>
 </td>
@@ -1455,7 +1398,6 @@ Would not befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 AbvanraGes in TAKInG A NeWsPApEr  
 I kriew two friends, as much alike  
 As e&#x27;er you saw two stumps;  
@@ -1473,7 +1415,7 @@ Had he been reading of the news
 At home like neighbor Jim,  
 I&#x27;ll bet a cent this accident  
 Had not befallen him!  
-THE BOOK TRAD
+THE BOOK TRADE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841091101:0878/pct:83.567510,5.130730,12.623221,10.057251/!600,600/0/default.jpg"/>
 </td>
@@ -1489,7 +1431,6 @@ THE BOOK TRAD
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 ADVANTAGE OF TAKING A NEWSPAPER. I knew  
 two friends as much alike As e&#x27;er you  
 saw two stumps ; And no phrenologist  
@@ -1503,7 +1444,7 @@ fell down upon his crown, And hurt him
 as it should ! Had ho been reading of  
 the news At home, like neighbour Jim,  
 I&#x27;ll bet a cent this accident Had not  
-befallen him 
+befallen him I
 </td></tr></table>
 
 ---
@@ -1516,7 +1457,6 @@ befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 ADVANTAGE OP TAKING A NEWSPAPER. ! I  
 knew two friends SB much&#x27; alike As e&#x27;er  
 you saw two stump&#x27;s ? And no  
@@ -1531,7 +1471,7 @@ fell down upon his crown, And hurt him
 ns-it should I --Hail he been- reading  
 of the news - At home, like neighbour  
 &#x27;Jifn, ; I&#x27;ll bet a cent this accident  
--. . Had: not befallen hitnl
+-. . Had: not befallen hitnl 
 </td></tr></table>
 
 ---
@@ -1554,7 +1494,6 @@ of the news - At home, like neighbour
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 Vital advantage oj taking a Newspaper.A  
 trustworthy Yankee editor tells the  
 following importan) tale : I knew two  
@@ -1570,7 +1509,7 @@ While strolling through ihe wood, A tree
 - as it should ! Had be been reading oí  
 the news At home like neighbour Jua,  
 I&#x27;ll bet a cent tbia accident Had not  
-befallen bim !
+befallen bim ! 
 </td></tr></table>
 
 ---
@@ -1583,7 +1522,7 @@ befallen bim !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a  
+a  
 Ncwsi&#x27;Arr.n. -A trustworthy Yankee  
 &#x27;editor tells the fol-lowing  
 important&#x27;talc :- &#x27; &#x27; I I knew  
@@ -1599,7 +1538,7 @@ A tree fell down upon his crown,. 1 And
 killed lum-ns it should ! lind he been  
 reading of the news At home, like  
 neighbour Jim, I&#x27;ll bet a cent this  
-accident Had not befallen him 
+accident Had not befallen him !
 </td></tr></table>
 
 ---
@@ -1610,7 +1549,6 @@ accident Had not befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don&#x27;t you take the papers ?  
 They are the &quot; life of my delight ;&quot;  
 Except about election times, &#x27;  
@@ -1632,7 +1570,7 @@ i - Is happier than a king&#x27;s ;
 His children all can read and write,  
 And talk of men aM things.&quot;  
   
-which tmr pocket 
+which tmr pocket r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat14n_ver01%2Fdata%2F1843102801%2F0384.jp2/pct:5.121777,5.898691,28.778653,38.791165/!600,600/0/default.jpg"/>
 </td>
@@ -1646,7 +1584,6 @@ which tmr pocket
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends, as much alike  
 As ere you saw two stumps;  
 And no phrenologist conld find  
@@ -1663,7 +1600,7 @@ Had he been reading of the news,
 At home like neighbor Jim,  
 I&#x27;ll bet a cent the accident  
 Would not have happened him.  
-
+D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844091401:0305/pct:20.072115,37.505401,13.321314,11.075904/!600,600/0/default.jpg"/>
 </td>
@@ -1677,7 +1614,6 @@ Would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 I knew two friends, as much alike  
 As eer you saw two stamps;  
 And ne phrenologiet could find  
@@ -1696,7 +1632,8 @@ A tree fell dawa apon his crown,
 Had he been reading of the news,  
 At home like neighbor Jim,  
 L&#x27;il beta cent the accident  
-Would not bave lbuppened him.
+Would not bave lbuppened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1844-10-05_6_40%2Fsim_american-cultivator_1844-10-05_6_40_jp2.zip%2Fsim_american-cultivator_1844-10-05_6_40_jp2%2Fsim_american-cultivator_1844-10-05_6_40_0007.jp2/pct:15.152964,12.635566,11.974187,10.001721/,600/0/default.jpg"/>
 </td>
@@ -1710,8 +1647,6 @@ Would not bave lbuppened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—  
-  
 I knew two friends, as much alike  
 As e’er you saw two stumps;  
   
@@ -1733,7 +1668,7 @@ And killed him—as it should.
 Had he been reading of the news,  
 At home like neighbor Jim,  
 I&#x27;ll) bet a cent the accident  
-Would not have happened hi
+Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1844-10-24_12_43%2Fsim_maine-farmer_1844-10-24_12_43_jp2.zip%2Fsim_maine-farmer_1844-10-24_12_43_jp2%2Fsim_maine-farmer_1844-10-24_12_43_0001.jp2/pct:52.528302,30.123385,9.283019,7.653750/,600/0/default.jpg"/>
 </td>
@@ -1747,7 +1682,6 @@ Would not have happened hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 WHY DON&#x27;T YOU TAKE THE PAPERS!&quot;  
 BY GEORGE B. WILLIS.  
 Why don&#x27;t you take the paper!  
@@ -1758,7 +1692,7 @@ Subscribe, you cannot lose a cent,
 Depend tho advice i good;  
 For cash thus spent is money lent  
 On interest four fold paid.  
-My grandad used to mak
+My grandad used to make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845022201:0241/pct:64.238281,11.048289,13.906250,7.686430/!600,600/0/default.jpg"/>
 </td>
@@ -1772,7 +1706,6 @@ My grandad used to mak
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends, as much alike  
 As e&#x27;er you saw two stumps;  
 And no phrenel -gist could find  
@@ -1825,7 +1758,7 @@ For he who takes the p&#x27;ipcM,
 And pays his bill when it is due,  
 Can live at peace with God and man,  
 And with the printer too.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1845022201:0241/pct:64.941406,23.884474,11.640625,37.622249/!600,600/0/default.jpg"/>
 </td>
@@ -1839,7 +1772,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; Why don&#x27;t you luko the papers? , ,  
+Why don&#x27;t you luko the papers? , ,  
 t They&#x27;aro &quot;the life of my delight!&quot; . &#x27; &#x27;  
 Except about election times, ! ,  
 &#x27; And then I read for spite. &#x27;, &quot; &#x27;  
@@ -1849,7 +1782,7 @@ For cash thus spent is money lent
 V On interest four fold paid.  
 My grandad used to make his brags  
 Of living at a day,  
-When papers sold a
+When papers sold as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1845051401:0258/pct:4.569892,24.093192,14.016897,6.905692/!600,600/0/default.jpg"/>
 </td>
@@ -1863,7 +1796,6 @@ When papers sold a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends as much alike  
 ; As e&#x27;er you saw two stumps;  
 And ho phrenologist could find ;  
@@ -1896,7 +1828,7 @@ I took the paper, and I read
 Of sonic new pills in force;  
 &#x27; Hc bought a box and is he dead?  
 &#x27;,. No! hearty as a horse.  
-I knew 
+I knew a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1845051401:0258/pct:4.262673,34.514509,14.573733,21.386719/!600,600/0/default.jpg"/>
 </td>
@@ -1910,7 +1842,7 @@ I knew
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-AHISIe.  
+HISIe.  
 A great unknown (says the St. Louis Reveille) in an ex.  
 change paper, relates, in very touching verse, the opposite  
 fates of two early friends; the little tale has a great moral:  
@@ -1927,7 +1859,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would not have happened him.  
 An Ex-GovENOR INSANe.A letter from Indianapolis to  
-the Cinci
+the Cincin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845071501:0585/pct:1.842375,36.045012,12.740654,8.936037/!600,600/0/default.jpg"/>
 </td>
@@ -1941,7 +1873,7 @@ the Cinci
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. ..  
+..  
   
 A cheat unknown (uyi the St. Loais Reveille) in  
 an exchange paper relates, in very touching verse, the  
@@ -1959,6 +1891,7 @@ Had lie been reading of the news
 At home, like neighbor Jiiu,  
 I’ll bet a coni (hat aceident  
 Would not have hap|ffiinl him.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845071701:0315/pct:17.377194,3.945746,75.674878,7.913911/!600,600/0/default.jpg"/>
@@ -1973,7 +1906,7 @@ Would not have hap|ffiinl him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n.  
+.  
   
 I greal unknown (says the St Louis Reveil-  
 le) in an exchange paper relates, in very touch  
@@ -1990,7 +1923,8 @@ And killed him--as it should.
 Had he been reading of the news  
 At home, like neighber Jim,  
 I&#x27;ll bet a cent that accident  
-Would not have happened him.
+Would not have happened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1845071701:0116/pct:17.807073,15.970616,14.689266,9.780982/!600,600/0/default.jpg"/>
 </td>
@@ -2004,7 +1938,7 @@ Would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-t in airy rings.  
+ in airy rings.  
 Singing a dirge to me.  
 A TALE with a Moral.—Some unknown  
 poet in an exchange paper relates, in very  
@@ -2023,7 +1957,7 @@ Had he been reading of the news,
 Ai home, like neighbor Jim—  
 1*11 bet a cent that accident  
 Would not have happened him.  
-EYACTLr
+EYACTLr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016481:00516990703:1845072101:0550/pct:31.576737,48.963769,14.675625,11.018339/!600,600/0/default.jpg"/>
 </td>
@@ -2037,7 +1971,6 @@ EYACTLr
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A great unknoicn (says the St. Lonis Reveille) in an  
 exchange paper relates, in very touching verse, the op­  
 fate of two early friends; the little tale has a great  
@@ -2053,7 +1986,8 @@ And killed him,-as it should
 ad he been reading of the now  
 At home like neighbor Jim,  
 I&#x27;ll het a cent that accident  
-Would not have happened!
+Would not have happened!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845072101:0407/pct:4.462355,13.680241,15.023590,9.581448/!600,600/0/default.jpg"/>
 </td>
@@ -2077,7 +2011,7 @@ Would not have happened!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n his log.  
+his log.  
 A great unknown (says the St. Louis Reveille,)  
 in an exchange paper, relates, in very touching  
 verse, the opposite fates of two early friends ; the  
@@ -2096,7 +2030,7 @@ I’ll bet a cent that accident
 Would not have happened him.  
   
 Tribute to Merit.—A large number of the  
-friends of Law and Or
+friends of Law and Ord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1845072401:0086/pct:57.521935,56.395828,17.290820,10.691738/!600,600/0/default.jpg"/>
 </td>
@@ -2110,7 +2044,7 @@ friends of Law and Or
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. Louis Reveille.  
+Louis Reveille.  
   
 [A great unknown (says the St. Louis Re veille)in  
 an exchange paper relates in very, touching verse, the  
@@ -2134,7 +2068,7 @@ Would not have happened him
   
 Epigram.  
 Yon Nicety possesses no silver or gold,  
-Yet who in appearnore more merry and bol
+Yet who in appearnore more merry and bold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_felicitas_ver01%2Fdata%2Fsn85054565%2F000002457%2F1845072501%2F0082.jp2/pct:38.976525,68.228195,10.948714,9.240905/!600,600/0/default.jpg"/>
 </td>
@@ -2148,7 +2082,7 @@ Yet who in appearnore more merry and bol
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-paid by  
+aid by  
 Frederick the Great to Washington. “His  
 hand is an army, and his bead is a state coun.  
 cil.”  
@@ -2170,7 +2104,7 @@ Had he been reading of the news
 At home, like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
 Would never have happened him  
-—
+— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_american-cultivator_1845-07-26_7_30%2Fsim_american-cultivator_1845-07-26_7_30_jp2.zip%2Fsim_american-cultivator_1845-07-26_7_30_jp2%2Fsim_american-cultivator_1845-07-26_7_30_0003.jp2/pct:81.332392,15.117677,14.100753,11.510050/,600/0/default.jpg"/>
 </td>
@@ -2184,7 +2118,6 @@ Would never have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 ors.  
   
 ?great unAltown (says the St. Louis Resitle) hi  
@@ -2208,7 +2141,7 @@ At-honterlikelteiglibordjm;
 I&#x27;ll het n cent that accident  
 Wotdd not have happened him  
   
-
+n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_washingtong_ver01%2Fdata%2Fsn86071296%2F000001856%2F1845073001%2F0107.jp2/pct:19.084225,61.503391,11.817227,9.325546/!600,600/0/default.jpg"/>
 </td>
@@ -2222,7 +2155,6 @@ Wotdd not have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 A GrEAT UNkNOWN. An exchange paper relates,  
 in very touching verse, the opposite fates of two ear­  
 ly friends; the little tale is old, but has a gréat mor­  
@@ -2241,9 +2173,30 @@ Would not have happened him.
 FreE Post Oflices for the State Sentinel.  
 Now is the Time!  
 All persons residing in the vicinity of the following  
-post offices, will receive their papers
+post offices, will receive their papers 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845073001:0077/pct:19.619214,22.267989,14.618667,9.541022/!600,600/0/default.jpg"/>
+</td>
+</tr></table>
+
+---
+
+## [From _Richmond palladium._](https://www.loc.gov/resource/sn86058217/1845-07-30/ed-1/?sp=1)
+
+#### 1845-07-30 &middot; [Richmond, IA [i.e. Ind.]](http://dbpedia.org/resource/Richmond%2C_Indiana)
+
+<table style="width: 100%;"><tr><td style="width: 50%">
+
+j  
+  
+One took a paper, and his life  
+Was happier than a king&#x27;s;  
+His childron all could read and write  
+Acd talk of mon and thin&#x27;rs.  
+  
+CT&#x27;As soon as tho
+</td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845073001:0330/pct:20.801260,67.324561,32.015395,5.811404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2255,7 +2208,7 @@ post offices, will receive their papers
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ze you.&quot;  
+e you.&quot;  
 A Great UnkNown (says the St. Louis  
 Reveille)in an exchange paper relates, invery  
 touching verse, the opposite fates of two early  
@@ -2271,7 +2224,8 @@ And killed him--as it should.
 Had he been reading of the news,  
 At home, like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
-Would not have happened him.
+Would not have happened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1845073001:0936/pct:1.985958,82.353844,12.918756,10.557005/!600,600/0/default.jpg"/>
 </td>
@@ -2295,7 +2249,6 @@ Would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don’t you take the papers?  
 They are “the life of my delight;”  
 Except about election times,  
@@ -2304,7 +2257,7 @@ Subscribe, you cannot lose a cent,
 Depend the advice is good ;  
 For cash thus spent is money lant  
 On interest four fold paid.  
-My grandad used to mak
+My grandad used to make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845080701:0339/pct:16.889147,16.274090,9.440898,4.739472/!600,600/0/default.jpg"/>
 </td>
@@ -2318,7 +2271,6 @@ My grandad used to mak
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends, as much alike  
 As e’er you saw two stumps;  
 And no phrenologist could find  
@@ -2357,7 +2309,7 @@ Who swore to pay her bill next day,
 If her disease would leave her.  
 Next morning she was at her work,  
 Divested of her pain;  
-But did forget to pay her deb
+But did forget to pay her debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845080701:0339/pct:16.792416,24.896502,9.692397,20.742327/!600,600/0/default.jpg"/>
 </td>
@@ -2371,7 +2323,6 @@ But did forget to pay her deb
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A Gur.vr Unknown (says tho St. Louis  
 Reveille) in nn exchungo paper relates, in  
 very touching verse, tho opposite Cites of  
@@ -2389,7 +2340,7 @@ Had ho been reading of tho news,
 At home, liko neighor Jim,  
 I&#x27;ll hot n con! that accident  
 Would not liavo happened him.  
-SnNTiMRNT.
+SnNTiMRNT. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1845080801:0111/pct:32.656483,61.850208,12.127422,10.396678/!600,600/0/default.jpg"/>
 </td>
@@ -2403,7 +2354,7 @@ SnNTiMRNT.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-... A great unknown (says the St. Louis Reveille,) in an  
+.. A great unknown (says the St. Louis Reveille,) in an  
 exchange pape.r relates, in very touching verse, the bppo­  
 site fates of two early friends ; the little tale has a great  
 moral: &quot; &quot; .&#x27; -ii.- 1 v h&#x27;  
@@ -2425,7 +2376,7 @@ and cogitated the following Unea to hia gentle divinity:&quot;
 ii- her name is iuim beuy , v  
 &#x27; l - Til to ice this very night &#x27; &quot; &#x27; .  
 . r &#x27; - if god a&#x27;.mity lets me.-  
-
+r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal7_ver01%2Fdata%2F1845080901%2F0520.jp2/pct:52.485062,80.581242,15.304183,11.919520/!600,600/0/default.jpg"/>
 </td>
@@ -2439,7 +2390,7 @@ ii- her name is iuim beuy , v
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in a exchange paper relates,  
+in a exchange paper relates,  
 in very touching verse, io opposite fates of two  
 early friends: the little le has a great moral.  
 One took a pnpo and his life  
@@ -2453,7 +2404,7 @@ A tree fell down ipon his crown,
 , Had he been ren ing of the news,  
 &#x27; At home like sighbor Jim;  
 , I&#x27;ll l»et a cent th I accident  
-Would not ha 1 happened hi
+Would not ha 1 happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1845080901:0477/pct:73.668096,33.648621,18.677281,10.786879/!600,600/0/default.jpg"/>
 </td>
@@ -2467,7 +2418,6 @@ Would not ha 1 happened hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A Great Unknown An exchange  
 paper re lates in very touchine verap.ih  
 opposite fates of Iwo early friends: tin  
@@ -2485,7 +2435,7 @@ At home, like neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would not have happend him.  
 THE PRESS IN GERMANY.  
-To show the sor
+To show the sort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845080901:0127/pct:34.432824,28.752464,14.420756,14.531118/!600,600/0/default.jpg"/>
 </td>
@@ -2499,7 +2449,7 @@ To show the sor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and  
+and  
 eloquent pleader in the cause of education—Hon.  
 Horace Mann—“ Ignorance in a republic is a crime.”  
   
@@ -2528,7 +2478,8 @@ Had he been reading of the news
 At home, like neighbor Jim,  
   
 I&#x27;ll bet a cent that accident  
-Would never have happened him.
+Would never have happened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_new-england-farmer-and-horticultural-register_1845-08-13_24_7%2Fsim_new-england-farmer-and-horticultural-register_1845-08-13_24_7_jp2.zip%2Fsim_new-england-farmer-and-horticultural-register_1845-08-13_24_7_jp2%2Fsim_new-england-farmer-and-horticultural-register_1845-08-13_24_7_0007.jp2/pct:11.270921,63.613445,27.248954,22.352941/,600/0/default.jpg"/>
 </td>
@@ -2542,7 +2493,7 @@ Would never have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- we find in the Reveille the opposite file  
+we find in the Reveille the opposite file  
 of two friends, related in touching verse.  
 One took a paper, and his lifo  
 Waa happier than a king&#x27;s :  
@@ -2555,7 +2506,7 @@ And killed him, as it should.
 Had he been reading of the newa  
 At home, like neighbor Jim, &quot; .  
 I&#x27;ll bet a cent this accident  
-Would not have happened him,
+Would not have happened him, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1845081501:0389/pct:51.877551,76.972409,13.632653,7.904549/!600,600/0/default.jpg"/>
 </td>
@@ -2569,7 +2520,6 @@ Would not have happened him,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A great unknown, says the St. Louis Reveille,  
 in an exchange paper relates, in very touching  
 verse, the opposite fate of two early friends;  
@@ -2585,7 +2535,8 @@ And killed him--as it should.
 Had he been reading of the news  
 At home, like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
-Would not have happened him.
+Would not have happened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1845081601:0068/pct:5.319149,11.578947,14.389698,10.739687/!600,600/0/default.jpg"/>
 </td>
@@ -2599,7 +2550,6 @@ Would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A OR6AT nxiorows, (says the St. Louis Re­  
 veille) in an exchange paper relates, in a very touch­  
 ing verse, the opposite fate of two early friends,  
@@ -2617,7 +2567,8 @@ And killed hint—as it should.
 lied he been reading of the now.  
 At home, like neighbor j int  
 I&#x27;ll bet a cent that accident  
-Would not have happened hum,
+Would not have happened hum,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_epona_ver01%2Fdata%2Fsn86071456%2F000002311%2F1845082701%2F0132.jp2/pct:4.747774,84.913337,14.768318,9.558045/!600,600/0/default.jpg"/>
 </td>
@@ -2631,7 +2582,6 @@ Would not have happened hum,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 WHY DON&#x27;T YOU TAKE THE PAPERS?  
 BY N. P. W1LUS,  
 ; .  
@@ -2655,7 +2605,7 @@ I took the paper, and I read
 Of some uew pills in force ;  
 He bought box and is he dead 7  
 No ! hearty as a horse.  
-I knew 
+I knew a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845091001:0361/pct:18.421758,14.284177,14.764202,12.669537/!600,600/0/default.jpg"/>
 </td>
@@ -2669,7 +2619,7 @@ I knew
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-as to carry  
+s to carry  
 ber across the &quot;bridge at sigaa&quot; to the  
 felon&#x27;s home.&quot;  
 A Talb with a Moral. Some unknown  
@@ -2687,7 +2637,7 @@ And killed him as it should.
 Had he been reading of the news,  
 At home, like neighbor Jim  
 I&#x27;ll bet a ceut that accident  
-Would not have happened him
+Would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1845091001:0075/pct:22.285714,57.775534,14.204082,12.867859/!600,600/0/default.jpg"/>
 </td>
@@ -2701,8 +2651,6 @@ Would not have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 One took a paper, and his life  
 Was happier than a king&#x27;s  
 His children they could read and write.  
@@ -2733,7 +2681,8 @@ St W AR&amp;OW&#x27;s lmiliE OF TttJ£ CLARIS.
   
 Switzerland is lull of banle field?,  
 many of ihem glorious from their asso  
-ct3tion with freedom. The traveler—
+ct3tion with freedom. The traveler—  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668855:1845091101:0307/pct:28.033744,51.060787,12.491888,11.096544/!600,600/0/default.jpg"/>
 </td>
@@ -2747,7 +2696,6 @@ ct3tion with freedom. The traveler—
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Why don’t you take the papers ?  
 They, are *“the life of my delight!™  
 Except about election times,  
@@ -2788,7 +2736,7 @@ For he who takes the papers,
 And pays his bill when due,  
 Can live at peace with God and man,  
 And with the printer too.  
-et — e
+et — e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_carrigain_ver01:data:sn84022903:00517015404:1845100201:0160/pct:83.333333,7.401986,9.369818,20.334553/!600,600/0/default.jpg"/>
 </td>
@@ -2802,7 +2750,7 @@ et — e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- great unknown in an exchange paper relates in very  
+great unknown in an exchange paper relates in very  
 touching verse the opposite fates of two early friends:  
 the li&#x27;.lle tale has a great moral.  
 One took a paper and his life  
@@ -2817,7 +2765,7 @@ Had he been reading of the news ;
 At home like neighbor Jim ;  
 I&#x27;ll bet a cent thai accident  
 Would not have happened him. 4?  
-Exactly
+Exactly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth78119/m1/1/pct:60.466667,66.882793,17.200000,9.925187/!600,600/0/default.jpg"/>
 </td>
@@ -2831,7 +2779,6 @@ Exactly
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don.t you lake the papers!  
 W They are ‘the life of my delight!’  
 I Except about election times,  
@@ -2861,7 +2808,7 @@ Who swore to pay her bill next day,
 If her disease would leave her.  
 Next morning she was at her work,  
 Divested of her pain;  
-But did forget to pay her deb
+But did forget to pay her debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845102801:0099/pct:1.219008,45.254613,15.764463,23.173432/!600,600/0/default.jpg"/>
 </td>
@@ -2875,7 +2822,7 @@ But did forget to pay her deb
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- health upon her brow.  
+health upon her brow.  
 I knew two men as much alike,  
 As e’er you saw two stumps,  
 And no phrenologist could find,  
@@ -2902,7 +2849,7 @@ Can live at peace with God and man,
 And with the Printer too.  
 IV  
   
-The
+The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1845102801:0099/pct:1.239669,15.586716,19.380165,79.557196/!600,600/0/default.jpg"/>
 </td>
@@ -2916,7 +2863,6 @@ The
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don’t you take the papers?  
 They are “the life of my delight!”  
 Except about election times,  
@@ -2938,7 +2884,7 @@ Of some new pills in force;
 He bought a box—and is he dead’  
 No! hearty a» a horse.  
   
-1 knew 
+1 knew a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845110101:0095/pct:64.802731,32.964602,11.213734,11.491016/!600,600/0/default.jpg"/>
 </td>
@@ -2952,7 +2898,7 @@ No! hearty a» a horse.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- health upon her brow.  
+health upon her brow.  
 I knew two men as much alike,  
 As e’er you saw two stumps,  
 And no phrenologist could find,  
@@ -2973,7 +2919,7 @@ Why don’t you take the papers?
 Nor from the printer sneak,  
 Because you borrow of his boy,  
 A paper every week,  
-For he who takes the paper
+For he who takes the papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845110101:0095/pct:64.782652,49.986592,10.832246,12.355859/!600,600/0/default.jpg"/>
 </td>
@@ -2987,7 +2933,10 @@ For he who takes the paper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-eat  
+Some unknown poet, in an exchange paper, re­  
+lates, in very touching verse, the opposite fate of  
+two early friends. We agree with Field of the  
+Reveille, who says that the little tale has a great  
 mora :  
 One took a paper and his life  
 Was happier than a king&#x27;s ;  
@@ -3000,9 +2949,10 @@ And killed him as it should.
 Had he been reading of the news,  
 At home, like neighbour Jim  
 I&#x27;ll bet a cent that accident  
-Would not have happened him.
+Would not have happened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845111201:0397/pct:32.833787,68.108108,15.027248,6.918919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845111201:0397/pct:32.806540,66.324324,15.095368,8.702703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3014,7 +2964,6 @@ Would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Why don’t you tuke the papers ¢  
 Thoy are “the hife of delight !’  
 Except about election times,  
@@ -3035,7 +2984,7 @@ While he was going off.
 Of some new pills in force ;  
 He bought a box—and is he dead ?  
 No! hearty as a horse.  
-I knew 
+I knew a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_grayooze_ver01:data:sn83021167:00514152767:1845111301:0008/pct:5.962253,13.851710,9.994281,14.117272/!600,600/0/default.jpg"/>
 </td>
@@ -3049,7 +2998,7 @@ I knew
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- bhealth upon her brow,  
+bhealth upon her brow,  
 I knew two men as much alike,  
 As w&#x27;er you saw two stumps,  
 And no phrenologist eould find,  
@@ -3073,7 +3022,8 @@ A paper every week,
 For he who takes the papers,  
 And pays his bill when due,  
 Can live at peace with God and man,  
-Aud with the Printer too.
+Aud with the Printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_grayooze_ver01:data:sn83021167:00514152767:1845111301:0008/pct:5.333143,35.022307,11.080927,17.038453/!600,600/0/default.jpg"/>
 </td>
@@ -3087,7 +3037,6 @@ Aud with the Printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two men ti9 much alike,  
 As e&#x27;er you saw two stimme,  
 Ard no phrenologist could find,  
@@ -3103,7 +3052,7 @@ And ki Ic&#x27;d him—&#x27;werry good. 1
 Ilad he been reading of the news  
 At home like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
-Would not have happen&#x27;d hi
+Would not have happen&#x27;d him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_ikat_ver01:data:sn83016954:00199917341:1845112601:0154/pct:3.153299,56.200000,11.368047,9.311111/!600,600/0/default.jpg"/>
 </td>
@@ -3117,7 +3066,6 @@ Would not have happen&#x27;d hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 WHY DONT YOU TAKE THE PAPERS?  
 BV If. P. WILLIS.  
 Why don&#x27;t you take the papers?  
@@ -3146,7 +3094,7 @@ Who swore to pay her bill next day,
 If her disease would leavs her.  
 Next morning she was at her work.  
 Diverted ot her pain ,  
-But did forget to pay her deb
+But did forget to pay her debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1845122401:0305/pct:9.529781,29.068726,14.090909,16.084621/!600,600/0/default.jpg"/>
 </td>
@@ -3160,7 +3108,7 @@ But did forget to pay her deb
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- health upon her brow.  
+health upon her brow.  
 I knew two men as much alike,  
 As e&#x27;er you saw t wo stu mps  
 And no phrenologist could find,  
@@ -3184,7 +3132,7 @@ A paper every week,
 For he who takes the papers,  
 And pays his bill when due.  
 Can live ai peace with Uod and man,  
-And with the PRINTER to
+And with the PRINTER too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1845122401:0305/pct:10.031348,47.369599,10.909091,13.666891/!600,600/0/default.jpg"/>
 </td>
@@ -3208,7 +3156,6 @@ And with the PRINTER to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don’t you take the papers?  
 They are “the life of my delight;”  
 Except about election time,  
@@ -3236,7 +3183,7 @@ I
 i  
 I knew n printer&#x27;s debtor once,  
 Racked with a scorching fever.  
-Who sai
+Who said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_ilmenite_ver01:data:sn84025771:00516990090:1846020301:0028/pct:28.950431,15.212418,13.474517,16.160131/!600,600/0/default.jpg"/>
 </td>
@@ -3250,7 +3197,6 @@ Who sai
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two men as much alike,  
 As e&#x27;er you siw two stumps,  
 And no phrenologist could find  
@@ -3266,7 +3212,7 @@ And killed him—“worry good.”
 Had he been reading of the news,  
 At home, like neighbor Jim,  
 I’ll bet a cent that accident  
-Had never happened hi
+Had never happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_ilmenite_ver01:data:sn84025771:00516990090:1846020301:0028/pct:30.532930,38.300654,11.612753,11.062092/!600,600/0/default.jpg"/>
 </td>
@@ -3290,7 +3236,7 @@ Had never happened hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- All papers sent by mail, arc discontinued the  
+All papers sent by mail, arc discontinued the  
 on wlrich the advance payment expires.  
 WHY DO NT YOU TAKE THE PAPERS.  
 I Why don&#x27;t you take the papers?  
@@ -3315,7 +3261,7 @@ He bought a box—and is he dead?
 No, hearty as a horse!  
 I knew a printer&#x27;s debtor once  
 Racked wiih a scorching fever,  
-Who swore t
+Who swore to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846100301:0975/pct:2.173913,23.462288,14.355660,12.134706/!600,600/0/default.jpg"/>
 </td>
@@ -3329,7 +3275,7 @@ Who swore t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- gained no  
+gained no  
 ground for it in the late election in Pennsylvania.  
   
 take the papers.  
@@ -3359,7 +3305,7 @@ Wbo swore to pay her bill next day.
 If her disease would leave her.  
 Next morning she was at her work.  
 Divested of her pain ;  
-But did forget to pay her deb
+But did forget to pay her debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846102401:0308/pct:66.533747,16.531779,14.960863,14.168555/!600,600/0/default.jpg"/>
 </td>
@@ -3373,7 +3319,7 @@ But did forget to pay her deb
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.Vhy don&#x27;t you take tbe papers?  
+Vhy don&#x27;t you take tbe papers?  
 i &#x27;&quot; They art the life of my delight  
 V 1 Except about election ti rnes,  
 :, t And then I read for apite.  
@@ -3395,7 +3341,7 @@ Of some new pills in force;
 He bought a box and is he dead !  
   
 No! bearty as a none.  
-I knew, 
+I knew, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846110701:0570/pct:6.847650,8.629880,12.418963,11.727417/!600,600/0/default.jpg"/>
 </td>
@@ -3409,7 +3355,6 @@ I knew,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two men as much alike  
 Ase&#x27;eryqu saw two stumps,  
 &#x27; And no phrenologist could find  
@@ -3425,7 +3370,7 @@ And killed him &quot; worry good.&quot;
 Had he been reading of the news  
 At home like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
-Had never happened hi
+Had never happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846110701:0570/pct:7.901135,26.840513,11.142626,8.788359/!600,600/0/default.jpg"/>
 </td>
@@ -3441,7 +3386,7 @@ Had never happened hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. I knew two friends as much  
+I knew two friends as much  
 alike, As e&#x27;er you saw two stumps ¡ And  
 no phrenologist could find, À difference  
 in their bumps. One took&quot; a paper and  
@@ -3453,7 +3398,7 @@ the wood, Ä tree fell down upon his
 crown, And hurt him, ns it should ! Had  
 he been reading of tho news At home,  
 like neighbour Tim, I&#x27;ll bet a cent this  
-accident, Had not befallen lum ! 
+accident, Had not befallen lum ! A
 </td></tr></table>
 
 ---
@@ -3464,7 +3409,6 @@ accident, Had not befallen lum !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-n  
 was guilty of the trick.  
 Take A Newspaper. The advantage of tak  
 ing a newspaper is made very clear in the follow­  
@@ -3477,7 +3421,7 @@ I took the paper and I read
 Of some new pills in force;  
 He bought a box--and is he dead?  
 No--hearty as a horse!  
-
+M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847092301:0575/pct:82.972530,67.105263,12.370384,7.479224/!600,600/0/default.jpg"/>
 </td>
@@ -3491,7 +3435,7 @@ No--hearty as a horse!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the benefits of the press,  
+of the benefits of the press,  
   
 Merely taking a paper, however, won’t save  
 the patient—the paying for it is what effects  
@@ -3509,7 +3453,8 @@ I took the paper and I read
   
 Of some new pills in force;  
 He bought a box—and is he dead?  
-No—hearty as a horse!
+No—hearty as a horse!  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_maine-farmer_1847-09-30_15_39%2Fsim_maine-farmer_1847-09-30_15_39_jp2.zip%2Fsim_maine-farmer_1847-09-30_15_39_jp2%2Fsim_maine-farmer_1847-09-30_15_39_0001.jp2/pct:29.987421,47.348865,11.635220,6.226150/600,/0/default.jpg"/>
 </td>
@@ -3523,8 +3468,6 @@ No—hearty as a horse!
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Has leit his Hopes with all.  
   
 TAKE A PAPER.  
@@ -3547,7 +3490,7 @@ rotiricat.
   
 Three Truisms make one Platitude,  
 Four Platitudes make one Argument,  
-Two Arguments make one Speec
+Two Arguments make one Speech
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1847102101:0041/pct:4.241128,9.914972,14.586834,10.907593/!600,600/0/default.jpg"/>
 </td>
@@ -3561,10 +3504,11 @@ Two Arguments make one Speec
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27; An old newsmonger friend of , I  
+An old newsmonger friend of , I  
 While dying of the cough,  
 Desired to hear the latest news,  
-While he was going Off.
+While he was going Off.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002336%2F1847110601%2F0177.jp2/pct:83.407120,35.023294,8.922118,1.325706/!600,600/0/default.jpg"/>
 </td>
@@ -3578,7 +3522,7 @@ While he was going Off.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-(7 The advantages of taking a news  
+7 The advantages of taking a news  
 paper is made very clear by the following  
 lines :  
 An old newsmonger friend of mine  
@@ -3590,7 +3534,7 @@ O some new pfll in force,
 He bought a box--and is he dead?  
 N  
 b hearty as a horse!  
-Fro
+From
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TarSouth23n_ver01%2Fdata%2F1847121101%2F0605.jp2/pct:21.261416,43.878690,18.336187,10.477736/!600,600/0/default.jpg"/>
 </td>
@@ -3604,7 +3548,6 @@ Fro
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 An old newsmonger friend of mine  
 While dying of a cough,  
 Desired io hear the latest news  
@@ -3613,7 +3556,7 @@ I took the paper, and I read
 Of some new pills in force;  
 He bought a box &quot;and is he dead?&quot;  
 . &quot;No! hearty as a horse!&quot;  
-A Bea
+A Bear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848032301:0617/pct:44.205882,41.042307,9.588235,5.329709/!600,600/0/default.jpg"/>
 </td>
@@ -3627,7 +3570,6 @@ A Bea
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don&#x27;t you take the papers?  
 They&#x27;ro -the life of my dolight!&quot;  
 Except about election times,  
@@ -3636,7 +3578,7 @@ Subscribe, you cannot lose a cent;
 Why should you be afraid ?  
 For cash thus paid is money lent  
 On interest four fold paid.  
-From the New Orleans Picayune of th
+From the New Orleans Picayune of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848042201:0494/pct:20.343331,26.016005,12.194159,7.013965/!600,600/0/default.jpg"/>
 </td>
@@ -3660,7 +3602,7 @@ From the New Orleans Picayune of th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-iy DON&#x27;T YOU TAKE THE PAPERS?  
+y DON&#x27;T YOU TAKE THE PAPERS?  
 DV G. r WALLAS.  
 Why c!o:.&#x27;t you l^kc the paper?  
 They arc &#x27;the life of rny delight!&quot;  
@@ -3720,7 +3662,8 @@ For ho who takes the papers,
 Ami pays his bil1 when due,  
 Can live at peace with God and man,  
   
-Anil wr.ii me i in.ic. iuo.
+Anil wr.ii me i in.ic. iuo.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:19.403670,12.542735,13.792049,36.025641/!600,600/0/default.jpg"/>
 </td>
@@ -3734,7 +3677,7 @@ Anil wr.ii me i in.ic. iuo.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y  
+  
   
 Why don&#x27;t you take the Papers!  
 BY G.P. WALLAS.  
@@ -3757,7 +3700,8 @@ While he was going off.
 I took the paper and I read  
 Of sume naw pills in force;  
 He bought a box--and is he dead?  
-No! hearty as a horse.
+No! hearty as a horse.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849060801:0291/pct:4.171169,37.923607,13.810244,12.349225/!600,600/0/default.jpg"/>
 </td>
@@ -3771,8 +3715,6 @@ No! hearty as a horse.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Printer&#x27;s debtor once,  
   
 Racked with a scorching fever,  
@@ -3813,7 +3755,7 @@ And with the Printer tho.
   
 Miscellaneous.  
   
-AnCIE
+AnCIEN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849060801:0291/pct:4.646639,45.318782,25.027015,26.306720/!600,600/0/default.jpg"/>
 </td>
@@ -3827,7 +3769,6 @@ AnCIE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-•  
 &quot; Hi DO.NTiOV TAKE THE PAPERS?­  
 EV x. r. WILLIS.  
 Why don’t you take the papers  
@@ -3888,7 +3829,8 @@ For he who takes t lie papers,
 And pays his bill when due,  
 Can live in peace with God and man,  
 • And with the printer too,  
-J FOREIGN INTELLIGENCE. ~
+J FOREIGN INTELLIGENCE. ~  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849062501:0372/pct:48.916409,12.383639,15.006374,37.531735/!600,600/0/default.jpg"/>
 </td>
@@ -3912,7 +3854,7 @@ J FOREIGN INTELLIGENCE. ~
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to make their  
+to make their  
 purchases of me inthe above line.  
 Rio Grande Citv May 31-je9 3m J. P. KELSEY.  
 MISCELLANEOUS.  
@@ -3972,7 +3914,7 @@ A paper every week.
 For he who takes the papers  
 And pays his bill when due  
 Can live in peace with God and man  
-And with the printer too. N. 
+And with the printer too. N. P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://texashistory.unt.edu/iiif/ark:/67531/metapth80236/m1/1/pct:28.133333,12.118451,42.666667,83.644647/!600,600/0/default.jpg"/>
 </td>
@@ -3986,7 +3928,6 @@ And with the printer too. N.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 TFnP Don&#x27;t wow take the PapersI  
 BY.N.  
 WILLIS.  
@@ -4045,7 +3986,8 @@ A paper every week
 For he who takes the papers?  
 And pays his bill when due,  
 Can live in peace with God and man,  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849072101:0917/pct:3.567086,48.181204,13.700851,41.122380/!600,600/0/default.jpg"/>
 </td>
@@ -4059,7 +4001,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- p  
+p  
 WHY DON.T YOU TAKE THE PAPERS! V  
 BT N. r. WILLIS. J  
 Why don&#x27;t you tako tlio papers! S  
@@ -4127,7 +4069,7 @@ Han live in peace -with God and man.
 And with tho printer too.  
 !HIS ELLA1VE01JS.  
 i  
-PUNCH O
+PUNCH ON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1849072101:0042/pct:3.977835,4.788732,20.225609,47.672703/!600,600/0/default.jpg"/>
 </td>
@@ -4151,8 +4093,6 @@ PUNCH O
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 krfen4tvn friends as much alike  
 An e&#x27;er you saw two&#x27;stnnans  
 Amd nn idirenologiet could find  
@@ -4171,7 +4111,8 @@ The other took no papers, and
 ma he been reading of the nett■  
 At borne. tike neighbor Ilm, •  
 121 bet a cent this accident  
-/lad not befallen him.
+/lad not befallen him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_falacer_ver01%2Fdata%2Fsn84026251%2F000002338%2F1849100601%2F0156.jp2/pct:7.488708,8.320312,6.639566,7.045455/!600,600/0/default.jpg"/>
 </td>
@@ -4185,7 +4126,7 @@ At borne. tike neighbor Ilm, •
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 4  
+4  
   
 WHY DON’T YOU TAKE THE  
 PAPERS.  
@@ -4193,7 +4134,8 @@ By N. P. Willis.
 Why don’t you teke the pepars?  
 _ They&#x27;re ‘the lifeof my delight,’  
 Except about elestion time,  
-“.-  Apd then | teaé for spite,
+“.-  Apd then | teaé for spite,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_huntress_1849-10-20_12_31%2Fsim_huntress_1849-10-20_12_31_jp2.zip%2Fsim_huntress_1849-10-20_12_31_jp2%2Fsim_huntress_1849-10-20_12_31_0001.jp2/pct:75.829787,6.936018,18.787234,7.515168/600,/0/default.jpg"/>
 </td>
@@ -4207,8 +4149,6 @@ Except about elestion time,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 While he wae going of.  
   
 ‘I took @ paper and 1 read  
@@ -4254,7 +4194,7 @@ A‘diBerence im their bumps.
   
 ‘One icok the ‘papers, and his life  
 is happier than a Kings,  
-His chifdran al. can read aud writ
+His chifdran al. can read aud write
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_huntress_1849-10-20_12_31%2Fsim_huntress_1849-10-20_12_31_jp2.zip%2Fsim_huntress_1849-10-20_12_31_jp2%2Fsim_huntress_1849-10-20_12_31_0001.jp2/pct:52.595745,27.316602,42.702128,26.654716/600,/0/default.jpg"/>
 </td>
@@ -4268,7 +4208,7 @@ His chifdran al. can read aud writ
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- e thpers  
+e thpers  
 Why do&#x27;t you take the papers  
 They&#x27;re &quot;the life of my delight;&quot;  
 Except about election time,  
@@ -4324,7 +4264,7 @@ A paper .ery week.
 takes the ppers,  
 I- LM when due,  
 Can firve 1 any man,  
-And wi
+And wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn86053688:00202190194:1849112901:0199/pct:8.836554,8.301630,13.989533,39.864130/!600,600/0/default.jpg"/>
 </td>
@@ -4338,12 +4278,11 @@ And wi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 He who takes the papers,  
 And pays the bill when due.  
 Can live in peace with God and man,  
 And with the printer too,  
-To Ascertai
+To Ascertain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849120101:0618/pct:11.574746,21.051272,12.899129,3.293297/!600,600/0/default.jpg"/>
 </td>
@@ -4357,7 +4296,7 @@ To Ascertai
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-BY bout VOV TAKE THE PAPERS I  
+Y bout VOV TAKE THE PAPERS I  
 »r m. r. wnui  
 Why don&#x27;t roe take the papers 1  
 Thsy &#x27;re the life of my Might;  
@@ -4414,7 +4353,7 @@ era?
 Why;don’t you take the paper  
 Njj4 from the printer aneak,  
 Because jroa borrow of hit bejr 4  
-Ajphpe
+Ajphper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851021401:0329/pct:4.193331,25.116966,12.344224,23.774932/!600,600/0/default.jpg"/>
 </td>
@@ -4438,8 +4377,6 @@ Ajphpe
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Why Don&#x27;t You Take the Paper. 1r  
   
 BY N. P. WILLIS  
@@ -4507,7 +4444,7 @@ A paper every week.
 For he who takes the papers&#x27;  
 And pays timbal when due, •  
 Can live in peace with Uwl and want  
-And with the printers too
+And with the printers too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fauna_ver01%2Fdata%2Fsn85038381%2F000002393%2F1851112101%2F0139.jp2/pct:54.418960,14.662630,12.257900,28.319637/!600,600/0/default.jpg"/>
 </td>
@@ -4521,7 +4458,7 @@ And with the printers too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-satin.  
+atin.  
 WHY DON’T YOU TAKE A PAPER?  
 (From N. P. Willis.)  
 ‘I knew two men so much alike,  
@@ -4547,7 +4484,8 @@ A paper every week.
 For he who takes the papers,  
 And pays his bill when due,  
 Can live in peace with God and man,  
-And with the printer too,’
+And with the printer too,’  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_eisenhower_ver01:data:sn84023818:0051701543A:1852030601:0030/pct:54.630698,10.229446,11.771495,15.434459/!600,600/0/default.jpg"/>
 </td>
@@ -4561,7 +4499,6 @@ And with the printer too,’
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don&#x27;t you take the Paper!  
 BYN.F WILlIs.  
 Why don&#x27;t you take the papers?  
@@ -4609,7 +4546,7 @@ White stralting thronga the wood,
 O trae fell down npon his cronn,  
 sthal hin&quot;warry good.&quot;  
 Had he been rnading of the news,  
-At hom
+At home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1852031101:0252/pct:1.470318,19.507710,11.725786,24.048663/!600,600/0/default.jpg"/>
 </td>
@@ -4623,7 +4560,6 @@ At hom
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 No other rights than these she asks.  
 WHY DON&#x27;T YOU TAKE A PAPER?  
 BY N. P. WILLIS.  
@@ -4650,7 +4586,8 @@ A paper every week.
 For he who takes the papers,  
 And pays his bill when due,  
 Can live in peace with God and man,  
-And with the printer, too.”
+And with the printer, too.”  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_isolation_ver01:data:sn84022932:0054286848A:1852032001:0256/pct:6.397929,33.092526,10.392012,12.253404/!600,600/0/default.jpg"/>
 </td>
@@ -4664,7 +4601,6 @@ And with the printer, too.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two men as much alike,  
 As e&#x27;er you saw twe stumips,  
 And no phrenologist could find  
@@ -4680,7 +4616,7 @@ And kill&#x27;d him--&quot;werry good.&quot;
 Had he been reading of the niews  
 At home like neighhor Jim,  
 I&#x27;ll bet a cent that arcident  
-Would not have happen&#x27;d hi
+Would not have happen&#x27;d him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853120201:0195/pct:28.193485,32.480702,7.502468,6.599062/!600,600/0/default.jpg"/>
 </td>
@@ -4694,7 +4630,7 @@ Would not have happen&#x27;d hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- health upon her brow.  
+health upon her brow.  
 I knew two men as much alike,  
 As e&#x27;er you saw two stumps,  
 And no phrenologist could find  
@@ -4718,7 +4654,7 @@ A paper every week.
 For he who ttkes the papers.  
 And pays his bill when due,  
 Can live at peace with God and man,  
-And with the printer too
+And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OldNSEC2n_ver02%2Fdata%2F1853120301%2F0387.jp2/pct:54.254478,33.491047,10.695469,13.934502/!600,600/0/default.jpg"/>
 </td>
@@ -4732,7 +4668,6 @@ And with the printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Whyd jn&#x27;t you take the papers5  
 They arc &quot;ti,e life of my t. !&quot;&#x27;  
 Exeept about rlection times,  
@@ -4753,7 +4688,7 @@ I look the paper and I nad
 Of some new pill- in for^e;  
 Hi- bought a box ? and is h. dead?  
 No! hearty as a horse.  
-I kn w 
+I kn w a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1853121001:0221/pct:34.485702,17.588326,12.035851,14.199309/!600,600/0/default.jpg"/>
 </td>
@@ -4767,7 +4702,7 @@ I kn w
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the assoclation, and we wil  
+of the assoclation, and we wil  
 take the liberty to say, though we need  
 a e e  
 lavorably with that of any other coune  
@@ -4802,7 +4737,8 @@ author to his servant.
 &quot;Only the paper that&#x27;s written all  
 to lover I have&#x27;nt touched the clean,&#x27; was  
   
-the reply.
+the reply.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1855031601:0341/pct:35.375447,77.559827,10.381406,18.369949/!600,600/0/default.jpg"/>
 </td>
@@ -4816,7 +4752,6 @@ the reply.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 A wag says he looks under the Mar­  
 riage head of the papers for the news of the  
 seakAn exchange remarks- Had he said  
@@ -4824,7 +4759,7 @@ noose of the weak, the atrocity of the slander
 would have been complete, and placed him  
 beyond the hope of mercy.  
 LAn Irishman who had blistered his  
-finger, in endeavori
+finger, in endeavorin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157340:1855040501:0054/pct:6.172840,50.523423,12.079317,4.242999/!600,600/0/default.jpg"/>
 </td>
@@ -4838,7 +4773,7 @@ finger, in endeavori
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-fr. The advantages of  
+r. The advantages of  
 taking a newspaper is made clear by tha fol  
 lowing line::  
 An old newsmonger friend of mine,  
@@ -4848,7 +4783,8 @@ When he was going cff.
 1 took the paper aud I read  
 Of some new pills in force;  
 i&#x27;e bought a bn and is he dead?  
-No hearty as a horn.
+No hearty as a horn.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855040601:0065/pct:18.693694,13.168097,12.443694,5.441706/!600,600/0/default.jpg"/>
 </td>
@@ -4862,7 +4798,6 @@ No hearty as a horn.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 A wag says he looks under the marriage  
 head for the news of the weak. An ex­  
 change remarks,--had he said noose of the  
@@ -4871,7 +4806,7 @@ been complete, and placed him beyond the
 hope of mercy.  
 A person once sent a note to a waggish  
 friend for the loan of his noos paper, and  
-received i
+received in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1855041401:0175/pct:85.349879,89.340886,10.944502,4.235324/!600,600/0/default.jpg"/>
 </td>
@@ -4885,12 +4820,12 @@ received i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 A wag says he looks under the Marriage head of  
 the papers for the news of the weak. An exchange remarks,  
 Had he said 7iooae of the weak, the atrocity, of the slander  
 would have been complete, and placed him beyond thehi;pe  
-of mercy.
+of mercy.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn86079110:00295872433:1855041401:0383/pct:18.629630,39.506481,14.537037,1.844467/!600,600/0/default.jpg"/>
 </td>
@@ -4904,13 +4839,13 @@ of mercy.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 A. wag says he looks under tho Marriage  
 head of the papers for the news of the weal-.  
 An exchange remarks : Had he said noose of  
 the weak, the atrocity, of the slander would  
 have been complete, and placed him beyond  
-the hope of mercy.
+the hope of mercy.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064450:00295878629:1855042801:0069/pct:17.905405,89.890438,14.909910,3.917663/!600,600/0/default.jpg"/>
 </td>
@@ -4924,13 +4859,13 @@ the hope of mercy.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to eat and drink.  
+to eat and drink.  
 A wag says he looks under the marriage  
 head of the papers for the news of the weak.  
 An exohange remat.~ &quot;had he said noose of  
 the weak, the atrocty of slander would have  
 been complete, aadl placed him beyond the  
-hope of merc
+hope of mercy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn83016483:00212475142:1855070401:0202/pct:5.886995,86.070416,13.083965,3.686200/!600,600/0/default.jpg"/>
 </td>
@@ -4944,7 +4879,6 @@ hope of merc
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 nr* The advantage of taking a newspaper is  
 clear by the following lines:—  
 An old newsmonger friend of mine.  
@@ -4960,7 +4894,7 @@ were a widower, Vr. Scaly? You said that
 tonr Wife Was not dead ?” “No. sir, the ain&#x27;t  
 fead; hnt she ran away yesterday with Slo­  
 some, the pork brttcher. and it’s my opinion  
-i hat he&#x27;* dead by thi
+i hat he&#x27;* dead by this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1855081101:0507/pct:31.850982,76.721843,14.885048,8.531080/!600,600/0/default.jpg"/>
 </td>
@@ -4974,8 +4908,6 @@ i hat he&#x27;* dead by thi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Why don&#x27;t You take the Paper ?  
   
 BY N. P. WILLIS.  
@@ -5026,7 +4958,8 @@ A paper every weak.
 For he who takes the paper,  
 And pays his bill when due,  
 Can liva in peace with God and man,  
-And with the printer, too.
+And with the printer, too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557499:1856041101:0169/pct:58.036697,8.827404,11.853211,26.526131/!600,600/0/default.jpg"/>
 </td>
@@ -5042,13 +4975,13 @@ And with the printer, too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--. An old newsmonger  
+. An old newsmonger  
 friend of thine, While dying of a cough,  
 Desired to hear tho latest news While he  
 was going off. 1 took the paper, and I  
 read Of soma new pills in force; He  
 bought a box-and is he defid 1 No-hearty  
-as an ors
+as an orso
 </td></tr></table>
 
 ---
@@ -5059,7 +4992,6 @@ as an ors
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 whY DONT YOu taee the  
 Pers  
 BY N. P. Willis.  
@@ -5120,7 +5052,7 @@ Apaner every week.
 For he who takes the papers,  
 And pays his bills when due,  
 Cin live at peace with God and mal  
-And with the printer too
+And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1856121001:0203/pct:3.157528,8.109747,12.540465,43.902531/!600,600/0/default.jpg"/>
 </td>
@@ -5134,7 +5066,6 @@ And with the printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends as near dike  
 As e&#x27;er you saw-two stumps,  
 And no phrenologist could tell  
@@ -5150,7 +5081,8 @@ And killed him as it should.
 Had he been reading of the news  
 At home like neighbor Jim,  
 I&#x27;ll bet a cent Ihnt accident  
-Would not have happened him.
+Would not have happened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1857012201:0227/pct:30.492424,46.795261,11.212121,11.026731/!600,600/0/default.jpg"/>
 </td>
@@ -5164,7 +5096,6 @@ Would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends as much alike  
 ? As e&#x27;er you saw two stamp*;  
 And no phrenologist could find  
@@ -5181,7 +5112,7 @@ Had he heen roading of the news,
 At homo, like neighbor Jim,  
 I&#x27;ll hot a cent the accident  
 Would not befallen him.  
-THE MINISTE
+THE MINISTER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1857022001:0229/pct:30.575789,13.028620,10.423170,10.750392/!600,600/0/default.jpg"/>
 </td>
@@ -5195,7 +5126,6 @@ THE MINISTE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-•  
 WHY DON’T YOU TAKE THE  
 PAPERSI  
 BY N. P. WILLIS.  
@@ -5254,7 +5184,8 @@ A paper every week;
 For he who takes the papers,  
 And pays his bills when due,  
 Can live in peace with God and man,  
-And with the primer too.
+And with the primer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn83016799:00199919878:1857040201:0235/pct:20.461733,16.692029,14.120810,42.432401/!600,600/0/default.jpg"/>
 </td>
@@ -5268,8 +5199,6 @@ And with the primer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I  
   
 Why DONMT YOu TakE thE Paper  
@@ -5338,7 +5267,7 @@ Town Making
 A gentleman recently teturned from the  
 west, relates that in setting out early in  
 the morning from the place where he had  
-passed the night, he c
+passed the night, he co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1857102301:0242/pct:18.193525,13.762122,12.343635,43.197376/!600,600/0/default.jpg"/>
 </td>
@@ -5352,7 +5281,6 @@ passed the night, he c
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 WPY DON&#x27;T YOU TAKE THE  
 PER.  
 BY N. P. waus.  
@@ -5419,7 +5347,7 @@ ling leaves of tbe season. Tbey contain
 nearly throe times as tnueh nitrogon as  
 ordinaiy barn-yard manure.  
 A voting lady was asked recently how  
-the coul
+the could
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1857111201:0835/pct:5.641422,42.669377,12.712519,45.867209/!600,600/0/default.jpg"/>
 </td>
@@ -5433,7 +5361,7 @@ the coul
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- paid.  
+paid.  
 An old newspaper friend f mine.  
 While dying from a cough,  
 2esird to Jcar the latest sews.  
@@ -5484,7 +5412,7 @@ SPECIAL PROVIDENCES.
 The Rev Dr. D , a men of .-rtuivn- j  
 mm strength, of muscular buii&#x27;i, nrnl very J  
 lare statu:?, us a (inn Ic licwr in the!  
-rfocirine o
+rfocirine of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286893:1857111801:0080/pct:6.397516,12.418929,10.776398,23.949075/!600,600/0/default.jpg"/>
 </td>
@@ -5498,8 +5426,6 @@ rfocirine o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Why Don&#x27;t You take the Paper.  
   
    
@@ -5602,7 +5528,8 @@ For he who takos the papers,
 &quot;an live in peace with Ged and man,&quot;  
 And the pinter toe  
   
-OYe.
+OYe.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:0029602885A:1857120301:0009/pct:2.873421,51.626591,31.508546,44.748939/!600,600/0/default.jpg"/>
 </td>
@@ -5616,7 +5543,7 @@ OYe.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-J :.  
+:.  
 MILLERSBUKG, HOLMES COUNTY, OHIO, THURSDAY, DECEMBER 24, 1857.  
 &#x27; NO. 18.  
   
@@ -5683,6 +5610,7 @@ lor he who takes the papers.
 And pays his bills when due, .  
 Can lire in peace with God and man,  
 v ., . And with the printer too.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1857122401:0292/pct:5.288822,13.047046,89.628657,38.922319/!600,600/0/default.jpg"/>
@@ -5697,7 +5625,7 @@ v ., . And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, Kt.  
+Kt.  
 HILLSeOroUGh, HiGHLAnd CoUnTY, oHlo, THUrSDAY, DECEMBER 31, 1857.  
 (One Dollar a Year;  
 Strictly in Advance.  
@@ -5776,7 +5704,7 @@ e eee eeee eeeee
   
   
   
-
+E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1857123101:0175/pct:5.075967,11.649197,86.809392,43.664588/!600,600/0/default.jpg"/>
 </td>
@@ -5790,7 +5718,6 @@ e eee eeee eeeee
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 He t Wis U flctri).  
 Why Don&#x27;t You Take tie Papers?  
 bt x. r. WILLIS.  
@@ -5853,7 +5780,7 @@ Nor from the printer sneak,
 For ho who takes the papers, .  
 And pays his bills when t!ue, 5 &quot;  
 Can live in peace with God and man -: &#x27; .  
-t And with the printer too. &#x27;
+t And with the printer too. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1858021101:0265/pct:6.112009,45.248075,13.677975,39.896676/!600,600/0/default.jpg"/>
 </td>
@@ -5867,8 +5794,6 @@ t And with the printer too. &#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 WHY DON’T YOU TAKE THE  
 PAPEHS T  
   
@@ -5936,7 +5861,8 @@ A paper every week.
 For lie who takes the papers,  
 And pays his bills when due,  
 Cau live at peace with God and man;  
-And with the Printer too.
+And with the Printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:0038334718A:1858021301:0264/pct:38.875909,11.113391,9.060228,22.042073/!600,600/0/default.jpg"/>
 </td>
@@ -5950,8 +5876,6 @@ And with the Printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Why. don&#x27;t you take the papers t  
 ;!rhey’re the “life of.my delight,&quot;  
 Exoeptabouteleotion-tiino,  
@@ -6000,7 +5924,7 @@ Bit jsbildren all can read and write,
 And&#x27; talk of men and things.  
   
 v ■ &#x27; J-.:-. ! , ■... L  
-The other took nopapers, an
+The other took nopapers, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_monroej_ver01%2Fdata%2Fsn83031964%2F000001713%2F1858021801%2F0009.jp2/pct:13.119983,36.104858,13.578698,26.519550/!600,600/0/default.jpg"/>
 </td>
@@ -6014,7 +5938,6 @@ The other took nopapers, an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 Why Dea&#x27;t You Take the Paperal  
 eYNir wiltis.  
 Why don&#x27;t you take the papely  
@@ -6073,7 +5996,8 @@ A paper every week.
 os hg wilt tane tas pape  
 And pays his bills when due.  
 Can live in peace with God and man,  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186956:1858022501:0445/pct:6.370086,9.478132,13.262390,32.423585/!600,600/0/default.jpg"/>
 </td>
@@ -6087,43 +6011,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- made Clothing at oond ap  
-,—--=orishrna.whe Moa la 6* Bargeis, mU  
-become pnesesnes of a  
-• -art loll os see ores* t  
-WPPPV 99 a SPUTP &quot;WTIYT LT” rrre rW  
-adoted with the SneolothesoMicing  
-AM  
-cassiagnihens.  
--h smonit hnll anns  
-•===omda0e4 with the Onent,  
-&quot;—W9999* **99 * 911001 1  
-: .... -d. t .  
-J amM oM. UMm ja VMM «  
-in the  
-acsaet.  
-by  
-■ 1.2.  
-‘•n  
-gC0MB TO 858 MsL  
-■■ 26? - - grregman.  
-soag. -012011701  
-&quot;_zune/ess104:  
-oicheit.  
-I»’  
-k 6  
-Am M. I tM&#x27;  
-nnagd  
-* aesis -705,2  
-0R t. . MaK  
-JTwsrg  
-wewe&quot; &quot;t  
-9P* 1  
-. - nanantottabinn.’  
-veespysmegommr,  
-2, T994 at erilind TTea :  
-  
-WIT BUT YOU tiM Til MRU.  
+BUT YOU tiM Til MRU.  
 BY a. P. WiLsH  
 Why don’t you take the papers?  
 They’re the tod w W« i  
@@ -6213,9 +6101,10 @@ I
 For be who takes the paper.  
 And pays his bills wheu due  
 Can lira in peace with God and  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016479:00516990740:1858030601:0219/pct:37.432578,10.973333,23.426825,86.026667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fluorite_ver01:data:sn82016479:00516990740:1858030601:0219/pct:49.910104,10.973333,10.949299,24.600000/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6227,25 +6116,6 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- sen e  
-down here on business.  
-&quot;She did?What kind of business are  
-you on?&quot;  
-&quot;Why, she wanted me to come down to  
-Bostin, and look reound and find half a  
-dozen of the biggest fules in Bestin, and  
-bring &#x27;em up country to edicate &#x27;em; and  
-I rather guess I&#x27;ve got my eye on &#x27;em  
-neow,&quot; said the stranger, taking the whole  
-crowd at a glance.  
-The next moment he had the edge-stone  
-to himself, where he quietly finished  
-his doughnut  e  
-T What part of a ship is like a farmer  
-The tiller, I as res tw te sa  
-  
-LAnCaSter, OHio, ThurSDaY MOrninG, MARCh 11, 1858,  
-  
 Why dontt you take the Papers!  
 Y NaTHariil y. WIlliss  
 Why don&#x27;t you take the papers?  
@@ -6300,9 +6170,9 @@ For he who takes the papers.
 And pays his bills when due.  
 Can live at peace with God and man;  
 And with the Printer two.  
-
+e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858031101:0732/pct:18.446069,18.205768,48.043876,76.996672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1858031101:0732/pct:31.444241,19.994454,11.663620,24.084859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6314,7 +6184,7 @@ And with the Printer two.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• I.fa detisht,&quot;  
+I.fa detisht,&quot;  
 Except about elect,: Lime,  
 And ttmn Irou.t fir spite.  
   
@@ -6366,7 +6236,7 @@ And &#x27;killed tinu—&quot; weary good.&quot;
   
 Lied he been readlnz of the newi,  
 At h,me, like ntdeb&#x27;•or Jim,  
-I&#x27;ll b
+I&#x27;ll be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_ferentina_ver01%2Fdata%2Fsn85054567%2F000002484%2F1858032401%2F0081.jp2/pct:78.354994,18.451137,7.432827,15.929666/!600,600/0/default.jpg"/>
 </td>
@@ -6380,7 +6250,6 @@ I&#x27;ll b
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Take the Papers!  
 BY N. P. willis.  
 Why don&#x27;t you take the papers?  
@@ -6447,7 +6316,7 @@ And pays his bills when due,
 Can live in peace with God and man,  
 And with the printer too.  
 a  
-Deat
+Death
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1858032701:0621/pct:3.337740,7.310266,17.509363,35.311743/!600,600/0/default.jpg"/>
 </td>
@@ -6461,7 +6330,7 @@ Deat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the Sergent-at-  
+the Sergent-at-  
 ia nt the opeaner  
 TAKe The PaPers!  
 BYN.P. WILLIS.  
@@ -6523,7 +6392,7 @@ Can live in peace with God and man,
 And with the printer too,  
   
 From the Springfield Republican.  
-
+T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858032701:0275/pct:16.358944,10.774874,25.253127,84.120434/!600,600/0/default.jpg"/>
 </td>
@@ -6537,7 +6406,6 @@ From the Springfield Republican.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 TAKE THE PAPERS.  
 BY X. P. WILLIS.  
 Why don&#x27;t you take the papers ?  
@@ -6596,7 +6464,8 @@ A paper every week.
 For he who takes the papers,  
 And pays Ins bills when due,  
 Can live in peace with (Jod and man,  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767754:1858032701:0423/pct:34.120917,16.950604,15.066018,46.511849/!600,600/0/default.jpg"/>
 </td>
@@ -6610,7 +6479,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to the unwholesome looking young  
+to the unwholesome looking young  
   
 man, prematurely bald and spectacled,  
   
@@ -6645,7 +6514,8 @@ Divested of her pain.
   
 33ut did forget to pay her  
   
-Till taken down
+Till taken down  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1858042201:0531/pct:4.954819,33.417085,57.861446,25.041876/!600,600/0/default.jpg"/>
 </td>
@@ -6659,8 +6529,6 @@ Till taken down
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 &quot;Flcre, Jessie, take those -silver wheel:  
 And pay the printer now !&quot;  
 She clrpt and slept, and then awoke,  
@@ -6694,7 +6562,8 @@ A paper every week.
 For he who takes the papers,  
 Aud pays his bills when due,  
 Gan live in peace with Go l aud man,  
-Aud with the printer too.
+Aud with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1858042201:0531/pct:4.653614,58.961474,13.237952,21.335846/!600,600/0/default.jpg"/>
 </td>
@@ -6708,8 +6577,6 @@ Aud with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Why don&#x27;t you take the Papers?  
 BY N.P. WILLIs.  
 Why don&#x27;t you take the papers?  
@@ -6766,7 +6633,7 @@ And pays his bills when due,
 Can live in peace with God and man,  
 And with the printer, too.  
   
-From the 
+From the D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858042301:0274/pct:6.989172,45.689918,10.312661,26.056791/!600,600/0/default.jpg"/>
 </td>
@@ -6780,7 +6647,7 @@ From the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-..  
+.  
 I knew two men, m much alike&#x27; P  
 &quot;&#x27;. As&#x27;er&#x27;y &#x27;saw tWostumpV  
 And no phrenologist Could find I- ii.&#x27;.iJ  
@@ -6808,7 +6675,7 @@ For he who takes the papers.
 C&#x27;HU  
 And pays&#x27;hi. bills when due,&#x27;&#x27;&#x27;&#x27; &#x27;&quot;9&quot;  
 &#x27; 1 Oan live in peace with God hnd &#x27;man,&#x27;  
-y&#x27;U m And with tb. printer too&#x27;, ms
+y&#x27;U m And with tb. printer too&#x27;, ms 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:0029602885A:1858042301:0087/pct:80.945122,14.539899,14.253049,18.008627/!600,600/0/default.jpg"/>
 </td>
@@ -6822,7 +6689,7 @@ y&#x27;U m And with tb. printer too&#x27;, ms
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-• I Isrw two men, as much alike,  
+I Isrw two men, as much alike,  
 As e&#x27;er you saw two stumps;  
 And no phrenologist could find  
 - A difference in their bumps. •  
@@ -6852,7 +6719,7 @@ And with the printer too.
   
 TH$ WILD WHITS MAN.  
   
-, ♦ ROMANCE 
+, ♦ ROMANCE O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_arimanius_ver01%2Fdata%2Fsn84026111%2F000001963%2F1858050601%2F0065.jp2/pct:7.116186,17.354449,9.764675,13.086477/!600,600/0/default.jpg"/>
 </td>
@@ -6866,7 +6733,6 @@ TH$ WILD WHITS MAN.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 reath  
 e e  
 Take the Papers!  
@@ -6927,7 +6793,7 @@ For he who takes the papers,
 And pays his bills when due,  
 Can live in peace witn God and man,  
 And with the printer too.  
-
+a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858050701:0841/pct:4.363281,27.388535,13.818537,37.598919/!600,600/0/default.jpg"/>
 </td>
@@ -6941,7 +6807,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- three weeks earlier,  
+three weeks earlier,  
 it muee be dons le it hea seled masia  
 of the gardener- the first and best of everg.  
 e pe ee set o aer  
@@ -7005,7 +6871,7 @@ And pays his bills when dhe,
 Can live in peace with God and man,  
  And with the printer, too.  
   
-e  e e e e e e e e  e e e e e e e e e 
+e  e e e e e e e e  e e e e e e e e e e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1858050701:0033/pct:20.565384,16.098724,29.804362,76.419857/!600,600/0/default.jpg"/>
 </td>
@@ -7019,7 +6885,6 @@ e  e e e e e e e e  e e e e e e e e e
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 nt  
 TAKE THE PAPERS.  
 i­  
@@ -7091,7 +6956,7 @@ to
 to  
 1  
 the  
-an
+and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn86053686:00295874405:1858052901:0084/pct:32.240741,39.780043,16.740741,39.096030/!600,600/0/default.jpg"/>
 </td>
@@ -7105,7 +6970,6 @@ an
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Take the Papers.  
 LY 5. r. WILLIS.  
 Why don&#x27;t youJako the papers,!  
@@ -7159,7 +7023,7 @@ Would not have happeuo-I him.
 Why don&#x27;t you take (ho papers Î  
 Nor from (lie printer sneak,  
 Because tou borrow from his boy  
-A paper cverv week
+A paper cverv week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064150:00295878630:1858063001:0151/pct:82.192533,14.093011,13.561493,36.459404/!600,600/0/default.jpg"/>
 </td>
@@ -7173,8 +7037,6 @@ A paper cverv week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
-  
 Why Don’t You Take the PoperN,   
 BY N. P. WILLIS.   
 Why don’t you take the papers?   
@@ -7230,7 +7092,7 @@ And pays his bill when due,
 Can live in peace with God and man,  
 And with the printer too.   
   
-For th
+For the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151374:1858071501:0017/pct:26.787430,12.474283,9.372856,26.691933/!600,600/0/default.jpg"/>
 </td>
@@ -7244,7 +7106,6 @@ For th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;  
 Wby don&#x27;t you take the pipora T  
 They&#x27;re tLa life of my delight ;  
 Exoept about election time.  
@@ -7302,7 +7163,8 @@ A paper every week.
 . For he who takes the parera.  
 And paya fa is bills when due.  
 Can live In peace with God and man.  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858110301:0509/pct:5.021174,9.284705,9.664247,28.971363/!600,600/0/default.jpg"/>
 </td>
@@ -7316,7 +7178,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-; .  
+.  
 Take the Papers.  
 BY N. P. WILLIS.  
 Why don’t you take the papers ?  
@@ -7377,7 +7239,7 @@ And with the Printer, too.
 THE  
 BAB AT ASIAN CHIEF.  
 -,  
-A TALE FOUNDED O
+A TALE FOUNDED ON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1858111101:0008/pct:6.736189,25.206471,14.148816,44.563865/!600,600/0/default.jpg"/>
 </td>
@@ -7391,8 +7253,6 @@ A TALE FOUNDED O
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Take the Pnpcrs.  
 st y. r. Willis.  
 Why elon&#x27;t you take the papers?  
@@ -7450,7 +7310,7 @@ A ppr -every week.
 For he who takes the paper  
 And py his Bill when Da?.  
 Can lire iu rware with fiod and man  
-And with th printer 
+And with th printer f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859020301:0245/pct:18.217054,66.638341,9.593023,31.092794/!600,600/0/default.jpg"/>
 </td>
@@ -7537,7 +7397,6 @@ a
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
 Why don&#x27;t Your take the Papers?  
 ny oEo, a. WALlIs.  
 Why don&#x27;t yon take the papers?  
@@ -7599,7 +7458,7 @@ Can live in peace with God and man,
 e a i e ie oeee e  
 But he who takes the paper,  
 And pays not when &#x27;tis read,  
-Would sell his corn t
+Would sell his corn to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1859022501:1009/pct:4.398459,29.147347,13.974738,38.118238/!600,600/0/default.jpg"/>
 </td>
@@ -7623,7 +7482,6 @@ Would sell his corn t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 As.  
   
 Why don&#x27;t you take the papers?  
@@ -7684,6 +7542,7 @@ Can live in peace with God and man,
 And with the printer too.  
   
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1860030901:0746/pct:4.753852,14.416376,33.521233,30.211963/!600,600/0/default.jpg"/>
@@ -7698,7 +7557,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- PAPERS.  
+PAPERS.  
   
 Why don&#x27;t you take the papers?  
 They&#x27;re the life of my delight;  
@@ -7757,7 +7616,7 @@ And pays his bills when due,
 Can live in peace with Gon and man,  
 And with the printer too.  
   
-A Goon
+A Goon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn87067106:00279557438:1860111001:0838/pct:11.417323,6.075895,12.888233,31.626634/!600,600/0/default.jpg"/>
 </td>
@@ -7771,7 +7630,6 @@ A Goon
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why dou&#x27;t you take the papers ?  
 They&#x27;re &quot; the life of inj delight,&quot;  
 Except about election time,  
@@ -7798,7 +7656,7 @@ Who swore to pay her bill next day,
 If her distress would leave her.  
 Next morning she was, at her work,  
 Divested of her pain.  
-Bat did forget to pay her deb
+Bat did forget to pay her debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_jinx_ver01:data:sn84038112:00271741121:1864021201:0488/pct:3.469669,22.242647,8.409926,12.665441/!600,600/0/default.jpg"/>
 </td>
@@ -7812,7 +7670,6 @@ Bat did forget to pay her deb
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two frieuds as much alika  
 As erer you saw two stumps;  
 And no phienolugist could find  
@@ -7828,7 +7685,8 @@ And hurt him, as it should ! !
 IJad he been readin of the news  
 At home like neighbor Jim,  
 I&#x27;ll let a cent this accident  
-Woald not have befalien him.
+Woald not have befalien him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477655:1865011101:0257/pct:8.418716,21.547665,12.995219,9.952908/!600,600/0/default.jpg"/>
 </td>
@@ -7842,7 +7700,7 @@ Woald not have befalien him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-I TAKE THE PAPERS.  
+TAKE THE PAPERS.  
 BT N. P. WILLIS.&#x27;  
 Why don’t you take tho papers ?  
 They&#x27;re tho life of my delight;  
@@ -7916,7 +7774,7 @@ m Sii«wllirnnni«.
   
 UNDER THE CHARCOAL,  
   
-.j|ln New York you m
+.j|ln New York you mn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_nixonrm_ver01%2Fdata%2Fsn83032169%2F000001745%2F1865072701%2F0115.jp2/pct:5.952163,27.852102,10.891679,39.190679/!600,600/0/default.jpg"/>
 </td>
@@ -7930,7 +7788,7 @@ UNDER THE CHARCOAL,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-other doe after the first insertion.  
+ther doe after the first insertion.  
 TAHC THE PAPERS.  
 BT M. P. WILLIS.  
 Why don&#x27;t you take the papers ?  
@@ -7992,7 +7850,7 @@ And with the printer too.
 1 Point of Order.  
 una ot the members of the Lower House  
   
-ot the legislature of New York, rejoiced i
+ot the legislature of New York, rejoiced in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn85025182:00212477898:1865080201:0226/pct:5.885650,23.633816,12.528027,46.578702/!600,600/0/default.jpg"/>
 </td>
@@ -8006,7 +7864,6 @@ ot the legislature of New York, rejoiced i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Wby don&#x27;t you tako the papers?  
 They&#x27;re the lire of my delight)  
 Except about election time,  
@@ -8027,7 +7884,7 @@ While bo was dying off.
 Of tome new pllla In force;  
 lie bought n box and It be dead t  
 No hearty a a honro.  
-I knew 
+I knew a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_bravo_ver01%2Fdata%2Fsn84022657%2F00033872231%2F1865080501%2F0414.jp2/pct:31.555154,14.392991,10.782098,14.205257/!600,600/0/default.jpg"/>
 </td>
@@ -8041,7 +7898,7 @@ I knew
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.stimpaY de*,  
+stimpaY de*,  
 An d na y poll&#x27; for it le pretreat,.  
 YOM 1114 at! you oieAray,  
   
@@ -8088,7 +7945,7 @@ A tree WI (lowa sad broke his crown,
 Arid killed him &#x27;&#x27;very good.&quot;  
   
 fled he been reeding of the news,  
-At home like ids neigkkp
+At home like ids neigkkpr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_alernus_ver01%2Fdata%2Fsn83031981%2F000001923%2F1865082501%2F0120.jp2/pct:6.410683,12.903757,10.920878,20.183751/!600,600/0/default.jpg"/>
 </td>
@@ -8102,7 +7959,7 @@ At home like ids neigkkp
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- newspapers,  
+newspapers,  
 if they take them from the post office, whether they  
 subscribe for them, or not.  
   
@@ -8151,7 +8008,8 @@ A paper every week.
 for he who take&#x27;s the papers,  
 And pays his bills when dee,  
 fan live in peace with tod and man,  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1865090101:0101/pct:4.714601,17.124077,14.490697,32.022601/!600,600/0/default.jpg"/>
 </td>
@@ -8165,7 +8023,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i  
+i  
 &#x27;Take the Papers.  
 Bf N. P. WILLIS.  
 Why don&#x27;t you take the papers ?  
@@ -8225,7 +8083,7 @@ iO j U -; i 1
 . For he who takes the papers,  
 r .. And pays his bills when due,  
 Can lire in peace with God and man,  
-i And with the printed jtQo.
+i And with the printed jtQo. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DailyProgR3n_ver01%2Fdata%2F1865092201%2F0466.jp2/pct:2.334578,15.683915,15.114728,32.821901/!600,600/0/default.jpg"/>
 </td>
@@ -8239,7 +8097,7 @@ i And with the printed jtQo.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- y delight;  
+y delight;  
 EXf:&#x27;At Jtbout elfdioii limec,,.  
 Atfd then!1 ruad for spile.  
 SuWei&#x27;fbe, ytu Ctftmot lose u eent--  
@@ -8295,7 +8153,8 @@ i
 Fur he who taKes the- papers,  
 And pays his bills when due.  
 Can five in peacs with God and man,  
-And with the.printer too.
+And with the.printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_DUBSal1n_ver01%2Fdata%2F1865092701%2F0289.jp2/pct:6.066614,50.954324,15.860428,41.924444/!600,600/0/default.jpg"/>
 </td>
@@ -8309,7 +8168,6 @@ And with the.printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Select Poetry.  
   
 TAKE THE PAPERS.  
@@ -8371,7 +8229,8 @@ A paper every week.
 For he rho lakes the papers,  
 And pays bis bills when due,  
 fan live in peace with God and man(  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775903:1865092701:0165/pct:17.663230,20.653427,9.742268,32.658552/!600,600/0/default.jpg"/>
 </td>
@@ -8385,7 +8244,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- OCTOBEr 4 1863.  
+OCTOBEr 4 1863.  
   
 TARE THE PAPERS.  
   
@@ -8436,7 +8295,7 @@ Can live in peace with God and man,
 And with the printer too.  
   
 The Nasby Papers-&quot;Mr. Nasby oy­  
-poses the Nomination o
+poses the Nomination of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865100401:0206/pct:0.215087,6.677686,14.620781,32.179982/!600,600/0/default.jpg"/>
 </td>
@@ -8450,7 +8309,7 @@ poses the Nomination o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 Take the Papers.  
 Why don&#x27;t you take the papers?  
  They&#x27;re the life of my delight;  
@@ -8497,7 +8356,7 @@ Is  111 astis sd
 a  
 And pas nis mil wion u  
  Can live in peace with God and man,  
-And with the printer too. 
+And with the printer too.  
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1865101901:0403/pct:18.087487,33.704735,11.719227,23.150727/!600,600/0/default.jpg"/>
 </td>
@@ -8511,8 +8370,6 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
-  
 TAKE THE PAPERS.  
   
 BY K. P. WILLIS.  
@@ -8561,7 +8418,7 @@ And pays his bills when due,
 Can live in peace with God and man,  
 And with the printer too.  
 .  
-JOINING TH
+JOINING THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865110101:0504/pct:55.130101,15.579099,10.955056,31.928726/!600,600/0/default.jpg"/>
 </td>
@@ -8575,8 +8432,6 @@ JOINING TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Poetry’  
 TAKE TIIE PAPERS.  
 BY X. P. WILLIS.  
@@ -8627,7 +8482,7 @@ And pays his bills when due,
 Can live in peace with God and man.  
 And with the printer too.  
   
-In the strikes ol mechamces a wu
+In the strikes ol mechamces a wue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1865111001:0245/pct:7.738749,4.535053,11.676729,31.485334/!600,600/0/default.jpg"/>
 </td>
@@ -8641,7 +8496,7 @@ In the strikes ol mechamces a wu
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- j  
+j  
 TAKE THE PAPERS.  
 Why don&#x27;t yon take the papers?  
 They&#x27;re the life of ray dsllfbt! ,  
@@ -8696,7 +8551,7 @@ At homelike neighbor Jim,
 Why don&#x27;t yon take the papers ?  
 Nor fiom the printer sneak,  
 Because you borrow fromhla boy  
-A paper every week
+A paper every week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1865121401:0240/pct:5.446740,7.538326,13.254628,23.327800/!600,600/0/default.jpg"/>
 </td>
@@ -8710,8 +8565,6 @@ A paper every week
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Take the Papers.  
 BY N. P. WILLIS.  
 Why don&#x27;t you tako the paper?  
@@ -8758,7 +8611,8 @@ For he who takes the papers,
 And pays his bills when due,  
 Can live in peace with God and man,  
 Hnd with the printer too.  
-TIIE LEFT HANDED TTIIEF.
+TIIE LEFT HANDED TTIIEF.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn84026851:00514157844:1866011801:0145/pct:20.519870,16.220418,17.695576,30.868889/!600,600/0/default.jpg"/>
 </td>
@@ -8772,7 +8626,7 @@ TIIE LEFT HANDED TTIIEF.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
 TAKE TUB PAPJEIIS.  
 BY X. r. WILLIS.  
@@ -8819,7 +8673,8 @@ A paper every week.
 For he: who takes the paper. ; , .  
 And pays his bills when due, ,  
 Can live in peace with God and man,  
-And w ith the printer too.
+And w ith the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028836:1866021401:0277/pct:42.712493,14.779807,11.252139,22.696026/!600,600/0/default.jpg"/>
 </td>
@@ -8833,7 +8688,6 @@ And w ith the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 a  
   
 TAKE THE PAPERS.  
@@ -8883,7 +8737,7 @@ you borrow of his boy, ,
 For he who takes the papers,  
 And pays his bills when due, ,  
 Can live in peace with God and man,  
-And with the printer too.
+And with the printer too. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775824:1866022301:0035/pct:62.809648,9.369097,9.566493,32.439239/!600,600/0/default.jpg"/>
 </td>
@@ -8897,8 +8751,6 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 TANE THE PAPERS.  
   
 BY N.F. WILLIs.  
@@ -8950,7 +8802,7 @@ And with the printer too.
   
 Mr. Nasby Cautions the Democracy.  
   
-e as anen te e
+e as anen te eo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1866030901:0672/pct:7.277628,8.491405,10.835580,27.800830/!600,600/0/default.jpg"/>
 </td>
@@ -9024,8 +8876,6 @@ And with the printer, too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 POETRY.  
 Take the Papers.  
 BY x. P. WILLIS.  
@@ -9074,7 +8924,8 @@ And pays his bills wnen due.
 Can live in peace with God and man,  
 And with the printer too.  
   
-MISCELLANY.
+MISCELLANY.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688064:1866050501:0053/pct:39.416763,17.043411,14.213982,31.119959/!600,600/0/default.jpg"/>
 </td>
@@ -9088,7 +8939,7 @@ MISCELLANY.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in the  
+in the  
 habit of borrowing their neighbors&#x27; papers  
 instead of subscribing, as they should :  
 Why den&#x27;t you take tbe papers ?  
@@ -9134,7 +8985,8 @@ A paper every wi;tk.
 For he who takes tiie papers,  
 And pays bis bills when due,  
 Can live in peace with God and man,  
-And with tne printer too.
+And with tne printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879907:1866053001:0509/pct:3.061224,64.577276,13.172542,26.351901/!600,600/0/default.jpg"/>
 </td>
@@ -9148,11 +9000,6 @@ And with tne printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-eeae aiee oe o e   eeooooo  
-The Kancaster kedger.  
-PR. LANCASTER C. H., S.C. JUNE 18, 1866.  
-  
 Take  
 THE PAPERS.  
 BY N. r. WillIs.  
@@ -9205,7 +9052,7 @@ And pay his bills when due,
 Can live in peace with God and man,  
 And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862658:1866061301:0626/pct:2.217776,1.847595,81.218387,45.044700/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862658:1866061301:0626/pct:2.217776,14.163474,13.551220,32.728821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9217,10 +9064,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-Take the Papers.  
-eee  e e  
+e e  
 Why don&#x27;t you take the paper?  
 Theyre the life of my delight   
 Except about election time.  
@@ -9268,9 +9112,9 @@ A paper every week.
  or he who takes the panan  
 And pays his bills when due  
 Can live in peace with God and man,  
-And with the printer too
+And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn82003389:00280761874:1866062701:0397/pct:43.284512,15.601753,12.371455,31.672271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn82003389:00280761874:1866062701:0397/pct:43.284512,16.651381,12.371455,30.622643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9282,9 +9126,6 @@ And with the printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 TARE THE PAPERS.  
 BYN.P. WIILIS.  
 Why don&#x27;t you take the papen?  
@@ -9332,7 +9173,8 @@ A paper every week.
 For he who takes the papers,  
 And pays his bills when due,  
 Can live in peace with God and man.  
-And with the printer, too.
+And with the printer, too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1866071901:0506/pct:44.916821,18.839035,9.625033,28.694641/!600,600/0/default.jpg"/>
 </td>
@@ -9346,8 +9188,6 @@ And with the printer, too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 TAKE THE PAPERS.  
   
 Why don’t you take the papers ?  
@@ -9393,7 +9233,8 @@ A paper every week.
 For he who takes the papers,  
 And pays his bills when due.  
 Can live in peace with God and roan,  
-And with his printer, too.
+And with his printer, too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93052977:00279557451:1866072101:0063/pct:10.449200,9.852491,10.372084,25.020874/!600,600/0/default.jpg"/>
 </td>
@@ -9427,7 +9268,7 @@ And with his printer, too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. hon sawnis;  
+hon sawnis;  
 Why don&#x27;t you take the papers?  
 Dt They&#x27;re the life of iny delight.  
 Except about election time,  
@@ -9491,7 +9332,8 @@ A paper every week.
 For he who takes the papers,  
 And pays his bills when duc,d  
 Can live in peace with God and man,  
-And with the printer too,
+And with the printer too,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775757:1866081001:0529/pct:19.256999,49.251755,11.898780,27.612237/!600,600/0/default.jpg"/>
 </td>
@@ -9515,7 +9357,7 @@ And with the printer too,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- on to dejtrue  
+on to dejtrue  
 ,11&#x27;Ju &#x27;  
   
 &#x27;TAKK THE PAPER.  
@@ -9568,7 +9410,7 @@ t A paper every week. ; ... , ; .i,
 And pays his bills when due,  
 Can lire in pesos with God and man,  
 And with the printer too.  
-Th
+Tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033371:00212470302:1866100501:0165/pct:50.970360,13.127031,22.053634,85.163205/!600,600/0/default.jpg"/>
 </td>
@@ -9644,9 +9486,6 @@ NEWS ITEMS.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 Why don&#x27;t you take the papers?  
 They&#x27;re the life of our delight;  
 Except about election time,  
@@ -9691,7 +9530,7 @@ Forthe who takes the papers,
 And pays his bill when due,  
 Can live in peace with God and man,  
 And with the printer too.  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1866112101:0539/pct:17.274289,18.813692,11.777057,22.432715/!600,600/0/default.jpg"/>
 </td>
@@ -9705,10 +9544,6 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-POETRY.  
-  
-TAKE THE PAPERS.  
-  
 TAKE THE PAPERS.BY N. P. WILLIS.  
   
 Why don&#x27;t  
@@ -9761,7 +9596,7 @@ And with the printer too.
 A Snake Story.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1866112301:0087/pct:7.384132,8.081251,13.511390,27.254128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1866112301:0087/pct:7.384132,8.943446,13.511390,26.391933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9783,8 +9618,6 @@ A Snake Story.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 hke the  
   
 BY N. P. WiLlis.  
@@ -9832,7 +9665,7 @@ A paper every weck.
 For he who takes the papers,  
 And pays his bill when due,  
 Can live in peace with God and man,  
-And with the printer too
+And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1866121401:0218/pct:8.164658,6.428098,13.918581,33.200795/!600,600/0/default.jpg"/>
 </td>
@@ -9846,19 +9679,7 @@ And with the printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-et  e e i e oe e  e   e  
-more than ten lluss, tone aquare wil be  
-e a e e e  e  e e  ee  e  e ee o e ee e e a  o e  
- e ee  e o    o o e ee  ieo an  en or a u­  
-e e e e e eo  
- ee ooa  te e  
-is made, will be charged in exact propor.  
-un, in adane  e i e e  
-e e e  o  o e   e e e e    
-Marriage, Obituary Notices, &amp;c., will be  
-en  a o e e eeooeeea e te aa e   
-i a    o e eo o ea e   a  e od o  
-handed in, or they will not appear.  
+or they will not appear.  
   
 AY DONTYOUTAEETHF PAPEn  
 Why don&#x27;t you take the paper!  
@@ -9919,7 +9740,7 @@ And pays his bill when due,
 And with the printer too.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866122501:0816/pct:0.436500,3.540223,92.919005,54.634930/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866122501:0816/pct:0.436500,13.528171,89.136008,44.646982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9931,8 +9752,6 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Poetry.  
   
 TAKE THE PAPERS.  
@@ -9980,7 +9799,8 @@ A paper every week.
 For he who takes the papers,  
 And pays his bills when due,  
 Can live in peace with God and man,  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1866122701:1102/pct:32.184700,15.459856,9.045486,24.819997/!600,600/0/default.jpg"/>
 </td>
@@ -10004,15 +9824,14 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 One man took a paper, and his life was happier than  
 a king’s, his children all could read and write, and talk  
 of men and things. ‘The other took no paper; while  
 strolling through the wood, a tree fell down upon. his  
 crown and killed him—as it should. Had he been  
 reading the news, at home, like neighbor Jim, I&#x27;ll beta  
-cent that accident would not have happened him.
+cent that accident would not have happened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1867-05-23_40_21%2Fsim_youths-companion_1867-05-23_40_21_jp2.zip%2Fsim_youths-companion_1867-05-23_40_21_jp2%2Fsim_youths-companion_1867-05-23_40_21_0002.jp2/pct:24.777228,27.783401,21.163366,3.812416/600,/0/default.jpg"/>
 </td>
@@ -10026,7 +9845,6 @@ cent that accident would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends as much alike  
 As e’er you saw two stumps,  
 And no phrenologist could find  
@@ -10043,7 +9861,7 @@ Had he been reading of the news,
 At home like neighbor Jim,  
 r 11 bet a cent this accident  
 Would not have befallen him.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1867062801:0307/pct:6.922550,6.943420,9.732694,9.746075/!600,600/0/default.jpg"/>
 </td>
@@ -10057,7 +9875,6 @@ Would not have befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 I knew two friends as =eh alike  
 As o&#x27;er yon sate two stumps,  
 And no phrenologist could find -,  
@@ -10076,7 +9893,7 @@ A tire fell down upon his eroWn,
 Xnd him Mnn i as it should.  
   
 Had he been reading of the_ maws,  
-1 
+1 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_diusFidius_ver01%2Fdata%2Fsn86053495%2F000002287%2F1867070401%2F0001.jp2/pct:80.711286,5.428287,14.380935,6.932271/!600,600/0/default.jpg"/>
 </td>
@@ -10090,9 +9907,6 @@ Had he been reading of the_ maws,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
-  
 PoETRY.  
   
 TAKE THE PAPERS.  
@@ -10148,7 +9962,7 @@ A paper every week.
 For he who takes the papers.  
 And pays his bill when due,  
 Can live in peace with God and man,  
-And wilh the printer too
+And wilh the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1867071301:0265/pct:8.365683,8.906550,11.898292,29.213483/!600,600/0/default.jpg"/>
 </td>
@@ -10162,7 +9976,6 @@ And wilh the printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 to renew their revenue licenses.  
 One man took a paper, and his life was hap  
 pier than a king&#x27;s; his children alf could read  
@@ -10172,7 +9985,7 @@ the wood, a tree fell down upon his crown
 and killed him,-as it should. Had he been  
 reading of the news, at home like neighbor Jim,  
 we&#x27;ll bet a cent that accident would not have  
-happened him
+happened himn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1867081501:0245/pct:21.204962,86.416862,14.116952,6.264637/!600,600/0/default.jpg"/>
 </td>
@@ -10186,7 +9999,6 @@ happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 i  
 One man took a paper, and his life was  
 happier than a king&#x27;s; his childern all  
@@ -10197,7 +10009,7 @@ feU down n bi8 crown and kmedhim
 irhnui-nui h in. tkn  
 npws. at home like neighbor Jim. we&#x27;ll bet  
 l. &#x27;cpnt that accident would nnt havn.lmn-  
-pened hi
+pened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867082101:0346/pct:43.931535,47.687380,12.292531,4.330557/!600,600/0/default.jpg"/>
 </td>
@@ -10211,7 +10023,6 @@ pened hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 One man took a paper, and his life was  
 happier than a king&#x27;s; his children all  
 could read and write and talk of men and  
@@ -10229,7 +10040,7 @@ readers. We will add this, however, as
 a solemn warning:  
 A young married man was selicited to  
 take a paper. He declined on the ground  
-that any village paper was no
+that any village paper was not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286996:1867082101:0030/pct:69.345595,10.387383,13.239149,10.035217/!600,600/0/default.jpg"/>
 </td>
@@ -10253,7 +10064,6 @@ that any village paper was no
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 One man took a paper, anu his life  
 was happier th&amp;u a king&#x27;s; his children  
 conld read and write, and talk of men  
@@ -10273,7 +10083,7 @@ as a solemn warning.
 On Monday morning, Sd iu?t. . at half-pant 1-2  
 o&#x27;clock, Olivkr Puvok. in the -Tib vear of his  
 age  
-Hi* funeral will take place from his lat
+Hi* funeral will take place from his late
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665052:1867090401:0228/pct:14.431265,18.971368,12.150243,11.102863/!600,600/0/default.jpg"/>
 </td>
@@ -10287,7 +10097,6 @@ Hi* funeral will take place from his lat
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 One man took a paper, and his life  
 was happier than a king&#x27;s; his children  
 all could read and write and talk of men  
@@ -10297,7 +10106,7 @@ tree fell down upon his crown and kill-
 d him,-as it should. Had he been  
 reading of the news, at home like neigh  
 bor Jim, we&#x27;ll bet a cent that accident  
-would not have happened hi
+would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1867090601:0440/pct:47.553612,40.156550,14.053716,6.188155/!600,600/0/default.jpg"/>
 </td>
@@ -10311,7 +10120,7 @@ would not have happened hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-g in the rong place.&quot;  
+in the rong place.&quot;  
  One man took a paper, and hi  
 life was happier than a king&#x27;s; his chil  
 dren all could read and write and talk of  
@@ -10327,7 +10136,7 @@ Editors know lots of such stories.
 They don&#x27;t often tell them, because they  
 don&#x27;t wish to harrow the feelings of their  
 readers. We give this, however, as a  
-olemu warning,
+olemu warning, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1867091101:0725/pct:70.335034,76.988853,12.447304,10.520690/!600,600/0/default.jpg"/>
 </td>
@@ -10341,7 +10150,7 @@ olemu warning,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, “Is  
+“Is  
 not the negro your master ?”  
   
 JtSrOne man took a paper, and his  
@@ -10353,7 +10162,8 @@ wood, a tree fell down upon his crown
 and killed him—a.s it should. Had he j  
 been reading of the news, at home like  
 neighbor J ini, we’ll bet a cent that acci­  
-dent would not have happened him.
+dent would not have happened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688064:1867091301:0336/pct:66.550859,20.789942,15.170816,7.683515/!600,600/0/default.jpg"/>
 </td>
@@ -10367,7 +10177,6 @@ dent would not have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-!  
 One man took a paper, and his life was happi­  
 er than a king&#x27;s ; his children all could readHnd  
 write, and talk of men and things. Auother  
@@ -10376,7 +10185,7 @@ wood, a tree fell down upon his crown and kill­
 ed him—as it should. Had he been reading of  
 the news, at home like neighbor Jim, we II beta  
 cent that accident would not have happened him.  
-Lyon* Republican
+Lyon* Republican.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557402:1867091401:0148/pct:50.026925,80.914488,14.036977,4.054566/!600,600/0/default.jpg"/>
 </td>
@@ -10390,7 +10199,6 @@ Lyon* Republican
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 One man took a paper, and his life  
 was happier than a king&#x27;s; his chile  
 dren all could read and write and talk  
@@ -10401,7 +10209,7 @@ crown and killed him--as it should.
 Had he been reading of the news, at  
 home like neighbor, Jim, we&#x27;ll bet a  
 cent that accident would not have  
-happoned to hi
+happoned to him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1867091801:0257/pct:83.764535,41.905919,13.435078,6.485571/!600,600/0/default.jpg"/>
 </td>
@@ -10415,7 +10223,6 @@ happoned to hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;  
 One man took a paper, and his life  
 was happier than a king&#x27;s; his children  
 all could read and write and talk of  
@@ -10424,7 +10231,7 @@ paper; a tree fell down upon his crown
 and killed him as it should. Had he  
 been reading of the news, at home like  
 neighbor Jim, we&#x27;ll bet a cent that  
-accident would not have happened him
+accident would not have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1867092701:0359/pct:77.075589,31.867210,9.835812,4.338447/!600,600/0/default.jpg"/>
 </td>
@@ -10438,7 +10245,7 @@ accident would not have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  One man took a  
+One man took a  
 paper and his life was happier than a king&#x27;s  
 his children all could read and write and  
 talk of men and things. Another took no pa­  
@@ -10449,7 +10256,7 @@ news, at home like neighbor Jim, we&#x27;ll bet a
 cent that accident would not have happened  
 him.  
   
-M
+Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528384:1867100601:0320/pct:4.714877,87.617925,11.096952,5.680031/!600,600/0/default.jpg"/>
 </td>
@@ -10463,7 +10270,7 @@ M
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?One man took a paper  
+One man took a paper  
 and bis wife was happier than a king&#x27;s ; his chil?  
 dren all could read and write and talk of men and  
 things. Another took no paper ; and while stroll?  
@@ -10472,7 +10279,7 @@ crown and killed him?as it should. Had he been
 reading of the news like brother Jim, we&#x27;ll bet a  
 cent that accident would not have happened him.  
   
-LOCA
+LOCAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551256:1867103001:0148/pct:3.018748,2.111050,20.098507,96.261682/!600,600/0/default.jpg"/>
 </td>
@@ -10486,14 +10293,14 @@ LOCA
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A­  
+A­  
 hile str6ll­  
 -&#x27;• (ell down  
 nito—as it  
 ing of the  
 news like brother Jim, we&#x27;ll bet a cent  
 that accident would not have happened  
-triers U 
+triers U a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn94051044:00280762623:1867111501:0017/pct:6.758621,77.210741,12.768473,10.698721/!600,600/0/default.jpg"/>
 </td>
@@ -10507,7 +10314,6 @@ triers U
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 oetry.  
 Take the Papers.  
 BT N.P. WILLIS.  
@@ -10556,7 +10362,7 @@ For fre who takes the papers,
 And pays his bills when due;  
 Can live in peace with cod and man,  
 And with the printer too.  
-isclla
+iscllan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1867120601:0616/pct:31.515272,14.366401,10.595994,23.276611/!600,600/0/default.jpg"/>
 </td>
@@ -10570,7 +10376,7 @@ isclla
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to every cloud.&quot;  
+to every cloud.&quot;  
 Take the Papers.  
 HY N.F. WILLIs.  
 Why don&#x27;t you take the papers&quot;  
@@ -10618,7 +10424,7 @@ And pays his bills when due,
 Can live in peace wilh God and man,  
 And with the printer too.  
   
-MISCEI.L.AN
+MISCEI.L.ANY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524019:1868020701:0026/pct:19.512195,36.997351,12.265116,23.517136/!600,600/0/default.jpg"/>
 </td>
@@ -10632,7 +10438,6 @@ MISCEI.L.AN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends, as much alike  
 As e&#x27;er you saw two stumps;  
 And no Phrenologist could find  
@@ -10648,7 +10453,8 @@ And hurt him, as it should!
 Had he been reading of the news,  
 At home, like neighbor Jim,  
 I’ll bet a cent, this accident,  
-Had not befallen hint.
+Had not befallen hint.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623690:1868120301:0222/pct:25.135473,63.167750,9.531749,8.635312/!600,600/0/default.jpg"/>
 </td>
@@ -10662,7 +10468,7 @@ Had not befallen hint.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Cry  
+ry  
   
 TAKE THE PApER.  
 Why don&#x27;t you take the paper?  
@@ -10712,7 +10518,7 @@ this, and looking to God all the time, in
   
 every act and plan, we will prevent the  
   
-His views on the War and the Ab-white ma
+His views on the War and the Ab-white man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1869050701:0471/pct:4.232587,13.650055,72.488186,37.417853/!600,600/0/default.jpg"/>
 </td>
@@ -10726,8 +10532,6 @@ His views on the War and the Ab-white ma
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 P O ET RY.  
 TARE THE PAPERS.  
 Why don&#x27;t you take the papers?  
@@ -10781,7 +10585,8 @@ A paper every weck.
 For he who takes the papers,  
 And pays his bill when due,  
 Can live in peace with God and mar  
-And with the printer&#x27; too.
+And with the printer&#x27; too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_flyingsquirrel_ver02:data:sn84038125:00294554828:1869073001:0018/pct:5.243831,11.728251,9.430082,33.816651/!600,600/0/default.jpg"/>
 </td>
@@ -10864,8 +10669,6 @@ Lunch f
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 I knew two friends as much alike  
 As o’er you saw two stumps;  
 And no phrenologist could llnu  
@@ -10923,7 +10726,7 @@ With health upon her brow.
   
 Why don’t you take the papers;  
 Nor from the printer’* visage sneak,  
-Becausu you bo; row ol bi
+Becausu you bo; row ol bis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_fontus_ver01%2Fdata%2Fsn83032304%2F000002714%2F1869090801%2F0141.jp2/pct:5.968750,21.003357,8.669643,14.746901/!600,600/0/default.jpg"/>
 </td>
@@ -10947,7 +10750,7 @@ Becausu you bo; row ol bi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot;.  
+.  
 Why don&#x27;t you take thspaßeta,  
 They&#x27;re&#x27;thFiffe — ni mp delight!  
 cceptaixsi I election. time;  
@@ -10976,7 +10779,7 @@ Is happier than a king&#x27;s, • •
 And talk of ine.a`and things.  
 &#x27; &#x27;The &#x27;other took no paper, and ,  
 While strolling in&#x27;tlie Wood , :‘. &#x27;&#x27; • „- .  
-Atm% tell down and broke his crown;
+Atm% tell down and broke his crown; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_acis_ver01%2Fdata%2Fsn83032185%2F000001887%2F1869100901%2F0137.jp2/pct:85.653105,15.489601,10.456817,13.117418/!600,600/0/default.jpg"/>
 </td>
@@ -10990,7 +10793,7 @@ Atm% tell down and broke his crown;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Poetry.  
+Poetry.  
   
 Take the Papers.  
   
@@ -11040,6 +10843,7 @@ For he who lakes the papers,
 And pays his bill when due,  
 Can live in pence Willi God and man,  
 And willi the printer too.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1869101601:0179/pct:31.831187,11.101719,10.300429,27.402085/!600,600/0/default.jpg"/>
@@ -11115,7 +10919,6 @@ What
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Poet r y.  
 TAKE THE PAPERS.  
 BT . P. WILLIS.  
@@ -11169,7 +10972,7 @@ For lie who lake.1 tho papers
 And pays his bill when due;  
 Can live in peace with God and man,  
 And with the printer too;  
-THE CHILD
+THE CHILDR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197437:1869101901:0611/pct:15.663820,17.025386,22.845497,77.110927/!600,600/0/default.jpg"/>
 </td>
@@ -11183,7 +10986,6 @@ THE CHILD
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Tolic the Pii|»er«.  
   
 »V #. 1&#x27;. WILLI).  
@@ -11253,7 +11055,8 @@ Can live in pcacc with God and man.
   
 or  
   
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528931:1869102101:0565/pct:48.652544,13.506702,11.197579,26.944667/!600,600/0/default.jpg"/>
 </td>
@@ -11267,8 +11070,6 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-y  
-  
 Why don&#x27;t yon take the papers?  
 &#x27; They&#x27;re the life of our delight;  
 . Except about election times.  
@@ -11317,7 +11118,7 @@ Ami pays his bill when due,
 &#x27; And with the printer, too.  
   
 Meaning of the Election.  
-Now that the E
+Now that the Ee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869102101:0389/pct:51.212625,14.074764,9.700997,25.954503/!600,600/0/default.jpg"/>
 </td>
@@ -11331,8 +11132,6 @@ Now that the E
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 TAKE THE PAPERS.  
   
 BT K. r. WILLIS.  
@@ -11380,7 +11179,7 @@ For lie who tnkes tbc pnpers.
 And pay&#x27;s his bills when due;  
 Can livo at pence with God nud man.  
 And with the printers too.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1869102301:0151/pct:50.451560,3.058289,12.294745,32.293717/!600,600/0/default.jpg"/>
 </td>
@@ -11394,7 +11193,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
 TAKE THE PAPERS.  
   
@@ -11441,7 +11240,7 @@ And pays his bill when due;
 Can live in peace with God and manV w  
 And with the printer too.  
   
-Mor
+More
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775411:1869102801:0237/pct:15.714763,61.966093,9.569138,17.729005/!600,600/0/default.jpg"/>
 </td>
@@ -11455,7 +11254,6 @@ Mor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 TAKE THE PApERS.  
 YN. P. WILlis,  
 Why don&#x27;t you take the papers?  
@@ -11504,7 +11302,7 @@ Can live in peace with God and man
 And with the printer, too,  
 OUR SATURDAY NIGHT.  
 Once more! Another Saturday  
-night! Again the rave
+night! Again the raven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869110301:0791/pct:25.040783,17.452082,11.398858,22.351924/!600,600/0/default.jpg"/>
 </td>
@@ -11518,8 +11316,6 @@ night! Again the rave
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Go then, and take the papers.  
 And pay to-day. nor pray delay,  
 And my word lor it&#x27;s inferred ;  
@@ -11549,7 +11345,7 @@ At home like neighbor Jim.
 I&#x27;ll bet a cent that accident  
 s  
 Would not have happened him.  
-TH
+THE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_eva_ver01%2Fdata%2Fsn85042452%2F00000002053%2F1869110601%2F0612.jp2/pct:16.069519,14.609175,11.991979,19.629848/!600,600/0/default.jpg"/>
 </td>
@@ -11563,7 +11359,7 @@ TH
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
   
 TAKE THE PAPERS  
   
@@ -11622,7 +11418,7 @@ A paper every week.
 For he who takes the papers,  
 And pays kis bills whin due,  
 Can live iii peace With God and man;  
-And with the printer, too: . .
+And with the printer, too: . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_rooseveltt_ver01%2Fdata%2Fsn83031987%2F000001774%2F1869111001%2F0171.jp2/pct:73.230663,15.508057,9.136529,27.526968/!600,600/0/default.jpg"/>
 </td>
@@ -11636,7 +11432,6 @@ And with the printer, too: . .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 1  
 I TAKE TEE PAPERS.  
 X. P. RATIN.  
@@ -11655,7 +11450,7 @@ At Intermit fourfold paid.__
 and take t,o papoix,  
 And pay to-day, nor pay delay,  
 And my woad for Inform),  
-until you&#x27;
+until you&#x27;m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_vanburenm_ver01%2Fdata%2Fsn86071297%2F000001844%2F1869111901%2F0175.jp2/pct:6.876387,13.235085,6.876387,6.343443/!600,600/0/default.jpg"/>
 </td>
@@ -11669,7 +11464,6 @@ until you&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Take the Papers­  
 BY N.P. WILLIS.  
 Why don&#x27;t you take the papers?  
@@ -11712,7 +11506,7 @@ For he who takes the papers,
 And pays his bills when due;  
 Can live at peace with God and man,  
 And with the printer too.  
-Go I
+Go It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn84022040:00415668314:1869112301:0487/pct:43.852243,57.503130,15.092348,28.724736/!600,600/0/default.jpg"/>
 </td>
@@ -11726,7 +11520,6 @@ Go I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 TAKE TfftB PAPERS.  
 BV M. P. WILLIS.  
 Why don&#x27;t you take the paper*?  
@@ -11775,7 +11568,7 @@ papers,
 lien due ;  
 Cun live in peace with God apd man,  
 And w ith the printer too.  
-feiert
+feiert 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_bombarda_ver01:data:sn84026820:00271765265:1869112701:0418/pct:20.546875,18.717192,9.277344,27.099738/!600,600/0/default.jpg"/>
 </td>
@@ -11789,7 +11582,7 @@ feiert
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- i  
+i  
   
 TAKE THE PAPERS.  
   
@@ -11840,7 +11633,7 @@ And pays his bill when due;
 Caa live In peace with God and man,  
 And with th printer too.  
   
-The Tippler
+The Tipplers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869120301:0700/pct:31.997834,3.038348,12.994044,29.823009/!600,600/0/default.jpg"/>
 </td>
@@ -11854,8 +11647,6 @@ The Tippler
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 TA Ai IPAPEMS.  
   
 BY N. P. ivirrats  
@@ -11919,7 +11710,8 @@ A paper every week.
 For he who takes the papers,  
 And pays MI hills w ten due,  
 4 .. an live at pew. with God and man,  
-And with the printers too.
+And with the printers too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_cupid_ver01%2Fdata%2Fsn83032076%2F000002083%2F1869121701%2F0201.jp2/pct:58.204925,15.655941,10.203053,22.728960/!600,600/0/default.jpg"/>
 </td>
@@ -11933,8 +11725,6 @@ And with the printers too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 TAKE THE PAP AILS.  
 BT JT. P. WILLIS.-Why  
 don&#x27;t ou take the paterl  
@@ -11980,7 +11770,7 @@ For ho who akcs the papers,
 And pays his bill when due,  
 Can live in peace with God androaD,  
 And with the printer too.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1869121701:0130/pct:15.568708,10.457086,9.894493,22.744711/!600,600/0/default.jpg"/>
 </td>
@@ -12054,7 +11844,6 @@ A Dipl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 I knew two friends as much alike  
 As ever you saw Iwo stumps.  
 And no phrenologist could find,  
@@ -12070,7 +11859,8 @@ And hurt him as it should.
 Had he been reading of the news i  
 At home like neighbor Jim,  
 I&#x27;ll bet a cent this accident  
-Would not befallen him.
+Would not befallen him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1870011901:0418/pct:38.759328,37.670514,8.597637,6.225953/!600,600/0/default.jpg"/>
 </td>
@@ -12084,7 +11874,7 @@ Would not befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the paper, why. we say. the  
+the paper, why. we say. the  
 best thing you can do is to take the pa­  
 per. Iu the language of another :  
 Why don&#x27;t you take the papers f  
@@ -12115,7 +11905,8 @@ A difference in their bumps. .
   
 Hasten Slowly  
   
-Ona of the chiel sin of our time
+Ona of the chiel sin of our time  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415662300:1870012901:0813/pct:31.244175,18.183320,24.161230,31.957060/!600,600/0/default.jpg"/>
 </td>
@@ -12129,7 +11920,7 @@ Ona of the chiel sin of our time
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- On&#x27;! takes the paper and his life,  
+On&#x27;! takes the paper and his life,  
 Is happier than a king&#x27;s ;  
 His children all can rend and write  
 And talk of men and things.  
@@ -12148,7 +11939,8 @@ A paper every week.
 For he who takes the paper.  
 And pays bis bill when dun ;  
 Can live at peace with Ood and man,  
-And with the printer too.&quot;
+And with the printer too.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415662300:1870012901:0813/pct:31.220876,50.388109,11.835974,11.412056/!600,600/0/default.jpg"/>
 </td>
@@ -12162,7 +11954,7 @@ And with the printer too.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 1870.  
+1870.  
   
 Why don’t you take tbe papers?  
 ’nicy‘re the life of our delight;  
@@ -12209,7 +12001,7 @@ And pays Ins bills when due ;
 Can live in peace with Go I and man,  
 And with the printer 100.  
   
-State Judicia
+State Judicial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558029:1870020501:0095/pct:34.241097,13.305062,35.878880,27.657037/!600,600/0/default.jpg"/>
 </td>
@@ -12223,7 +12015,6 @@ State Judicia
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-­  
 Why don&#x27;t you take the papers?  
 They are life of my delight!  
 Except about election time,  
@@ -12267,7 +12058,7 @@ A paper every wock.
 For he who takes the papers,  
 And pays his bills when dun;  
 Cin live in peace with God and man,  
-And with the priuter to
+And with the priuter too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286984:1870020901:0246/pct:74.863963,3.125567,11.076005,23.601291/!600,600/0/default.jpg"/>
 </td>
@@ -12336,7 +12127,7 @@ accident Had not befallen him ! —
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A NBWSI&#x27;APEB.  
+A NBWSI&#x27;APEB.  
 I know two friends as much alike, As  
 e&#x27;er yon saw two stumps; And no  
 phrenologist could find &#x27; A difference  
@@ -12349,7 +12140,7 @@ the wood, A tree fell down upon bis
 crown. And killed bits-as It should I  
 Bad he been reading of tbe news At home,  
 like neighbor Jim, I&#x27;ll bet a cout this  
-accident Bad not befallen hi
+accident Bad not befallen him
 </td></tr></table>
 
 ---
@@ -12360,8 +12151,6 @@ accident Bad not befallen hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-honors acquired in newspaper life.  
--?&gt;­  
 Advantage of Taking a Newspaper.?  
 The following poetical effusion may be familiar  
 to some of our readers, but it is worthy of rc­  
@@ -12377,9 +12166,9 @@ wood, a tree fell down upon his crown, and
 killed him?as it should. Had he been reading  
 of the news, at home, like neighbor Jim, I&#x27;ll  
 bet a cent this accident had not befallen him!  
-S
+So
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1871011901:0439/pct:17.936713,41.347865,16.467549,11.877224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1871011901:0439/pct:17.936713,42.582295,16.467549,10.642794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12391,7 +12180,7 @@ S
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-o tern.  
+tern.  
   
 Vital Advantage of Taking a Paper.  
 I knew two friends as much alike  
@@ -12414,7 +12203,7 @@ A master passion is the love of news.
 Not music so commands, nor so the Muse;  
 To news all readers turn, and they can look  
 Pleased on a paper, who abhor a book.  
-For
+For 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022974:1871012401:0438/pct:19.977802,8.465932,16.245838,85.210118/!600,600/0/default.jpg"/>
 </td>
@@ -12428,8 +12217,6 @@ For
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THE CHRONICLE.  
   
 Vital Advantage ofTaking a Paper.  
@@ -12454,7 +12241,7 @@ A master pa.s1on la the love of ne
 nm.lt TO tvinm.ui  
 il nae:  
 To news all rsatle n turn,  
-and the
+and they
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1871012501:0124/pct:25.282392,4.589143,9.318937,9.327196/!600,600/0/default.jpg"/>
 </td>
@@ -12468,7 +12255,7 @@ and the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- rgue.  
+rgue.  
   
 Vital Advantage of Ta&#x27;.ingaPsper.  
 I knew two friends as much alike  
@@ -12490,7 +12277,7 @@ Usd not befallen him!
 A master passion is the love of news.  
 Mot innsio so commands&#x27; nor so the Muse;  
 To news all readers torn, and they can look  
-Pleassd on a paper, who abhor a book
+Pleassd on a paper, who abhor a book.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn84038628:0029587997A:1871012701:0708/pct:27.669903,4.586822,10.087985,11.285038/!600,600/0/default.jpg"/>
 </td>
@@ -12514,7 +12301,6 @@ Pleassd on a paper, who abhor a book
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 K kasw tiro friends u much alike  
 A* erer yoa saw two stump*,  
 And uo Phrenologist coaid Cad  
@@ -12530,7 +12316,7 @@ And killed him—as it should.
 Had he been reading of the news.  
 At home like neighbor Jim,  
 PH bet a cent this accident  
-Had not befallen hi
+Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623720:1871030201:0045/pct:6.008949,7.497534,9.119966,7.218020/!600,600/0/default.jpg"/>
 </td>
@@ -12546,7 +12332,7 @@ Had not befallen hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;.&#x27; . I knew two friends as  
+.&#x27; . I knew two friends as  
 much alike ., . . As e&#x27;er you saw two  
 stumps, &#x27;.. ;..&#x27;?; And no phrenologist  
 could find _..,-,.. ,. j A difference in  
@@ -12565,7 +12351,7 @@ took no-papers,- and, &#x27; -&#x27; &#x27; ;&#x27;; ?; ?
 news ? ?&#x27;&#x27;&#x27; . &#x27; | At home like neighbour  
 Jim; &#x27;&#x27;?&#x27;?&#x27;? . ; &#x27; ! ; &#x27;?&#x27;&#x27;&#x27;? -I&#x27;ll bet  
 a cent this accident ; &#x27;?;.?.! -?&#x27;?- \ ,  
-Hadnot befallen him ! .
+Hadnot befallen him ! . 
 </td></tr></table>
 
 ---
@@ -12576,7 +12362,6 @@ Hadnot befallen him ! .
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 VIrAL ANYANTAGE oF TAEINGA PAPER.  
 I know two friende as much alike  
 As ever you saw two stumps.  
@@ -12598,7 +12383,7 @@ A master passion is the love of news,
 Not music so cemmands, nor so the Muse;  
 To news all readers turn, and they can look  
 Pleaeed on a paper, who abhor a book.  
-How 
+How A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1871042501:0074/pct:2.981732,4.421870,12.734938,11.342247/!600,600/0/default.jpg"/>
 </td>
@@ -12614,7 +12399,7 @@ How
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-8ELECT POETRY. THE ADVANTAGE OF TAKING&#x27;  
+ADVANTAGE OF TAKING&#x27;  
 A NEWS?-.,. PAPER. From an  
 AmtncarfPaper. I knew two friends as  
 much alike, ; &#x27;. As e&#x27;er you saw (wo  
@@ -12641,8 +12426,6 @@ him !
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Reading the Paper.  
 Oliver Wendell Holmes, thus relates,  
 in very touching verse, the opposite fates  
@@ -12660,6 +12443,7 @@ Had he been reading of the news
 At home, like neighbor Jim,  
 ril bet a cent that accident  
 Would never have happened him.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763803:1871091501:0052/pct:83.651069,16.059583,10.745234,7.482835/!600,600/0/default.jpg"/>
@@ -12674,7 +12458,6 @@ Would never have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-?  
 RKAOLIO THE PAPER.  
 Oly^r Wendell Holmes thus relates, in very ]  
 touching verse, the opposite fates of two early i  
@@ -12692,7 +12475,7 @@ And killed him?as it should.
 Had he been reading of the news  
 At home, like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
-Would never have happened him
+Would never have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871092801:0230/pct:1.194304,5.012036,17.363344,8.820495/!600,600/0/default.jpg"/>
 </td>
@@ -12706,7 +12489,6 @@ Would never have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Heading the Paper.  
 iver Wendel Holmes, thus relates, in very  
 aching verse, the opposite fates of two early  
@@ -12722,7 +12504,7 @@ And killed him--as it should.
 Had he been reading of the news  
 At home, like neighbor Jim,  
 &#x27;lI bet a cent that accident  
-Would not have happened hi
+Would not have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871100601:0161/pct:3.410689,34.232258,9.388186,5.470968/!600,600/0/default.jpg"/>
 </td>
@@ -12736,7 +12518,6 @@ Would not have happened hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 READING THE PAPER.  
   
 A Western editor, who wants his subscribers  
@@ -12763,6 +12544,7 @@ At home, like Neighbor Jim,
 I&#x27;ll bet a cent that accident  
 Would never have happened him.  
   
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_youths-companion_1871-10-12_44_41%2Fsim_youths-companion_1871-10-12_44_41_jp2.zip%2Fsim_youths-companion_1871-10-12_44_41_jp2%2Fsim_youths-companion_1871-10-12_44_41_0007.jp2/pct:29.611924,34.181002,20.950506,11.032162/600,/0/default.jpg"/>
@@ -12777,7 +12559,6 @@ Would never have happened him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Onetoeh a paper, and his life  
 Waa happier than a king&#x27;«;  
 Ilia children all could read and write.  
@@ -12791,7 +12572,8 @@ At home, like neighbor diin.
 I&#x27;ll bet a cent that accident  
 Would never have happened to him.  
 t  
-,
+,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_meowth_ver01:data:sn85034235:00295874004:1871101401:0163/pct:31.240370,14.134226,14.214176,7.799637/!600,600/0/default.jpg"/>
 </td>
@@ -12805,7 +12587,6 @@ t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 One took a paper, and his life&quot;  
 Was happier than a king&#x27;s,  
 His children all could read and write,  
@@ -12817,7 +12598,7 @@ And killed him, as it shoul
 Had he been reading of the news.  
 At home like ncighbor Jim,  
 I&#x27;ll bet a cent that accident  
-Would never have happened him
+Would never have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1871120101:0195/pct:43.525825,15.784623,9.074605,4.831490/!600,600/0/default.jpg"/>
 </td>
@@ -12831,7 +12612,6 @@ Would never have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 TAKE TIRE PAPERS.  
   
 =I  
@@ -12896,7 +12676,7 @@ TWO WOMEN FIGHTING A BEAR.
   
 OBE T IitEDELL,  
   
-Pain
+Pain 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://panewsarchive.psu.edu/iiif/batch_pst_aurora_ver01%2Fdata%2Fsn84038509%2F000001989%2F1871121301%2F0197.jp2/pct:71.352626,4.303393,20.007396,64.637792/!600,600/0/default.jpg"/>
 </td>
@@ -12959,7 +12739,6 @@ And he
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don&#x27;t you take the papers?  
 They&#x27;re the life of my delight;  
 Bxcept about election time,  
@@ -12994,7 +12773,7 @@ And she would wake from her troubled sleep,
 O&#x27;er his tender billet-doux to weep;  
 Or stand like a statue, cold and fair,  
 And gaze on a lock of his bright red hair.  
-And h
+And he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1872012501:0764/pct:8.237076,6.723448,11.759137,20.209059/!600,600/0/default.jpg"/>
 </td>
@@ -13008,7 +12787,7 @@ And h
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- .&quot;lon&#x27;t yon take thd papers? &quot;  
+.&quot;lon&#x27;t yon take thd papers? &quot;  
 Tui&#x27;v&#x27;rrt the life of my delight ;  
 - !:.- t about election time,  
 Anil then I read for spite.  
@@ -13028,7 +12807,7 @@ f took the paper and I read . .
 Or stiiiic new pills iu forre :  
 llf bought a Ik ix -and is he dead?  
 No hearty as a horse. &quot;  
-Th
+The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR1n_ver01%2Fdata%2F1872013101%2F0440.jp2/pct:5.582524,8.190457,10.288565,12.497418/!600,600/0/default.jpg"/>
 </td>
@@ -13042,7 +12821,6 @@ Th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don&#x27;t you take the papers?  
 They&#x27;re the life of my delight;  
 Except about e&#x27;ection time,  
@@ -13076,7 +12854,7 @@ to, and including, the word &quot;but in said
 section.  
 Amend section two of the second Article  
 by striking out the word annually,&quot; and  
-inserting, in lieu thereof, the wor
+inserting, in lieu thereof, the word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1872020701:0362/pct:35.388956,57.341554,14.167674,23.960424/!600,600/0/default.jpg"/>
 </td>
@@ -13090,32 +12868,6 @@ inserting, in lieu thereof, the wor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-located o  
-STEAM SAW MILL, in the  
-neighborhood between CEDAf:  
-SPRINGS and WHITE HALL, wliert  
-3 I am prepared to furnish lumber of all  
-kinds common to this region and of as  
-jgood quality as the j^ountry affords al  
-reasonable&#x27;rates. 1  
-Jw,; J. F, JiYON.  
-Nov. 6, 1871 29-3m  
-MILLINERY.  
-In order to make room for an  
-immense stock of Millinery  
-this Spring, onr, present stock  
-will be sold at 20 per cent, b  
-l/vnr rotrnlar nnVftfl Mmirninff  
-  
-IWfT AVgUAWA |?AAWWW| , Q  
-Goods always on hand. Bridal  
-q Bonnets as handsome as car  
-be had anywhere.  
-Bespectfolly,  
-J AS. W. IWIJBB &amp; CO,  
-Jta. J, 1671.  
-  
-Take the Papers  
 Why don&#x27;t you take the papers?  
 They&#x27;re the life of my delight;  
 Except about election time,  
@@ -13137,9 +12889,9 @@ An old neighbor of mine,
 [ I took the papers and I read  
 Of some new pills in force:  
 1 He bought a box?and is he dead ?  
-No?hearty as a horse
+No?hearty as a horse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:0020219400A:1872020701:0270/pct:0.369296,10.164221,24.426273,87.144107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:0020219400A:1872020701:0270/pct:13.545239,11.145661,11.250330,10.543193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13151,7 +12903,7 @@ No?hearty as a horse
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and friends around us  
+and friends around us  
 READING THE PAPER.  
 One took a paper, and his life  
 Was happier than a king&#x27;s,  
@@ -13164,7 +12916,8 @@ And killed him as it should.
 Had he been reading of the news,  
 At home, like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
-Would never have happened him.
+Would never have happened him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524020:1872021301:0246/pct:7.297706,18.716852,9.772288,7.188480/!600,600/0/default.jpg"/>
 </td>
@@ -13242,7 +12995,6 @@ the Erie Prince.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends as much alike  
 As ever you saw tw o stumps.  
 And no Phrenologist could find  
@@ -13266,7 +13018,7 @@ To pie ise ail readers turn, and they can
 look  
 Pleased on a paper, w Iks abhor a btwk.  
 Too Lnte.  
-&quot;Too late, too
+&quot;Too late, too 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1872022401:0101/pct:29.315178,32.393729,12.494994,12.858004/!600,600/0/default.jpg"/>
 </td>
@@ -13280,8 +13032,6 @@ Too Lnte.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Vital Advantage of Taking a Paper.  
 I know two friends as much alike  
 As ever yon saw two stumps.  
@@ -13304,7 +13054,7 @@ Kot music so commands, nor so the Muse ;
 To hews all readers turn, and they c*n look  
 Pleased 011 a x&gt;a,per, who abhor a, book.  
 Patent Ontsides.  
-From ail address on
+From ail address on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_blastoise_ver01:data:sn86079077:0029587613A:1872072701:0126/pct:5.756792,30.268792,12.241268,10.240247/!600,600/0/default.jpg"/>
 </td>
@@ -13320,7 +13070,7 @@ From ail address on
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. I KNEW two friends as much  
+I KNEW two friends as much  
 alike As e&#x27;er you saw two stumps, And no  
 phrenologist could find A difference in  
 their bumps One took a paper, and bis  
@@ -13332,7 +13082,7 @@ mood, A slab fell down upon hi* crown.
 And floored him, as it should. Had he  
 been reading of the news, At home like  
 neighbor Jim, I bet two-pence this  
-accident Had not beUlloa bim. 
+accident Had not beUlloa bim. A
 </td></tr></table>
 
 ---
@@ -13345,7 +13095,7 @@ accident Had not beUlloa bim.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A NEWSPAPER. &#x27;  
+A NEWSPAPER. &#x27;  
 I knew two friends £o much aliko* .....  
 Ab e&#x27;er you saw two elumpBj And no  
 phrenologist could find... A diflerence  
@@ -13359,7 +13109,7 @@ down.upon hie crown, And killed him—as
 it 6hould! Had he been reading of the  
 news At home, like neighbor Jim, I&#x27;ll  
 bet a cent this acoidcnt Had not  
-befallen him
+befallen him!
 </td></tr></table>
 
 ---
@@ -13372,7 +13122,7 @@ befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. I  
+I  
 knew two friends as much alike As e&#x27;er  
 yon saw two stumps; And no phrenologist  
 could find &#x27; A difference in their  
@@ -13385,7 +13135,7 @@ the woodV A tree fell down upon his
 crown, And killed him— as it should! Had  
 he been reading of the news . : ; At  
 home, like neighbor Jim, ? . I&#x27;ll bet a  
-cent this accident Had net befallen hi
+cent this accident Had net befallen him
 </td></tr></table>
 
 ---
@@ -13398,7 +13148,7 @@ cent this accident Had net befallen hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. VITAL ADVANTAGE OF  
+VITAL ADVANTAGE OF  
 TAKING A NEWSPAPER. I knew two friends  
 as much alike As e&#x27;er you saw two  
 stumps; And no phrenologist could find A  
@@ -13411,7 +13161,7 @@ in the wood, A tree fell down upon his
 crown, And killed him—as it should! Had  
 he been reading of the news At home,  
 like neighboui Jim, TJ] bet a cent this  
-accident Had not befallen him
+accident Had not befallen him!
 </td></tr></table>
 
 ---
@@ -13424,7 +13174,7 @@ accident Had not befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-? I knew two friends as much alike _  
+I knew two friends as much alike _  
 mL&#x27;-As e&#x27;er you saw&#x27; two stumps &#x27;j &quot; And  
 no&quot;phrenologist&#x27;could&#x27;find; &quot;Ar  
 difference in their burtpB.-, -40ne took  
@@ -13439,7 +13189,7 @@ killed him-as it should 1&#x27; &#x27; u v K&#x27; ?
 Bad he b^e&#x27;n reading of the news /,! &quot;?  
 .c * At home,&quot; like neighbour Jfrii,&#x27; :  
 TH bet a cent this accident &#x27; ; -, : Had  
-not befallen lii
+not befallen liim
 </td></tr></table>
 
 ---
@@ -13452,7 +13202,7 @@ not befallen lii
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- The Advantage of Taking  
+The Advantage of Taking  
 a Newspaper. I knew two friends so mnch  
 alike, As o&#x27;er yon saw two stumps ; And  
 no phrenologist could find A difference  
@@ -13465,7 +13215,7 @@ wood, A trco fell down upon his crown,
 And killed him— as it should ! Had ho  
 been reading of the news At home, like  
 neighbour Jim, -I&#x27;ll bet a cent this  
-accident \ Had not befullcii him 
+accident \ Had not befullcii him !
 </td></tr></table>
 
 ---
@@ -13476,7 +13226,7 @@ accident \ Had not befullcii him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-by all those who have not yet subscri­  
+y all those who have not yet subscri­  
 bed for The Record :—  
 One took a paper, and his life  
 Was happier than a king’s ;  
@@ -13490,7 +13240,7 @@ Had he been reading of the news
 At home like neighbor Jim,  
 I’ll bet a cent that accident  
 Would never have happened him.  
-C
+Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1873090301:0204/pct:16.863085,75.977043,12.131716,8.595245/!600,600/0/default.jpg"/>
 </td>
@@ -13504,8 +13254,6 @@ C
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-i  
-  
 Take the Papeis.  
 f - ! ,!  
   
@@ -13539,7 +13287,8 @@ Would never happened him.
 Go then and take the papers, j  
 And pay to-day pray not delay,  
 And my word heard; it ii inferred.  
-You will live till you are gray.
+You will live till you are gray.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WAnsPolk2n_ver01%2Fdata%2F1874042301%2F0009.jp2/pct:11.747492,5.776623,11.817168,18.150649/!600,600/0/default.jpg"/>
 </td>
@@ -13555,7 +13304,7 @@ You will live till you are gray.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, and have no lover now.&quot; I  
+and have no lover now.&quot; I  
 knew two friends so much alike as e&#x27;er  
 you saw two stumps; and no phrenologist  
 could find a difference in their bumps.  
@@ -13565,7 +13314,7 @@ could all re?d and write, and talk of
 men and things. The .other took no  
 paper, and while strolling through a  
 wood, a tree fell down and broke his  
-crown, and killed him. Had li
+crown, and killed him. Had lie
 </td></tr></table>
 
 ---
@@ -13576,7 +13325,7 @@ crown, and killed him. Had li
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-4.  
+.  
   
 TAKE THE PAPERS.  
   
@@ -13609,7 +13358,7 @@ And pay to-d-j pray not delay,
 And my word heard, it is inferred.  
 Yon will lire till you are gray.  
   
-A NIGHT IN
+A NIGHT IN 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1874070201:0516/pct:4.376109,6.320009,9.683619,12.651810/!600,600/0/default.jpg"/>
 </td>
@@ -13623,7 +13372,6 @@ A NIGHT IN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 Vfhr don&#x27;t you take take the paper.  
 They&#x27;re the life of my delight,  
 Except about election time, .  
@@ -13651,7 +13399,8 @@ Would never hnpened him.
 (io then aud take the paers.  
 And pay to-day pray not delar,  
 And my word beard, it is inferred,  
-You will live till you are gray.
+You will live till you are gray.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1874070901:0256/pct:6.680508,15.063451,8.243771,10.927056/!600,600/0/default.jpg"/>
 </td>
@@ -13665,7 +13414,7 @@ You will live till you are gray.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.. M M  
+. M M  
 TAKE THE PAPERS.  
 Why don&#x27;t you take the papers.  
 They&#x27;re the life of my delight,  
@@ -13697,7 +13446,8 @@ And pay to-day pray not delay.
 And my word heard, it is inferred,  
 Ton will live till you are gray.  
   
-ADVICE TO JOHN.
+ADVICE TO JOHN.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1874073001%2F0327.jp2/pct:2.773417,51.619392,11.185243,21.152686/!600,600/0/default.jpg"/>
 </td>
@@ -13711,7 +13461,6 @@ ADVICE TO JOHN.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
   
 TA3I2 THE PAPEB3.  
 BT GtOKCS B. WAtLB.  
@@ -13766,7 +13515,7 @@ Aadpaye hia billa wnen doe.
 Can live at peace with God and man.  
 And with the printers, too.  
 a iobi m  
-Men
+Mena
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1874081301:0227/pct:18.686131,7.416737,10.437956,19.955220/!600,600/0/default.jpg"/>
 </td>
@@ -13780,7 +13529,6 @@ Men
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 T:iZie fte Paper.  
 &quot;Wliy don&#x27;t yon take the papers,  
 They&#x27;re the life of my delight,  
@@ -13816,7 +13564,7 @@ Ana pay to day pray not delay,
 And my word heard, it is inferred,  
 You wnl live till  
 IlOLMl-sV  
-Bewar
+Beware
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_RuthSWCR2n_ver01%2Fdata%2F1874091901%2F0318.jp2/pct:15.906450,46.076962,15.078443,24.217891/!600,600/0/default.jpg"/>
 </td>
@@ -13830,7 +13578,7 @@ Bewar
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 1874.  
+1874.  
 VOL. vn.  
   
 ßclcd  
@@ -13883,7 +13631,7 @@ Cun live io peace with God and mao,
 And with the printer too.  
 i. s  
 AT ^  
-Amanda Wbeuting 
+Amanda Wbeuting a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:deu:batch_deu_bombarda_ver01:data:sn84026820:00271765289:1874091901:0167/pct:5.838816,12.561637,61.907895,33.185404/!600,600/0/default.jpg"/>
 </td>
@@ -13897,7 +13645,7 @@ Amanda Wbeuting
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&quot; Take (lie l**pera.  
+Take (lie l**pera.  
 why don&#x27;t you take the papers?  
 They&#x27;ro the life of our delight.  
 Except ?b?ae election time,  
@@ -13943,7 +13691,7 @@ And pays his bills when doe,
 Can live in poace with God aud man.  
 And with the printer, too.  
 The wild West of this contineDl is]  
-becoming 
+becoming a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551220:1874120901:0619/pct:2.814868,21.704793,16.275713,26.048475/!600,600/0/default.jpg"/>
 </td>
@@ -13957,7 +13705,7 @@ becoming
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-RY 9, 1875.  
+Y 9, 1875.  
   
 TAKE THE PAPERS.  
 lIY N. P. WILMS.  
@@ -14005,7 +13753,7 @@ For be who takes the papers,
 And pays bis bills when due;  
 1 Can live in peace with God and man,  
 And with the printer too.  
-
+—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1875010901:0091/pct:39.776952,8.218492,29.300439,24.730644/!600,600/0/default.jpg"/>
 </td>
@@ -14019,7 +13767,7 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,1875. VOL. 27, NUMBER 4.  
+1875. VOL. 27, NUMBER 4.  
   
 TAKE TUB PAPtBj,  
   
@@ -14107,7 +13855,8 @@ For he who takes the papm,
 And pays his bills when dne,  
 Can lire In peace with Qo^ tad man,  
   
-And with the printer, too.
+And with the printer, too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1875050501:0724/pct:46.965099,9.066306,39.590288,19.559601/!600,600/0/default.jpg"/>
 </td>
@@ -14121,7 +13870,7 @@ And with the printer, too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- MAY 6, 1878.  
+MAY 6, 1878.  
   
 Take the Papew.  
   
@@ -14196,7 +13945,8 @@ Why don&#x27;t you take the papers
 Nor from the printer *neak,  
 Because you borrow from hi* boy  
   
-A paper every week.
+A paper every week.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1875050601:0632/pct:6.908287,8.398348,14.514208,31.092244/!600,600/0/default.jpg"/>
 </td>
@@ -14210,15 +13960,7 @@ A paper every week.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in order to leave youa relic. 8S. T. C., Oct.  
-  
-  
-  
-1811.”  
-  
-  
-  
-PRINTERS’ CIRCULAR.  
+AR.  
   
 TAKE THE PAPERS.  
   
@@ -14281,9 +14023,9 @@ And pays his bills when due,
 Can live in peace with God and man,  
 And with the printer too.  
   
-
+—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_printers-circular-and-stationers-and-publishers-gazette_1875-07_10_5%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1875-07_10_5_jp2.zip%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1875-07_10_5_jp2%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1875-07_10_5_0010.jp2/pct:12.931034,12.096774,64.965517,74.811828/,600/0/default.jpg"/>
+<img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_printers-circular-and-stationers-and-publishers-gazette_1875-07_10_5%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1875-07_10_5_jp2.zip%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1875-07_10_5_jp2%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1875-07_10_5_0010.jp2/pct:50.206897,12.123656,27.689655,61.935484/,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14295,11 +14037,6 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-e 15.--tf.  
-  
-  
-  
-1870l, ViRGiNia  
 Take the Papers.  
 BY N.P. WILLIS.  
 Why don&#x27;t you take the papers?  
@@ -14346,9 +14083,9 @@ For he who takes the paper,
 And pays his bills when due,  
 Can live in peace with God and man,  
 And with the printer too.  
-Fom th
+Fom the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1875080301:0327/pct:16.295224,13.409879,22.503618,84.683709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1875080301:0327/pct:28.147612,15.370451,10.651230,25.314125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14360,7 +14097,6 @@ Fom th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 rv  
   
 TAKE THE PAPERS.  
@@ -14409,7 +14145,8 @@ A paper every week.
 For he who lakes the paper, ;  
 l Aud pays his bills when due, ,.  
 C&#x27;n live in peace with God and man,  
-And with the printer too.
+And with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FrTempR2n_ver01%2Fdata%2F1875080401%2F0227.jp2/pct:5.590487,27.694236,10.251504,26.514202/!600,600/0/default.jpg"/>
 </td>
@@ -14423,8 +14160,6 @@ And with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-  
 Tahe the pAper  
 TN. F. WILLIS.  
 Why don&#x27;t you take the papers:  
@@ -14469,7 +14204,7 @@ Because you borrow from his bey
 For he who takes the pape  
 And pays his bills when due,  
 Can lire in peace with God and man,  
-And with the priater to
+And with the priater too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776452:1875080401:0645/pct:36.600000,13.616546,7.071429,20.849637/!600,600/0/default.jpg"/>
 </td>
@@ -14483,7 +14218,7 @@ And with the priater to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- A80N.  
+A80N.  
   
 TAKE THE PAPERS.  
 BY N, P. WILLIS.  
@@ -14545,7 +14280,7 @@ Can live in peace with God and man,
   
 And with the printer, too,  
   
-COBEE1GH S AUN
+COBEE1GH S AUNT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1875080601:0479/pct:33.671370,12.215777,11.331570,85.754060/!600,600/0/default.jpg"/>
 </td>
@@ -14559,7 +14294,6 @@ COBEE1GH S AUN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-,  
 TAUK. TiHE P&amp;PiERS.  
 BY N. P,. mWILL!s.  
 Why don&#x27;t you take thnpapers -  
@@ -14606,6 +14340,7 @@ F:or ha whlo takes the paer,
 And pays liisbils whenvt neh, .  
 Can live in peace witlt.e wd man,  
 And with the wiprite, tio.  
+  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555146:1875081101:0629/pct:59.016393,18.573257,11.324858,26.742698/!600,600/0/default.jpg"/>
@@ -14620,7 +14355,7 @@ And with the wiprite, tio.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- V.  
+V.  
   
 TAKE THE TAPE US.  
 UY :v v. W 11.1.15.  
@@ -14667,7 +14402,8 @@ A paper every w eek.
 For lie who takes the paper,  
 A ml pax - ld&gt; hills when due,  
 Can live in peace with Hod ami man,  
-And with the printer 100.
+And with the printer 100.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:0041562346A:1875081301:0083/pct:18.756074,15.656157,12.244898,31.204527/!600,600/0/default.jpg"/>
 </td>
@@ -14681,8 +14417,6 @@ And with the printer 100.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-^  
-  
 TAKE THE PAPEK,  
 HV S T. WILLI*  
 Why don’t you take the tapers ?  
@@ -14728,7 +14462,7 @@ A paper every week
 For he who take* the paper.  
 At d pays his hills when due.  
 Can live in f»e*&lt;« with Godand man,  
-And with the printer |o
+And with the printer |oo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1875082101:0714/pct:17.728345,12.395847,7.313785,19.343674/!600,600/0/default.jpg"/>
 </td>
@@ -14742,7 +14476,7 @@ And with the printer |o
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.TAKE THE PAPERS.  
+TAKE THE PAPERS.  
   
 BY N. P. WILLIS.  
   
@@ -14773,7 +14507,7 @@ As evur you kaw two stumps J &#x27;!
 AUO uo piuuuui&#x27;aii.  
 i&#x27;v r 4 difference! lu the bump  
 ii w usW&quot;! anii wllt  
-It happier Uia
+It happier Uian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1875082601:0287/pct:7.261592,6.088463,13.604549,16.453504/!600,600/0/default.jpg"/>
 </td>
@@ -14787,7 +14521,6 @@ It happier Uia
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 iAS7  
   
 TAKE THE PAPERS.  
@@ -14836,7 +14569,7 @@ A paper every week.
 For he who takes the paper.  
 And pays his bills when due,  
 Can live in peace with God and nun.  
-And with the printer too
+And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283132:1875082801:0139/pct:8.579193,12.428161,18.594720,78.505747/!600,600/0/default.jpg"/>
 </td>
@@ -14850,7 +14583,6 @@ And with the printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don’t you take the papers ?  
 They’re the life of my delight;  
 Except about election time.  
@@ -14873,7 +14605,7 @@ He bought a box—and is lie dead?
 No 1—hearty as a horse.  
 I knew a printer’s debtor once,  
 Backed with a shocking fever,  
-Who swore t
+Who swore to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875092301:0133/pct:37.697220,7.633161,11.157025,12.568153/!600,600/0/default.jpg"/>
 </td>
@@ -14887,7 +14619,7 @@ Who swore t
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- health upon her brow.  
+health upon her brow.  
 I knew two men, as much alike  
 As e&#x27;r you see two stumps,  
 And no phrenologist could flud  
@@ -14911,7 +14643,8 @@ A paper every week.
 For he who takes the papers,  
 And pars Ids bill when due,  
 Jan live in peace with God and man,  
-And with the printer loo.
+And with the printer loo.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875092301:0133/pct:37.697220,25.248148,11.288505,13.994128/!600,600/0/default.jpg"/>
 </td>
@@ -14925,7 +14658,6 @@ And with the printer loo.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 TAKE THE PAPERS.  
 nv N. e. WILLIS.  
 4&amp;  
@@ -14971,7 +14703,7 @@ For li who takes the papers
 And pays his bills when due,  
 Can live in peace with God and man,  
 And willi the printer too.  
-TOWN GRIE
+TOWN GRIER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_imanidevore_ver02:data:sn92065529:00294558573:1875100201:0106/pct:0.795848,30.938150,16.695502,38.630457/!600,600/0/default.jpg"/>
 </td>
@@ -14985,7 +14717,7 @@ TOWN GRIE
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- a. m.  
+a. m.  
 TAKE THE PAPERS.  
 BY N. P. WILLIS.  
 Why don&#x27;t you take the papers?  
@@ -15031,7 +14763,7 @@ A paper every week.
 For ho who takes the paper,  
 And pays lils bills when due,  
 Can live In peace with God and man,  
-And with the printer too
+And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_imanidevore_ver02:data:sn92065529:00294558573:1875100201:0107/pct:1.959773,29.417839,15.626612,37.950174/!600,600/0/default.jpg"/>
 </td>
@@ -15045,7 +14777,6 @@ And with the printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don’t you take tlie papers?  
 They’re the life of my delight;  
 Except about election time,  
@@ -15107,7 +14838,7 @@ And pays ids bill When due.
 Can live in peace with God and man,  
 And with the printer too.  
 Count the Cost.  
-Coun
+Count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1875112501:0170/pct:15.420474,6.734007,23.251911,90.867003/!600,600/0/default.jpg"/>
 </td>
@@ -15121,7 +14852,7 @@ Coun
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- the paper* t  
+the paper* t  
 1life of my delight;.  
 . ^t?roq^Jftoqt election time,  
 Ani;tb?n I read for spite.  
@@ -15183,7 +14914,7 @@ A paper erety weok. -
 - Torio who taken the papers,  
 &#x27; Anil Pjiys his bills when due,  
 Can live in pnaoo with God and Ban, ,  
-And with the pnntor to
+And with the pnntor too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1875113001:0405/pct:3.448276,4.656319,12.112286,32.949002/!600,600/0/default.jpg"/>
 </td>
@@ -15197,7 +14928,6 @@ And with the pnntor to
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-”  
 TARE THE PAPERS.  
 BY N. P. WILLIS.  
 Why don&#x27;t you take the papers?  
@@ -15243,7 +14973,7 @@ A paper every week.
 For he who takes the paper*.  
 And pays his bills when due;  
 Can live in peace with God and man,  
-And with the printer too
+And with the printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623768:1875121101:0197/pct:49.775785,38.166567,9.783938,21.105452/!600,600/0/default.jpg"/>
 </td>
@@ -15299,7 +15029,6 @@ Independence, W
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Take the PapErs.  
 BY N.F. WILLIs.  
 Why don&#x27;t you take the papers?  
@@ -15320,7 +15049,7 @@ dhe stgertook no paper, and,
 While stralling through the wobd.  
   o a e  
 tree fell down and broke his crowi  
-tor Ji
+tor Jim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876030301:0253/pct:8.496732,8.345998,9.033015,10.828267/!600,600/0/default.jpg"/>
 </td>
@@ -15334,8 +15063,6 @@ tor Ji
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 insmts while he was guhig off. I took  
 the paper and I read of some new  
   
@@ -15351,7 +15078,8 @@ phrenologist could nud a dixiervitce
 in their bumps. 0..e takes the  
 paper and his lite is happier than  
 a king&#x27;s, his children cat. all read  
-and write, aud talk of men and
+and write, aud talk of men and  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_TriHen1n_ver01%2Fdata%2F1876032401%2F0548.jp2/pct:23.564004,44.628279,12.869256,7.031675/!600,600/0/default.jpg"/>
 </td>
@@ -15365,27 +15093,6 @@ and write, aud talk of men and
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-Smith   
-Caldwell--D Rhodes.  
-Macksburgh- N C. Worthington.  
-Salem-W. M. Webster.  
-Lebanon- Supplied G M. Wilson.  
-Newport--F.D Faust.  
-Muskingum--A D. MeCormack.  
-Brownsville- John Wright.  
-o misclanos  
-S Burt, Alliance; J. A. Swaney, Ne  
-Brighton; James J. Bracken, P. E. Steu­  
-benville District; Homer J. Smith, Ir­  
-ving Station; J. N. Baird, P. E East  
-Pittsburg District; I A. Pearce, Second  
-  
-vettsville; A L. Petty, Lewickly; See  hoice sas aderir a a  
-  
-Woolf, Butler Street Pittsburgh; Dr.  
-Brooks, Christ Church Pittsburgh; J. L.  
-Deens, Main Street, Pittsburgh; J. A.  
-Street, Ames and St. Paul, Pittsburgh.  
 TakE THE PApER.  
 We find the following going the  
 rounds of the press. Read, ponder and  
@@ -15420,9 +15127,10 @@ I&#x27;ll bet a cent that accident would not
 have happened him, for he who takes  
 the paper, and pays his bill when due,  
 can live in peace with every man, and  
-with the printer too.
+with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1876032801:0495/pct:39.909168,43.386752,20.848708,26.805556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1876032801:0495/pct:39.951746,53.418803,10.474028,16.773504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15434,8 +15142,6 @@ with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 kitied his--&quot;very good.&quot; Had he  
 been reading all the nows, at home  
   
@@ -15458,7 +15164,7 @@ live in peace with every man, and
   
 with the printer too.  
   
-A
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1876032901:1159/pct:25.988851,89.514597,52.083886,5.026775/!600,600/0/default.jpg"/>
 </td>
@@ -15472,7 +15178,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Take the Paper.  
 From Rowell&#x27;s Newspaper Reporter.  
 We find the following going the  
@@ -15513,7 +15218,7 @@ too.
   
 _ ——   
 A Doer Attacks a Farmer.  
-A corresponde
+A corresponden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1876033001:0046/pct:67.475995,31.357726,13.319616,23.838323/!600,600/0/default.jpg"/>
 </td>
@@ -15527,7 +15232,6 @@ A corresponde
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why do;it you take tlie papers,  
 Ihry’ro the life of my delight,  
 Except about election time.  
@@ -15537,7 +15241,7 @@ Wiiyshould you be afiaid ?
 For cash then spent, is money lent.  
 On in crest four-fohl paid.  
 I knew two fi iends as much alike  
-As ever \mu say tw
+As ever \mu say two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GrMJ1_ver01%2Fdata%2FGrMJ_1876-03-31_1%2F0003.jp2/pct:7.855626,10.620378,14.801335,9.079704/!600,600/0/default.jpg"/>
 </td>
@@ -15551,8 +15255,6 @@ As ever \mu say tw
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Take the Papers. Read, ponder and  
   
 pat up ! Why don&#x27;t you take the papers ?  
@@ -15604,7 +15306,8 @@ him, for he who takes the papers, and pays
   
 his bills when due, can live in peace with  
   
-every man, and with the printer too.
+every man, and with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876033101:0068/pct:18.441901,78.224201,11.091549,15.672953/!600,600/0/default.jpg"/>
 </td>
@@ -15618,7 +15321,7 @@ every man, and with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-pers gen­  
+ers gen­  
 erally.  
   
 Take Che Paper.  
@@ -15660,7 +15363,7 @@ that accident would not have hap­
 pened him, for he who takes the  
 paper,and pays his bill when due,  
 can live in peace with every man,  
-and with the printer too.”
+and with the printer too.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876040101:0930/pct:21.916984,40.339407,14.958893,25.928502/!600,600/0/default.jpg"/>
 </td>
@@ -15674,14 +15377,7 @@ and with the printer too.”
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-l 18, 1872.  
-  
- 36  
-  
-t 3iComplete stock of  
-Patent Medicines!  
-aa  
-HJEYTES DRUG STORR.  
+ STORR.  
   
 Take the Paper  
 Why don&#x27;t you take the papers?  
@@ -15730,9 +15426,9 @@ And pays his bills when due,
 Can live in peace with God and man,  
 And with Alpena printers too.  
   
-A spl
+A sple
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1876040501:0263/pct:17.670437,39.606050,23.081626,59.069059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023966:1876040501:0263/pct:18.052583,39.606050,22.699480,59.069059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15744,7 +15440,7 @@ A spl
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- time,  
+time,  
 saying:  
 &quot;Lord keep you forever, and  
 won&#x27;t you give mo ten cents to help  
@@ -15763,7 +15459,7 @@ his bill when due, can lire in peace
 with every man, and with xhe printer  
 too.  
   
-land 1 almor
+land 1 almort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_FCoLou2n_ver01%2Fdata%2F1876040701%2F0239.jp2/pct:54.220779,48.425935,30.018939,9.227277/!600,600/0/default.jpg"/>
 </td>
@@ -15777,7 +15473,6 @@ land 1 almor
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
 Takf ISie Papers-  
 Wefil the following goiug  
   
@@ -15809,7 +15504,7 @@ I&#x27;ll bet ti cdnt that accident would&#x27;n&#x27;ot
 of happened Thiin ; Ipijie who takes the  
 paper, andpSys1 hia&#x27; bill &quot;wheii die,  
 can livo in peace with cvery-man and  
-with tho printer too
+with tho printer too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_SSoRock1n_ver01%2Fdata%2F1876040801%2F0092.jp2/pct:54.870941,5.454298,14.363031,22.619695/!600,600/0/default.jpg"/>
 </td>
@@ -15823,33 +15518,6 @@ with tho printer too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
-They must make their own repairs.  
-alose can het protest  
-self from inundation. The only  
-solution is the assnmption, by the  
-general government of the con  
-struction of levees. This commi  
-sion has, collectively and indivi  
-iy, made all efforts possible in  
-present Cohgress waw ot dur  
-.  
-an o e da  o  
-arder of the commission  
-G. on  
-aeta e  
-  
- rtS  
-vaaloned ole1g s  
-  
-courts. This places the Levee  
-Company, in view of a tremendous  
-river, in rather an unpleasant  
-position--with no funds on hand,  
-and but little prospect of any for  
-some time, necessarily impairing  
-to a great extent their credit.N.  
-O. Republioan.  
 Take the Paper.  
 We find the following going the  
 rounds of the press. Read, pond  
@@ -15875,9 +15543,9 @@ too.  to s
  ­  
   
 An InTErEsTING ProblEM.  
-A problem propounded i
+A problem propounded in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_franklin_ver02:data:sn86079080:00202190078:1876040802:0068/pct:40.667166,21.605431,27.623688,73.442492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_franklin_ver02:data:sn86079080:00202190078:1876040802:0068/pct:54.610195,27.236422,13.549475,27.848775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15889,7 +15557,7 @@ A problem propounded i
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. &quot;The only man ia  
+&quot;The only man ia  
 tbe world that ever knew has forgotten  
 it.&quot; -  
   
@@ -15929,7 +15597,7 @@ pened bim, for he who takes the paper,
 and pays his bill when due, can live ia  
 peace with every man, and with tho  
 printer too.  
-Wanted to he aa
+Wanted to he aa 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1876042801:0349/pct:67.973142,15.126491,24.156777,79.315769/!600,600/0/default.jpg"/>
 </td>
@@ -15943,7 +15611,7 @@ Wanted to he aa
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- to West Point, and the fort  
+to West Point, and the fort  
 was destroyed.  
 Take the Paper.  
 &#x27; Bead what Holmes says, ponder  
@@ -15987,7 +15655,7 @@ pened to him, for he who takes the
 Daner.anQ pays tils Dill When UUG.  
 can live iu ptxtce wini evci j uiau,  
 and with the printer, too.  
-H
+He
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EraRal1n_ver01%2Fdata%2F1876050401%2F0486.jp2/pct:58.752621,29.919264,13.011006,25.732257/!600,600/0/default.jpg"/>
 </td>
@@ -16001,7 +15669,7 @@ H
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- of the best kind.  
+of the best kind.  
 Take the Paper-  
 Read what Holmes says, ponder  
 and pay np : Why don&#x27;t you take  
@@ -16040,7 +15708,7 @@ him. for he who takes the paper,
 and pays his bill when due, can live  
 ia peace witn every man, anu wun  
 the printer, too.  
-Tnn nioMelu Closeted. A ladv
+Tnn nioMelu Closeted. A ladv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GreenPat30n_ver01%2Fdata%2F1876053101%2F0289.jp2/pct:72.367739,53.245130,10.931017,21.825190/!600,600/0/default.jpg"/>
 </td>
@@ -16054,7 +15722,7 @@ Tnn nioMelu Closeted. A ladv
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- Berks Sts.,  
+Berks Sts.,  
 Phill, Pa  
   
 Takk the Paper.— We find the  
@@ -16095,7 +15763,8 @@ a cent that accident would not have
 happened him, tor he Mho takes  
 the paper, and pays his bill when  
 due, can live in peace with every  
-man and with the printer too.
+man and with the printer too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1876060201:0084/pct:39.294150,5.694346,27.511463,88.065136/!600,600/0/default.jpg"/>
 </td>
@@ -16109,7 +15778,6 @@ man and with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-   
 Take the Paper.—Wc find the fol­  
 lowing going the rounds of the press, i  
 Bead, ponder and—pay ip! Why don&#x27;t  
@@ -16144,7 +15812,7 @@ accident would not have happened him,
 ; for he who takes the paper, and pays  
 ids bill when due, can live in peace with  
 every man, and with the printer too.  
-
+A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876061001:0394/pct:23.248106,48.157168,16.287879,24.435785/!600,600/0/default.jpg"/>
 </td>
@@ -16158,8 +15826,6 @@ every man, and with the printer too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 find a difference in their bumps. One  
 takes, the paper and hia life ia . happier,  
 than a king&#x27;s, his children can all read  
@@ -16172,7 +15838,7 @@ face of this broad continent. Ten will I The other took no paper, and. while
   
 roooi1 &quot;why dldnWou fall in love summer. I confess, I was infatua- h must be put on as a powder and &quot;emember that upon it forty millions of the news, at home like fan neighbor Jim,  
   
-with Kitty instead of Beatrix ? I telTl tei but I never knew what real delicately &#x27;washed in with a fine Hn- PeiDS9are already placed, and tbat tne I&#x27;ll bet a cent tbat acciden
+with Kitty instead of Beatrix ? I telTl tei but I never knew what real delicately &#x27;washed in with a fine Hn- PeiDS9are already placed, and tbat tne I&#x27;ll bet a cent tbat accident
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WilmMess63n_ver01%2Fdata%2F1876061201%2F0185.jp2/pct:30.399595,44.607661,64.226100,6.108219/!600,600/0/default.jpg"/>
 </td>
@@ -16186,7 +15852,7 @@ with Kitty instead of Beatrix ? I telTl tei but I never knew what real delicatel
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, &#x27;  
+&#x27;  
 Wo find tho following going the  
 rounds of the press :  
 Read, |&gt;ondcr and—PAY UP !  
@@ -16219,7 +15885,7 @@ ing throng!) tho wwcwl, h tree fell&#x27;
 do»u iuid broko his crown, and,  
 klKed him-—&quot; very good.* ]!;»&#x27;! ho  
 he n reading all the n»wx r at koine  
-hke 
+hke u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_GraA1_ver01%2Fdata%2F1876061301%2F0286.jp2/pct:20.396707,55.224261,12.369012,21.190112/!600,600/0/default.jpg"/>
 </td>
@@ -16233,7 +15899,7 @@ hke
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, there is  
+there is  
 no World’s Pair.  
 Take the Paper.—Read what Mr.  
 Holmes says, ponder and—pay up. “Why  
@@ -16265,7 +15931,7 @@ accident would not have happened to him;
 for he who takes the paper, and pays his  
 hill vvhen due, can live in peace with every  
 man and witli the printer, too.  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876070701:0290/pct:51.706539,63.129906,10.940989,18.093188/!600,600/0/default.jpg"/>
 </td>
@@ -16279,7 +15945,6 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 TAKE THE PAPER.  
 Read what Mr. IIt»lme* says,  
 ponder and pay up. “Win  
@@ -16322,7 +15987,8 @@ have liappend him; for one
 who takes the paper, and pays  
 his bill when due, can live in  
 peace with every man, and  
-with the printer, too,
+with the printer, too,  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_monroe_ver01:data:sn84037877:00542867644:1876070801:0117/pct:21.219382,33.345102,17.838126,36.593116/!600,600/0/default.jpg"/>
 </td>
@@ -16336,8 +16002,6 @@ with the printer, too,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Take the CarEts.—Read what Mr.  
 Holmes says, ponder and—pay tip.—  
 “Why don’t you take the papers? They  
@@ -16370,7 +16034,7 @@ accident would not have happened him;
 for he who takes the paper, and pays  
 his bill when due, can live in peace with  
 every man, and with the printer too.  
-I
+In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1876071301:0308/pct:68.079756,63.923642,12.071133,20.650071/!600,600/0/default.jpg"/>
 </td>
@@ -16384,7 +16048,7 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-ams.  
+ms.  
 TAKE THE PAPER.  
 Read what Holmes says, ponder and—  
 pay up,  
@@ -16417,7 +16081,7 @@ accident would not have happened to him;
 for he who takes the paper, and pays his  
 bills when due, can live in peace with  
 every man, and with a printer too.”  
-A
+A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876071701:1004/pct:81.543255,17.013341,12.628299,19.480706/!600,600/0/default.jpg"/>
 </td>
@@ -16431,7 +16095,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and hopo.  
+and hopo.  
   
 Tlic Paper.  
 Rend &quot; hat Holmes suys, ponder  
@@ -16469,7 +16133,7 @@ j eident would not have happened to
 j pays his bill when due, can live in  
 i peace with every man, and with the  
 | printer too.  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219378A:1876072001:0114/pct:27.439591,2.942171,17.541822,96.026378/!600,600/0/default.jpg"/>
 </td>
@@ -16493,7 +16157,7 @@ i peace with every man, and with the
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- three grains, and is made  
+three grains, and is made  
 of gold, steel and platinum.  
 Takjc the Paper. Read what Hol  
 mes says, ponder and pay up.  
@@ -16529,7 +16193,7 @@ for he who takes the paper and pays his
 bill when due, can live in peace with  
 every, man, and with the printer, too.  
   
-A
+An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1876073101:0322/pct:36.827803,5.163013,11.956522,90.909091/!600,600/0/default.jpg"/>
 </td>
@@ -16543,7 +16207,7 @@ A
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- and you go to  
+and you go to  
 . hicago,— Union Spring* (AlaHerald.  
 Take 1 he Parer—Head what Holmes  
 lays, ponder and—pay up.  
@@ -16573,7 +16237,8 @@ fell down and killed him—very good. Had
 lie been reading the news at home like his  
 nfigbor Jim, I’ll bet a cent that accident  
 would not have happened to him; for he  
-who takes the paper, and pays his bills
+who takes the paper, and pays his bills  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1876090701:0352/pct:82.944632,62.194963,11.126936,12.932272/!600,600/0/default.jpg"/>
 </td>
@@ -16587,7 +16252,6 @@ who takes the paper, and pays his bills
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 the stars appear in the blackness of  
 space. The moon is a dead world; she  
 has no atmosphere.  
@@ -16625,7 +16289,7 @@ the paper, and pays his bills when due,
 can live in peace with every man, and  
   
  PRIVATE STItt.  
-The Madiso
+The Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524044:1876091201:0159/pct:81.263254,28.646154,13.001111,23.552137/!600,600/0/default.jpg"/>
 </td>
@@ -16639,7 +16303,7 @@ The Madiso
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
--ki Wfitltht fol- -  
+ki Wfitltht fol- -  
 lowing going tho rounds of the press.  
 Read,, ponder; and pat vtl Why  
 don&#x27;t -you take the&quot;, papers ?Athey re  
@@ -16665,7 +16329,7 @@ One takes tho paper and his life is.hap
 pier thanla;kings,;:hisCchildren can  
 all read andjwrito, and;toldof men  
 and things. The ctbertook no pa­  
-per, and, whilo&#x27;strolling.thi&#x27;ough th
+per, and, whilo&#x27;strolling.thi&#x27;ough the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_BeeRock1n_ver01%2Fdata%2F1876122301%2F0140.jp2/pct:74.324877,25.149190,14.770867,19.295254/!600,600/0/default.jpg"/>
 </td>
@@ -16679,7 +16343,7 @@ per, and, whilo&#x27;strolling.thi&#x27;ough th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- J AST. 12. 1877.  
+J AST. 12. 1877.  
 TAKE THE PAPER.  
 I BT H. P. WILLIS. .  
 Why don&#x27;t you fcik&#x27;e the papers?  
@@ -16726,7 +16390,7 @@ For he who takes the paper.
 And pays his bills when due.  
 Can live in peace with God and man,  
 And with tlie printer too.  
-ATTEMPT AT WHOLESAL
+ATTEMPT AT WHOLESALE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1877011201:0497/pct:67.428397,17.081152,10.938452,26.649215/!600,600/0/default.jpg"/>
 </td>
@@ -16740,7 +16404,6 @@ ATTEMPT AT WHOLESAL
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-;  
 TAKE TJIE PAriXa  
 !  
 or x. r. wxLLta,  
@@ -16789,7 +16452,7 @@ For he who tskes the paper.
 And pays the bills when duo,  
 Cau lire in peace with. God and man.  
 And with the printer too.  
-CARRI
+CARRIE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NSGreen22n_ver01%2Fdata%2F1877100401%2F0530.jp2/pct:19.702881,15.759312,11.824730,32.041859/!600,600/0/default.jpg"/>
 </td>
@@ -16803,7 +16466,7 @@ CARRI
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 1 read for ipit.  
+1 read for ipit.  
 I know two mea, is much alike  
 A Ter yua mw two stump ;  
 And do yhreoologHt ca1d find  
@@ -16823,7 +16486,7 @@ Would not h:;ve ta.&#x27;iened him.
 Subscribe I yon cannot loose a cent :  
 Why saonld you be afraid t  
 For cash thus spent is money lent  
-At interest four-fold paid
+At interest four-fold paid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_cholla_ver01:data:sn87062081:00202196238:1878030201:0026/pct:7.044592,12.000000,10.673624,12.000000/!600,600/0/default.jpg"/>
 </td>
@@ -16837,7 +16500,7 @@ At interest four-fold paid
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
+  
 I knew two friends as much alike  
 As ever you saw two stumps ;  
 And no phrenologist could find  
@@ -16856,7 +16519,7 @@ I&#x27;d bet a cent, this accident
 Had not befallen him.  
   
 Conan tattle: | 4S  
-T
+TH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9_jp2.zip%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9_jp2%2Fsim_printers-circular-and-stationers-and-publishers-gazette_1878-11_13_9_0009.jp2/pct:21.373780,15.299335,24.302650,21.396896/,600/0/default.jpg"/>
 </td>
@@ -16870,8 +16533,6 @@ T
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 The other took no pipers, and,  
   
 While strolling through the wood.  
@@ -16888,7 +16549,7 @@ I&#x27;d I et a cent, this, accident
   
 Had not befallen him.  
   
-I
+Iu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_EcoEC1n_ver01%2Fdata%2F1878121001%2F0327.jp2/pct:17.851759,6.225075,14.736181,10.893882/!600,600/0/default.jpg"/>
 </td>
@@ -16902,7 +16563,6 @@ I
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I know two friends as much alike  
 As ever you saw two stumps:  
 And no phrenologist &quot;ould find  
@@ -16918,7 +16578,8 @@ And killed him as it should.
 Had he been reading of the news,  
 At homo, like neighbor Jim,  
 I&#x27;d bet a cent, this accident  
-Had not befallen him.
+Had not befallen him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029038:1878121901:0139/pct:7.454331,5.880173,8.485563,5.966646/!600,600/0/default.jpg"/>
 </td>
@@ -16932,7 +16593,7 @@ Had not befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-- j I knew two friends as much alike  
+j I knew two friends as much alike  
 As ever joa saw two stumps ;  
 And do phrenologist con Id laid  
 A difference tn their camps.  
@@ -16948,7 +16609,7 @@ Had he been reading of the news
 . At home, like neighbor Jim, ...  
 I&#x27;d bet acent this accident  
 , Had not befallen him,  
-:
+: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_NewsObs79n_ver01%2Fdata%2F1878122901%2F0602.jp2/pct:59.310450,84.708586,11.482382,7.207019/!600,600/0/default.jpg"/>
 </td>
@@ -16962,7 +16623,7 @@ I&#x27;d bet acent this accident
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-—l knew two friends  
+l knew two friends  
 ns much alike ns you ever saw tw® stumps;  
 and no phrenologist could find any difference  
 in their humps. One look a paper, and his  
@@ -16974,7 +16635,7 @@ upon his crown, and kilied him—as it should.
 Had he been reading of the news at home,  
 like neighbor Jim, I’d bet a cent this accident  
 had not befallen him. The moral of this is  
-tha
+that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879010401:0012/pct:14.560603,70.586497,10.731998,4.978579/!600,600/0/default.jpg"/>
 </td>
@@ -16988,7 +16649,6 @@ tha
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two frlcmls as much alike  
 As ever you saw two ttumps;  
 And no phrenologist could Und  
@@ -17004,7 +16664,7 @@ And killed him as it should.
 Had he been readinjr oi the news  
 At home, like neighbor Jim,  
 I&#x27;d bet a cent, this accident  
-Had not befallen hi
+Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472992:1879011001:0006/pct:65.906736,43.869541,7.681347,5.682698/!600,600/0/default.jpg"/>
 </td>
@@ -17018,7 +16678,6 @@ Had not befallen hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don’t you take the papers ?  
 They’re the life of our delight;  
 Except about election time,  
@@ -17059,7 +16718,7 @@ Why don’t you take the papers ?
 Nor from the printer sneak  
 Because you borrow from his boy  
 A paper every week.  
-For he who takes the paper
+For he who takes the papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625510:1879012401:0426/pct:39.619144,20.869106,8.645096,17.434949/!600,600/0/default.jpg"/>
 </td>
@@ -17073,7 +16732,7 @@ For he who takes the paper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- them :  
+them :  
 I knew two friends as much aliko  
 As ever were two stumps;  
 And no phrenologist could find  
@@ -17089,7 +16748,7 @@ Aud killed him as it should.
 Had he been reading of the news  
 At home, like neighbor Jim,  
 I&#x27;d risk a cent this accident  
-Had not befallen hi
+Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194394:1879012701:0227/pct:14.425223,63.405377,8.705357,6.494465/!600,600/0/default.jpg"/>
 </td>
@@ -17103,7 +16762,6 @@ Had not befallen hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 I knew two friends as much alike  
 As ever were two stumps;  
 And no phrenologist could find  
@@ -17119,7 +16777,7 @@ And killed him--as it should.
 Had he been reading of the news  
 At home, like neighbor Jim,  
 I&#x27;d risk a cent this accident  
-Had not befallen hi
+Had not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1879020801:0166/pct:5.084098,65.314240,11.009174,7.597454/!600,600/0/default.jpg"/>
 </td>
@@ -17133,7 +16791,6 @@ Had not befallen hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 I knew two friends as much alike  
 As ever were two stumps,  
 And no phrenologist could find  
@@ -17147,7 +16804,7 @@ While strolling through the wood,
 A tree fell down upon his crown,  
 And killed him-as it should.  
 Had he been reading of the ne  
-t home, line nenni
+t home, line nennit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879031201:0505/pct:85.708798,91.504784,6.665386,4.131632/!600,600/0/default.jpg"/>
 </td>
@@ -17161,7 +16818,6 @@ t home, line nenni
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 I knew two friends as much alike  
 As ever you saw two stumps,  
 And no phrenologist could find  
@@ -17187,7 +16843,8 @@ At home, like Neighbor Jim,
 are graduates of Amherst College.  
   
 I&#x27;d bet a cent this accident  
-Had not befallen him:
+Had not befallen him:  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_independent_1879-04-03_31_1583%2Fsim_independent_1879-04-03_31_1583_jp2.zip%2Fsim_independent_1879-04-03_31_1583_jp2%2Fsim_independent_1879-04-03_31_1583_0007.jp2/pct:10.015291,81.489362,36.493374,12.960993/600,/0/default.jpg"/>
 </td>
@@ -17201,7 +16858,6 @@ Had not befallen him:
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends as much alik  
 As ever you saw two stumns,  
 And no phrenologist could find  
@@ -17216,7 +16872,7 @@ A tree tell down upon his crown
 And killed him-as it should.  
 Had he been reading of the news  
 At home, like Neighhor Jim,  
-
+I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879040601:0730/pct:34.249714,90.151515,8.342879,5.347594/!600,600/0/default.jpg"/>
 </td>
@@ -17232,7 +16888,7 @@ At home, like Neighhor Jim,
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. I KNEW  
+I KNEW  
 two friends as much alike As ever you  
 saw two stumps; And no phrenologist  
 could find A difference in their bumps.  
@@ -17245,7 +16901,8 @@ tree fell down upon his crown, And
 killed him—as it should. Had he been  
 reading of the news At home, like  
 neighbor Jim, I&#x27;d bet a cent this  
-accident Had not befallen him.
+accident Had not befallen him.  
+
 </td></tr></table>
 
 ---
@@ -17256,7 +16913,6 @@ accident Had not befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends as much alike  
 As ever yvo saw two stlmulps;  
 And no phrenologist could find  
@@ -17266,7 +16922,7 @@ Was happier than a king&#x27;s;
 His children all could read and write,  
 And talk of men and things.  
 The other took no papers, andl  
-Lost life&#x27;
+Lost life&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lenin_ver01:data:sn83026389:00212474927:1879042601:0070/pct:44.804527,17.397661,10.528121,4.666179/!600,600/0/default.jpg"/>
 </td>
@@ -17280,7 +16936,7 @@ Lost life&#x27;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- 1  
+1  
 I knew twofri as much alike  
 _ As e’@r you saw stumps,  
 And no pbrenologist could find  
@@ -17303,7 +16959,7 @@ Athome, like Neighbor Jin,
 I&#x27;d bet a cent this accident  
 llad not befallen t him.  
   
-SOLEMN
+SOLEMN 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/per_st-louis-post-dispatch_st-louis-post-dispatch_1879-05-08_28_20%2Fper_st-louis-post-dispatch_st-louis-post-dispatch_1879-05-08_28_20_jp2.zip%2Fper_st-louis-post-dispatch_st-louis-post-dispatch_1879-05-08_28_20_jp2%2Fper_st-louis-post-dispatch_st-louis-post-dispatch_1879-05-08_28_20_0002.jp2/pct:10.160328,9.697476,7.916977,7.320132/,600/0/default.jpg"/>
 </td>
@@ -17319,7 +16975,7 @@ SOLEMN
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-&#x27;t  
+t  
 Subscribe.— J knew two friends as much  
 alike as ever you si.w two stumps ; and  
 no phrenologist could fin! a difference  
@@ -17332,7 +16988,7 @@ the wood, a tree fell down upon his
 crown, and killed him as it should. Hail  
 lie been reading of the news at home,  
 like neighbor Jim, I&#x27;d bet a cent this  
-accident had not befallen him. —
+accident had not befallen him. — 
 </td></tr></table>
 
 ---
@@ -17365,7 +17021,6 @@ accident Had not befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 I knew two friends as much alike  
 As ever you saw two stumps.  
 And no phrenologist could find  
@@ -17381,7 +17036,8 @@ And killed him as it should.
 Had ho been reading the news,  
 At home like neighbor Jim,  
 I&#x27;d bet a cent this accident  
-Had not befallen him.
+Had not befallen him.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879061901:0520/pct:64.715719,65.149783,8.472687,6.368626/!600,600/0/default.jpg"/>
 </td>
@@ -17395,7 +17051,7 @@ Had not befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-: &quot;I knew two friends as much alike  
+&quot;I knew two friends as much alike  
   
 as ever you saw two Btumps, and no phren  
   
@@ -17413,7 +17069,8 @@ bo been reading of tbe news at borne, like
   
 Neighbor Jim, I&#x27;d bet a cent this accident  
   
-bad not befallen blm.&quot;
+bad not befallen blm.&quot;  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879062801:0353/pct:13.332324,61.169253,9.897094,5.136533/!600,600/0/default.jpg"/>
 </td>
@@ -17427,7 +17084,6 @@ bad not befallen blm.&quot;
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don&#x27;t rou take the papers?  
 They&#x27;re the life of my delight­  
 Except about election time,  
@@ -17440,7 +17096,7 @@ Go, then, and take the papers ;
 And pay to-day, nor pay delay,  
 And my word heard, it is inferred  
 You&#x27;ll lite until you&#x27;re gray*  
-About Lov
+About Love
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551323:1882070401:0193/pct:87.003351,9.683442,10.818573,7.918187/!600,600/0/default.jpg"/>
 </td>
@@ -17454,7 +17110,6 @@ About Lov
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;Whv don&#x27;t you lalcethe papers ?  
 They&#x27;re all the light of my de­  
 lights. &#x27; 4 . - -v;  
@@ -17507,7 +17162,7 @@ Can &quot;iix-e in peace with God and
 man. i  
 And with the printer too..  
 From Ciranville County.  
-For the last two weeks I hav
+For the last two weeks I have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_OxLead8n_ver01%2Fdata%2F1884081201%2F0381.jp2/pct:2.121298,38.343524,10.521071,30.939411/!600,600/0/default.jpg"/>
 </td>
@@ -17521,8 +17176,6 @@ For the last two weeks I hav
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 Take the Papers.  
   
 Why don&#x27;t you take the paper?  
@@ -17593,7 +17246,7 @@ And with the printer, too.
 THE 0LI) HUNTER.  
   
 Among tlic many odd ch:.r fit of  
-the nid-liimtcr type with whom 1 hav
+the nid-liimtcr type with whom 1 have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876499:1884082101:0333/pct:54.022027,5.525866,9.953994,24.262505/!600,600/0/default.jpg"/>
 </td>
@@ -17607,7 +17260,6 @@ the nid-liimtcr type with whom 1 hav
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-*  
 Why don’t you take the papers?  
 They are the light of my delight,  
 Except about election time,  
@@ -17644,7 +17296,7 @@ Had he been reading of the news,
 At home like neighbor Jim,  
 I’ll bet a cent that accident  
 Would not have happened him.  
-Why don’t you take the paper
+Why don’t you take the papers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_epidote_ver01:data:sn85032971:0051699051A:1885100801:0206/pct:36.453931,15.848461,9.721048,21.310182/!600,600/0/default.jpg"/>
 </td>
@@ -17658,7 +17310,7 @@ Why don’t you take the paper
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- alike  
+alike  
 Any difference in their bumps:  
 One took the papers and his life  
 Was happier than a King&#x27;s,  
@@ -17669,7 +17321,7 @@ And hurt him as it should.
 Had he been reading of the news  
 At home like neighbor Jim,  
 I&#x27;ll bet a cent this accident  
-Would not befallen hi
+Would not befallen him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn91064052:00513685579:1888032301:0910/pct:56.441477,74.974479,10.472310,7.295464/!600,600/0/default.jpg"/>
 </td>
@@ -17683,7 +17335,7 @@ Would not befallen hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.3  
+3  
 Whyi-aon&#x27;l you take the parcra !  
 They&#x27;re the-life of my delight;  
 Kicept-aboat election time, ,  
@@ -17705,7 +17357,7 @@ While he was dying off
 Of some new Pills in force;  
 He bought a box and is he dead?  
 No hearty as a horst.  
-1 knew 
+1 knew a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1889022101%2F0240.jp2/pct:15.948985,15.552580,10.381240,12.678958/!600,600/0/default.jpg"/>
 </td>
@@ -17719,7 +17371,7 @@ No hearty as a horst.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- health upon her brew, ,&#x27; . - .  
+health upon her brew, ,&#x27; . - .  
 I knew Jfwo men, as much alike, 7  
 As e&#x27;e ypu saw two stumps;  
 And do phrenologist could find  
@@ -17737,7 +17389,7 @@ At homelike neighborJim,
 I&#x27;ll bet accent that accident  
 &quot; Would not hare happened him.  
 . Why don&#x27;t you take the papers?  
-3
+3n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CarWSal1_ver01%2Fdata%2F1889022101%2F0240.jp2/pct:15.825562,33.916984,11.162918,11.010403/!600,600/0/default.jpg"/>
 </td>
@@ -17751,7 +17403,7 @@ I&#x27;ll bet accent that accident
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-, Thursday, June ll 1869.  
+Thursday, June ll 1869.  
   
 TAKE THE PAPERS.  
 nv n. i*. wiLias.  
@@ -17798,7 +17450,7 @@ A paper cyery week.
 For he who takes the paper,  
 And pays Ids bills when due,  
 Can live in peace with God and man,  
-And with the printer, 100
+And with the printer, 100.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623446:1889062701:0070/pct:45.618247,12.519123,24.215400,34.854666/!600,600/0/default.jpg"/>
 </td>
@@ -17812,7 +17464,6 @@ And with the printer, 100
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Wbj don&#x27;t you take the papera t  
 They&#x27;re the Unlit of my delight ;  
 Kxcept alMiut election time,  
@@ -17853,7 +17504,7 @@ Why don&#x27;t you take the papers t
 Nor from the printer sneak,  
 Hi-cause you borrow from hi? boy  
 A paper every week.  
-For he who take? the pape
+For he who take? the paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889062801:0304/pct:13.902030,13.929084,9.903861,22.920579/!600,600/0/default.jpg"/>
 </td>
@@ -17867,8 +17518,6 @@ For he who take? the pape
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 THURSADY, : : : JlT.Y 4, 1889.  
 TAKE THE PAPERS.  
 BY N. p. WII.I.IS.  
@@ -17915,7 +17564,8 @@ A paper every week.
 For he who takes the paper,  
 And pays his bills when due,  
 Can live in peace with Cod aud man,  
-And with the printer, too.
+And with the printer, too.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_WelRN11n_ver01%2Fdata%2F1889070401%2F0515.jp2/pct:7.463330,8.250873,9.987058,29.132712/!600,600/0/default.jpg"/>
 </td>
@@ -17929,7 +17579,6 @@ And with the printer, too.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 Why don&#x27;t you take the papers?  
 They&#x27;re the right of my delighe­  
 Except about election time,  
@@ -17973,7 +17622,7 @@ A paper every week.
 For he who takes the paper,  
 And pays his bills when due,  
 Can live in peace with God and man,  
-And with the printer, too
+And with the printer, too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156724:1889080101:0139/pct:14.389641,14.326406,12.265386,29.138095/!600,600/0/default.jpg"/>
 </td>
@@ -17987,7 +17636,7 @@ And with the printer, too
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
- in.  
+in.  
 An old news-monger friend of mine,  
 Once dying with a cough;  
 Desired to see the latest uews,  
@@ -17996,7 +17645,7 @@ I took the paper and I read
 Of some new pills in force.  
 He bought a box, and is he dead?  
 No; hearty *3 a horse.  
-Now, he who takes th
+Now, he who takes the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:idhi:batch_idhi_dickens_ver01:data:sn86091172:00295868065:1891031301:0250/pct:52.543375,78.462644,9.798896,4.727011/!600,600/0/default.jpg"/>
 </td>
@@ -18010,7 +17659,6 @@ Now, he who takes th
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-.  
 &quot;One took a paper and his life  
 Was happier than a king&#x27;s:  
 His children all coultl read ana write  
@@ -18022,7 +17670,7 @@ And killed him as it should.
 Had he been reading of the news  
 At home, like neighbor Jim,  
 I&#x27;ll bet a cent that accident  
-Would ne&#x27;er have happened hi
+Would ne&#x27;er have happened him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_CcSTDw2_ver01%2Fdata%2F1892012801%2F0215.jp2/pct:73.897707,88.692737,10.773075,7.664804/!600,600/0/default.jpg"/>
 </td>
@@ -18038,20 +17686,7 @@ Would ne&#x27;er have happened hi
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-COUNTRY N EWS. PRSMR OUR OWN  
-CORRESPONDENTS. LONGFORD. An old local  
-subscriber to the Examiner, who bel;eves  
-in newspapers, and might therefore in a  
-certain sense be fitly termed &quot;a  
-newspaper man,&quot; has supplit d me with  
-the following for publication, thinking  
-it might be interesting to some of our  
-numerous readers. It is from the Irish  
-MonthlU magazine, and the lines are  
-prefaced thus: -&quot; I know not whence has  
-come this lyric on &#x27;The vital advantage  
-of t&#x27;king a paper. The same reason  
-applies to, mnagazines :I knew two  
+agazines :I knew two  
 friends as much alike As e&#x27;eryou saw tw7  
 stump&#x27;, And no phrsnolngl.t could find A  
 difference in their bumps. One took a  
@@ -18086,7 +17721,7 @@ this aooident Had not befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-. I knew two friends as  
+I knew two friends as  
 much alike As e&#x27;er you saw two stumps.  
 And no phrenologist could find A  
 difference in their bumps. One took a  
@@ -18099,7 +17734,7 @@ down upon his crown, Aud killed him — as
 it should. Had he been reading of the  
 news At home, like neighbour Jim, I&#x27;ll  
 bet a cent this accident Had not  
-befallen him.
+befallen him. 
 </td></tr></table>
 
 ---
@@ -18110,8 +17745,6 @@ befallen him.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 An old neighbor of mine  
 While dying with a cough,  
 Desired to hear the latest news  
@@ -18119,7 +17752,8 @@ While he was going off,
 I took the paper, and I read  
 Of some new pills in force.  
 He bought a box and he is dead ?  
-No—hearty as a horse.
+No—hearty as a horse.  
+
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://iiif.archive.org/image/iiif/2/sim_marketing-communications-1888_1894-01-10_10_2%2Fsim_marketing-communications-1888_1894-01-10_10_2_jp2.zip%2Fsim_marketing-communications-1888_1894-01-10_10_2_jp2%2Fsim_marketing-communications-1888_1894-01-10_10_2_0011.jp2/pct:21.566524,55.703552,24.839056,8.333333/600,/0/default.jpg"/>
 </td>
@@ -18133,7 +17767,6 @@ No—hearty as a horse.
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-:  
 I knew two men as near alike  
 As e&#x27;er you saw two stumps,  
 And no phrenologist could tell  
@@ -18149,7 +17782,7 @@ Him, as it should.
 Had he been reading of the news,  
 At home, like neighbor Jim,  
 I bet a cent that accident  
-Would ne&#x27;er have happened him
+Would ne&#x27;er have happened him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767815:1894032201:0095/pct:35.470361,83.543433,12.355026,8.216823/!600,600/0/default.jpg"/>
 </td>
@@ -18163,8 +17796,6 @@ Would ne&#x27;er have happened him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-  
-  
 I knew two friends so much&#x27; alike  
 As ever you saw two stumps;  
 And no phrenologist could find  
@@ -18181,7 +17812,7 @@ And killed him as itshonld.
 Had he been reading of the news  
 At home, like neighbor Jim,  
 I&#x27;d bet a cent this accident  
-Had not befallen him
+Had not befallen him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://newspapers.digitalnc.org/images/iiif/batch_ncu_LenTop4n_ver01%2Fdata%2F1894041101%2F0624.jp2/pct:18.487395,44.651609,12.002801,10.238653/!600,600/0/default.jpg"/>
 </td>
@@ -18195,7 +17826,7 @@ Had not befallen him
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
-— AND— -• —  
+AND— -• —  
   
 WUy don&#x27;t you lake the E cho L e a d e r ?  
 Really the life of my delight;  
@@ -18214,7 +17845,7 @@ At interest four-fold paid.
 CLOTHING I  
   
 To tuany the arri /al of Tuesday&#x27;s  
-G
+Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
 <img alt="Page image" src="https://oregonnews.uoregon.edu/images/iiif/batch_oru_20180112GraniteNamahageSurroundedByTrees_ver01%2Fdata%2Fsn96088079%2Fprint%2F1895081001%2F0003.jp2/pct:47.951977,15.849057,44.456215,4.770889/!600,600/0/default.jpg"/>
 </td>
